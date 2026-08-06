@@ -1,0 +1,109 @@
+name: Deploy Bias Atlas to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm test
+      # The house-style gate, on the two things in docs/VOICE.md that are rules
+      # rather than signals: a banned word, or an entry over the em-dash limit.
+      # Cheap, and it stops the voice drifting back one commit at a time.
+      - run: npm run style -- --strict
+      # Build for the host that ACTUALLY serves this artifact.
+      #
+      # Until there is a domain, these defaults keep the github.io project path
+      # working — where `base` MUST be /<repo>/ or every stylesheet, script and
+      # internal link 404s.
+      #
+      # GOING LIVE ON A CUSTOM DOMAIN — three steps, in this order:
+      #
+      #   1. DNS: a CNAME record for the subdomain pointing at
+      #      <owner>.github.io.  (Not at the repo, at the user/org host.)
+      #   2. Repository variables:
+      #        SITE_BASE   = /
+      #        SITE_ORIGIN = https://<the domain>
+      #   3. Push. The build writes dist/CNAME from SITE_ORIGIN, which is how
+      #      Pages learns the domain. Every deploy replaces the whole artifact,
+      #      so that file has to be emitted by the build rather than set once by
+      #      hand — otherwise the custom domain silently drops on the next push.
+      - run: npm run build -- --base=${{ vars.SITE_BASE || format('/{0}/', github.event.repository.name) }} --origin=${{ vars.SITE_ORIGIN || format('https://{0}.github.io', github.repository_owner) }}
+      # Whole-site checks on the assembled output, run against the SAME base and
+      # origin the artifact was built with. This is what catches a canonical
+      # still pointing at the old host, a sitemap listing a noindex page, or a
+      # dead internal link — none of which any unit test can see, and all of
+      # which are expensive to find in public. Nothing ships through a failure.
+      - run: npm run preflight -- --base=${{ vars.SITE_BASE || format('/{0}/', github.event.repository.name) }} --origin=${{ vars.SITE_ORIGIN || format('https://{0}.github.io', github.repository_owner) }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      # The build rewrites src/data/lastmod.json with the hashes for THIS build,
+      # so it is the record of which pages actually changed. The IndexNow job
+      # runs after deployment in a fresh checkout, so hand it across rather than
+      # recomputing it.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: lastmod
+          path: src/data/lastmod.json
+          retention-days: 1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  # Tell Bing what changed. Bing's index backs ChatGPT Search and Copilot, so
+  # this is the fastest published-to-retrievable path for a large slice of the
+  # assistant market. Google does not participate in IndexNow — it declined
+  # after evaluating the protocol — so this does nothing there; the sitemap and
+  # Search Console remain the only route to Google.
+  #
+  # OFF BY DEFAULT. This job posts URLs to a third party, which is not something
+  # a deploy should start doing on its own. To switch it on, set the repository
+  # variable:
+  #
+  #   INDEXNOW_ENABLED = true
+  #
+  # Two things must be true first. The key in site.config.json must be served at
+  # the DOMAIN ROOT as <key>.txt (the build writes it), and the site must
+  # actually be at the origin passed below. On a github.io project path the key
+  # file lands under /bias-atlas/ rather than at the root, so verification will
+  # fail there — this becomes useful at the same moment a custom domain does.
+  indexnow:
+    needs: deploy
+    if: vars.INDEXNOW_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/download-artifact@v4
+        with:
+          name: lastmod
+          path: src/data/
+      - run: node build/indexnow.mjs --base=${{ vars.SITE_BASE || format('/{0}/', github.event.repository.name) }} --origin=${{ vars.SITE_ORIGIN || format('https://{0}.github.io', github.repository_owner) }}

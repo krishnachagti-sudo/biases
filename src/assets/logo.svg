@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Bias Atlas">
+  <title>Bias Atlas</title>
+  <rect width="512" height="512" rx="96" fill="#14161c"/>
+  <g fill="none" stroke="#e0a43f" stroke-linejoin="round" stroke-linecap="round">
+    <!-- A globe whose grid is pulled off true: the sphere is drawn straight,
+         the meridians lean, and they lean the same way. A map of a round thing
+         distorts it systematically rather than carelessly, which is the same
+         sentence as the definition of a cognitive bias. -->
+    <circle cx="256" cy="256" r="128" stroke-width="18"/>
+    <g stroke-width="16">
+      <path d="M256 128 C 204 176, 204 336, 256 384"/>
+      <path d="M256 128 C 320 176, 332 336, 292 384"/>
+    </g>
+    <g stroke-width="11">
+      <path d="M136 208 C 192 194, 320 194, 376 208"/>
+      <path d="M128 256 C 188 242, 324 242, 384 256"/>
+      <path d="M136 304 C 192 290, 320 290, 376 304"/>
+    </g>
+  </g>
+</svg>

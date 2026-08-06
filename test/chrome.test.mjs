@@ -1,0 +1,94 @@
+// The shared chrome, and the two things about it that are easy to get wrong in
+// a fork: the brand is read from config rather than written into the templates,
+// and the navigation only ever offers pages that exist.
+//
+// Both were real defects in the port. The brand appeared as a literal in eleven
+// places, and the header carried a twenty-six item menu pointing at pages this
+// site has never had — which preflight would only catch after a full build, and
+// only for the links it could see.
+
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+
+import {
+  BRAND, NAV, head, header, footer, clampTitle, escapeHtml,
+} from '../src/templates/partials.mjs';
+import { hubFaq, hubNav, hubJsonLd } from '../src/templates/hub.mjs';
+
+const CFG = JSON.parse(readFileSync(new URL('../site.config.json', import.meta.url), 'utf8'));
+const BASE = '/bias-atlas/';
+
+test('the brand comes from site.config.json, not from a literal in a template', () => {
+  assert.equal(BRAND, CFG.brand);
+  const chrome = header({ base: BASE }) + footer({ base: BASE });
+  assert.ok(chrome.includes(escapeHtml(CFG.brand)), 'chrome does not name the configured brand');
+  // The name of the site this was forked from must not survive anywhere a
+  // reader or a crawler can see it.
+  assert.doesNotMatch(chrome, /Law Tome/i);
+});
+
+test('the title clamp drops the configured brand suffix, not a hardcoded one', () => {
+  const long = `A Title Long Enough To Need The Suffix Dropped Entirely | ${BRAND}`;
+  const clamped = clampTitle(long);
+  assert.ok(clamped.length <= 60, `clamped title is ${clamped.length} chars`);
+  assert.doesNotMatch(clamped, new RegExp(BRAND));
+});
+
+test('every nav destination is one the site actually builds', () => {
+  // The build emits exactly these page paths. Kept as a literal rather than
+  // imported, so adding a nav item without adding the page fails here instead
+  // of at deploy time.
+  const BUILT = new Set(['', 'browse/', 'about/']);
+  for (const [, href] of NAV) {
+    assert.ok(BUILT.has(href), `nav points at ${href}, which nothing builds`);
+  }
+});
+
+test('the header carries no menu of pages that do not exist', () => {
+  const h = header({ base: BASE });
+  const hrefs = [...h.matchAll(/href="([^"#]*)"/g)]
+    .map((m) => m[1])
+    .filter((u) => u.startsWith(BASE))
+    .map((u) => u.slice(BASE.length));
+  assert.deepEqual([...new Set(hrefs)].sort(), ['', 'about/', 'browse/']);
+});
+
+test('the count reads as an em dash before there are entries, never as zero', () => {
+  // "0 entries" beside a masthead is a worse claim than no claim: it says the
+  // index is empty on purpose rather than unfinished.
+  const h = header({ base: BASE, count: null });
+  assert.match(h, /<span class="count-n">—<\/span>/);
+  assert.doesNotMatch(h, /data-count="0"/);
+  assert.match(header({ base: BASE, count: 1116 }), /data-count="1116">1,116</);
+});
+
+test('head emits no link to a feed while no feed is built', () => {
+  // The autodiscovery link is unconditional in the original. Left that way it
+  // is a dead link on every page of the site.
+  assert.doesNotMatch(head({ title: 'x', base: BASE }), /feed\.xml/);
+});
+
+test('the FAQ block and its FAQPage say the same thing', () => {
+  const { html, jsonld } = hubFaq([{ q: 'Does it replicate?', a: 'Sometimes <a href="#x">not</a>.' }]);
+  assert.match(html, /Does it replicate\?/);
+  assert.equal(jsonld.mainEntity[0].name, 'Does it replicate?');
+  // Structured answers are stripped to text; a FAQPage answering something the
+  // page does not visibly say is the kind Google drops.
+  assert.equal(jsonld.mainEntity[0].acceptedAnswer.text, 'Sometimes not.');
+});
+
+test('hubNav offers the other pages and never the current one', () => {
+  const nav = hubNav('browse/', { base: BASE });
+  assert.doesNotMatch(nav, new RegExp(`href="${BASE}browse/"`));
+  assert.match(nav, new RegExp(`href="${BASE}about/"`));
+});
+
+test('the publisher graph claims no parent organisation', () => {
+  // The fork inherited a node naming Conyso as parent. Whether this site is a
+  // Conyso property has not been decided, and a publisher relationship is a
+  // claim an entity graph is slow to unlearn.
+  const [page] = hubJsonLd({ name: 'Browse', description: 'd', path: 'browse/', origin: 'https://example.com', base: BASE });
+  assert.equal(page.publisher.name, BRAND);
+  assert.equal(page.publisher.parentOrganization, undefined);
+});

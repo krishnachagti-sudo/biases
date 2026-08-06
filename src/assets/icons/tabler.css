@@ -1,0 +1,38 @@
+/*!
+ * Tabler Icons 3.7.0 by tabler - https://tabler.io
+ * License (MIT) - https://github.com/tabler/tabler-icons/blob/master/LICENSE
+ *
+ * SUBSET — this is NOT the upstream webfont.
+ * The font has been subset with fontTools to only the 7 glyphs this site uses,
+ * and this stylesheet trimmed to match. Upstream ships 5,377 icons across
+ * woff2+woff+ttf (~4.3 MB); this ships woff2 only (~1.9 KB).
+ *
+ * TO ADD AN ICON — re-subset from upstream; never hand-edit the binary.
+ * Source of truth is the npm package @tabler/icons-webfont@3.7.0 (keep the
+ * version pinned: codepoints are NOT stable across Tabler majors).
+ * Prereqs: python3 -m pip install fonttools brotli   (brotli is required for
+ * woff2 output; without it fontTools fails with "compress" errors).
+ *
+ *   # 1. get the upstream full font + css (has every codepoint):
+ *   curl -O https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.7.0/dist/fonts/tabler-icons.ttf
+ *   curl -O https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.7.0/dist/tabler-icons.min.css
+ *   # 2. look up the new icon's codepoint in that css (e.g. .ti-star:before{content:"\xxxx"})
+ *   # 3. re-subset, run from THIS directory (src/assets/icons/), appending the new codepoint:
+ *   python3 -m fontTools.subset tabler-icons.ttf \
+ *     --unicodes=U+eb1c,U+f000,U+edff,U+ee8b,U+ea7a,U+eb0a,U+ea1f,<new> \
+ *     --flavor=woff2 --output-file=fonts/tabler-icons.woff2 \
+ *     --no-hinting --desubroutinize --layout-features='' --name-IDs='' --notdef-outline
+ *   # 4. add the matching .ti-<name>:before rule below.
+ *
+ * font-display:block is DELIBERATE — do not "align" it with the swap used by
+ * the text fonts. swap would flash fallback tofu boxes where icons belong.
+ */
+@font-face{font-family:"tabler-icons";font-style:normal;font-weight:400;font-display:block;src:url("fonts/tabler-icons.woff2") format("woff2")}
+.ti{font-family:"tabler-icons" !important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ti-search:before{content:"\eb1c"}
+.ti-arrows-shuffle:before{content:"\f000"}
+.ti-affiliate:before{content:"\edff"}
+.ti-feather:before{content:"\ee8b"}
+.ti-copy:before{content:"\ea7a"}
+.ti-photo:before{content:"\eb0a"}
+.ti-arrow-right:before{content:"\ea1f"}

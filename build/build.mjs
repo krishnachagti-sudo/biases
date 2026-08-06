@@ -1,0 +1,203 @@
+// The whole build. Renders every page into dist/, then writes the files that
+// describe the site to machines: robots, sitemap, manifest, share card, CNAME.
+//
+// Deliberately one short file. The site it was forked from grew a 1,153-line
+// orchestrator emitting 36 page types, and that was earned one page at a time;
+// starting from the finished size would mean carrying the complexity of thirty
+// five page types that do not exist yet.
+//
+// Ordering that matters, and why:
+//
+//   1. Every page is rendered with LASTMOD_TOKEN where its date goes.
+//   2. The pages are hashed WITH the hole still in them, and compared against
+//      the committed manifest to decide which dates move.
+//   3. Only then is the token replaced and the bytes written.
+//
+// Doing it in any other order folds today's date into the hash, so every page
+// differs from yesterday and the sitemap goes back to claiming the whole site
+// changed this morning. See build/lastmod.mjs for the argument.
+
+import { mkdir, writeFile, readFile, cp, rm } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+import { join, dirname } from 'node:path';
+
+import { setAssetVersions, setBuildDate } from '../src/templates/partials.mjs';
+import { homePage } from '../src/templates/home.mjs';
+import { browsePage, aboutPage, notFoundPage } from '../src/templates/pages.mjs';
+import { buildSitemap } from './sitemap.mjs';
+import { LASTMOD_TOKEN, manifestFile, resolve as resolveLastmod, stamp } from './lastmod.mjs';
+import { renderPng, siteCardSvg } from './cards.mjs';
+
+const cfg = JSON.parse(await readFile('site.config.json', 'utf8'));
+const arg = (name) => (process.argv.find((a) => a.startsWith(`--${name}=`)) || '').split('=')[1];
+// CLI flag wins over the config file, and CI always passes both. preflight
+// resolves them the same way; the two must agree or the checks compare a build
+// against an origin it was not built for.
+const base = (arg('base') || cfg.base || '/').replace(/\/*$/, '/');
+const origin = (arg('origin') || cfg.origin || '').replace(/\/$/, '');
+const out = 'dist';
+const assetsDir = 'src/assets';
+
+// The build's own date, in UTC. Passed in rather than read from the clock in
+// twelve places, so a build is reproducible given a date.
+const buildDate = (arg('date') || new Date().toISOString().slice(0, 10));
+setBuildDate(buildDate);
+
+await rm(out, { recursive: true, force: true });
+await mkdir(out, { recursive: true });
+
+// ---- assets ----------------------------------------------------------------
+// Copied before rendering, because the pages reference them by a URL that
+// carries a content hash and the hash cannot be computed before the bytes are.
+await cp(assetsDir, join(out, 'assets'), { recursive: true });
+const shortHash = async (p) => createHash('sha256')
+  .update(await readFile(p))
+  .digest('hex')
+  .slice(0, 8);
+setAssetVersions({
+  'assets/styles.css': await shortHash(join(assetsDir, 'styles.css')),
+  'assets/common.js': await shortHash(join(assetsDir, 'common.js')),
+});
+
+// ---- the corpus ------------------------------------------------------------
+// There isn't one yet. `entries` is the seam every page already reads through,
+// so the day the first entry lands nothing above this line has to change.
+const entries = [];
+// Biases identified and ranked in docs/BIAS-GAP.md but not yet written. Stated
+// on the pages that would otherwise have to explain an empty list, and stated
+// as what it is — a count of work identified, not of work done.
+const MAPPED = 177;
+
+// ---- pages -----------------------------------------------------------------
+// path (base-relative, '' for the root) -> rendered HTML, tokens intact.
+const pages = {
+  '': homePage({ base, origin, count: entries.length, mapped: MAPPED }),
+  'browse/': browsePage({ base, origin, entries, mapped: MAPPED }),
+  'about/': aboutPage({ base, origin, mapped: MAPPED }),
+};
+
+// ---- dates -----------------------------------------------------------------
+const prev = existsSync(manifestFile)
+  ? JSON.parse(await readFile(manifestFile, 'utf8'))
+  : null;
+const { dates, manifest, changed } = resolveLastmod(
+  pages,
+  prev,
+  buildDate,
+  // Normalised out before hashing so the manifest describes content rather than
+  // the host it was built for. Both forms of each prefix — see pageHash.
+  [`${origin}${base}`, base],
+);
+await writeFile(manifestFile, `${JSON.stringify(manifest, null, 2)}\n`);
+
+// ---- write -----------------------------------------------------------------
+const writes = [];
+const write = async (path, body) => {
+  await mkdir(dirname(path), { recursive: true });
+  await writeFile(path, body);
+};
+for (const [path, html] of Object.entries(pages)) {
+  writes.push(write(join(out, path, 'index.html'), stamp(html, dates[path])));
+}
+
+// 404.html at the output root: the host serves it for any unmatched path. It is
+// not in `pages` because it has no URL of its own, so it has no date and must
+// not be in the sitemap.
+writes.push(write(join(out, '404.html'), notFoundPage({ base, origin })));
+
+// robots.txt — a stated policy rather than a default.
+//
+// The generative crawlers are named explicitly and allowed explicitly. A bare
+// `User-agent: *` already permits them, but several of these agents are
+// routinely blocked elsewhere, and a named Allow is an unambiguous statement
+// that this corpus may be read, quoted and cited.
+//
+// Two are widely misunderstood, and getting them wrong is how a site ends up
+// invisible to an assistant while ranking perfectly well in search:
+//
+//   OAI-SearchBot is not GPTBot. GPTBot is training; OAI-SearchBot builds the
+//   index ChatGPT Search answers from. Allowing one does not allow the other.
+//   Anthropic and Perplexity split their agents the same way.
+//
+//   Google-Extended governs training and grounding for Gemini Apps and Vertex
+//   AI. It is NOT the switch for AI Overviews or AI Mode in Google Search —
+//   those run off ordinary Googlebot access plus the snippet controls. Allowing
+//   it is still right for an openly-licensed corpus; it just does not do the
+//   thing it is usually described as doing.
+const AI_AGENTS = [
+  'GPTBot', 'OAI-SearchBot', 'ChatGPT-User',
+  'ClaudeBot', 'Claude-User', 'Claude-SearchBot', 'anthropic-ai',
+  'PerplexityBot', 'Perplexity-User',
+  'Google-Extended', 'Applebot-Extended', 'Bingbot', 'CCBot',
+  'Amazonbot', 'meta-externalagent', 'Bytespider', 'cohere-ai', 'Diffbot',
+];
+writes.push(write(join(out, 'robots.txt'), [
+  '# Bias Atlas — an index of cognitive biases, and what replicated.',
+  '# Text licensed CC BY 4.0. Read it, quote it, cite it; the attribution travels with it.',
+  '',
+  'User-agent: *',
+  'Allow: /',
+  '',
+  '# Answer and generative engines: allowed by name, not merely by default.',
+  ...AI_AGENTS.flatMap((a) => [`User-agent: ${a}`, 'Allow: /']),
+  '',
+  `Sitemap: ${origin}${base}sitemap.xml`,
+  '',
+].join('\n')));
+
+writes.push(write(
+  join(out, 'sitemap.xml'),
+  buildSitemap(Object.keys(pages), `${origin}${base}`, dates),
+));
+
+// The share card, and the app icon, both rasterised from SVG at build time.
+const logoSvg = await readFile(join(assetsDir, 'logo.svg'), 'utf8');
+writes.push(write(join(out, 'icon-512.png'), renderPng(logoSvg)));
+writes.push(write(
+  join(out, 'og', 'site.png'),
+  renderPng(siteCardSvg({ origin, base, count: entries.length })),
+));
+
+writes.push(write(join(out, 'site.webmanifest'), `${JSON.stringify({
+  name: cfg.brand,
+  short_name: cfg.brand,
+  description: 'An index of cognitive biases: what each one claims, who first claimed it, and what happened when the experiments behind it were repeated.',
+  start_url: base,
+  scope: base,
+  display: 'standalone',
+  background_color: '#000000',
+  theme_color: '#000000',
+  icons: [
+    { src: `${base}assets/logo.svg`, type: 'image/svg+xml', sizes: 'any' },
+    { src: `${base}icon-512.png`, type: 'image/png', sizes: '512x512', purpose: 'any' },
+  ],
+}, null, 2)}\n`));
+
+// The IndexNow ownership proof: the key, served as a file named after itself at
+// the site root. Only meaningful once the site is at a domain root — on a
+// github.io project path this lands under /bias-atlas/ rather than /, so
+// verification will fail there. It is written anyway so that going live is a
+// DNS change and not a code change.
+writes.push(write(join(out, `${cfg.indexNowKey}.txt`), `${cfg.indexNowKey}\n`));
+
+// CNAME — how GitHub Pages learns its custom domain. Written only for a
+// root-served site: a base other than '/' means this is a project path or sits
+// behind someone else's rewrite, and claiming a hostname from there would take
+// the domain away from whatever is actually serving it.
+if (base === '/' && origin) {
+  writes.push(write(join(out, 'CNAME'), `${new URL(origin).host}\n`));
+}
+
+await Promise.all(writes);
+
+// The unsubstituted-token check preflight runs is the backstop; this is the
+// early warning, because a token that escapes is a bug in this file rather than
+// in the output.
+const leaked = Object.keys(pages).filter((p) => stamp(pages[p], dates[p]).includes(LASTMOD_TOKEN));
+if (leaked.length) {
+  console.error(`build FAILED — ${leaked.length} pages still carry ${LASTMOD_TOKEN}`);
+  process.exit(1);
+}
+
+console.log(`built ${Object.keys(pages).length} pages for ${origin}${base} — ${changed.length} changed since the last build, ${entries.length} entries in the corpus.`);
