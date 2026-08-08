@@ -1,0 +1,3893 @@
+{
+ "generated": "2026-08-08",
+ "sources": {
+  "list_article": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+  "categories": [
+   "Category:Cognitive biases",
+   "Category:Memory biases"
+  ],
+  "pageviews": "Wikimedia REST pageviews API, en.wikipedia, all-access, user agents only, monthly 2025-08 through 2026-07, averaged"
+ },
+ "candidates": [
+  {
+   "title": "Dunning–Kruger effect",
+   "views_per_month": 122562,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Impostor syndrome",
+   "views_per_month": 66373,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Impostor Syndrome"
+   ]
+  },
+  {
+   "title": "Anthropomorphism",
+   "views_per_month": 61440,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Anthropomorphism#Psychology"
+   ]
+  },
+  {
+   "title": "Survivorship bias",
+   "views_per_month": 53600,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Pareidolia",
+   "views_per_month": 43738,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Cognitive dissonance",
+   "views_per_month": 42857,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "List of cognitive biases",
+   "views_per_month": 37900,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": [
+    "List of memory biases"
+   ],
+   "excluded": "a list article, not a bias"
+  },
+  {
+   "title": "Thinking, Fast and Slow",
+   "views_per_month": 31977,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Decision-making",
+    "Category:Heuristics"
+   ],
+   "redirects_here": [],
+   "excluded": "a book"
+  },
+  {
+   "title": "Confirmation bias",
+   "views_per_month": 25433,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Frequency illusion",
+   "views_per_month": 20921,
+   "family": "Recall",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Apophenia",
+   "views_per_month": 18680,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Sunk cost",
+   "views_per_month": 16446,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Plan continuation bias"
+   ]
+  },
+  {
+   "title": "Nominative determinism",
+   "views_per_month": 16322,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Barnum effect",
+   "views_per_month": 16019,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Halo effect",
+   "views_per_month": 15466,
+   "family": "Opinion reporting",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Cognitive bias",
+   "views_per_month": 15280,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "the parent concept, not one bias"
+  },
+  {
+   "title": "Fear of missing out",
+   "views_per_month": 15092,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "False memory",
+   "views_per_month": 14221,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Psychological trauma",
+   "views_per_month": 13154,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Gambler's fallacy",
+   "views_per_month": 11980,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Hawthorne effect",
+   "views_per_month": 11779,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Stereotype",
+   "views_per_month": 10683,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Prejudices"
+   ],
+   "redirects_here": [
+    "Stereotyping"
+   ],
+   "excluded": "the parent concept; specific stereotype effects get their own entries"
+  },
+  {
+   "title": "Confabulation",
+   "views_per_month": 10263,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Psychological projection",
+   "views_per_month": 9985,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Pygmalion effect",
+   "views_per_month": 9855,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Zeigarnik effect",
+   "views_per_month": 9465,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Groupthink",
+   "views_per_month": 9161,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Self-fulfilling prophecy",
+   "views_per_month": 9041,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Women-are-wonderful effect",
+   "views_per_month": 8996,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Women are wonderful effect"
+   ]
+  },
+  {
+   "title": "Locus of control",
+   "views_per_month": 8898,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Magical thinking",
+   "views_per_month": 8439,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Berkson's paradox",
+   "views_per_month": 8310,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Time perception",
+   "views_per_month": 8231,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Tachypsychia"
+   ]
+  },
+  {
+   "title": "Stroop effect",
+   "views_per_month": 8100,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Fundamental attribution error",
+   "views_per_month": 7866,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Base rate fallacy",
+   "views_per_month": 7720,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Anthropocentrism",
+   "views_per_month": 7615,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Anthropocentric thinking"
+   ]
+  },
+  {
+   "title": "Nudge theory",
+   "views_per_month": 7517,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a policy programme, not a bias"
+  },
+  {
+   "title": "Just-world fallacy",
+   "views_per_month": 7177,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Curse of knowledge",
+   "views_per_month": 6874,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Childhood amnesia",
+   "views_per_month": 6771,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "The Century of the Self",
+   "views_per_month": 6502,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a documentary"
+  },
+  {
+   "title": "Embodied cognition",
+   "views_per_month": 6190,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Illusory truth effect",
+   "views_per_month": 6148,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Data dredging",
+   "views_per_month": 6107,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "P-hacking"
+   ],
+   "excluded": "a research malpractice, not a bias in judgement"
+  },
+  {
+   "title": "Loss aversion",
+   "views_per_month": 6083,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Law of the instrument",
+   "views_per_month": 5998,
+   "family": "Decision",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Maslow's hammer"
+   ]
+  },
+  {
+   "title": "Mere-exposure effect",
+   "views_per_month": 5840,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": [
+    "Mere exposure effect"
+   ]
+  },
+  {
+   "title": "Texas sharpshooter fallacy",
+   "views_per_month": 5832,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Anchoring effect",
+   "views_per_month": 5782,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases",
+    "Category:Heuristics"
+   ],
+   "redirects_here": [
+    "Anchoring (cognitive bias)"
+   ]
+  },
+  {
+   "title": "Cognitive distortion",
+   "views_per_month": 5704,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a clinical umbrella term covering many entries"
+  },
+  {
+   "title": "Negativity bias",
+   "views_per_month": 5306,
+   "family": "Recall",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Bounded rationality",
+   "views_per_month": 5240,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a theory of the whole system, too broad for one entry"
+  },
+  {
+   "title": "Availability heuristic",
+   "views_per_month": 4978,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Heuristics"
+   ],
+   "redirects_here": [
+    "availability heuristic"
+   ]
+  },
+  {
+   "title": "Helicopter hieroglyphs",
+   "views_per_month": 4834,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a single archaeological episode"
+  },
+  {
+   "title": "Weber–Fechner law",
+   "views_per_month": 4796,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Reactance (psychology)",
+   "views_per_month": 4700,
+   "family": "Decision",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Selection bias",
+   "views_per_month": 4511,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Illusory superiority",
+   "views_per_month": 4387,
+   "family": "Recall",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Bandwagon effect",
+   "views_per_month": 4374,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Not invented here",
+   "views_per_month": 4368,
+   "family": "Decision",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "IKEA effect",
+   "views_per_month": 4118,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Spotlight effect",
+   "views_per_month": 4097,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Mindset",
+   "views_per_month": 4060,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Spiral of silence",
+   "views_per_month": 4037,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Framing (social sciences)",
+   "views_per_month": 3937,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Planning fallacy",
+   "views_per_month": 3925,
+   "family": "Estimation",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Cryptomnesia",
+   "views_per_month": 3849,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Hindsight bias",
+   "views_per_month": 3569,
+   "family": "Recall",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "False memory syndrome",
+   "views_per_month": 3426,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Endowment effect",
+   "views_per_month": 3363,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Salience (neuroscience)",
+   "views_per_month": 3342,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Salience bias"
+   ]
+  },
+  {
+   "title": "False consensus effect",
+   "views_per_month": 3320,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Conjunction fallacy",
+   "views_per_month": 3240,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Woozle effect",
+   "views_per_month": 3220,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Rosy retrospection",
+   "views_per_month": 3208,
+   "family": "Recall",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Heuristics",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Pollyanna principle",
+   "views_per_month": 3179,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": [
+    "Positivity effect"
+   ]
+  },
+  {
+   "title": "Recency bias",
+   "views_per_month": 3141,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Pretty privilege",
+   "views_per_month": 3092,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a social phenomenon, covered by physical attractiveness stereotype"
+  },
+  {
+   "title": "Motivated reasoning",
+   "views_per_month": 3008,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Mean world syndrome",
+   "views_per_month": 2977,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Overconfidence effect",
+   "views_per_month": 2966,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Framing effect (psychology)",
+   "views_per_month": 2895,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Peak–end rule",
+   "views_per_month": 2825,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Heuristics"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Heuristic (psychology)",
+   "views_per_month": 2809,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Heuristics"
+   ],
+   "redirects_here": [],
+   "excluded": "the parent concept, not one bias"
+  },
+  {
+   "title": "Wishful thinking",
+   "views_per_month": 2790,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Tip of the tongue",
+   "views_per_month": 2788,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Cross-race effect",
+   "views_per_month": 2754,
+   "family": "Recall",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Hyperbolic discounting",
+   "views_per_month": 2678,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Escalation of commitment",
+   "views_per_month": 2649,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Reciprocity (social psychology)",
+   "views_per_month": 2631,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Reciprocity bias"
+   ]
+  },
+  {
+   "title": "Testing effect",
+   "views_per_month": 2617,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Attribution (psychology)",
+   "views_per_month": 2595,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Rationalization (psychology)",
+   "views_per_month": 2592,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Denial",
+   "views_per_month": 2528,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "In-group favoritism",
+   "views_per_month": 2526,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Ingroup bias",
+    "Out-group bias"
+   ]
+  },
+  {
+   "title": "Hungry judge effect",
+   "views_per_month": 2441,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Decision-making"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Psychological pricing",
+   "views_per_month": 2438,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Optimism bias",
+   "views_per_month": 2430,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Pessimism bias"
+   ]
+  },
+  {
+   "title": "Implicit-association test",
+   "views_per_month": 2415,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Implicit association test"
+   ]
+  },
+  {
+   "title": "Zero-sum thinking",
+   "views_per_month": 2414,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Heuristics"
+   ],
+   "redirects_here": [
+    "Zero-sum bias"
+   ]
+  },
+  {
+   "title": "Depressive realism",
+   "views_per_month": 2349,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Self-deception",
+   "views_per_month": 2348,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Moral luck",
+   "views_per_month": 2325,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Cheerleader effect",
+   "views_per_month": 2309,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Status quo bias",
+   "views_per_month": 2305,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Spacing effect",
+   "views_per_month": 2280,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "spacing effect"
+   ]
+  },
+  {
+   "title": "Region-beta paradox",
+   "views_per_month": 2230,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Normalcy bias",
+   "views_per_month": 2191,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Automation bias",
+   "views_per_month": 2004,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Declinism",
+   "views_per_month": 2004,
+   "family": "Recall",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Illusion of control",
+   "views_per_month": 1999,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Ostrich effect",
+   "views_per_month": 1983,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Self-serving bias",
+   "views_per_month": 1981,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Attribution bias",
+   "views_per_month": 1858,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Decoy effect",
+   "views_per_month": 1854,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Social-desirability bias",
+   "views_per_month": 1814,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Social desirability bias"
+   ]
+  },
+  {
+   "title": "Pratfall effect",
+   "views_per_month": 1786,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Serial-position effect",
+   "views_per_month": 1782,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "recency effect"
+   ]
+  },
+  {
+   "title": "Semmelweis reflex",
+   "views_per_month": 1762,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Boomerang effect (psychology)",
+   "views_per_month": 1684,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Picture superiority effect",
+   "views_per_month": 1683,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Clustering illusion",
+   "views_per_month": 1676,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Von Restorff effect",
+   "views_per_month": 1664,
+   "family": "Recall",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": [
+    "von Restorff effect"
+   ]
+  },
+  {
+   "title": "Google effect",
+   "views_per_month": 1645,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Minimisation (psychology)",
+   "views_per_month": 1639,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Intellectual humility",
+   "views_per_month": 1630,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Decision-making",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Risk compensation",
+   "views_per_month": 1629,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Physical attractiveness stereotype",
+   "views_per_month": 1617,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Exaggeration",
+   "views_per_month": 1613,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Authority bias",
+   "views_per_month": 1609,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Illusion of explanatory depth",
+   "views_per_month": 1550,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Reminiscence bump",
+   "views_per_month": 1534,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Lost in the mall technique",
+   "views_per_month": 1534,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "First impression (psychology)",
+   "views_per_month": 1504,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Rhyme-as-reason effect",
+   "views_per_month": 1454,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Rhyme as reason effect"
+   ]
+  },
+  {
+   "title": "Hostile attribution bias",
+   "views_per_month": 1450,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Overjustification effect",
+   "views_per_month": 1439,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Inequity aversion",
+   "views_per_month": 1426,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "State-dependent memory",
+   "views_per_month": 1421,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Name-letter effect",
+   "views_per_month": 1419,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Transposed letter effect",
+   "views_per_month": 1406,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "End-of-history illusion",
+   "views_per_month": 1400,
+   "family": "Opinion reporting",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Suggestibility",
+   "views_per_month": 1399,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Suggestibility#External"
+   ]
+  },
+  {
+   "title": "Thomas theorem",
+   "views_per_month": 1398,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Implicit stereotype",
+   "views_per_month": 1393,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Unconscious bias"
+   ]
+  },
+  {
+   "title": "Golem effect",
+   "views_per_month": 1367,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Hot hand",
+   "views_per_month": 1362,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Hot-hand fallacy"
+   ]
+  },
+  {
+   "title": "Bias blind spot",
+   "views_per_month": 1356,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Misinformation effect",
+   "views_per_month": 1344,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Observer-expectancy effect",
+   "views_per_month": 1316,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Preparedness paradox",
+   "views_per_month": 1312,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Ludic fallacy",
+   "views_per_month": 1286,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Response bias",
+   "views_per_month": 1266,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Courtesy bias"
+   ]
+  },
+  {
+   "title": "Choice-supportive bias",
+   "views_per_month": 1257,
+   "family": "Recall",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Naïve realism (psychology)",
+   "views_per_month": 1236,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Introspection illusion",
+   "views_per_month": 1207,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Agent detection",
+   "views_per_month": 1201,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Agent detection bias"
+   ]
+  },
+  {
+   "title": "Affective forecasting",
+   "views_per_month": 1199,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Behavioral economics"
+   ],
+   "redirects_here": [
+    "Projection bias"
+   ]
+  },
+  {
+   "title": "Information cascade",
+   "views_per_month": 1197,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Horn effect",
+   "views_per_month": 1182,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Child vehicular heat stroke deaths",
+   "views_per_month": 1182,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": [],
+   "excluded": "an event class, not a bias"
+  },
+  {
+   "title": "Illusory correlation",
+   "views_per_month": 1136,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Social facilitation",
+   "views_per_month": 1134,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Hot-cold empathy gap",
+   "views_per_month": 1130,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "System justification theory",
+   "views_per_month": 1121,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "System justification"
+   ]
+  },
+  {
+   "title": "Selective perception",
+   "views_per_month": 1110,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Déformation professionnelle",
+   "views_per_month": 1110,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Functional fixedness",
+   "views_per_month": 1106,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Birthday-number effect",
+   "views_per_month": 1056,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Third-person effect",
+   "views_per_month": 1051,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Chronological snobbery",
+   "views_per_month": 1038,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "chronological snobbery"
+   ]
+  },
+  {
+   "title": "Illusion of transparency",
+   "views_per_month": 1032,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Deviancy amplification spiral",
+   "views_per_month": 1032,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Money illusion",
+   "views_per_month": 1031,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Heuristics"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Motonormativity",
+   "views_per_month": 1030,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Observer bias",
+   "views_per_month": 996,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Experimenter's bias"
+   ]
+  },
+  {
+   "title": "Self-licensing",
+   "views_per_month": 985,
+   "family": "Opinion reporting",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Moral credential"
+   ]
+  },
+  {
+   "title": "Scarcity (social psychology)",
+   "views_per_month": 975,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Scarcity heuristic"
+   ]
+  },
+  {
+   "title": "Memory inhibition",
+   "views_per_month": 965,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": [
+    "Part-list cueing effect"
+   ]
+  },
+  {
+   "title": "Persuasive definition",
+   "views_per_month": 965,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Motivated forgetting",
+   "views_per_month": 963,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Outcome bias",
+   "views_per_month": 938,
+   "family": "Estimation",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Disposition effect",
+   "views_per_month": 937,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Human–robot interaction",
+   "views_per_month": 916,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "human–robot interaction"
+   ]
+  },
+  {
+   "title": "Omission bias",
+   "views_per_month": 902,
+   "family": "Opinion reporting",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Out-group homogeneity",
+   "views_per_month": 884,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Outgroup homogeneity bias"
+   ]
+  },
+  {
+   "title": "Socioemotional selectivity theory",
+   "views_per_month": 882,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Present bias",
+   "views_per_month": 874,
+   "family": "Decision",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Social perception",
+   "views_per_month": 874,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Contrast effect",
+   "views_per_month": 870,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Watching-eye effect",
+   "views_per_month": 866,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Levels of processing model",
+   "views_per_month": 863,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": [
+    "Levels-of-processing effect"
+   ]
+  },
+  {
+   "title": "Self-defeating prophecy",
+   "views_per_month": 856,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Identifiable victim effect",
+   "views_per_month": 853,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Turkey illusion",
+   "views_per_month": 839,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Fading affect bias",
+   "views_per_month": 829,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Generation effect",
+   "views_per_month": 829,
+   "family": "Recall",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Egocentric bias",
+   "views_per_month": 807,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Aesthetic–usability effect",
+   "views_per_month": 802,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Attribute substitution",
+   "views_per_month": 800,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Effort justification",
+   "views_per_month": 796,
+   "family": "Decision",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Jumping to conclusions",
+   "views_per_month": 788,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Mistakes Were Made (but Not by Me)",
+   "views_per_month": 784,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a book"
+  },
+  {
+   "title": "Ultimate attribution error",
+   "views_per_month": 776,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Error management theory",
+   "views_per_month": 754,
+   "family": "Estimation",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Sexual overperception bias"
+   ]
+  },
+  {
+   "title": "Favourite-longshot bias",
+   "views_per_month": 749,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Vaticinium ex eventu",
+   "views_per_month": 743,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Hostile media effect",
+   "views_per_month": 738,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Actor–observer asymmetry",
+   "views_per_month": 732,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Actor-observer bias"
+   ]
+  },
+  {
+   "title": "Positive illusions",
+   "views_per_month": 724,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Attentional bias",
+   "views_per_month": 710,
+   "family": "Recall",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Psychological inertia",
+   "views_per_month": 710,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Political bias",
+   "views_per_month": 692,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Prejudices"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Less-is-better effect",
+   "views_per_month": 691,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Emotional reasoning",
+   "views_per_month": 685,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Ambiguity effect",
+   "views_per_month": 677,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Gender schema theory",
+   "views_per_month": 662,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Misattribution of memory",
+   "views_per_month": 649,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": [
+    "Misattribution of memory#Source confusion"
+   ]
+  },
+  {
+   "title": "Naïve cynicism",
+   "views_per_month": 648,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Default effect",
+   "views_per_month": 642,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Action bias",
+   "views_per_month": 637,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Attention inequality",
+   "views_per_month": 620,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Social comparison bias",
+   "views_per_month": 619,
+   "family": "Decision",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Insensitivity to sample size",
+   "views_per_month": 614,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Recency illusion",
+   "views_per_month": 609,
+   "family": "Recall",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Cultural bias",
+   "views_per_month": 598,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Truth-default theory",
+   "views_per_month": 594,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Truth bias"
+   ]
+  },
+  {
+   "title": "Scope neglect",
+   "views_per_month": 580,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Plant blindness",
+   "views_per_month": 573,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Sociological Francoism",
+   "views_per_month": 573,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": [],
+   "excluded": "a national-historical thesis"
+  },
+  {
+   "title": "Selective amnesia",
+   "views_per_month": 562,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Surrogation",
+   "views_per_month": 556,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Conservatism (belief revision)",
+   "views_per_month": 554,
+   "family": "Estimation",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Subjective validation",
+   "views_per_month": 544,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Compassion fade",
+   "views_per_month": 539,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Group attribution error",
+   "views_per_month": 536,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Prejudices"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Self-reference effect",
+   "views_per_month": 535,
+   "family": "Recall",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Affinity bias",
+   "views_per_month": 527,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Availability cascade",
+   "views_per_month": 519,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Information bias (psychology)",
+   "views_per_month": 507,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Zero-risk bias",
+   "views_per_month": 499,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Belief bias",
+   "views_per_month": 495,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Psychology of climate change denial",
+   "views_per_month": 480,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Illusion of asymmetric insight",
+   "views_per_month": 478,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Cognitive bias mitigation",
+   "views_per_month": 476,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [],
+   "excluded": "about countermeasures, not a bias"
+  },
+  {
+   "title": "Fluency heuristic",
+   "views_per_month": 441,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Euphoric recall",
+   "views_per_month": 428,
+   "family": "Recall",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "False-uniqueness effect",
+   "views_per_month": 422,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "False uniqueness bias"
+   ]
+  },
+  {
+   "title": "Familiarity heuristic",
+   "views_per_month": 420,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Heuristics"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Telescoping effect",
+   "views_per_month": 412,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Time-saving bias",
+   "views_per_month": 404,
+   "family": "Estimation",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Impact bias",
+   "views_per_month": 400,
+   "family": "Estimation",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Social amnesia",
+   "views_per_month": 397,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Outgroup favoritism",
+   "views_per_month": 396,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Eyewitness memory",
+   "views_per_month": 391,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Recall bias",
+   "views_per_month": 390,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Cue-dependent forgetting",
+   "views_per_month": 384,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Hard–easy effect",
+   "views_per_month": 378,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Proportionality bias",
+   "views_per_month": 361,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Regression fallacy",
+   "views_per_month": 361,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Illusion of validity",
+   "views_per_month": 357,
+   "family": "Estimation",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Neglect of probability",
+   "views_per_month": 352,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Memory conformity",
+   "views_per_month": 350,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Blue–seven phenomenon",
+   "views_per_month": 348,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Self-referential encoding",
+   "views_per_month": 348,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Perceptual psychology",
+   "views_per_month": 346,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Extension neglect",
+   "views_per_month": 330,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Social projection",
+   "views_per_month": 323,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Bizarreness effect",
+   "views_per_month": 306,
+   "family": "Recall",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Shooting bias",
+   "views_per_month": 302,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Congruence bias",
+   "views_per_month": 299,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Defensive attribution hypothesis",
+   "views_per_month": 296,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Pseudocertainty effect",
+   "views_per_month": 293,
+   "family": "Decision",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Focusing illusion",
+   "views_per_month": 292,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Subject-expectancy effect",
+   "views_per_month": 288,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Duration neglect",
+   "views_per_month": 284,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Denomination effect",
+   "views_per_month": 279,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Debiasing",
+   "views_per_month": 277,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Behavioral economics",
+    "Category:Cognitive biases",
+    "Category:Decision-making",
+    "Category:Heuristics"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Groupshift",
+   "views_per_month": 275,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Modality effect",
+   "views_per_month": 267,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Reactive devaluation",
+   "views_per_month": 266,
+   "family": "Decision",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Well travelled road effect",
+   "views_per_month": 264,
+   "family": "Decision",
+   "subfamily": "Inertia",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Implicit cognition",
+   "views_per_month": 261,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Worse-than-average effect",
+   "views_per_month": 259,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Distinction bias",
+   "views_per_month": 258,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Additive bias",
+   "views_per_month": 255,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Othello error",
+   "views_per_month": 253,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Observational interpretation fallacy",
+   "views_per_month": 247,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Self-persuasion",
+   "views_per_month": 247,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Ballot order effect",
+   "views_per_month": 246,
+   "family": "Decision",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Straight and Crooked Thinking",
+   "views_per_month": 244,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Extrinsic incentives bias",
+   "views_per_month": 239,
+   "family": "Estimation",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Hypocognition",
+   "views_per_month": 238,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Subadditivity effect",
+   "views_per_month": 231,
+   "family": "Estimation",
+   "subfamily": "Baseline",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Restraint bias",
+   "views_per_month": 231,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Imagination inflation",
+   "views_per_month": 231,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Cognitive bias in animals",
+   "views_per_month": 225,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Certainty effect",
+   "views_per_month": 224,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Pro-innovation bias",
+   "views_per_month": 223,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Trait ascription bias",
+   "views_per_month": 220,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Proximity bias",
+   "views_per_month": 220,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Narrative bias",
+   "views_per_month": 216,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Social influence bias",
+   "views_per_month": 216,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Probability matching",
+   "views_per_month": 200,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Decision-making"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Satisfaction paradox",
+   "views_per_month": 200,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Next-in-line effect",
+   "views_per_month": 199,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Wason verbal illusion",
+   "views_per_month": 198,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Positivity offset",
+   "views_per_month": 181,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Psychology in cybersecurity",
+   "views_per_month": 181,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Neurorealism",
+   "views_per_month": 175,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Repetition blindness",
+   "views_per_month": 174,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Blissful ignorance effect",
+   "views_per_month": 173,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Intentionality bias",
+   "views_per_month": 166,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Denominator neglect",
+   "views_per_month": 162,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Interpretive bias",
+   "views_per_month": 155,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Precision bias",
+   "views_per_month": 142,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Benjamin Franklin effect",
+   "views_per_month": 137,
+   "family": "Opinion reporting",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": [
+    "Ben Franklin effect"
+   ]
+  },
+  {
+   "title": "Selective omission",
+   "views_per_month": 137,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Cheves Perky",
+   "views_per_month": 136,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": [
+    "Perky effect"
+   ]
+  },
+  {
+   "title": "Accentuation effect",
+   "views_per_month": 130,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Common source bias",
+   "views_per_month": 124,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Social cryptomnesia",
+   "views_per_month": 121,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Self-propaganda",
+   "views_per_month": 121,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Adaptive bias",
+   "views_per_month": 119,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases",
+    "Category:Decision-making"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Source bias",
+   "views_per_month": 119,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Leveling and sharpening",
+   "views_per_month": 113,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Serial memory processing",
+   "views_per_month": 107,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Motivated tactician",
+   "views_per_month": 102,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Puritanical bias",
+   "views_per_month": 96,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Boundary extension",
+   "views_per_month": 94,
+   "family": "Recall",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Mnemic neglect",
+   "views_per_month": 86,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Team error",
+   "views_per_month": 73,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Perceptual defense",
+   "views_per_month": 67,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "End-of-the-day betting effect",
+   "views_per_month": 64,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Failure bias",
+   "views_per_month": 64,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Psychology of previous investment",
+   "views_per_month": 46,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Cognitive biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Spectral Evidence (1997 book)",
+   "views_per_month": 31,
+   "family": null,
+   "subfamily": null,
+   "in_list_article": false,
+   "categories": [
+    "Category:Memory biases"
+   ],
+   "redirects_here": []
+  },
+  {
+   "title": "Saying is believing effect",
+   "views_per_month": 1,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Domain neglect",
+   "views_per_month": 1,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Teleological bias",
+   "views_per_month": 1,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Quantification bias",
+   "views_per_month": 0,
+   "family": "Hypothesis assessment",
+   "subfamily": "Association",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Value selection bias",
+   "views_per_month": 0,
+   "family": "Hypothesis assessment",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Assumed similarity bias",
+   "views_per_month": 0,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Context neglect bias",
+   "views_per_month": 0,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "G. I. Joe fallacy",
+   "views_per_month": 0,
+   "family": "Causal attribution",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Objectivity illusion",
+   "views_per_month": 0,
+   "family": "Causal attribution",
+   "subfamily": "Self-perspective",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Illusion of learning",
+   "views_per_month": 0,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  },
+  {
+   "title": "Misinterpreted-effort hypothesis",
+   "views_per_month": 0,
+   "family": "Opinion reporting",
+   "subfamily": "Outcome",
+   "in_list_article": true,
+   "categories": [],
+   "redirects_here": []
+  }
+ ]
+}

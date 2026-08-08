@@ -1,270 +1,112 @@
 # Build order
 
-The 177 cognitive biases drawn from Wikipedia's bias categories, ranked by how
-often each is looked up. It is one of two inputs to what gets written, and the
-weaker one. Read the next section before using it.
+What gets written, in what order, and why. The machine-readable version is
+`src/data/candidate-set.json`; this file is the argument behind it.
 
-The order is by how often each name is looked up on English Wikipedia — twelve
-months to July 2026, everything above 300 views a month. That is a measure of
-demand, not a traffic forecast: it says which of these people already go looking
-for, which is the only ranking available before the site has any traffic of its
-own.
+## What replaced the old list
 
-Two things this list is not. It is not a promise about what will be written, and
-it is not a claim that every row is a cognitive bias — Wikipedia's category
-contains works, historical events and concepts too broad for an entry, so the
-sixteen at the bottom need a human call rather than a filter. The provenance of
-the list itself, including the ranking bug that nearly inverted it, is in the
-commit that added it to the Law Tome repository.
+The first version of this file ranked 177 names taken from Wikipedia's
+`Category:Cognitive_biases`. That list was wrong in a way that only shows up
+when you look at what is missing from it: **confirmation bias, anchoring,
+Dunning–Kruger, the availability heuristic, the halo effect and survivorship
+bias were all absent.** Its top row was Pareidolia at 43,737 views a month.
+Dunning–Kruger alone gets 122,562. A ranking that omits the six best-known
+cognitive biases is not a ranking of cognitive biases.
 
-## The decision this list did not survive
+The cause was the source. `Category:Cognitive_biases` is a maintenance category
+that a lot of well-known articles simply do not carry, and it also contains
+works, historical events and concepts too broad for an entry. The category was
+doing two jobs badly: deciding membership, and implying demand.
 
-**Written first, ranked by demand second.** The site leads with what happened
-when a bias was retested, so an entry with nothing to say there is an entry
-without the thing that makes this site worth reading. Coverage is therefore
-chosen by what the literature can support, and the ranking below decides the
-order *within* that, not the shape of the site.
+## How the candidate set is built now
 
-That inverts what this file originally said, for a measured reason. Matching all
-177 names against FORRT's Replication Database:
+Two sources, one of them curated by hand upstream:
 
-| | |
-|---:|---|
-| 438 | distinct effects tracked in FReD |
-| 29 | of them carry any coded outcome, and most are priming paradigms |
-| 15 | of the 177 match FReD by exact name |
-| **1** | of those 15 has enough data to state a verdict |
+1. **[List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)** — the
+   article, not the category. Every row there is a named bias with a one-line
+   description and at least one citation, grouped under the taxonomy the article
+   itself uses: Estimation, Decision, Hypothesis assessment, Causal attribution,
+   Recall, Opinion reporting. 206 unique articles. Membership here is treated as
+   sufficient for a candidate.
+2. **`Category:Cognitive biases` and `Category:Memory biases`** — for names the
+   list article misses. 143 further candidates.
 
-Loose matching gets to about sixteen and starts producing nonsense — it pairs
-"Cognitive bias" with "Cognitive Dissonance" and "Stereotype" with "Stereotype
-threat" — which is the failure this project has already been burned by once, in
-the Wikidata audit on the Law Tome. So the ceiling is real: replication cannot be
-an automated field over this list.
+`Category:Decision-making`, `Category:Heuristics`, `Category:Behavioral
+economics` and `Category:Prejudices` were pulled and then dropped. They
+contributed power of attorney, operations research, admissible heuristic,
+parallel tempering, cross-entropy method and snob — the first two are unrelated,
+the middle three are computer-science heuristics that share a word with the
+psychology, and the last is a social attitude rather than a judgement error.
+Keeping them would have meant hand-filtering several hundred rows to recover a
+handful of real entries.
 
-**And the best entries are not on this list at all.** The 177 come from
-Wikipedia's `Category:Cognitive_biases`. The famous replication stories —
-ego depletion, power posing, facial feedback, social priming — are not in that
-category, so the ranking never saw them. Ego depletion is entry no. 2 here and
-appears nowhere below.
+Redirects were resolved to canonical titles before deduplication, so
+`Anchoring (cognitive bias)` and `Anchoring effect` are one candidate and not
+two. The redirect names are kept per candidate as `redirects_here`; they are the
+alias list a reader is likely to search for.
+
+**349 candidates, 16 excluded by hand, 333 to write.** Each exclusion carries its
+reason in the JSON — books (*Thinking, Fast and Slow*), parent concepts
+(`Cognitive bias`, `Heuristic`), research malpractices that are not judgement
+errors (`Data dredging`, `P-hacking`), and one-off events.
+
+## Demand
+
+Twelve-month mean of monthly Wikipedia pageviews, August 2025 to July 2026,
+all-access, user agents only, from the Wikimedia REST pageviews API. It measures
+what people already go looking for, which is the only demand signal available
+before the site has traffic of its own. It is not a traffic forecast.
+
+## The order
+
+**Written first, ranked by demand second — but the gap between the two is much
+smaller than it looked.**
+
+The site leads with what happened when a bias was retested, so an entry with
+nothing to say there is missing the thing that makes it worth reading. That was
+the reason the old file demoted its own ranking: matching the 177 names against
+FORRT's Replication Database produced exactly one usable verdict, and the
+strongest entries — ego depletion, facial feedback, power posing — were not on
+the list at all.
+
+The candidate set fixes the second half of that problem. The famous
+replication-crisis effects are in the list article, so they are candidates now.
+The first half stands: FReD is an index rather than a source, and a replication
+verdict has to be read off the paper.
 
 So the working order is:
 
-1. **The retested set.** Every bias with a replication record that can be read
-   off a paper: the multi-lab projects, the Registered Replication Reports, Many
-   Labs 1 through 5, the Reproducibility Project. Perhaps forty to sixty entries,
-   each carrying the thing the site is for. This is not enumerated yet; it is
-   assembled from the replication literature rather than from a category listing.
-2. **The list below**, in the order given, for the biases people actually look
-   up. Most will read `none-located`, and that is a true and useful thing for a
-   page to say — but a site that is mostly `none-located` is a better-written
-   encyclopedia rather than a different one, which is why it is second.
+1. **High demand with a real replication record.** The top of the ranking
+   intersected with the multi-lab literature: Many Labs 1–5, the Registered
+   Replication Reports, the Reproducibility Project: Psychology, the Social
+   Sciences Replication Project. These are the entries that are both looked up
+   and worth reading. This is the front of the queue.
+2. **High demand, no replication record located.** Written anyway, in ranking
+   order, saying plainly that no replication attempt was found. That is a true
+   statement about the literature and a more useful one than silence — but it is
+   not the reason this site exists, so it follows the first group.
+3. **The tail**, in ranking order.
 
-The overlap with the Law Tome is unresolved and belongs to the first group: 66 of
-the names below already have entries there. Two of my own sites holding
-self-canonical pages on anchoring would be the same duplicate-content problem the
-Law Tome already has across two hosts. Whatever the resolution, it is a decision
-about canonical URLs and not about which prose is better.
+`none-located` is a verdict, not a gap. What it must never become is the
+default that gets written because checking was hard: the state means a search
+was made and came up empty, and every entry carrying it says where the search
+looked.
 
-## Write these
+## Overlap with The Law Tome
 
+66 of these names already have entries on The Law Tome. Two of my own sites
+holding self-canonical pages on anchoring is the same duplicate-content problem
+the Law Tome already has across two hosts. Unresolved, and it is a decision
+about canonical URLs rather than about which prose is better.
 
-| views/mo | entry |
-|---:|---|
-| 43,737 | Pareidolia |
-| 20,920 | Frequency illusion |
-| 18,679 | Apophenia |
-| 16,446 | Sunk cost |
-| 16,321 | Nominative determinism |
-| 16,019 | Barnum effect |
-| 15,092 | Fear of missing out |
-| 14,221 | False memory |
-| 11,751 | Boiling frog |
-| 10,262 | Confabulation |
-| 9,985 | Psychological projection |
-| 9,041 | Self-fulfilling prophecy |
-| 8,898 | Locus of control |
-| 8,438 | Magical thinking |
-| 7,177 | Just-world fallacy |
-| 6,770 | Childhood amnesia |
-| 4,387 | Illusory superiority |
-| 4,367 | Not invented here |
-| 4,060 | Mindset |
-| 3,936 | Framing (social sciences) |
-| 3,887 | Gadfly (philosophy and social science) |
-| 3,848 | Cryptomnesia |
-| 3,512 | Normalization of deviance |
-| 3,425 | False memory syndrome |
-| 3,407 | Exception that proves the rule |
-| 3,240 | Conjunction fallacy |
-| 3,220 | Woozle effect |
-| 3,208 | Rosy retrospection |
-| 3,178 | Pollyanna principle |
-| 3,140 | Recency bias |
-| 3,091 | Pretty privilege |
-| 3,008 | Motivated reasoning |
-| 2,809 | Heuristic (psychology) |
-| 2,789 | Wishful thinking |
-| 2,649 | Escalation of commitment |
-| 2,595 | Attribution (psychology) |
-| 2,592 | Rationalization (psychology) |
-| 2,528 | Denial |
-| 2,525 | In-group favoritism |
-| 2,487 | Bradley effect |
-| 2,438 | Psychological pricing |
-| 2,413 | Zero-sum thinking |
-| 2,349 | Depressive realism |
-| 2,348 | Self-deception |
-| 2,308 | Cheerleader effect |
-| 2,229 | Region-beta paradox |
-| 2,190 | Normalcy bias |
-| 2,158 | White backlash |
-| 2,004 | Declinism |
-| 2,003 | Automation bias |
-| 1,983 | Ostrich effect |
-| 1,932 | Presupposition |
-| 1,868 | Planck's principle |
-| 1,858 | Attribution bias |
-| 1,684 | Boomerang effect (psychology) |
-| 1,676 | Clustering illusion |
-| 1,638 | Minimisation (psychology) |
-| 1,616 | Physical attractiveness stereotype |
-| 1,613 | Exaggeration |
-| 1,608 | Authority bias |
-| 1,583 | Appeal to the stone |
-| 1,550 | Illusion of explanatory depth |
-| 1,534 | Lost in the mall technique |
-| 1,533 | Reminiscence bump |
-| 1,503 | First impression (psychology) |
-| 1,454 | Rhyme-as-reason effect |
-| 1,450 | Hostile attribution bias |
-| 1,426 | Inequity aversion |
-| 1,418 | Name-letter effect |
-| 1,405 | Transposed letter effect |
-| 1,399 | End-of-history illusion |
-| 1,398 | Thomas theorem |
-| 1,392 | Implicit stereotype |
-| 1,366 | Golem effect |
-| 1,362 | Hot hand |
-| 1,356 | Bias blind spot |
-| 1,316 | Observer-expectancy effect |
-| 1,312 | Preparedness paradox |
-| 1,286 | Ludic fallacy |
-| 1,207 | Introspection illusion |
-| 1,196 | Information cascade |
-| 1,129 | Hot-cold empathy gap |
-| 1,120 | System justification theory |
-| 1,110 | Déformation professionnelle |
-| 1,110 | Selective perception |
-| 1,056 | Birthday-number effect |
-| 1,032 | Deviancy amplification spiral |
-| 1,029 | Motonormativity |
-| 985 | Self-licensing |
-| 965 | Persuasive definition |
-| 964 | Memory inhibition |
-| 963 | Motivated forgetting |
-| 938 | Outcome bias |
-| 937 | Disposition effect |
-| 902 | Omission bias |
-| 883 | Out-group homogeneity |
-| 874 | Present bias |
-| 873 | Social perception |
-| 870 | Contrast effect |
-| 865 | Watching-eye effect |
-| 863 | Levels of processing model |
-| 856 | Self-defeating prophecy |
-| 853 | Identifiable victim effect |
-| 839 | Turkey illusion |
-| 828 | Fading affect bias |
-| 828 | Generation effect |
-| 806 | Egocentric bias |
-| 800 | Attribute substitution |
-| 787 | Jumping to conclusions |
-| 784 | Mistakes Were Made (but Not by Me) |
-| 775 | Ultimate attribution error |
-| 748 | Favourite-longshot bias |
-| 742 | Vaticinium ex eventu |
-| 732 | Actor–observer asymmetry |
-| 724 | Positive illusions |
-| 710 | Attentional bias |
-| 709 | Psychological inertia |
-| 692 | Political bias |
-| 691 | Less-is-better effect |
-| 685 | Emotional reasoning |
-| 676 | Ambiguity effect |
-| 662 | Gender schema theory |
-| 648 | Misattribution of memory |
-| 648 | Naïve cynicism |
-| 636 | Action bias |
-| 620 | Attention inequality |
-| 619 | Dysrationalia |
-| 618 | Social comparison bias |
-| 614 | Insensitivity to sample size |
-| 598 | Cultural bias |
-| 583 | P-hacking |
-| 579 | Scope neglect |
-| 576 | True-believer syndrome |
-| 573 | Plant blindness |
-| 573 | Sociological Francoism |
-| 561 | Selective amnesia |
-| 556 | Surrogation |
-| 554 | Cognitive inertia |
-| 553 | Conservatism (belief revision) |
-| 544 | Subjective validation |
-| 538 | Compassion fade |
-| 535 | Group attribution error |
-| 534 | Self-reference effect |
-| 526 | Affinity bias |
-| 519 | Availability cascade |
-| 507 | Information bias (psychology) |
-| 499 | Zero-risk bias |
-| 495 | Belief bias |
-| 480 | Psychology of climate change denial |
-| 478 | Illusion of asymmetric insight |
-| 446 | Pyrrhic defeat theory |
-| 441 | Fluency heuristic |
-| 427 | Euphoric recall |
-| 421 | False-uniqueness effect |
-| 420 | Familiarity heuristic |
-| 411 | Telescoping effect |
-| 404 | Time-saving bias |
-| 400 | Impact bias |
-| 397 | Social amnesia |
-| 396 | Outgroup favoritism |
-| 391 | Eyewitness memory |
-| 390 | Recall bias |
-| 384 | Cue-dependent forgetting |
-| 378 | Hard–easy effect |
-| 361 | Proportionality bias |
-| 361 | Regression fallacy |
-| 357 | Illusion of validity |
-| 351 | Neglect of probability |
-| 349 | Memory conformity |
-| 348 | Blue–seven phenomenon |
-| 348 | Self-referential encoding |
-| 346 | Perceptual psychology |
-| 330 | Extension neglect |
-| 323 | Social inertia |
-| 322 | Social projection |
-| 305 | Bizarreness effect |
-| 301 | Shooting bias |
+## Regenerating the candidate set
 
-## Flagged — check before building
-
-| views/mo | entry | why flagged |
-|---:|---|---|
-| 49,203 | First They Came | in the category, but reads as a work/event/broad concept |
-| 15,280 | Cognitive bias | in the category, but reads as a work/event/broad concept |
-| 10,766 | Galileo affair | in the category, but reads as a work/event/broad concept |
-| 10,683 | Stereotype | in the category, but reads as a work/event/broad concept |
-| 7,517 | Nudge theory | in the category, but reads as a work/event/broad concept |
-| 6,997 | Status quo | in the category, but reads as a work/event/broad concept |
-| 6,502 | The Century of the Self | in the category, but reads as a work/event/broad concept |
-| 6,106 | Data dredging | in the category, but reads as a work/event/broad concept |
-| 5,704 | Cognitive distortion | in the category, but reads as a work/event/broad concept |
-| 5,393 | Cherry picking | in the category, but reads as a work/event/broad concept |
-| 5,239 | Bounded rationality | in the category, but reads as a work/event/broad concept |
-| 4,833 | Helicopter hieroglyphs | in the category, but reads as a work/event/broad concept |
-| 2,811 | Agnotology | in the category, but reads as a work/event/broad concept |
-| 1,256 | Choice-supportive bias | in the category, but reads as a work/event/broad concept |
-| 1,181 | Child vehicular heat stroke deaths | in the category, but reads as a work/event/broad concept |
-| 476 | Cognitive bias mitigation | in the category, but reads as a work/event/broad concept |
+The set is a snapshot with a `generated` date, not a live query. Rebuild it when
+the ranking has visibly aged: pull the list article's wikitext and the two
+categories, resolve redirects, then average twelve months of pageviews per
+canonical title. The pageviews API rate-limits hard at any real concurrency —
+serial requests with a short delay finish 564 titles in about four minutes,
+where eight parallel workers spent the same time collecting 429s and writing
+zeros. A zero from a rate limit and a zero from an unread article are
+indistinguishable once stored, which is how the first attempt produced a
+candidate file where confirmation bias had no readers.
