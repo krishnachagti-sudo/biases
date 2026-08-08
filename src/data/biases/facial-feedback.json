@@ -2,7 +2,10 @@
   "no": 3,
   "slug": "facial-feedback",
   "name": "Facial feedback",
-  "aliases": ["Facial feedback hypothesis", "The pen-in-mouth effect"],
+  "aliases": [
+    "Facial feedback hypothesis",
+    "The pen-in-mouth effect"
+  ],
   "category": "perception",
   "statement": "The arrangement of your own face feeds back into how you feel, so holding a smile makes things seem funnier even when you did not smile because of them.",
   "meaning": "The hypothesis reverses the usual direction. Instead of amusement producing a smile, the smile is held to produce some of the amusement. What made the idea testable was a way to arrange someone's face without telling them why: give them a pen to hold in their mouth. Held in the teeth it recruits the muscles of a smile, held in the lips it prevents one, and the participant thinks the study is about writing with your mouth. Any difference in how funny they find a cartoon afterwards cannot be explained by their knowing what expression they were making.",
@@ -24,8 +27,23 @@
       "sites": 17,
       "n": 1894
     },
-    "original": { "es": 0.82, "esType": "md", "unit": "scale points", "ciLevel": 95 },
-    "replicated": { "es": 0.03, "esType": "md", "unit": "scale points", "ci": [-0.11, 0.16], "ciLevel": 95, "weighting": "random-effects" },
+    "original": {
+      "es": 0.82,
+      "esType": "md",
+      "unit": "scale points",
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.03,
+      "esType": "md",
+      "unit": "scale points",
+      "ci": [
+        -0.11,
+        0.16
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    },
     "indexedBy": "FReD"
   },
   "limits": "No confidence interval is printed for the original, because the 1988 paper's abstract is not available from Crossref or any open repository checked and the replication report quotes only its point estimate. The two numbers are also on the study's own rating scale rather than standardised, which is how both papers report them: converting to a standardised effect size would produce a figure neither source contains. And the comparison is between one original study and one protocol, however many laboratories ran it.",
@@ -44,7 +62,7 @@
       "type": "replication"
     },
     {
-      "text": "FORRT Replication Database (FReD), Röseler et al. Used to locate the replication above, not as the source for what it found.",
+      "text": "Roseler, L., et al. FORRT Replication Database (FReD) and FORRT Library of Reproduction and Replication Attempts (FLoRA). OSF, 2022. Used to locate the replication above, not as the source for what it found.",
       "doi": "10.17605/OSF.IO/9R62X",
       "url": "https://doi.org/10.17605/OSF.IO/9R62X",
       "type": "index"
