@@ -1,0 +1,115 @@
+{
+  "no": 74,
+  "slug": "bandwagon-effect",
+  "name": "Bandwagon effect",
+  "aliases": ["Herding", "Social influence bias", "Success breeds success"],
+  "category": "social",
+  "statement": "People want a thing more because other people already want it, so popularity feeds on itself and early advantages harden into lasting ones.",
+  "meaning": "The name covers three claims that are usually run together. The economic one is that an individual's demand for a good rises with the number of other people buying it, which makes the market demand curve something other than the sum of the individual ones. The political one is that published poll results move voters towards whoever is ahead. The third, and the one with the best evidence, is that visible counts of other people's choices, downloads, up-votes, signatures, ratings, change what later arrivals choose. Only the third has been tested by randomly assigning the popularity signal itself, which is what separates influence from shared taste.",
+  "origin": {
+    "year": 1950,
+    "who": "Harvey Leibenstein",
+    "where": "The Quarterly Journal of Economics",
+    "note": "Leibenstein defined the bandwagon effect as \"the extent to which the demand for a commodity is increased due to the fact that others are also consuming the same commodity\", one of three kinds of nonfunctional demand alongside the snob and Veblen effects. The paper is pure demand theory with diagrams and no data, prompted by Oskar Morgenstern's 1948 argument that collective demand curves are not additive. The political usage runs on a separate track: Herbert Simon paired bandwagon and underdog effects in the title of a 1954 paper in Public Opinion Quarterly."
+  },
+  "evidence": "The load-bearing studies are web experiments that manipulated the popularity signal directly. Salganik, Dodds and Watts built an artificial music market with 14,341 participants and 48 songs by unknown bands. Arrivals were assigned either to an independent condition, which showed song and band names only, or to a social influence condition, which also showed download counts. Social influence participants were split across eight parallel worlds that could not see each other. In both of the two experiments run, all eight social influence worlds had a higher Gini coefficient of download share than the single independent world, and the same song varied more in market share between worlds than between random halves of the independent condition, with P < 0.01. Raising the salience of the signal, by listing songs in descending order of downloads rather than in a random grid, raised inequality and unpredictability further. The best songs rarely did badly and the worst rarely did well, and almost anything else happened. Salganik and Watts then inverted the displayed download counts for 12,207 participants and found that most songs' falsely reported popularity became real, though the best songs recovered in the long run. Muchnik, Aral and Taylor moved the design onto a live social news site, randomly giving 101,281 comments a first up-vote, a first down-vote or nothing over five months. The up-vote raised the chance that the first viewer also up-voted by 32%, and the final mean score of up-treated comments ran 25% above control.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The online social influence experiments repeat, in new media and on new platforms; the claim that polls push voters towards the leader does not repeat reliably.",
+    "detail": "Epstein, Groh, Dubey and Pentland re-ran the music market design on a platform where people curate AI-generated hybrid animals, randomising both the social signal and the visual layout. They report that they replicate the original finding of an unpredictable winner-take-all market, and add that social influence also produced local trends more diverse than the baseline. Van de Rijt and colleagues took the same logic into four live systems at once, giving arbitrary early success to randomly chosen recipients. Subsequent success rose in every one: 70% against 39% for funded Kickstarter projects, 90% against 77% for helpfully rated reviews on Epinions, 40% against 31% for Wikipedia status awards, and 66% against 52% for Change.org petitions. The gaps persisted but did not compound, since larger initial advantages produced little further separation. Glenski and Weninger ran vote manipulations on a social news site and got a split result: positive treatment raised the final rating of posts by 11.02% but did nothing for comments, and, against Muchnik and colleagues, negative treatment lowered final ratings of posts by 5.15% and of comments by 37.4%. The polling literature is where the disagreement sits. Farjam had 1,113 participants allocate a budget among real political organisations and found the most popular option gained about 7% of votes once poll results were shown, with no underdog effect. Van der Meer, Hakhverdian and Aaldering, with 23,421 Dutch respondents, found that poll standings alone moved no vote intentions, and that only an emphasis on a party's growth in the polls raised support. Undecided voters were not more susceptible.",
+    "study": {
+      "cite": "Epstein, Z., Groh, M., Dubey, A., & Pentland, A. (2021). Social influence leads to the formation of diverse local trends. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW2), 1-18.",
+      "doi": "10.1145/3479553",
+      "year": 2021
+    }
+  },
+  "limits": "Leibenstein's paper is a theoretical construction and tests nothing, so the demand-curve claim does not inherit the evidence from the web experiments. Those experiments show that a manipulated popularity signal changes later choices among options the participant has no strong prior view about: unknown songs, unfamiliar comments, machine-generated pictures. Nothing in them speaks to whether the same holds for well-known brands or long-held political loyalties. The herding results are also platform-specific in ways their authors flag, and Muchnik and colleagues found the effect only for comments filed under politics, culture and society, and business, not under economics, IT, fun or general news. Van de Rijt and colleagues report decreasing marginal returns, which cuts against the runaway version of the story. No meta-analysis of poll-induced bandwagon effects on vote choice was located, in Crossref searches or in the reference lists of the papers read here. The only bandwagon meta-analysis found, by Wang, Chu and Huang across 161 effect sizes from 41 studies, is about credibility perceptions rather than voting, and reports a positive but small effect.",
+  "misreadings": "The three literatures get quoted as one body of evidence, and they are not. A reader who cites Leibenstein for the proposition that up-votes distort ratings is citing a 1950 diagram. Muchnik and colleagues' 25% is the gap in mean final comment score between treated and control comments on one website, not a general figure for how much any crowd rating is inflated. The reverse is documented as well as the forward direction: Ceci and Kain found poll information shifted both attitude strength and candidate preference, explained it as oppositional reactivity, and Chatterjee and Kamal, using India's 2009 ban on publishing exit polls, found that frontrunners gained vote share once the polls went dark, which points to underdog voting when they were visible. Leibenstein himself defined the mirror image in economics as the snob effect, where demand falls as others buy. Barnfield's review of the political science literature argues the term is used for several distinct phenomena at once, and that studies claiming to find or refute a bandwagon effect are often not testing the same thing.",
+  "sources": [
+    {
+      "text": "Leibenstein, H. (1950). Bandwagon, snob, and Veblen effects in the theory of consumers' demand. The Quarterly Journal of Economics, 64(2), 183-207.",
+      "doi": "10.2307/1882692",
+      "url": "https://doi.org/10.2307/1882692",
+      "type": "primary"
+    },
+    {
+      "text": "Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. Science, 311(5762), 854-856.",
+      "doi": "10.1126/science.1121066",
+      "url": "https://doi.org/10.1126/science.1121066",
+      "type": "primary"
+    },
+    {
+      "text": "Salganik, M. J., & Watts, D. J. (2008). Leading the herd astray: An experimental study of self-fulfilling prophecies in an artificial cultural market. Social Psychology Quarterly, 71(4), 338-355.",
+      "doi": "10.1177/019027250807100404",
+      "url": "https://doi.org/10.1177/019027250807100404",
+      "type": "primary"
+    },
+    {
+      "text": "Muchnik, L., Aral, S., & Taylor, S. J. (2013). Social influence bias: A randomized experiment. Science, 341(6146), 647-651.",
+      "doi": "10.1126/science.1240466",
+      "url": "https://doi.org/10.1126/science.1240466",
+      "type": "primary"
+    },
+    {
+      "text": "Epstein, Z., Groh, M., Dubey, A., & Pentland, A. (2021). Social influence leads to the formation of diverse local trends. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW2), 1-18.",
+      "doi": "10.1145/3479553",
+      "url": "https://doi.org/10.1145/3479553",
+      "type": "replication"
+    },
+    {
+      "text": "van de Rijt, A., Kang, S. M., Restivo, M., & Patil, A. (2014). Field experiments of success-breeds-success dynamics. Proceedings of the National Academy of Sciences, 111(19), 6934-6939.",
+      "doi": "10.1073/pnas.1316836111",
+      "url": "https://doi.org/10.1073/pnas.1316836111",
+      "type": "replication"
+    },
+    {
+      "text": "Glenski, M., & Weninger, T. (2017). Rating effects on social news posts and comments. ACM Transactions on Intelligent Systems and Technology, 8(6), 1-19. Percentages read from the author preprint at arXiv:1606.06140.",
+      "doi": "10.1145/2963104",
+      "url": "https://arxiv.org/abs/1606.06140",
+      "type": "replication"
+    },
+    {
+      "text": "Farjam, M. (2021). The bandwagon effect in an online voting experiment with real political organizations. International Journal of Public Opinion Research, 33(2), 412-421.",
+      "doi": "10.1093/ijpor/edaa008",
+      "url": "https://doi.org/10.1093/ijpor/edaa008",
+      "type": "replication"
+    },
+    {
+      "text": "van der Meer, T. W. G., Hakhverdian, A., & Aaldering, L. (2016). Off the fence, onto the bandwagon? A large-scale survey experiment on effect of real-life poll outcomes on subsequent vote intentions. International Journal of Public Opinion Research, 28(1), 46-72.",
+      "doi": "10.1093/ijpor/edu041",
+      "url": "https://doi.org/10.1093/ijpor/edu041",
+      "type": "replication"
+    },
+    {
+      "text": "Ceci, S. J., & Kain, E. L. (1982). Jumping on the bandwagon with the underdog: The impact of attitude polls on polling behavior. Public Opinion Quarterly, 46(2), 228.",
+      "doi": "10.1086/268715",
+      "url": "https://doi.org/10.1086/268715",
+      "type": "commentary"
+    },
+    {
+      "text": "Chatterjee, S., & Kamal, J. (2021). Voting for the underdog or jumping on the bandwagon? Evidence from India's exit poll ban. Public Choice, 188(3-4), 431-453.",
+      "doi": "10.1007/s11127-020-00837-y",
+      "url": "https://doi.org/10.1007/s11127-020-00837-y",
+      "type": "commentary"
+    },
+    {
+      "text": "Wang, S., Chu, T. H., & Huang, G. (2023). Do bandwagon cues affect credibility perceptions? A meta-analysis of the experimental evidence. Communication Research, 50(6), 720-744.",
+      "doi": "10.1177/00936502221124395",
+      "url": "https://doi.org/10.1177/00936502221124395",
+      "type": "commentary"
+    },
+    {
+      "text": "Barnfield, M. (2020). Think twice before jumping on the bandwagon: Clarifying concepts in research on the bandwagon effect. Political Studies Review, 18(4), 553-574.",
+      "doi": "10.1177/1478929919870691",
+      "url": "https://doi.org/10.1177/1478929919870691",
+      "type": "commentary"
+    },
+    {
+      "text": "Simon, H. A. (1954). Bandwagon and underdog effects and the possibility of election predictions. Public Opinion Quarterly, 18(3), 245.",
+      "doi": "10.1086/266513",
+      "url": "https://doi.org/10.1086/266513",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
