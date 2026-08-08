@@ -1,0 +1,45 @@
+{
+  "no": 18,
+  "slug": "question-order-effect",
+  "name": "Question order effect",
+  "aliases": ["Assimilation and contrast in surveys", "Part-whole question sequence effect", "Order effect"],
+  "category": "belief",
+  "statement": "Asking about one part of someone's life before asking about their life as a whole is said to change what the general answer means.",
+  "meaning": "Survey answers are assembled on the spot from whatever is in mind, so the previous question is part of the instrument. The classic version pairs a specific question with a general one: how satisfied are you with your relationship, and how satisfied are you with your life. Ask the specific one first and the relationship is loaded and ready, so it feeds into the general answer and the two responses correlate strongly. Ask it second and the general answer draws on whatever else was available, so the correlation is weak. Schwarz and colleagues explained this through conversational logic: a respondent who has just discussed their relationship may also read the later general question as being about everything else.",
+  "origin": {
+    "year": 1991,
+    "who": "Norbert Schwarz, Fritz Strack and Hans-Peter Mai",
+    "where": "Public Opinion Quarterly",
+    "note": "Their paper is \"Assimilation and Contrast Effects in Part-Whole Question Sequences: A Conversational Logic Analysis\". Order effects in surveys were documented long before it; what this study added was a mechanism and a specific prediction about correlations."
+  },
+  "evidence": "One hundred participants answered a question about relationship satisfaction and a question about life satisfaction, in one order or the other. Specific first produced a correlation of r = 0.67 between the two answers. Specific second produced r = 0.32. The difference between those correlations was the effect, reported as q = 0.48 with a 95% confidence interval from 0.07 to 0.88.",
+  "replication": {
+    "state": "failed",
+    "headline": "Across 7,460 people the two correlations came out the wrong way round: 0.38 for specific-first against 0.44 for specific-second.",
+    "detail": "Many Labs 2 ran the same pair of questions in 36 countries. Where the original found the correlation much stronger when the specific question came first, the replication found it slightly stronger when the specific question came second: 0.44 against 0.38. The difference was q = -0.07 with a 95% confidence interval from -0.12 to -0.02, so it is small, reliably non-zero, and pointing the opposite way to the prediction. The original gap of 0.35 between the two correlations does not appear at any size.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 7460
+    }
+  },
+  "limits": "No structured effect sizes are printed above because the measure is Cohen's q, a difference between two correlations, and this site's schema covers standardised mean differences, correlations, odds ratios and the like rather than differences between correlations. The four correlations and the two q values are in the paragraph instead. There is a second limit the replication authors flag themselves: the original had these two questions preceded by nothing at all, whereas in a large multi-study protocol they sit inside a longer session. Since the effect is about what the preceding context makes available, a longer preceding context is a real difference and not only a nuisance. What has not failed is the broader finding that survey answers move with question order, which is one of the best-documented facts in survey methodology; what failed is this specific part-whole prediction about correlations.",
+  "misreadings": "The result is often cited as proof that survey responses are meaningless, which is far more than either the original or the replication supports. It is also frequently confused with the general phenomenon of order effects, which is much better established and rests on a different kind of evidence, mostly split-ballot experiments in real surveys rather than a correlation comparison in a laboratory. An entry that let this failure stand for that whole literature would be making the same mistake in reverse.",
+  "sources": [
+    {
+      "text": "Schwarz, N., Strack, F., & Mai, H.-P. (1991). Assimilation and contrast effects in part-whole question sequences: A conversational logic analysis. Public Opinion Quarterly, 55(1), 3-23.",
+      "doi": "10.1086/269239",
+      "url": "https://doi.org/10.1086/269239",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

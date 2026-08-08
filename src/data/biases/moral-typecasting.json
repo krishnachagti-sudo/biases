@@ -1,0 +1,47 @@
+{
+  "no": 19,
+  "slug": "moral-typecasting",
+  "name": "Moral typecasting",
+  "aliases": ["Moral agent-patient asymmetry", "Agent-patient typecasting"],
+  "category": "social",
+  "statement": "People sort others into those who act and those who are acted upon, and once someone is a victim they are seen as less capable of doing wrong.",
+  "meaning": "Gray and Wegner proposed that moral perception runs on two roles rather than one dimension. A moral agent does things and can be blamed; a moral patient has things done to them and can be harmed. The claim that makes this a bias is that the roles are exclusive: casting someone as one makes it harder to see them as the other, independently of the facts. The test is symmetrical by design. The same accident, with the same physical consequences, is described with an adult harming a baby or a baby harming an adult, and the question is whether responsibility follows the act or follows the casting.",
+  "origin": {
+    "year": 2009,
+    "who": "Kurt Gray and Daniel Wegner",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is \"Moral typecasting: Divergent perceptions of moral agents and moral patients\", and it sits inside their broader dyadic account of moral cognition."
+  },
+  "evidence": "Sixty-nine participants read about a tray of glasses knocked over, with either a man harming a baby or a baby harming a man, and rated responsibility, intentionality and the victim's pain. The man was rated more responsible than the baby, 5.29 against 3.86, d = 0.80. He was rated as acting more intentionally, and when he was the one harmed he was judged to feel less pain than the baby did. Responsibility was the measure carried forward for replication.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Across 8,002 people the asymmetry came back slightly larger than the original, at d = 0.95.",
+    "detail": "Many Labs 2 ran the glasses vignette in 36 countries. The adult was rated 5.41 for responsibility and the baby 3.77, giving d = 0.95 with a 95% confidence interval from 0.91 to 1.00. The original was 0.80, interval 0.31 to 1.29. The replication estimate sits inside the original interval and is far more precise, which is the cleanest possible outcome for a replication and rarer in this project than the headline numbers suggest.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 8002
+    },
+    "original": { "es": 0.80, "esType": "d", "ci": [0.31, 1.29], "ciLevel": 95 },
+    "replicated": { "es": 0.95, "esType": "d", "ci": [0.91, 1.00], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "Only the responsibility measure was replicated. The intentionality rating and the pain judgement, which are what make the finding about typecasting rather than about responsibility alone, were part of the original and not part of the confirmatory test. This also uses one contrast, an adult against a baby, where the two roles are confounded with almost everything else that separates adults from babies: capability, foresight, physical control. The vignette shows that responsibility tracks something other than the act; it does not isolate moral agency as the something.",
+  "misreadings": "The finding is sometimes read as showing that people excuse victims, which overstates it. What was measured is a difference in attributed responsibility between two parties in a described accident, and the more mundane explanation is that adults are expected to be careful around babies. Treating this experiment as strong evidence for the dyadic theory of morality also runs ahead of what one vignette can carry, however well it replicates.",
+  "sources": [
+    {
+      "text": "Gray, K., & Wegner, D. M. (2009). Moral typecasting: Divergent perceptions of moral agents and moral patients. Journal of Personality and Social Psychology, 96(3), 505-520.",
+      "doi": "10.1037/a0013748",
+      "url": "https://doi.org/10.1037/a0013748",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
