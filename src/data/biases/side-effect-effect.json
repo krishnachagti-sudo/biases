@@ -1,0 +1,62 @@
+{
+  "no": 15,
+  "slug": "side-effect-effect",
+  "name": "Side-effect effect",
+  "aliases": [
+    "Knobe effect",
+    "Intentionality asymmetry"
+  ],
+  "category": "social",
+  "statement": "A foreseen side effect the actor did not care about is called intentional when it does harm and unintentional when it does good.",
+  "meaning": "The vignette holds everything fixed except whether the outcome is good or bad. A chairman is told a new programme will raise profits and, as a side effect, help or harm the environment. He says he does not care at all about the environment and starts the programme anyway. Asked whether he brought the side effect about intentionally, people say yes when it was harm and no when it was help. The mental state is identical in both versions and the answers are opposite, which means the judgement of intention is running partly on a moral evaluation rather than only on what the actor knew and wanted. That was a problem for philosophy of action, which had generally assumed the reverse order: work out what was intended, then assign blame.",
+  "origin": {
+    "year": 2003,
+    "who": "Joshua Knobe",
+    "where": "Analysis",
+    "note": "The paper is four pages long and reports one questionnaire study run on people in a Manhattan public park. It became one of the founding results of experimental philosophy."
+  },
+  "evidence": "In the original, 82% said the chairman harmed the environment intentionally and 23% said he helped it intentionally. The same vignette also produced more blame for the harm than praise for the help, and the amount of blame or praise correlated with the intentionality judgement, which is the link the effect turns on.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Across 7,982 people in 36 countries the asymmetry came back larger than in the original park questionnaire.",
+    "detail": "Many Labs 2 replaced the yes-or-no question with a seven-point scale, which is a more sensitive measure of the same judgement. Participants in the harm condition rated the side effect as intentional at 5.34 and those in the help condition at 2.17, giving d = 1.75. The original figure was d = 1.45, with a confidence interval running from 0.79 to 2.77 on a sample of 78. Effects this large surviving a preregistered test at this scale are uncommon in this literature.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 7982
+    },
+    "original": {
+      "es": 1.45,
+      "esType": "d",
+      "ci": [
+        0.79,
+        2.77
+      ],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 1.75,
+      "esType": "d",
+      "weighting": "aggregate"
+    }
+  },
+  "limits": "No confidence interval is printed for the replication. The paper gives the point estimate, the means, the standard deviations and the t statistic, but not an interval, and computing one here would put a number on the page that no source contains. What is not settled by any of this is why the asymmetry happens. Competing accounts have it as a fact about the concept of intentional action, as blame leaking into an unrelated judgement, and as people reading the chairman's indifference to harm as itself a kind of endorsement. The experiment separates none of these, and a robust effect with three live explanations is a smaller result than it looks.",
+  "misreadings": "It is often presented as showing that people are incoherent about intention. A more careful reading is that the everyday concept of doing something intentionally may simply include a moral component, in which case the answers are consistent and the philosophical theory was the thing that was wrong. It is also cited as evidence that moral judgement precedes all reasoning, which is a much larger claim than one vignette supports.",
+  "sources": [
+    {
+      "text": "Knobe, J. (2003). Intentional action and side effects in ordinary language. Analysis, 63(3), 190-194.",
+      "doi": "10.1093/analys/63.3.190",
+      "url": "https://doi.org/10.1093/analys/63.3.190",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

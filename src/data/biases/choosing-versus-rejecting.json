@@ -1,0 +1,47 @@
+{
+  "no": 16,
+  "slug": "choosing-versus-rejecting",
+  "name": "Choosing versus rejecting",
+  "aliases": ["Choose-reject discrepancy", "Selection-rejection asymmetry"],
+  "category": "decision",
+  "statement": "Asked which option to pick and asked which to eliminate, people are said to name the same vivid option both times, which cannot both be right.",
+  "meaning": "The test needs two groups and one pair of options. One option is average on everything; the other has stronger good points and stronger bad points. Ask one group to award custody and the other to deny it. If preferences are coherent, the two percentages should add to 100: whoever you would award to is whoever you would not deny. Shafir predicted they would add to more than 100, because choosing makes you look for reasons in favour and rejecting makes you look for reasons against, and the extreme parent supplies more of both. That would mean the question's verb, not the options, decides the answer.",
+  "origin": {
+    "year": 1993,
+    "who": "Eldar Shafir",
+    "where": "Memory & Cognition",
+    "note": "The paper is \"Choosing versus rejecting: Why some options are both better and worse than others\", and the custody vignette is the version everyone quotes."
+  },
+  "evidence": "In the original, 170 participants awarded custody to the extreme parent 64% of the time and denied custody to the same parent 55% of the time. The sum is 119%, and the excess over 100 is the effect: d = 0.35, with a confidence interval running from -0.04 to 0.68, which already includes zero.",
+  "replication": {
+    "state": "failed",
+    "headline": "Across 7,901 people the two percentages summed to 93 rather than the 119 the original reported, missing the coherent 100 from the other side.",
+    "detail": "Many Labs 2 ran the custody vignette in 36 countries. Participants awarded custody to the extreme parent 45.5% of the time and denied it 47.6% of the time. Those sum to 93%, which is reliably below 100 rather than above it, d = -0.13 with a 95% confidence interval from -0.18 to -0.09. The direction is the opposite of the prediction. Shafir's account says the extreme option should attract both the award and the denial; what happened is that the average parent did.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 7901
+    },
+    "original": { "es": 0.35, "esType": "d", "ci": [-0.04, 0.68], "ciLevel": 95 },
+    "replicated": { "es": -0.13, "esType": "d", "ci": [-0.18, -0.09], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "One vignette, one pair of options. Shafir's paper contains other scenarios and the compatibility principle behind it has support from other paradigms, so this is a verdict on the custody demonstration rather than on the idea that framing a decision as selection or elimination can matter. It is also worth reading the original interval before calling this a reversal of an established finding: it ran from -0.04 to 0.68 and therefore already contained zero. The 1993 result was not statistically distinguishable from no effect at the time it was published.",
+  "misreadings": "The custody problem is a fixture in decision-making courses, usually presented as a demonstration that preferences are constructed by the question rather than retrieved. That lesson may still be right, but this experiment no longer supports it. The result is also sometimes described as people being inconsistent, when the replication found people more consistent than coherence requires rather than less: a sum of 93% means the two groups were converging on the same answer from both directions.",
+  "sources": [
+    {
+      "text": "Shafir, E. (1993). Choosing versus rejecting: Why some options are both better and worse than others. Memory & Cognition, 21(4), 546-556.",
+      "doi": "10.3758/BF03197186",
+      "url": "https://doi.org/10.3758/BF03197186",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

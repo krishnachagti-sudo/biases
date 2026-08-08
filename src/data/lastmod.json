@@ -1,7 +1,7 @@
 {
   "pages": {
     "": {
-      "hash": "6d0bbd19e7af1ff6",
+      "hash": "49a953f5273dea33",
       "date": "2026-08-08"
     },
     "about/": {
@@ -9,63 +9,75 @@
       "date": "2026-08-08"
     },
     "bias/affect-heuristic/": {
-      "hash": "b127591cdaa72f57",
+      "hash": "fde7cd5834de32a0",
       "date": "2026-08-08"
     },
     "bias/anchoring-effect/": {
-      "hash": "a6800f68845c5a66",
+      "hash": "c9db53b75dcf0eba",
       "date": "2026-08-08"
     },
     "bias/barnum-effect/": {
-      "hash": "afe8cba57cda1865",
+      "hash": "392e599a90b6469e",
+      "date": "2026-08-08"
+    },
+    "bias/choosing-versus-rejecting/": {
+      "hash": "51cddc9e8bac9f67",
       "date": "2026-08-08"
     },
     "bias/confirmation-bias/": {
-      "hash": "a46ea60c13c1e102",
+      "hash": "dbabd4f00db4d92a",
       "date": "2026-08-08"
     },
     "bias/dunning-kruger-effect/": {
-      "hash": "45b49e76c88f9324",
+      "hash": "d9e8c7782ec25633",
       "date": "2026-08-08"
     },
     "bias/ego-depletion/": {
-      "hash": "ad1b2fc061c9bd04",
+      "hash": "83cc4da553d70a47",
       "date": "2026-08-08"
     },
     "bias/facial-feedback/": {
-      "hash": "d728d022ea5cb63d",
+      "hash": "df2896eedb11a813",
       "date": "2026-08-08"
     },
     "bias/false-consensus-effect/": {
-      "hash": "ef8f0e87070aba1b",
+      "hash": "a0a1ce00b27d4ab2",
       "date": "2026-08-08"
     },
     "bias/framing-effect/": {
-      "hash": "457818085885b2a2",
+      "hash": "e977a6e0f8a1e9a5",
       "date": "2026-08-08"
     },
     "bias/fundamental-attribution-error/": {
-      "hash": "67b02b44bd54b990",
+      "hash": "ee650d3f87beb5b3",
       "date": "2026-08-08"
     },
     "bias/macbeth-effect/": {
-      "hash": "df276de6b193e10d",
+      "hash": "ad22e788ae9daed6",
       "date": "2026-08-08"
     },
     "bias/pygmalion-effect/": {
-      "hash": "cda30f1abab52d3a",
+      "hash": "1d5544a32d3ada8b",
+      "date": "2026-08-08"
+    },
+    "bias/side-effect-effect/": {
+      "hash": "ab02239a65770755",
       "date": "2026-08-08"
     },
     "bias/sunk-cost/": {
-      "hash": "94a2ffd30e24e198",
+      "hash": "4db4bcd1c806ee70",
       "date": "2026-08-08"
     },
     "bias/survivorship-bias/": {
-      "hash": "ec7bc0a332541b71",
+      "hash": "1e42c918dba4d46c",
+      "date": "2026-08-08"
+    },
+    "bias/tempting-fate/": {
+      "hash": "b9adf46ea1ccff15",
       "date": "2026-08-08"
     },
     "browse/": {
-      "hash": "ff46d19b876162bc",
+      "hash": "97583970bed4544d",
       "date": "2026-08-08"
     }
   }
