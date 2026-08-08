@@ -1,0 +1,123 @@
+{
+  "no": 73,
+  "slug": "women-are-wonderful-effect",
+  "name": "Women-are-wonderful effect",
+  "aliases": ["Women are wonderful effect", "WAW effect"],
+  "category": "social",
+  "statement": "People rate women more favourably than men as a social category, on explicit attitude scales and in ratings of strangers whose gender is never mentioned.",
+  "meaning": "The claim is about how a category is evaluated, not about how its members are paid, promoted or treated. Asked how good or bad women are as a group, respondents place women above men, and both sexes do it. Two kinds of measure are involved and they should not be run together. Explicit measures ask people to rate the category on a scale. Indirect measures infer evaluation from something else, such as reaction times on an Implicit Association Test, or ratings of photographed strangers in a task that never names gender. The advantage is also uneven across traits. It is largest on warmth and kindness, roughly absent on competence, and runs the other way on ambition and aggression.",
+  "origin": {
+    "year": 1994,
+    "who": "Alice H. Eagly and Antonio Mladinic",
+    "where": "European Review of Social Psychology",
+    "note": "Later cross-cultural work credits the name to this review, whose text is paywalled and was not read here. The findings behind it are two Purdue studies, from 1989 and 1991, and the conference version of the second closes by saying people evidently think communal qualities are wonderful human attributes."
+  },
+  "evidence": "The 1989 study was within subjects: each respondent rated women, men, Democrats and Republicans, which risks telling people what is being compared. Eagly, Mladinic and Otto then ran it between subjects on 324 Purdue students, 162 of each sex, each rating one target group. On a five-item semantic differential from +3 to -3, women scored 2.22 (SD 0.84) and men 1.73 (SD 0.98), with the target-group effect at F(3, 323) = 26.98, p < .0001. Beliefs volunteered about each group, weighted by how typical the respondent thought them, favoured women too, 0.97 against 0.46. The two emotion measures did not separate the sexes: free-response emotions came out at 0.67 for women and 0.65 for men. Those figures are read from the conference-paper version lodged with ERIC in 1990, because the journal version is paywalled.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A 44-culture reanalysis of 4,519 people puts the effect at d = 0.16, and near zero in the ten most gender-egalitarian countries.",
+    "detail": "Krys and 38 co-authors reanalysed ratings of eight photographed strangers, four men and four women, on honesty and intelligence items, with gender never raised in the instructions. Pooled across 44 cultures, women drew 4.69 (SD 0.64) against 4.59 (SD 0.63) for men, t(4518) = 11.0, p < .001, d = 0.16. Culture moved it. The correlation between the size of the effect and a composite index of gender egalitarianism was r(42) = -0.50, p = .001. Among the ten least egalitarian societies d was 0.32; among the ten most it was 0.05, p = .055. Most of that convergence came from men being rated better rather than women worse. On explicit measures the gap is larger and trait-specific. Eagly and colleagues pooled 16 nationally representative US polls, N = 30,093, running from 1946 to 2018. Among respondents who named a sex difference, 85% put women ahead on communion and 64% on competence, while 32% put women ahead on agency. A separate preregistered experiment on reactions to invented sex-difference findings was directly replicated on 303 Prolific participants: both sexes reacted less positively to male-favouring results, F(1, 299) = 24.48, p < .001, d = 0.58, with no interaction with the participant's own sex.",
+    "study": {
+      "cite": "Krys, K., Capaldi, C. A., van Tilburg, W., Lipp, O. V., Bond, M. H., Vauclair, C.-M., et al. (2018). Catching up with wonderful women: The women-are-wonderful effect is smaller in more gender egalitarian societies. International Journal of Psychology, 53(S1), 21-26.",
+      "doi": "10.1002/ijop.12420",
+      "year": 2018,
+      "sites": 44,
+      "n": 4519
+    },
+    "replicated": { "es": 0.16, "esType": "d" }
+  },
+  "limits": "Almost every figure here is a rating task or a poll answer. Rudman and Goodwin's four experiments are the usual citation for the implicit version, and their statistics could not be obtained: the article is paywalled and its abstract gives the direction of the sex difference without a number. Project Implicit's published long-run series does not fill the gap either. Charlesworth and Banaji tracked 7.1 million tests from 2007 to 2020 across sexuality, race, skin tone, age, disability and body weight, and gender attitude is not one of the six. How far any IAT score predicts behaviour is a separate argument. Oswald and colleagues' meta-analysis of IAT criterion studies put the mean predictive correlation near .14, and Greenwald, Banaji and Nosek replied that a different inclusion rule yields .236 and that correlations that size can still matter at scale. Both papers concern race and ethnicity, not gender, so neither settles what a gender-attitude IAT would predict. Samples are narrow as well: Purdue undergraduates in the founding studies, university students across the 44 cultures.",
+  "misreadings": "A favourable rating of a category is not a claim about the treatment of its members, and the authors of the 1990 paper raised that gap themselves. The effect is not global superiority either. In the same US polls that put women 85% ahead on communion, respondents put men ahead on agency by 68% to 32%. Warm ratings and hostility also coexist. Glick, Fiske and colleagues surveyed about 15,000 people in 19 nations, found hostile and benevolent sexism correlate positively across nations, and found national scores on both predict gender inequality. Within a single study the effect can also stop at the measure: the emotion scales in the 324-student experiment showed no gap. Nor is it a women-only in-group preference. Rudman, Greenwald and McGhee reported that only women associated female with warmth and only men associated male with potency. Protective asymmetry in moral judgement is a different literature pointing the same way rather than the same finding: in FeldmanHall and colleagues' footbridge study, 88% of 50 respondents chose to push the man.",
+  "sources": [
+    {
+      "text": "Eagly, A. H., & Mladinic, A. (1989). Gender stereotypes and attitudes toward women and men. Personality and Social Psychology Bulletin, 15(4), 543-558.",
+      "doi": "10.1177/0146167289154008",
+      "url": "https://doi.org/10.1177/0146167289154008",
+      "type": "primary"
+    },
+    {
+      "text": "Eagly, A. H., Mladinic, A., & Otto, S. (1991). Are women evaluated more favorably than men? An analysis of attitudes, beliefs, and emotions. Psychology of Women Quarterly, 15(2), 203-216.",
+      "doi": "10.1111/j.1471-6402.1991.tb00792.x",
+      "url": "https://doi.org/10.1111/j.1471-6402.1991.tb00792.x",
+      "type": "primary"
+    },
+    {
+      "text": "Eagly, A. H., Mladinic, A., & Otto, S. (1990). Are women evaluated more favorably than men? An analysis of attitudes, beliefs, and emotions. Paper presented at the 62nd Annual Meeting of the Midwestern Psychological Association, Chicago. ERIC document ED322418. The conference version of the 1991 article, and the source of the means quoted on this page.",
+      "url": "https://files.eric.ed.gov/fulltext/ED322418.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Eagly, A. H., & Mladinic, A. (1994). Are people prejudiced against women? Some answers from research on attitudes, gender stereotypes, and judgments of competence. European Review of Social Psychology, 5(1), 1-35.",
+      "doi": "10.1080/14792779543000002",
+      "url": "https://doi.org/10.1080/14792779543000002",
+      "type": "primary"
+    },
+    {
+      "text": "Krys, K., Capaldi, C. A., van Tilburg, W., Lipp, O. V., Bond, M. H., Vauclair, C.-M., et al. (2018). Catching up with wonderful women: The women-are-wonderful effect is smaller in more gender egalitarian societies. International Journal of Psychology, 53(S1), 21-26.",
+      "doi": "10.1002/ijop.12420",
+      "url": "https://doi.org/10.1002/ijop.12420",
+      "type": "replication"
+    },
+    {
+      "text": "Eagly, A. H., Nater, C., Miller, D. I., Kaufmann, M., & Sczesny, S. (2020). Gender stereotypes have changed: A cross-temporal meta-analysis of U.S. public opinion polls from 1946 to 2018. American Psychologist, 75(3), 301-315.",
+      "doi": "10.1037/amp0000494",
+      "url": "https://doi.org/10.1037/amp0000494",
+      "type": "replication"
+    },
+    {
+      "text": "Stewart-Williams, S., Wong, X. L., Chang, C. Y. M., & Thomas, A. G. (2022). People react more positively to female- than to male-favoring sex differences: A direct replication of a counterintuitive finding. PLOS ONE, 17(3), e0266171.",
+      "doi": "10.1371/journal.pone.0266171",
+      "url": "https://doi.org/10.1371/journal.pone.0266171",
+      "type": "replication"
+    },
+    {
+      "text": "Stewart-Williams, S., Chang, C. Y. M., Wong, X. L., Blackburn, J. D., & Thomas, A. G. (2021). Reactions to male-favouring versus female-favouring sex differences: A pre-registered experiment and Southeast Asian replication. British Journal of Psychology, 112(2), 389-411.",
+      "doi": "10.1111/bjop.12463",
+      "url": "https://doi.org/10.1111/bjop.12463",
+      "type": "primary"
+    },
+    {
+      "text": "Rudman, L. A., & Goodwin, S. A. (2004). Gender differences in automatic in-group bias: Why do women like women more than men like men? Journal of Personality and Social Psychology, 87(4), 494-509.",
+      "doi": "10.1037/0022-3514.87.4.494",
+      "url": "https://doi.org/10.1037/0022-3514.87.4.494",
+      "type": "primary"
+    },
+    {
+      "text": "Rudman, L. A., Greenwald, A. G., & McGhee, D. E. (2001). Implicit self-concept and evaluative implicit gender stereotypes: Self and ingroup share desirable traits. Personality and Social Psychology Bulletin, 27(9), 1164-1178.",
+      "doi": "10.1177/0146167201279009",
+      "url": "https://doi.org/10.1177/0146167201279009",
+      "type": "commentary"
+    },
+    {
+      "text": "Glick, P., Fiske, S. T., Mladinic, A., Saiz, J. L., et al. (2000). Beyond prejudice as simple antipathy: Hostile and benevolent sexism across cultures. Journal of Personality and Social Psychology, 79(5), 763-775.",
+      "doi": "10.1037/0022-3514.79.5.763",
+      "url": "https://doi.org/10.1037/0022-3514.79.5.763",
+      "type": "commentary"
+    },
+    {
+      "text": "FeldmanHall, O., Dalgleish, T., Evans, D., Navrady, L., Tedeschi, E., & Mobbs, D. (2016). Moral chivalry: Gender and harm sensitivity predict costly altruism. Social Psychological and Personality Science, 7(6), 542-551.",
+      "doi": "10.1177/1948550616647448",
+      "url": "https://doi.org/10.1177/1948550616647448",
+      "type": "commentary"
+    },
+    {
+      "text": "Charlesworth, T. E. S., & Banaji, M. R. (2022). Patterns of implicit and explicit attitudes: IV. Change and stability from 2007 to 2020. Psychological Science, 33(9), 1347-1371.",
+      "doi": "10.1177/09567976221084257",
+      "url": "https://doi.org/10.1177/09567976221084257",
+      "type": "commentary"
+    },
+    {
+      "text": "Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J., & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. Journal of Personality and Social Psychology, 105(2), 171-192.",
+      "doi": "10.1037/a0032734",
+      "url": "https://doi.org/10.1037/a0032734",
+      "type": "commentary"
+    },
+    {
+      "text": "Greenwald, A. G., Banaji, M. R., & Nosek, B. A. (2015). Statistically small effects of the Implicit Association Test can have societally large effects. Journal of Personality and Social Psychology, 108(4), 553-561.",
+      "doi": "10.1037/pspa0000016",
+      "url": "https://doi.org/10.1037/pspa0000016",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
