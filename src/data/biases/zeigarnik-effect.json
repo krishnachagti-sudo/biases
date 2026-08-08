@@ -1,0 +1,60 @@
+{
+  "no": 30,
+  "slug": "zeigarnik-effect",
+  "name": "Zeigarnik effect",
+  "aliases": ["Interrupted task effect", "Memory for unfinished tasks"],
+  "category": "memory",
+  "statement": "Interrupted tasks are said to be recalled better than completed ones, because an unfinished intention leaves a tension that keeps it live in memory.",
+  "meaning": "Kurt Lewin's field theory held that taking on a task sets up a quasi-need, a state of tension that discharges when the task is done. Zeigarnik's prediction followed from it. If the tension survives interruption, the unfinished task should stay available for recall. The test is the interrupted task paradigm: a run of short tasks, half of them stopped part-way through, followed by an unannounced request to list what the participant worked on. The score is usually the ratio of interrupted tasks recalled to completed tasks recalled, written IR/CR, where 1.0 means no difference. Zeigarnik reported a ratio near 2. Popular writing takes the same idea much further, using it to explain cliffhangers, unread notifications and the pull of an unfinished to-do list.",
+  "origin": {
+    "year": 1927,
+    "who": "Bluma Zeigarnik, working under Kurt Lewin",
+    "where": "Psychologische Forschung",
+    "note": "Zeigarnik ran the experiments in Berlin between 1924 and 1926 as her dissertation under Lewin, who had enrolled her at the Friedrich Wilhelm University in 1922. The paper occupies pages 1 to 85 of volume 9, published inside Lewin's series 'Untersuchungen zur Handlungs- und Affektpsychologie'."
+  },
+  "evidence": "The paper reports 164 individually tested participants, described as students, teachers and children, plus two group experiments of 47 adults and 45 children. In the main experiment 32 adults worked through 22 short tasks, among them winding thread, folding paper, multiplying numbers and modelling clay figures. Half were interrupted, and Zeigarnik timed each interruption for the moment the participant was most engrossed. Recall favoured the interrupted tasks at IR/CR = 1.9: 26 of the 32 recalled interrupted tasks best, 3 were level, 3 recalled completed tasks best. A second experiment with 15 adults and a new task set gave 2.0, and the two group experiments gave 1.9 for adults and 2.1 for children. She also ran smaller experiments to rule out the shock of interruption and the expectation of resuming, and reported that neither changed the pattern. Her quantitative results count only the tasks named before a participant's first hesitation, which she treated as spontaneous recall, though she stated that pre-hesitation and total recall did not differ.",
+  "replication": {
+    "state": "failed",
+    "headline": "A 2025 meta-analysis of 38 publications puts recall of interrupted against completed tasks at a ratio of 0.99, where Zeigarnik reported 1.9.",
+    "detail": "Ghibellini and Meier searched PsycInfo and PSYINDEX in September 2023, screened 1,349 records and included 59 publications, 38 of them on the Zeigarnik effect. The standard measure is the ratio of mean recall of interrupted tasks to mean recall of completed tasks. It came out at 0.99 across those 38 publications, and stayed at 0.99 with Zeigarnik's own study removed. Her preferred measure, the mean of each participant's IR/CR, gave 1.13 across the 7 publications reporting it. Taking her own value out leaves 1.09, against the 1.9 she published. Across 13 publications excluding hers, interrupted tasks made up 49.16% of everything recalled, a small disadvantage. The single most thorough attempt came earlier: Annie van Bergen's 1968 Amsterdam dissertation, which began in 1961 with a deliberate close copy of the original. She tested 34 participants at her home and found IR/CR = 0.88, with 20 recalling completed tasks better, 9 interrupted, 5 level. A close copy of Marrow's 1938 study gave 0.88 again, and a further run with a new experimenter and 25 participants reproduced the null. Seven experiments in, none had verified the effect, and her survey of 44 replication attempts in the literature reported that fewer than half had found it. MacLeod's recount of the same 44 papers puts the figure below a third.",
+    "study": {
+      "cite": "Ghibellini, R., & Meier, B. (2025). Interruption, recall and resumption: a meta-analysis of the Zeigarnik and Ovsiankina effects. Humanities and Social Sciences Communications, 12(1), 962.",
+      "doi": "10.1057/s41599-025-05000-w",
+      "year": 2025
+    }
+  },
+  "limits": "The meta-analysis publishes weighted point values without confidence intervals, and it reports no test for publication bias, so the pooled ratios carry no stated precision. Its one standardised effect size, Cohen's dz = 0.15, rests on the 8 publications that reported enough per-participant data, and it points weakly in the effect's favour. The moderator picture is not empty either. Grouping 16 publications by experimental atmosphere gave 1.07 in relaxed conditions, 0.96 in neutral ones and 0.88 in achievement conditions. The authors argue that the experimenter authority and task involvement of Zeigarnik's era are rare in modern samples. Achievement motivation, the moderator with the longest history in this literature, produced no pattern across 7 publications: 1.00 for high, 0.92 for moderate, 0.96 for low. Van Bergen's dissertation was published as a book by North-Holland and could not be read directly for this entry, so its figures are quoted as MacLeod reports them. What did survive the same meta-analysis is the neighbouring Ovsiankina effect, the tendency to go back to an interrupted task, at a weighted resumption rate of 67.00% across 21 publications.",
+  "misreadings": "The waiter is an anecdote about Lewin, not a study. Boring's 1957 telling has a Berlin waiter recall the bill until it is paid and then forget it; MacKinnon, who was at the table, remembered the waiter reciting what each person had ordered. Zeigarnik tested students, teachers and children on paper and clay, and no waiter appears in her paper. Resumption is the second confusion: Ovsiankina's finding that people return to interrupted tasks holds up, and it is not evidence that they remember them better. A third strand is offered as modern support and measures something else. Wendsche, Weigelt and Syrek's 2026 meta-analysis found unfinished work tasks related to work-related thoughts during off-job time. The correlation was rho = .382 between persons across 17 studies of 2,473 people, and rho = .247 within persons across 14 studies of 12,129. That is rumination about pending work, not recall of interrupted laboratory tasks. The strongest single ratio in the Zeigarnik meta-analysis is Baddeley's 1.96, from 1963. It came from anagrams whose solutions were shown after 60 seconds, which ends the intention rather than leaving it open, and Baddeley called his own result 'Zeigarnik-like'. Ghibellini and Meier reran that design in 2024 with more than 1,000 adults. Unsolved anagrams were better recalled than solved ones, and the advantage sat with people high in hope of success rather than with persisting tension.",
+  "sources": [
+    {
+      "text": "Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen. Psychologische Forschung, 9, 1-85. Linked here in the abridged English translation, 'On finished and unfinished tasks'. The DOI 10.1007/BF02409755 is widely quoted for this paper, but the Crossref record behind it carries Lewin's series title and his name, not Zeigarnik's, so it is not cited as her DOI.",
+      "url": "https://gwern.net/doc/psychology/willpower/1927-zeigarnik.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "MacLeod, C. M. (2020). Zeigarnik and von Restorff: The memory effects and the stories behind them. Memory & Cognition, 48(6), 1073-1088.",
+      "doi": "10.3758/s13421-020-01033-5",
+      "url": "https://doi.org/10.3758/s13421-020-01033-5",
+      "type": "review"
+    },
+    {
+      "text": "Ghibellini, R., & Meier, B. (2025). Interruption, recall and resumption: a meta-analysis of the Zeigarnik and Ovsiankina effects. Humanities and Social Sciences Communications, 12(1), 962.",
+      "doi": "10.1057/s41599-025-05000-w",
+      "url": "https://doi.org/10.1057/s41599-025-05000-w",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Ghibellini, R., & Meier, B. (2024). Hope of success relates to the memory for unsolved compared to solved anagrams. Quarterly Journal of Experimental Psychology, 78(7), 1274-1279.",
+      "doi": "10.1177/17470218241269310",
+      "url": "https://doi.org/10.1177/17470218241269310",
+      "type": "primary"
+    },
+    {
+      "text": "Wendsche, J., Weigelt, O., & Syrek, C. J. (2026). Unfinished work tasks and work-related thoughts during off-job time: meta-analysis of the Zeigarnik effect in a work-recovery context. Anxiety, Stress, & Coping, 39(4), 385-407.",
+      "doi": "10.1080/10615806.2026.2616302",
+      "url": "https://doi.org/10.1080/10615806.2026.2616302",
+      "type": "meta-analysis"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
