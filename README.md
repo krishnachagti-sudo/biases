@@ -10,9 +10,11 @@ social-psychology experiments run before that field's replication reckoning, and
 the record of what held up is published, checkable, and mostly absent from where
 people actually look.
 
-**Status: the engine works, the corpus is empty.** Three pages build, both
-whole-site checks pass, and no entries are written yet. `docs/BUILD-ORDER.md`
-has the 177 biases identified and the order they get written in.
+**Status: one entry published, 176 to go.** Four pages build; the test suite,
+the house-style gate and the whole-site preflight all pass.
+`docs/BUILD-ORDER.md` has the biases identified and the order they get written
+in; `docs/ENTRY-SCHEMA.md` says what an entry has to contain before it can be
+published.
 
 ## Running it
 
@@ -45,6 +47,7 @@ src/
   data/biases/      the corpus. Empty.
   templates/        the pages
 docs/
+  ENTRY-SCHEMA.md   what an entry contains, and the rules the build enforces
   BUILD-ORDER.md    the 177 biases to write, ranked by how often they are looked up
   VOICE.md          the house style
   LAUNCH.md         DNS through to IndexNow, in the order that works
@@ -79,4 +82,4 @@ Replication figures are quoted from
 attributed, never assessed here. An entry with no replication record says so —
 silence in the database is not evidence either way.
 
-The corpus is licensed CC BY 4.0.
+The corpus is licensed CC BY 4.0. The code is not licensed — see `LICENSE`.
