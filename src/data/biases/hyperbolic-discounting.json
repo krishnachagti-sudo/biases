@@ -1,0 +1,103 @@
+{
+  "no": 79,
+  "slug": "hyperbolic-discounting",
+  "name": "Hyperbolic discounting",
+  "aliases": ["Present bias", "Quasi-hyperbolic discounting", "Beta-delta discounting", "Dynamic inconsistency", "Delay discounting"],
+  "category": "decision",
+  "statement": "People discount the near future more steeply than the far future, so a reward available now can outweigh a larger one later that they would have chosen when both were distant.",
+  "meaning": "Exponential discounting applies the same rate to every interval, so a choice made today between two future dates survives the wait. Hyperbolic discounting applies a rate that falls as the horizon lengthens, so the ranking flips once the sooner reward comes into reach. Someone may prefer $110 in 31 days to $100 in 30 days and still take $100 now over $110 tomorrow. Almost all economic work uses a simplified version, the quasi-hyperbolic or beta-delta form, in which one parameter discounts everything except the present and ordinary exponential discounting handles the rest. Beta below 1 is present bias and beta of 1 is dynamic consistency. That parameter, rather than the shape of any curve, is what the experiments test.",
+  "origin": {
+    "year": 1975,
+    "who": "George Ainslie",
+    "where": "Psychological Bulletin",
+    "note": "\"Specious reward: A behavioral theory of impulsiveness and impulse control\" reviewed the literature on impulsiveness and argued that hyperbolic curves describe how the effectiveness of a reward falls with delay. Frederick, Loewenstein and O'Donoghue record the function Ainslie proposed as D(t) = 1/t. The year before, Ainslie had reported in the Journal of the Experimental Analysis of Behavior that pigeons offered a small immediate reinforcement for pecking a key pecked it on more than 95% of trials, and that three of 10 birds learned to peck a differently coloured key earlier on, which removed the tempting option. The name the idea now travels under in economics comes from Laibson's 1997 paper in the Quarterly Journal of Economics, which built the resulting demand for commitment into a savings model."
+  },
+  "evidence": "The classic demonstration is an implied discount rate that falls as the horizon lengthens. Thaler asked respondents what sum in one month, one year or ten years would leave them indifferent to $15 now. Frederick, Loewenstein and O'Donoghue give the median answers as $20, $50 and $100, implying annual rates of 345%, 120% and 19%. Thaler's paper could not be opened during this check, so those figures are attributed to that review rather than read off the original. The same review reports that fitted hyperbolic functions beat exponential ones on such data, and that preference reversals as both rewards draw nearer have been observed in people and in pigeons. Laibson used the beta-delta form to explain why households hold illiquid assets, why consumption tracks income, and why extra liquidity might lower welfare by destroying commitment opportunities.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Present bias is small or absent when the reward is dated money and clear when the reward is work: a meta-analysis of 220 estimates puts beta near 0.97 for money and 0.88 for effort.",
+    "detail": "Andreoni and Sprenger gave 97 subjects a convex time budget, splitting an allocation between a sooner and a later date across 45 decisions, and equalised the transaction costs and the delivery risk of the two payments. They estimated beta at 1.004, standard error 0.002, alongside an annual discount rate of 0.300. The rejection of beta = 1 was marginal and pointed towards future bias. Augenblick, Niederle and Sprenger then ran the same allocation over real work, seven weeks of Greek transcription and Tetris. Money gave beta = 0.974, standard error 0.009, and effort gave 0.888, standard error 0.033, with the two rejected as equal, chi-squared(1) = 6.37, p = .01. A between-subjects repeat gave 0.997 for money and 0.892 for effort. Fifty-nine percent of subjects paid something for a binding commitment device, and present bias over effort predicted who did. Augenblick and Rabin had 100 participants choose task loads over seven weeks and found they wanted 10 to 12 percent fewer tasks in the present than at any future date, beta = 0.83. Imai, Rutter and Camerer pooled 220 estimates from 28 articles using the convex time budget. The random-effects average is 0.9663, standard error 0.0147, p = .0297 against beta = 1, and the multi-level average is 0.9518. Monetary studies give 0.9723 and 0.9758, neither distinguishable from 1. Effort studies give 0.8815 and 0.8802, p = .0001 and p = .0004. Money is not settled either. Balakrishnan, Haushofer and Jakiela paid 494 participants in Kenya through M-Pesa and found beta between 0.902 and 0.924, but only where the same-day payment landed immediately after the session rather than at the close of business.",
+    "study": {
+      "cite": "Imai, T., Rutter, T. A., & Camerer, C. F. (2021). Meta-analysis of present-bias estimation using convex time budgets. The Economic Journal, 131(636), 1788-1814.",
+      "doi": "10.1093/ej/ueaa115",
+      "year": 2021
+    }
+  },
+  "limits": "No multi-site preregistered replication of hyperbolic discounting was located. Searches of Crossref, Europe PMC, Semantic Scholar and the journals themselves turned up one meta-analysis, single-laboratory experiments and field studies, and nothing of the Many Labs or Registered Replication Report kind. Heterogeneity in the meta-analysis is close to total: I-squared is 98.08 across all estimates and 98.13 among monetary studies, so the pooled figure describes a spread rather than a value. Imai and colleagues find funnel-plot asymmetry in the effort studies, p = .0016, running towards over-reporting of present bias, and their corrections move the effort average anywhere from 0.90 to 0.99 depending on the method used. The underlying measurement has never converged. Frederick, Loewenstein and O'Donoghue plotted every study they could find and report implied annual discount rates from -6% to infinity, with no sign of the range narrowing over three decades. Cohen, Ericson, Laibson and White argue that money-earlier-or-later choices cannot isolate time preference, because a subject's financial flows on a date are only weakly linked to consumption on that date, and they report that measures of time preference explain less than 5% of the cross-sectional variation in economic behaviours involving intertemporal trade-offs.",
+  "misreadings": "Hyperbolic discounting is a model, so the question a replication can answer is narrower than the name: does the present carry extra weight. Nearly every estimate above comes from the quasi-hyperbolic beta-delta form, which is not a hyperbola. It marks down the future in one step and then discounts exponentially. The second error is reading a null result over money as a null result for present bias. Andreoni and Sprenger make the point themselves: the models of temptation and self-control are about consumption, and a subject with access to modest liquidity should not be expected to show present bias over dated cash, which can be arbitraged. Imai and colleagues find that access to financial markets is associated with estimates near 1. The third error is treating a null in one payment protocol as the last word. The Kenyan results turn on whether 'today' means today or within the hour. The fourth is enrolling the Global Preference Survey as a measurement of present bias. Falk and colleagues surveyed 80,000 people in 76 countries and report patience, which is the level of discounting rather than the way it changes with horizon. A fifth is the calibrated beta of around 0.7 that circulates from macroeconomic work; Andreoni and Sprenger cite Laibson, Repetto and Tobacman for that figure and set their own 1.004 against it.",
+  "sources": [
+    {
+      "text": "Ainslie, G. (1975). Specious reward: A behavioral theory of impulsiveness and impulse control. Psychological Bulletin, 82(4), 463-496. Record verified at Crossref and PubMed; PubMed carries no abstract and the full text was not opened during this check.",
+      "doi": "10.1037/h0076860",
+      "url": "https://doi.org/10.1037/h0076860",
+      "type": "primary"
+    },
+    {
+      "text": "Ainslie, G. W. (1974). Impulse control in pigeons. Journal of the Experimental Analysis of Behavior, 21(3), 485-489.",
+      "doi": "10.1901/jeab.1974.21-485",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1333221/",
+      "type": "primary"
+    },
+    {
+      "text": "Thaler, R. (1981). Some empirical evidence on dynamic inconsistency. Economics Letters, 8(3), 201-207. Source of the $15 matching question; full text not opened during this check, and the figures quoted here come from Frederick, Loewenstein and O'Donoghue (2002).",
+      "doi": "10.1016/0165-1765(81)90067-7",
+      "url": "https://doi.org/10.1016/0165-1765(81)90067-7",
+      "type": "primary"
+    },
+    {
+      "text": "Laibson, D. (1997). Golden eggs and hyperbolic discounting. The Quarterly Journal of Economics, 112(2), 443-478.",
+      "doi": "10.1162/003355397555253",
+      "url": "https://doi.org/10.1162/003355397555253",
+      "type": "primary"
+    },
+    {
+      "text": "Frederick, S., Loewenstein, G., & O'Donoghue, T. (2002). Time discounting and time preference: A critical review. Journal of Economic Literature, 40(2), 351-401.",
+      "doi": "10.1257/002205102320161311",
+      "url": "https://www.its.caltech.edu/~squartz/files/FredLoewOD.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Andreoni, J., & Sprenger, C. (2012). Estimating time preferences from convex budgets. American Economic Review, 102(7), 3333-3356.",
+      "doi": "10.1257/aer.102.7.3333",
+      "url": "https://econweb.ucsd.edu/~jandreon/Publications/AER12-AS-Estimation.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Augenblick, N., Niederle, M., & Sprenger, C. (2015). Working over time: Dynamic inconsistency in real effort tasks. The Quarterly Journal of Economics, 130(3), 1067-1115.",
+      "doi": "10.1093/qje/qjv020",
+      "url": "https://web.stanford.edu/~niederle/ANS.Paper.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Augenblick, N., & Rabin, M. (2019). An experiment on time preference and misprediction in unpleasant tasks. The Review of Economic Studies, 86(3), 941-975.",
+      "doi": "10.1093/restud/rdy019",
+      "url": "https://doi.org/10.1093/restud/rdy019",
+      "type": "replication"
+    },
+    {
+      "text": "Imai, T., Rutter, T. A., & Camerer, C. F. (2021). Meta-analysis of present-bias estimation using convex time budgets. The Economic Journal, 131(636), 1788-1814.",
+      "doi": "10.1093/ej/ueaa115",
+      "url": "https://authors.library.caltech.edu/records/4gfqk-0ks68",
+      "type": "replication"
+    },
+    {
+      "text": "Balakrishnan, U., Haushofer, J., & Jakiela, P. (2020). How soon is now? Evidence of present bias from convex time budget experiments. Experimental Economics, 23(2), 294-321.",
+      "doi": "10.1007/s10683-019-09617-y",
+      "url": "https://doi.org/10.1007/s10683-019-09617-y",
+      "type": "replication"
+    },
+    {
+      "text": "Cohen, J., Ericson, K. M., Laibson, D., & White, J. M. (2020). Measuring time preferences. Journal of Economic Literature, 58(2), 299-347.",
+      "doi": "10.1257/jel.20191074",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10489299/",
+      "type": "review"
+    },
+    {
+      "text": "Falk, A., Becker, A., Dohmen, T., Enke, B., Huffman, D., & Sunde, U. (2018). Global evidence on economic preferences. The Quarterly Journal of Economics, 133(4), 1645-1692.",
+      "doi": "10.1093/qje/qjy013",
+      "url": "https://doi.org/10.1093/qje/qjy013",
+      "type": "context"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
