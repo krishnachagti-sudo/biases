@@ -1,0 +1,41 @@
+{
+  "no": 8,
+  "slug": "survivorship-bias",
+  "name": "Survivorship bias",
+  "aliases": ["Survival bias", "Survivorship fallacy"],
+  "category": "belief",
+  "statement": "Conclusions get drawn from the cases that made it far enough to be counted, and the cases that did not are missing from the data rather than absent from the world.",
+  "meaning": "This is a property of a sample rather than a habit of a mind, which makes it unlike most entries here. The mechanism is selection: something has already filtered what you can observe, and the filter is correlated with the thing you are trying to measure. Studying successful companies tells you what successful companies have in common, including everything they share with the failed companies you never hear about. The error is not in the reasoning applied to the data; it is that the data arrived pre-sorted and nothing in it says so.",
+  "origin": {
+    "year": 1943,
+    "who": "Abraham Wald",
+    "where": "the Statistical Research Group, Columbia University",
+    "note": "Wald's memorandum is \"A Method of Estimating Plane Vulnerability Based on Damage of Survivors\", reprinted by the Defense Technical Information Center in 1980. He did not name the bias and the phrase came into use much later; his contribution was the method for recovering the distribution you cannot see from the one you can."
+  },
+  "evidence": "Wald's problem was where to armour bombers. The available data were the damage patterns on aircraft that came back, and the intuitive reading was to reinforce the areas showing the most hits. Wald's insight was that the returning aircraft are the sample that survived their hits, so the areas with few recorded hits are the areas where damage stopped a plane from returning. The general form is a set of equations for estimating vulnerability across the whole fleet from the survivors alone. The finance literature contains the cleanest measured examples: fund performance indices that quietly drop closed funds overstate returns, and the size of that overstatement has been estimated repeatedly.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication attempt was found, and for this entry that is a statement about what kind of claim it is."
+  },
+  "limits": "Survivorship bias is not an experimental effect, so there is no protocol to re-run and no confidence interval to compare. It is a structural property of how a sample was assembled, closer to a theorem than to a finding: given a filter correlated with the outcome, the surviving sample is biased, and that follows rather than being tested. What can be measured is the size of the distortion in a particular dataset, and those measurements exist in the mutual-fund literature. The label also gets applied well past the cases where anyone has quantified anything, and its usefulness there rests on the argument rather than on evidence.",
+  "misreadings": "The bomber diagram that circulates with this story is a modern illustration. Wald's report contains no picture of a plane covered in dots; the widely shared image was drawn in 2016 and vectorised in 2021, based on a Lockheed PV-1 outline and on US Air Force hit plots from decades after the war. The story is also often told as though Wald reversed a decision the military had already made, which is more than the record supports. The larger misuse is rhetorical: pointing out that a sample survived something is not by itself an argument that its lesson is wrong, only that the missing cases have to be reasoned about. Used as a conversational trump card it explains every success story equally well, which is another way of saying it explains none of them.",
+  "sources": [
+    {
+      "text": "Wald, A. (1943). A method of estimating plane vulnerability based on damage of survivors. Statistical Research Group, Columbia University; reprinted 1980, Defense Technical Information Center, ADA091073.",
+      "url": "https://apps.dtic.mil/sti/citations/ADA091073",
+      "type": "primary"
+    },
+    {
+      "text": "Mangel, M., & Samaniego, F. J. (1984). Abraham Wald's work on aircraft survivability. Journal of the American Statistical Association, 79(386), 259.",
+      "doi": "10.2307/2288257",
+      "url": "https://doi.org/10.2307/2288257",
+      "type": "secondary"
+    },
+    {
+      "text": "File:Survivorship-bias.svg, Wikimedia Commons. The description records the image as an illustration of an unillustrated 1943 report, drawn by McGeddon in 2016 and vectorised by Martin Grandjean in 2021.",
+      "url": "https://commons.wikimedia.org/wiki/File:Survivorship-bias.svg",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

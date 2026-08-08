@@ -1,0 +1,54 @@
+{
+  "no": 7,
+  "slug": "framing-effect",
+  "name": "Framing effect",
+  "aliases": ["Gain-loss framing", "The Asian disease problem", "Valence framing"],
+  "category": "decision",
+  "statement": "Describe the same outcome as lives saved rather than lives lost and people's willingness to gamble on it reverses, though the arithmetic has not changed.",
+  "meaning": "The demonstration uses two versions of one problem. A disease is expected to kill 600 people, and you choose between a certain outcome and a gamble. In the gain frame the certain option saves 200 people; in the loss frame 400 people die. Those are the same outcome stated twice. Most people take the sure thing when the choice is described in lives saved and take the gamble when it is described in deaths, which means the preference is attached to the wording rather than to the world. That is the part that matters: a preference that flips with a rephrasing cannot be a stable ranking of the outcomes themselves.",
+  "origin": {
+    "year": 1981,
+    "who": "Amos Tversky and Daniel Kahneman",
+    "where": "Science",
+    "note": "The paper is \"The Framing of Decisions and the Psychology of Choice\". The reversal is explained by prospect theory, which they had published two years earlier: people are risk-averse about gains and risk-seeking about losses, so which side of the reference point a frame puts you on decides which way you lean."
+  },
+  "evidence": "Participants read one of the two versions and pick an option. The measure is the difference in how many choose the gamble. The original reported a large reversal. Many Labs 1 ran the same problem at 36 sites, with one change to the wording: the country was set to wherever the data were collected, and the word describing the disease as Asian was dropped.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The reversal came back at 36 laboratories and 6,271 people, in the same direction everywhere it appeared, at roughly half the size originally reported.",
+    "detail": "Across the whole sample the effect was d = 0.62 unweighted, with a 99% confidence interval from 0.52 to 0.71. The original was d = 1.13. So the effect is real and consistent, and it is about half as large as the paper that made it famous. The consistency is worth as much as the size here: 86% of the 36 samples found it significant in the same direction, 14% found nothing, and no site found it reversed. Many Labs also tested whether the result varied by country or by whether people took part online or in a laboratory, and for this effect it did not.",
+    "study": {
+      "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "year": 2014,
+      "sites": 36,
+      "n": 6271
+    },
+    "original": { "es": 1.13, "esType": "d", "ci": [0.89, 1.37], "ciLevel": 95 },
+    "replicated": { "es": 0.62, "esType": "d", "ci": [0.52, 0.71], "ciLevel": 99, "weighting": "unweighted" },
+    "indexedBy": "FReD"
+  },
+  "limits": "What replicated is one problem, in one format, answered by people with nothing at stake. Framing is a family of effects rather than a single one, and the others do not all behave like this: attribute framing, where a product is 75% lean or 25% fat, and goal framing, where a health message stresses the benefit of acting or the cost of not acting, have their own literatures and much smaller average effects. The halving from 1.13 to 0.62 is also what publication bias tends to look like, though a single comparison cannot distinguish that from ordinary shrinkage.",
+  "misreadings": "The result is often read as showing that people cannot reason about risk, which is stronger than what happened. The two frames genuinely differ in what they emphasise, and treating them as identical is a stipulation of the experiment rather than an obvious fact about language. It is also commonly stated as a claim about individuals, when both the original and the replication measure a shift in proportions across groups: many people give the same answer in either frame. And the disease problem gets cited as evidence for prospect theory when it was designed as an illustration of it, which is a different relationship between a finding and a theory.",
+  "sources": [
+    {
+      "text": "Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.",
+      "doi": "10.1126/science.7455683",
+      "url": "https://doi.org/10.1126/science.7455683",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "url": "https://doi.org/10.1027/1864-9335/a000178",
+      "type": "replication"
+    },
+    {
+      "text": "Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.",
+      "doi": "10.2307/1914185",
+      "url": "https://doi.org/10.2307/1914185",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
