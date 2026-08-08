@@ -1,0 +1,113 @@
+{
+  "no": 37,
+  "slug": "base-rate-fallacy",
+  "name": "Base rate fallacy",
+  "aliases": [
+    "Base rate neglect",
+    "Prior probability neglect",
+    "Base-rate fallacy"
+  ],
+  "category": "belief",
+  "statement": "Told that a test with a 5% false-positive rate flags a disease one person in a thousand has, most people answer 95% rather than about 2%.",
+  "meaning": "Bayes's rule says a posterior probability depends on three things: how common the condition is, how often the test catches it, and how often the test fires on people who do not have it. The complaint is that people attend to the second and third and drop the first. Two families of demonstration sit under the one name and they are not the same experiment. In the diagnosis family the numbers are all given, the answer is a calculation, and the finding is a percentage of people who get it wrong. In the personality-sketch family a description is drawn from a stated mix of two professions, and the finding is that judgments barely move when the mix is reversed. The first is about arithmetic under a stated prior. The second is about whether a stated prior is treated as relevant at all.",
+  "origin": {
+    "year": 1973,
+    "who": "Daniel Kahneman and Amos Tversky",
+    "where": "Psychological Review",
+    "note": "\"On the Psychology of Prediction\" reported the engineer-lawyer problem, in which descriptions were said to be drawn at random from a panel of either 30 engineers and 70 lawyers or 70 engineers and 30 lawyers. The 1973 paper could not be opened during this check. Its figures are taken from Gigerenzer, Hell and Blank, who report that mean judgments were 5% higher on the probability scale in the group given the higher engineer base rate, and that the median judgment for the deliberately uninformative description of Dick was .50 in both groups."
+  },
+  "evidence": "The cab problem put the same claim in pure numbers. Bar-Hillel gave 52 people a city where 85% of cabs are blue and 15% green, and a witness who identifies colours correctly about 80% of the time and reports a green cab. Bayes gives 41%. The median answer was 80%, 36% of respondents gave exactly the witness's accuracy, and about 10% came anywhere near 41%. The medical version is the one that travels. Casscells, Schoenberger and Graboys asked 60 students, house officers and attending physicians at Harvard Medical School teaching hospitals for the chance that a person with a positive result actually has a disease with a prevalence of 1 in 1,000, given a false-positive rate of 5%. Manrai and colleagues, who reproduce the question and the figures, report that 11 of the 60 answered correctly and 27 of them said 95%. The 1978 paper itself could not be opened during this check.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The medical version repeats almost exactly, the personality-sketch version does not, and rewriting the medical problem as counts of people roughly triples the number of correct answers without getting most people to the right one.",
+    "detail": "Manrai, Bhatia, Strymish, Kohane and Jain put the Casscells question to 61 people at a Boston-area hospital, 24 of them attending physicians. Fourteen (23%) gave the correct 2%, 27 (44%) said 95%, and the median answer was 66%, which the authors note is 33 times the true value. Stengård, Juslin, Hahn and van den Berg ran the classic wording on 100 online participants as a control: 9% were correct, and the modal answer was again 95%. The format effect is the crucial modification. Gigerenzer and Hoffrage gave 60 paid students at the University of Salzburg 15 inference problems, each in two of four versions, scoring an answer as Bayesian only when both the process and the number were right. Probability wording produced 16% Bayesian solutions in the standard menu and 28% in the short menu. The same information written as counts produced 46% and 50%. McDowell and Jacobs pooled 226 performance estimates from 35 articles; Weber, Binder and Krauss quote them as putting performance at 24% for natural frequencies against 4% for probabilities. Bramwell, West and Salmon tested a Down's syndrome screening question on 43 pregnant women, 40 companions, 42 midwives and 41 obstetricians. Frequencies beat percentages, 24% correct against 6%, and 86% of all responses were still wrong. Stengård and colleagues found the same direction and a smaller gap across 45 varied problems: mean absolute error was 18.0 with natural frequencies against 23.2 with normalised formats, and 46 of 91 participants were classified as Bayesian against 31 of 91. The personality-sketch version behaves differently. Gigerenzer, Hell and Blank re-ran the engineer-lawyer problem with 24 people per cell of a two-by-two design. Merely asserting random sampling gave a base-rate effect of 9.8 points, about twice the original 5%. Letting participants draw the description from an urn themselves lifted it to 17.3 points and cut the distance from Bayesian performance from 18.4 to 10.1. Toubia and colleagues put the problem to a representative US sample of 2,058 people across four waves. It was the only between-subject classic in their battery that failed: mean judgments were 52.17% in the 30-engineer condition and 68.01% in the 70-engineer condition (t = -15.78, p < .01), repeated in wave four at 52.39% and 70.71%.",
+    "study": {
+      "cite": "Manrai, A. K., Bhatia, G., Strymish, J., Kohane, I. S., & Jain, S. H. (2014). Medicine's uncomfortable relationship with math: Calculating positive predictive value. JAMA Internal Medicine, 174(6), 991-993.",
+      "doi": "10.1001/jamainternmed.2014.1059",
+      "year": 2014,
+      "n": 61
+    }
+  },
+  "limits": "No multi-site preregistered replication of base-rate neglect was located. Searches of Crossref, PubMed, the BMJ, bioRxiv, arXiv and the journals themselves turned up no Many Labs or Registered Replication Report entry for either paradigm, so the record is a meta-analysis, one large representative survey, and single-laboratory experiments. Two originals could not be opened: Kahneman and Tversky's 1973 paper and the 1978 Casscells report. Their numbers here come from Gigerenzer, Hell and Blank and from Manrai and colleagues respectively, both of whom reproduce them. The effect is also measured almost entirely in one corner of the problem space. Stengård and colleagues make the point directly: the standard problems use base rates near zero, near-perfect hit rates and low false-alarm rates, where a Bayesian answer and base-rate neglect are far apart. Across five base rates from 0.1 to 0.9 they found the pattern generalises, but with a bimodal split, one group of participants ignoring the base rate almost entirely and another using it almost fully. A group average of partial neglect can describe a population in which nobody partially neglects anything.",
+  "misreadings": "The strongest reading, that people ignore base rates, is the one the evidence does not carry. Koehler's review of the literature concluded that base rates are almost always used, and that how much depends on task structure and representation. Gigerenzer, Hell and Blank make the same case with a manipulation: base-rate use rose when random sampling could be watched rather than asserted, and in their second experiment, a football problem whose content already invites probability revision, judgments were indistinguishable from Bayesian. Kahneman and Tversky replied that Gigerenzer's critique misrepresents their position, and that judgments of frequency carry large and systematic biases of their own. The second error is treating natural frequencies as a fix. Weber, Binder and Krauss found that about 49% of people handed a frequency version converted it back into probabilities and calculated with those. Three-quarters of participants still get the natural-frequency version wrong. The third is reading the medical result as a fact about doctors. Bramwell and colleagues found obstetricians the best of four groups at 34% correct, ahead of pregnant women at 9% and midwives at 0%, which says more about the question than about the professions.",
+  "sources": [
+    {
+      "text": "Kahneman, D., & Tversky, A. (1973). On the psychology of prediction. Psychological Review, 80(4), 237-251. Source of the engineer-lawyer problem; full text not opened during this check.",
+      "doi": "10.1037/h0034747",
+      "url": "https://doi.org/10.1037/h0034747",
+      "type": "primary"
+    },
+    {
+      "text": "Bar-Hillel, M. (1980). The base-rate fallacy in probability judgments. Acta Psychologica, 44(3), 211-233.",
+      "doi": "10.1016/0001-6918(80)90046-3",
+      "url": "https://doi.org/10.1016/0001-6918(80)90046-3",
+      "type": "primary"
+    },
+    {
+      "text": "Casscells, W., Schoenberger, A., & Graboys, T. B. (1978). Interpretation by physicians of clinical laboratory results. New England Journal of Medicine, 299(18), 999-1001. Full text not opened during this check; its figures are quoted from Manrai et al. (2014).",
+      "doi": "10.1056/NEJM197811022991808",
+      "url": "https://doi.org/10.1056/NEJM197811022991808",
+      "type": "primary"
+    },
+    {
+      "text": "Manrai, A. K., Bhatia, G., Strymish, J., Kohane, I. S., & Jain, S. H. (2014). Medicine's uncomfortable relationship with math: Calculating positive predictive value. JAMA Internal Medicine, 174(6), 991-993.",
+      "doi": "10.1001/jamainternmed.2014.1059",
+      "url": "https://doi.org/10.1001/jamainternmed.2014.1059",
+      "type": "replication"
+    },
+    {
+      "text": "Gigerenzer, G., & Hoffrage, U. (1995). How to improve Bayesian reasoning without instruction: Frequency formats. Psychological Review, 102(4), 684-704.",
+      "doi": "10.1037/0033-295X.102.4.684",
+      "url": "https://doi.org/10.1037/0033-295X.102.4.684",
+      "type": "primary"
+    },
+    {
+      "text": "McDowell, M., & Jacobs, P. (2017). Meta-analysis of the effect of natural frequencies on Bayesian reasoning. Psychological Bulletin, 143(12), 1273-1312. Abstract read; the 24% against 4% figures are quoted from Weber, Binder and Krauss (2018).",
+      "doi": "10.1037/bul0000126",
+      "url": "https://doi.org/10.1037/bul0000126",
+      "type": "replication"
+    },
+    {
+      "text": "Weber, P., Binder, K., & Krauss, S. (2018). Why can only 24% solve Bayesian reasoning problems in natural frequencies: Frequency phobia in spite of probability blindness. Frontiers in Psychology, 9, 1833.",
+      "doi": "10.3389/fpsyg.2018.01833",
+      "url": "https://doi.org/10.3389/fpsyg.2018.01833",
+      "type": "replication"
+    },
+    {
+      "text": "Bramwell, R., West, H., & Salmon, P. (2006). Health professionals' and service users' interpretation of screening test results: Experimental study. BMJ, 333(7562), 284.",
+      "doi": "10.1136/bmj.38884.663102.AE",
+      "url": "https://doi.org/10.1136/bmj.38884.663102.AE",
+      "type": "replication"
+    },
+    {
+      "text": "Stengård, E., Juslin, P., Hahn, U., & van den Berg, R. (2022). On the generality and cognitive basis of base-rate neglect. Cognition, 226, 105160.",
+      "doi": "10.1016/j.cognition.2022.105160",
+      "url": "https://doi.org/10.1016/j.cognition.2022.105160",
+      "type": "replication"
+    },
+    {
+      "text": "Gigerenzer, G., Hell, W., & Blank, H. (1988). Presentation and content: The use of base rates as a continuous variable. Journal of Experimental Psychology: Human Perception and Performance, 14(3), 513-525.",
+      "doi": "10.1037/0096-1523.14.3.513",
+      "url": "https://doi.org/10.1037/0096-1523.14.3.513",
+      "type": "replication"
+    },
+    {
+      "text": "Toubia, O., Gui, G. Z., Peng, T., Merlau, D. J., Li, A., & Chen, H. (2025). Twin-2K-500: A dataset for building digital twins of over 2,000 people based on their answers to over 500 questions. arXiv:2505.17479. Preprint; the base-rate replication is reported in Table 3 and Appendix A.6.1.",
+      "url": "https://arxiv.org/abs/2505.17479",
+      "type": "replication"
+    },
+    {
+      "text": "Koehler, J. J. (1996). The base rate fallacy reconsidered: Descriptive, normative, and methodological challenges. Behavioral and Brain Sciences, 19(1), 1-17.",
+      "doi": "10.1017/S0140525X00041157",
+      "url": "https://doi.org/10.1017/S0140525X00041157",
+      "type": "commentary"
+    },
+    {
+      "text": "Kahneman, D., & Tversky, A. (1996). On the reality of cognitive illusions. Psychological Review, 103(3), 582-591.",
+      "doi": "10.1037/0033-295X.103.3.582",
+      "url": "https://doi.org/10.1037/0033-295X.103.3.582",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
