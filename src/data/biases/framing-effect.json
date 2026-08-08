@@ -2,7 +2,7 @@
   "no": 7,
   "slug": "framing-effect",
   "name": "Framing effect",
-  "aliases": ["Gain-loss framing", "The Asian disease problem", "Valence framing"],
+  "aliases": ["Gain-loss framing", "The Asian disease problem", "Valence framing", "Risky-choice framing"],
   "category": "decision",
   "statement": "Describe the same outcome as lives saved rather than lives lost and people's willingness to gamble on it reverses, though the arithmetic has not changed.",
   "meaning": "The demonstration uses two versions of one problem. A disease is expected to kill 600 people, and you choose between a certain outcome and a gamble. In the gain frame the certain option saves 200 people; in the loss frame 400 people die. Those are the same outcome stated twice. Most people take the sure thing when the choice is described in lives saved and take the gamble when it is described in deaths, which means the preference is attached to the wording rather than to the world. That is the part that matters: a preference that flips with a rephrasing cannot be a stable ranking of the outcomes themselves.",
@@ -12,11 +12,11 @@
     "where": "Science",
     "note": "The paper is \"The Framing of Decisions and the Psychology of Choice\". The reversal is explained by prospect theory, which they had published two years earlier: people are risk-averse about gains and risk-seeking about losses, so which side of the reference point a frame puts you on decides which way you lean."
   },
-  "evidence": "Participants read one of the two versions and pick an option. The measure is the difference in how many choose the gamble. The original reported a large reversal. Many Labs 1 ran the same problem at 36 sites, with one change to the wording: the country was set to wherever the data were collected, and the word describing the disease as Asian was dropped.",
+  "evidence": "Participants read one version of the problem and pick an option. In the 1981 paper 152 respondents saw the gain frame, and 72% chose the certain programme that saves 200 people. Another 155 saw the loss frame, and 22% chose the certain programme in which 400 people die, leaving 78% on the gamble. Respondents were students at Stanford University and the University of British Columbia answering brief questionnaires in class. The literature that followed is large. Kühberger pooled 136 papers reporting risky-choice framing experiments, with nearly 30,000 participants and 230 effect sizes, and concluded that framing is reliable but small to moderate, with features of the research design mattering more than the topic. Steiger and Kühberger later reanalysed that data pool using p-curve, which corrects an effect size from the distribution of significant p-values alone. Their corrected estimate was d = 0.52, against the d = 0.31 they attribute to the 1998 analysis, and they reported no evidence of intense p-hacking. A fresh meta-analysis of risk framing experiments published in 2016 gave them d = 0.56.",
   "replication": {
     "state": "replicated",
-    "headline": "Two multi-laboratory projects re-ran two different framing scenarios from the same paper, and both came back at about half the size originally reported.",
-    "detail": "Across the whole sample the effect was d = 0.62 unweighted, with a 99% confidence interval from 0.52 to 0.71. The original was d = 1.13. So the effect is real and consistent, and it is about half as large as the paper that made it famous. The consistency is worth as much as the size here: 86% of the 36 samples found it significant in the same direction, 14% found nothing, and no site found it reversed. Many Labs also tested whether the result varied by country or by whether people took part online or in a laboratory, and for this effect it did not. A second project reached the same shape from a different scenario: Many Labs 2 replicated Study 10 of the same 1981 paper, where a $5 saving feels worth a trip across town on a cheap item and not on an expensive one, across 7,228 participants in 36 countries. The effect held at d = 0.40, with an odds ratio of 2.06 against the original's 4.96. Two separate multi-laboratory projects, two different framing scenarios, the same verdict: present, consistent, and about half the published size.",
+    "headline": "Two multi-laboratory projects re-ran two different framing scenarios from the 1981 paper, and both found the effect at roughly half the originally reported size.",
+    "detail": "Many Labs 1 ran the disease problem at 36 sites with 6,271 participants, substituting the country of data collection for the United States and dropping the word Asian. The unweighted estimate across sites was d = 0.62, 99% CI 0.52 to 0.71. The weighted estimate over the pooled sample was d = 0.60, 99% CI 0.53 to 0.67. Many Labs put the original at d = 1.13, 95% CI 0.89 to 1.37, computed from the cell sizes the 1981 paper reports. Consistency is worth as much as size here: 86% of the 36 samples found the effect in the same direction at p < .05, 14% found nothing, and none found it reversed. Neither country nor laboratory-versus-online administration moderated it. Many Labs 2 replicated Problem 10 of the same paper, where a $5 saving justifies a 20-minute drive to another branch when the discounted item is cheap but not when it is costly. Across 7,228 participants the odds ratio was 2.06, 95% CI 1.87 to 2.27, against 4.96, 95% CI 2.55 to 9.90, in the original 181 respondents, giving d = 0.40, 95% CI 0.35 to 0.45. Variation between samples was near zero, I-squared = 6%, and again neither culture nor mode of administration moderated it. Whether the drop from 1.13 counts as deflation is contested. Steiger and Kühberger set their publication-bias-corrected literature estimate of d = 0.52 beside the Many Labs weighted figure of 0.60 and called the two surprisingly similar, which makes the 1981 result the outlier rather than the replications short.",
     "study": {
       "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
       "doi": "10.1027/1864-9335/a000178",
@@ -28,32 +28,66 @@
     "replicated": { "es": 0.62, "esType": "d", "ci": [0.52, 0.71], "ciLevel": 99, "weighting": "unweighted" },
     "indexedBy": "FReD"
   },
-  "limits": "What replicated is one problem, in one format, answered by people with nothing at stake. Framing is a family of effects rather than a single one, and the others do not all behave like this: attribute framing, where a product is 75% lean or 25% fat, and goal framing, where a health message stresses the benefit of acting or the cost of not acting, have their own literatures and much smaller average effects. The halving from 1.13 to 0.62 is also what publication bias tends to look like, though a single comparison cannot distinguish that from ordinary shrinkage.",
-  "misreadings": "The result is often read as showing that people cannot reason about risk, which is stronger than what happened. The two frames genuinely differ in what they emphasise, and treating them as identical is a stipulation of the experiment rather than an obvious fact about language. It is also commonly stated as a claim about individuals, when both the original and the replication measure a shift in proportions across groups: many people give the same answer in either frame. And the disease problem gets cited as evidence for prospect theory when it was designed as an illustration of it, which is a different relationship between a finding and a theory.",
+  "limits": "What replicated is one problem, in one format, answered by people with nothing at stake. Framing is a family of effects, and the three kinds Levin, Schneider and Gaeth separated in 1998 do not behave alike. Risky-choice framing is the disease problem. Attribute framing changes how an object is judged, as when beef is 75% lean or 25% fat. Goal framing changes how persuasive a message is. Piñon and Gambara pooled 51 primary studies published between 1997 and 2003, yielding 151 effect sizes over nearly 13,500 subjects, and found d = 0.437 for risky framing, 0.260 for attribute framing and 0.444 for goal framing. That ranking is not settled. O'Keefe and Jensen reviewed 93 health-message studies covering 21,656 people and found gain-framed appeals more persuasive than loss-framed ones for disease prevention by r = .03, an advantage they trace almost wholly to messages about dental hygiene. The two meta-analyses score different quantities. Piñon and Gambara count any difference between frames; O'Keefe and Jensen count a directional advantage in persuading someone to act. A single average across the three types would bury that difference, and the replication verdict above covers risky-choice framing only.",
+  "misreadings": "The result is often read as showing that people cannot reason about risk, which is stronger than what happened. Mandel argues the wording is doing the work. Most people read \"200 will be saved\" as at least 200 rather than exactly 200, and across two experiments the framing effect vanished once he made the quantifiers explicitly exact. A third experiment found that spontaneous lower-bound readings are common and strongly moderate the effect. Simmons and Nelson report on their blog Data Colada that inserting the word exactly, with about 98 participants per cell, still left 63% on the sure option in the gain frame against 25% in the loss frame. That exchange is unresolved, and it concerns what the effect means rather than whether it appears. The finding is also commonly stated as a claim about individuals, when the original and both replications measure a shift in proportions across groups. Many people give the same answer in either frame. And the disease problem gets cited as evidence for prospect theory when it was written as an illustration of it, which is a different relationship between a finding and a theory.",
   "sources": [
     {
-      "text": "Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.",
+      "text": "Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458. Problems 1 and 2 give the disease percentages; Problem 10 is the scenario Many Labs 2 replicated.",
       "doi": "10.1126/science.7455683",
       "url": "https://doi.org/10.1126/science.7455683",
       "type": "primary"
     },
     {
-      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152. Table 2 reports unweighted and weighted estimates in separate columns; both are quoted above under their own labels.",
       "doi": "10.1027/1864-9335/a000178",
       "url": "https://doi.org/10.1027/1864-9335/a000178",
       "type": "replication"
     },
     {
-      "text": "Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.",
-      "doi": "10.2307/1914185",
-      "url": "https://doi.org/10.2307/1914185",
-      "type": "background"
-    },
-    {
-      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Source for the second framing scenario, Study 10 of the 1981 paper.",
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. The project ran 125 samples and 15,305 participants across 36 countries and territories, with each slate of studies given to about half of them.",
       "doi": "10.1177/2515245918810225",
       "url": "https://doi.org/10.1177/2515245918810225",
       "type": "replication"
+    },
+    {
+      "text": "Kühberger, A. (1998). The influence of framing on risky decisions: A meta-analysis. Organizational Behavior and Human Decision Processes, 75(1), 23-55. The pooled d = 0.31 quoted above is not in this abstract; it is read off Steiger and Kühberger's 2018 description of this analysis.",
+      "doi": "10.1006/obhd.1998.2781",
+      "url": "https://doi.org/10.1006/obhd.1998.2781",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Steiger, A., & Kühberger, A. (2018). A meta-analytic re-appraisal of the framing effect. Zeitschrift für Psychologie, 226(1), 45-55.",
+      "doi": "10.1027/2151-2604/a000321",
+      "url": "https://doi.org/10.1027/2151-2604/a000321",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Levin, I. P., Schneider, S. L., & Gaeth, G. J. (1998). All frames are not created equal: A typology and critical analysis of framing effects. Organizational Behavior and Human Decision Processes, 76(2), 149-188.",
+      "doi": "10.1006/obhd.1998.2804",
+      "url": "https://doi.org/10.1006/obhd.1998.2804",
+      "type": "background"
+    },
+    {
+      "text": "Piñon, A., & Gambara, H. (2005). A meta-analytic review of framing effect: Risky, attribute and goal framing. Psicothema, 17(2), 325-331.",
+      "url": "https://www.psicothema.com/pdf/3107.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "O'Keefe, D. J., & Jensen, J. D. (2007). The relative persuasiveness of gain-framed and loss-framed messages for encouraging disease prevention behaviors: A meta-analytic review. Journal of Health Communication, 12(7), 623-644.",
+      "doi": "10.1080/10810730701615198",
+      "url": "https://doi.org/10.1080/10810730701615198",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Mandel, D. R. (2014). Do framing effects reveal irrational choice? Journal of Experimental Psychology: General, 143(3), 1185-1198.",
+      "doi": "10.1037/a0034207",
+      "url": "https://doi.org/10.1037/a0034207",
+      "type": "critique"
+    },
+    {
+      "text": "Simmons, J., & Nelson, L. (2013). \"Exactly\": The most famous framing effect is robust to precise wording. Data Colada, post 11. A blog post rather than a peer-reviewed paper, cited as the rebuttal its authors state.",
+      "url": "https://datacolada.org/11",
+      "type": "critique"
     }
   ],
   "checkedOn": "2026-08-08"

@@ -53,6 +53,28 @@ the figure appears in no source, which is the only test that matters here.
   explicit reminder that `mixed` exists for genuine disagreement and
   `none-located` means a search was made and came up empty.
 
+## The brief is not evidence either
+
+The brief names leads and warns about traps, and it is written from memory by
+someone who has not read the papers yet. That makes it exactly the kind of
+confident secondary source the protocol exists to distrust, and agents have now
+corrected it four times.
+
+Twice on facts: the Baader-Meinhof name came from a printed newspaper reader
+column making a narrower claim than the online comment board the brief
+described, and the brief's assertion that strong embodiment is "alive and well"
+in cognitive science had no source behind it. Once on numbers: a brief asserted
+that attribute and goal framing have much smaller effects than risky-choice
+framing, and Piñon and Gambara's 51 studies give risky 0.437, attribute 0.260
+and goal 0.444, so the largest of the three was the one called weak. And twice
+on entry numbers, where the brief assigned a new `no` to a bias that already had
+a published entry.
+
+An agent that follows the brief where the brief is wrong has fabricated
+something, and the fabrication traces back here. So the instruction is explicit:
+the brief is a starting point for searching and has no authority over what the
+sources say. Contradicting it is the job working correctly.
+
 ## What the agent must not do
 
 Touch git. Agents leave the working tree dirty and report; the review, the
