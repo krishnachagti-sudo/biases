@@ -15,8 +15,8 @@
   "evidence": "Participants read one of the two versions and pick an option. The measure is the difference in how many choose the gamble. The original reported a large reversal. Many Labs 1 ran the same problem at 36 sites, with one change to the wording: the country was set to wherever the data were collected, and the word describing the disease as Asian was dropped.",
   "replication": {
     "state": "replicated",
-    "headline": "The reversal came back at 36 laboratories and 6,271 people, in the same direction everywhere it appeared, at roughly half the size originally reported.",
-    "detail": "Across the whole sample the effect was d = 0.62 unweighted, with a 99% confidence interval from 0.52 to 0.71. The original was d = 1.13. So the effect is real and consistent, and it is about half as large as the paper that made it famous. The consistency is worth as much as the size here: 86% of the 36 samples found it significant in the same direction, 14% found nothing, and no site found it reversed. Many Labs also tested whether the result varied by country or by whether people took part online or in a laboratory, and for this effect it did not.",
+    "headline": "Two multi-laboratory projects re-ran two different framing scenarios from the same paper, and both came back at about half the size originally reported.",
+    "detail": "Across the whole sample the effect was d = 0.62 unweighted, with a 99% confidence interval from 0.52 to 0.71. The original was d = 1.13. So the effect is real and consistent, and it is about half as large as the paper that made it famous. The consistency is worth as much as the size here: 86% of the 36 samples found it significant in the same direction, 14% found nothing, and no site found it reversed. Many Labs also tested whether the result varied by country or by whether people took part online or in a laboratory, and for this effect it did not. A second project reached the same shape from a different scenario: Many Labs 2 replicated Study 10 of the same 1981 paper, where a $5 saving feels worth a trip across town on a cheap item and not on an expensive one, across 7,228 participants in 36 countries. The effect held at d = 0.40, with an odds ratio of 2.06 against the original's 4.96. Two separate multi-laboratory projects, two different framing scenarios, the same verdict: present, consistent, and about half the published size.",
     "study": {
       "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
       "doi": "10.1027/1864-9335/a000178",
@@ -48,6 +48,12 @@
       "doi": "10.2307/1914185",
       "url": "https://doi.org/10.2307/1914185",
       "type": "background"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Source for the second framing scenario, Study 10 of the 1981 paper.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
     }
   ],
   "checkedOn": "2026-08-08"

@@ -1,0 +1,53 @@
+{
+  "no": 10,
+  "slug": "false-consensus-effect",
+  "name": "False consensus effect",
+  "aliases": ["False consensus bias", "Consensus bias"],
+  "category": "social",
+  "statement": "People overestimate how many others share their own choice, so whichever option you would pick is the one you expect most people to pick.",
+  "meaning": "The measurement is comparative rather than absolute, which is what makes it a bias rather than an opinion. Two people are asked the same question about what most others would do. One of them would choose option A and one would choose option B, and each gives a higher estimate for their own option. Neither estimate can be checked against the truth for that individual, but they cannot both be right, and the gap between them is the effect. Ross and colleagues framed it as egocentrism in social perception: your own response is the most available piece of evidence you have about what people do.",
+  "origin": {
+    "year": 1977,
+    "who": "Lee Ross, David Greene and Pamela House",
+    "where": "Journal of Experimental Social Psychology",
+    "note": "Their paper names the effect in its title, in quotation marks, which is how a phrase enters a literature. The best-known scenario asks whether you would walk around campus wearing a sandwich board reading REPENT."
+  },
+  "evidence": "320 undergraduates read hypothetical situations ending in a two-way choice, estimated what percentage of their peers would take each option, and then said what they would do themselves. Across four scenarios, people who chose the first option put its popularity at 75.4% while people who chose the second put it at 54.9%, an effect of d = 0.79. A meta-analysis of 115 hypothesis tests eight years later put the effect at r = 0.31 across a range of paradigms.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Many Labs 2 ran two of the original scenarios across 125 samples in 36 countries and found the effect larger than the original both times.",
+    "detail": "The supermarket vignette produced d = 1.18 across 7,205 participants, with a 95% confidence interval from 1.13 to 1.23. The traffic-ticket vignette produced d = 0.95 across 7,827 participants, interval 0.90 to 1.00. Both are above the original d = 0.79, and both intervals are narrow enough to be a measurement rather than an estimate. That makes this one of the small number of findings in Many Labs 2 that came back bigger: most of the 28 effects in that project shrank, and 13 of them found nothing at all.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 7205
+    },
+    "original": { "es": 0.79, "esType": "d", "ci": [0.56, 1.02], "ciLevel": 95 },
+    "replicated": { "es": 1.18, "esType": "d", "ci": [1.13, 1.23], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "The figures above are for the supermarket scenario; the traffic-ticket scenario in the same project gave 0.95. The participant count is that scenario's sample rather than the project's 15,305, because each protocol went to about half the samples. There is also an old and unresolved argument about what the effect measures. Estimating that others resemble you is not irrational when you have no other information about them, and on some accounts a person's own choice is genuine evidence about the population they belong to. Under that reading part of the gap is a sound inference rather than an error, and the experiments do not separate the two.",
+  "misreadings": "The effect is often stated as people believing everyone agrees with them, which is stronger than the data. In the replication, participants who chose the first option put it at 69% and those who chose the second put it at 43%: both groups are well inside plausible ranges, and the finding is the difference between them. It also gets treated as an explanation for political polarisation on its own, where the evidence is about two-way choices in vignettes with nothing at stake. And it is regularly confused with the false uniqueness effect, which points the other way and applies to abilities rather than choices.",
+  "sources": [
+    {
+      "text": "Ross, L., Greene, D., & House, P. (1977). The \"false consensus effect\": An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279-301.",
+      "doi": "10.1016/0022-1031(77)90049-X",
+      "url": "https://doi.org/10.1016/0022-1031(77)90049-X",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    },
+    {
+      "text": "Mullen, B., Atkins, J. L., Champion, D. S., et al. (1985). The false consensus effect: A meta-analysis of 115 hypothesis tests. Journal of Experimental Social Psychology, 21(3), 262-283.",
+      "doi": "10.1016/0022-1031(85)90020-4",
+      "url": "https://doi.org/10.1016/0022-1031(85)90020-4",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
