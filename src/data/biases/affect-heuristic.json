@@ -1,0 +1,59 @@
+{
+  "no": 12,
+  "slug": "affect-heuristic",
+  "name": "Affect heuristic",
+  "aliases": ["Affect-as-information", "Risk-as-feelings"],
+  "category": "decision",
+  "statement": "How something feels stands in for how likely or how risky it is, so a judgement that looks like a calculation is often a reading of a mood.",
+  "meaning": "The proposal is that people carry an affective tag on almost everything they think about, positive or negative, and consult it before they consult anything slower. Its sharpest prediction concerns risk and benefit. In the world these two are largely independent, and often positively related, since risky technologies tend to be the useful ones. In people's judgements they come out inversely related: whatever feels good is rated both more beneficial and less dangerous. A second prediction, and the one tested below, is that feelings should matter most exactly where probability information is hardest to feel, which is at very long odds.",
+  "origin": {
+    "year": 2000,
+    "who": "Melissa Finucane, Ali Alhakami, Paul Slovic and Stephen Johnson",
+    "where": "Journal of Behavioral Decision Making",
+    "note": "Their paper is \"The affect heuristic in judgments of risks and benefits\". Slovic and colleagues set out the general account seven years later in the European Journal of Operational Research under the bare title \"The affect heuristic\"."
+  },
+  "evidence": "The inverse risk-benefit relationship is the main line of evidence, and it is a correlational finding about how people rate technologies. The prediction tested by the replication below comes from Rottenstreich and Hsee, who offered 40 people a choice between a kiss from a favourite film star and fifty dollars, under two conditions: certain, or with a 1% chance. When the outcome was certain 35% took the kiss; when it was a long shot 70% did. The reading is that at low probability the feeling does the work, because 1% of anything is hard to picture but a kiss is not.",
+  "replication": {
+    "state": "failed",
+    "headline": "The prediction that feelings matter more at long odds reversed direction across 7,218 people, and the reversal was itself significant.",
+    "detail": "Many Labs 2 ran the kiss-versus-money choice in 36 countries. Where the original found 70% choosing the affective option under low probability against 35% under certainty, the replication found 47% against 51%, an effect of d = -0.08 with a 95% confidence interval from -0.13 to -0.03. That is a small effect pointing the wrong way, and the interval excludes zero, so this is not a null result. It is a finding that the difference goes in the opposite direction to the one predicted, at a fraction of the reported size. The original d was 0.74 from a sample of 40, with a confidence interval running from essentially zero to 1.74.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 7218
+    },
+    "original": { "es": 0.74, "esType": "d", "ci": [0.001, 1.74], "ciLevel": 95 },
+    "replicated": { "es": -0.08, "esType": "d", "ci": [-0.13, -0.03], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "What failed is one prediction from one paper, and the affect heuristic is broader than that paper. The inverse relationship between perceived risk and perceived benefit is a separate body of evidence and is not tested here; neither is the claim that affective tags are consulted quickly. Read this entry as a verdict on the probability-weighting prediction rather than on the idea as a whole. The original interval is also worth looking at before treating the reversal as a surprise: with 40 participants it ran from about zero to 1.74, meaning that study was compatible with almost any effect size including none.",
+  "misreadings": "The affect heuristic is often invoked as though any emotional influence on a judgement confirms it. That makes the idea unfalsifiable and is not what its authors proposed; the claim has specific predictions and at least one of them has now failed at scale. It is also frequently merged with the availability heuristic, since vivid things are both easy to recall and easy to feel, but those are separate mechanisms making separate predictions. And a heuristic is a shortcut rather than a mistake: substituting a feeling for a calculation is often the right move under time pressure, and the literature on when it is not is thinner than the literature on the substitution itself.",
+  "sources": [
+    {
+      "text": "Finucane, M. L., Alhakami, A., Slovic, P., & Johnson, S. M. (2000). The affect heuristic in judgments of risks and benefits. Journal of Behavioral Decision Making, 13(1), 1-17.",
+      "doi": "10.1002/(SICI)1099-0771(200001/03)13:1<1::AID-BDM333>3.0.CO;2-S",
+      "url": "https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1<1::AID-BDM333>3.0.CO;2-S",
+      "type": "primary"
+    },
+    {
+      "text": "Rottenstreich, Y., & Hsee, C. K. (2001). Money, kisses, and electric shocks: On the affective psychology of risk. Psychological Science, 12(3), 185-190.",
+      "doi": "10.1111/1467-9280.00334",
+      "url": "https://doi.org/10.1111/1467-9280.00334",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    },
+    {
+      "text": "Slovic, P., Finucane, M. L., Peters, E., & MacGregor, D. G. (2007). The affect heuristic. European Journal of Operational Research, 177(3), 1333-1352.",
+      "doi": "10.1016/j.ejor.2005.04.006",
+      "url": "https://doi.org/10.1016/j.ejor.2005.04.006",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

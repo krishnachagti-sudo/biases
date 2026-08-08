@@ -1,0 +1,49 @@
+{
+  "no": 13,
+  "slug": "barnum-effect",
+  "name": "Barnum effect",
+  "aliases": ["Forer effect", "Personal validation fallacy", "Barnum-Forer effect"],
+  "category": "belief",
+  "statement": "Given a personality description vague enough to fit almost anyone, people rate it as an accurate portrait of themselves in particular.",
+  "meaning": "The trick is in a specific kind of vagueness. A Barnum statement is not empty; it is double-sided, so that whichever way you lean you can find yourself in it. \"At times you are extroverted and sociable, while at other times you are introverted and reserved\" is true of everyone and reads as observant, because the reader supplies the half that applies to them and forgets the other half was there. The effect matters because it is the mechanism that keeps horoscopes, cold reading and unvalidated personality instruments in business: a client's feeling that a description fits is worthless as evidence that the instrument measures anything.",
+  "origin": {
+    "year": 1949,
+    "who": "Bertram R. Forer",
+    "where": "The Journal of Abnormal and Social Psychology",
+    "note": "Forer gave 39 students a personality test, then handed every one of them the same sketch, which he had assembled from a newsstand astrology book. They rated it 4.30 out of 5 for accuracy. Paul Meehl named the effect after P. T. Barnum in 1956, in an essay about why clinical descriptions need to say something a different client could fail to match."
+  },
+  "evidence": "The paradigm has barely changed in seventy-five years, which is part of why it is so easy to run. Administer something that looks like an assessment, return identical feedback to everyone, and ask how well it describes them. The reliable finding is that ratings are high and that participants do not notice the sketch is generic until they are shown someone else's copy. The demonstration is standard in undergraduate teaching for exactly this reason.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Repeated for decades with the same result, and a review of the literature reports that acceptance depends on how relevant and how flattering the description is.",
+    "detail": "Dickson and Kelly surveyed the research up to 1985 and concluded that acceptance of Barnum profiles turns on the relevance and the favourability of the profile, and to some extent on the type of assessment used. Both moderators point the same way: the effect is not a fixed rate of gullibility but a response to how personally addressed and how complimentary the description feels. That is a stronger and more useful finding than a single acceptance figure, because it predicts where the effect will be largest, which is precisely the conditions a horoscope or a commercial personality report is written under.",
+    "study": {
+      "cite": "Dickson, D. H., & Kelly, I. W. (1985). The 'Barnum effect' in personality assessment: A review of the literature. Psychological Reports, 57(2), 367-382.",
+      "doi": "10.2466/pr0.1985.57.2.367",
+      "year": 1985
+    }
+  },
+  "limits": "No meta-analysis with a pooled effect size was located, and no preregistered multi-laboratory replication either. The verdict here rests on a narrative review, which is weaker evidence than the projects behind several other entries on this site, and the review is forty years old. What is well established is the qualitative finding, that generic feedback is accepted as personal; what is missing is a single number for how strongly, under stated conditions. Most of the paradigm's studies also use undergraduates receiving free feedback about themselves, which is close to the ideal conditions for the effect.",
+  "misreadings": "The effect gets described as proof that people are gullible, when the review's moderators say something more specific: acceptance rises when the description is favourable and when it appears tailored. That is closer to motivated reasoning about oneself than to general credulity. It is also frequently used as though it disproves personality assessment altogether. It does not; it shows that a client's endorsement cannot validate an instrument, which is an argument about what counts as evidence rather than about whether traits exist. And the effect is not confined to astrology: the same vulnerability applies to workplace personality profiles that are never checked against anything.",
+  "sources": [
+    {
+      "text": "Forer, B. R. (1949). The fallacy of personal validation: A classroom demonstration of gullibility. The Journal of Abnormal and Social Psychology, 44(1), 118-123.",
+      "doi": "10.1037/h0059240",
+      "url": "https://doi.org/10.1037/h0059240",
+      "type": "primary"
+    },
+    {
+      "text": "Meehl, P. E. (1956). Wanted - a good cookbook. American Psychologist, 11(6), 263-272. The essay that names the effect after P. T. Barnum.",
+      "doi": "10.1037/h0044164",
+      "url": "https://doi.org/10.1037/h0044164",
+      "type": "primary"
+    },
+    {
+      "text": "Dickson, D. H., & Kelly, I. W. (1985). The 'Barnum effect' in personality assessment: A review of the literature. Psychological Reports, 57(2), 367-382.",
+      "doi": "10.2466/pr0.1985.57.2.367",
+      "url": "https://doi.org/10.2466/pr0.1985.57.2.367",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

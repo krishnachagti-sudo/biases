@@ -1,59 +1,67 @@
 {
   "pages": {
     "": {
-      "hash": "133fe49d2033e421",
+      "hash": "a38b6592856e7818",
       "date": "2026-08-08"
     },
     "about/": {
       "hash": "41dbbc2e11d3a5f6",
       "date": "2026-08-08"
     },
+    "bias/affect-heuristic/": {
+      "hash": "f08febaa423dd8f1",
+      "date": "2026-08-08"
+    },
     "bias/anchoring-effect/": {
-      "hash": "d34d9c8b96115d89",
+      "hash": "16a154625863fc4a",
+      "date": "2026-08-08"
+    },
+    "bias/barnum-effect/": {
+      "hash": "5aaed09c7f35e00d",
       "date": "2026-08-08"
     },
     "bias/confirmation-bias/": {
-      "hash": "02f24ec178a638e9",
+      "hash": "72f0dd31e6e0bfe1",
       "date": "2026-08-08"
     },
     "bias/dunning-kruger-effect/": {
-      "hash": "bb444ce3eca90f13",
+      "hash": "371e3167cc17ea16",
       "date": "2026-08-08"
     },
     "bias/ego-depletion/": {
-      "hash": "543efde2e3f9e19e",
+      "hash": "9017b11d5a2df483",
       "date": "2026-08-08"
     },
     "bias/facial-feedback/": {
-      "hash": "8eedb6432df49b24",
+      "hash": "eb9fb68cab7baf85",
       "date": "2026-08-08"
     },
     "bias/false-consensus-effect/": {
-      "hash": "5bcb2586ac84d5e3",
+      "hash": "033a2df65b8bb75a",
       "date": "2026-08-08"
     },
     "bias/framing-effect/": {
-      "hash": "299c14af879685af",
+      "hash": "c625824c4f9a96c9",
       "date": "2026-08-08"
     },
     "bias/fundamental-attribution-error/": {
-      "hash": "eee269f09bb72c08",
+      "hash": "80064342ff885c5a",
       "date": "2026-08-08"
     },
     "bias/pygmalion-effect/": {
-      "hash": "adfe4ed35aa15b36",
+      "hash": "ecab8c0165af101d",
       "date": "2026-08-08"
     },
     "bias/sunk-cost/": {
-      "hash": "356a1cab87e03cf7",
+      "hash": "ee1251189a031ec7",
       "date": "2026-08-08"
     },
     "bias/survivorship-bias/": {
-      "hash": "60cacce1e177785e",
+      "hash": "fd87a66df49f6869",
       "date": "2026-08-08"
     },
     "browse/": {
-      "hash": "09f2763e0b1af15e",
+      "hash": "98f617817337ffe5",
       "date": "2026-08-08"
     }
   }
