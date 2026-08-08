@@ -1,0 +1,115 @@
+{
+  "no": 41,
+  "slug": "apophenia",
+  "name": "Apophenia",
+  "aliases": ["Apophany", "Apophänie", "Patternicity", "Illusory pattern perception"],
+  "category": "belief",
+  "statement": "Apophenia is the tendency to find meaning and connection among unrelated things, a term Klaus Conrad coined for a stage in the onset of psychosis.",
+  "meaning": "Conrad's term was clinical. In his 1958 stage model of beginning schizophrenia, apophany named the phase in which a patient's whole perceptual field fills with abnormal meaning. It arrives after a period of dread and before the sense that the world revolves around the self. Modern usage keeps the pattern-finding and drops the psychosis, treating apophenia as an ordinary trait on which people differ. The shift matters for the evidence, because the two versions are measured by different instruments: clinical interview on one side, false-alarm rates and questionnaire items on the other. Nothing links them except the name. Pareidolia, seeing faces in objects, is the visual special case and has its own entry.",
+  "origin": {
+    "year": 1958,
+    "who": "Klaus Conrad",
+    "where": "Die beginnende Schizophrenie (Thieme Verlag, Stuttgart)",
+    "note": "Conrad's German Apophänie is rendered as 'apophany' by Aaron Mishara, whose 2010 account in Schizophrenia Bulletin is the source used here. The book itself was not obtained. Mishara describes a stage model built from a sample of 107 soldiers Conrad saw while directing a neurological military hospital, and gives the Greek derivation as apo plus phaenein, to show."
+  },
+  "evidence": "Mishara describes apophany as the repetitive and monotonous experience of abnormal meaning across the entire surrounding field: being observed, spoken about, followed by strangers. Once it takes hold, he writes, no aspect of the field remains untouched. It sits between trema, Conrad's name for the stage fright of something important about to happen, and anastrophe, in which the patient becomes the passive middle point of a universe that revolves around him. The laboratory literature is about individual differences instead. Brugger and Graves gave 40 students a task that induces superstitious responding, and those scoring high on magical ideation tested fewer hypotheses and ended up believing in more illusory contingencies. Fyfe and colleagues tested 63 healthy adults and found that higher scorers on schizotypy and delusion-proneness spontaneously reported more associations in the random condition of a contingency task. The largest study is Blain and colleagues, who modelled apophenia as a disposition to false positives in 1,193 Human Connectome Project participants and 195 undergraduates. Latent psychoticism predicted the latent apophenia factor in both samples, the equivalent paths for false negatives did not, and neither conscientiousness nor neuroticism predicted it. The underlying correlations are small. Psychoticism items correlated with theory-of-mind false positives between .01 and .14 in the first sample, and positive schizotypy with semantic false positives at .20 in the second. Krummenacher and colleagues gave 200 mg of levodopa or placebo to 40 right-handed men, 20 reporting paranormal experiences and 20 sceptics, in a double-blind between-subjects design. Sceptics were less sensitive under levodopa than placebo, believers favoured false alarms over misses while sceptics showed the opposite preference, and levodopa lowered those decision preferences in both groups. Whitson and Galinsky's six experiments report that participants who lacked control saw more images in noise, formed illusory correlations in stock information, perceived conspiracies and developed superstitions. Van Prooijen and colleagues asked 264 American adults to judge patterns in random coin tosses. Pattern perception correlated with belief in existing conspiracy theories at r = .37, in fictitious ones at .44 and in supernatural claims at .38.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The correlation between pattern-finding and psychosis-spectrum or conspiracy belief survives replication at about r = .16, while both causal accounts, control threat and dopamine, have failed in preregistered tests.",
+    "detail": "Van Elk and Lodder ran seven experiments on magical thinking, conspiracy belief, paranormal belief and agent detection, and found no effect of control threat on any of them. Twelve of their Bayesian tests gave positive evidence for the null and two gave weak evidence for it. One gave weak evidence for an effect running the wrong way. Control-threatened participants believed less in conspiracy theories, 4.9 against 5.3, t(231) = 2.62, p = .009, d = .34. They also re-analysed the 55-study meta-analysis of compensatory control by Landau, Kay and Whitson, which had reported r = .25 and no sign of missing studies. Recomputing the standard errors produced a funnel plot with extreme asymmetry, Egger's test at Z = 5.397, p < .0001, and the standard error explained 64.8% of heterogeneity. Trim and fill put the adjusted estimate at r = .186, 95% CI [.133, .238]. The dopamine result has fared no better. Smith and colleagues gave 48 healthy adults 150 mg of L-DOPA with benserazide against placebo, within subjects, preregistered, and measured the Snowy Pictures Task that Whitson and Galinsky used. False alarms were 12.15% on placebo and 11.28% on L-DOPA, with a Bayes factor of 20.25 for the null, and Bayes factors of 14.48 for accuracy, 11.46 for d-prime and 6.37 for response bias. The correlational side holds up better. Sternisko, Delouvée and Van Bavel replicated Dieguez and colleagues' first study in the United States, n = 521, and Switzerland, n = 293. Their correlations ran between .03 and .15. Their meta-analysis of 55 effect sizes from 24 studies gave r = .16, 95% CI [.09, .22], with heterogeneity of I² = 87.12%. The estimate was .27 across 22 American effect sizes and .07 across 33 European ones. Tagami and Imaizumi, testing 35 Japanese female undergraduates, found no correlation at all between positive schizotypy and detection of meaning in degraded images.",
+    "study": {
+      "cite": "van Elk, M., & Lodder, P. (2018). Experimental Manipulations of Personal Control do Not Increase Illusory Pattern Perception. Collabra: Psychology, 4(1), 19.",
+      "doi": "10.1525/collabra.155",
+      "year": 2018
+    }
+  },
+  "limits": "No effect sizes are printed in the structured fields, because the two sides measure different things. One is a Bayes factor for the absence of an experimental effect, the other a meta-analytic correlation across questionnaires, and pairing them would invent a comparison neither paper makes. Apophenia also has no single instrument. Snowy pictures, coin-toss judgements, semantic false positives and magical ideation scales all travel under the name, and a result on one carries no automatic weight for another. Sternisko and colleagues excluded Whitson and Galinsky from their meta-analysis on the ground that it does not measure randomness dismissal directly, which is a fair statement of how loosely the field is bounded. Several sources here were read only as abstracts, and no per-experiment sample sizes are quoted from them: Whitson and Galinsky, Krummenacher and colleagues, Brugger and Graves, Fyfe and colleagues, and the Landau meta-analysis. Conrad's book was not obtained and is described entirely through Mishara. The Sternisko figures were read from the authors' preprint on OSF rather than the journal version. Knežević and colleagues, who tested the openness half of Blain's framework across Serbian and German community samples, sat behind a publisher block and is named rather than used. The search covered Crossref, PubMed, PubMed Central and Europe PMC, and turned up no multi-laboratory replication project and no registered replication report for any apophenia paradigm.",
+  "misreadings": "The commonest error is to use apophenia and pareidolia as synonyms. Pareidolia is a false positive in face detection with a measurable latency; apophenia as now used is a disposition spanning perception and belief, and the evidence for one does not transfer. The second error runs in the other direction, treating Conrad as having described a universal human tendency. He described a stage in the onset of psychosis in soldiers, and the generalisation to healthy variation was made by later writers rather than by him. Whitson and Galinsky's finding is still quoted as settled, usually as the claim that losing control makes people see patterns. Seven experiments with Bayesian evidence for the null point the other way, the conspiracy result reversed, and the meta-analysis supporting the framework loses a third of its effect once publication bias is modelled. The dopamine story is told more loosely still, as though giving a sceptic L-DOPA turns him into a believer. Krummenacher reported that levodopa lowered sceptics' sensitivity and made both groups' decision preferences less extreme, and a preregistered test with a larger dose-controlled design found strong evidence for no effect on false alarms. Latent-variable models are also read as though they reported raw associations. In Blain's sample of 1,193 the manifest correlations between psychoticism items and false-positive rates run from .00 to .14, which is the size of the thing being modelled.",
+  "sources": [
+    {
+      "text": "Mishara, A. L. (2010). Klaus Conrad (1905-1961): Delusional Mood, Psychosis, and Beginning Schizophrenia. Schizophrenia Bulletin, 36(1), 9-13. The source for Conrad's 1958 stage model, the term Apophänie and the sample of 107 soldiers; Conrad's own book was not read.",
+      "doi": "10.1093/schbul/sbp144",
+      "url": "https://doi.org/10.1093/schbul/sbp144",
+      "type": "reference"
+    },
+    {
+      "text": "Brugger, P., & Graves, R. E. (1997). Testing vs. Believing Hypotheses: Magical Ideation in the Judgement of Contingencies. Cognitive Neuropsychiatry, 2(4), 251-272. Read as the PubMed abstract.",
+      "doi": "10.1080/135468097396270",
+      "url": "https://doi.org/10.1080/135468097396270",
+      "type": "primary"
+    },
+    {
+      "text": "Fyfe, S., Williams, C., Mason, O. J., & Pickup, G. J. (2008). Apophenia, theory of mind and schizotypy: Perceiving meaning and intentionality in randomness. Cortex, 44(10), 1316-1325. Read as the PubMed abstract.",
+      "doi": "10.1016/j.cortex.2007.07.009",
+      "url": "https://doi.org/10.1016/j.cortex.2007.07.009",
+      "type": "primary"
+    },
+    {
+      "text": "Blain, S. D., Longenecker, J. M., Grazioplene, R. G., Klimes-Dougan, B., & DeYoung, C. G. (2020). Apophenia as the disposition to false positives: A unifying framework for openness and psychoticism. Journal of Abnormal Psychology, 129(3), 279-292. Correlations read from the accepted manuscript; the path coefficients appear only in figures and are not quoted here.",
+      "doi": "10.1037/abn0000504",
+      "url": "https://doi.org/10.1037/abn0000504",
+      "type": "primary"
+    },
+    {
+      "text": "Krummenacher, P., Mohr, C., Haker, H., & Brugger, P. (2010). Dopamine, Paranormal Belief, and the Detection of Meaningful Stimuli. Journal of Cognitive Neuroscience, 22(8), 1670-1681. Read as the PubMed abstract.",
+      "doi": "10.1162/jocn.2009.21313",
+      "url": "https://doi.org/10.1162/jocn.2009.21313",
+      "type": "primary"
+    },
+    {
+      "text": "Whitson, J. A., & Galinsky, A. D. (2008). Lacking Control Increases Illusory Pattern Perception. Science, 322(5898), 115-117. Read as the PubMed abstract; per-experiment sample sizes were not obtained.",
+      "doi": "10.1126/science.1159845",
+      "url": "https://doi.org/10.1126/science.1159845",
+      "type": "primary"
+    },
+    {
+      "text": "Landau, M. J., Kay, A. C., & Whitson, J. A. (2015). Compensatory control and the appeal of a structured world. Psychological Bulletin, 141(3), 694-722. Meta-analysis of 55 studies reporting r = .25; read as the PubMed abstract.",
+      "doi": "10.1037/a0038703",
+      "url": "https://doi.org/10.1037/a0038703",
+      "type": "primary"
+    },
+    {
+      "text": "van Prooijen, J.-W., Douglas, K. M., & De Inocencio, C. (2018). Connecting the dots: Illusory pattern perception predicts belief in conspiracies and the supernatural. European Journal of Social Psychology, 48(3), 320-335. Study 1 figures read from the PubMed Central full text.",
+      "doi": "10.1002/ejsp.2331",
+      "url": "https://doi.org/10.1002/ejsp.2331",
+      "type": "primary"
+    },
+    {
+      "text": "Dieguez, S., Wagner-Egger, P., & Gauvrit, N. (2015). Nothing Happens by Accident, or Does It? A Low Prior for Randomness Does Not Explain Belief in Conspiracy Theories. Psychological Science, 26(11), 1762-1770. Read as the PubMed abstract.",
+      "doi": "10.1177/0956797615598740",
+      "url": "https://doi.org/10.1177/0956797615598740",
+      "type": "primary"
+    },
+    {
+      "text": "van Elk, M., & Lodder, P. (2018). Experimental Manipulations of Personal Control do Not Increase Illusory Pattern Perception. Collabra: Psychology, 4(1), 19. Full text read.",
+      "doi": "10.1525/collabra.155",
+      "url": "https://doi.org/10.1525/collabra.155",
+      "type": "replication"
+    },
+    {
+      "text": "Smith, E., Michalski, S., Knauth, K., Tuzsus, D., Theis, H., van Eimeren, T., & Peters, J. (2024). Pharmacological Enhancement of Dopamine Neurotransmission Does Not Affect Illusory Pattern Perception. eNeuro, 11(7), ENEURO.0465-23.2024. Preregistered at osf.io/a4k9j.",
+      "doi": "10.1523/ENEURO.0465-23.2024",
+      "url": "https://doi.org/10.1523/ENEURO.0465-23.2024",
+      "type": "replication"
+    },
+    {
+      "text": "Sternisko, A., Delouvée, S., & Van Bavel, J. J. (2022). Clarifying the relationship between randomness dismissal and conspiracist ideation: A preregistered replication and meta-analysis. Journal of Experimental Social Psychology, 102, 104357. Figures read from the authors' preprint at osf.io/3yfgz, not the journal version.",
+      "doi": "10.1016/j.jesp.2022.104357",
+      "url": "https://doi.org/10.1016/j.jesp.2022.104357",
+      "type": "replication"
+    },
+    {
+      "text": "Tagami, U., & Imaizumi, S. (2020). No Correlation Between Perception of Meaning and Positive Schizotypy in a Female College Sample. Frontiers in Psychology, 11, 1323. Read as the PubMed abstract.",
+      "doi": "10.3389/fpsyg.2020.01323",
+      "url": "https://doi.org/10.3389/fpsyg.2020.01323",
+      "type": "replication"
+    },
+    {
+      "text": "Knežević, G., Kušić, B., Lukic, P., Lazarević, L. B., & Keller, J. (2024). Can the \"Shotgun Wedding\" of Openness and Psychoticism Be Justified Based on Apophenia as the Disposition to Commit False-Positive Errors? Zeitschrift für Psychologie, 232(4), 255-268. Blocked by the publisher and not read for this entry; named because it tests the openness half of Blain's framework.",
+      "doi": "10.1027/2151-2604/a000580",
+      "url": "https://doi.org/10.1027/2151-2604/a000580",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
