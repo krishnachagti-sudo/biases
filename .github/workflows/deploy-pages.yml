@@ -52,15 +52,23 @@ jobs:
       # dead internal link — none of which any unit test can see, and all of
       # which are expensive to find in public. Nothing ships through a failure.
       - run: npm run preflight -- --base=${{ vars.SITE_BASE || format('/{0}/', github.event.repository.name) }} --origin=${{ vars.SITE_ORIGIN || format('https://{0}.github.io', github.repository_owner) }}
-      # `enablement: true` makes the workflow turn Pages on for the repository
-      # itself, using the `pages: write` token granted above.
+      # THE ONE STEP THIS WORKFLOW CANNOT DO FOR ITSELF.
       #
-      # Without it, the very first run of this workflow on a new repo fails here
-      # with "Get Pages site failed" — every check before it green, the artifact
-      # built and validated, and nothing published — until somebody goes to
-      # Settings and picks GitHub Actions as the source. That is a manual step
-      # that has to happen exactly once, is invisible until it bites, and reads
-      # like a broken deploy when it does. The action can do it, so it does.
+      # Until a human sets Settings -> Pages -> Source to "GitHub Actions",
+      # every run fails here, with each earlier check green and a validated
+      # artifact thrown away. It looks like a broken deploy and is not one.
+      #
+      # `enablement: true` is an attempt to create the Pages site from the
+      # workflow, and it was tried: it fails with "Create Pages site failed:
+      # Resource not accessible by integration". Creating a Pages site needs
+      # `administration: write`, and GITHUB_TOKEN cannot be granted that at any
+      # permission level — it is the same account-level boundary that stops the
+      # repository being created by an integration in the first place.
+      #
+      # It is kept anyway, for two reasons. On a fork whose token DOES carry the
+      # permission it just works, and where it does not, its error names the
+      # missing capability outright instead of the bare "Get Pages site failed:
+      # Not Found" that replaces it. A pointer beats a puzzle.
       - uses: actions/configure-pages@v5
         with:
           enablement: true

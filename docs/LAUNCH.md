@@ -16,6 +16,21 @@ Total hands-on time is about fifteen minutes; the waiting is longer.
 
 ---
 
+## Step zero, once per repository: turn Pages on
+
+**Settings -> Pages -> Build and deployment -> Source: GitHub Actions.**
+
+Nothing deploys until this is done, and the deploy workflow cannot do it. It
+tries — `configure-pages` is called with `enablement: true` — and the API
+answers "Resource not accessible by integration", because creating a Pages site
+requires `administration: write` and a workflow's GITHUB_TOKEN can never hold
+it. The failure is loud, arrives after every other check has passed, and throws
+away a validated artifact, which makes it look like a broken build. It is a
+missing toggle.
+
+Once set, it stays set. Re-run the failed workflow from the Actions tab, or push
+anything.
+
 ## Before you start
 
 Run these locally. All three must pass, and none needs the domain.
