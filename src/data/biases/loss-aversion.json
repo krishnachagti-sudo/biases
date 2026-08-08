@@ -1,0 +1,134 @@
+{
+  "no": 31,
+  "slug": "loss-aversion",
+  "name": "Loss aversion",
+  "aliases": ["Losses loom larger than gains", "Lambda", "Loss-aversion coefficient"],
+  "category": "decision",
+  "statement": "Losses are said to weigh about twice as much as equal-sized gains, so a coin-flip bet needs a prize roughly double the stake before people will take it.",
+  "meaning": "The claim has a number attached to it, which is unusual for a cognitive bias and is the reason it can be argued about precisely. In prospect theory the value function bends at a reference point and is steeper below it than above, and the ratio of the two slopes is a parameter, lambda. A lambda of 2 means a person is indifferent between a coin flip that wins £20 and loses £10, and taking nothing. Lambda of 1 means gains and losses carry the same weight. Two things follow that are often run together. One is a claim about risky choice, which is what lambda measures. The other is a family of riskless phenomena, the endowment effect and status quo bias, which loss aversion is used to explain and which are then cited back as evidence for it.",
+  "origin": {
+    "year": 1979,
+    "who": "Daniel Kahneman and Amos Tversky",
+    "where": "Econometrica",
+    "note": "\"Prospect Theory: An Analysis of Decision under Risk\" introduced the kinked value function, steeper for losses than for gains. The familiar coefficient came thirteen years later, from Tversky and Kahneman's 1992 paper in the Journal of Risk and Uncertainty, which reports lambda = 2.25. Walasek, Mullett and Stewart describe that estimate as one of the first attempts to fit lambda. It came from 25 graduate students in one-hour sessions, choosing between hypothetical lotteries and sums of money for certain. The 1992 paper itself could not be opened during this check, so the description of its sample is attributed to them rather than read off the original."
+  },
+  "evidence": "Three separate bodies of work sit under the one name. In risky choice, lambda is fitted to accept-or-reject decisions over 50-50 gambles mixing a gain and a loss. In riskless choice, Kahneman, Knetsch and Thaler reported that sellers of a university mug demanded more than buyers would pay. That is the endowment effect. Samuelson and Zeckhauser reported a preference for whichever option was labelled current, the status quo bias. In the field, Pope and Schweitzer analysed over 2.5 million putts on the PGA Tour with laser measurements. Professionals, Tiger Woods included, putt better for par than for birdie from the same distance. They read that as loss aversion around the reference point of par.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Two meta-analyses published in the same year put the coefficient at 1.96 and at 1.31, and a re-analysis finds the higher figure comes from gambles where the losses on offer were smaller than the gains.",
+    "detail": "Brown, Imai, Vieider and Camerer pooled 607 estimates from 150 articles published between 1992 and 2017 and report a mean coefficient of 1.955, with 95 percent probability that the true value lies in [1.820, 2.102]. Walasek, Mullett and Stewart took only studies where prospect theory could be fitted to individual choices between mixed gambles. They found 19 usable datasets from 17 articles and report 1.31, 95% CI [1.10, 1.53], an interval that excludes 2.25. Yechiam and Zeif then re-analysed Brown and colleagues' own dataset. They sorted 163 estimates from 84 papers, covering 149,218 participants, by whether losses matched gains in size and whether the gambles were shown in order of size. The pooled result comes back at 1.82, 95% CI [1.73, 1.91]. Within it the modal design, smaller losses than gains and ordered presentation, gives a median of 2.295 across 62 estimates. The 22 estimates using symmetric gains and losses in no particular order, from 1,985 participants, give 1.07, 95% CI [0.97, 1.18], which is not distinguishable from loss neutrality (Z = 1.39, p = .16). Walasek and Stewart had shown the same dependence experimentally in 2015. Among 323 analysed participants on Mechanical Turk, gains up to $40 against losses up to $20 gave a median lambda of 1.79, 95% CI [1.55, 2.00]. Symmetric $20 ranges gave 1.00, 95% CI [0.99, 1.01]. Reversing the ranges gave 0.88, 95% CI [0.81, 1.00], the opposite of loss aversion. The defence is not empty. Mrkva, Johnson, Gächter and Herrmann tested moderators across five samples totalling 17,720 people, found that knowledge and experience lower loss aversion, and report that people at every level of both were loss averse. Zeif and Yechiam re-ran that paradigm and replicated it as published. Then they removed the asymmetric amounts and the ordering. Across five studies with 2,001 participants they found no loss aversion for small sums, a mean lambda of 1.16 at average losses of $40, and 1.54 at $100.",
+    "study": {
+      "cite": "Yechiam, E., & Zeif, D. (2025). Loss aversion is not robust: A re-meta-analysis. Journal of Economic Psychology, 107, 102801.",
+      "doi": "10.1016/j.joep.2025.102801",
+      "year": 2025,
+      "n": 149218
+    }
+  },
+  "limits": "Nothing here is a multi-site preregistered replication of the kind this site usually reports. Searches of Crossref, Europe PMC, PubMed and the journals themselves located no Many Labs or Registered Replication Report entry for the loss-aversion coefficient. The record consists of meta-analyses, re-analyses of those meta-analyses, and single-laboratory experiments. That matters because every number above is a model fit rather than a measurement, and the models disagree. Walasek, Mullett and Stewart argue in their 2021 reply to André and de Langhe that lambda estimated from accept-or-reject tasks is unreliable, which cuts against their own 1.31 as much as against 2.25. André and de Langhe, for their part, hold that the 2015 reversal disappears when lambda is estimated only on the gambles common to every condition. The cell carrying the sceptical case in Yechiam and Zeif rests on 22 estimates and about 2,000 participants out of 149,218. Their trim-and-fill correction moves it to 0.94, which they advise reading with caution because the rank-correlation test was not significant. Yechiam's earlier review of the pre-1979 utility studies concluded that the largest losses were overweighted while smaller ones often were not. The honest summary may be that lambda rises with stake size rather than that it sits at 1.",
+  "misreadings": "The most common error is treating one number as three findings. Loss aversion in risky choice, the endowment effect and status quo bias are distinct claims with distinct evidence, and support for one is routinely reported as support for the others. Zeif and Yechiam found only a weak correlation between the endowment effect and loss aversion in the same participants, with the endowment effect present where loss aversion was absent. Gal and Rucker's review makes the sharper version of the objection. In the standard endowment and status quo procedures, keeping is also the inaction option, so loss and gain are confounded with doing nothing and doing something. When they decoupled the two, willingness to pay to retain a good stopped exceeding willingness to pay to obtain it, and for fibre-optic internet service the obtain figure was higher, $50.43 against $43.75. Their argument is contested inside the same journal issue, by Simonson and Kivetz among others. The second error is quoting 2.25 as a constant of human nature. It is a median from one small study of hypothetical choices in 1992, and the coefficient recovered from a given experiment tracks the range of amounts that experiment happened to show. The third is enrolling the sunk-cost effect as evidence, which Gal and Rucker note compares no gain with any loss and so cannot speak to the ratio at all.",
+  "sources": [
+    {
+      "text": "Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.",
+      "doi": "10.2307/1914185",
+      "url": "https://doi.org/10.2307/1914185",
+      "type": "primary"
+    },
+    {
+      "text": "Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. Journal of Risk and Uncertainty, 5(4), 297-323. Source of the lambda = 2.25 estimate; full text not opened during this check.",
+      "doi": "10.1007/BF00122574",
+      "url": "https://doi.org/10.1007/BF00122574",
+      "type": "primary"
+    },
+    {
+      "text": "Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy, 98(6), 1325-1348.",
+      "doi": "10.1086/261737",
+      "url": "https://doi.org/10.1086/261737",
+      "type": "primary"
+    },
+    {
+      "text": "Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7-59.",
+      "doi": "10.1007/BF00055564",
+      "url": "https://doi.org/10.1007/BF00055564",
+      "type": "primary"
+    },
+    {
+      "text": "Pope, D. G., & Schweitzer, M. E. (2011). Is Tiger Woods loss averse? Persistent bias in the face of experience, competition, and high stakes. American Economic Review, 101(1), 129-157.",
+      "doi": "10.1257/aer.101.1.129",
+      "url": "https://doi.org/10.1257/aer.101.1.129",
+      "type": "primary"
+    },
+    {
+      "text": "Brown, A. L., Imai, T., Vieider, F. M., & Camerer, C. F. (2024). Meta-analysis of empirical estimates of loss aversion. Journal of Economic Literature, 62(2), 485-516.",
+      "doi": "10.1257/jel.20221698",
+      "url": "https://doi.org/10.1257/jel.20221698",
+      "type": "replication"
+    },
+    {
+      "text": "Walasek, L., Mullett, T. L., & Stewart, N. (2024). A meta-analysis of loss aversion in risky contexts. Journal of Economic Psychology, 103, 102740.",
+      "doi": "10.1016/j.joep.2024.102740",
+      "url": "https://doi.org/10.1016/j.joep.2024.102740",
+      "type": "replication"
+    },
+    {
+      "text": "Yechiam, E., & Zeif, D. (2025). Loss aversion is not robust: A re-meta-analysis. Journal of Economic Psychology, 107, 102801.",
+      "doi": "10.1016/j.joep.2025.102801",
+      "url": "https://doi.org/10.1016/j.joep.2025.102801",
+      "type": "replication"
+    },
+    {
+      "text": "Walasek, L., & Stewart, N. (2015). How to make loss aversion disappear and reverse: Tests of the decision by sampling origin of loss aversion. Journal of Experimental Psychology: General, 144(1), 7-11.",
+      "doi": "10.1037/xge0000039",
+      "url": "https://doi.org/10.1037/xge0000039",
+      "type": "replication"
+    },
+    {
+      "text": "André, Q., & de Langhe, B. (2021). No evidence for loss aversion disappearance and reversal in Walasek and Stewart (2015). Journal of Experimental Psychology: General, 150(12), 2659-2665.",
+      "doi": "10.1037/xge0001052",
+      "url": "https://doi.org/10.1037/xge0001052",
+      "type": "commentary"
+    },
+    {
+      "text": "Walasek, L., Mullett, T. L., & Stewart, N. (2021). Acceptance of mixed gambles is sensitive to the range of gains and losses experienced, and estimates of lambda are not a reliable measure of loss aversion: Reply to André and de Langhe (2020). Journal of Experimental Psychology: General, 150(12), 2666-2670.",
+      "doi": "10.1037/xge0001054",
+      "url": "https://doi.org/10.1037/xge0001054",
+      "type": "commentary"
+    },
+    {
+      "text": "Mrkva, K., Johnson, E. J., Gächter, S., & Herrmann, A. (2020). Moderating loss aversion: Loss aversion has moderators, but reports of its death are greatly exaggerated. Journal of Consumer Psychology, 30(3), 407-428.",
+      "doi": "10.1002/jcpy.1156",
+      "url": "https://doi.org/10.1002/jcpy.1156",
+      "type": "replication"
+    },
+    {
+      "text": "Zeif, D., & Yechiam, E. (2022). Loss aversion (simply) does not materialize for smaller losses. Judgment and Decision Making, 17(5), 1015-1042.",
+      "doi": "10.1017/s193029750000930x",
+      "url": "https://doi.org/10.1017/s193029750000930x",
+      "type": "replication"
+    },
+    {
+      "text": "Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom larger than its gain? Journal of Consumer Psychology, 28(3), 497-516.",
+      "doi": "10.1002/jcpy.1047",
+      "url": "https://doi.org/10.1002/jcpy.1047",
+      "type": "commentary"
+    },
+    {
+      "text": "Simonson, I., & Kivetz, R. (2018). Bringing (contingent) loss aversion down to earth: A comment on Gal & Rucker's rejection of \"losses loom larger than gains\". Journal of Consumer Psychology, 28(3), 517-522.",
+      "doi": "10.1002/jcpy.1046",
+      "url": "https://doi.org/10.1002/jcpy.1046",
+      "type": "commentary"
+    },
+    {
+      "text": "Yechiam, E. (2019). Acceptable losses: The debatable origins of loss aversion. Psychological Research, 83(7), 1327-1339.",
+      "doi": "10.1007/s00426-018-1013-8",
+      "url": "https://doi.org/10.1007/s00426-018-1013-8",
+      "type": "commentary"
+    },
+    {
+      "text": "Ert, E., & Erev, I. (2013). On the descriptive value of loss aversion in decisions under risk: Six clarifications. Judgment and Decision Making, 8(3), 214-235.",
+      "doi": "10.1017/s1930297500005945",
+      "url": "https://doi.org/10.1017/s1930297500005945",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
