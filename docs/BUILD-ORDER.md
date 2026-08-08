@@ -97,10 +97,13 @@ FORRT's Replication Database produced exactly one usable verdict, and the
 strongest entries — ego depletion, facial feedback, power posing — were not on
 the list at all.
 
-The candidate set fixes the second half of that problem. The famous
-replication-crisis effects are in the list article, so they are candidates now.
-The first half stands: FReD is an index rather than a source, and a replication
-verdict has to be read off the paper.
+Both halves of that still stand, and the second one is why the supplement above
+exists rather than being fixed by a better bias list: the famous
+replication-crisis effects are absent from the list article too. What has
+changed is that they are now collected on purpose, from the replication
+projects, instead of being noticed one at a time when an entry gets written.
+FReD remains an index rather than a source, and a replication verdict is still
+read off the paper.
 
 So the working order is:
 
