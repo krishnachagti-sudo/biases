@@ -1,0 +1,47 @@
+{
+  "no": 14,
+  "slug": "macbeth-effect",
+  "name": "Macbeth effect",
+  "aliases": ["Moral cleansing", "Washing away your sins", "Moral purity effect"],
+  "category": "social",
+  "statement": "Recalling something you did wrong is said to produce a literal urge to wash, as though moral and physical cleanliness ran on the same machinery.",
+  "meaning": "The claim is that the metaphor is not only a metaphor. We speak of dirty deeds and clean consciences, of coming clean and having blood on our hands, and the proposal is that the mind treats these as close enough to share equipment: a threat to moral self-image activates the same disgust and cleansing responses as physical contamination. It belongs to the embodied cognition programme, which holds that abstract thought is built on physical experience rather than merely described using it. The prediction that made it testable is that moral threat should change what people want to buy, and specifically that it should make soap more attractive.",
+  "origin": {
+    "year": 2006,
+    "who": "Chen-Bo Zhong and Katie Liljenquist",
+    "where": "Science",
+    "note": "Their paper is \"Washing Away Your Sins: Threatened Morality and Physical Cleansing\", and the Macbeth name comes from Lady Macbeth scrubbing at a spot nobody else can see."
+  },
+  "evidence": "In the study that was retested, 27 participants hand-copied a first-person account of either helping or sabotaging a colleague, told they were in a handwriting study, and then rated how much they wanted five cleaning products and five other products. Those who had copied the unethical account rated the cleaning products at 4.95 against 3.75 for the others, an effect of d = 1.02, with no difference on the non-cleaning products. The control comparison matters as much as the main one: it is what makes the result about cleansing rather than about mood.",
+  "replication": {
+    "state": "failed",
+    "headline": "Across 7,001 people the two groups wanted cleaning products equally: 3.95 against 3.95, an effect of exactly zero.",
+    "detail": "Many Labs 2 ran the copying task in 36 countries, dropping participants who copied less than half the passage. Those who wrote out the unethical account rated cleaning products at 3.95, and those who wrote out the ethical account rated them at 3.95, giving d = 0.00 with a 95% confidence interval from -0.05 to 0.04. Follow-up analyses found no interaction between condition and product type either, so the pattern that made the original interpretable is absent as well. The original effect was d = 1.02 from 27 participants, with a confidence interval running from approximately zero to 2.44.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 7001
+    },
+    "original": { "es": 1.02, "esType": "d", "ci": [0.001, 2.44], "ciLevel": 95 },
+    "replicated": { "es": 0.00, "esType": "d", "ci": [-0.05, 0.04], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "This is Study 2 of the original paper, the desirability measure, run as a preregistered protocol at scale. The paper's other studies used different measures, including whether participants took an antiseptic wipe when offered one, and those were not part of this replication. The wider claim that moral and physical purity share representational machinery also draws on evidence beyond this paradigm. What can be said with confidence is that the specific demonstration does not produce the effect it reported, at a sample size 260 times larger.",
+  "misreadings": "The effect is still cited in popular writing about embodied cognition as an established result, usually without the replication attached. It is also sometimes defended on the grounds that the replication used different populations, which the design anticipated: 36 countries is the test of generality rather than a confound. The more careful reading is the one the numbers force. An original interval running from essentially zero to 2.44 was never evidence for an effect of 1.02 in particular; it was evidence that 27 participants cannot measure this. The replication did not overturn a well-estimated finding, it estimated one for the first time.",
+  "sources": [
+    {
+      "text": "Zhong, C.-B., & Liljenquist, K. (2006). Washing away your sins: Threatened morality and physical cleansing. Science, 313(5792), 1451-1452.",
+      "doi": "10.1126/science.1130726",
+      "url": "https://doi.org/10.1126/science.1130726",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
