@@ -1,0 +1,94 @@
+{
+  "no": 29,
+  "slug": "just-world-hypothesis",
+  "name": "Just-world hypothesis",
+  "aliases": ["Just-world fallacy", "Belief in a just world", "Just-world bias"],
+  "category": "social",
+  "statement": "People need to believe the world gives everyone what they deserve, and defend that belief by finding fault in victims whose suffering they cannot undo.",
+  "meaning": "Two claims travel under one name and they need separating. The first is descriptive. People differ in how strongly they endorse statements like 'people get what they deserve', and that endorsement can be measured and correlated with other things. The second is causal. Watching an innocent person suffer, with no way to help, is said to push observers into judging that person more harshly. Melvin Lerner's theory joins the two. He argued the belief is a working assumption people need in order to invest in the future, so evidence against it has to be neutralised, and rewriting the victim's character is one cheap way to neutralise it. The evidence for the two claims is not the same evidence, and the verdict below is about the second.",
+  "origin": {
+    "year": 1966,
+    "who": "Melvin J. Lerner and Carolyn H. Simmons",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their paper is \"Observer's reaction to the 'innocent victim': Compassion or rejection?\". Lerner had already reported a related result in the same journal in 1965, on evaluation of performance as a function of the performer's reward, and set out the theory at length in a 1980 book."
+  },
+  "evidence": "Lerner and Simmons recruited 75 female undergraduates and showed them a ten-minute videotape of a peer, in fact a confederate, appearing to take painful electric shocks for errors on a paired-associate learning task. Three were dropped for knowing the setup, leaving 72. Observers then rated the victim on 15 evaluative bipolar scales, with each rater's own self-rating subtracted, so lower scores mean a harsher judgement. What changed the ratings was what observers were told came next. Those who had voted to move her into a rewarded second session, and were told the vote had succeeded, gave -5.07. Those told the experiment was over gave -12.85. Those told they would watch her suffer again gave -25.78. Those who had seen her reluctantly agree to be shocked so the class could earn course credit gave -34.00. The overall test was F(5, 66) = 4.00, p < .005, on 9 to 14 observers per condition.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Pooling 55 experiments run between 1966 and 2016, derogation of an innocent victim came to d = 0.15, and how vividly the suffering was shown predicted how large it was.",
+    "detail": "Dawtry, Callan, Harvey and Gheorghiu assembled 55 experiments with 5,947 participants, 40% of them unpublished and 47% reporting a nonsignificant result. The pooled effect was d = 0.15, SE 0.06, 95% CI [0.03, 0.27], p = .013. Heterogeneity was large, Q(54) = 225.64, p < .001. Their moderator was how the suffering reached the observer, scored by having a separate sample rank nine ways of learning about another person's misfortune, from a computerised ball-tossing exclusion game up to watching someone suffer in person. That score predicted the size of derogation, b = 0.13, SE 0.04, p < .001. Studies before 1980 tended to find the effect and later ones tended not to. Small-study bias showed up in the overall model, Egger's test z = 2.28, p = .022, and disappeared once emotional impact was included. Trim-and-fill imputed seven missing effects on the low side, and weight-function models placed the overall estimate anywhere between -0.205 and 0.153 while leaving the moderator between 0.117 and 0.160. The same authors ran two experiments of their own, recruiting 561 and 801 participants, comparing video with text. Video produced more derogation of an innocent victim, d = 0.29, 95% CI [0.12, 0.45] in the first of them.",
+    "study": {
+      "cite": "Dawtry, R. J., Callan, M. J., Harvey, A. J., & Gheorghiu, A. I. (2020). Victims, vignettes, and videos: Meta-analytic and experimental evidence that emotional impact enhances the derogation of innocent victims. Personality and Social Psychology Review, 24(3), 233-259.",
+      "doi": "10.1177/1088868320914208",
+      "year": 2020,
+      "sites": 55,
+      "n": 5947
+    },
+    "replicated": { "es": 0.15, "esType": "d", "ci": [0.03, 0.27], "ciLevel": 95, "weighting": "random-effects" }
+  },
+  "limits": "The verdict is about the causal claim, that seeing an innocent victim suffer makes observers judge the victim more harshly. The measurement claim stands separately and stands better. Rubin and Peplau's Just World Scale, Lipkus's Global Belief in a Just World Scale and Dalbert's Personal Belief in a Just World Scale all yield scores that vary between people. Their internal consistency varies too. A reliability generalisation across published uses reported mean alphas of .81 for the Lipkus scale, .68 for the 1975 Rubin and Peplau revision and .64 for the 1973 version. Searches of Crossref, PubMed and the open web found no multi-lab or preregistered direct replication of the Lerner and Simmons procedure, and no meta-analysis of the correlation between just-world scale scores and victim blaming. The pooled figure above comes from a set of heterogeneous laboratory paradigms rather than from repeats of the 1966 design. Hafer and Bègue's review of post-1980 experiments concluded that the methodology of this literature is unsystematic, which is one reason a single pooled number is hard to interpret.",
+  "misreadings": "The idea is usually stated as a claim that people blame victims because they believe the world is fair. Lerner and Simmons measured character ratings of a stranger, not attributions of blame, and the two need not move together. The theory also predicts less derogation, not more, when observers can act. Their reward condition, in which a vote appeared to have ended the suffering, produced the least negative ratings in the study. The experiment is also cited as evidence that people are indifferent to suffering. What it shows is narrower: the observers who rated the victim worst were the ones who expected to keep watching and could do nothing. A small pooled effect is not a licence to say derogation never happens. It says the average across mixed laboratory materials sits near zero, while vivid depictions of suffering still move ratings.",
+  "sources": [
+    {
+      "text": "Lerner, M. J., & Simmons, C. H. (1966). Observer's reaction to the \"innocent victim\": Compassion or rejection? Journal of Personality and Social Psychology, 4(2), 203-210. Source for the design, the condition means and the F test.",
+      "doi": "10.1037/h0023562",
+      "url": "https://doi.org/10.1037/h0023562",
+      "type": "primary"
+    },
+    {
+      "text": "Lerner, M. J. (1965). Evaluation of performance as a function of performer's reward and attractiveness. Journal of Personality and Social Psychology, 1(4), 355-360.",
+      "doi": "10.1037/h0021806",
+      "url": "https://doi.org/10.1037/h0021806",
+      "type": "background"
+    },
+    {
+      "text": "Lerner, M. J. (1980). The Belief in a Just World. In The Belief in a Just World (pp. 9-30). Springer US.",
+      "doi": "10.1007/978-1-4899-0448-5_2",
+      "url": "https://doi.org/10.1007/978-1-4899-0448-5_2",
+      "type": "background"
+    },
+    {
+      "text": "Dawtry, R. J., Callan, M. J., Harvey, A. J., & Gheorghiu, A. I. (2020). Victims, vignettes, and videos: Meta-analytic and experimental evidence that emotional impact enhances the derogation of innocent victims. Personality and Social Psychology Review, 24(3), 233-259.",
+      "doi": "10.1177/1088868320914208",
+      "url": "https://doi.org/10.1177/1088868320914208",
+      "type": "replication"
+    },
+    {
+      "text": "Rubin, Z., & Peplau, A. (1973). Belief in a just world and reactions to another's lot: A study of participants in the national draft lottery. Journal of Social Issues, 29(4), 73-93.",
+      "doi": "10.1111/j.1540-4560.1973.tb00104.x",
+      "url": "https://doi.org/10.1111/j.1540-4560.1973.tb00104.x",
+      "type": "primary"
+    },
+    {
+      "text": "Rubin, Z., & Peplau, L. A. (1975). Who believes in a just world? Journal of Social Issues, 31(3), 65-89.",
+      "doi": "10.1111/j.1540-4560.1975.tb00997.x",
+      "url": "https://doi.org/10.1111/j.1540-4560.1975.tb00997.x",
+      "type": "primary"
+    },
+    {
+      "text": "Lipkus, I. (1991). The construction and preliminary validation of a global belief in a just world scale and the exploratory analysis of the multidimensional belief in a just world scale. Personality and Individual Differences, 12(11), 1171-1178.",
+      "doi": "10.1016/0191-8869(91)90081-L",
+      "url": "https://doi.org/10.1016/0191-8869(91)90081-L",
+      "type": "primary"
+    },
+    {
+      "text": "Dalbert, C. (1999). The world is more just for me than generally: About the Personal Belief in a Just World Scale's validity. Social Justice Research, 12(2), 79-98.",
+      "doi": "10.1023/A:1022091609047",
+      "url": "https://doi.org/10.1023/A:1022091609047",
+      "type": "primary"
+    },
+    {
+      "text": "Hellman, C. M., Muilenburg-Trevino, E. M., & Worley, J. A. (2008). The belief in a just world: An examination of reliability estimates across three measures. Journal of Personality Assessment, 90(4), 399-401. Source for the mean alpha figures quoted.",
+      "doi": "10.1080/00223890802108238",
+      "url": "https://doi.org/10.1080/00223890802108238",
+      "type": "review"
+    },
+    {
+      "text": "Hafer, C. L., & Bègue, L. (2005). Experimental research on just-world theory: Problems, developments, and future challenges. Psychological Bulletin, 131(1), 128-167.",
+      "doi": "10.1037/0033-2909.131.1.128",
+      "url": "https://doi.org/10.1037/0033-2909.131.1.128",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

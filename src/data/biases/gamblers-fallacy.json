@@ -1,0 +1,95 @@
+{
+  "no": 25,
+  "slug": "gamblers-fallacy",
+  "name": "Gambler's fallacy",
+  "aliases": [
+    "Monte Carlo fallacy",
+    "Fallacy of the maturity of chances",
+    "Negative recency"
+  ],
+  "category": "belief",
+  "statement": "After a run of one outcome in an independent chance process, people expect the other outcome next, as though a fair coin owed them a correction.",
+  "meaning": "The process has no memory and the fallacy is the belief that it does. A wheel that has shown red six times is as likely to show red on the seventh spin as it ever was. Tversky and Kahneman filed the error under representativeness: people treat a short run as though it had to look like the long-run average, so a sequence that has strayed is expected to come back. Their 1971 paper states it directly. Subjects act as if every segment of a random sequence must reflect the true proportion, and if the sequence has strayed, a corrective bias in the other direction is expected. The claim is confined to independent events. Where draws are made without replacement, expecting a reversal is correct arithmetic rather than a bias. The first writer to describe the fallacy said so in the same paragraph.",
+  "origin": {
+    "year": 1819,
+    "who": "Pierre-Simon Laplace",
+    "where": "Essai philosophique sur les probabilités",
+    "note": "Laplace describes the error in the chapter translated as \"Concerning Illusions in the Estimation of Probabilities\". Dating it is awkward. Miller and Gelman report that the full version of that chapter first appeared in the fourth French edition of 1819, while Croson and Sundali date the first published account to 1820; the essay itself first appeared in 1814. The name and the representativeness account both come much later, from Tversky and Kahneman in 1971."
+  },
+  "evidence": "Laplace was writing about people he had watched. Punters in the French state lottery, he reports, piled stakes on numbers that had not come up for a long time, judging that such a number ought to be drawn in preference to others. In the same chapter he describes men who wanted sons and who heard of a month full of boys with anxiety, imagining that the ratio of births had to balance by month's end and that girls were therefore due. His diagnosis was that people are carried back involuntarily to the origin of events. He also entered a caveat that later writers usually drop. A long run of heads is weak evidence that the coin favours heads, so the past is not always uninformative. The urn analogy holds only when the urn is unlimited. Clotfelter and Cook put the claim to a field test in 1993 using the Maryland daily numbers game. Money bet on a particular number falls sharply as soon as that number is drawn, then recovers to its former level over the course of several months.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The behaviour turns up again in casino videotape, in asylum courts and in baseball, and a preregistered lab test finds it in what people bet but not in the probabilities they state.",
+    "detail": "Croson and Sundali coded 18 hours of security videotape from a Reno casino: 904 spins, 139 players, 24,131 bets. Of 531 even-money outside bets placed after at least one spin, 255 (48%) went against the previous outcome and 276 (52%) went with it, which is nothing. Binomial tests find no difference after streaks of one, two, three or four. After streaks of five the difference reaches p < .05, after six or more p < .01, and at six or more, 85% of bets are against the streak. Chen, Moskowitz and Shue found the same negative autocorrelation in three settings where decisions matter. Their asylum data covers 150,357 United States rulings by 357 judges across 45 courthouses. A judge who granted the previous application was 0.5 percentage points less likely to grant the current one. That rises to 3.3 points among moderate judges deciding same-day cases of the same type. A streak of two grants cut the grant rate by 5.5 points against a streak of two denials. Loan officers in a field experiment were 8 percentage points less likely to approve a loan after approving the previous one. Across 3.5 million pitches from 12,564 games and 127 home-plate umpires, a called strike made the next pitch 0.9 percentage points less likely to be called a strike, holding measured pitch location fixed. Xiang, Dorst and Gershman then ran the tidiest test: 750 people on Mechanical Turk, preregistered, watching genuinely independent draws. Asked to pick the next colour, participants chose reversal, with a posterior effect size of -0.51 and a 95% credible interval from -0.68 to -0.34 in Experiment 1b. Asked instead for the probability of the next colour, the same design produced nothing. Experiment 1a gave a median indistinguishable from 50%, Z = -1.03, p = .304. The posterior effect size was -0.11, with a credible interval from -0.27 to 0.05 and a Bayes factor of 0.248 favouring the null.",
+    "study": {
+      "cite": "Xiang, Y., Dorst, K., & Gershman, S. J. (2025). On the robustness and provenance of the gambler's fallacy. Psychological Science, 36(6), 451-464.",
+      "doi": "10.1177/09567976251344570",
+      "year": 2025,
+      "n": 750
+    }
+  },
+  "limits": "No meta-analysis of the gambler's fallacy was located. Searches covered Crossref, PubMed and general web search for a pooled quantitative synthesis, and turned up individual studies and narrative reviews only, so the entry has no summary estimate to quote and none should be inferred from the figures above. The field results carry their own caveats, stated by their authors. Croson and Sundali find nothing at streaks of one to four, which is where most roulette hands live. They also note that no roulette bet costs more than any other in expected value. The casino is a setting where a cheap bias can survive. Chen, Moskowitz and Shue say they cannot completely rule out sequential contrast effects as an alternative to the gambler's fallacy, and the magnitudes quoted here were read from the February 2016 NBER working-paper version rather than the published article. The Xiang result splits the claim in two. Betting against a streak replicates; believing the streak is less likely to continue does not, at least when the sequence is genuinely independent and the question is asked as a probability. One adjacent effect has been replicated at scale and is often confused with this one. In Oppenheimer and Monin's retrospective gambler's fallacy, an observed streak makes people guess that a longer unseen sequence preceded it. That came back in Many Labs 1 across 36 samples and 5,942 participants. The original was d = 0.69 with a 95% interval of 0.16 to 1.21; the replication was d = 0.59 unweighted with a 99% interval of 0.49 to 0.70, significant in the same direction at 83% of sites. That is a claim about reconstructing the past, not about predicting the future, and it is not a replication of the classic fallacy.",
+  "misreadings": "The commonest error is treating every expectation of reversal as irrational. Draws without replacement do make the unseen outcome likelier. A run of one outcome is evidence that the generator is biased towards it. Laplace made both points in 1819, and the fallacy is specific to processes known to be independent and memoryless. The second error is calling the fallacy the inverse of the hot hand. They are answers to different questions, one about outcomes and one about people. Croson and Sundali found both in the same 139 gamblers. Those gamblers bet against long streaks and also placed more bets after winning, 13.62 numbers on average after an inside win against 9.21 after a loss. The third is reading the field studies as measurements of belief. What the asylum, loan and umpire data show is negative autocorrelation in choices, and Xiang and colleagues report that the same negative pattern is present in choices and absent in stated probabilities. Whatever the fallacy is, the newest evidence places it at the point of deciding rather than in the reasoning behind it.",
+  "sources": [
+    {
+      "text": "Laplace, P. S. (1902). A Philosophical Essay on Probabilities, translated from the sixth French edition by F. W. Truscott and F. L. Emory. New York: John Wiley & Sons. Chapter XVI, \"Concerning Illusions in the Estimation of Probabilities\".",
+      "url": "https://www.gutenberg.org/files/58881/58881-h/58881-h.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Tversky, A., & Kahneman, D. (1971). Belief in the law of small numbers. Psychological Bulletin, 76(2), 105-110.",
+      "doi": "10.1037/h0031322",
+      "url": "https://doi.org/10.1037/h0031322",
+      "type": "primary"
+    },
+    {
+      "text": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.",
+      "doi": "10.1126/science.185.4157.1124",
+      "url": "https://doi.org/10.1126/science.185.4157.1124",
+      "type": "primary"
+    },
+    {
+      "text": "Clotfelter, C. T., & Cook, P. J. (1993). Notes: The \"gambler's fallacy\" in lottery play. Management Science, 39(12), 1521-1525. The Maryland daily-numbers result is taken from the published abstract.",
+      "doi": "10.1287/mnsc.39.12.1521",
+      "url": "https://doi.org/10.1287/mnsc.39.12.1521",
+      "type": "primary"
+    },
+    {
+      "text": "Croson, R., & Sundali, J. (2005). The gambler's fallacy and the hot hand: Empirical data from casinos. Journal of Risk and Uncertainty, 30(3), 195-209.",
+      "doi": "10.1007/s11166-005-1153-2",
+      "url": "https://doi.org/10.1007/s11166-005-1153-2",
+      "type": "replication"
+    },
+    {
+      "text": "Chen, D. L., Moskowitz, T. J., & Shue, K. (2016). Decision making under the gambler's fallacy: Evidence from asylum judges, loan officers, and baseball umpires. The Quarterly Journal of Economics, 131(3), 1181-1242. Magnitudes quoted in this entry were read from the NBER working-paper version, w22026 (February 2016), at https://www.nber.org/papers/w22026.",
+      "doi": "10.1093/qje/qjw017",
+      "url": "https://doi.org/10.1093/qje/qjw017",
+      "type": "replication"
+    },
+    {
+      "text": "Xiang, Y., Dorst, K., & Gershman, S. J. (2025). On the robustness and provenance of the gambler's fallacy. Psychological Science, 36(6), 451-464.",
+      "doi": "10.1177/09567976251344570",
+      "url": "https://doi.org/10.1177/09567976251344570",
+      "type": "replication"
+    },
+    {
+      "text": "Oppenheimer, D. M., & Monin, B. (2009). The retrospective gambler's fallacy: Unlikely events, constructing the past, and multiple universes. Judgment and Decision Making, 4(5), 326-334.",
+      "doi": "10.1017/S1930297500001170",
+      "url": "https://doi.org/10.1017/S1930297500001170",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152. Source for the retrospective gambler's fallacy replication only.",
+      "doi": "10.1027/1864-9335/a000178",
+      "url": "https://doi.org/10.1027/1864-9335/a000178",
+      "type": "replication"
+    },
+    {
+      "text": "Miller, J. B., & Gelman, A. (2020). Laplace's theories of cognitive illusions, heuristics and biases. Statistical Science, 35(2). Source for the dating of Laplace's chapter on illusions.",
+      "doi": "10.1214/19-STS696",
+      "url": "https://doi.org/10.1214/19-STS696",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
