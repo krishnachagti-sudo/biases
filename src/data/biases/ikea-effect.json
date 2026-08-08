@@ -1,0 +1,75 @@
+{
+  "no": 49,
+  "slug": "ikea-effect",
+  "name": "IKEA effect",
+  "aliases": [
+    "IKEA bias"
+  ],
+  "category": "decision",
+  "statement": "People value what they have built themselves more highly than an identical thing built by someone else, but only when they finish it.",
+  "meaning": "Norton, Mochon and Ariely gave one group of people a flat-packed object and another group the same object already assembled, then asked both what they would pay for it. The builders bid more. The premium is not about ownership, since neither group owned the object while bidding, and not about customisation, since the objects were standardised and identical. It attaches to the act of building. The same paper sets the boundary. Labour raises valuation when the labour succeeds, and stops raising it when the task is abandoned or undone.",
+  "origin": {
+    "year": 2012,
+    "who": "Michael I. Norton, Daniel Mochon and Dan Ariely",
+    "where": "Journal of Consumer Psychology",
+    "note": "The paper is titled \"The IKEA effect: When labor leads to love\", and the name honours the Swedish manufacturer whose products arrive with some assembly required. It appeared online on 9 September 2011 and in print in 2012, at 22(3), 453-460. The underlying idea is older, and the authors take care to separate it from effort justification: in Aronson and Mills's 1959 initiation experiment every participant was admitted to the group, so the success of the effort was never varied, which is the variable this paper claims matters."
+  },
+  "evidence": "Four experiments, each with real money at stake through the Becker, DeGroot and Marschak bidding procedure or a sealed auction. In Experiment 1A, 52 students either assembled a plain black IKEA storage box or inspected one already built. Builders bid $0.78 (SD 0.63) against $0.48 (SD 0.40) from non-builders, t(50) = 2.12, p < .05, a premium of 63%. Experiment 1B moved to origami and 106 participants. Builders bid $0.23 (SD 0.25) for the frog or crane they had folded, while other participants bid $0.05 (SD 0.07) for those same creations and $0.27 (SD 0.26) for origami folded by experts, F(2, 100) = 5.34, p < .01. Builders' bids for their own work and outsiders' bids for expert work did not differ, t < 1, p > .45. Experiment 2 gave 118 people Lego sets of 10 to 12 pieces and had each bid on their own set and a partner's. Bids ran $0.84 against $0.42 in the build condition, $0.32 against $0.26 when the set came prebuilt, and $0.43 against $0.29 for people who built the set and then took it apart. Only the build condition produced a reliable gap, t(39) = 3.08, p < .01. Experiment 3 stopped 39 box builders two steps short of the end. Those who finished bid $1.46 (SD 1.46) and those who did not bid $0.59 (SD 0.70), t(37) = 2.35, p < .05.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A meta-analysis of 55 studies and 5,454 people puts the effect at d = 0.57, and children show the same bias from age five.",
+    "detail": "Pelled, Demetriades and Walter synthesised 55 studies covering 5,454 participants and report a moderate effect of self-assembly on valuation, d = 0.57, p < 0.005, with matching effects on liking, self-concept and sense of ownership. Their abstract states that the result held across moderators including product customisation and tangibility. That article is paywalled and those figures are read off its abstract at Crossref, which carries no confidence interval, so none is printed here. Sarstedt, Neubert and Barth published a conceptual replication in 2017 whose abstract reports support for the original effect and identifies psychological ownership as the mechanism; that paper is also paywalled and its sample size and statistics are not quoted. The developmental work is open. Marsh, Gil and Kanngiesser tested 128 British and Indian children aged five and six, who raised the value of a monster toy they had built by 1.06 coins (95% CI 0.60 to 1.52) and lowered the value of an identical one they had not built by 0.27 coins (95% CI -0.77 to 0.23), F(1, 119) = 28.23, p < .001, partial eta squared = .19. Collaborative building produced the same premium as building alone, and the British and Indian samples did not differ.",
+    "study": {
+      "cite": "Pelled, A., Demetriades, S. Z., & Walter, N. (2026). Labor Leads to Love, Right? A Meta-Analysis of the IKEA Effect. Psychology & Marketing, 43(2), 388-400.",
+      "doi": "10.1002/mar.70064",
+      "year": 2026,
+      "k": 55,
+      "n": 5454
+    },
+    "replicated": {
+      "es": 0.57,
+      "esType": "d"
+    }
+  },
+  "limits": "Every figure in the original paper is a bid of under two dollars on a storage box, a piece of folded paper or a dozen Lego bricks. Norton and colleagues say plainly that they used small-ticket items and that whether the effect holds for expensive ones is an open question. The completion boundary rests on two experiments with 118 and 39 participants, and no direct replication of either was located. Marsh, Kanngiesser and Hood report that among five- and six-year-olds the bias was not moderated by how much effort the task demanded, so effort and completion are not the same lever. The mechanism is unsettled. Mochon, Norton and Ariely argue that building signals competence to the self, Sarstedt and colleagues point to psychological ownership, and Marsh and colleagues conclude that ownership alone cannot explain the children's results and propose a link to self-concept instead. The meta-analysis was read only in abstract, so whether it tested completion as a moderator could not be checked.",
+  "misreadings": "The IKEA effect is not the endowment effect, which has its own entry here. Endowment concerns things a person already owns. In Experiment 1A both groups were bidding on a box that was not yet theirs, and in Experiment 2 the people who built a Lego set and then dismantled it had spent longer handling it than the builders and bid less. Norton and colleagues read that as evidence against ownership and against mere touch. The second misreading is that effort alone buys affection. Half-finished boxes and dismantled Lego produced no premium. The third is scale. The paper's own phrase, that builders valued their origami nearly five times higher, describes bids of 23 cents against 5 cents, and the largest bid recorded anywhere in the four experiments is $1.46.",
+  "sources": [
+    {
+      "text": "Norton, M. I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453-460. Read in the author's copy of the published article.",
+      "doi": "10.1016/j.jcps.2011.08.002",
+      "url": "https://doi.org/10.1016/j.jcps.2011.08.002",
+      "type": "primary"
+    },
+    {
+      "text": "Mochon, D., Norton, M. I., & Ariely, D. (2012). Bolstering and restoring feelings of competence via the IKEA effect. International Journal of Research in Marketing, 29(4), 363-369. Paywalled; the competence account is taken from the abstract.",
+      "doi": "10.1016/j.ijresmar.2012.05.001",
+      "url": "https://doi.org/10.1016/j.ijresmar.2012.05.001",
+      "type": "primary"
+    },
+    {
+      "text": "Marsh, L. E., Kanngiesser, P., & Hood, B. (2018). When and how does labour lead to love? The ontogeny and mechanisms of the IKEA effect. Cognition, 170, 245-253. Paywalled; the three studies are described from the abstract at PubMed.",
+      "doi": "10.1016/j.cognition.2017.10.012",
+      "url": "https://doi.org/10.1016/j.cognition.2017.10.012",
+      "type": "primary"
+    },
+    {
+      "text": "Marsh, L. E., Gil, J., & Kanngiesser, P. (2022). The influence of collaboration and culture on the IKEA effect: Does cocreation alter perceptions of value in British and Indian children? Developmental Psychology, 58(4), 662-670.",
+      "doi": "10.1037/dev0001321",
+      "url": "https://doi.org/10.1037/dev0001321",
+      "type": "replication"
+    },
+    {
+      "text": "Sarstedt, M., Neubert, D., & Barth, K. (2017). The IKEA Effect. A Conceptual Replication. Journal of Marketing Behavior, 2(4), 307-312. Paywalled; the result is taken from the abstract at the publisher.",
+      "doi": "10.1561/107.00000039",
+      "url": "https://doi.org/10.1561/107.00000039",
+      "type": "replication"
+    },
+    {
+      "text": "Pelled, A., Demetriades, S. Z., & Walter, N. (2026). Labor Leads to Love, Right? A Meta-Analysis of the IKEA Effect. Psychology & Marketing, 43(2), 388-400. Paywalled; the pooled estimate is taken from the abstract deposited at Crossref.",
+      "doi": "10.1002/mar.70064",
+      "url": "https://doi.org/10.1002/mar.70064",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

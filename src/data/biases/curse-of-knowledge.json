@@ -2,7 +2,11 @@
   "no": 28,
   "slug": "curse-of-knowledge",
   "name": "Curse of knowledge",
-  "aliases": ["Curse of expertise", "Epistemic egocentrism", "Knowledge bias"],
+  "aliases": [
+    "Curse of expertise",
+    "Epistemic egocentrism",
+    "Knowledge bias"
+  ],
   "category": "social",
   "statement": "Once someone knows a thing they cannot set it aside, so they overestimate how much of it other people already know.",
   "meaning": "The claim is about a subtraction that people cannot perform. Judging what a less informed person believes means holding your own knowledge out of the calculation, and the finding is that the knowledge leaks back in. Camerer, Loewenstein and Weber wrote the leak down formally. A forecaster with information I1 should report E(X|I0) when asked what someone holding only I0 expects; instead they report a weighted blend of E(X|I0) and E(X|I1), and the weight on their own richer information is the size of the bias. The same structure covers hindsight bias, where the naive perspective being reconstructed is the person's own earlier one, and false-belief reasoning, where it belongs to somebody else.",
@@ -23,10 +27,17 @@
       "year": 2014,
       "n": 3074
     },
-    "original": { "es": 0.469, "esType": "d" },
-    "replicated": { "es": 0.2, "esType": "d", "weighting": "combined across seven experiments" }
+    "original": {
+      "es": 0.469,
+      "esType": "d"
+    },
+    "replicated": {
+      "es": 0.2,
+      "esType": "d",
+      "weighting": "combined across seven experiments"
+    }
   },
-  "limits": "The demonstration everyone quotes was never peer reviewed. Elizabeth Newton's tappers and listeners study is a chapter of her 1990 Stanford doctoral dissertation, and no journal version of it appears in Crossref or in the searches run for this entry. The dissertation was read directly for these figures, and they hold up. 80 undergraduates were paired, and tappers chose three songs each from a list of 25. Tappers put the chance their listener had named the tune at a mean of 50%, range 10 to 95. Listeners scored 3 hits in 120 tries, 2.5%, outside the entire range of the tappers' guesses. The dissertation contradicts itself on that count, giving two of 150 in the abstract and three of 150 in the discussion, against the three of 120 in the results and in the table. The title is also usually got wrong; it is \"The rocky road from actions to intentions\", not the \"Heard and unheard melodies\" phrase attached to it in retellings. No replication of the tapping study was located. No effect size is quoted from the economics paper, which reports a bias index rather than a standardised effect. Guilbault and colleagues' meta-analysis of hindsight bias is named as existing, because it sits behind a paywall these checks did not pass. Searches covered Crossref, PubMed, PLOS, Google via web search, and the full text of the four papers held.",
+  "limits": "The demonstration everyone quotes was never peer reviewed. Elizabeth Newton's tappers and listeners study is a chapter of her 1990 Stanford doctoral dissertation, and no journal version of it appears in Crossref or in the searches run for this entry. The dissertation was read directly for these figures, and they hold up. 80 undergraduates were paired, and tappers chose three songs each from a list of 25. Tappers put the chance their listener had named the tune at a mean of 50%, range 10 to 95. Listeners scored 3 hits in 120 tries, 2.5%, outside the entire range of the tappers' guesses. The dissertation contradicts itself on that count, giving two of 150 in the abstract and three of 150 in the discussion, against the three of 120 in the results and in the table. The title is also usually got wrong; it is \"The rocky road from actions to intentions\", not the \"Heard and unheard melodies\" phrase attached to it in retellings. No replication of the tapping study was located. No effect size is quoted from the economics paper, which reports a bias index rather than a standardised effect. Guilbault and colleagues' meta-analysis of hindsight bias sits behind a paywall that these checks did not pass. Its pooled estimate was later obtained from the published abstract while writing this site's hindsight-bias entry, and is quoted there rather than here. Searches covered Crossref, PubMed, PLOS, Google via web search, and the full text of the four papers held.",
   "misreadings": "The tapping figures get quoted as though 50 against 2.5 were the measured size of the curse of knowledge in general. They are one demonstration, in one unpublished study, of a task listeners find close to impossible, and the gap partly measures the difficulty of the task rather than the tappers' egocentrism. Newton's own listeners guessed that only 3% of an audience would name a tune, so the effect is specific to knowing the tune, not a general optimism. The curse is also treated as a fixed trait of experts, where Camerer and colleagues found market experience cut it by about half within a single session. And it is used interchangeably with hindsight bias, which is one case of it: the naive perspective being reconstructed there is the judge's own earlier one.",
   "sources": [
     {

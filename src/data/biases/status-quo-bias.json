@@ -1,0 +1,85 @@
+{
+  "no": 51,
+  "slug": "status-quo-bias",
+  "name": "Status quo bias",
+  "aliases": ["Default effect", "Inertia", "Do-nothing bias"],
+  "category": "decision",
+  "statement": "An option is chosen more often when it is labelled the current one, and pre-set defaults are accepted at rates well above how often people pick the same option freely.",
+  "meaning": "The claim has two halves that are usually merged. The first is a framing result. Relabel an option as the thing the decision-maker already holds, change nothing else about it, and it gets picked more often. The second is a field claim. People who have already chosen leave their choice alone, while new entrants facing the same menu choose differently. Defaults sit across both halves. A default is whatever takes effect when nobody acts, which makes it the current state by construction, so the size of default effects is routinely read as the size of the bias. That reading is disputed. A default also tells the chooser what the institution setting it recommends, and it is the one option that costs nothing to accept.",
+  "origin": {
+    "year": 1988,
+    "who": "William Samuelson and Richard Zeckhauser",
+    "where": "Journal of Risk and Uncertainty",
+    "note": "\"Status quo bias in decision making\" named the effect, ran the questionnaire experiments that demonstrate it, and added field data on health-plan and retirement-fund choices. It appeared in the journal's first issue, pages 7 to 59."
+  },
+  "evidence": "The 1988 paper did two separate things. In the experiments, 486 students in economics classes at Boston University School of Management and at the Kennedy School of Government answered hypothetical decision problems in two versions. In the neutral version every option was listed without framing. In the status quo version one option was described as the position the decision-maker already occupied and the others as departures from it. Response rates fell in the same order across most cells: highest when an option sat in the status quo slot, lower when neutral, lowest when framed as the alternative to the status quo. In the four-alternative questions the ordering held in 17 of 24 cases, in the two-alternative questions 16 of 24, and in the three-alternative questions 13 of 18. Nobody was paid. The field half is a cohort comparison. Some 9,185 Harvard University employees were spread across eight health plans in 1986. Long-standing employees stayed with the incumbent Blue Cross/Blue Shield plan and new hires took the newer HMOs, and the authors calculate that transfers between plans would have to run more than ten times their actual 1986/1987 rate to bring the old cohort's distribution near the new cohort's. At TIAA-CREF, then some 850,000 participants, a 1986 study found that 28 percent had ever changed how their premiums split between the two funds, 20 percent exactly once. Fewer than 2.5 percent alter the split in a given year. The best-known extensions are about defaults. Johnson and Goldstein put a hypothetical organ-donation question to 161 online respondents where switching cost one mouse click. Consent was 42 percent when the default was not to be a donor, 82 percent when it was to be a donor, and 79 percent with no default at all. Their European figures for effective consent run from 4.25 percent in Denmark to 99.98 percent in Austria, with no overlap between opt-in and opt-out countries and nearly 60 percentage points between the two groups. Madrian and Shea studied one firm that switched to automatic enrolment in its 401(k) plan on 1 April 1998 while changing nothing about the money. At 3 to 15 months of tenure, 37 percent of the cohort hired just before the switch participated, against 86 percent of those hired after it. Among the automatically enrolled participants, 76 percent contributed at the 3 percent default rate and 61 percent had changed neither the rate nor the default money-market fund.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A preregistered replication of the naming paper found the effect in three of its four scenarios, and failed to find it in the fourth.",
+    "detail": "Xiao, Lam, Piara and Feldman ran two preregistered Mechanical Turk collections, N = 311 and N = 316, on four of Samuelson and Zeckhauser's scenarios. Budget allocation, investment portfolios and college job offers all showed the effect. In the first phase, options in the budget-allocation scenario were chosen more often under status quo framing than under the non-status quo framing for all four options, the weakest comparison giving chi-square = 9.380, p = .002, with Cohen's h values around 0.5. Comparing status quo framing against neutral framing, a stricter test the original paper never ran, three of four options differed significantly, with h between 0.382 and 0.518. The failure was the wagon-colour scenario. In the first phase no option differed significantly between status quo and non-status quo framing in the expected direction, and only one option, White, differed from neutral framing, chi-square = 5.061, p = .024. In the second phase only two of the colours differed significantly under the first comparison and none under the second, and for one colour the non-status quo framing was chosen more often than the status quo framing. The authors call the replication successful for three scenarios and report effect sizes comparable with or larger than the original for those. Separately, Jachimowicz, Duncan, Weber and Johnson meta-analysed 58 default studies with a pooled n of 73,675 and report d = 0.68, 95% CI [0.53, 0.83]. They also report that most studies find positive effects, several find no significant effect, and two find negative ones.",
+    "study": {
+      "cite": "Xiao, Q., Lam, C. S., Piara, M., & Feldman, G. (2021). Revisiting status quo bias: Replication of Samuelson and Zeckhauser (1988). Meta-Psychology, 5, Article 2470.",
+      "doi": "10.15626/MP.2020.2470",
+      "year": 2021
+    }
+  },
+  "limits": "The famous evidence is not experimental. Harvard's health-plan data and the TIAA-CREF allocations compare cohorts who joined at different times, and Samuelson and Zeckhauser ask in their own text whether such persistence amounts to a bias at all. Johnson and Goldstein's country figures are the same shape: eleven countries, no random assignment, and the outcome measured is registration rather than transplantation. Two later analyses find the gap does not carry through to donation. Arshad, Anderson and Sharif compared 35 OECD countries for 2016, 17 opt-out and 18 opt-in, and found no significant difference in deceased donors per million population, 20.3 against 15.4, but fewer living donors under opt-out, 4.8 against 15.7. Güntürkün and colleagues, combining data on 24 countries from 2000 to 2023 with four experiments, report that adopting opt-out raised deceased donors by 1.21 per million, 7 percent, p = 0.213, and lowered living donors by 4.59 per million, 29 percent, p = 0.026. On the laboratory side, the default meta-analysis carries heterogeneity of about 98 percent, so the pooled 0.68 describes a spread rather than a typical study. No multi-site preregistered replication of the status quo framing effect was located in searches of Crossref and the published replication literature; the Xiao and colleagues paper is a single laboratory running two online samples.",
+  "misreadings": "The most common error is treating status quo bias, the endowment effect and loss aversion as one finding with three names. Loss aversion is a ratio fitted to risky choices, the endowment effect is a gap between selling and buying prices for a good someone holds, and status quo bias is a shift in choice caused by a label. Loss aversion is often offered as the explanation for the other two, which makes them illustrations of it rather than evidence for it. The second error is treating every default effect as a preference for the current state. McKenzie, Liersch and Finkelstein gave 88 students a choice between two one-page summaries with identical content. In the default condition 98 percent, 43 of 44, read the summary that was already on the desk; with no default, 39 percent chose it. Asked why, 30 percent of the default group agreed they had chosen it because the experimenters appeared to want them to, against none of the no-default group, and 65 percent agreed it would have been too much effort to choose the other, against 5 percent. Jachimowicz and colleagues find defaults more effective when they work through endorsement, what the choice architect seems to think the chooser should do, or through endowment. Johnson and Goldstein set out all three routes, effort, endorsement and reference dependence, and said which one dominates should change what policymakers conclude. The third error is quoting the organ-donation percentages as donation rates. They are effective consent, meaning the share who registered or who did not opt out.",
+  "sources": [
+    {
+      "text": "Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7-59.",
+      "doi": "10.1007/BF00055564",
+      "url": "https://doi.org/10.1007/BF00055564",
+      "type": "primary"
+    },
+    {
+      "text": "Xiao, Q., Lam, C. S., Piara, M., & Feldman, G. (2021). Revisiting status quo bias: Replication of Samuelson and Zeckhauser (1988). Meta-Psychology, 5, Article 2470.",
+      "doi": "10.15626/MP.2020.2470",
+      "url": "https://doi.org/10.15626/MP.2020.2470",
+      "type": "replication"
+    },
+    {
+      "text": "Johnson, E. J., & Goldstein, D. (2003). Do defaults save lives? Science, 302(5649), 1338-1339.",
+      "doi": "10.1126/science.1091721",
+      "url": "https://doi.org/10.1126/science.1091721",
+      "type": "primary"
+    },
+    {
+      "text": "Madrian, B. C., & Shea, D. F. (2001). The power of suggestion: Inertia in 401(k) participation and savings behavior. The Quarterly Journal of Economics, 116(4), 1149-1187.",
+      "doi": "10.1162/003355301753265543",
+      "url": "https://doi.org/10.1162/003355301753265543",
+      "type": "primary"
+    },
+    {
+      "text": "Madrian, B. C., & Shea, D. F. (2000). The power of suggestion: Inertia in 401(k) participation and savings behavior. NBER Working Paper 7682. The 37 percent and 86 percent participation figures quoted here were read off this working-paper version, not off the journal article.",
+      "doi": "10.3386/w7682",
+      "url": "https://doi.org/10.3386/w7682",
+      "type": "primary"
+    },
+    {
+      "text": "Jachimowicz, J. M., Duncan, S., Weber, E. U., & Johnson, E. J. (2019). When and why defaults influence decisions: A meta-analysis of default effects. Behavioural Public Policy, 3(2), 159-186.",
+      "doi": "10.1017/bpp.2018.43",
+      "url": "https://doi.org/10.1017/bpp.2018.43",
+      "type": "replication"
+    },
+    {
+      "text": "McKenzie, C. R. M., Liersch, M. J., & Finkelstein, S. R. (2006). Recommendations implicit in policy defaults. Psychological Science, 17(5), 414-420.",
+      "doi": "10.1111/j.1467-9280.2006.01721.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2006.01721.x",
+      "type": "commentary"
+    },
+    {
+      "text": "Arshad, A., Anderson, B., & Sharif, A. (2019). Comparison of organ donation and transplantation rates between opt-out and opt-in systems. Kidney International, 95(6), 1453-1460.",
+      "doi": "10.1016/j.kint.2019.01.036",
+      "url": "https://doi.org/10.1016/j.kint.2019.01.036",
+      "type": "commentary"
+    },
+    {
+      "text": "Güntürkün, P., Studte, S., Winkler, D., Clement, M., Tan, J. H. W., Merz, E.-M., Huis in 't Veld, E., & Ferguson, E. (2025). Crowding-out effects of opt-out defaults: Evidence from organ donation policies. PNAS Nexus, 4(10), pgaf311.",
+      "doi": "10.1093/pnasnexus/pgaf311",
+      "url": "https://doi.org/10.1093/pnasnexus/pgaf311",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

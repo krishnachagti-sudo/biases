@@ -1,0 +1,73 @@
+{
+  "no": 58,
+  "slug": "berksons-paradox",
+  "name": "Berkson's paradox",
+  "aliases": ["Berkson's bias", "Berkson's fallacy", "Admission rate bias", "Collider stratification bias"],
+  "category": "belief",
+  "statement": "Two conditions that are unrelated in the population can look related inside a hospital sample, because being in the sample already requires having one of them.",
+  "meaning": "This is a property of a sample rather than a habit of a mind, which it shares with survivorship bias and with little else in this collection. Suppose two illnesses each raise the chance of being admitted to hospital, and are independent in the general population. Among admitted patients, someone without the first illness is more likely to have the second, because something had to get them through the door. The two now correlate, negatively or positively depending on the admission rates, and nothing in the ward register says so. Modern causal inference gives the mechanism a name: admission is a collider, a variable that both illnesses point into, and restricting a study to the admitted patients conditions on it. The error is not in the reasoning applied to the data. The data were assembled by a filter that both variables helped to operate.",
+  "origin": {
+    "year": 1946,
+    "who": "Joseph Berkson",
+    "where": "Biometrics Bulletin",
+    "note": "\"Limitations of the application of fourfold table analysis to hospital data\", Biometrics Bulletin 2(3), 47 to 53, reprinted in the International Journal of Epidemiology in 2014. Berkson preferred the word 'paradox' for it, according to Sackett. The name Berkson's bias, and the broader definition covering every cause of differential admission, came later."
+  },
+  "evidence": "Berkson's paper argues that the fourfold table borrowed from experimental work does not carry the same meaning when its rows come from a hospital. The opening pages set the experimental method against the statistical indices, chi-square and the correlation coefficients of Pearson and Yule, and observe that all of them measure whether the ratio a to a plus b differs from c to c plus d. The original is behind a paywall and the numerical illustration inside it could not be read. The first empirical demonstration came 32 years later. Roberts, Spitzer, Delmore and Sackett used household interviews covering both illness and recent hospital use, and Sackett printed two of their tables in 1979. Among 2,784 people in the general population, the relative odds of disease of the bones and organs of movement given respiratory disease were 1.06. Among the 257 of them who had been in hospital in the previous six months, the same relative odds were 4.06. A second pair runs the other way: fatigue given prior allergic or metabolic disease showed relative odds of 1.89 in the general population and 0.37 in the hospitalised subset. Sackett listed the effect as admission rate bias, the second of 35 biases of sampling and measurement he catalogued. The modern treatment is quantitative. Munafo, Tilling, Taylor, Evans and Davey Smith simulated an intended population of 9,000,000 with no association between an allele score and an outcome, and a selected sample of about 500,000. With selection odds of 1.5 per standard deviation on both the phenotype and the outcome, and a correlation of 0.1 between allele score and phenotype, the confidence intervals covered the true value of zero only 89% of the time. In the same paper, higher body mass index predicted dropping out of the ALSPAC birth cohort, with an odds ratio per standard deviation of 0.85 among 11,319 mothers, 95% CI 0.81 to 0.88.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication attempt was found, and none is the right thing to look for; the closest evidence is a 1978 household survey that recovered the bias from real data."
+  },
+  "limits": "Berkson's paradox is not an experimental effect. There is no protocol to re-run, no effect size to compare across labs, and no confidence interval that would settle anything. Given two causes of selection, the selected sample is distorted, and that follows from probability rather than being tested. What can be tested is whether real admission rates behave the way the model assumes, and there the record is not one-sided. Feinstein, Walter and Horwitz showed algebraically that the bias vanishes if cases and controls are both drawn from the community, and argued that Berkson's arithmetic assumes each condition raises the admission rate independently and additively. Two conditions arriving together may change a doctor's referral decision in ways the multiplication does not capture, and they judged those clinical decisions the more powerful source of distortion. Sartwell wrote in 1974, quoted by Sackett, that the practical importance of the bias had not been established. Searches of Crossref, PubMed and the open web for a replication, a registered report or a multi-site repetition returned nothing, which is what a mathematical result should return.",
+  "misreadings": "The story usually attached to this entry is that Berkson found diabetes to be protective against gallbladder disease in Mayo Clinic records. That retelling is everywhere and it could not be checked here, because the 1946 paper is paywalled and the visible pages contain no such table. Treat the diabetes example as folklore until somebody opens the paper. The second confusion is with confounding, and it matters because the remedies point in opposite directions. A confounder is controlled by adjusting for it; a collider is created as a bias by adjusting for it, so the statistical reflex that fixes the first causes the second. The third is treating the label as a verdict. Griffith and colleagues found that of 486,967 UK Biobank participants only 1,410 had COVID-19 test data at the time, and that 811 of 2,556 measured traits, 32%, predicted having been tested. That establishes selection, not the direction or size of any resulting error. Their sensitivity analysis on the reported protective association between smoking and COVID-19 assumed a smoking prevalence of 0.27 in the general population and 0.05 in the sample, and found that 40% of the plausible parameter combinations would manufacture a two-fold association out of nothing. Forty per cent of a parameter space is a warning, not a refutation of the smoking result. Saying a sample was selected shows where an association might have come from, and the argument still has to be made.",
+  "sources": [
+    {
+      "text": "Berkson, J. (1946). Limitations of the application of fourfold table analysis to hospital data. Biometrics Bulletin, 2(3), 47. Crossref confirms author, journal, volume, issue and June 1946; Sackett's 1979 reference list gives the page range as 47 to 53. Full text not obtained.",
+      "doi": "10.2307/3002000",
+      "url": "https://doi.org/10.2307/3002000",
+      "type": "primary"
+    },
+    {
+      "text": "Berkson, J. (2014). Limitations of the Application of Fourfold Table Analysis to Hospital Data. International Journal of Epidemiology, 43(2), 511-515. The 2014 reprint; opening pages readable, remainder paywalled.",
+      "doi": "10.1093/ije/dyu022",
+      "url": "https://doi.org/10.1093/ije/dyu022",
+      "type": "primary"
+    },
+    {
+      "text": "Sackett, D. L. (1979). Bias in analytic research. Journal of Chronic Diseases, 32(1-2), 51-63. Full text read from the James Lind Library scan; Tables 2 and 3 carry the 1.06, 4.06, 1.89 and 0.37 figures, adapted from Roberts et al.",
+      "doi": "10.1016/0021-9681(79)90012-2",
+      "url": "https://www.jameslindlibrary.org/wp-data/uploads/2014/06/Sackett-1979-whole-article.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Roberts, R. S., Spitzer, W. O., Delmore, T., & Sackett, D. L. (1978). An empirical demonstration of Berkson's bias. Journal of Chronic Diseases, 31(2), 119-128. PubMed carries no abstract; the figures used here are Sackett's 1979 reprinting of its tables.",
+      "doi": "10.1016/0021-9681(78)90097-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/659569/",
+      "type": "primary"
+    },
+    {
+      "text": "Feinstein, A. R., Walter, S. D., & Horwitz, R. I. (1986). An analysis of Berkson's bias in case-control studies. Journal of Chronic Diseases, 39(7), 495-504. Abstract read at PubMed; full text not obtained.",
+      "doi": "10.1016/0021-9681(86)90194-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3722313/",
+      "type": "secondary"
+    },
+    {
+      "text": "Munafo, M. R., Tilling, K., Taylor, A. E., Evans, D. M., & Davey Smith, G. (2018). Collider scope: when selection bias can substantially influence observed associations. International Journal of Epidemiology, 47(1), 226-235. Published online 27 September 2017.",
+      "doi": "10.1093/ije/dyx206",
+      "url": "https://doi.org/10.1093/ije/dyx206",
+      "type": "primary"
+    },
+    {
+      "text": "Griffith, G. J., Morris, T. T., Tudball, M. J., et al. (2020). Collider bias undermines our understanding of COVID-19 disease risk and severity. Nature Communications, 11, 5749.",
+      "doi": "10.1038/s41467-020-19478-2",
+      "url": "https://doi.org/10.1038/s41467-020-19478-2",
+      "type": "primary"
+    },
+    {
+      "text": "Westreich, D. (2012). Berkson's bias, selection bias, and missing data. Epidemiology, 23(1), 159-164. Abstract read at PubMed; connects Berkson's bias to collider bias and to bias from missing data.",
+      "doi": "10.1097/EDE.0b013e31823b6296",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22081062/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

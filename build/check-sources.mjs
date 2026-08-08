@@ -142,6 +142,18 @@ if (process.argv.includes('--new')) {
     .split('\n').map((l) => l.slice(3).trim()).filter(Boolean)
     .map((p) => p.split('/').pop());
   targets = files.filter((f) => changed.includes(f));
+  // A selection of nothing is not a pass. Run from a context where `git status`
+  // reports no changes — a sandbox with its own worktree view, or simply after
+  // the entries were already committed — `--new` would otherwise check zero
+  // files and print "source check passed", which reads as a verified corpus and
+  // means the opposite. This is the same failure as recording a rate-limited
+  // request as an unresolvable DOI: an absence of evidence formatted as a
+  // verdict. Say so and stop, so the caller reruns without the flag.
+  if (targets.length === 0) {
+    console.error('source check DID NOT RUN — --new matched no changed entries under src/data/biases.');
+    console.error('  Nothing was verified. Re-run `npm run sources` without --new to check the whole corpus.');
+    process.exit(3);
+  }
 }
 
 const problems = [];

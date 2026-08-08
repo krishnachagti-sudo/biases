@@ -1,0 +1,74 @@
+{
+  "no": 55,
+  "slug": "depressive-realism",
+  "name": "Depressive realism",
+  "aliases": ["Sadder but wiser effect", "Sadder but wiser"],
+  "category": "belief",
+  "statement": "Depressed people are said to judge their own control over events more accurately than everybody else, who hold a flattering illusion of control.",
+  "meaning": "The claim comes in two strengths, and the literature has not always kept them apart. Moore and Fresco call the weaker one weak depressive realism: depressed people show less bias than non-depressed people, whether or not either group is accurate. The stronger one, which they call strong depressive realism, adds that depressed people show no bias at all, so their judgements sit on the objective value. Both versions are claims about a laboratory judgement, usually how much control a person believes they have over a light that comes on. Neither is a claim about seeing the world as it is.",
+  "origin": {
+    "year": 1979,
+    "who": "Lauren B. Alloy and Lyn Y. Abramson",
+    "where": "Journal of Experimental Psychology: General",
+    "note": "The paper is titled \"Judgment of contingency in depressed and nondepressed students: Sadder but wiser?\" and it does not contain the phrase \"depressive realism\" anywhere. The question mark in the title is the authors'."
+  },
+  "evidence": "Four experiments on University of Pennsylvania undergraduates, paid volunteers, who pressed or did not press a button across trials and then rated how much control they had over a green light. Students scoring 9 or above on the Beck Depression Inventory went into the depressed group and 8 or below into the non-depressed group. Experiment 1, with 96 students and a real contingency in every problem, found no difference between the mood groups at all. The famous result is Experiment 2, with 64 students and no contingency whatever. Where the light came on 75% of the time, non-depressed women rated their control at 51.4 out of 100 against 13.1 for depressed women. The figures for men were 30.3 and 21.2. Experiment 3, also 64 students and also with no contingency, attached money to the light. Non-depressed students rated their control at 49.4 (men) and 64.4 (women) when winning, and at 6.9 and 21.2 when losing. Depressed students' ratings barely moved between the two.",
+  "replication": {
+    "state": "failed",
+    "headline": "The one meta-analysis puts the effect below the conventional threshold for small, and a preregistered replication with 246 online participants found nothing, with the trend running the wrong way.",
+    "detail": "Moore and Fresco pooled 75 studies and 7,305 participants in 2012 and found a weighted mean d of -.07 in the direction depressive realism predicts, correcting to that from -.09 after trim and fill removed four studies. Cohen's convention for a small effect is .20. Both groups came out optimistic rather than one of them accurate, d = .14 for the dysphoric or depressed and d = .29 for the rest, which contradicts the strong version. Heterogeneity was enormous, Q = 493.89 on 74 degrees of freedom, p < .001, with study effects running from -3.59 to .99. Every moderator pointed the wrong way for the theory. Studies with no objective standard of reality to compare judgements against produced d = -.15, against -.03 for studies that had one. Studies using self-report to measure depression produced d = -.04, while the four using a structured clinical interview produced d = .16, the reverse of realism. The judgement-of-contingency task, where the effect was discovered, produced d = -.09. Dev, Moore, Johnson and Garrett then ran a preregistered replication in 2022, powered from the lower bound of the interval around the original effects, with 246 Amazon Mechanical Turk workers prescreened for symptom severity and a second undergraduate sample. Depression symptoms did not predict illusory control in the second sample, beta = 0.05, p = .47. In the first they did predict it, beta = 0.18, p < .001, in the direction opposite to depressive realism, and the effect tracked anxious arousal rather than anhedonic depression.",
+    "study": {
+      "cite": "Dev, A. S., Moore, D. A., Johnson, S. L., & Garrett, K. T. (2022). Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication. Collabra: Psychology, 8(1), 38529.",
+      "doi": "10.1525/collabra.38529",
+      "year": 2022,
+      "n": 246
+    }
+  },
+  "limits": "Neither key paper reports a confidence interval around its headline figure, so none is quoted here: Moore and Fresco give standard deviations and fail-safe numbers, Dev and colleagues give standardised regression coefficients. The two studies using patients rather than students also fail to find the effect, and they fail differently. Carson, Hollon and Shelton found that patients with major depressive disorder underestimated control where control was real and were more negative throughout. Venkatesh, Moulds and Mitchell tested 86 people, 28 of them clinically depressed, and found every group showed the illusion of control. Msetfi and colleagues did obtain realism-shaped results, but only when long gaps separated the trials, and read that as depressed participants processing the context less rather than judging more accurately. Allan, Siegel and Hannah argue the whole pattern is a shift in willingness to say yes rather than a difference in what people perceive, and they state plainly that this analysis cannot be applied retrospectively to the existing data. The 2022 paper gives its second sample as 134 in the abstract and 136 in the results text.",
+  "misreadings": "The popular claim, that depression brings a clearer view of life, is far stronger than anything anybody has tested. What was measured is a rating of control over a light bulb across 40 trials. Alloy and Abramson's depressed group was students scoring 9 or above on a self-report inventory, not patients, and their Experiment 1 found no mood difference once the button actually controlled the light. In Experiment 2 the overestimate was more pronounced among non-depressed women, and the problem-by-mood interaction was not significant for the men. Moore and Fresco's data undercut the accuracy framing directly, since dysphoric participants were optimistically biased too, just less so. And the reading that depression removes bias sits badly with the clinical findings, where depressed patients were wrong in a negative direction rather than right.",
+  "sources": [
+    {
+      "text": "Alloy, L. B., & Abramson, L. Y. (1979). Judgment of contingency in depressed and nondepressed students: Sadder but wiser? Journal of Experimental Psychology: General, 108(4), 441-485.",
+      "doi": "10.1037/0096-3445.108.4.441",
+      "url": "https://doi.org/10.1037/0096-3445.108.4.441",
+      "type": "primary"
+    },
+    {
+      "text": "Moore, M. T., & Fresco, D. M. (2012). Depressive realism: A meta-analytic review. Clinical Psychology Review, 32(6), 496-509.",
+      "doi": "10.1016/j.cpr.2012.05.004",
+      "url": "https://doi.org/10.1016/j.cpr.2012.05.004",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Dev, A. S., Moore, D. A., Johnson, S. L., & Garrett, K. T. (2022). Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication. Collabra: Psychology, 8(1), 38529.",
+      "doi": "10.1525/collabra.38529",
+      "url": "https://doi.org/10.1525/collabra.38529",
+      "type": "replication"
+    },
+    {
+      "text": "Carson, R. C., Hollon, S. D., & Shelton, R. C. (2010). Depressive realism and clinical depression. Behaviour Research and Therapy, 48(4), 257-265.",
+      "doi": "10.1016/j.brat.2009.11.011",
+      "url": "https://doi.org/10.1016/j.brat.2009.11.011",
+      "type": "replication"
+    },
+    {
+      "text": "Venkatesh, S., Moulds, M. L., & Mitchell, C. J. (2018). Testing for depressive realism in a clinically depressed sample. Behaviour Change, 35(2), 108-122.",
+      "doi": "10.1017/bec.2018.12",
+      "url": "https://doi.org/10.1017/bec.2018.12",
+      "type": "replication"
+    },
+    {
+      "text": "Msetfi, R. M., Murphy, R. A., Simpson, J., & Kornbrot, D. E. (2005). Depressive realism and outcome density bias in contingency judgments: The effect of the context and intertrial interval. Journal of Experimental Psychology: General, 134(1), 10-22.",
+      "doi": "10.1037/0096-3445.134.1.10",
+      "url": "https://doi.org/10.1037/0096-3445.134.1.10",
+      "type": "critique"
+    },
+    {
+      "text": "Allan, L. G., Siegel, S., & Hannah, S. (2007). The sad truth about depressive realism. Quarterly Journal of Experimental Psychology, 60(3), 482-495.",
+      "doi": "10.1080/17470210601002686",
+      "url": "https://doi.org/10.1080/17470210601002686",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
