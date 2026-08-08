@@ -1,0 +1,55 @@
+{
+  "no": 23,
+  "slug": "halo-effect",
+  "name": "Halo effect",
+  "aliases": ["Halo error", "Physical attractiveness stereotype", "What is beautiful is good"],
+  "category": "social",
+  "statement": "One favourable impression of a person spreads to judgements it has nothing to do with, so someone who looks the part is rated as more capable too.",
+  "meaning": "The claim is about contamination between ratings that ought to be independent. If a rater is asked to score twelve separate qualities and their scores on all twelve move together, either the qualities really do travel together in people, or the rater formed one overall impression and read it off twelve times. Thorndike's argument was that the correlations were too high and too even to be the first. What makes the effect awkward to study is that this is a claim about the difference between real covariation and rated covariation, and measuring the real thing is exactly what the ratings were supposed to do.",
+  "origin": {
+    "year": 1920,
+    "who": "Edward L. Thorndike",
+    "where": "Journal of Applied Psychology",
+    "note": "The paper is \"A constant error in psychological ratings\". Two commanding officers rated their soldiers on physical qualities, intellect, leadership and character, and the correlations between unrelated dimensions ran high: physique with intelligence at .31, physique with leadership at .39, physique with character at .28."
+  },
+  "evidence": "The original evidence is correlational and comes from rating data. The best-known experimental version is Nisbett and Wilson's, in which students watched a lecturer behave either warmly or coldly and then rated his appearance, mannerisms and accent, features that did not change between the two versions. The physical attractiveness branch of the literature is separate and larger: it asks whether attractive people are credited with traits unrelated to looks, and it has been reviewed meta-analytically by Eagly and colleagues under the title \"What is beautiful is good, but...\", where the qualification carries the finding.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The phenomenon is old and widely reproduced, and the way it has been measured for most of a century has been argued to be broken.",
+    "detail": "Murphy, Jako and Anhalt reviewed the halo literature since 1980 and concluded that all seven of the characteristics that had defined halo error for much of its history are problematic, and that the assumptions behind some of them are demonstrably wrong. That is a criticism of the construct rather than of the observation. The difficulty is the one built into Thorndike's original argument: calling a correlation between rated traits an error requires knowing what the true correlation is, and in most applied settings nobody does. So an entry cannot honestly say the halo effect replicated or failed. What can be said is that impressions bleed across judgements, that this is easy to demonstrate experimentally where the true answer is fixed by the design, and that the applied measure of halo error in performance appraisal does not rest on solid ground.",
+    "study": {
+      "cite": "Murphy, K. R., Jako, R. A., & Anhalt, R. L. (1993). Nature and consequences of halo error: A critical analysis. Journal of Applied Psychology, 78(2), 218-225.",
+      "doi": "10.1037/0021-9010.78.2.218",
+      "year": 1993
+    }
+  },
+  "limits": "No effect sizes are printed here. Thorndike's paper reports correlations rather than a standardised effect, the Nisbett and Wilson experiment's figures were not obtained from a copy of that paper for this entry, and the Eagly meta-analysis is behind a paywall that these checks did not get past, so its per-trait effect sizes are named as existing rather than quoted. That is a gap in this entry and it is recorded here rather than papered over with a number from a secondary source. The mixed verdict also covers two literatures that are usually run together: impression contamination in experiments, and halo error in workplace ratings. They have different evidence and different problems.",
+  "misreadings": "The halo effect is often stated as though attractiveness causes people to be judged better at everything, which the meta-analytic title already qualifies: the inference is stronger for some traits, such as social competence, than for others, and weaker still for traits like integrity. It is also used interchangeably with the horn effect, its negative counterpart, though the two have not been shown to be symmetrical. And in business writing it has drifted into meaning any spillover of reputation between products, which is a different claim about brands rather than a finding about how raters rate people.",
+  "sources": [
+    {
+      "text": "Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25-29.",
+      "doi": "10.1037/h0071663",
+      "url": "https://doi.org/10.1037/h0071663",
+      "type": "primary"
+    },
+    {
+      "text": "Nisbett, R. E., & Wilson, T. D. (1977). The halo effect: Evidence for unconscious alteration of judgments. Journal of Personality and Social Psychology, 35(4), 250-256.",
+      "doi": "10.1037/0022-3514.35.4.250",
+      "url": "https://doi.org/10.1037/0022-3514.35.4.250",
+      "type": "primary"
+    },
+    {
+      "text": "Eagly, A. H., Ashmore, R. D., Makhijani, M. G., & Longo, L. C. (1991). What is beautiful is good, but...: A meta-analytic review of research on the physical attractiveness stereotype. Psychological Bulletin, 110(1), 109-128. Cited as existing; its per-trait effect sizes were not retrieved for this entry.",
+      "doi": "10.1037/0033-2909.110.1.109",
+      "url": "https://doi.org/10.1037/0033-2909.110.1.109",
+      "type": "replication"
+    },
+    {
+      "text": "Murphy, K. R., Jako, R. A., & Anhalt, R. L. (1993). Nature and consequences of halo error: A critical analysis. Journal of Applied Psychology, 78(2), 218-225.",
+      "doi": "10.1037/0021-9010.78.2.218",
+      "url": "https://doi.org/10.1037/0021-9010.78.2.218",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
