@@ -1,0 +1,46 @@
+{
+  "no": 20,
+  "slug": "disfluency-effect",
+  "name": "Disfluency effect",
+  "aliases": ["Desirable difficulty in type", "Hard-to-read font effect", "Metacognitive difficulty"],
+  "category": "belief",
+  "statement": "Setting a problem in a hard-to-read font is said to make people slow down and reason more carefully, so ugly type produces better answers.",
+  "meaning": "The idea rests on a distinction between what you are thinking about and how the thinking feels. When text is easy to process, the ease is read as a signal that everything is fine and the fast intuitive answer can be trusted. When the same text is greyed out and shrunk, the difficulty is misattributed to the problem, and the slower checking system is recruited. What makes this striking rather than obvious is that the difficulty is in the typeface, which has nothing to do with the question, so a purely cosmetic change to a page should alter the quality of reasoning done on it.",
+  "origin": {
+    "year": 2007,
+    "who": "Adam Alter, Daniel Oppenheimer, Nicholas Epley and Rebecca Eyre",
+    "where": "Journal of Experimental Psychology: General",
+    "note": "Their paper is \"Overcoming intuition: Metacognitive difficulty activates analytic reasoning\". It became one of the most-cited findings in applied typography and in education, where it is usually reported as a practical recommendation rather than as a laboratory result."
+  },
+  "evidence": "Forty-one participants solved syllogisms printed in either black 12-point type or in grey italic 10-point type. On the two moderately difficult items, 64% of the hard-to-read group answered correctly against 42% of the easy-to-read group, an effect of d = 0.64 whose confidence interval ran from -0.004 to 1.27. The interval includes zero, and the reported p value was 0.051.",
+  "replication": {
+    "state": "failed",
+    "headline": "In 2,580 people tested in laboratories, in English, the hard-to-read group answered no more syllogisms correctly than the easy-to-read group.",
+    "detail": "Many Labs 2 restricted the confirmatory test to English in-laboratory samples on the original authors' advice, for two good reasons: online participants can zoom in and defeat the manipulation, and translated versions might not support the original typeface. In that subsample the hard-to-read group averaged 1.10 syllogisms correct and the easy-to-read group 1.13, giving d = -0.03 with a 95% confidence interval from -0.11 to 0.05. The fonts were the same two the original specified, black Myriad Web 12-point against 10% grey italicised Myriad Web 10-point.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "n": 2580
+    },
+    "original": { "es": 0.64, "esType": "d", "ci": [-0.004, 1.27], "ciLevel": 95 },
+    "replicated": { "es": -0.03, "esType": "d", "ci": [-0.11, 0.05], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "The replication also had to decide which syllogisms counted as moderately difficult, since that varies by sample, and it did so by dropping items answered correctly by fewer than 25% or more than 75% of participants within each sample rather than by fixing the same two items everywhere. That is a defensible choice and it is a departure from the original. The 2,580 figure is the in-laboratory English subsample rather than the full project sample, and it is the number the confirmatory analysis used. What is being tested here is disfluency produced by typography on syllogisms; other manipulations of processing difficulty, and other tasks, are outside this result.",
+  "misreadings": "The finding travelled into design and teaching advice as though it were settled: set your handouts in something awkward and students will think harder. That advice has never had strong support and now has a well-powered null against it. It is also frequently merged with desirable difficulties in learning, a separate and better-supported literature about spacing, testing and generation, none of which is about fonts. And the original's own interval already ran from below zero to 1.27 at p = 0.051, so the result was borderline in the paper that reported it.",
+  "sources": [
+    {
+      "text": "Alter, A. L., Oppenheimer, D. M., Epley, N., & Eyre, R. N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. Journal of Experimental Psychology: General, 136(4), 569-576.",
+      "doi": "10.1037/0096-3445.136.4.569",
+      "url": "https://doi.org/10.1037/0096-3445.136.4.569",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
