@@ -1,0 +1,84 @@
+{
+  "no": 80,
+  "slug": "escalation-of-commitment",
+  "name": "Escalation of commitment",
+  "aliases": [
+    "Escalating commitment",
+    "Knee-deep in the big muddy",
+    "Throwing good money after bad"
+  ],
+  "category": "decision",
+  "statement": "Someone who chose a failing course of action commits more resources to it than someone handed the same failing course by another person.",
+  "meaning": "Escalation of commitment is a claim about who made the first decision. Two managers face the same project, the same losses and the same budget. One picked the project; the other inherited it from a predecessor. The claim is that the first will put more money in. That makes escalation narrower than the sunk-cost effect, which is about the size of the unrecoverable outlay and is indifferent to who spent it. It also requires bad news. Sleesman and colleagues, defining the literature for their meta-analysis, admitted only studies in which decision makers continued a failing course of action, and excluded sunk-cost studies with no negative feedback.",
+  "origin": {
+    "year": 1976,
+    "who": "Barry M. Staw",
+    "where": "Organizational Behavior and Human Performance",
+    "note": "The paper is \"Knee-deep in the big muddy: a study of escalating commitment to a chosen course of action\", volume 16, pages 27 to 44. Sleesman and colleagues note that the title borrows from Pete Seeger's 1967 Vietnam protest song \"Waist Deep in the Big Muddy\". Staw's own framing was the war: he quotes a July 1965 memo from George Ball to Lyndon Johnson, taken from the Pentagon Papers, warning that heavy casualties would start a well-nigh irreversible process."
+  },
+  "evidence": "Staw ran 240 undergraduates from the College of Commerce and Business Administration at the University of Illinois through the A & S Financial Decision Case. Playing a financial vice president in 1967, subjects sent 10 million dollars of research funding to one of two divisions of the Adams & Smith Company, Consumer Products or Industrial Products. Five years on in the case, with 20 million dollars now to split as they liked, they allocated again. Half were shown figures in which the division they backed had recovered, half figures in which it had gone on losing. Half never made the first decision at all: they were told a previous officer had made it. The measure was money sent to the previously chosen division. Under high personal responsibility subjects gave it 11.08 million on average, against 8.89 million under low responsibility. Under negative consequences they gave 11.20 million, against 8.77 million under positive consequences. Both main effects were significant, F(1, 235) = 14.40 and F(1, 235) = 17.93, p < .001, and so was the interaction, F(1, 235) = 5.56, p < .019. The cell that carries the paper is high responsibility with negative consequences, where the average allocation was 13.07 million, and Staw reports it as the only cell differing significantly from the rest.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The responsibility effect holds across 54 samples and 8,625 people, and two direct repeats of Staw's own experiment failed to reproduce the interaction it was built on.",
+    "detail": "Sleesman, Conlon, McNamara and Miles screened 917 articles and kept 166 independent samples. Personal responsibility for the initial decision correlated with escalation at a corrected rho of .258 across 54 samples and 8,625 units, 95% CI .216 to .301, with a fail-safe N of 225. Sunk costs gave rho = .243 across 34 samples and 5,524 units, CI .114 to .373, and proximity to project completion gave rho = .393 across 14 samples and 3,073 units, CI .308 to .478. Fourteen of their 16 main-effect predictions held. The aggregate is not the same thing as the 1976 experiment, and two studies have run that experiment again. Białek, Węgrzyn and Meyers gave 365 Polish participants Staw's vignette translated verbatim and found nothing: no effect of personal responsibility, F(1, 357) = 0.05, p = 0.828, and no interaction, F(1, 357) = 0.15, p = 0.704. Feedback moved money towards the division that was doing well, the reverse of Staw's pattern. Dhanda, Ziano and colleagues then ran a preregistered close replication with 400 participants on Amazon Mechanical Turk. Responsibility came out as Staw had it, F(1, 396) = 16.39, p < .001, partial eta squared 0.040, d = 0.41. Consequences came out backwards, with positive consequences drawing more money than negative, d = 0.53, and the interaction was absent, F(1, 396) = 1.20, p = .273. So the ingredient replicates and the recipe does not.",
+    "study": {
+      "cite": "Dhanda, N., Ziano, I., Ching, K. H., Phuong, A. K. L., Lo, Y. T., Yip, M. K., Shi, B. J., & Cheng, B. (2025). A Replication and Extension of Three Studies Investigating Escalation of Commitment and Regret Aversion. Personality and Social Psychology Bulletin, 52(9), 2677-2692.",
+      "doi": "10.1177/01461672251345021",
+      "year": 2025,
+      "n": 400
+    }
+  },
+  "limits": "No effect sizes appear in the structured fields above, because Staw reports means and F ratios and no standardised effect, and a d computed here from his table would be a number no source contains. The evidence base is also thinner in the field than the pooled figures suggest. Of the 54 responsibility samples in the meta-analysis only four were non-laboratory, and Sleesman and colleagues could not test the laboratory contrast at all for sunk costs or project completion for want of field studies. What field work exists is contested. Staw and Hoang tracked 241 players drafted in the first two rounds between 1980 and 1986 and found draft number still predicting minutes played in a player's second season, 22.77 fewer minutes per increment, after controlling for scoring, injury and trade status; each increment also raised the hazard of leaving the league by three percent. Camerer and Weber reworked those data and concluded in their abstract that evidence of escalation persists, though it is weaker in duration and magnitude. Staw, Barsade and Koput followed 132 Californian banks over nine years and found executive turnover predicting provisions for loan losses and write-offs, with no effect in the reverse direction. One moderator in the meta-analysis deserves its own warning: sunk costs predicted escalation at rho = .528 in the five samples that bundled sunk cost with information about how near completion the project was, and at rho = .100, CI -.036 to .236, in the 28 samples that did not.",
+  "misreadings": "Escalation is not a synonym for the sunk-cost effect, though the two entries in this atlas share most of their literature. Sunk cost asks whether money already spent moves the decision. Escalation asks whether having been the one who spent it moves the decision further, and it needs the project to be visibly failing. The second error is the one this entry exists for. \"Escalation replicates\" and \"Staw 1976 replicates\" are separate claims, and only the first is comfortable: a meta-analysis of 54 samples supports the responsibility effect, while both attempts to rerun the original found no interaction and a consequences effect pointing the wrong way. Third, persistence alone is not escalation. Continuing a project that still looks worth finishing is a forecast, right or wrong, rather than a bias, and Sleesman and colleagues excluded studies without negative feedback for that reason. Fourth, Staw's paper is often read as showing that people throw good money after bad in general. It showed that one group of students did so, and the effect he reported was concentrated in a single cell of four.",
+  "sources": [
+    {
+      "text": "Staw, B. M. (1976). Knee-deep in the big muddy: a study of escalating commitment to a chosen course of action. Organizational Behavior and Human Performance, 16(1), 27-44.",
+      "doi": "10.1016/0030-5073(76)90005-2",
+      "url": "https://doi.org/10.1016/0030-5073(76)90005-2",
+      "type": "primary"
+    },
+    {
+      "text": "Sleesman, D. J., Conlon, D. E., McNamara, G., & Miles, J. E. (2012). Cleaning Up the Big Muddy: A Meta-Analytic Review of the Determinants of Escalation of Commitment. Academy of Management Journal, 55(3), 541-562.",
+      "doi": "10.5465/amj.2010.0696",
+      "url": "https://doi.org/10.5465/amj.2010.0696",
+      "type": "replication"
+    },
+    {
+      "text": "Białek, M., Węgrzyn, M., & Meyers, E. A. (2021). Escalation of commitment is independent of numeracy and cognitive reflection. Failed replication and extension of Staw (1976). Economics and Business Review, 7(2), 5-16.",
+      "doi": "10.18559/ebr.2021.2.2",
+      "url": "https://doi.org/10.18559/ebr.2021.2.2",
+      "type": "replication"
+    },
+    {
+      "text": "Dhanda, N., Ziano, I., Ching, K. H., Phuong, A. K. L., Lo, Y. T., Yip, M. K., Shi, B. J., & Cheng, B. (2025). A Replication and Extension of Three Studies Investigating Escalation of Commitment and Regret Aversion. Personality and Social Psychology Bulletin, 52(9), 2677-2692. Preregistered; its Study 1 is a close replication of Staw (1976). The article is paywalled at SAGE; its Study 1 statistics quoted here were read on a full-text mirror and corroborated only against the PubMed abstract's report of partial support.",
+      "doi": "10.1177/01461672251345021",
+      "url": "https://doi.org/10.1177/01461672251345021",
+      "type": "replication"
+    },
+    {
+      "text": "Staw, B. M., & Hoang, H. (1995). Sunk Costs in the NBA: Why Draft Order Affects Playing Time and Survival in Professional Basketball. Administrative Science Quarterly, 40(3), 474-494.",
+      "doi": "10.2307/2393794",
+      "url": "https://doi.org/10.2307/2393794",
+      "type": "primary"
+    },
+    {
+      "text": "Camerer, C. F., & Weber, R. A. (1999). The econometrics and behavioral economics of escalation of commitment: a re-examination of Staw and Hoang's NBA data. Journal of Economic Behavior & Organization, 39(1), 59-82. Quoted from its abstract; the full text was not retrieved for this entry.",
+      "doi": "10.1016/s0167-2681(99)00026-8",
+      "url": "https://doi.org/10.1016/s0167-2681(99)00026-8",
+      "type": "commentary"
+    },
+    {
+      "text": "Staw, B. M., Barsade, S. G., & Koput, K. W. (1997). Escalation at the credit window: A longitudinal study of bank executives' recognition and write-off of problem loans. Journal of Applied Psychology, 82(1), 130-142. Summarised from its abstract; the full text was not retrieved for this entry.",
+      "doi": "10.1037/0021-9010.82.1.130",
+      "url": "https://doi.org/10.1037/0021-9010.82.1.130",
+      "type": "primary"
+    },
+    {
+      "text": "Sleesman, D. J., Lennard, A. C., McNamara, G., & Conlon, D. E. (2018). Putting Escalation of Commitment in Context: A Multilevel Review and Analysis. Academy of Management Annals, 12(1), 178-207. A narrative review rather than a meta-analysis; no pooled de-escalation estimates were located.",
+      "doi": "10.5465/annals.2016.0046",
+      "url": "https://doi.org/10.5465/annals.2016.0046",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

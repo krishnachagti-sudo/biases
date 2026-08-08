@@ -4160,6 +4160,1069 @@
    "proportion_of_36_samples_significant_same_direction": 0.03,
    "entry": null,
    "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Disgust sensitivity predicts homophobia",
+   "original_study": "Inbar, Pizarro, Knobe & Bloom (2009)",
+   "effect_size_type": "Cohen's q",
+   "original_es": 0.7,
+   "original_ci95": [
+    0.05,
+    1.36
+   ],
+   "replication_es_global": 0.05,
+   "replication_ci95": [
+    0.01,
+    0.1
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 44,
+   "replication_n": 7117,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Assimilation and contrast effects in question sequences",
+   "original_study": "Schwarz, Strack & Mai (1991)",
+   "effect_size_type": "Cohen's q",
+   "original_es": 0.48,
+   "original_ci95": [
+    0.07,
+    0.88
+   ],
+   "replication_es_global": -0.07,
+   "replication_ci95": [
+    -0.12,
+    -0.02
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 100,
+   "replication_n": 7460,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "question-order-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Correspondence bias",
+   "original_study": "Miyamoto & Kitayama (2002)",
+   "effect_size_type": "Cohen's d",
+   "original_es": null,
+   "original_ci95": null,
+   "replication_es_global": 1.82,
+   "replication_ci95": null,
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 107,
+   "replication_n": 7197,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "weird_split": {
+    "weird": {
+     "original_es": 2.47,
+     "original_ci95": [
+      1.46,
+      3.49
+     ],
+     "global_es": 1.81,
+     "global_ci95": [
+      1.75,
+      1.88
+     ]
+    },
+    "less_weird": {
+     "original_es": 0.74,
+     "original_ci95": [
+      -0.12,
+      1.59
+     ],
+     "global_es": 1.84,
+     "global_ci95": [
+      1.74,
+      1.94
+     ]
+    }
+   },
+   "weird_split_note": "The original study compared a WEIRD with a less WEIRD sample, so Table 2 reports the two separately; the single global effect size above is the all-samples figure from Tables 3 and 5.",
+   "entry": "fundamental-attribution-error",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Perceived intentionality for side effects",
+   "original_study": "Knobe (2003)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 1.45,
+   "original_ci95": [
+    0.79,
+    2.77
+   ],
+   "replication_es_global": 1.75,
+   "replication_ci95": [
+    1.7,
+    1.8
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 78,
+   "replication_n": 7982,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "side-effect-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Trolley Dilemma 1: principle of double effect",
+   "original_study": "Hauser, Cushman, Young, Jin & Mikhail (2007)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 2.5,
+   "original_ci95": [
+    2.22,
+    2.86
+   ],
+   "replication_es_global": 1.35,
+   "replication_ci95": [
+    1.28,
+    1.41
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 2646,
+   "replication_n": 6842,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "False consensus: supermarket scenario",
+   "original_study": "Ross, Greene & House (1977)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.99,
+   "original_ci95": [
+    0.24,
+    2.29
+   ],
+   "replication_es_global": 1.18,
+   "replication_ci95": [
+    1.13,
+    1.23
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 80,
+   "replication_n": 7205,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "false-consensus-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Moral typecasting",
+   "original_study": "Gray & Wegner (2009)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.8,
+   "original_ci95": [
+    0.31,
+    1.29
+   ],
+   "replication_es_global": 0.95,
+   "replication_ci95": [
+    0.91,
+    1.0
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 69,
+   "replication_n": 8002,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "moral-typecasting",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "False consensus: traffic-ticket scenario",
+   "original_study": "Ross, Greene & House (1977)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.8,
+   "original_ci95": [
+    0.22,
+    1.87
+   ],
+   "replication_es_global": 0.95,
+   "replication_ci95": [
+    0.9,
+    1.0
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 80,
+   "replication_n": 7827,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "false-consensus-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Preferences for formal versus intuitive reasoning",
+   "original_study": "Norenzayan, Smith, Kim & Nisbett (2002)",
+   "effect_size_type": "Cohen's d",
+   "original_es": null,
+   "original_ci95": null,
+   "replication_es_global": 0.86,
+   "replication_ci95": null,
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 157,
+   "replication_n": 7396,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "weird_split": {
+    "weird": {
+     "original_es": 0.0,
+     "original_ci95": [
+      -0.15,
+      0.15
+     ],
+     "global_es": 0.95,
+     "global_ci95": [
+      0.9,
+      1.0
+     ]
+    },
+    "less_weird": {
+     "original_es": 0.67,
+     "original_ci95": [
+      0.52,
+      0.81
+     ],
+     "global_es": 0.56,
+     "global_ci95": [
+      0.46,
+      0.65
+     ]
+    }
+   },
+   "weird_split_note": "The original study compared a WEIRD with a less WEIRD sample, so Table 2 reports the two separately; the single global effect size above is the all-samples figure from Tables 3 and 5.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Less-is-better effect",
+   "original_study": "Hsee (1998)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.69,
+   "original_ci95": [
+    0.24,
+    1.13
+   ],
+   "replication_es_global": 0.78,
+   "replication_ci95": [
+    0.74,
+    0.83
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 83,
+   "replication_n": 7646,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Cardinal direction and socioeconomic status",
+   "original_study": "Huang, Tse & Cho (2014)",
+   "effect_size_type": "Cohen's d",
+   "original_es": null,
+   "original_ci95": null,
+   "replication_es_global": 0.4,
+   "replication_ci95": null,
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 180,
+   "replication_n": 6591,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "weird_split": {
+    "weird": {
+     "original_es": 0.83,
+     "original_ci95": [
+      0.37,
+      1.28
+     ],
+     "global_es": 0.55,
+     "global_ci95": [
+      0.49,
+      0.61
+     ]
+    },
+    "less_weird": {
+     "original_es": -0.59,
+     "original_ci95": [
+      -0.99,
+      -0.19
+     ],
+     "global_es": 0.03,
+     "global_ci95": [
+      -0.05,
+      0.13
+     ]
+    }
+   },
+   "weird_split_note": "The original study compared a WEIRD with a less WEIRD sample, so Table 2 reports the two separately; the single global effect size above is the all-samples figure from Tables 3 and 5.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Effect of framing on decision making",
+   "original_study": "Tversky & Kahneman (1981)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 1.08,
+   "original_ci95": [
+    0.71,
+    1.45
+   ],
+   "replication_es_global": 0.4,
+   "replication_ci95": [
+    0.35,
+    0.45
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 181,
+   "replication_n": 7228,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "framing-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Moral foundations of liberals versus conservatives",
+   "original_study": "Graham, Haidt & Nosek (2009)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.52,
+   "original_ci95": [
+    0.4,
+    0.63
+   ],
+   "replication_es_global": 0.29,
+   "replication_ci95": [
+    0.25,
+    0.34
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 1209,
+   "replication_n": 6966,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Trolley Dilemma 2: principle of double effect",
+   "original_study": "Hauser, Cushman, Young, Jin & Mikhail (2007)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.34,
+   "original_ci95": [
+    0.26,
+    0.42
+   ],
+   "replication_es_global": 0.25,
+   "replication_ci95": [
+    0.2,
+    0.3
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 2612,
+   "replication_n": 7923,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Reluctance to tempt fate",
+   "original_study": "Risen & Gilovich (2008)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.39,
+   "original_ci95": [
+    0.03,
+    0.75
+   ],
+   "replication_es_global": 0.18,
+   "replication_ci95": [
+    0.14,
+    0.22
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 120,
+   "replication_n": 8000,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "tempting-fate",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Consumerism undermines trust",
+   "original_study": "Bauer, Wilkie, Kim & Bodenhausen (2012)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.87,
+   "original_ci95": [
+    0.41,
+    1.34
+   ],
+   "replication_es_global": 0.12,
+   "replication_ci95": [
+    0.07,
+    0.17
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 77,
+   "replication_n": 6608,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Influence of incidental anchors on judgment",
+   "original_study": "Critcher & Gilovich (2008)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.3,
+   "original_ci95": [
+    0.02,
+    0.58
+   ],
+   "replication_es_global": 0.04,
+   "replication_ci95": [
+    -0.01,
+    0.09
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 200,
+   "replication_n": 6826,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "anchoring-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Vertical position and power",
+   "original_study": "Giessner & Schubert (2007)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.55,
+   "original_ci95": [
+    0.05,
+    1.05
+   ],
+   "replication_es_global": 0.03,
+   "replication_ci95": [
+    -0.01,
+    0.08
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 64,
+   "replication_n": 7890,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Directionality and similarity",
+   "original_study": "Tversky & Gati (1978)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.48,
+   "original_ci95": [
+    0.16,
+    0.8
+   ],
+   "replication_es_global": 0.01,
+   "replication_ci95": [
+    -0.02,
+    0.04
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 144,
+   "replication_n": 3549,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Moral violations and desire for cleansing",
+   "original_study": "Zhong & Liljenquist (2006)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 1.02,
+   "original_ci95": [
+    0.39,
+    2.44
+   ],
+   "replication_es_global": 0.0,
+   "replication_ci95": [
+    -0.05,
+    0.04
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 27,
+   "replication_n": 7001,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "macbeth-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Structure promotes goal pursuit",
+   "original_study": "Kay, Laurin, Fitzsimons & Landau (2014)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.49,
+   "original_ci95": [
+    0.001,
+    0.973
+   ],
+   "replication_es_global": -0.02,
+   "replication_ci95": [
+    -0.07,
+    0.03
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 67,
+   "replication_n": 6506,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Social value orientation and family size",
+   "original_study": "Van Lange, Otten, De Bruin & Joireman (1997)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.19,
+   "original_ci95": null,
+   "replication_es_global": -0.03,
+   "replication_ci95": [
+    -0.08,
+    0.02
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 536,
+   "replication_n": 6234,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "original_ci95_note": "Table 2 gives the original 95% CI as [< 0.001, 0.47]; the lower bound is reported only as an inequality, so it is not recorded as a number here.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Priming “heat” increases belief in global warming",
+   "original_study": "Zaval, Keenan, Johnson & Weber (2014)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.31,
+   "original_ci95": [
+    0.03,
+    0.59
+   ],
+   "replication_es_global": -0.03,
+   "replication_ci95": [
+    -0.09,
+    0.03
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 192,
+   "replication_n": 4204,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Disfluency engages analytic processing",
+   "original_study": "Alter, Oppenheimer, Epley & Eyre (2007)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.63,
+   "original_ci95": [
+    -0.004,
+    1.25
+   ],
+   "replication_es_global": -0.03,
+   "replication_ci95": [
+    -0.08,
+    0.01
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 41,
+   "replication_n": 6935,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "disfluency-effect",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Sociometric status and well-being",
+   "original_study": "Anderson, Kraus, Galinsky & Keltner (2012)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.57,
+   "original_ci95": [
+    0.2,
+    0.93
+   ],
+   "replication_es_global": -0.04,
+   "replication_ci95": [
+    -0.09,
+    -0.004
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 116,
+   "replication_n": 6905,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Affect and risk",
+   "original_study": "Rottenstreich & Hsee (2001)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.74,
+   "original_ci95": null,
+   "replication_es_global": -0.08,
+   "replication_ci95": [
+    -0.13,
+    -0.03
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 40,
+   "replication_n": 7218,
+   "replication_slate": 1,
+   "replication_samples_in_slate": 64,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "original_ci95_note": "Table 2 gives the original 95% CI as [< 0.001, 1.74]; the lower bound is reported only as an inequality, so it is not recorded as a number here.",
+   "entry": "affect-heuristic",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Effect of choosing versus rejecting on relative desirability",
+   "original_study": "Shafir (1993)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.35,
+   "original_ci95": [
+    -0.04,
+    0.68
+   ],
+   "replication_es_global": -0.13,
+   "replication_ci95": [
+    -0.18,
+    -0.09
+   ],
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 170,
+   "replication_n": 7901,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "entry": "choosing-versus-rejecting",
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Construing actions as choices",
+   "original_study": "Savani, Markus, Naidu, Kumar & Berlia (2010)",
+   "effect_size_type": "Cohen's d",
+   "original_es": null,
+   "original_ci95": null,
+   "replication_es_global": -0.18,
+   "replication_ci95": null,
+   "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
+   "original_n": 218,
+   "replication_n": 5882,
+   "replication_slate": 2,
+   "replication_samples_in_slate": 61,
+   "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
+   "weird_split": {
+    "weird": {
+     "original_es": 0.08,
+     "original_ci95": [
+      -0.33,
+      0.5
+     ],
+     "global_es": -0.21,
+     "global_ci95": [
+      -0.23,
+      -0.18
+     ]
+    },
+    "less_weird": {
+     "original_es": -0.65,
+     "original_ci95": [
+      -1.01,
+      -0.3
+     ],
+     "global_es": -0.12,
+     "global_ci95": [
+      -0.16,
+      -0.08
+     ]
+    }
+   },
+   "weird_split_note": "The original study compared a WEIRD with a less WEIRD sample, so Table 2 reports the two separately; the single global effect size above is the all-samples figure from Tables 3 and 5.",
+   "entry": null,
+   "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
+  },
+  {
+   "effect": "Stroop task",
+   "original_study": "Stroop (1935)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 2.04,
+   "original_ci95": [
+    1.9,
+    2.18
+   ],
+   "replication_es_aggregate": 0.88,
+   "replication_ci95_aggregate": [
+    0.84,
+    0.92
+   ],
+   "replication_es_meta_analytic": 0.91,
+   "replication_ci95_meta_analytic": [
+    0.84,
+    0.98
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3337,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "note": "Table 3's note says the original Stroop effect size is taken not from Stroop (1935) but from a meta-analysis comparing Stroop performance of young adults with older adults (Verhaeghen & De Meersman, 1998), the younger-adult aggregate being the figure reported.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Metaphoric structuring (understanding time through spatial metaphors)",
+   "original_study": "Boroditsky (2000), Study 1",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.63,
+   "original_ci95": [
+    0.07,
+    1.2
+   ],
+   "replication_es_aggregate": 0.26,
+   "replication_ci95_aggregate": [
+    0.15,
+    0.37
+   ],
+   "replication_es_meta_analytic": 0.29,
+   "replication_ci95_meta_analytic": [
+    0.17,
+    0.42
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 1335,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Availability heuristic",
+   "original_study": "Tversky & Kahneman (1973), Study 3",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.82,
+   "original_ci95": [
+    0.47,
+    1.17
+   ],
+   "replication_es_aggregate": 0.09,
+   "replication_ci95_aggregate": [
+    0.02,
+    0.16
+   ],
+   "replication_es_meta_analytic": 0.09,
+   "replication_ci95_meta_analytic": [
+    0.02,
+    0.16
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3088,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "entry": "availability-heuristic",
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Power and perspectives not taken",
+   "original_study": "Galinsky, Magee, Inesi & Gruenfeld (2006), Study 2a",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.77,
+   "original_ci95": [
+    0.12,
+    1.41
+   ],
+   "replication_es_aggregate": 0.03,
+   "replication_ci95_aggregate": [
+    -0.04,
+    0.1
+   ],
+   "replication_es_meta_analytic": 0.03,
+   "replication_ci95_meta_analytic": [
+    -0.04,
+    0.11
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 2969,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Weight as an embodiment of importance",
+   "original_study": "Jostmann, Lakens & Schubert (2009), Study 2",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.59,
+   "original_ci95": [
+    0.01,
+    1.16
+   ],
+   "replication_es_aggregate": 0.03,
+   "replication_ci95_aggregate": [
+    -0.06,
+    0.11
+   ],
+   "replication_es_meta_analytic": 0.03,
+   "replication_ci95_meta_analytic": [
+    -0.05,
+    0.11
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 2285,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "entry": "embodied-cognition",
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Warmer hearts, warmer rooms",
+   "original_study": "Szymkow, Chandler, IJzerman, Parzuchowski & Wojciszke (2013), Study 1",
+   "effect_size_type": "Cohen's d",
+   "original_es": 0.86,
+   "original_ci95": [
+    0.4,
+    1.33
+   ],
+   "replication_es_aggregate": 0.01,
+   "replication_ci95_aggregate": [
+    -0.06,
+    0.08
+   ],
+   "replication_es_meta_analytic": 0.01,
+   "replication_ci95_meta_analytic": [
+    -0.08,
+    0.06
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3119,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "entry": "embodied-cognition",
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Elaboration likelihood (issue involvement and persuasion), interaction",
+   "original_study": "Cacioppo, Petty & Morris (1983), Study 1",
+   "effect_size_type": "partial eta squared",
+   "original_es": 0.17,
+   "original_ci95": [
+    0.06,
+    0.29
+   ],
+   "replication_es_aggregate": 5e-05,
+   "replication_ci95_aggregate": [
+    0.0,
+    0.002
+   ],
+   "replication_es_meta_analytic": 1e-06,
+   "replication_ci95_meta_analytic": [
+    0.0,
+    0.001
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 2365,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Self-esteem and subjective distance, interaction",
+   "original_study": "Ross & Wilson (2002), Study 2",
+   "effect_size_type": "partial eta squared",
+   "original_es": null,
+   "original_ci95": null,
+   "replication_es_aggregate": 0.001,
+   "replication_ci95_aggregate": [
+    0.0,
+    0.004
+   ],
+   "replication_es_meta_analytic": 0.0004,
+   "replication_ci95_meta_analytic": [
+    0.0,
+    0.005
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3136,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "note": "Table 3 gives no partial eta squared for the original; its note reports the original as Cohen's d = 0.21, 95% CI [0.001, 0.418].",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Moral credentials and the expression of prejudice, interaction",
+   "original_study": "Monin & Miller (2001), Study 1",
+   "effect_size_type": "partial eta squared",
+   "original_es": 0.04,
+   "original_ci95": [
+    0,
+    0.09
+   ],
+   "replication_es_aggregate": 0.0,
+   "replication_ci95_aggregate": [
+    0.0,
+    0.0
+   ],
+   "replication_es_meta_analytic": 0.0003,
+   "replication_ci95_meta_analytic": [
+    0.0,
+    0.003
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3134,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "note": "Table 3's note says the interaction effect size was estimated as 1.28e-6 and the weighted upper bound of the 95% CI was too small for the software to compute.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Persistence and conscientiousness (conceptual replication)",
+   "original_study": "De Fruyt, van De Wiele & van Heeringen (2000)",
+   "effect_size_type": "Cohen's d",
+   "original_es": 1.04,
+   "original_ci95": [
+    0.64,
+    1.43
+   ],
+   "replication_es_aggregate": 0.05,
+   "replication_ci95_aggregate": [
+    -0.02,
+    0.12
+   ],
+   "replication_es_meta_analytic": 0.03,
+   "replication_ci95_meta_analytic": [
+    -0.04,
+    0.1
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3193,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "note": "Listed in Table 3 under ‘Conceptual replication’ rather than with the nine direct replications.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Elaboration likelihood (issue involvement and persuasion), main effect",
+   "original_study": "Cacioppo, Petty & Morris (1983), Study 1",
+   "effect_size_type": "partial eta squared",
+   "original_es": 0.59,
+   "original_ci95": [
+    0.47,
+    0.67
+   ],
+   "replication_es_aggregate": 0.033,
+   "replication_ci95_aggregate": [
+    0.02,
+    0.048
+   ],
+   "replication_es_meta_analytic": 0.034,
+   "replication_ci95_meta_analytic": [
+    0.022,
+    0.049
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 2365,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "note": "Listed in Table 3 under ‘Added effects’: three main effects added after the aggregate interaction results came in, so that there would be more effects to test for variation across the semester.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Self-esteem and subjective distance, main effect",
+   "original_study": "Ross & Wilson (2002), Study 2",
+   "effect_size_type": "partial eta squared",
+   "original_es": null,
+   "original_ci95": null,
+   "replication_es_aggregate": 0.011,
+   "replication_ci95_aggregate": [
+    0.005,
+    0.019
+   ],
+   "replication_es_meta_analytic": 0.012,
+   "replication_ci95_meta_analytic": [
+    0.004,
+    0.024
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3136,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "note": "Listed in Table 3 under ‘Added effects’. Table 3 gives no partial eta squared for the original; its note reports the original main effect as Cohen's d = 0.39, 95% CI [0.18, 0.60].",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
+  },
+  {
+   "effect": "Moral credentials and the expression of prejudice, main effect",
+   "original_study": "Monin & Miller (2001), Study 1",
+   "effect_size_type": "partial eta squared",
+   "original_es": 0.043,
+   "original_ci95": [
+    0.002,
+    0.103
+   ],
+   "replication_es_aggregate": 0.005,
+   "replication_ci95_aggregate": [
+    0.001,
+    0.012
+   ],
+   "replication_es_meta_analytic": 0.005,
+   "replication_ci95_meta_analytic": [
+    0.001,
+    0.014
+   ],
+   "replication_es_label": "Table 3 puts the aggregate and the meta-analytic estimates in adjacent column pairs. The aggregate figure is the weighted estimate computed on the whole pooled data set and is the one quoted in the paper's running text; the meta-analytic figure is computed on the disaggregated data set of 20 or 21 samples.",
+   "replication_n": 3134,
+   "replication_sites": 20,
+   "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
+   "note": "Listed in Table 3 under ‘Added effects’.",
+   "entry": null,
+   "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   }
  ]
 }
