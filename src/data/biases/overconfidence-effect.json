@@ -1,0 +1,91 @@
+{
+  "no": 77,
+  "slug": "overconfidence-effect",
+  "name": "Overconfidence effect",
+  "aliases": ["Overconfidence bias", "Miscalibration", "Overprecision"],
+  "category": "belief",
+  "statement": "Overconfidence names three separate errors, and only one of them, excessive certainty about how precisely a belief is known, turns up reliably wherever it is measured.",
+  "meaning": "Moore and Healy split the word into three claims that had been run together. Overestimation is thinking one's own score, ability or chance of success is higher than it is. Overplacement is thinking one stands higher than other people than one does. Overprecision is holding a belief with more certainty than the evidence supports, which shows up as confidence intervals that are too narrow. The three are measured by different tasks and can be present at once in opposite directions. Someone can be sure they failed an exam, be wrong about that, and still have been far too sure. An entry that treats the three as one effect is describing something no study has measured.",
+  "origin": {
+    "year": 2008,
+    "who": "Don A. Moore and Paul J. Healy",
+    "where": "Psychological Review",
+    "note": "The split is a reorganisation of a literature that was already three decades old. Moore and Healy searched PsycINFO for \"overconfidence\" and got 365 hits, 72% of them empirical. Roughly 64% of the empirical studies measured overestimation and roughly 31% measured overprecision. The calibration tradition they were tidying runs back to Lichtenstein, Fischhoff and Phillips's 1982 review and to Alpert and Raiffa's interval task in the same volume."
+  },
+  "evidence": "Moore and Healy put 82 Carnegie Mellon students through 18 trivia quizzes of ten items each, three quizzes on each of six topics, one easy, one medium and one hard. Pay was $25 times a participant's percentile rank, belief reports were scored by a quadratic rule, and earnings averaged $20.23 for about 90 minutes. Actual scores were 8.86 on easy quizzes, 5.92 on medium and 0.71 on hard. Estimated scores moved much less, at 8.64, 5.93 and 1.50. Participants therefore underestimated themselves on easy quizzes by 0.22 points and overestimated on hard ones by 0.79. Overplacement ran the other way, at plus 0.48 on easy quizzes and minus 1.36 on hard. Across the 18 quizzes the two measures correlated at r(18) = -.64, p = .004. Overprecision alone pointed one way throughout. Intervals representing 90.5% confidence held the true score 73.1% of the time, and confidence exceeded accuracy at every difficulty, every round and every phase. Eighteen rounds of full feedback produced no learning.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Excessive certainty holds up at scale, including among executives forecasting the stock market, while the two better-known components reverse direction with task difficulty.",
+    "detail": "Ben-David, Graham and Harvey collected more than 13,300 probability distributions for expected stock market returns from senior finance executives over ten years. Realised returns fell inside the executives' 80% confidence intervals 36% of the time. Moore, Tenney and Haran report that overprecision generalises across cultures, genders, professions, ages, levels of expertise and elicitation formats, and that the known moderators shrink it without removing it. The other two components hold up less well. Juslin, Winman and Olsson reviewed the two-alternative general knowledge literature and found very little support for a cognitive-processing bias in it, with near elimination of the hard-easy effect once scale-end effects and linear dependency are controlled. Erev, Wallsten and Budescu had already shown, reanalysing three studies, that one data set yields overconfidence or underconfidence depending on which variable is conditioned on. Li, Hale and Moore gave 381 people three unrelated tasks: forecasting baseball games, Raven's matrices and guessing weights from photographs. Overprecision correlated above .6 for every pair of tasks. Overestimation between Raven's matrices and weight guessing came to r = -.01, and overplacement to r = .01.",
+    "study": {
+      "cite": "Ben-David, I., Graham, J. R., & Harvey, C. R. (2013). Managerial miscalibration. The Quarterly Journal of Economics, 128(4), 1547-1584.",
+      "doi": "10.1093/qje/qjt023",
+      "year": 2013
+    }
+  },
+  "limits": "The 90% confidence interval, the standard tool for overprecision, is not incentive-compatible. Moore, Tenney and Haran make the point plainly: paying for hit rates buys infinitely wide intervals, paying for narrowness buys the opposite, and balancing the two depends on beliefs the researcher cannot see. They also report that interval width correlates weakly with other measures of belief precision, which suggests the measures are not tracking a single quantity. Prims and Moore found the direction of the result turning on the elicitation. Their participants' estimated variance exceeded the actual variance, which is underprecision, while the same people were on average 46% sure they had named their own score exactly and were right 18% of the time, t(183) = 14.29, p < .001. Brenner's reply to Erev, Wallsten and Budescu argues that splitting observed confidence into true and artefactual parts gives precedence to a theoretical construct over the data. Alpert and Raiffa's founding numbers, 98% intervals holding the answer about 60% of the time and interquartile ranges holding it about a third of the time, are quoted here from Moore, Tenney and Haran's chapter and not from the original, which was not obtained. Moore and Healy's own sample was 82 students recruited through a trivia website, on general knowledge questions.",
+  "misreadings": "The line about drivers rating themselves above average is an overplacement result and belongs to illusory superiority, which has its own entry here. It says nothing about whether anybody is too certain. Running the three components together is the error Moore and Healy set out to correct, and their own data show two of them moving in opposite directions across the same 18 quizzes. Overconfidence is also not a settled property of a person. Li, Hale and Moore report mixed evidence for trait-like consistency and firmer evidence that overconfidence varies with situation and context. The familiar classroom finding that stated confidence beats accuracy on general knowledge questions measures two things at once, because being too sure of a binary answer is overestimation and overprecision together.",
+  "sources": [
+    {
+      "text": "Moore, D. A., & Healy, P. J. (2008). The trouble with overconfidence. Psychological Review, 115(2), 502-517.",
+      "doi": "10.1037/0033-295X.115.2.502",
+      "url": "https://doi.org/10.1037/0033-295X.115.2.502",
+      "type": "primary"
+    },
+    {
+      "text": "Ben-David, I., Graham, J. R., & Harvey, C. R. (2013). Managerial miscalibration. The Quarterly Journal of Economics, 128(4), 1547-1584.",
+      "doi": "10.1093/qje/qjt023",
+      "url": "https://doi.org/10.1093/qje/qjt023",
+      "type": "replication"
+    },
+    {
+      "text": "Juslin, P., Winman, A., & Olsson, H. (2000). Naive empiricism and dogmatism in confidence research: A critical examination of the hard-easy effect. Psychological Review, 107(2), 384-396.",
+      "doi": "10.1037/0033-295X.107.2.384",
+      "url": "https://doi.org/10.1037/0033-295X.107.2.384",
+      "type": "critique"
+    },
+    {
+      "text": "Erev, I., Wallsten, T. S., & Budescu, D. V. (1994). Simultaneous over- and underconfidence: The role of error in judgment processes. Psychological Review, 101(3), 519-527.",
+      "doi": "10.1037/0033-295X.101.3.519",
+      "url": "https://doi.org/10.1037/0033-295X.101.3.519",
+      "type": "critique"
+    },
+    {
+      "text": "Brenner, L. (2000). Should observed overconfidence be dismissed as a statistical artifact? Critique of Erev, Wallsten, and Budescu (1994). Psychological Review, 107(4), 943-946.",
+      "doi": "10.1037/0033-295X.107.4.943",
+      "url": "https://doi.org/10.1037/0033-295X.107.4.943",
+      "type": "commentary"
+    },
+    {
+      "text": "Li, S., Hale, R., & Moore, D. A. (2025). Is overconfidence an individual difference? Judgment and Decision Making, 20, e25.",
+      "doi": "10.1017/jdm.2025.11",
+      "url": "https://doi.org/10.1017/jdm.2025.11",
+      "type": "replication"
+    },
+    {
+      "text": "Prims, J. P., & Moore, D. A. (2017). Overconfidence over the lifespan. Judgment and Decision Making, 12(1), 29-41.",
+      "doi": "10.1017/S1930297500005222",
+      "url": "https://doi.org/10.1017/S1930297500005222",
+      "type": "replication"
+    },
+    {
+      "text": "Moore, D. A., Tenney, E. R., & Haran, U. (2015). Overprecision in judgment. In G. Keren & G. Wu (Eds.), The Wiley Blackwell Handbook of Judgment and Decision Making (pp. 182-209). Wiley.",
+      "doi": "10.1002/9781118468333.ch6",
+      "url": "https://doi.org/10.1002/9781118468333.ch6",
+      "type": "review"
+    },
+    {
+      "text": "Lichtenstein, S., Fischhoff, B., & Phillips, L. D. (1982). Calibration of probabilities: The state of the art to 1980. In D. Kahneman, P. Slovic, & A. Tversky (Eds.), Judgment under Uncertainty (pp. 306-334). Cambridge University Press.",
+      "doi": "10.1017/CBO9780511809477.023",
+      "url": "https://doi.org/10.1017/CBO9780511809477.023",
+      "type": "background"
+    },
+    {
+      "text": "Alpert, M., & Raiffa, H. (1982). A progress report on the training of probability assessors. In D. Kahneman, P. Slovic, & A. Tversky (Eds.), Judgment under Uncertainty (pp. 294-305). Cambridge University Press.",
+      "doi": "10.1017/CBO9780511809477.022",
+      "url": "https://doi.org/10.1017/CBO9780511809477.022",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
