@@ -1,0 +1,174 @@
+{
+  "no": 61,
+  "slug": "childhood-amnesia",
+  "name": "Childhood amnesia",
+  "aliases": ["Infantile amnesia", "Offset of childhood amnesia"],
+  "category": "memory",
+  "statement": "Adults recall almost nothing from the first three years of life, and fewer events from ages three to seven than ordinary forgetting predicts.",
+  "meaning": "The claim has two halves and they are usually run together. The first is a near-absence of autobiographical memory from before about age three. The second is a shortfall from three to seven, where the count of memories falls below what a forgetting curve extended backwards would give. Two methods measure this and they answer different questions. Ask adults for their earliest memory and date it, and you get a single boundary age. Record children talking about events at age three and re-interview them years later, and you get a forgetting rate. The first method puts the boundary near three and a half years. The second puts the loss between ages seven and nine, later than the adult figure implies. Both findings are old, large and stable. What the phenomenon is caused by is not settled, and that is where the field divides.",
+  "origin": {
+    "year": 1905,
+    "who": "Sigmund Freud",
+    "where": "Drei Abhandlungen zur Sexualtheorie",
+    "note": "Freud supplied the name and the wrong span. Under the heading Infantile Amnesia he described an amnesia veiling 'the first years of their childhood, usually the first six or eight years', and explained it by repression of infantile sexual impulses. Surveys of earliest recollections predate him: Caroline Miles published A Study of Individual Psychology in the American Journal of Psychology, and Victor and C. Henri published Enquête sur les premiers souvenirs de l'enfance in L'Année Psychologique in 1896. Miles is cited across the childhood-amnesia literature as 1893, which is the year its volume opened; Crossref dates the issue to January 1895."
+  },
+  "evidence": "Rubin assembled the distribution from published studies, pooling over 11,000 autobiographical memories from age 10 and younger. The shape came out nearly identical for males and females and for participants of different ages. It also held across four ways of collecting the memories: cue words for memories from anywhere in the lifespan, cue words restricted to childhood, exhaustive listing of all early memories, and interviews. On the adult side the boundary is consistently near three. Akhtar, Justice, Morrison and Conway surveyed 6,641 people for their first memory and its age, and found a mean age at encoding of 3.2 years. Bauer and Larkina measured the same thing from the other end. Eighty-three children discussed unique recent events with their mothers at a mean age of 3.29 years, and subgroups were re-interviewed by an experimenter at ages 5, 6, 7, 8 and 9, giving retention intervals of two to six years. Children aged 5, 6 and 7 remembered 60% or more of those events. Children aged 8 and 9 remembered fewer than 40%, F(4, 75) = 5.66, p < .01, eta-squared = .22. The count of children who recalled nothing at all moves the same way. At most 6% of the 5-, 6- and 7-year-olds recalled none of the age-3 events, against 37% of 8-year-olds and 25% of 9-year-olds, Fisher's exact test p = .003. Bauer and Larkina also charted cue-word memory distributions in children aged 7 to 11 and in young and middle-aged adults. The adult distributions were best fit by a power function and the children's by an exponential, which they read as a constant rate of forgetting through childhood rather than a single early cut-off. How the question is asked moves the answer. Jack and Hayne gave young adults either a request for their six earliest memories or cue words sampling different epochs. Asking for early memories yielded a higher density of events from inside the amnesic period. Their reading is that early memories stay available and become less accessible.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The phenomenon holds across methods, samples, cultures and both directions of study; the arguments are about the mechanism and about where exactly the boundary sits.",
+    "detail": "Rubin's pooled distribution is the strongest single check, because invariance across sexes, ages and four elicitation methods is what a fragile finding does not do. Prospective work in children reproduces the loss on a schedule. Peterson, Warren and Short re-interviewed children aged 4 to 13 after two years. Their dated earliest memories had shifted several months later. Younger children rarely produced the same memories and often failed to recall them even when cued. Older children stayed consistent. Peterson, Hallett and Compton-Gillingham followed 37 children across eight years with interviews at the start and after two and eight years. There was little overlap in spontaneous earliest memories across interviews. The youngest group forgot over half their initial memories. Of the content given by the former 6- to 9-year-olds, 25% to 32% was the same after eight years. For the youngest children it was under 10%, and 22% contradicted what they had said before. Tustin and Hayne compared children, adolescents and adults on one timeline procedure. The proportion of memories from before age three was larger for the children and adolescents. Their single earliest memory was younger than the adults', and younger than the traditional three-and-a-half-year boundary. The boundary also moves with culture. Wang had 256 American and Chinese students report an earliest memory, and the American mean fell almost six months earlier than the Chinese. Peterson, Wang and Hou found the same gap in 225 European Canadian and 133 Chinese children aged 8, 11 and 14, and found it widening with age, with the Chinese 14-year-olds already adult-like. MacDonald, Uesiliana and Hayne compared New Zealand European, New Zealand Maori and Asian adults: Asian adults reported later memories than European adults, an effect carried entirely by Asian women, and Maori adults reported earlier memories than either group. Mullen's four questionnaire studies, 768 respondents in total, found age of earliest memory rising with birth order, slightly earlier for women than men, and earlier for Caucasian than Asian respondents.",
+    "study": {
+      "cite": "Rubin, D. C. (2000). The distribution of early childhood memories. Memory, 8(4), 265-269.",
+      "doi": "10.1080/096582100406810",
+      "year": 2000
+    }
+  },
+  "limits": "The verdict covers the existence and the shape of the memory shortfall. It does not cover why it happens, and nothing here should be read as endorsing any mechanism. The dating is a live problem. Wang, Peterson, Khuu, Reid, Maxwell and Vincent collected five earliest memories from 32 Cornell students and 49 Memorial University students and dated the same events independently with their parents. Memories encoded before 48 months were postdated by close to 12 months in the first sample and over 6 months in the second, while later memories were predated. Parents put the earlier memories at 36.5 and 34.1 months. Taking the parents' figures, or correcting the students' figures for their own telescoping, puts the first memory near 2.5 years rather than the 3.5 the authors say is commonly assumed. Their samples are small and drawn from students, and parental dating is a proxy for the truth rather than the truth. The neurogenesis account is animal evidence with a human gap in the middle. Akers and colleagues raised hippocampal neurogenesis after learning in adult mice and induced forgetting. Lowering it in infant mice reduced forgetting. Guinea pigs and degus, which generate most granule cells before birth, did not show infantile forgetting until neurogenesis was raised artificially. Josselyn and Frankland set this out as a hypothesis rather than a demonstration. Whether the human hippocampus generates new neurons after infancy is itself disputed. Sorrells and colleagues found young neurons declining sharply over the first year of life. They detected none in the dentate gyrus of 17 post-mortem control samples or 12 surgical samples from adults with epilepsy. Yates and colleagues scanned awake infants during a subsequent-memory task and found hippocampal activity at encoding predicting later memory-based looking from around one year of age, which points at post-encoding inaccessibility rather than failure to encode. Several sources here were read only as abstracts: Rubin (2000), Akers and colleagues, Sorrells and colleagues, Yates and colleagues, Tustin and Hayne, Jack and Hayne, Mullen, and all three Wang cross-cultural papers. MacDonald and colleagues' abstract reports the direction of the cultural differences without the ages, and the month figures widely quoted for that study were not traced to it and are omitted. The 2019 comment by Bauer, Baker-Ward, Krojgaard, Peterson and Wang on the fictional-memory paper carries no abstract and its text was not obtained, nor was the 2020 corrigendum to that paper. The search ran across Crossref, PubMed, Europe PMC, PMC, Persee and the open web. Clinical claims about recovered memories of early abuse are outside this entry.",
+  "misreadings": "The boundary is treated as the age at which memory begins. It is the age of the earliest thing an adult can still retrieve, and the prospective work shows three-year-olds holding events that seven-year-olds still have and nine-year-olds have mostly lost. A first memory is also assumed to be a memory. Akhtar and colleagues found 2,487 of 6,641 first memories, close to 40%, dated to age two or younger. Another 893 were dated to age one or younger. They argue that memories dated that early are constructions rather than recollections. Bauer, Baker-Ward, Krojgaard, Peterson and Wang answered under the title Evidence Against Depiction as Fiction, and Akhtar and colleagues replied; the exchange is about what counts as an autobiographical memory, and it is unresolved. Freud's explanation travels with his name and does not survive the data. He put the amnesia at the first six or eight years and attributed it to repression of infantile sexual material, and the modern boundary is roughly half that span with no repression required. The mouse neurogenesis experiments are quoted as the cause of human childhood amnesia. They are causal experiments in rodents, and the human evidence for postnatal hippocampal neurogenesis is contested. Loss of access is read as erasure. Guskjolen and colleagues tagged the neurons active during fear encoding in infant mice. Stimulating those dentate gyrus neurons with light recovered the apparently lost memory up to three months later. That is what a retrieval failure looks like and not what a deleted memory looks like.",
+  "sources": [
+    {
+      "text": "Freud, S. (1905). Three Contributions to the Theory of Sex (A. A. Brill, Trans.; 2nd ed., Nervous and Mental Disease Monograph Series No. 7). New York: Nervous and Mental Disease Publishing Co., 1920. The section headed Infantile Amnesia was read in full in this translation.",
+      "url": "https://www.gutenberg.org/ebooks/14969",
+      "type": "primary"
+    },
+    {
+      "text": "Miles, C. (1895). A study of individual psychology. The American Journal of Psychology, 6(4), 534. Listed because it is cited throughout this literature as an 1893 antecedent; only the Crossref record was read.",
+      "doi": "10.2307/1411191",
+      "url": "https://doi.org/10.2307/1411191",
+      "type": "primary"
+    },
+    {
+      "text": "Henri, V., & Henri, C. (1896). Enquête sur les premiers souvenirs de l'enfance. L'Année Psychologique, 3, 184-198. The Persée scan shows the questionnaire; the results section was not extracted.",
+      "doi": "10.3406/psy.1896.1831",
+      "url": "https://doi.org/10.3406/psy.1896.1831",
+      "type": "primary"
+    },
+    {
+      "text": "Rubin, D. C. (2000). The distribution of early childhood memories. Memory, 8(4), 265-269. Abstract read; the full text was not obtained.",
+      "doi": "10.1080/096582100406810",
+      "url": "https://doi.org/10.1080/096582100406810",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Bauer, P. J., & Larkina, M. (2014). The onset of childhood amnesia in childhood: A prospective investigation of the course and determinants of forgetting of early-life events. Memory, 22(8), 907-924. Published online in 2013 and in print in 2014. Read in full; the source for every figure in the prospective paragraph.",
+      "doi": "10.1080/09658211.2013.854806",
+      "url": "https://doi.org/10.1080/09658211.2013.854806",
+      "type": "primary"
+    },
+    {
+      "text": "Bauer, P. J., & Larkina, M. (2014). Childhood amnesia in the making: Different distributions of autobiographical memories in children and adults. Journal of Experimental Psychology: General, 143(2), 597-611. Figures taken from the abstract.",
+      "doi": "10.1037/a0033307",
+      "url": "https://doi.org/10.1037/a0033307",
+      "type": "primary"
+    },
+    {
+      "text": "Jack, F., & Hayne, H. (2007). Eliciting adults' earliest memories: Does it matter how we ask the question? Memory, 15(6), 647-663. Abstract read.",
+      "doi": "10.1080/09658210701467087",
+      "url": "https://doi.org/10.1080/09658210701467087",
+      "type": "primary"
+    },
+    {
+      "text": "Tustin, K., & Hayne, H. (2010). Defining the boundary: Age-related changes in childhood amnesia. Developmental Psychology, 46(5), 1049-1061. Abstract read.",
+      "doi": "10.1037/a0020105",
+      "url": "https://doi.org/10.1037/a0020105",
+      "type": "replication"
+    },
+    {
+      "text": "Peterson, C., Warren, K. L., & Short, M. M. (2011). Infantile amnesia across the years: A 2-year follow-up of children's earliest memories. Child Development, 82(4), 1092-1105. Abstract read.",
+      "doi": "10.1111/j.1467-8624.2011.01597.x",
+      "url": "https://doi.org/10.1111/j.1467-8624.2011.01597.x",
+      "type": "replication"
+    },
+    {
+      "text": "Peterson, C., Hallett, D., & Compton-Gillingham, C. (2018). Childhood amnesia in children: A prospective study across eight years. Child Development, 89(6), e520-e534. Abstract read.",
+      "doi": "10.1111/cdev.12972",
+      "url": "https://doi.org/10.1111/cdev.12972",
+      "type": "replication"
+    },
+    {
+      "text": "Wang, Q. (2001). Culture effects on adults' earliest childhood recollection and self-description: Implications for the relation between memory and the self. Journal of Personality and Social Psychology, 81(2), 220-233. Abstract read.",
+      "doi": "10.1037/0022-3514.81.2.220",
+      "url": "https://doi.org/10.1037/0022-3514.81.2.220",
+      "type": "primary"
+    },
+    {
+      "text": "MacDonald, S., Uesiliana, K., & Hayne, H. (2000). Cross-cultural and gender differences in childhood amnesia. Memory, 8(6), 365-376. Abstract read; it reports the direction of the differences and not the ages.",
+      "doi": "10.1080/09658210050156822",
+      "url": "https://doi.org/10.1080/09658210050156822",
+      "type": "primary"
+    },
+    {
+      "text": "Peterson, C., Wang, Q., & Hou, Y. (2009). 'When I was little': Childhood recollections in Chinese and European Canadian grade school children. Child Development, 80(2), 506-518. Abstract read.",
+      "doi": "10.1111/j.1467-8624.2009.01275.x",
+      "url": "https://doi.org/10.1111/j.1467-8624.2009.01275.x",
+      "type": "replication"
+    },
+    {
+      "text": "Mullen, M. K. (1994). Earliest recollections of childhood: A demographic analysis. Cognition, 52(1), 55-79. Abstract read.",
+      "doi": "10.1016/0010-0277(94)90004-3",
+      "url": "https://doi.org/10.1016/0010-0277(94)90004-3",
+      "type": "replication"
+    },
+    {
+      "text": "Wang, Q., Peterson, C., Khuu, A., Reid, C. P., Maxwell, K. L., & Vincent, J. M. (2019). Looking at the past through a telescope: Adults postdated their earliest childhood memories. Memory, 27(1), 19-27. Read in full from the authors' posted copy; the source for every dating figure.",
+      "doi": "10.1080/09658211.2017.1414268",
+      "url": "https://doi.org/10.1080/09658211.2017.1414268",
+      "type": "critique"
+    },
+    {
+      "text": "Akhtar, S., Justice, L. V., Morrison, C. M., & Conway, M. A. (2018). Fictional first memories. Psychological Science, 29(10), 1612-1619. Abstract read. A corrigendum was published in 2020 and was not obtained.",
+      "doi": "10.1177/0956797618778831",
+      "url": "https://doi.org/10.1177/0956797618778831",
+      "type": "primary"
+    },
+    {
+      "text": "Bauer, P. J., Baker-Ward, L., Krøjgaard, P., Peterson, C., & Wang, Q. (2019). Evidence against depiction as fiction: A comment on 'Fictional first memories' (Akhtar, Justice, Morrison, & Conway, 2018). Psychological Science, 30(9), 1397-1399. No abstract; the text was not obtained.",
+      "doi": "10.1177/0956797619834510",
+      "url": "https://doi.org/10.1177/0956797619834510",
+      "type": "commentary"
+    },
+    {
+      "text": "Akhtar, S., Justice, L. V., Morrison, C. M., Conway, M. A., & Howe, M. L. (2019). What are autobiographical memories? A reply to Bauer, Baker-Ward, Krøjgaard, Peterson, and Wang (2019). Psychological Science, 30(9), 1400-1402. No abstract; the text was not obtained.",
+      "doi": "10.1177/0956797619868994",
+      "url": "https://doi.org/10.1177/0956797619868994",
+      "type": "commentary"
+    },
+    {
+      "text": "Akhtar, S., Justice, L. V., Morrison, C. M., & Conway, M. A. (2020). Corrigendum: Fictional first memories. Psychological Science, 31(9), 1205-1207. Listed because it exists; its content was not read.",
+      "doi": "10.1177/0956797620950665",
+      "url": "https://doi.org/10.1177/0956797620950665",
+      "type": "commentary"
+    },
+    {
+      "text": "Josselyn, S. A., & Frankland, P. W. (2012). Infantile amnesia: A neurogenic hypothesis. Learning & Memory, 19(9), 423-433. Abstract read.",
+      "doi": "10.1101/lm.021311.110",
+      "url": "https://doi.org/10.1101/lm.021311.110",
+      "type": "review"
+    },
+    {
+      "text": "Akers, K. G., Martinez-Canabal, A., Restivo, L., Yiu, A. P., De Cristofaro, A., Hsiang, H.-L., et al. (2014). Hippocampal neurogenesis regulates forgetting during adulthood and infancy. Science, 344(6184), 598-602. Abstract read.",
+      "doi": "10.1126/science.1248903",
+      "url": "https://doi.org/10.1126/science.1248903",
+      "type": "primary"
+    },
+    {
+      "text": "Guskjolen, A., Kenney, J. W., de la Parra, J., Yeung, B. A., Josselyn, S. A., & Frankland, P. W. (2018). Recovery of 'lost' infant memories in mice. Current Biology, 28(14), 2283-2290.e3. Abstract read.",
+      "doi": "10.1016/j.cub.2018.05.059",
+      "url": "https://doi.org/10.1016/j.cub.2018.05.059",
+      "type": "primary"
+    },
+    {
+      "text": "Sorrells, S. F., Paredes, M. F., Cebrian-Silla, A., Sandoval, K., Qi, D., Kelley, K. W., et al. (2018). Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults. Nature, 555(7696), 377-381. Abstract read.",
+      "doi": "10.1038/nature25975",
+      "url": "https://doi.org/10.1038/nature25975",
+      "type": "critique"
+    },
+    {
+      "text": "Yates, T. S., Fel, J., Choi, D., Trach, J. E., Behm, L., Ellis, C. T., & Turk-Browne, N. B. (2025). Hippocampal encoding of memories in human infants. Science, 387(6740), 1316-1320. Abstract read; the full text is behind a paywall.",
+      "doi": "10.1126/science.adt7570",
+      "url": "https://doi.org/10.1126/science.adt7570",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
