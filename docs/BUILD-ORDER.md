@@ -123,6 +123,18 @@ default that gets written because checking was hard: the state means a search
 was made and came up empty, and every entry carrying it says where the search
 looked.
 
+## How the writing actually runs
+
+Entries are researched by delegated agents, one bias each, in parallel, under
+the brief in `docs/RESEARCH-PROTOCOL.md`. Agents never touch git: they leave the
+working tree dirty and report, and the review and the commit happen upstream of
+them. Every entry clears build, style, tests and `npm run sources` before it
+lands.
+
+The agent's report is not a summary of the entry. It is a list of what could not
+be verified and was therefore left out, which is the half that never appears in
+the file.
+
 ## Overlap with The Law Tome
 
 66 of these names already have entries on The Law Tome. Two of my own sites
