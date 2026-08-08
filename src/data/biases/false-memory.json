@@ -1,0 +1,127 @@
+{
+  "no": 35,
+  "slug": "false-memory",
+  "name": "False memory",
+  "aliases": ["Memory implantation", "Misinformation effect", "Deese-Roediger-McDermott effect"],
+  "category": "memory",
+  "statement": "Suggestion can add events and details to a person's memory that were never experienced, and the resulting reports can feel like recollection.",
+  "meaning": "The claim is that memory is reconstructed at retrieval rather than replayed, so information arriving after an event can be folded into the record of it. Three laboratory paradigms carry most of the weight. Leading questions supply a false detail and the later report absorbs it. Word lists built from the associates of an unspoken word draw that word out as a confident memory. Implantation studies feed an adult a fabricated childhood event through a family member and interview them about it. The three measure different things, and the sizes they return are not interchangeable. The reason the literature is fought over is forensic. Testimony and therapy both run on retrieval under suggestion, so the rate at which a suggested event becomes a remembered one is a question with consequences outside the laboratory.",
+  "origin": {
+    "year": 1974,
+    "who": "Elizabeth F. Loftus and John C. Palmer",
+    "where": "Journal of Verbal Learning and Verbal Behavior",
+    "note": "The 1974 paper on leading questions is the experiment the field is built on, but it is not the earliest antecedent and it did not use the term. Deese published the word-list result in 1959 and it sat unused for 36 years. Loftus and Pickrell's implanted childhood event, the study known as lost in the mall, came in 1995."
+  },
+  "evidence": "Loftus and Palmer ran two experiments. In the first, 45 students watched seven films of traffic accidents and were asked how fast the cars were going when they hit each other, with nine students receiving each of five verbs. Mean estimates ran from 31.8 mph for contacted through 34.0 for hit, 38.1 for bumped and 39.3 for collided, to 40.8 for smashed, quasi F(5, 55) = 4.65, p < .005. In the second, 150 students watched one film of a multiple-car crash. Fifty were asked the speed question with smashed, fifty with hit, and fifty were not asked. A week later all were asked whether they had seen any broken glass, of which the film contained none. Sixteen of the smashed group said yes against seven of the hit group and six of the controls, chi-squared(2) = 7.76, p < .025. Roediger and McDermott revived Deese's word lists. Thirty-six students heard six lists of 12 associates of an unpresented critical word. They recalled the critical word on 40% of lists, against a 14% intrusion rate for every other word in English. On recognition, the critical lures were called old at .84 against a .86 hit rate for studied words, and were rated sure old .58 of the time. A second experiment with 30 students and 24 lists of 15 words raised false recall to 55%. Loftus and Pickrell gave 24 people booklets describing three true childhood events supplied by a relative and one fabricated event of being lost in a shopping mall at about age five. Sixty-eight percent of the true events were remembered. Seven people remembered the false event in the booklet and six of the 24, or 25%, still did at both interviews. Their false memories were thinner than their true ones: a mean of 49.9 words against 138.0, and clarity ratings of 2.8 against 6.3. At debriefing 19 of the 24 picked the mall event as the false one.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The word-list effect and the mall study both repeat, but the rate at which a suggested childhood event becomes a false memory is reported anywhere from 4% to 47% depending on who scores the transcripts.",
+    "detail": "The word-list result is the sturdiest of the three. Stadler, Roediger and McDermott tested 36 lists on 205 students and found mean false recall of 40% and mean false recognition of 66%, close to the rates for words actually presented in the middle of a list. The spread across lists is the finding people skip: 65% falsely recalled window and 84% falsely recognised it, while king produced 10% and 27%. Murphy and nine colleagues ran a preregistered replication of the mall study with 123 participants, five times the original sample, and coded 35% as reporting a false memory against 25% in 1995. Independent observers judged the false reports genuine. Implantation rates across the wider literature disagree because the scoring does. Scoboria and six co-authors applied one seven-part coding scheme to the transcripts of eight published implantation studies, N = 423, and classified 30.4% of cases as false memories and a further 23% as partial acceptance. Where the suggestion carried self-relevant information and an imagination exercise and no photograph, the rate was 46.1%. Brewin and Andrews, reviewing the same paradigm alongside imagination inflation and false feedback, report that implantation induces some recollective experience in 47% of participants on average but that only 15% are likely to be rated as full memories, and conclude that susceptibility is more limited than has been claimed. Nash, Wade, Garry, Loftus and Ost replied that 15% would still be a serious rate, and that the laboratory analogue is weak: a graduate student meeting a volunteer a few times cannot bound what sustained suggestion outside the laboratory can do. The argument sharpened on Murphy's data. Andrews and Brewin recoded those transcripts for six core suggested details, found fewer than two recalled on average, found that 20% of full and 58% of partial false memories did not recall being lost, and found that half the participants described potentially true experiences. Subtracting those, they put the rate at 4% rather than 35%. Wade, Riesthuis, Bücken, Otgaar and Loftus answered that a reconstructive memory is expected to carry fragments of real experience, and that in their own doctored-photograph study 70% of the details in reports of the fake event, and 80% of those in reports of real events, were not supplied by the researchers. Murphy and Greene answered that no single coding scheme should decide it, and noted that two-thirds of their participants self-reported remembering (14%) or believing (52%) the fake event. Brewin and Andrews replied in 2025 that concerns about the paradigm's reliability, validity and generalisability persist.",
+    "study": {
+      "cite": "Murphy, G., Dawson, C. A., Huston, C., Ballantyne, L., Barrett, E., Cowman, C. S., Fitzsimons, C., Maher, J., Ryan, K. M., & Greene, C. M. (2023). Lost in the mall again: a preregistered replication and extension of Loftus & Pickrell (1995). Memory, 31(6), 818-830.",
+      "doi": "10.1080/09658211.2023.2198327",
+      "year": 2023,
+      "n": 123
+    }
+  },
+  "limits": "This entry covers the experimental work on suggestion and distortion. It does not cover the clinical dispute over recovered memories of abuse, which is the reason the implantation rate is argued about at all, nor children's suggestibility, nor false confessions, nor the neuroscience. The search ran across Crossref, PubMed, Europe PMC, PMC and the open web. Several key texts are paywalled and were not read here. The figures quoted from Scoboria and colleagues, from Brewin and Andrews' 2017 review, and from Andrews and Brewin's 2024 reanalysis are taken from their abstracts, and Wade and colleagues' 2025 commentary is the source for how Andrews and Brewin reached 4%. Murphy and colleagues' paper was likewise not read in full. No published direct replication of Loftus and Palmer's first experiment was located. Rolf Zwaan announced on his newsletter on 19 January 2026 that 75 laboratories had committed to one and that funding was in place, with no results yet. The 40.8 mph figure for smashed is the value reproduced in secondary summaries of Table 1; the scan of the original read here rendered that digit ambiguously, and the other four means were legible. Implantation studies suggest mundane events that a relative has vouched are plausible, so they bound nothing about implausible or traumatic ones. False memories are also not permanent. Oeberst, Wachendörfer, Imhoff and Blank induced them in 27% and 56% of participants under minimal and massive suggestion, then reduced those figures to 15% and 23% by telling participants that suggestion can produce false memories, with rates falling to 5% a year later.",
+  "misreadings": "The word-list effect is routinely offered as proof that childhood events can be implanted, and the two do not travel together. Ost, Blank, Davies, Jones, Lambert and Salmon gave 120 people a misinformation task and a word-list task and found robust effects on both and a mean correlation between them of -.01. Being prone to one says nothing about being prone to the other. The word-list rate is also quoted as a single number when it ranges from 10% to 65% across lists built the same way. Loftus and Palmer's second experiment is retold as memories being overwritten; what it shows is 16 of 50 people saying yes to broken glass against seven of 50, a week after one word was changed. The mall study is read as a quarter of people being made to remember anything. The event was ordinary, it was vouched for by a family member, and the participants who accepted it described it in a third as many words and rated it half as clear as their real memories. Brewin and Andrews are cited as having shown that implantation does not work. Their claim is about the rate, not the phenomenon, and their own figure is that 47% show some recollective experience. The opposite reading is as common: Andrews and Brewin's 4% is treated as a debunking of the mall study, and Murphy and Greene's answer is that 4% would still matter in a courtroom.",
+  "sources": [
+    {
+      "text": "Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. Journal of Verbal Learning and Verbal Behavior, 13(5), 585-589. Read in full from a scan; source for every number in the leading-question paragraph.",
+      "doi": "10.1016/S0022-5371(74)80011-3",
+      "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+      "type": "primary"
+    },
+    {
+      "text": "Deese, J. (1959). On the prediction of occurrence of particular verbal intrusions in immediate recall. Journal of Experimental Psychology, 58(1), 17-22. The word-list result that went unused for 36 years; listed because it exists, and not read for this entry.",
+      "doi": "10.1037/h0046671",
+      "url": "https://doi.org/10.1037/h0046671",
+      "type": "primary"
+    },
+    {
+      "text": "Roediger, H. L., & McDermott, K. B. (1995). Creating false memories: Remembering words not presented in lists. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(4), 803-814. Read in full.",
+      "doi": "10.1037/0278-7393.21.4.803",
+      "url": "https://doi.org/10.1037/0278-7393.21.4.803",
+      "type": "primary"
+    },
+    {
+      "text": "Loftus, E. F., & Pickrell, J. E. (1995). The formation of false memories. Psychiatric Annals, 25(12), 720-725. The numbers here were read from the author's own manuscript version, posted as close to the published text.",
+      "doi": "10.3928/0048-5713-19951201-07",
+      "url": "https://www.myptsd.com/gallery/-pdf/1-96.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Stadler, M. A., Roediger, H. L., & McDermott, K. B. (1999). Norms for word lists that create false memories. Memory & Cognition, 27(3), 494-500. Read in full.",
+      "doi": "10.3758/BF03211543",
+      "url": "https://doi.org/10.3758/BF03211543",
+      "type": "replication"
+    },
+    {
+      "text": "Murphy, G., Dawson, C. A., Huston, C., Ballantyne, L., Barrett, E., Cowman, C. S., Fitzsimons, C., Maher, J., Ryan, K. M., & Greene, C. M. (2023). Lost in the mall again: a preregistered replication and extension of Loftus & Pickrell (1995). Memory, 31(6), 818-830.",
+      "doi": "10.1080/09658211.2023.2198327",
+      "url": "https://doi.org/10.1080/09658211.2023.2198327",
+      "type": "replication"
+    },
+    {
+      "text": "Scoboria, A., Wade, K. A., Lindsay, D. S., Azad, T., Strange, D., Ost, J., & Hyman, I. E. (2017). A mega-analysis of memory reports from eight peer-reviewed false memory implantation studies. Memory, 25(2), 146-163. Figures taken from the abstract.",
+      "doi": "10.1080/09658211.2016.1260747",
+      "url": "https://doi.org/10.1080/09658211.2016.1260747",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Brewin, C. R., & Andrews, B. (2017). Creating memories for false autobiographical events in childhood: A systematic review. Applied Cognitive Psychology, 31(1), 2-23. Figures taken from the abstract.",
+      "doi": "10.1002/acp.3220",
+      "url": "https://doi.org/10.1002/acp.3220",
+      "type": "review"
+    },
+    {
+      "text": "Nash, R. A., Wade, K. A., Garry, M., Loftus, E. F., & Ost, J. (2017). Misrepresentations and flawed logic about the prevalence of false memories. Applied Cognitive Psychology, 31(1), 31-33.",
+      "doi": "10.1002/acp.3265",
+      "url": "https://doi.org/10.1002/acp.3265",
+      "type": "commentary"
+    },
+    {
+      "text": "Andrews, B., & Brewin, C. R. (2024). Lost in the mall? Interrogating judgements of false memory. Applied Cognitive Psychology, 38(6). Figures taken from the abstract.",
+      "doi": "10.1002/acp.70012",
+      "url": "https://doi.org/10.1002/acp.70012",
+      "type": "critique"
+    },
+    {
+      "text": "Wade, K. A., Riesthuis, P., Bücken, C., Otgaar, H., & Loftus, E. F. (2025). Still lost in the mall: False memories happen and that's what matters. Applied Cognitive Psychology, 39(1). Read in full; the source for how Andrews and Brewin arrived at 4%.",
+      "doi": "10.1002/acp.70028",
+      "url": "https://doi.org/10.1002/acp.70028",
+      "type": "commentary"
+    },
+    {
+      "text": "Murphy, G., & Greene, C. M. (2025). Who got lost in the mall? Challenges in counting and classifying false memories. Applied Cognitive Psychology, 39(2). Figures taken from the abstract.",
+      "doi": "10.1002/acp.70044",
+      "url": "https://doi.org/10.1002/acp.70044",
+      "type": "commentary"
+    },
+    {
+      "text": "Brewin, C. R., & Andrews, B. (2025). Major concerns about the false memory implantation paradigm persist. Applied Cognitive Psychology, 39(5). Abstract read; the full reply was not.",
+      "doi": "10.1002/acp.70108",
+      "url": "https://doi.org/10.1002/acp.70108",
+      "type": "commentary"
+    },
+    {
+      "text": "Ost, J., Blank, H., Davies, J., Jones, G., Lambert, K., & Salmon, K. (2013). False memory does not equal false memory: DRM errors are unrelated to the misinformation effect. PLoS ONE, 8(4), e57939.",
+      "doi": "10.1371/journal.pone.0057939",
+      "url": "https://doi.org/10.1371/journal.pone.0057939",
+      "type": "critique"
+    },
+    {
+      "text": "Oeberst, A., Wachendörfer, M. M., Imhoff, R., & Blank, H. (2021). Rich false memories of autobiographical events can be reversed. Proceedings of the National Academy of Sciences, 118(13), e2026447118.",
+      "doi": "10.1073/pnas.2026447118",
+      "url": "https://doi.org/10.1073/pnas.2026447118",
+      "type": "replication"
+    },
+    {
+      "text": "Zwaan, R. (2026, January 19). Memory, misinformation, and Loftus and Palmer, revisited. Newsletter post announcing a 75-laboratory direct replication of Loftus and Palmer (1974), funded and not yet run.",
+      "url": "https://rolfzwaan.substack.com/p/memory-misinformation-and-loftus",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
