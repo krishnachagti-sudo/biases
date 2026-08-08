@@ -3,6 +3,7 @@
 
 import { head, sprite, header, footer, escapeHtml, shareRow, BRAND, founderNode } from './partials.mjs';
 import { hubHead, hubNav, hubFaq, hubJsonLd } from './hub.mjs';
+import { entryPath, replicationLabel } from './entry.mjs';
 
 const n = (x) => Number(x).toLocaleString('en-US');
 
@@ -16,26 +17,39 @@ const n = (x) => Number(x).toLocaleString('en-US');
 export function browsePage({ base = '/', origin = '', entries = [], mapped = 0 } = {}) {
   const count = entries.length;
   const answer = count > 0
-    ? `${n(count)} cognitive biases are published in this index, listed here alphabetically.`
+    ? `${n(count)} cognitive ${count === 1 ? 'bias is' : 'biases are'} published in this index, each with whether it survived being retested.`
     : `No entries are published yet. ${n(mapped)} biases have been identified and ranked for this index; this page lists them as they are written.`;
 
+  // Name plus verdict, never name alone. A list of biases is a list Wikipedia
+  // already has; the column that says whether each one survived being retested
+  // is the only reason to read this one, so it is in the list rather than one
+  // click inside it.
+  const REP_CLASS = { replicated: 'b-emp', failed: 'b-con', mixed: 'b-heu', 'none-located': 'b-folk' };
   const list = count > 0
     ? `    <ul class="coll-laws">
-${entries.map((e) => `      <li><a href="${base}bias/${escapeHtml(e.slug)}/">${escapeHtml(e.name)}</a></li>`).join('\n')}
+${entries.map((e) => `      <li><a href="${base}${entryPath(e)}">${escapeHtml(e.name)}</a> <span class="badge ${REP_CLASS[e.replication.state] || 'b-heu'}">${escapeHtml(replicationLabel(e.replication.state))}</span></li>`).join('\n')}
     </ul>
 `
     : `    <p class="vd-p">The build order is by how often each bias is looked up, so the entries that arrive first are the ones people are already searching for. Nothing is listed here before it is written and sourced.</p>
 `;
 
+  // Two versions of the same question, because the honest answer changes once
+  // there is something in the list. A page that keeps asking "why is this empty"
+  // after it fills up is the clearest sign nobody reads their own site.
   const faq = hubFaq([
-    {
-      q: 'Why is the list empty?',
-      a: `Because writing an entry takes longer than listing one. Each carries a claim, its origin, its limits and — where a replication record exists — what happened when the experiments were repeated, all traced to sources that can be fetched and read. Listing the ${n(mapped)} names before the entries exist would make this page look full and be worth nothing.`,
-    },
+    count > 0
+      ? {
+        q: `Why are there only ${n(count)}?`,
+        a: `Because writing an entry takes longer than listing one. Each carries the claim, its origin, its limits, and what happened when the underlying experiments were repeated, every part of it traced to something a reader can open. ${n(mapped)} biases have been identified and ranked; listing those names here before the entries exist would make this page look full and be worth nothing.`,
+      }
+      : {
+        q: 'Why is the list empty?',
+        a: `Because writing an entry takes longer than listing one. Each carries a claim, its origin, its limits and, where a replication record exists, what happened when the experiments were repeated, all traced to sources that can be fetched and read. Listing the ${n(mapped)} names before the entries exist would make this page look full and be worth nothing.`,
+      },
   ], { heading: 'About this list' });
 
   const description = count > 0
-    ? `Every cognitive bias published in ${BRAND}, listed alphabetically.`
+    ? `Every cognitive bias published in ${BRAND}, with whether it survived being retested.`
     : `The index of cognitive biases in ${BRAND}. Being written now; entries are listed here as they are published.`;
 
   const section = `<section class="sec">
@@ -66,7 +80,7 @@ ${faq.html}${hubNav('browse/', { base })}  </div>
           origin,
           base,
           crumbs: [],
-          items: entries.map((e) => ({ name: e.name, href: `bias/${e.slug}/` })),
+          items: entries.map((e) => ({ name: e.name, href: entryPath(e) })),
         }),
         ...(faq.jsonld ? [faq.jsonld] : []),
       ],
@@ -91,7 +105,7 @@ export function aboutPage({ base = '/', origin = '', mapped = 0 } = {}) {
     },
     {
       q: 'Where do the replication figures come from?',
-      a: 'From <a href="https://doi.org/10.17605/OSF.IO/9R62X" rel="nofollow noopener">FORRT’s Replication Database</a>, a crowdsourced academic record of replication attempts, licensed CC BY 4.0. They are quoted and attributed, never assessed here. An entry with no replication record says so; silence in the database is not evidence either way, and presenting it as a verdict would be the worst thing this index could do with someone else’s data.',
+      a: 'From the replication papers themselves, read directly. <a href="https://doi.org/10.17605/OSF.IO/9R62X" rel="nofollow noopener">FORRT’s Replication Database</a> is used to find out that a replication exists; what it found is read off the paper. That distinction is not pedantry. FReD holds 36 rows for the sunk-cost effect, one per site of a single multi-site study, and its own summary column marks most of them as finding no signal — which reads as a failure. The paper those rows come from reports the effect replicating across all 36 sites at p &lt; .001. Quoting the aggregator would have published exactly the opposite of what the study found. An entry with no replication located says so, and says it as a fact about the literature rather than a verdict on the effect.',
     },
     {
       q: 'How do I report an error?',

@@ -25,6 +25,8 @@ import { join, dirname } from 'node:path';
 import { setAssetVersions, setBuildDate } from '../src/templates/partials.mjs';
 import { homePage } from '../src/templates/home.mjs';
 import { browsePage, aboutPage, notFoundPage } from '../src/templates/pages.mjs';
+import { entryPage, entryPath } from '../src/templates/entry.mjs';
+import { loadCorpus } from './corpus.mjs';
 import { buildSitemap } from './sitemap.mjs';
 import { LASTMOD_TOKEN, manifestFile, resolve as resolveLastmod, stamp } from './lastmod.mjs';
 import { renderPng, siteCardSvg } from './cards.mjs';
@@ -61,10 +63,11 @@ setAssetVersions({
 });
 
 // ---- the corpus ------------------------------------------------------------
-// There isn't one yet. `entries` is the seam every page already reads through,
-// so the day the first entry lands nothing above this line has to change.
-const entries = [];
-// Biases identified and ranked in docs/BIAS-GAP.md but not yet written. Stated
+// loadCorpus throws on the first invalid entry, with every problem it found.
+// That is deliberate: a corpus that half-loads is worse than one that does not,
+// because the pages render and nobody notices which ones are missing.
+const entries = loadCorpus({ today: buildDate });
+// Biases identified and ranked in docs/BUILD-ORDER.md but not yet written. Stated
 // on the pages that would otherwise have to explain an empty list, and stated
 // as what it is — a count of work identified, not of work done.
 const MAPPED = 177;
@@ -76,6 +79,9 @@ const pages = {
   'browse/': browsePage({ base, origin, entries, mapped: MAPPED }),
   'about/': aboutPage({ base, origin, mapped: MAPPED }),
 };
+for (const e of entries) {
+  pages[entryPath(e)] = entryPage(e, { base, origin, count: entries.length });
+}
 
 // ---- dates -----------------------------------------------------------------
 const prev = existsSync(manifestFile)

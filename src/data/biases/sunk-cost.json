@@ -1,0 +1,60 @@
+{
+  "no": 1,
+  "slug": "sunk-cost",
+  "name": "Sunk cost",
+  "aliases": ["Sunk cost fallacy", "Sunk cost effect", "Escalation of commitment"],
+  "category": "decision",
+  "statement": "People keep going with something because of what they have already spent on it, even when what they have spent cannot be recovered and should not affect the choice.",
+  "meaning": "A cost is sunk when it is already paid and no future decision can get it back. Standard decision theory says such costs are irrelevant: the only question is whether continuing is worth more than stopping, from here. The sunk-cost effect is the finding that people do not behave that way. The size of what has already gone in shifts the decision toward continuing, and it shifts it in a direction that cannot be justified by the remaining costs and benefits.",
+  "origin": {
+    "year": 1985,
+    "who": "Hal R. Arkes and Catherine Blumer",
+    "where": "Organizational Behavior and Human Decision Processes",
+    "note": "Arkes and Blumer's paper is titled \"The psychology of sunk cost\" and is the work the effect is normally credited to; it has been cited about 2,500 times. The idea is older than the name. The vignette most often used to test it was adapted from Richard Thaler's \"Mental Accounting and Consumer Choice\" (1985), and Knox and Inkster's 1968 study of racetrack bettors, \"Postdecision dissonance at post time\", is the work Many Labs 1 cites when defining a sunk cost."
+  },
+  "evidence": "The effect is usually demonstrated with a vignette rather than a real decision. In the version Many Labs 1 later tested, taken from Oppenheimer, Meyvis and Davidenko's 2009 paper and adapted in turn from Thaler (1985), participants imagine holding tickets to a football match on a freezing day and rate how likely they are to go, on a nine-point scale. Half are told they paid for the ticket; half are told it was free. The prediction is that the people who paid are more willing to sit in the cold. In the original they were, but only marginally: d = 0.23 with a 95% confidence interval running from -0.04 to 0.50, which crosses zero.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Repeated across 36 laboratories and 6,330 people, the effect held — and came out slightly larger than in the original study.",
+    "detail": "Many Labs 1 ran the football-ticket vignette at 36 sites in 12 countries. Pooled across all of them the effect was d = 0.31 unweighted (99% CI 0.22 to 0.39) and d = 0.27 weighted (0.20 to 0.34), t = 10.83, p < .001. There was no meaningful variation between sites: Q = 35.55 on 35 degrees of freedom, p = .44. Half of the 36 individual samples reached significance in the same direction as the original, half did not, and none found a significant effect in the opposite direction. That last split is the part worth reading carefully. It is not a fifty-fifty verdict on whether the effect is real. It is what an effect of about d = 0.3 looks like when you cut a large sample into 36 pieces of roughly 175 people each: too small for any one lab to see reliably, and unmistakable once pooled.",
+    "study": {
+      "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating Variation in Replicability: A \"Many Labs\" Replication Project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "year": 2014,
+      "sites": 36,
+      "n": 6330
+    },
+    "original": { "es": 0.23, "esType": "d", "ci": [-0.04, 0.5] },
+    "replicated": { "es": 0.31, "esType": "d", "ci": [0.22, 0.39], "weighting": "unweighted" },
+    "indexedBy": "FReD"
+  },
+  "limits": "What replicated is a vignette, not a decision with anything at stake. Participants imagined a football ticket; nobody was cold and nobody was out of pocket. The pooled effect is also small: d = 0.31 means the distributions of the paid and free groups overlap heavily, and it describes an average shift, not a rule any individual follows. And the effect as tested says nothing about why: Arkes and Blumer's own explanation was that people do not want to appear wasteful, which is a different mechanism from loss aversion or from self-justification, and the vignette cannot tell them apart.",
+  "misreadings": "The common misuse is treating any persistence as a sunk-cost fallacy. Continuing a project is only a fallacy if the reason is the money already spent; if it is a reasonable estimate that finishing still pays, or a reputation that would suffer from abandoning it, that is a different calculation and possibly a correct one. The second misreading runs the other way: because the per-site results in Many Labs 1 split evenly, the effect is sometimes listed among psychology's replication casualties. It is not one. It replicated, with no detectable variation between laboratories.",
+  "sources": [
+    {
+      "text": "Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124-140.",
+      "doi": "10.1016/0749-5978(85)90049-4",
+      "url": "https://doi.org/10.1016/0749-5978(85)90049-4",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating Variation in Replicability: A \"Many Labs\" Replication Project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "url": "https://doi.org/10.1027/1864-9335/a000178",
+      "type": "replication"
+    },
+    {
+      "text": "Oppenheimer, D. M., Meyvis, T., & Davidenko, N. (2009). Instructional manipulation checks: Detecting satisficing to increase statistical power. Journal of Experimental Social Psychology, 45(4), 867-872. The source of the football-ticket item Many Labs 1 replicated.",
+      "doi": "10.1016/j.jesp.2009.03.009",
+      "url": "https://doi.org/10.1016/j.jesp.2009.03.009",
+      "type": "primary"
+    },
+    {
+      "text": "FORRT Replication Database (FReD), Röseler et al. Used to locate the replication above, not as the source for what it found.",
+      "doi": "10.17605/OSF.IO/9R62X",
+      "url": "https://doi.org/10.17605/OSF.IO/9R62X",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
