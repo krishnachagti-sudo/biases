@@ -1,0 +1,114 @@
+{
+  "no": 32,
+  "slug": "impostor-syndrome",
+  "name": "Impostor syndrome",
+  "aliases": ["Impostor phenomenon", "Imposter syndrome", "Impostorism", "Perceived fraudulence"],
+  "category": "social",
+  "statement": "High achievers who cannot internalise their success believe they have fooled everyone, and expect to be found out as frauds.",
+  "meaning": "The claim is about a gap between the record and the self-image. Someone holds degrees, promotions and praise, and reads every one of them as luck, charm, timing or an administrative error. Clance and Imes described four behaviours that keep the belief alive: overwork, intellectual flattery, cultivating a mentor whose approval is then discounted, and hiding the effort that produced the result. The belief is self-sealing, because each new success is explained away by the same machinery that explained the last one. What the term does not describe is a disorder. Bravata and colleagues state that impostor syndrome is not featured in the American Psychiatric Association's Diagnostic and Statistical Manual and is not listed as a diagnosis in ICD-10, and their review ends by recommending that it be considered for inclusion in the DSM.",
+  "origin": {
+    "year": 1978,
+    "who": "Pauline Rose Clance and Suzanne Imes",
+    "where": "Psychotherapy: Theory, Research & Practice",
+    "note": "The paper is a clinical report, not an experiment. It describes five years of psychotherapy, interaction groups and college classes with over 150 high-achieving women, and contains no measurement, no comparison group and no statistics. The word 'syndrome' is not in it; the authors wrote 'impostor phenomenon'."
+  },
+  "evidence": "Clance and Imes list the groups their observations came from: 95 undergraduates and 10 doctoral faculty women at a private Midwestern college, 15 undergraduates, 20 graduate students and 10 faculty at a large southern university, six medical students, and 22 professional women in law, nursing, social work and other fields. Those numbers sum to 178, against the 'over 150' in the text. About a third were therapy clients; the rest were in groups or classes taught by the authors. All were women, mostly white and middle to upper class, aged 20 to 45. A footnote reports the authors' clinical impression that the phenomenon is rarer and milder in men, and calls for research. Measurement arrived later. Clance published the 20-item Clance Impostor Phenomenon Scale in 1985. Chrisman and colleagues compared it with the Perceived Fraudulence Scale in 1995, found three components they named Fake, Discount and Luck, and reported that impostor feelings were related to but discriminable from depression, self-esteem, social anxiety and self-monitoring.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The correlates reproduce across large samples, and the prevalence claim does not: the figure everyone quotes traces to a newspaper feature, while the largest review puts prevalence anywhere between 9% and 82% depending on the cutoff.",
+    "detail": "Bravata and colleagues searched Medline, Embase and PsycINFO from 1966 to May 2018 and found 66 articles describing 62 studies of 14,161 participants, 60% of them women. Prevalence ran 'from 9 to 82% largely depending on the screening tool and cutoff used'. Their sharpest illustration is a single sample: Chae and colleagues' 654 Korean Catholics gave 39% at a scale cutoff of 58 and 24% at a cutoff of 62. None of the 62 studies evaluated a treatment. Omar and colleagues later pooled 34 studies of 9,550 medical students and report prevalence of 49%, 95% CI 43% to 54%, with heterogeneity of I-squared 95.6%; their abstract concludes that the variance across measurement tools 'suggests that researchers may not be consistently measuring the same construct'. The associations hold up better than the counts. Rohrmann, Bechtoldt and Leonhardt tested 242 managers. The model that kept impostor feelings as a separate factor fitted better than models merging it with neuroticism, depression, apprehension, core self-evaluations or concern over mistakes. Their correlations were .48 for neuroticism, .48 for apprehension and -.46 for core self-evaluations. Fleischhauer and colleagues, in 209 adults, report r = -0.71 with self-esteem and r = 0.62 with neuroticism. Breit and colleagues' meta-analysis of 26 records and 91 effect sizes separates the two halves of perfectionism. The mean reliability-adjusted correlation was z = .747, 95% CI .632 to .863, for perfectionistic concerns, against z = .159, 95% CI .051 to .268, for perfectionistic strivings. Strivings showed no unique relationship once concerns were partialled out. The 70% claim has a shorter trail. Sakulku and Alexander's review writes that 'it is estimated that 70% of people will experience at least one episode of this Impostor Phenomenon in their lives', citing Gravois (2007), a Chronicle of Higher Education feature. ERIC's record of that feature summarises it as reporting research from the mid-1980s that about 70 percent of people have felt fraudulent. The published Clance work from that period is Matthews and Clance (1985), a description of 41 private-practice clients; Bravata's table of that study records its prevalence as not stated. No peer-reviewed source located in this search reports 70% as a measured prevalence.",
+    "study": {
+      "cite": "Bravata, D. M., Watts, S. A., Keefer, A. L., Madhusudhan, D. K., Taylor, K. T., Clark, D. M., Nelson, R. S., Cokley, K. O., & Hagg, H. K. (2020). Prevalence, predictors, and treatment of impostor syndrome: A systematic review. Journal of General Internal Medicine, 35(4), 1252-1275.",
+      "doi": "10.1007/s11606-019-05364-1",
+      "year": 2020,
+      "n": 14161
+    }
+  },
+  "limits": "There is no original experiment to repeat, so 'replication' here means whether later measurement recovers what the 1978 paper described. It partly does. Several figures could not be obtained. The Gravois feature sits behind the Chronicle's paywall, so the 70% sentence in this entry is read from Sakulku and Alexander and from ERIC's record, not from the feature itself. Gullifor and colleagues' review of 188 workplace impostor studies returned HTTP 403 and is named as existing only. Omar and colleagues' medical-education meta-analysis is described from its Crossref abstract. Clance's 1985 book, which carries the scale and its cutoffs, was not read. Chrisman and colleagues' sample size is not in their abstract and their paper was not opened. The prevalence literature is also skewed young: Bravata reports a weighted mean age of 20 years, with 34 of the 62 studies drawn from students. Searches covered Crossref, PubMed, Europe PMC, PMC, Frontiers, ERIC, Springer, Wiley and general web search.",
+  "misreadings": "The 70% figure is the main one, and it is quoted as though a survey produced it. The second is the word 'syndrome', which Clance and Imes did not use and which implies a clinical category that neither the DSM nor ICD-10 contains. Feenstra and colleagues argue for keeping 'phenomenon' on the ground that 'syndrome' implies a medical model of dysfunction inside the individual, and that the environment does part of the work. A third misreading treats a questionnaire score above some cutoff as a diagnosis, when the same 654 people can be 39% impostors or 24% impostors depending on which cutoff is chosen. The last is that it is a women's condition. That is what the 1978 sample was, by construction, and Bravata found impostor syndrome common among men and women alike, from adolescents to late-stage professionals.",
+  "sources": [
+    {
+      "text": "Clance, P. R., & Imes, S. A. (1978). The imposter phenomenon in high achieving women: Dynamics and therapeutic intervention. Psychotherapy: Theory, Research & Practice, 15(3), 241-247. Full text read for this entry from the author's own site.",
+      "doi": "10.1037/h0086006",
+      "url": "https://paulineroseclance.com/pdf/ip_high_achieving_women.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bravata, D. M., Watts, S. A., Keefer, A. L., Madhusudhan, D. K., Taylor, K. T., Clark, D. M., Nelson, R. S., Cokley, K. O., & Hagg, H. K. (2020). Prevalence, predictors, and treatment of impostor syndrome: A systematic review. Journal of General Internal Medicine, 35(4), 1252-1275. Full text read via Europe PMC.",
+      "doi": "10.1007/s11606-019-05364-1",
+      "url": "https://doi.org/10.1007/s11606-019-05364-1",
+      "type": "replication"
+    },
+    {
+      "text": "Omar, A., Khattab, M., Abdelmageed, M., Messak, M., Mandour, A., Shabeeb, S., Zakaria, M., & Abouelmagd, M. (2026). The impostor phenomenon construct in medical education: A meta-analysis of its prevalence and a critical appraisal of its measurement. Advances in Health Sciences Education. Described here from its abstract; the full text is paywalled.",
+      "doi": "10.1007/s10459-026-10513-3",
+      "url": "https://doi.org/10.1007/s10459-026-10513-3",
+      "type": "replication"
+    },
+    {
+      "text": "Rohrmann, S., Bechtoldt, M. N., & Leonhardt, M. (2016). Validation of the impostor phenomenon among managers. Frontiers in Psychology, 7, 821.",
+      "doi": "10.3389/fpsyg.2016.00821",
+      "url": "https://doi.org/10.3389/fpsyg.2016.00821",
+      "type": "replication"
+    },
+    {
+      "text": "Fleischhauer, M., Wossidlo, J., Michael, L., & Enge, S. (2021). The impostor phenomenon: Toward a better understanding of the nomological network and gender differences. Frontiers in Psychology, 12, 764030.",
+      "doi": "10.3389/fpsyg.2021.764030",
+      "url": "https://doi.org/10.3389/fpsyg.2021.764030",
+      "type": "replication"
+    },
+    {
+      "text": "Breit, M., Scherrer, V., Zwick-Pohl, T., & Preckel, F. (2026). The imposter phenomenon and perfectionism: A meta-analysis. Zeitschrift fur Psychologie, 234(1-2), 52-65. Described here from its abstract.",
+      "doi": "10.1027/2151-2604/a000617",
+      "url": "https://doi.org/10.1027/2151-2604/a000617",
+      "type": "replication"
+    },
+    {
+      "text": "Chrisman, S. M., Pieper, W. A., Clance, P. R., Holland, C. L., & Glickauf-Hughes, C. (1995). Validation of the Clance Imposter Phenomenon Scale. Journal of Personality Assessment, 65(3), 456-467. Described here from its abstract.",
+      "doi": "10.1207/s15327752jpa6503_6",
+      "url": "https://doi.org/10.1207/s15327752jpa6503_6",
+      "type": "primary"
+    },
+    {
+      "text": "Clance, P. R. (1985). Clance Impostor Phenomenon Scale. PsycTESTS Dataset. The instrument record for the 20-item scale.",
+      "doi": "10.1037/t11274-000",
+      "url": "https://doi.org/10.1037/t11274-000",
+      "type": "primary"
+    },
+    {
+      "text": "Matthews, G., & Clance, P. R. (1985). Treatment of the impostor phenomenon in psychotherapy clients. Psychotherapy in Private Practice, 3(1), 71-81. Named as existing; its content here is taken from Bravata and colleagues' summary table, which records 41 clients and no stated prevalence.",
+      "doi": "10.1300/j294v03n01_09",
+      "url": "https://doi.org/10.1300/j294v03n01_09",
+      "type": "primary"
+    },
+    {
+      "text": "Sakulku, J., & Alexander, J. (2011). The impostor phenomenon. International Journal of Behavioral Science, 6(1), 73-92. Read for this entry as the route by which the 70% figure entered the peer-reviewed literature.",
+      "url": "https://www.sciencetheearth.com/uploads/2/4/6/5/24658156/2011_sakulku_the_impostor_phenomenon.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Gravois, J. (2007). You're not fooling anyone. The Chronicle of Higher Education, 54(11), A1. The source cited for the 70% figure. Paywalled; this entry uses ERIC's record of it, not the article.",
+      "url": "https://eric.ed.gov/?id=EJ782339",
+      "type": "commentary"
+    },
+    {
+      "text": "Mak, K. K. L., Kleitman, S., & Abbott, M. J. (2019). Impostor phenomenon measurement scales: A systematic review. Frontiers in Psychology, 10, 671. Concludes that it would be premature to call the Clance scale the gold standard measure.",
+      "doi": "10.3389/fpsyg.2019.00671",
+      "url": "https://doi.org/10.3389/fpsyg.2019.00671",
+      "type": "commentary"
+    },
+    {
+      "text": "Feenstra, S., Begeny, C. T., Ryan, M. K., Rink, F. A., Stoker, J. I., & Jordan, J. (2020). Contextualizing the impostor 'syndrome'. Frontiers in Psychology, 11, 575024.",
+      "doi": "10.3389/fpsyg.2020.575024",
+      "url": "https://doi.org/10.3389/fpsyg.2020.575024",
+      "type": "commentary"
+    },
+    {
+      "text": "Gullifor, D. P., Gardner, W. L., Karam, E. P., Noghani, F., & Cogliser, C. C. (2024). The impostor phenomenon at work: A systematic evidence-based review, conceptual development, and agenda for future research. Journal of Organizational Behavior, 45(2), 234-251. Named as existing; the full text returned HTTP 403 and nothing here is taken from it beyond its abstract's count of 188 works.",
+      "doi": "10.1002/job.2733",
+      "url": "https://doi.org/10.1002/job.2733",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
