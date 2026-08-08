@@ -1,0 +1,94 @@
+{
+  "no": 48,
+  "slug": "hindsight-bias",
+  "name": "Hindsight bias",
+  "aliases": ["Knew-it-all-along effect", "Creeping determinism", "I-knew-it-would-happen effect"],
+  "category": "decision",
+  "statement": "Once people learn how something turned out, they rate that outcome as having been more likely all along, and cannot set the knowledge aside when asked to.",
+  "meaning": "The claim has two halves and the second is the one that bites. Learning an outcome raises the probability people attach to it, which on its own could be sensible updating. The bias is that they then cannot recover the view they held before, so they credit their earlier selves, and other people, with foresight nobody had. Fischhoff called the tendency to see reported outcomes as having been near inevitable 'creeping determinism'. Roese and Vohs separate three levels: misremembering one's own earlier judgement, believing the event had to happen, and believing one could have predicted it. The levels have different measures and do not have to move together.",
+  "origin": {
+    "year": 1975,
+    "who": "Baruch Fischhoff",
+    "where": "Journal of Experimental Psychology: Human Perception and Performance",
+    "note": "Three experiments from a Hebrew University doctoral dissertation. Students read 150-word accounts of the 1814 British campaign against the Gurkas of Nepal, a 1967 near-riot in Atlanta and two clinical cases, each with four possible outcomes, and rated how likely each outcome was. Groups told which outcome had happened raised its probability, and could not undo the shift when instructed to answer as though they did not know."
+  },
+  "evidence": "Fischhoff's Experiment 1 gave 24 chances to test the prediction, four outcomes across six subexperiments. Reporting an outcome raised its rated probability in all 24, by between 3.6 and 23.4 percentage points, mean 10.8. Converted to odds, the report roughly doubled an outcome's perceived likelihood, with likelihood ratios from 1.2 to 3.5 and a mean of 1.96. Experiment 2 asked 80 students to answer as they would have without outcome knowledge; the gap against the uninformed groups was still 9.2 points. Experiment 3 asked 94 students to guess what outcome-ignorant students elsewhere had said, and the gap was 8.7 points. Fischhoff also read the relevance ratings: which sentences of the passage looked important depended on which ending the reader had been given. Applied work finds the same pattern outside the laboratory. Banham-Hall and Stevens gave 93 clinicians identical case notes for a fictional governance meeting and randomised the ending. Care for a patient with a swollen leg scored a median of 4 out of 5 when the patient recovered and 2 when the patient died the next day, p < 0.00001; a headache case scored 3 against 2, p = 0.0003; a chest pain case scored 4 against 3, p = 0.1074.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A preregistered replication half a century later reproduced the effect in the same materials, smaller than the original and clearly present.",
+    "detail": "Chen, Feldman and colleagues ran very close replications of two of the classic studies. Study 1 (N = 890) repeated Fischhoff's Experiment 2 and found hindsight bias in retrospective judgements, dmean = 0.60. All eight contrasts pointed the same way as the original; five reached significance, and four of the eight replication intervals covered d = 1.13, which is the figure Chen and colleagues estimated from the statistics Fischhoff reported rather than one he printed. The two clinical vignettes were dropped in consultation with Fischhoff because the stimuli no longer read as they did in 1975. Study 2 (N = 608) repeated Slovic and Fischhoff's 1977 prospective experiment and found the effect in four of eight comparisons, dmean = 0.40. Study 3 (N = 520) asked people to predict whether a replication of Fischhoff would succeed, and outcome knowledge moved those estimates too, d = 0.43 to 1.03. Two meta-analyses agree with the smaller of these figures rather than the original. Guilbault, Bryant, Brockway and Posavac pooled 252 independent effect sizes from 95 studies and report Md = .39, 95% CI .36 to .42.",
+    "study": {
+      "cite": "Chen, J., Kwan, L. C., Ma, L. Y., Choi, H. Y., Lo, Y. C., Au, S. Y., Tsang, C. H., Cheng, B. L., & Feldman, G. (2021). Retrospective and prospective hindsight bias: Replications and extensions of Fischhoff (1975) and Slovic and Fischhoff (1977). Journal of Experimental Social Psychology, 96, 104154.",
+      "doi": "10.1016/j.jesp.2021.104154",
+      "year": 2021,
+      "n": 890
+    },
+    "original": { "es": 1.13, "esType": "d", "ci": [0.44, 1.82], "ciLevel": 95 },
+    "replicated": { "es": 0.6, "esType": "d" }
+  },
+  "limits": "The Guilbault meta-analysis was not obtained in full. Its pooled figure here comes from the published abstract as indexed by OpenAlex, and the moderators behind it were not read. Christensen-Szalanski and Willham's 1991 review of 122 studies was not obtained at all, and the two sources that quote it disagree: Chen and colleagues give d = 0.35 with a 95% interval of 0.28 to 0.41 before correction and d = 0.52 after, while Fischhoff's own 2025 retrospective calls 0.34 the corrected figure over the same interval. Neither number is printed in the structured fields for that reason. No multi-laboratory replication of the Fischhoff materials was found; the Chen study is preregistered but ran at one site through online samples. The three levels Roese and Vohs describe are measured differently, so a pooled effect size across the literature averages over tasks that may not be measuring one thing.",
+  "misreadings": "The catchiest name for the effect overstates it. Fischhoff and Beyth titled their 1972 Nixon study 'I knew it would happen', and Fischhoff wrote in 2025 that a better title would have been the less catchy 'I-wasn't-all-that-surprised effect', because people do not recall having been certain, only less surprised than they were. Expertise is not a defence. Christensen-Szalanski and Willham found expertise associated with less bias, Guilbault and colleagues, using more studies and a tighter definition, found no relation, and Knoll and Arkes found across three experiments that expertise made it worse where people had a feeling of knowing the answer. Debiasing is oversold in both directions. Arkes, Faust, Guilmette and Hart titled their study 'Eliminating the hindsight bias', and what 194 neuropsychologists asked to give a reason for each candidate diagnosis actually showed was a lower rate of succumbing, chi-square(1, N = 140) = 4.12, p < .05, not elimination. Guilbault and colleagues report that across the literature studies including manipulations meant to reduce hindsight bias did not produce lower effect sizes. Fischhoff's own 1977 attempt at lengthy debiasing instructions did not work either, on his account. Considering the alternative helps when it is applied to a small number of specific outcomes and it does not switch the effect off.",
+  "sources": [
+    {
+      "text": "Fischhoff, B. (1975). Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299.",
+      "doi": "10.1037/0096-1523.1.3.288",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Fischhoff_1975_Hindsight_is_not_equal_to_foresight.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Chen, J., Kwan, L. C., Ma, L. Y., Choi, H. Y., Lo, Y. C., Au, S. Y., Tsang, C. H., Cheng, B. L., & Feldman, G. (2021). Retrospective and prospective hindsight bias: Replications and extensions of Fischhoff (1975) and Slovic and Fischhoff (1977). Journal of Experimental Social Psychology, 96, 104154. Preprint and data at https://osf.io/nrwpv/.",
+      "doi": "10.1016/j.jesp.2021.104154",
+      "url": "https://osf.io/download/vywke/",
+      "type": "replication"
+    },
+    {
+      "text": "Guilbault, R. L., Bryant, F. B., Brockway, J. H., & Posavac, E. J. (2004). A meta-analysis of research on hindsight bias. Basic and Applied Social Psychology, 26(2-3), 103-117. The pooled figure quoted here is from the abstract; the full text was not retrieved.",
+      "doi": "10.1080/01973533.2004.9646399",
+      "url": "https://api.openalex.org/works/doi:10.1080/01973533.2004.9646399",
+      "type": "replication"
+    },
+    {
+      "text": "Christensen-Szalanski, J. J. J., & Willham, C. F. (1991). The hindsight bias: A meta-analysis. Organizational Behavior and Human Decision Processes, 48(1), 147-168. Named as existing; its effect sizes were not read off this paper and are not printed here.",
+      "doi": "10.1016/0749-5978(91)90010-Q",
+      "url": "https://doi.org/10.1016/0749-5978(91)90010-Q",
+      "type": "replication"
+    },
+    {
+      "text": "Roese, N. J., & Vohs, K. D. (2012). Hindsight bias. Perspectives on Psychological Science, 7(5), 411-426.",
+      "doi": "10.1177/1745691612454303",
+      "url": "https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Fischhoff, B. (2025). Fifty years of hindsight bias research: Reflection on Fischhoff (1975). Journal of Experimental Psychology: Human Perception and Performance, 51(2), 143-150.",
+      "doi": "10.1037/xhp0001232",
+      "url": "https://psycnet.apa.org/fulltext/2025-76722-001.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Arkes, H. R., Faust, D., Guilmette, T. J., & Hart, K. (1988). Eliminating the hindsight bias. Journal of Applied Psychology, 73(2), 305-307. Read in abstract only.",
+      "doi": "10.1037/0021-9010.73.2.305",
+      "url": "https://api.openalex.org/works/doi:10.1037/0021-9010.73.2.305",
+      "type": "primary"
+    },
+    {
+      "text": "Knoll, M. A. Z., & Arkes, H. R. (2017). The effects of expertise on the hindsight bias. Journal of Behavioral Decision Making, 30(2), 389-399. Read in abstract only.",
+      "doi": "10.1002/bdm.1950",
+      "url": "https://api.openalex.org/works/doi:10.1002/bdm.1950",
+      "type": "primary"
+    },
+    {
+      "text": "Banham-Hall, E., & Stevens, S. (2019). Hindsight bias critically impacts on clinicians' assessment of care quality in retrospective case note review. Clinical Medicine, 19(1), 16-21.",
+      "doi": "10.7861/clinmedicine.19-1-16",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6399623/",
+      "type": "primary"
+    },
+    {
+      "text": "Slovic, P., & Fischhoff, B. (1977). On the psychology of experimental surprises. Journal of Experimental Psychology: Human Perception and Performance, 3(4), 544-551. Cited as the target of Chen and colleagues' second study; not retrieved for this entry.",
+      "doi": "10.1037/0096-1523.3.4.544",
+      "url": "https://doi.org/10.1037/0096-1523.3.4.544",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

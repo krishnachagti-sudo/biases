@@ -1,0 +1,89 @@
+{
+  "no": 50,
+  "slug": "optimism-bias",
+  "name": "Optimism bias",
+  "aliases": [
+    "Unrealistic optimism",
+    "Comparative optimism",
+    "Optimistic belief updating"
+  ],
+  "category": "belief",
+  "statement": "Asked to compare themselves with their peers, people rate their own chances as above average for good events and below average for bad ones.",
+  "meaning": "Two separate literatures travel under the name. The older one asks for a comparative judgement: how do your chances of divorce, or of owning a home, compare with the average student's? Since everyone cannot be below average on the same risk, a group whose answers skew one way is making a collective error, and that is what makes the bias testable at all. The newer literature asks how people revise a personal risk estimate after being told the population base rate. Its claim is about asymmetry: good news moves the estimate more than bad news does. Both are claims about a mechanism, and both rest on the assumption that an unbiased person would produce a symmetric pattern in the measure being used. That assumption is what the last fifteen years have been arguing about.",
+  "origin": {
+    "year": 1980,
+    "who": "Neil D. Weinstein",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Weinstein's paper named the effect and set the method every later study copied, though he cites earlier surveys of drivers, crime victims and patients pointing the same way."
+  },
+  "evidence": "Weinstein asked 258 students at Cook College how their own chances of 42 life events compared with those of classmates of the same sex, on a fifteen-point scale from 100% less to 400% more. Means ran in the optimistic direction for 37 of the 42 events, p < .001 by the binomial test. Averaged over the 18 positive events the mean comparative judgement was 15.4%, t(255) = 6.8; over the 24 negative events it was -20.4%, t(255) = 13.9, both p < .001. The extremes were liking your postgraduation job at 50.2% and having a drinking problem at -58.3%. The updating version comes from Sharot, Korn and Dolan, who scanned 19 participants estimating their risk of 80 adverse events, then gave them the average probability and asked again. Mean absolute update was 11.2 when the news was better than expected and 7.7 when it was worse, t(18) = 4.4, p < 0.001, a pattern present in 79% of participants.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The data pattern reproduces reliably. Whether it shows optimism, or shows what an unbiased reasoner would produce in the same task, is still disputed in print.",
+    "detail": "Harris and Hahn argued in Psychological Review that the comparative method cannot separate the two. Bounded response scales, sampling constraints and the rarity of genuinely bad events mean unbiased agents generate the apparent optimism for statistical reasons. Harris, de Molière, Soh and Hahn then went looking for a motivational signal and did not find one. In a rerun of Weinstein's task with 102 students, comparative judgements tracked how common an event was, F(1, 101) = 146.50, p < .001, with no effect of whether it was good or bad, F(1, 101) = 1.32, p = .25. Rare positive events drew pessimism. A design without the problematic scale, run on 389 Mechanical Turk participants, found no self versus other difference at all. The updating paradigm is where the two camps meet head on. Shah, Harris, Bird, Catmur and Hahn added positive events to Sharot's task and the asymmetry flipped: more updating on desirable news for negative events, t(12) = 4.73, and more on undesirable news for positive events, t(12) = -2.78, interaction F(1, 12) = 29.39, p < .001. Garrett and Sharot replied that the positive events carried unvalidated base rates whose skew produces that reversal by itself, and reported optimistic updating for both event types in 142 participants, t = -4.88 and t = -2.88. Burton, Harris, Shah and Hahn then obtained the asymmetry using valence-neutral events across three preregistered experiments, combined N = 300. Garrett and Sharot failed to replicate that in a sample of 100, F(1, 81.94) = 0.11, p = 0.74, and reported that a fourth experiment of 200 participants sat unreported in the analysis code. Outside the dispute, Kube, Huhn and Menzel found no updating asymmetry about climate change in 109 people and a small one in 604, d = 0.16.",
+    "study": {
+      "cite": "Shah, P., Harris, A. J. L., Bird, G., Catmur, C., & Hahn, U. (2016). A pessimistic view of optimistic belief updating. Cognitive Psychology, 90, 71-127.",
+      "doi": "10.1016/j.cogpsych.2016.05.004",
+      "year": 2016
+    }
+  },
+  "limits": "Nobody has run a multi-site registered replication of either paradigm, so the record is a series of small studies by two research groups who disagree about method. Sample sizes on both sides are modest: 19 in the original scanning study, 13 in the experiment that reversed it, 142 in the reply. The critique is narrower than it is often taken to be. Harris and Hahn attack the inference from comparative and updating measures, not the proposition that people hold rosy beliefs, and they say the magnitude and mechanism are unknown rather than that the bias is absent. Where optimism is measured some other way, by comparing a stated expectation against a later outcome, none of this argument applies. Kube, Huhn and Menzel's small effect in 604 participants suggests any residual asymmetry is far below what the early papers implied.",
+  "misreadings": "The famous claim is not that people expect good things. It is that they expect better things than their own circumstances warrant, which requires a benchmark, and the benchmark is where the trouble lives. The figure of 80% of people being optimistically biased belongs to no study cited here. Weinstein's own data are not uniform: two of his 24 negative events, being a burglary victim and being injured in a car accident, came out in the pessimistic direction. The reversal Shah and colleagues found for positive events is also not a demonstration of pessimism about life. It is a demonstration that the measure produces whatever the base rates make it produce. Neither is the debate settled by the neuroimaging. Sharot, Korn and Dolan located prefrontal tracking of estimation errors, and a neural correlate of a behavioural measure inherits every question hanging over that measure.",
+  "sources": [
+    {
+      "text": "Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806-820.",
+      "doi": "10.1037/0022-3514.39.5.806",
+      "url": "https://doi.org/10.1037/0022-3514.39.5.806",
+      "type": "primary"
+    },
+    {
+      "text": "Sharot, T., Korn, C. W., & Dolan, R. J. (2011). How unrealistic optimism is maintained in the face of reality. Nature Neuroscience, 14(11), 1475-1479.",
+      "doi": "10.1038/nn.2949",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3204264/",
+      "type": "primary"
+    },
+    {
+      "text": "Harris, A. J. L., & Hahn, U. (2011). Unrealistic optimism about future life events: A cautionary note. Psychological Review, 118(1), 135-154.",
+      "doi": "10.1037/a0020997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21058872/",
+      "type": "commentary"
+    },
+    {
+      "text": "Shah, P., Harris, A. J. L., Bird, G., Catmur, C., & Hahn, U. (2016). A pessimistic view of optimistic belief updating. Cognitive Psychology, 90, 71-127.",
+      "doi": "10.1016/j.cogpsych.2016.05.004",
+      "url": "https://discovery.ucl.ac.uk/1493340/7/Harris_1-s2.0-S0010028516301177-main.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Garrett, N., & Sharot, T. (2017). Optimistic update bias holds firm: Three tests of robustness following Shah et al. Consciousness and Cognition, 50, 12-22.",
+      "doi": "10.1016/j.concog.2016.10.013",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380127/",
+      "type": "replication"
+    },
+    {
+      "text": "Harris, A. J. L., de Molière, L., Soh, M., & Hahn, U. (2017). Unrealistic comparative optimism: An unsuccessful search for evidence of a genuinely motivational bias. PLOS ONE, 12(3), e0173136.",
+      "doi": "10.1371/journal.pone.0173136",
+      "url": "https://doi.org/10.1371/journal.pone.0173136",
+      "type": "replication"
+    },
+    {
+      "text": "Burton, J. W., Harris, A. J. L., Shah, P., & Hahn, U. (2022). Optimism where there is none: Asymmetric belief updating observed with valence-neutral life events. Cognition, 218, 104939.",
+      "doi": "10.1016/j.cognition.2021.104939",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10136229/1/burtonEtAl_2021_msAndSI.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Garrett, N., & Sharot, T. (2023). There is no belief update bias for neutral events: failure to replicate Burton et al. (2022). Journal of Cognitive Psychology, 35(8), 876-886.",
+      "doi": "10.1080/20445911.2023.2245112",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10591604/",
+      "type": "replication"
+    },
+    {
+      "text": "Kube, T., Huhn, J., & Menzel, C. (2025). Optimistic bias in updating beliefs about climate change longitudinally predicts low pro-environmental behaviour. British Journal of Social Psychology, 64(3).",
+      "doi": "10.1111/bjso.12905",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12095902/",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

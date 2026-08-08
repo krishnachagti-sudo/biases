@@ -1,0 +1,94 @@
+{
+  "no": 54,
+  "slug": "embodied-cognition",
+  "name": "Embodied cognition",
+  "aliases": ["Grounded cognition", "Social embodiment", "Embodied metaphor"],
+  "category": "social",
+  "statement": "Warm cups and heavy clipboards are said to shift social judgement, on the theory that abstract thought runs on the body's experience of the physical world.",
+  "meaning": "Embodied cognition is a research programme rather than a single bias, and this entry covers one wing of it. Beek and colleagues summarise the underlying theory as the claim that cognitive representations are grounded in the brain's sensorimotor systems, so that a bodily state can trigger a related concept and the reverse. Social psychology turned that into a set of short, cheap experiments. Hand someone a warm drink and they should judge a stranger as warmer. Hand them a heavy clipboard and abstract matters should seem weightier. Those demonstrations are what is assessed here, because they are the ones with a replication record. The site treats two further members of the family separately: see the Macbeth effect for moral cleansing, and facial feedback for the pen-in-mouth study.",
+  "origin": {
+    "year": 2008,
+    "who": "Lawrence E. Williams and John A. Bargh",
+    "where": "Science",
+    "note": "Their paper is \"Experiencing Physical Warmth Promotes Interpersonal Warmth\". The wider embodiment programme in cognitive science is older, and this date marks the demonstration that made temperature and weight priming a standard social-psychology paradigm rather than the programme's founding."
+  },
+  "evidence": "Two paradigms carried most of the weight. In Williams and Bargh's first study 41 people briefly held a hot or iced coffee and then rated a stranger's personality, an effect Chabris and colleagues put at r = 0.28. In the second, participants evaluated a hot or cold therapeutic pack and then chose a reward for themselves or a friend: 75% of the cold-pack group chose for themselves against 46% of the warm-pack group, an odds ratio of 3.52 with a 95% interval from 1.06 to 11.73, on 50 analysed participants. The clipboard line ran in parallel. Jostmann, Lakens and Schubert had 51 Dutch students complete a questionnaire on a 2.25 lb or a 1.45 lb clipboard, and those on the heavy board rated it more important that a university committee hear students out, 5.27 against 4.21, d = 0.59 with a 95% interval from 0.01 to 1.16. Ackerman, Nocera and Bargh reported in Science that a 2,041 g clipboard rather than a 340 g one made a job candidate's resume read as better and more serious.",
+  "replication": {
+    "state": "failed",
+    "headline": "Twenty labs ran the heavy-clipboard study on 2,285 people and the gap in judged importance was 0.02 points on a seven-point scale.",
+    "detail": "Many Labs 3 repeated the Jostmann clipboard study across 20 participant pools. The heavy group rated the issue 6.16 and the light group 6.14, giving d = 0.03 with a 95% interval from -0.06 to 0.11 against an original of 0.59. The same project ran a second embodiment item, in which reading about a warm person had made Polish students estimate the room as warmer, d = 0.86. Across 3,119 people the two descriptions produced estimates of 71.42 and 71.38 degrees, d = 0.01 with a 95% interval from -0.06 to 0.08. The coffee-cup line failed on its own. Lynott and six colleagues ran three preregistered, double-blind replications of the heat-pack study on 861 people and found an odds ratio of 0.77, 95% interval 0.58 to 1.02, pointing away from the original prediction. Chabris and colleagues rebuilt both Williams and Bargh studies in the field with 128 and 177 participants and reported r = -0.03 and 0.02 against originals of 0.28 and 0.31. A preregistered Bayesian test of the Ackerman resume study on 117 people, with Jostmann among its authors, found the data 16 times more likely under no difference than under the predicted one.",
+    "study": {
+      "cite": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "year": 2016,
+      "sites": 20,
+      "n": 2285
+    },
+    "original": { "es": 0.59, "esType": "d", "ci": [0.01, 1.16], "ciLevel": 95 },
+    "replicated": { "es": 0.03, "esType": "d", "ci": [-0.06, 0.11], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "What failed is the social-priming wing, not embodiment as a whole. The sensorimotor-grounding literature in cognitive science is a separate body of work with its own unsettled record: Courson and Tremblay's 2020 meta-analysis calls the motor system's involvement in action language processing \"still controversial\" and reads the evidence as pointing to a cognitive rather than a purely motoric role, while 18 labs testing the action-sentence compatibility effect found a meta-analytic estimate near zero. Neither result is about warm cups, and neither is settled. Two caveats attach to the clipboard replication itself. Ratings in both conditions sat within a point of the scale ceiling, which cost the test power, and the original sample was Dutch where Many Labs 3 sampled North America. Its authors say separating a real population difference from an unusual original sample would need a replication run in the Netherlands. The Chabris paper was read at its publisher's abstract and a university repository record rather than in full, the full text being paywalled.",
+  "misreadings": "The commonest error is to read these failures as a verdict on embodied cognition in general. They are a verdict on a family of brief social-priming manipulations, and the grounding claims in language and concept research stand or fall on their own evidence. The second error runs the other way. Bargh and Melnikoff answered Chabris by arguing that fresh shop coffee is piping hot rather than pleasantly warm, and that the predicted pattern appears among the fourth and fifth people to hold a given cup, at p = 0.08; they describe this as a post hoc story requiring further testing, which is how it should be quoted. The third is scale. Warm-cup and heavy-clipboard studies still appear in management writing and popular science as established, usually citing samples of 41 or 51 people against replications running past 2,000.",
+  "sources": [
+    {
+      "text": "Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. Science, 322(5901), 606-607.",
+      "doi": "10.1126/science.1162548",
+      "url": "https://doi.org/10.1126/science.1162548",
+      "type": "primary"
+    },
+    {
+      "text": "Jostmann, N. B., Lakens, D., & Schubert, T. W. (2009). Weight as an embodiment of importance. Psychological Science, 20(9), 1169-1174.",
+      "doi": "10.1111/j.1467-9280.2009.02426.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2009.02426.x",
+      "type": "primary"
+    },
+    {
+      "text": "Ackerman, J. M., Nocera, C. C., & Bargh, J. A. (2010). Incidental haptic sensations influence social judgments and decisions. Science, 328(5986), 1712-1715.",
+      "doi": "10.1126/science.1189993",
+      "url": "https://doi.org/10.1126/science.1189993",
+      "type": "primary"
+    },
+    {
+      "text": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82. Source for both the clipboard and the room-temperature figures.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "url": "https://doi.org/10.1016/j.jesp.2015.10.012",
+      "type": "replication"
+    },
+    {
+      "text": "Lynott, D., Corker, K. S., Wortman, J., Connell, L., Donnellan, M. B., Lucas, R. E., & O'Brien, K. (2014). Replication of \"Experiencing physical warmth promotes interpersonal warmth\" by Williams and Bargh (2008). Social Psychology, 45(3), 216-222.",
+      "doi": "10.1027/1864-9335/a000187",
+      "url": "https://doi.org/10.1027/1864-9335/a000187",
+      "type": "replication"
+    },
+    {
+      "text": "Chabris, C. F., Heck, P. R., Mandart, J., Benjamin, D. J., & Simons, D. J. (2019). No evidence that experiencing physical warmth promotes interpersonal warmth: Two failures to replicate Williams and Bargh (2008). Social Psychology, 50(2), 127-132. Read at the publisher record and the University of Illinois repository abstract, not in full.",
+      "doi": "10.1027/1864-9335/a000361",
+      "url": "https://doi.org/10.1027/1864-9335/a000361",
+      "type": "replication"
+    },
+    {
+      "text": "Beek, T. F., Matzke, D., Pinto, Y., Rotteveel, M., Gierholz, A., Verhagen, J., Selker, R., Sasiadek, A., Steingroever, H., Jostmann, N. B., & Wagenmakers, E.-J. (2018). Incidental haptic sensations may not influence social judgments: A purely confirmatory replication attempt of Study 1 by Ackerman, Nocera, and Bargh (2010). Journal of Articles in Support of the Null Hypothesis, 14(2), 69-90.",
+      "url": "https://www.jasnh.com/pdf/Vol14-No2-article1.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Bargh, J. A., & Melnikoff, D. (2019). Does physical warmth prime social warmth? Reply to Chabris et al. (2019). Social Psychology, 50(3), 207-210.",
+      "doi": "10.1027/1864-9335/a000387",
+      "url": "https://doi.org/10.1027/1864-9335/a000387",
+      "type": "commentary"
+    },
+    {
+      "text": "Morey, R. D., Kaschak, M. P., Diez-Alamo, A. M., Glenberg, A. M., Zwaan, R. A., et al. (2022). A pre-registered, multi-lab non-replication of the action-sentence compatibility effect (ACE). Psychonomic Bulletin & Review, 29(2), 613-626.",
+      "doi": "10.3758/s13423-021-01927-8",
+      "url": "https://doi.org/10.3758/s13423-021-01927-8",
+      "type": "context"
+    },
+    {
+      "text": "Courson, M., & Tremblay, P. (2020). Neural correlates of manual action language: Comparative review, ALE meta-analysis and ROI meta-analysis. Neuroscience & Biobehavioral Reviews, 116, 221-238.",
+      "doi": "10.1016/j.neubiorev.2020.06.025",
+      "url": "https://doi.org/10.1016/j.neubiorev.2020.06.025",
+      "type": "context"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
