@@ -44,7 +44,7 @@ build/            the build, and the checks that run against its output
   cards.mjs         the share card, rasterised at build time
 src/
   assets/           stylesheet, client JS, self-hosted fonts and icons
-  data/biases/      the corpus. Empty.
+  data/biases/      the corpus, one JSON file per bias
   templates/        the pages
 docs/
   ENTRY-SCHEMA.md   what an entry contains, and the rules the build enforces
@@ -76,10 +76,19 @@ Entries are written from the published literature, read directly. Nothing is
 written from memory, and every factual claim links to something a reader can
 open.
 
-Replication figures are quoted from
+Replication figures are read off the replication papers themselves.
 [FORRT's Replication Database](https://doi.org/10.17605/OSF.IO/9R62X)
-(Röseler et al., *Journal of Open Psychology Data*), CC BY 4.0. They are
-attributed, never assessed here. An entry with no replication record says so —
-silence in the database is not evidence either way.
+(Röseler et al., *Journal of Open Psychology Data*, CC BY 4.0) is used to find
+out that a replication exists; what it found comes from the paper.
+
+That distinction is the first thing the schema enforces, because it is not
+academic. FReD holds 36 rows for the sunk-cost effect, one per site of a single
+multi-site study, and its summary column marks most of them as finding no
+signal. The paper those rows come from reports the effect replicating across all
+36 sites at p < .001, slightly larger than the original. Quoting the aggregator
+would have published the opposite of what the study found.
+
+An entry with no replication located says so, and says it as a fact about the
+literature rather than a verdict on the effect.
 
 The corpus is licensed CC BY 4.0. The code is not licensed — see `LICENSE`.
