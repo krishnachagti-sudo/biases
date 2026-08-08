@@ -41,6 +41,9 @@ export const REPLICATION_STATES = ['replicated', 'failed', 'mixed', 'none-locate
 /** Effect-size metrics we will print. A bare number is not an effect size. */
 export const ES_TYPES = ['d', 'g', 'r', 'eta2', 'OR', 'beta'];
 
+/** Confidence levels a paper might report. Required alongside any interval. */
+export const CI_LEVELS = [90, 95, 99];
+
 const STATEMENT_MAX = 200;
 
 const isDate = (s) => typeof s === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(s) && !Number.isNaN(Date.parse(s));
@@ -118,6 +121,11 @@ export function validate(entry, { today = new Date().toISOString().slice(0, 10) 
       if (typeof e.es !== 'number') p.push(`replication.${side}.es must be a number`);
       if (!ES_TYPES.includes(e.esType)) p.push(`replication.${side}.esType "${e.esType}" is not one of ${ES_TYPES.join(', ')}`);
       if (e.ci !== undefined) {
+        // An interval without its level is not a quotable figure: 0.22 to 0.39
+        // means something different at 95% and at 99%, and the template used to
+        // supply a level of its own, which is how a 95% interval from one paper
+        // got printed as 99%.
+        if (!CI_LEVELS.includes(e.ciLevel)) p.push(`replication.${side}.ciLevel must be one of ${CI_LEVELS.join(', ')} — an interval must state its level`);
         if (!Array.isArray(e.ci) || e.ci.length !== 2 || e.ci.some((x) => typeof x !== 'number')) p.push(`replication.${side}.ci must be [lower, upper]`);
         else if (e.ci[0] > e.ci[1]) p.push(`replication.${side}.ci is inverted`);
         else if (typeof e.es === 'number' && (e.es < e.ci[0] || e.es > e.ci[1])) p.push(`replication.${side}.es ${e.es} lies outside its own interval`);

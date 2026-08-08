@@ -43,10 +43,19 @@ const REPLICATION_CLASS = {
 // carelessly transcribed rather than quoted.
 const dp2 = (n) => Number(n).toFixed(2);
 
-/** `d = 0.31 (99% CI 0.22 to 0.39)`, or '' when there is no number to print. */
-function esLine(e, ciLabel = '95% CI') {
+/**
+ * `d = 0.31 (99% CI 0.22 to 0.39)`, or '' when there is no number to print.
+ *
+ * The interval's level comes from the entry, never from this function. It was
+ * briefly hardcoded — 95% for the original, 99% for the replication, which is
+ * what the first entry's paper happened to report — and the second entry then
+ * printed a 95% interval from its own source labelled 99%. Restating someone
+ * else's number at the wrong confidence level is a quiet way to be wrong about
+ * a quoted figure, so the level is data now and the schema requires it.
+ */
+function esLine(e) {
   if (!e || typeof e.es !== 'number') return '';
-  const ci = Array.isArray(e.ci) ? ` (${ciLabel} ${dp2(e.ci[0])} to ${dp2(e.ci[1])})` : '';
+  const ci = Array.isArray(e.ci) ? ` (${e.ciLevel || 95}% CI ${dp2(e.ci[0])} to ${dp2(e.ci[1])})` : '';
   return `${escapeHtml(e.esType)} = ${dp2(e.es)}${ci}`;
 }
 
@@ -84,8 +93,8 @@ function replicationBlock(r, { base }) {
   // Both effect sizes, side by side, because the comparison IS the finding.
   // Printing only the replication's number leaves a reader unable to tell a
   // shrunken effect from one that grew.
-  const orig = esLine(r.original, '95% CI');
-  const rep = esLine(r.replicated, '99% CI');
+  const orig = esLine(r.original);
+  const rep = esLine(r.replicated);
   const numbers = (orig || rep)
     ? `      <div class="vd-cmp">
 ${orig ? `        <div class="vd-c"><span class="vd-cn">${orig}</span><span class="vd-cl">in the original study</span></div>\n` : ''}${rep ? `        <div class="vd-c"><span class="vd-cn">${rep}</span><span class="vd-cl">pooled across the replication${r.replicated && r.replicated.weighting ? `, ${escapeHtml(r.replicated.weighting)}` : ''}</span></div>\n` : ''}      </div>

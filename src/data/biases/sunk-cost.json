@@ -2,7 +2,11 @@
   "no": 1,
   "slug": "sunk-cost",
   "name": "Sunk cost",
-  "aliases": ["Sunk cost fallacy", "Sunk cost effect", "Escalation of commitment"],
+  "aliases": [
+    "Sunk cost fallacy",
+    "Sunk cost effect",
+    "Escalation of commitment"
+  ],
   "category": "decision",
   "statement": "People keep going with something because of what they have already spent on it, even when what they have spent cannot be recovered and should not affect the choice.",
   "meaning": "A cost is sunk when it is already paid and no future decision can get it back. Standard decision theory says such costs are irrelevant: the only question is whether continuing is worth more than stopping, from here. The sunk-cost effect is the finding that people do not behave that way. The size of what has already gone in shifts the decision toward continuing, and it shifts it in a direction that cannot be justified by the remaining costs and benefits.",
@@ -24,8 +28,25 @@
       "sites": 36,
       "n": 6330
     },
-    "original": { "es": 0.23, "esType": "d", "ci": [-0.04, 0.5] },
-    "replicated": { "es": 0.31, "esType": "d", "ci": [0.22, 0.39], "weighting": "unweighted" },
+    "original": {
+      "es": 0.23,
+      "esType": "d",
+      "ci": [
+        -0.04,
+        0.5
+      ],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.31,
+      "esType": "d",
+      "ci": [
+        0.22,
+        0.39
+      ],
+      "weighting": "unweighted",
+      "ciLevel": 99
+    },
     "indexedBy": "FReD"
   },
   "limits": "What replicated is a vignette, not a decision with anything at stake. Participants imagined a football ticket; nobody was cold and nobody was out of pocket. The pooled effect is also small: d = 0.31 means the distributions of the paid and free groups overlap heavily, and it describes an average shift, not a rule any individual follows. And the effect as tested says nothing about why: Arkes and Blumer's own explanation was that people do not want to appear wasteful, which is a different mechanism from loss aversion or from self-justification, and the vignette cannot tell them apart.",

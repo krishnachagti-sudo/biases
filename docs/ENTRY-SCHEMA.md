@@ -49,8 +49,8 @@ The field the site exists for, and the one with the strictest rules.
   "headline": "one sentence a reader can act on",
   "detail": "the numbers, and what they mean",
   "study": { "cite": "…", "doi": "10.…", "year": 2014, "sites": 36, "n": 6330 },
-  "original": { "es": 0.23, "esType": "d", "ci": [-0.04, 0.5] },
-  "replicated": { "es": 0.31, "esType": "d", "ci": [0.22, 0.39], "weighting": "unweighted" },
+  "original": { "es": 0.23, "esType": "d", "ci": [-0.04, 0.5], "ciLevel": 95 },
+  "replicated": { "es": 0.31, "esType": "d", "ci": [0.22, 0.39], "ciLevel": 99, "weighting": "unweighted" },
   "indexedBy": "FReD" }
 ```
 
@@ -67,6 +67,10 @@ Rules the validator enforces:
 - Any state other than `none-located` requires `study.cite` and a `doi` or `url`.
 - `es` values must come with an `esType`, because a bare 0.31 is not a number,
   it is three different numbers depending on the metric.
+- Any `ci` must come with a `ciLevel` (90, 95 or 99). The template used to supply
+  the level itself, hardcoded per side from whatever the first entry's paper
+  happened to report; the second entry's 95% interval was duly printed as 99%.
+  Papers choose their own level and a quoted interval has to carry it.
 - `indexedBy` names the database that *pointed* at the study. It is never the
   source for what the study found — see below.
 

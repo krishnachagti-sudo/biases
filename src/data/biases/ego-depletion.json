@@ -1,0 +1,71 @@
+{
+  "no": 2,
+  "slug": "ego-depletion",
+  "name": "Ego depletion",
+  "aliases": [
+    "Strength model of self-control",
+    "Resource depletion model"
+  ],
+  "category": "social",
+  "statement": "Exerting self-control drains a limited resource, so someone who has just resisted one temptation does worse at the next task that needs willpower.",
+  "meaning": "The strength model treats self-control as a fuel tank rather than a skill. Resisting a biscuit, suppressing an emotion or forcing attention onto a dull task all draw on the same supply, and the supply runs down within minutes. The prediction that made the model famous is specific and testable: performance on a second, unrelated self-control task should fall simply because a first one was performed. That state of reduced capacity is what ego depletion names.",
+  "origin": {
+    "year": 1998,
+    "who": "Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven and Dianne M. Tice",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their paper asked the question in its title: \"Ego depletion: Is the active self a limited resource?\" The model became one of the most influential ideas in social psychology, and a 2010 meta-analysis by Hagger, Wood, Stiff and Chatzisarantis in Psychological Bulletin reported a medium-sized effect across the literature."
+  },
+  "evidence": "Almost every test uses the same shape, the sequential-task paradigm: participants perform an initial task demanding self-control, then a second unrelated one, and the second task's performance is compared against a control group who skipped the first. Hundreds of experiments of this form were published, and the 2010 meta-analysis pooled them into a medium-sized effect. Later meta-analyses questioned both the size and the existence of that effect, and identified signs of publication bias in the underlying literature. Those analyses are what prompted the field to test the paradigm directly rather than pool it again.",
+  "replication": {
+    "state": "failed",
+    "headline": "Twenty-three laboratories ran the same preregistered protocol on 2,141 people and found an effect indistinguishable from zero.",
+    "detail": "The Registered Replication Report used a single standardised protocol, agreed in advance, based on a sequential-task design from Sripada and colleagues. Pooled across all 23 labs the estimate was d = 0.04, with a 95% confidence interval from -0.07 to 0.15. An interval that spans zero and reaches no further than 0.15 in either direction does not merely fail to confirm the effect; it rules out an effect of the size the earlier literature reported. Note what this does and does not settle. It tests one protocol, chosen in advance and run identically everywhere, which is the design that makes a null result informative rather than ambiguous. It does not test every version of the paradigm ever published, and the model's proponents have argued that the chosen task was a poor test of it.",
+    "study": {
+      "cite": "Hagger, M. S., Chatzisarantis, N. L. D., Alberts, H., et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science, 11(4), 546-573.",
+      "doi": "10.1177/1745691616652873",
+      "year": 2016,
+      "sites": 23,
+      "n": 2141
+    },
+    "replicated": {
+      "es": 0.04,
+      "esType": "d",
+      "ci": [
+        -0.07,
+        0.15
+      ],
+      "weighting": "meta-analytic",
+      "ciLevel": 95
+    },
+    "indexedBy": "FReD"
+  },
+  "limits": "No original effect size is printed beside the replication here, because none could be verified from a source that can be opened. The 2010 meta-analysis is routinely quoted with a specific figure, but its abstract is not available from Crossref or from any open repository checked, so this entry says only what the replication report itself says about it, which is that it found a medium-sized effect. The honest comparison is therefore between a literature-wide pooled estimate and a single preregistered protocol, and those are not the same kind of number.",
+  "misreadings": "The result is often reported as proof that self-control is not a limited resource. It is not that. It is strong evidence against one specific prediction, tested through one specific task, at the size the literature claimed. Self-control still varies within a person over a day, and that variation still needs an explanation; what has failed is the fuel-tank account of it. The opposite misreading is also common: that a null result at 23 labs is just one study among hundreds. A preregistered protocol run identically across 23 sites is not one study among hundreds. It is the only one of them designed so that its answer could not be chosen after the fact.",
+  "sources": [
+    {
+      "text": "Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology, 74(5), 1252-1265.",
+      "doi": "10.1037/0022-3514.74.5.1252",
+      "url": "https://doi.org/10.1037/0022-3514.74.5.1252",
+      "type": "primary"
+    },
+    {
+      "text": "Hagger, M. S., Wood, C., Stiff, C., & Chatzisarantis, N. L. D. (2010). Ego depletion and the strength model of self-control: A meta-analysis. Psychological Bulletin, 136(4), 495-525.",
+      "doi": "10.1037/a0019486",
+      "url": "https://doi.org/10.1037/a0019486",
+      "type": "secondary"
+    },
+    {
+      "text": "Hagger, M. S., Chatzisarantis, N. L. D., Alberts, H., et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science, 11(4), 546-573.",
+      "doi": "10.1177/1745691616652873",
+      "url": "https://doi.org/10.1177/1745691616652873",
+      "type": "replication"
+    },
+    {
+      "text": "FORRT Replication Database (FReD), Röseler et al. Used to locate the replication above, not as the source for what it found.",
+      "doi": "10.17605/OSF.IO/9R62X",
+      "url": "https://doi.org/10.17605/OSF.IO/9R62X",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

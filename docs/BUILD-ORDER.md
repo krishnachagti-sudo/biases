@@ -1,7 +1,8 @@
 # Build order
 
-The 177 cognitive biases this index is being written to cover, in the order they
-get written.
+The 177 cognitive biases drawn from Wikipedia's bias categories, ranked by how
+often each is looked up. It is one of two inputs to what gets written, and the
+weaker one. Read the next section before using it.
 
 The order is by how often each name is looked up on English Wikipedia — twelve
 months to July 2026, everything above 300 views a month. That is a measure of
@@ -15,6 +16,54 @@ contains works, historical events and concepts too broad for an entry, so the
 sixteen at the bottom need a human call rather than a filter. The provenance of
 the list itself, including the ranking bug that nearly inverted it, is in the
 commit that added it to the Law Tome repository.
+
+## The decision this list did not survive
+
+**Written first, ranked by demand second.** The site leads with what happened
+when a bias was retested, so an entry with nothing to say there is an entry
+without the thing that makes this site worth reading. Coverage is therefore
+chosen by what the literature can support, and the ranking below decides the
+order *within* that, not the shape of the site.
+
+That inverts what this file originally said, for a measured reason. Matching all
+177 names against FORRT's Replication Database:
+
+| | |
+|---:|---|
+| 438 | distinct effects tracked in FReD |
+| 29 | of them carry any coded outcome, and most are priming paradigms |
+| 15 | of the 177 match FReD by exact name |
+| **1** | of those 15 has enough data to state a verdict |
+
+Loose matching gets to about sixteen and starts producing nonsense — it pairs
+"Cognitive bias" with "Cognitive Dissonance" and "Stereotype" with "Stereotype
+threat" — which is the failure this project has already been burned by once, in
+the Wikidata audit on the Law Tome. So the ceiling is real: replication cannot be
+an automated field over this list.
+
+**And the best entries are not on this list at all.** The 177 come from
+Wikipedia's `Category:Cognitive_biases`. The famous replication stories —
+ego depletion, power posing, facial feedback, social priming — are not in that
+category, so the ranking never saw them. Ego depletion is entry no. 2 here and
+appears nowhere below.
+
+So the working order is:
+
+1. **The retested set.** Every bias with a replication record that can be read
+   off a paper: the multi-lab projects, the Registered Replication Reports, Many
+   Labs 1 through 5, the Reproducibility Project. Perhaps forty to sixty entries,
+   each carrying the thing the site is for. This is not enumerated yet; it is
+   assembled from the replication literature rather than from a category listing.
+2. **The list below**, in the order given, for the biases people actually look
+   up. Most will read `none-located`, and that is a true and useful thing for a
+   page to say — but a site that is mostly `none-located` is a better-written
+   encyclopedia rather than a different one, which is why it is second.
+
+The overlap with the Law Tome is unresolved and belongs to the first group: 66 of
+the names below already have entries there. Two of my own sites holding
+self-canonical pages on anchoring would be the same duplicate-content problem the
+Law Tome already has across two hosts. Whatever the resolution, it is a decision
+about canonical URLs and not about which prose is better.
 
 ## Write these
 

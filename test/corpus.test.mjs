@@ -7,7 +7,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
-import { validate, loadCorpus, CATEGORIES, REPLICATION_STATES } from '../build/corpus.mjs';
+import { validate, loadCorpus, CATEGORIES, REPLICATION_STATES, CI_LEVELS } from '../build/corpus.mjs';
 import { entryPage, entryPath, replicationLabel } from '../src/templates/entry.mjs';
 
 /** A minimal entry that passes, so each test can break exactly one thing. */
@@ -24,8 +24,8 @@ const good = () => ({
     state: 'replicated',
     headline: 'It held.',
     study: { cite: 'Someone (2014). A replication.', doi: '10.1027/1864-9335/a000178' },
-    original: { es: 0.23, esType: 'd', ci: [-0.04, 0.5] },
-    replicated: { es: 0.31, esType: 'd', ci: [0.22, 0.39] },
+    original: { es: 0.23, esType: 'd', ci: [-0.04, 0.5], ciLevel: 95 },
+    replicated: { es: 0.31, esType: 'd', ci: [0.22, 0.39], ciLevel: 99 },
   },
   limits: 'Where it stops.',
   misreadings: 'What people get wrong.',
@@ -104,6 +104,26 @@ test('an effect size outside its own confidence interval is rejected', () => {
   // number is copied from the wrong column of a results table.
   assert.ok(problems((e) => { e.replication.original.es = 9; }).some((m) => m.includes('outside its own interval')));
   assert.ok(problems((e) => { e.replication.original.ci = [0.5, -0.04]; }).some((m) => m.includes('inverted')));
+});
+
+test('a confidence interval must state its own level', () => {
+  // The bug: the template hardcoded 95% for the original and 99% for the
+  // replication, because that is what the first entry's paper reported. The
+  // second entry's 95% interval was then printed as 99% — a quoted figure
+  // restated at the wrong confidence level, which is wrong in a way that looks
+  // authoritative.
+  const p = problems((e) => { delete e.replication.replicated.ciLevel; });
+  assert.ok(p.some((m) => m.includes('ciLevel')), p.join('; '));
+  assert.ok(problems((e) => { e.replication.original.ciLevel = 97; }).some((m) => m.includes('ciLevel')));
+  assert.deepEqual(CI_LEVELS, [90, 95, 99]);
+});
+
+test('the page prints each interval at the level its own paper reported', () => {
+  const html = loadCorpus({ today: TODAY }).map((e) => entryPage(e, { base: '/', origin: 'https://example.com' })).join('');
+  // Many Labs 1 reports 99% intervals; the ego-depletion RRR reports 95%.
+  assert.match(html, /d = 0\.31 \(99% CI/);
+  assert.match(html, /d = 0\.04 \(95% CI/);
+  assert.doesNotMatch(html, /d = 0\.04 \(99% CI/);
 });
 
 test('an unknown replication state is rejected', () => {
