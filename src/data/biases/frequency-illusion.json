@@ -1,0 +1,73 @@
+{
+  "no": 34,
+  "slug": "frequency-illusion",
+  "name": "Frequency illusion",
+  "aliases": ["Baader-Meinhof phenomenon", "Baader-Meinhof effect", "Recency illusion (companion term)"],
+  "category": "perception",
+  "statement": "Once someone notices a word or an object for the first time, they see it everywhere, and read their own new attention as a rise in how often it occurs.",
+  "meaning": "The claim has two halves and only one of them is usually checked. The first half is about attention: a thing newly learned becomes salient, so more of its occurrences get registered. The second half is a judgement, that the thing is now happening more often than it was. Arnold Zwicky, who named it, put the illusion down to selective attention working with confirmation bias, noticing what is salient and looking for cases that fit. Testing that needs two numbers in one study: what a person believes the rate is, and what the rate actually is. Nearly all of the writing about this bias supplies the first and asserts the second.",
+  "origin": {
+    "year": 2005,
+    "who": "Arnold M. Zwicky",
+    "where": "Language Log (blog post, 7 August 2005)",
+    "note": "Zwicky named the Frequency Illusion in \"Just between Dr. Language and I\", which the post describes as a lightly edited version of a message he sent to the American Dialect Society mailing list the same day. The older name is 11 years older and comes from a reader item in the Bulletin Board column of the St Paul Pioneer Press, 16 October 1994, signed with the pen name 'Gigetto on Lincoln'. Neither text is peer reviewed, and neither reports a measurement."
+  },
+  "evidence": "Three documents carry the origin of the idea. The 1994 Bulletin Board item states a rule: the first time you learn a new word, phrase or idea, you will see it again in print within 24 hours, topical things excepted. It supports the rule with one anecdote about the Baader-Meinhof gang and no count. Zwicky's 2005 post offers a demonstration rather than an experiment. A Stanford group studying the quotative 'all', as in the song title \"I'm like 'yeah' and she's all 'no'\", believed the form was common in the speech of young Californians, and the undergraduates on the project reported friends who used it \"all the time\". Those friends were recorded, the conversations transcribed and the quotatives extracted. Quotative 'all' turned out to be very low in frequency while quotative 'like' was common, and Zwicky offers the Frequency Illusion as part of the explanation. He gives no rates, no sample size and no test. His 2006 abstract for the Linguistic Society of America meeting restates the definition and credits selective attention and confirmation bias, again with no data. The one quantitative study located tests a different population. Van der Meulen searched a database of Dutch prescriptive publications and found 238 entries carrying recency statements about 341 usage items, and 1,249 entries carrying 1,786 frequency statements. Checking samples of those claims against dictionaries and usage corpora, the paper reports 17 of 20 checkable lexical recency claims as illusions, and all but one of 18 checked lexical frequency claims.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication attempt was found, and there is no original experiment to repeat: the effect was named in a blog post that reports no measurements."
+  },
+  "limits": "The searches behind this verdict covered Crossref by title and by bibliographic query, Europe PMC full-text search for the phrase 'frequency illusion', web searches for experimental, preregistered or laboratory tests under both names, the reference list of the Wikipedia article, and the Language Log archive. They returned commentary, clinical case reports and marketing writing. They returned no study that measures what a person thinks the rate of something is against what the rate is, before and after a first exposure. Provenance has its own gaps. The 1994 item was read on the Pioneer Press website, where it is dated 16 October 1994 and marked as updated in 2021; the print page was not inspected, and the OED places it on page 12 of the Express section. The attribution of the pen name to a reader called Terry Mullen rests on Ben Zimmer's 2019 Language Log post, which credits Dan Kelly, the former feature editor who published the submission, and points to a comment Mullen left on a blog in 2006. No 1994 document carrying his own name was located. Zwicky's 2006 abstract was read from the PDF on his Stanford page and was not traced to a published proceedings. The Dutch figures were taken from the publisher's page for the paper; its checked samples are small, cover one language, and describe what prescriptive writers claim rather than what ordinary speakers perceive. Fiedler and Armbruster's 1994 paper and Begg and colleagues' 1986 paper were not read beyond their catalogue records.",
+  "misreadings": "The origin story is usually told wrong in the same way. Retellings place the 1994 coinage on an online message board, when the Bulletin Board was a reader column in a printed newspaper, which is what its name meant in 1994. Wikipedia carried the message board version, uncited, until Terence Eden traced the item and corrected the article in June 2023. The 1994 claim is also narrower and stronger than the one it is quoted for: seeing an obscure new word again in print within 24 hours, not a general sense that something is now everywhere. Zwicky's account of the mechanism, selective attention plus confirmation bias, is often passed on as a research finding. It is his own explanation, given in a blog post and a conference abstract with no data behind it. Experiments on frequency estimation get folded in as though they had tested this effect. Fiedler and Armbruster's paper carries the words 'frequency illusions' in its title but was published in April 1994, 11 years before Zwicky's coinage, and concerns what happens to estimates when a category is split into subcategories. The OED's entry, added in March 2019, records that people use the phrase and what they mean by it. It is a fact about the language, not a measurement of the effect.",
+  "sources": [
+    {
+      "text": "Zwicky, A. (2005). Just between Dr. Language and I. Language Log, 7 August 2005. The post that coined 'Frequency Illusion'; a blog post, not a peer-reviewed venue.",
+      "url": "http://itre.cis.upenn.edu/~myl/languagelog/archives/002386.html",
+      "type": "primary"
+    },
+    {
+      "text": "Zwicky, A. M. (2006). Why are we so illuded? Abstract dated September 2006, hosted at Stanford University as LSA07illude.abst.pdf. Sets out the Recency, Antiquity, Out-Group, In-Group and Frequency Illusions and attributes the last to selective attention and confirmation bias.",
+      "url": "https://web.stanford.edu/~zwicky/LSA07illude.abst.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "'Gigetto on Lincoln' (1994). Sunday Bulletin Board: 'I have dubbed it The Baader-Meinhof Phenomenon'. St Paul Pioneer Press, 16 October 1994, republished on twincities.com. The first recorded use of the name.",
+      "url": "https://www.twincities.com/1994/10/16/baader-meinhof-phenomenon-sunday-bulletin-board/",
+      "type": "primary"
+    },
+    {
+      "text": "Zimmer, B. (2019). \"Frequency illusion\" in the OED. Language Log, 19 March 2019. Reproduces the OED entries for 'frequency illusion' and for 'Baader-Meinhof' sense 2, and identifies 'Gigetto on Lincoln' as Terry Mullen on the word of the editor who published him.",
+      "url": "https://languagelog.ldc.upenn.edu/nll/?p=42180",
+      "type": "commentary"
+    },
+    {
+      "text": "van der Meulen, M. (2022). Are we indeed so illuded? Recency and frequency illusions in Dutch prescriptivism. Languages, 7(1), 42.",
+      "doi": "10.3390/languages7010042",
+      "url": "https://doi.org/10.3390/languages7010042",
+      "type": "replication"
+    },
+    {
+      "text": "Fiedler, K., & Armbruster, T. (1994). Two halfs may be more than one whole: Category-split effects on frequency illusions. Journal of Personality and Social Psychology, 66(4), 633-645. Cited by the Wikipedia article on frequency illusion; predates Zwicky's term and is about frequency estimation. Not read for this entry.",
+      "doi": "10.1037/0022-3514.66.4.633",
+      "url": "https://doi.org/10.1037/0022-3514.66.4.633",
+      "type": "commentary"
+    },
+    {
+      "text": "Begg, I., Maxwell, D., Mitterer, J. O., & Harris, G. (1986). Estimates of frequency: Attribute or attribution? Journal of Experimental Psychology: Learning, Memory, and Cognition, 12(4), 496-508. Named by the Wikipedia article as empirical support; a frequency-estimation study. Not read for this entry.",
+      "doi": "10.1037/0278-7393.12.4.496",
+      "url": "https://doi.org/10.1037/0278-7393.12.4.496",
+      "type": "commentary"
+    },
+    {
+      "text": "Eden, T. (2023). What's the origin of the phrase \"Baader-Meinhof phenomenon\"? Terence Eden's Blog, 11 June 2023. Records the trail from an uncited Wikipedia claim to the 1994 column, and quotes the 2006 blog comment in which Mullen claims the coinage.",
+      "url": "https://shkspr.mobi/blog/2023/06/whats-the-origin-of-the-phrase-baader-meinhof-phenomenon/",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Frequency illusion. Used to find sources, not as one; its claims are described in this entry rather than relied on.",
+      "url": "https://en.wikipedia.org/wiki/Frequency_illusion",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
