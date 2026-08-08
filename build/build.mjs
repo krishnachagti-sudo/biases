@@ -75,7 +75,7 @@ const MAPPED = 177;
 // ---- pages -----------------------------------------------------------------
 // path (base-relative, '' for the root) -> rendered HTML, tokens intact.
 const pages = {
-  '': homePage({ base, origin, count: entries.length, mapped: MAPPED }),
+  '': homePage({ base, origin, entries, mapped: MAPPED }),
   'browse/': browsePage({ base, origin, entries, mapped: MAPPED }),
   'about/': aboutPage({ base, origin, mapped: MAPPED }),
 };

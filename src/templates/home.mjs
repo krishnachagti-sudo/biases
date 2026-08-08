@@ -1,26 +1,33 @@
 // The front door.
 //
-// Written by hand and deliberately small. It is the first page of a site whose
-// corpus does not exist yet, and the temptation at this stage is to render the
-// shape of a finished encyclopedia — a hero counting entries, a grid of cards,
-// a footer of browsing axes — around nothing. That page would be a lie told in
-// layout rather than in words, and it is the exact failure mode the fork notes
-// warn about: inheriting a finished shape without earning any of it.
+// The first draft was written for an empty corpus, and the argument for keeping
+// it small was sound: rendering the shape of a finished encyclopedia around
+// nothing is a lie told in layout, and inheriting that shape is the failure the
+// fork notes warn about.
 //
-// So this page says what the index will be, states plainly what is not built,
-// and links to the two pages that exist. It grows a section when there is
-// something true to put in it.
+// It then stayed small after the corpus stopped being empty, which is the
+// opposite mistake and a worse one. A visitor arriving at a site with three
+// finished entries was shown a count, a button, and none of the entries. The
+// caution that was honest on day one had become a page that hid its own
+// contents.
+//
+// So the rule is not "stay small". It is that every section states something
+// true about what exists — including, once anything does, the thing itself.
 
 import { head, sprite, header, footer, escapeHtml, BRAND, KICKER, founderNode } from './partials.mjs';
 import { hubFaq } from './hub.mjs';
+import { entryPath, replicationLabel } from './entry.mjs';
 import { LASTMOD_TOKEN } from '../../build/lastmod.mjs';
+
+const REP_CLASS = { replicated: 'b-emp', failed: 'b-con', mixed: 'b-heu', 'none-located': 'b-folk' };
 
 /**
  * @param {object} o
- * @param {number} o.count entries currently published
+ * @param {object[]} o.entries the published corpus, newest work first
  * @param {number} o.mapped candidate biases identified and ranked but not yet written
  */
-export function homePage({ base = '/', origin = '', count = 0, mapped = 0 } = {}) {
+export function homePage({ base = '/', origin = '', entries = [], mapped = 0 } = {}) {
+  const count = entries.length;
   const n = (x) => Number(x).toLocaleString('en-US');
 
   // The one sentence an answer engine can lift whole. It has to be true on the
@@ -45,6 +52,30 @@ export function homePage({ base = '/', origin = '', count = 0, mapped = 0 } = {}
     },
   ], { heading: 'About this index' });
 
+  // The entries themselves, on the front page.
+  //
+  // This section used to be one sentence — "3 entries, out of 177 biases
+  // identified" — and a button. It was written when the corpus was empty and
+  // never revisited when it stopped being empty, so the front door of a site
+  // with three finished entries showed a reader none of them and asked them to
+  // click to find out whether anything existed. Correctly described as nothing
+  // being there.
+  //
+  // What a visitor wants first is the thing the site is for: the name, the
+  // claim, and the verdict. So that is what is here, in full, for as long as
+  // the corpus is small enough to print whole. When it outgrows the page this
+  // becomes a selection, and the rule for what gets selected will need its own
+  // argument.
+  const list = count > 0
+    ? `    <div class="vd-cmp home-entries">
+${entries.map((e) => `      <a class="vd-c" href="${base}${entryPath(e)}">
+        <span class="vd-cn">${escapeHtml(e.name)}</span>
+        <span class="vd-cl"><span class="badge ${REP_CLASS[e.replication.state] || 'b-heu'}">${escapeHtml(replicationLabel(e.replication.state))}</span> ${escapeHtml(e.replication.headline)}</span>
+      </a>`).join('\n')}
+    </div>
+`
+    : '';
+
   const section = `<section class="sec">
   <div class="wrap">
     <div class="sec-head">
@@ -54,12 +85,9 @@ export function homePage({ base = '/', origin = '', count = 0, mapped = 0 } = {}
     <p class="hub-answer">${answer}</p>
     <p class="sec-lede">Most places you can look up a cognitive bias will tell you what it is. Very few will tell you whether the study behind it survived being run again. That is the gap this index is built around, and it is the reason the entries take longer to write than they would if the job were summarising.</p>
 
-    <h2 class="vd-h">What is here so far</h2>
-    <p class="vd-p">${count > 0
-      ? `${n(count)} ${count === 1 ? 'entry' : 'entries'}, out of ${n(mapped)} biases identified.`
-      : `Nothing yet. ${n(mapped)} biases have been identified and ranked by how often people look them up; the entries themselves are being written. This page will count them as they land.`}</p>
-
-    <p class="vd-full"><a class="btn" href="${base}browse/">See what is published</a></p>
+    <h2 class="vd-h">${count > 0 ? 'Published so far' : 'What is here so far'}</h2>
+${count > 0 ? '' : `    <p class="vd-p">Nothing yet. ${n(mapped)} biases have been identified and ranked by how often people look them up; the entries themselves are being written. This page will count them as they land.</p>\n`}${list}
+    <p class="vd-full"><a class="btn" href="${base}browse/">${count > 0 ? `Browse all ${n(count)}` : 'See what is published'}</a></p>
 
 ${faq.html}  </div>
 </section>
