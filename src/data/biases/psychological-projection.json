@@ -1,0 +1,86 @@
+{
+  "no": 43,
+  "slug": "psychological-projection",
+  "name": "Psychological projection",
+  "aliases": ["Projection", "Defensive projection", "Social projection", "Classical projection"],
+  "category": "social",
+  "statement": "The word carries two claims: that people see in others the faults they deny in themselves, and that people expect others to resemble them.",
+  "meaning": "The two claims are routinely run together and have had opposite fates. Defensive projection is Freud's. A trait the person cannot admit is pushed outward and found in somebody else, and finding it there is what keeps it out of sight at home. It predicts an inverse link between having a trait and owning up to it, and it requires the projector to be unaware. Social projection is the plainer claim that a person's own attitudes and habits colour the guess they make about everyone else's. It predicts a positive link between self-judgement and group judgement, and it needs no unconscious. One is a defence. The other is an inference from a sample of one.",
+  "origin": {
+    "year": 1919,
+    "who": "Sigmund Freud",
+    "where": "the English edition of Totem and Taboo",
+    "note": "The text states the defensive version without hedging. Unconscious hostility towards the dead, Freud writes, 'is projected from our inner perception into the outer world and is thereby detached from our own person and attributed to the other', leaving the survivor to face an evil demon instead of an unwelcome feeling. Freud's preface says the four essays first appeared in the journal Imago, and the book itself refers back to his account of the paranoiac Schreber, so the idea predates this printing. The year given is the year of A. A. Brill's translation, published in London by Routledge, which is the text read for this entry."
+  },
+  "evidence": "David Holmes reviewed the experimental literature twice, in Psychological Bulletin in 1968 and again in 1978, and reported that the classical form had no support. Govorun, Fuegen and Payne summarise the 1968 review as finding evidence for projection only where people were aware of the trait in themselves, which is the condition the defensive account excludes. Baumeister, Dale and Sommer, surveying seven Freudian defences in 1998, record that Holmes concluded defensive projection should be regarded as a myth, and add that it was never clear how seeing dishonesty in another person would help anyone avoid seeing it at home. Newman, Duff and Baumeister rebuilt the claim in 1997 on thought suppression rather than the unconscious. Trying not to think about a trait makes the category accessible, and an accessible category gets applied to other people. Their abstract reports six studies: repressors who denied traits their acquaintances credited them with read those traits into ambiguous behaviour, and participants handed bad feedback and told to put it out of mind then attributed it to a stranger. Schimel, Greenberg and Martens tested the defensive half directly in 2003. Their abstract reports two experiments in which people told they were high in repressed anger, and in a second study high in dishonesty, rated an ambiguous target especially high on that trait, and those allowed to project it showed the lowest accessibility of the trait afterwards.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The social sense of the word survives a meta-analysis at a large effect size; the defensive sense was reviewed away in the 1960s and 1970s and rebuilt on a different mechanism.",
+    "detail": "Robbins and Krueger pooled 19 reports, 48 hypothesis tests and 5,053 participants on social projection. Projection to ingroups averaged r = .46, 95% confidence interval .42 to .50. Projection to outgroups averaged r = .13, interval .08 to .18, a difference the authors express as Cohen's q = .36. Laboratory groups drew more projection, .57, than real social categories, .40. Nothing in that meta-analysis bears on the defensive claim, because none of its studies asks whether the projector denies the trait. On the defensive side the record disagrees with itself. Baumeister, Dale and Sommer call the 1997 suppression studies the best support the defence has, while pointing out that projection there is a by-product of the defence rather than the means of it: on their reading the person is simply trying not to recognise the trait, and whether a suitable target turns up makes no difference to how well that works. Govorun, Fuegen and Payne set Burish and Houston in 1979 and Schimel and colleagues in 2003, which found a benefit to the self, against Halpern in 1977 and Holmes and Houston in 1971, which did not. Those four papers were not read here, and the disagreement is reported as Govorun and colleagues describe it.",
+    "study": {
+      "cite": "Robbins, J. M., & Krueger, J. I. (2005). Social projection to ingroups and outgroups: A review and meta-analysis. Personality and Social Psychology Review, 9(1), 32-47.",
+      "doi": "10.1207/s15327957pspr0901_3",
+      "year": 2005,
+      "n": 5053
+    },
+    "replicated": { "es": 0.46, "esType": "r", "ci": [0.42, 0.5], "ciLevel": 95 }
+  },
+  "limits": "Newman, Duff and Baumeister's paper is paywalled and Unpaywall lists no open copy, so none of its numbers appear here; its abstract was read at PubMed and the account of its design comes from Baumeister, Dale and Sommer's 1998 review, which Baumeister co-wrote. Holmes's 1968 and 1978 reviews carry no abstract at PubMed and were not read. What they concluded is taken from the two later papers that summarise them, and those papers are not neutral parties. Wells and Goldstein published replications of Sears's projection study in the Journal of Social Psychology in 1964; the paper was located and not read. No preregistered or multi-laboratory test of defensive projection was located in a search covering Crossref, PubMed, Unpaywall and the open web. The Robbins and Krueger figures are correlations between self-judgement and group judgement. They measure how far the two move together, not whether either is right.",
+  "misreadings": "Everyday use runs the two senses together, and the accusation trades on the confusion. Calling a remark projection asserts the Freudian version, that the speaker holds the trait and cannot see it, and that is the version the experiments have failed to establish. The large effect wheeled out in support, that people assume others resemble them, is the other version, and it carries no claim about denial or unawareness. It also already has a name in this atlas: it is the false consensus effect, entry 10. The error runs the other way too. Holmes did not show that projection fails to happen. He argued that what the studies found was better described as ordinary attribution than as a defence, which is a claim about mechanism rather than about existence. Baumeister and colleagues state the surviving position plainly: how people see themselves shapes how they see others, and the reading of that as a defence against knowing their own faults is not well supported.",
+  "sources": [
+    {
+      "text": "Freud, S. (1919). Totem and Taboo: Resemblances Between the Psychic Lives of Savages and Neurotics, translated by A. A. Brill. London: George Routledge & Sons. Source for the quoted definition of projection as a defence.",
+      "url": "https://www.gutenberg.org/cache/epub/41214/pg41214.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Holmes, D. S. (1968). Dimensions of projection. Psychological Bulletin, 69(4), 248-268. Listed because it exists and is cited above; PubMed carries no abstract and the text was not read for this entry.",
+      "doi": "10.1037/h0025725",
+      "url": "https://doi.org/10.1037/h0025725",
+      "type": "review"
+    },
+    {
+      "text": "Holmes, D. S. (1978). Projection as a defense mechanism. Psychological Bulletin, 85(4), 677-688. Listed because it exists and is cited above; the text was not read for this entry.",
+      "doi": "10.1037/0033-2909.85.4.677",
+      "url": "https://doi.org/10.1037/0033-2909.85.4.677",
+      "type": "review"
+    },
+    {
+      "text": "Newman, L. S., Duff, K. J., & Baumeister, R. F. (1997). A new look at defensive projection: Thought suppression, accessibility, and biased person perception. Journal of Personality and Social Psychology, 72(5), 980-1001. Abstract read at PubMed; the full text is paywalled.",
+      "doi": "10.1037/0022-3514.72.5.980",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9150580/",
+      "type": "primary"
+    },
+    {
+      "text": "Baumeister, R. F., Dale, K., & Sommer, K. L. (1998). Freudian defense mechanisms and empirical findings in modern social psychology. Journal of Personality, 66(6), 1081-1124. Full text read; source for Holmes's conclusion and for the design of the 1997 suppression experiment.",
+      "doi": "10.1111/1467-6494.00043",
+      "url": "https://faculty.fortlewis.edu/burke_b/personality/readings/freuddefense.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Schimel, J., Greenberg, J., & Martens, A. (2003). Evidence that projection of a feared trait can serve a defensive function. Personality and Social Psychology Bulletin, 29(8), 969-979. Abstract read at PubMed.",
+      "doi": "10.1177/0146167203252969",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15189616/",
+      "type": "primary"
+    },
+    {
+      "text": "Govorun, O., Fuegen, K., & Payne, B. K. (2006). Stereotypes focus defensive projection. Personality and Social Psychology Bulletin, 32(6), 781-793. Full text read; source for the state of the awareness and defensive-function disputes.",
+      "doi": "10.1177/0146167205285556",
+      "url": "https://bkpayne.web.unc.edu/wp-content/uploads/sites/7990/2015/02/GovorunFuegenPayne2006.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Robbins, J. M., & Krueger, J. I. (2005). Social projection to ingroups and outgroups: A review and meta-analysis. Personality and Social Psychology Review, 9(1), 32-47. Full text read; source for every figure in the replication section.",
+      "doi": "10.1207/s15327957pspr0901_3",
+      "url": "http://files.clps.brown.edu/jkrueger/journal_articles/robbins-2005-social.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Wells, W. D., & Goldstein, R. L. (1964). Sears' study of projection: Replications and critique. The Journal of Social Psychology, 64(1), 169-179. Listed because it exists; the text was not read for this entry.",
+      "doi": "10.1080/00224545.1964.9919555",
+      "url": "https://doi.org/10.1080/00224545.1964.9919555",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

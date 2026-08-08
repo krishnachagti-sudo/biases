@@ -1,0 +1,94 @@
+{
+  "no": 45,
+  "slug": "planning-fallacy",
+  "name": "Planning fallacy",
+  "aliases": [
+    "Planning bias",
+    "Optimism bias in forecasting",
+    "Appraisal optimism"
+  ],
+  "category": "decision",
+  "statement": "People predict they will finish sooner than they do, and the prediction stays optimistic even when they are asked for their worst case.",
+  "meaning": "Two literatures travel under the name and they measure different things. The psychological one asks individuals when they will finish a real task, then records when they actually finish. The finding is a gap in one direction: the prediction is early, the completion is late, and the person making the prediction is confident in it. Kahneman and Tversky's account is about which information gets used. Singular information concerns the case at hand, how this project will go. Distributional information concerns how long comparable projects took. Forecasters build a plausible scenario from the first and leave the second on the table, so the estimate describes a run in which nothing goes wrong. The second literature counts cost overruns on large infrastructure, where the same shape appears at organisational scale. Whether the two have the same cause is the open question, and the megaproject data are the reason it is open.",
+  "origin": {
+    "year": 1979,
+    "who": "Daniel Kahneman and Amos Tversky",
+    "where": "TIMS Studies in the Management Sciences",
+    "note": "The standard citation is \"Intuitive prediction: Biases and corrective procedures\", volume 12, pages 313-327, which was not opened during this check. The same paper circulated two years earlier as Decision Research technical report PTR-1042-77-6, dated June 1977, and that version was read. It carries the phrase in quotation marks: \"Although this 'planning fallacy' is sometimes attributable to motivational factors such as wishful thinking, it frequently occurs even when underestimation of duration or cost is actually penalized.\" It also sets out the singular and distributional distinction, and recommends what it calls an external approach that treats the specific problem as one of many."
+  },
+  "evidence": "Buehler, Griffin and Ross supplied the numbers everyone quotes, in five studies in 1994. Study 1 telephoned 37 psychology students in the final semester of the honours thesis course at the University of Waterloo and asked when they would submit. Their best estimate averaged 33.9 days; they took 55.5, t(32) = 3.43, p < .002. Fewer than a third, 29.7%, finished by the date they had named. Asked to assume everything went as badly as it possibly could, they said 48.6 days, still short of 55.5, and only 48.7% finished by that worst case. Predictions were informative despite the bias: predicted and actual times correlated at .77. Study 2 asked 104 undergraduates to name one academic and one non-academic project they intended to finish within a week. Academic projects were predicted at 5.8 days and reported at 10.7, non-academic at 5.0 and 9.2, with 37.1% and 42.5% finished on time. Participants told outright that the researchers would compare their predictions against their completion times were no less optimistic than those who were not told. Study 4 gave 123 students a computer tutorial assignment whose finishing time the machine recorded without their knowledge. Controls predicted 5.5 days and took 6.8. Students first made to describe past assignments and then to write a scenario connecting that history to this assignment predicted 7.0 days and took 7.0, and 60.0% of them finished within their prediction against 29.3% of controls. Study 5 turned the task over to strangers. Observers, each given one Study 4 participant's details, deadline and self-prediction, forecast 8.5 days where the actors forecast 5.5 and the true figure was 6.8. The field counterpart is Flyvbjerg, Skamris Holm and Buhl's sample of 258 transportation infrastructure projects worth $90 billion. Costs were underestimated in 86% of them, by an average of 27.6% overall, 44.7% for rail, 33.8% for bridges and tunnels and 20.4% for roads.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The finding holds where people predict their own real deadlines and dissolves elsewhere: observers overshoot, brief laboratory tasks show no bias or overestimation, and the megaproject overruns that made the idea famous have a rival explanation its own author prefers.",
+    "detail": "No multi-site preregistered replication of the planning fallacy was located. What exists is a review, repeated demonstrations in one paradigm, and field data that point the other way. Halkjelsvik and Jorgensen reviewed the judgment-based time-prediction literature across psychology, engineering and management. Underestimation was reported more often than overestimation in the engineering and management studies, and not in the psychology studies. They also question the recurring claim that small tasks are overestimated and large ones underestimated, on the grounds that random error alone can produce that pattern. Their own 2026 experiments on brief tasks with duration feedback found bias indistinguishable from zero in three of five studies and overestimation in the other two. Roy, Christenfeld and McKenzie offer a different mechanism for the same data: people recall past episodes as shorter than they were, so an accurate use of memory still yields a short forecast. On the field side the record is contested. Love, Sing, Ika and Newton examined about HK$115 billion of Hong Kong transportation work. They report that 47% of projects deviated from their approved budget, with deviations running in both directions, and argue the planning fallacy does not describe how such projects behave. Chapman and Eliasson cover every Swedish road and rail investment finalised between 1998 and 2025, in a preprint. They report that 3% of roads and 6% of rail fit the planning fallacy pattern of missing on both cost and benefits. Half the roads, 52%, and 40% of the rail projects were plainly successful. Against that, the laboratory result survives the obvious deflationary reading. Buehler and colleagues' students had no reason to underbid, were told in one condition that their accuracy would be checked, and were still optimistic, and in Study 4 the completion time came off a computer log rather than self-report.",
+    "study": {
+      "cite": "Halkjelsvik, T., & Jorgensen, M. (2012). From origami to software development: A review of studies on judgment-based predictions of performance time. Psychological Bulletin, 138(2), 238-271.",
+      "doi": "10.1037/a0025996",
+      "year": 2012
+    }
+  },
+  "limits": "The two literatures should not be pooled, and most of the trouble with the idea comes from pooling them. Buehler and colleagues measured individuals predicting their own completion dates over days and weeks. Flyvbjerg measured organisations forecasting the cost of works costing hundreds of millions. Cost is not time and an institution is not a person. Within the psychological studies the effect sizes were not obtainable: the 1994 paper reports means, t and F statistics and correlations, and no standardised effect size was read for any study, so the structured fields above are empty. Study 1's figures also flatter the students. Four of the 37 were dropped from the analysis because they had still not submitted two semesters after the survey, which means the true average overrun is worse than 21.6 days. Study 2 relied on self-reported completion times, a limitation its authors name. The 1979 chapter that gave the effect its name was not opened, and Flyvbjerg's 2002 and 2006 papers were read in the author-accepted versions posted to arXiv rather than in the journals. The abstract of Love and colleagues was read at the Transportation Research Board's record for the paper, not at the publisher, and the Swedish study is a working paper that has not been peer reviewed. Duration is also the narrow case. Whether the same pull operates on estimates of cost, effort or difficulty for one person is not settled by the studies above.",
+  "misreadings": "The most common error is to state the effect without the possessive. People underestimate their own completion times. In Study 5 observers handed the same information overshot, predicting 8.5 days against an actual 6.8, and their absolute error was no better than the actors' at 2.7 days against 1.8. Two groups wrong in opposite directions is not one bias. The second error is the worst-case remedy. Asking for a pessimistic estimate moved the mean from 33.9 days to 48.6, and the actual figure was 55.5, so the pessimistic guess was still short and its absolute error, 23.2 days, was no smaller than the best guess's 22.6. What worked in Study 4 was narrower: recalling past assignments changed little on its own, and the correction came from being made to write out how this assignment would go if it went the way previous ones had. The third error is treating cost overruns on megaprojects as proof of a cognitive slip. Flyvbjerg, Skamris Holm and Buhl found no improvement in accuracy across the 70 years their sample covers, with year of decision failing to predict the error at p = 0.22. They take that as evidence against appraisal optimism: a profession that never learns is implausible where a profession rewarded for underbidding is not. Their conclusion names strategic misrepresentation, which they gloss as lying. Flyvbjerg's later overview of biases in project management lists strategic misrepresentation and the planning fallacy side by side rather than choosing. His remedy is indifferent between them. Reference class forecasting replaces the forecaster's judgment with the distribution of outcomes from comparable finished projects, which routes around a liar and an optimist alike. The American Planning Association endorsed the method in April 2005. From August 2004 the UK Department for Transport required local authorities seeking funds to apply uplifts derived from it: 32% on a road scheme and 57% on a metro rail scheme, for anyone wanting an 80% chance of staying inside budget.",
+  "sources": [
+    {
+      "text": "Kahneman, D., & Tversky, A. (1977). Intuitive prediction: Biases and corrective procedures. Decision Research technical report PTR-1042-77-6, June 1977. Read as the full text scan of DTIC accession ADA047747. Later published as Kahneman & Tversky (1979), TIMS Studies in the Management Sciences, 12, 313-327, which was not opened during this check.",
+      "url": "https://archive.org/stream/DTIC_ADA047747/DTIC_ADA047747_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366-381.",
+      "doi": "10.1037/0022-3514.67.3.366",
+      "url": "https://doi.org/10.1037/0022-3514.67.3.366",
+      "type": "primary"
+    },
+    {
+      "text": "Flyvbjerg, B., Skamris Holm, M., & Buhl, S. (2002). Underestimating costs in public works projects: Error or lie? Journal of the American Planning Association, 68(3), 279-295. Read in the author-accepted version posted at arXiv:1303.6604.",
+      "doi": "10.1080/01944360208976273",
+      "url": "https://arxiv.org/abs/1303.6604",
+      "type": "primary"
+    },
+    {
+      "text": "Flyvbjerg, B. (2006). From Nobel Prize to project management: Getting risks right. Project Management Journal, 37(3), 5-15. Source for reference class forecasting and the UK Department for Transport uplifts. Read in the author-accepted version posted at arXiv:1302.3642.",
+      "doi": "10.1177/875697280603700302",
+      "url": "https://arxiv.org/abs/1302.3642",
+      "type": "primary"
+    },
+    {
+      "text": "Halkjelsvik, T., & Jorgensen, M. (2012). From origami to software development: A review of studies on judgment-based predictions of performance time. Psychological Bulletin, 138(2), 238-271. Abstract read at PubMed; the full text was not opened.",
+      "doi": "10.1037/a0025996",
+      "url": "https://doi.org/10.1037/a0025996",
+      "type": "replication"
+    },
+    {
+      "text": "Halkjelsvik, T., & Jorgensen, M. (2026). Do people underestimate time? Exploring feedback-based performance time predictions using brief tasks. Timing & Time Perception. Abstract read at Crossref; the full text was not opened.",
+      "doi": "10.1163/22134468-bja10136",
+      "url": "https://doi.org/10.1163/22134468-bja10136",
+      "type": "replication"
+    },
+    {
+      "text": "Roy, M. M., Christenfeld, N. J. S., & McKenzie, C. R. M. (2005). Underestimating the duration of future events: Memory incorrectly used or memory bias? Psychological Bulletin, 131(5), 738-756. Abstract read at PubMed; the full text was not opened.",
+      "doi": "10.1037/0033-2909.131.5.738",
+      "url": "https://doi.org/10.1037/0033-2909.131.5.738",
+      "type": "commentary"
+    },
+    {
+      "text": "Love, P. E. D., Sing, M. C. P., Ika, L. A., & Newton, S. (2019). The cost performance of transportation projects: The fallacy of the Planning Fallacy account. Transportation Research Part A: Policy and Practice, 122, 1-20. Abstract read at the Transportation Research Board's record for the paper; the full text was not opened.",
+      "doi": "10.1016/j.tra.2019.02.004",
+      "url": "https://doi.org/10.1016/j.tra.2019.02.004",
+      "type": "commentary"
+    },
+    {
+      "text": "Chapman, P., & Eliasson, J. (2026). Cost overruns in Sweden's transport infrastructure investments: Evidence against the planning fallacy and the hiding hand. SSRN working paper. Not peer reviewed; abstract read at Crossref.",
+      "doi": "10.2139/ssrn.6598837",
+      "url": "https://doi.org/10.2139/ssrn.6598837",
+      "type": "replication"
+    },
+    {
+      "text": "Flyvbjerg, B. (2021). Top ten behavioral biases in project management: An overview. Project Management Journal, 52(6), 531-546. Abstract read; cited for listing strategic misrepresentation and the planning fallacy together.",
+      "doi": "10.1177/87569728211049046",
+      "url": "https://doi.org/10.1177/87569728211049046",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
