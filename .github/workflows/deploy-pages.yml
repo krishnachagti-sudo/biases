@@ -52,7 +52,18 @@ jobs:
       # dead internal link — none of which any unit test can see, and all of
       # which are expensive to find in public. Nothing ships through a failure.
       - run: npm run preflight -- --base=${{ vars.SITE_BASE || format('/{0}/', github.event.repository.name) }} --origin=${{ vars.SITE_ORIGIN || format('https://{0}.github.io', github.repository_owner) }}
+      # `enablement: true` makes the workflow turn Pages on for the repository
+      # itself, using the `pages: write` token granted above.
+      #
+      # Without it, the very first run of this workflow on a new repo fails here
+      # with "Get Pages site failed" — every check before it green, the artifact
+      # built and validated, and nothing published — until somebody goes to
+      # Settings and picks GitHub Actions as the source. That is a manual step
+      # that has to happen exactly once, is invisible until it bites, and reads
+      # like a broken deploy when it does. The action can do it, so it does.
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
