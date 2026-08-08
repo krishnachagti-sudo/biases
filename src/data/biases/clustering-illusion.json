@@ -1,0 +1,119 @@
+{
+  "no": 60,
+  "slug": "clustering-illusion",
+  "name": "Clustering illusion",
+  "aliases": [
+    "Over-alternation bias",
+    "Alternation bias",
+    "Local representativeness"
+  ],
+  "category": "belief",
+  "statement": "People treat the streaks and clumps that chance produces as signs of a cause, and rate sequences that alternate too often as the most random.",
+  "meaning": "One bias, measured two ways. Asked to judge, people pick sequences with too many switches as the likeliest output of a fair coin. Asked to produce, they switch too often themselves. Both are summarised by the probability of alternation, written P(A): the number of changes of symbol divided by the number of transitions. A fair coin gives about .5. Falk and Konold report that the value people prefer sits near .6 and has done across decades of studies. The mirror image of that preference is the clustering illusion. A run or a clump at the rate chance actually delivers looks designed, so a cause is sought for it. Kahneman and Tversky filed this under local representativeness, the expectation that each short stretch of a random process will look like the long-run average. The negative-recency half of that expectation, betting on a reversal after a run, is the gambler's fallacy and has its own entry. The hot hand and the Texas sharpshooter fallacy also have their own entries, the first for streaks attributed to a person, the second for a hypothesis drawn around a cluster after the fact.",
+  "origin": {
+    "year": 1972,
+    "who": "Daniel Kahneman and Amos Tversky",
+    "where": "Cognitive Psychology",
+    "note": "\"Subjective probability: A judgment of representativeness\" is where the effect is set out as a consequence of representativeness, using both a sequence and a spatial case. The name is not theirs and no peer-reviewed source coining the phrase \"clustering illusion\" was located. A Europe PMC search for the exact phrase returned five papers, none of them defining or introducing it."
+  },
+  "evidence": "Kahneman and Tversky asked 52 people which of two allocations of 20 marbles among five children happens more often across many rounds. A significant majority, 36 of 52, chose the uneven split 4-4-5-4-3 over the even 4-4-4-4-4, which is the more probable of the two. They give the reasoning: a locally representative sample contains too many alternations and too few clusters. For the spatial case they take Feller's account of the bombing of London, where a few sections were hit several times and many not at all, and the pattern was widely held to be non-random. The original test is R. D. Clarke's one page in the Journal of the Institute of Actuaries. Clarke selected 144 square kilometres of south London where the mean density was nearly constant, divided it into 576 squares of a quarter square kilometre, and counted the flying bombs in each. There were 537 bombs. Against the Poisson expectation he observed 229 empty squares to 226.74 expected, 211 to 211.39, 93 to 98.54, 35 to 30.62, 7 to 7.14, and 1 square with five or more to 1.57. The chi-square statistic is 1.17 on four degrees of freedom, p = .88. Clarke writes that the closeness of fit lends no support to the clustering hypothesis. The laboratory figures come from Falk and Konold, who tabulate the alternation rate generated or preferred in fourteen earlier results. Production studies cluster between .56 and .61, perception studies between .57 and .65. Their own three sets of ratings, pooling 491 people across sequences of length 21 and 41, peak at P(A) of .60 and .70. Aggregate apparent randomness correlates .62 with second-order entropy, the objective measure, which is symmetric about .50 and which the ratings are not.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The over-alternation bias turns up again across colours, shapes, tones, temporal streams and spatial grids, though the modern estimates are smaller than the classic .6 and no preregistered replication was found.",
+    "detail": "Yu, Gunn, Osherson and Zhao ran three experiments at the University of British Columbia, with 46, 65 and 50 undergraduates. Participants adjusted a stimulus until it looked maximally random. In Experiment 1 the mean switch rate was 0.53 for temporal streams, above 0.5 at t(45) = 2.03, p < 0.05, d = 0.30, and 0.55 for spatial matrices, t(45) = 2.71, p < 0.01, d = 0.40. Experiment 2 had people set each cell of a matrix by hand and gave 0.53, t(64) = 3.48, p < 0.001, d = 0.43. Experiment 3 repeated both within subjects and gave 0.53 for colour, 0.56 for shape and 0.56 for tones, the last two at d = 0.74 and d = 0.78. The bias held across presentation mode, feature, modality, speed, matrix size and probing method. The authors note that their switch rates, 0.52 to 0.63, sit below the above-0.6 figures of earlier work, and attribute the gap to anchoring: every stimulus started near 0.5, and in Experiment 3 the same task produced 0.44 from a uniform start against 0.63 from an alternating start. Reimers, Donkin and Le Pelley reach the same conclusion from likelihood judgements. In their Experiment 1, 149 people on Mechanical Turk rated every string of length four, five and six. A model using only relative proportion, alternation rate and Falk and Konold's difficulty predictor explained 97.7% of the variance in mean ratings for four-item strings, 94.0% for five and 92.0% for six. Experiment 2 repeated it as incentivised binary choices with 151 new people, and Experiment 3 as 3,447 single-trial choices. Boger, Yousif, McDougle and Rutledge add that the tendency is a stable trait. Cross-task correlations for number of repeats, mean numerical distance and direction switches ran from r = 0.38 to r = 0.54 among 142 people, and 53 of them repeated the task a mean of 50 weeks later with correlations from 0.42 to 0.61.",
+    "study": {
+      "cite": "Yu, R. Q., Gunn, J., Osherson, D., & Zhao, J. (2018). The consistency of the subjective concept of randomness. Quarterly Journal of Experimental Psychology, 71(4), 906-916.",
+      "doi": "10.1080/17470218.2017.1307428",
+      "year": 2018,
+      "n": 161
+    }
+  },
+  "limits": "No preregistered test of the effect was located, and two of the recent papers say plainly that they did not preregister. Boger and colleagues state that their modelling choices and experiments were not preregistered. Gronchi and Sloman state the same of their reaction-time study. Searches covered Crossref, Europe PMC and general web search, and turned up no meta-analysis and no multi-laboratory replication, so there is no pooled estimate here and none should be read into the figures above. The Falk and Konold correlations are computed across ten group means, one per level of P(A), not across individuals, and the authors say the averaging suppresses noise that characterises individual responses. Why the bias exists is unsettled. Falk and Konold's own answer is the encoding hypothesis, that a sequence is called random when it is hard to memorise, and their memorisation time correlates .94 with apparent randomness against .63 for entropy. Zhao, Hahn and Osherson tested that directly with 40 Princeton undergraduates and 16 by 16 matrices, half of which were mirror-symmetric. Symmetric matrices were harder to encode, with lower change-detection d-prime at every switch rate, and were still chosen as random below chance. Hahn and Warren argue instead that the bias is an apt response to finite experience, because a sliding window makes some subsequences less likely to appear at all. Warren and colleagues report the occurrence rate of the run 0000 in a length-20 sequence as around 0.47 against around 0.75 for 0001, a figure taken from their conference paper rather than from Hahn and Warren. Sun, Tweney and Wang contest the argument, and Reimers and colleagues found people's judgements essentially unrelated to that alternative norm, with models including it 8.7 to 14.5 times less likely than models without it. Bar-Hillel and Wagenaar's review is cited by every paper here and could not be obtained; it is named rather than used. Gilovich's 1991 book, the work usually said to carry the name, is on lending restriction at the Internet Archive and was not read.",
+  "misreadings": "The London bombing story is told more strongly than Clarke told it. He tested a selected area of 144 square kilometres chosen because the mean density was nearly constant there, and said so in his second paragraph. Kahneman and Tversky, following Feller, describe the test as covering the entire area of South London. Shaw and Shaw went back to the London County Council bomb damage maps and plotted 887 V-1 hits. Repeating Clarke's test on a matched 144 square kilometre rectangle with 532 hits gives p = 0.70, close to his result. Sampling the whole mapped area gives p = 0.02, and a mixture model finds three centres of density. Their conclusion is that Clarke's analysis is correct within his southern region and that V-1s over London as a whole were skewed to the south. The bombs were not uniformly distributed. They were Poisson where Clarke looked. A second illustration has aged worse. Falk and Konold offer basketball's hot hand, from Gilovich, Vallone and Tversky, as the real-world equivalent of their laboratory result, and Table 1 of their review lists that study's participants as calling sequences with alternation rates of .7 to .8 random. The 1985 conclusion has since been reversed on a statistical correction and is treated at length in the hot-hand entry. The third error is reading the bias as proof that people cannot count. Within a finite stretch of coin tosses a perfect run really is less likely to appear at all than an irregular string of the same length, so the intuition has something behind it. What Reimers and colleagues show is that people do not track that quantity. Their judgements follow proportion, alternation rate and encoding difficulty instead.",
+  "sources": [
+    {
+      "text": "Kahneman, D., & Tversky, A. (1972). Subjective probability: A judgment of representativeness. Cognitive Psychology, 3(3), 430-454. Full text read.",
+      "doi": "10.1016/0010-0285(72)90016-3",
+      "url": "https://doi.org/10.1016/0010-0285(72)90016-3",
+      "type": "primary"
+    },
+    {
+      "text": "Clarke, R. D. (1946). An application of the Poisson distribution. Journal of the Institute of Actuaries, 72(3), 481. Full text read; the table, the chi-square value and the degrees of freedom are Clarke's own.",
+      "doi": "10.1017/S0020268100035435",
+      "url": "https://doi.org/10.1017/S0020268100035435",
+      "type": "primary"
+    },
+    {
+      "text": "Falk, R., & Konold, C. (1997). Making sense of randomness: Implicit encoding as a basis for judgment. Psychological Review, 104(2), 301-318. Full text read; the alternation-rate table is their Table 1 and the aggregate ratings their Table 5.",
+      "doi": "10.1037/0033-295X.104.2.301",
+      "url": "https://doi.org/10.1037/0033-295X.104.2.301",
+      "type": "primary"
+    },
+    {
+      "text": "Bar-Hillel, M., & Wagenaar, W. A. (1991). The perception of randomness. Advances in Applied Mathematics, 12(4), 428-454. The standard review of this literature. Not obtained for this entry; named rather than used.",
+      "doi": "10.1016/0196-8858(91)90029-I",
+      "url": "https://doi.org/10.1016/0196-8858(91)90029-I",
+      "type": "reference"
+    },
+    {
+      "text": "Yu, R. Q., Gunn, J., Osherson, D., & Zhao, J. (2018). The consistency of the subjective concept of randomness. Quarterly Journal of Experimental Psychology, 71(4), 906-916. Full text read.",
+      "doi": "10.1080/17470218.2017.1307428",
+      "url": "https://doi.org/10.1080/17470218.2017.1307428",
+      "type": "replication"
+    },
+    {
+      "text": "Reimers, S., Donkin, C., & Le Pelley, M. E. (2018). Perceptions of randomness in binary sequences: Normative, heuristic, or both? Cognition, 172, 11-25. Read as the accepted manuscript at openaccess.city.ac.uk.",
+      "doi": "10.1016/j.cognition.2017.11.002",
+      "url": "https://doi.org/10.1016/j.cognition.2017.11.002",
+      "type": "replication"
+    },
+    {
+      "text": "Boger, T., Yousif, S. R., McDougle, S. D., & Rutledge, R. B. (2025). Random behavior is stable across tasks and time. Journal of Experimental Psychology: General, 154(6), 1571-1582. Full text read; the paper states it was not preregistered.",
+      "doi": "10.1037/xge0001755",
+      "url": "https://doi.org/10.1037/xge0001755",
+      "type": "replication"
+    },
+    {
+      "text": "Shaw, L. P., & Shaw, L. F. (2019). The flying bomb and the actuary. Significance, 16(5), 12-17. Read as the accepted version in the Oxford University Research Archive.",
+      "doi": "10.1111/j.1740-9713.2019.01315.x",
+      "url": "https://doi.org/10.1111/j.1740-9713.2019.01315.x",
+      "type": "replication"
+    },
+    {
+      "text": "Zhao, J., Hahn, U., & Osherson, D. (2014). Perception and identification of random events. Journal of Experimental Psychology: Human Perception and Performance, 40(4), 1358-1371. Full text read; Experiment 3 is the test of the encoding hypothesis.",
+      "doi": "10.1037/a0036816",
+      "url": "https://doi.org/10.1037/a0036816",
+      "type": "replication"
+    },
+    {
+      "text": "Hahn, U., & Warren, P. A. (2009). Perceptions of randomness: Why three heads are better than four. Psychological Review, 116(2), 454-461. Read as the PubMed abstract.",
+      "doi": "10.1037/a0015241",
+      "url": "https://doi.org/10.1037/a0015241",
+      "type": "commentary"
+    },
+    {
+      "text": "Sun, Y., Tweney, R. D., & Wang, H. (2010). Occurrence and nonoccurrence of random sequences: Comment on Hahn and Warren (2009). Psychological Review, 117(2), 697-703. Read as the PubMed abstract.",
+      "doi": "10.1037/a0018994",
+      "url": "https://doi.org/10.1037/a0018994",
+      "type": "commentary"
+    },
+    {
+      "text": "Warren, P. A., Gostoli, U., Farmer, G. D., Boyle, M., El-Deredy, W., Howes, A., & Hahn, U. Assessing the \"bias\" in human randomness perception. Proceedings of the Annual Meeting of the Cognitive Science Society. Source for the 0.47 and 0.75 occurrence rates, which the paper attributes to Hahn and Warren.",
+      "url": "https://escholarship.org/content/qt54v9b286/qt54v9b286_noSplash_c99bd66db0c411957e4a2d71ca04ea11.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Warren, P. A., Gostoli, U., Farmer, G. D., El-Deredy, W., & Hahn, U. (2018). A re-examination of \"bias\" in human randomness perception. Journal of Experimental Psychology: Human Perception and Performance, 44(5), 663-680. Read as the PubMed abstract.",
+      "doi": "10.1037/xhp0000462",
+      "url": "https://doi.org/10.1037/xhp0000462",
+      "type": "commentary"
+    },
+    {
+      "text": "Gronchi, G., & Sloman, S. A. (2021). Regular and random judgements are not two sides of the same coin: Both representativeness and encoding play a role in randomness perception. Psychonomic Bulletin & Review, 28(5), 1707-1714. Full text read; the paper states it was not preregistered.",
+      "doi": "10.3758/s13423-021-01934-9",
+      "url": "https://doi.org/10.3758/s13423-021-01934-9",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

@@ -1,0 +1,109 @@
+{
+  "no": 59,
+  "slug": "motivated-reasoning",
+  "name": "Motivated reasoning",
+  "aliases": ["Directional motivated reasoning", "Identity-protective cognition", "Motivated scepticism"],
+  "category": "belief",
+  "statement": "People reason towards the conclusion they want, and the work goes into scrutinising the unwelcome evidence rather than into announcing an answer.",
+  "meaning": "The idea turns on which goal is driving the reasoning. An accuracy goal makes someone spend more effort and reach for the rules they consider most appropriate. A directional goal makes them spend that effort on reaching a particular conclusion, searching memory for the beliefs and rules that would support it. Kunda's point is that both goals work through the same cognitive machinery, so the biased case looks like thinking rather than like laziness. She also fixed a limit on it. People come to believe what they want to believe only to the extent that reason permits, because the conclusion has to survive a justification they themselves find plausible. That constraint is what separates the claim from simple wishful thinking, and it predicts that motivated reasoning should be strongest where the evidence is ambiguous enough to be read either way.",
+  "origin": {
+    "year": 1990,
+    "who": "Ziva Kunda",
+    "where": "Psychological Bulletin",
+    "note": "Her review is titled \"The case for motivated reasoning\", and it gathered scattered findings under one mechanism rather than reporting a new experiment. The studies it draws on are older, including Lord, Ross and Lepper's 1979 work on biased assimilation. Kunda's contribution was the distinction between accuracy goals and directional goals, and the argument that a directional goal biases which beliefs and rules get accessed."
+  },
+  "evidence": "Lord, Ross and Lepper screened 151 undergraduates and selected 48, half proponents and half opponents of capital punishment. Each read two invented studies of deterrence, one supporting their position and one opposing it, with procedures and results counterbalanced. On scales running from -8 to 8, proponents rated the prodeterrence study 1.4 for convincingness and the antideterrence study -1.8; opponents rated the same pair -2.1 and 0.1. The gap in these difference scores gave F(1, 44) = 32.07, p < .001. Taber and Lodge ran the same logic on political arguments with 126 and 136 students from introductory political science courses at Stony Brook. Participants rated arguments agreeing with them as stronger, spent longer counterarguing the ones that did not, and chose more congenial sources when free to choose. Kahan and colleagues took a different route, giving people a two-by-two table of numbers labelled either as a skin rash treatment or as a gun control ban. Their finding was that political polarisation on the same arithmetic rose rather than fell among the most numerate.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The lopsided evaluation of evidence repeats readily. The attitude polarisation it was supposed to cause mostly does not.",
+    "detail": "The two halves of the 1979 study have come apart. Lord, Ross and Lepper measured polarisation by asking subjects how much their views had shifted, and their own footnote records why: most subjects started at the ends of the selection scales, so the planned before-and-after difference scores \"proved impossible\". Taber and Lodge, who are sympathetic to the theory, say the resulting evidence is unconvincing on that ground and that attempts to find polarisation with direct time-one and time-two measures have failed. Kuhn and Lao reached the same place from their own data, concluding that genuine polarisation is a real but infrequent outcome of exposure to mixed evidence. Taber and Lodge did find it with direct measures, but only in parts of their sample: among the most sophisticated third rating affirmative action arguments the regression slope was 1.268, about 27% more extreme, while unsophisticated participants and those with weak priors did not polarise at all. Velez and Liu put the question to five experiments in which GPT-3 wrote counterarguments aimed at each participant's own most important issue, the condition the theory says should trigger the effect. They found polarisation only where the arguments were contentious and vitriolic, and none for lower-valence counter-attitudinal arguments. The numeracy strand has fared no better. Persson and colleagues ran a preregistered replication of motivated numeracy and concluded that the cumulative evidence for it is weaker than previously thought, with ideologically congruent responding that numeracy did not moderate. Connor and colleagues, testing 746 Western Europeans, reproduced the identity-protective pattern but not its amplification by numeracy, with the four-way interaction non-significant in both of their models.",
+    "study": {
+      "cite": "Velez, Y. R., & Liu, P. (2025). Confronting core issues: A critical assessment of attitude polarization using tailored experiments. American Political Science Review, 119(2), 1036-1053.",
+      "doi": "10.1017/S0003055424000819",
+      "year": 2025
+    }
+  },
+  "limits": "Directional motivation is hard to separate from ordinary updating. Tappin, Pennycook and Rand argue that the standard design confounds political identity with prior factual belief, and that someone who already thinks gun laws do not work will rate a study saying so as better without any group loyalty being involved. Across three studies of 1,215, 2,060 and 1,980 people they found a direct effect of political identity on reasoning, but once prior factual beliefs entered the model the three-way interaction with cognitive sophistication disappeared. Sophistication magnified the effect of prior beliefs instead. Kahan's own earlier experiment on 1,750 US adults is more equivocal than its reputation: higher scores on the Cognitive Reflection Test amplified motivated reasoning in only one of the two conditions designed to polarise. Glüer-Pagin and Spectre push further, arguing that the mechanism Kahan describes involves plenty of motivation to reason without amounting to motivated reasoning. The sample size of the Persson replication could not be read off a copy of the paper obtainable here and is left out; a 2024 PLOS ONE paper describes it as about 3,000 participants, which is a figure at one remove. No overall meta-analysis of motivated reasoning was located.",
+  "misreadings": "The name is used as a synonym for confirmation bias, which has its own entry here, and the two are not the same claim. Confirmation bias is about the direction of search and interpretation and needs no motive: a hypothesis you merely hold, with nothing at stake, produces it. Motivated reasoning is a claim about goals, that wanting a conclusion changes which beliefs and rules get used, and it is the goal that does the explaining. The second error is treating all motivated reasoning as bias. Kunda's accuracy goals are motivated too, and they generally improve judgement. A third is that partisan error means partisan motivation. Pennycook and Rand tested that on 3,446 people and found the opposite of what the motivated account predicts: participants told real from fake headlines better when the headlines agreed with their politics than when they did not, t(799) = 9.11, p < .001, d = .32. At the level of individual headlines, whether analytic thinking helped was predicted by how plausible an item was, r(42) = .80 for Clinton supporters and .82 for Trump supporters, and not by its partisanship, r(42) = -.16, p = .292 and r(42) = -.17, p = .261. Their reading is that susceptibility to fake news is lazy thinking rather than partisan bias. Finally, the capital punishment study is often retold as showing that facts make people dig in. What it measured was subjects reporting that they had dug in.",
+  "sources": [
+    {
+      "text": "Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108(3), 480-498.",
+      "doi": "10.1037/0033-2909.108.3.480",
+      "url": "https://doi.org/10.1037/0033-2909.108.3.480",
+      "type": "primary"
+    },
+    {
+      "text": "Lord, C. G., Ross, L., & Lepper, M. R. (1979). Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence. Journal of Personality and Social Psychology, 37(11), 2098-2109.",
+      "doi": "10.1037/0022-3514.37.11.2098",
+      "url": "https://doi.org/10.1037/0022-3514.37.11.2098",
+      "type": "primary"
+    },
+    {
+      "text": "Taber, C. S., & Lodge, M. (2006). Motivated skepticism in the evaluation of political beliefs. American Journal of Political Science, 50(3), 755-769.",
+      "doi": "10.1111/j.1540-5907.2006.00214.x",
+      "url": "https://doi.org/10.1111/j.1540-5907.2006.00214.x",
+      "type": "primary"
+    },
+    {
+      "text": "Kahan, D. M., Peters, E., Dawson, E. C., & Slovic, P. (2017). Motivated numeracy and enlightened self-government. Behavioural Public Policy, 1(1), 54-86.",
+      "doi": "10.1017/bpp.2016.2",
+      "url": "https://doi.org/10.1017/bpp.2016.2",
+      "type": "primary"
+    },
+    {
+      "text": "Kahan, D. M. (2013). Ideology, motivated reasoning, and cognitive reflection. Judgment and Decision Making, 8(4), 407-424.",
+      "doi": "10.1017/S1930297500005271",
+      "url": "https://doi.org/10.1017/S1930297500005271",
+      "type": "primary"
+    },
+    {
+      "text": "Kuhn, D., & Lao, J. (1996). Effects of evidence on attitudes: Is polarization the norm? Psychological Science, 7(2), 115-120.",
+      "doi": "10.1111/j.1467-9280.1996.tb00340.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.1996.tb00340.x",
+      "type": "replication"
+    },
+    {
+      "text": "Velez, Y. R., & Liu, P. (2025). Confronting core issues: A critical assessment of attitude polarization using tailored experiments. American Political Science Review, 119(2), 1036-1053.",
+      "doi": "10.1017/S0003055424000819",
+      "url": "https://doi.org/10.1017/S0003055424000819",
+      "type": "replication"
+    },
+    {
+      "text": "Persson, E., Andersson, D., Koppel, L., Vastfjall, D., & Tinghog, G. (2021). A preregistered replication of motivated numeracy. Cognition, 214, 104768.",
+      "doi": "10.1016/j.cognition.2021.104768",
+      "url": "https://doi.org/10.1016/j.cognition.2021.104768",
+      "type": "replication"
+    },
+    {
+      "text": "Connor, P., Sullivan, E., Alfano, M., & Tintarev, N. (2024). Motivated numeracy and active reasoning in a Western European sample. Behavioural Public Policy, 8(1), 24-46.",
+      "doi": "10.1017/bpp.2020.32",
+      "url": "https://doi.org/10.1017/bpp.2020.32",
+      "type": "replication"
+    },
+    {
+      "text": "Tappin, B. M., Pennycook, G., & Rand, D. G. (2021). Rethinking the link between cognitive sophistication and politically motivated reasoning. Journal of Experimental Psychology: General, 150(6), 1095-1114.",
+      "doi": "10.1037/xge0000974",
+      "url": "https://doi.org/10.1037/xge0000974",
+      "type": "commentary"
+    },
+    {
+      "text": "Pennycook, G., & Rand, D. G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. Cognition, 188, 39-50.",
+      "doi": "10.1016/j.cognition.2018.06.011",
+      "url": "https://doi.org/10.1016/j.cognition.2018.06.011",
+      "type": "commentary"
+    },
+    {
+      "text": "Gluer-Pagin, K., & Spectre, L. (2025). Where is the motivation in motivated numeracy? Review of Philosophy and Psychology, 16(2), 481-498.",
+      "doi": "10.1007/s13164-024-00737-w",
+      "url": "https://doi.org/10.1007/s13164-024-00737-w",
+      "type": "commentary"
+    },
+    {
+      "text": "Yu, S., & Opfer, J. E. (2024). Cognitive support for political partisans' understanding of policy data. PLOS ONE, 19(10), e0312088.",
+      "doi": "10.1371/journal.pone.0312088",
+      "url": "https://doi.org/10.1371/journal.pone.0312088",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
