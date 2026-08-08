@@ -50,6 +50,34 @@ reason in the JSON — books (*Thinking, Fast and Slow*), parent concepts
 (`Cognitive bias`, `Heuristic`), research malpractices that are not judgement
 errors (`Data dredging`, `P-hacking`), and one-off events.
 
+## The second source, and why the set needed one
+
+333 candidates and not one of them is ego depletion, power posing, the bystander
+effect, stereotype threat or the peak-end rule. Two of the three entries written
+before this file was rewritten are not in it either.
+
+That is not an oversight in the collection; it is what the source indexes. The
+List of cognitive biases is a taxonomy of named *biases*, and the famous
+replication failures are named *effects* from the experimental literature. They
+never appear in a list of biases because nobody files them there, and they are
+the entries this site is best at.
+
+So the candidate set carries a `supplement`, assembled from the multi-laboratory
+projects rather than from any category listing. It currently holds the sixteen
+effects of Many Labs 1 with their original and replication effect sizes, read
+off Table 2 of the paper. Many Labs 2 through 5, the Registered Replication
+Reports, the Reproducibility Project: Psychology and the Social Sciences
+Replication Project have to be added the same way, one table at a time, and the
+supplement is incomplete until they are.
+
+Reading those tables by hand is the only method that works here, and it is not
+optional caution. The anchoring entry initially printed a weighted effect size
+under the unweighted label, and a 95% interval as 99%, because Table 2 puts
+original, unweighted and weighted figures in adjacent column pairs and I matched
+them in the wrong order. Nothing was invented; a correct number was read off the
+wrong column, which is the failure this project has to guard against most and
+the one that leaves no trace.
+
 ## Demand
 
 Twelve-month mean of monthly Wikipedia pageviews, August 2025 to July 2026,

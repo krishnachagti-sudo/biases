@@ -3889,5 +3889,277 @@
    "categories": [],
    "redirects_here": []
   }
+ ],
+ "supplement_note": "The list article indexes named biases, which is why it contains neither ego depletion nor power posing nor the bystander effect. Those are effects from the replication literature rather than entries in a taxonomy of biases, and they are the entries this site is best at. This supplement is that second source, assembled from the multi-laboratory projects rather than from any category listing. It currently holds Many Labs 1 only, read off Table 2 of the paper. Many Labs 2 through 5, the Registered Replication Reports, the Reproducibility Project: Psychology and the Social Sciences Replication Project still have to be added the same way, one table at a time.",
+ "supplement": [
+  {
+   "effect": "Anchoring – babies born",
+   "original_study": "Jacowitz & Kahneman (1995)",
+   "original_d": 0.93,
+   "original_ci95": [
+    0.51,
+    1.33
+   ],
+   "replication_d_unweighted": 2.6,
+   "replication_ci99": [
+    2.41,
+    2.79
+   ],
+   "proportion_of_36_samples_significant_same_direction": 1.0,
+   "entry": "anchoring-effect",
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Anchoring – Mt. Everest",
+   "original_study": "Jacowitz & Kahneman (1995)",
+   "original_d": 0.93,
+   "original_ci95": [
+    0.51,
+    1.33
+   ],
+   "replication_d_unweighted": 2.45,
+   "replication_ci99": [
+    2.12,
+    2.77
+   ],
+   "proportion_of_36_samples_significant_same_direction": 1.0,
+   "entry": "anchoring-effect",
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Anchoring – Chicago",
+   "original_study": "Jacowitz & Kahneman (1995)",
+   "original_d": 0.93,
+   "original_ci95": [
+    0.51,
+    1.33
+   ],
+   "replication_d_unweighted": 2.05,
+   "replication_ci99": [
+    1.84,
+    2.25
+   ],
+   "proportion_of_36_samples_significant_same_direction": 1.0,
+   "entry": "anchoring-effect",
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Anchoring – distance to NYC",
+   "original_study": "Jacowitz & Kahneman (1995)",
+   "original_d": 0.93,
+   "original_ci95": [
+    0.51,
+    1.33
+   ],
+   "replication_d_unweighted": 1.27,
+   "replication_ci99": [
+    1.13,
+    1.4
+   ],
+   "proportion_of_36_samples_significant_same_direction": 1.0,
+   "entry": "anchoring-effect",
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Allowed/forbidden question wording",
+   "original_study": "Rugg (1941)",
+   "original_d": 0.65,
+   "original_ci95": [
+    0.57,
+    0.73
+   ],
+   "replication_d_unweighted": 1.87,
+   "replication_ci99": [
+    1.58,
+    2.16
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.97,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Relations between implicit and explicit math attitudes",
+   "original_study": "Nosek, Banaji & Greenwald (2002)",
+   "original_d": 0.93,
+   "original_ci95": [
+    0.77,
+    1.08
+   ],
+   "replication_d_unweighted": 0.79,
+   "replication_ci99": [
+    0.63,
+    0.96
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.94,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Retrospective gambler's fallacy",
+   "original_study": "Oppenheimer & Monin (2009)",
+   "original_d": 0.69,
+   "original_ci95": [
+    0.16,
+    1.21
+   ],
+   "replication_d_unweighted": 0.59,
+   "replication_ci99": [
+    0.49,
+    0.7
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.83,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Gain versus loss framing",
+   "original_study": "Tversky & Kahneman (1981)",
+   "original_d": 1.13,
+   "original_ci95": [
+    0.89,
+    1.37
+   ],
+   "replication_d_unweighted": 0.62,
+   "replication_ci99": [
+    0.52,
+    0.71
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.86,
+   "entry": "framing-effect",
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Sex differences in implicit math attitudes",
+   "original_study": "Nosek, Banaji & Greenwald (2002)",
+   "original_d": 1.01,
+   "original_ci95": [
+    0.54,
+    1.48
+   ],
+   "replication_d_unweighted": 0.56,
+   "replication_ci99": [
+    0.45,
+    0.68
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.71,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Low versus high category scales",
+   "original_study": "Schwarz et al. (1985)",
+   "original_d": 0.5,
+   "original_ci95": [
+    0.15,
+    0.84
+   ],
+   "replication_d_unweighted": 0.51,
+   "replication_ci99": [
+    0.42,
+    0.61
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.67,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Quote attribution",
+   "original_study": "Lorge & Curtiss (1936)",
+   "original_d": null,
+   "note": "the original report does not give enough detail to compute an effect size",
+   "replication_d_unweighted": 0.31,
+   "replication_ci99": [
+    0.19,
+    0.42
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.47,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Norm of reciprocity",
+   "original_study": "Hyman & Sheatsley (1950)",
+   "original_d": 0.16,
+   "original_ci95": [
+    0.06,
+    0.27
+   ],
+   "replication_d_unweighted": 0.27,
+   "replication_ci99": [
+    0.18,
+    0.36
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.36,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Sunk costs",
+   "original_study": "Oppenheimer, Meyvis & Davidenko (2009)",
+   "original_d": 0.23,
+   "original_ci95": [
+    -0.04,
+    0.5
+   ],
+   "replication_d_unweighted": 0.31,
+   "replication_ci99": [
+    0.22,
+    0.39
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.5,
+   "entry": "sunk-cost",
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Imagined contact",
+   "original_study": "Husnu & Crisp (2010)",
+   "original_d": 0.86,
+   "original_ci95": [
+    0.14,
+    1.57
+   ],
+   "replication_d_unweighted": 0.1,
+   "replication_ci99": [
+    0.0,
+    0.19
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.11,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Flag priming",
+   "original_study": "Carter, Ferguson & Hassin (2011)",
+   "original_d": 0.5,
+   "original_ci95": [
+    0.01,
+    0.99
+   ],
+   "replication_d_unweighted": 0.01,
+   "replication_ci99": [
+    -0.07,
+    0.08
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.0,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  },
+  {
+   "effect": "Currency priming",
+   "original_study": "Caruso et al. (2013)",
+   "original_d": 0.8,
+   "original_ci95": [
+    0.05,
+    1.54
+   ],
+   "replication_d_unweighted": 0.01,
+   "replication_ci99": [
+    -0.06,
+    0.09
+   ],
+   "proportion_of_36_samples_significant_same_direction": 0.03,
+   "entry": null,
+   "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
+  }
  ]
 }
