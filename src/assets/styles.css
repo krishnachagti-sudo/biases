@@ -872,6 +872,21 @@ a.badge{text-decoration:none;display:inline-block}
 @media(max-width:860px){.entry-layout{grid-template-columns:1fr;gap:34px}.aside{position:static}}
 
 /* dashboard stat strip under the hero */
+/* The answer block: the replication verdict in one sentence, directly under the
+   quote and above the statistics that support it. Sized to be read, not
+   scanned — it is the single thing most visitors came for, so it gets body
+   type rather than label type and a full-width tinted panel rather than a
+   tile in a row of tiles. */
+.answer{display:block;margin:4px 0 4px;padding:18px 22px;background:var(--surface);
+  border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:var(--r);
+  box-shadow:var(--e1);transition:border-color .2s,box-shadow .2s}
+.answer:hover{border-color:var(--line-strong);border-left-color:var(--accent);box-shadow:var(--e2)}
+.answer .answer-k{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--faint);margin-bottom:9px}
+.answer .answer-v{display:block;font-family:var(--serif);font-size:17.5px;line-height:1.62;color:var(--read);max-width:72ch}
+.answer .badge{margin-right:8px;vertical-align:2px}
+@media(max-width:640px){.answer{padding:15px 16px}.answer .answer-v{font-size:16.5px}}
+
 .dash{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(124px,100%),1fr));gap:12px;margin:26px 0 2px}
 .stat{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:13px 15px;display:flex;flex-direction:column;gap:6px;transition:border-color .2s,transform .2s}
 .stat .s-k{font-family:var(--mono);font-size:9.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--faint)}

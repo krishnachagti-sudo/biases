@@ -5,12 +5,16 @@
 // gets the design; what had to be decided here is what goes in each slot, since
 // a bias is not a law and the slots were cut for laws.
 //
-// Two departures from the original, both deliberate:
+// Three departures from the original, all deliberate:
 //
-//   The fact strip carries the replication scale — sites, participants — where
-//   the original carried namesake and kind. Those are the numbers that make an
-//   entry here worth more than a definition, so they go in the row a reader
-//   scans before deciding to read.
+//   The answer comes before the evidence. A reader who searched the name of a
+//   bias wants to know what it is and whether it is real, in that order, so the
+//   replication verdict sits in one plain sentence directly under the quote.
+//   The statistics that justify it are further down. See verdictAnswer().
+//
+//   The fact strip is the five facts a reader checks, not the seven a
+//   methodologist would. Replication sites and participants came out of it
+//   because the sentence above it already names both.
 //
 //   "Does it replicate?" is the second block rather than buried near the end.
 //   The original put origin high and evidence low, which suits an index about
@@ -91,17 +95,53 @@ function accented(entry) {
   return s.replace(a, `<span class="accent">${a}</span>`);
 }
 
-/** The `.dash` row of `.stat` tiles under the pull quote. */
+/**
+ * The answer, directly under the quote and above everything else.
+ *
+ * Someone arriving here searched the name of a bias. They want to know what it
+ * is and whether it is real, in that order, and the second answer used to be
+ * two scrolls down inside a block called "Does it replicate?" while the top of
+ * the page showed them a strip of seven statistics. Effect sizes and site
+ * counts are why this index is worth reading, but they are the evidence for the
+ * answer, not the answer, and leading with them writes the page for a
+ * methodologist rather than for the person who actually typed the name in.
+ *
+ * The sentence is `r.headline` verbatim — the same string the block below uses.
+ * Nothing is paraphrased for this slot.
+ */
+function verdictAnswer(r) {
+  const cls = REPLICATION_CLASS[r.state] || 'b-heu';
+  const sentence = r.state === 'none-located'
+    ? `${escapeHtml(r.headline)} No replication attempt has been located, which is a statement about the literature rather than about the effect.`
+    : escapeHtml(r.headline);
+  // `.wrap-wide`, matching the fact strip immediately below rather than the
+  // `.wrap` header above. Two stacked panels at different insets read as a
+  // misalignment; the answer and the strip are one unit and share an edge.
+  return `  <div class="wrap-wide">
+    <a class="answer" href="#sec-does-it-replicate">
+      <span class="answer-k">Does it replicate?</span>
+      <span class="answer-v"><span class="badge ${cls}">${escapeHtml(replicationLabel(r.state))}</span> ${sentence}</span>
+    </a>
+  </div>
+`;
+}
+
+/**
+ * The `.dash` row of `.stat` tiles under the answer.
+ *
+ * Replication sites and participants used to lead this row. They are gone: the
+ * headline directly above already says "across 36 laboratories and 6,330
+ * people" in a sentence, and repeating it as two tiles was the same fact told
+ * worse. Both numbers still appear, in the replication block, where the effect
+ * sizes give them context.
+ */
 function factStrip(entry, { base }) {
   const r = entry.replication;
-  const s = r.study || {};
   const field = CATEGORIES[entry.category] || entry.category;
   const stats = [
     ['Verdict', replicationLabel(r.state), '#sec-does-it-replicate'],
     ['First published', String(entry.origin.year), null],
     ['Field', field, null],
-    s.sites ? ['Replication sites', num(s.sites), '#sec-does-it-replicate'] : null,
-    s.n ? ['Participants', num(s.n), '#sec-does-it-replicate'] : null,
     ['Sources', num((entry.sources || []).length), '#sec-sources'],
     ['Last checked', entry.checkedOn, null],
   ].filter(Boolean);
@@ -213,7 +253,7 @@ ${sources.map((s) => {
 ${aliases.length ? `    <div class="aka">also known as — ${aliases.map((a) => escapeHtml(a)).join(' · ')}</div>\n` : ''}    <blockquote class="entry-stmt">${accented(entry)}</blockquote>
   </div>
 </section>
-${factStrip(entry, { base })}  <div class="wrap-wide">
+${verdictAnswer(r)}${factStrip(entry, { base })}  <div class="wrap-wide">
     <div class="entry-layout">
       <nav class="toc" aria-label="On this page">
 ${blocks.map((b) => `        <a href="#${b.id}">${escapeHtml(b.label)}</a>`).join('\n')}
