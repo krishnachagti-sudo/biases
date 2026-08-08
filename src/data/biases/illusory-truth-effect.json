@@ -1,0 +1,81 @@
+{
+  "no": 27,
+  "slug": "illusory-truth-effect",
+  "name": "Illusory truth effect",
+  "aliases": ["Truth effect", "Repetition-induced truth effect", "Validity effect", "Reiteration effect"],
+  "category": "belief",
+  "statement": "Repeating a claim makes people rate it as truer, whether or not it is true and whether or not they already know better.",
+  "meaning": "Repetition carries no information about whether a claim is correct. The proposal is that hearing it again raises the rating anyway, because a statement encountered before is easier to read and process, and that ease gets read as a signal of truth. The literature measures the effect two ways. The within-items version compares a statement's rating on first encounter with its rating on second encounter. The between-items version compares repeated statements against new ones at the same test. They are not interchangeable, and the meta-analytic estimates for them differ.",
+  "origin": {
+    "year": 1977,
+    "who": "Lynn Hasher, David Goldstein and Thomas Toppino",
+    "where": "Journal of Verbal Learning and Verbal Behavior",
+    "note": "The paper is \"Frequency and the Conference of Referential Validity\", and it uses the term referential validity rather than illusory truth. The name in current use came later, and the entry keeps 1977 because that is the study the effect is built on."
+  },
+  "evidence": "Hasher, Goldstein and Toppino played 40 college students a tape of 60 plausible assertions and asked for a validity rating of each on a 7-point scale. They did this three times, two weeks apart. Twenty of the statements recurred in all three sessions; the rest were new each time. Ratings for the repeated statements rose from 4.35 to 4.67 to 4.74, while ratings for the non-repeated ones went from 4.25 to 4.22 to 4.16. The interaction between repetition and session was reliable, F(2, 78) = 11.80, p < .01. In the first session the statements that would later recur were rated no differently from those that would not, F(1, 39) = 1.69, p > .05. The design crosses repetition, session and actual truth within subjects. The rise appeared for true and false statements alike. Later work pushed on the assumption that knowledge blocks the effect. Fazio, Brashier, Payne and Marsh gave 40 Duke undergraduates statements drawn from general-knowledge norms and checked afterwards what each participant actually knew. Repeated falsehoods scored 3.53 against 3.26 for new ones, F(1, 39) = 13.06, p = .001, partial eta-squared = .25, and knowledge did not interact with repetition. For contradictions of facts the participant demonstrably knew, repeated statements still scored 2.93 against 2.59, t(39) = 2.93, p = .006.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A 2026 meta-analysis of 182 studies and 31,184 people found the effect survives correction for small-study bias, at g = 0.37.",
+    "detail": "Ye, Attali, Ghazi, Cachia, Cassotti and Borst pooled 366 effect sizes from 182 studies published between 1977 and 2025, covering 31,184 participants. Their funnel plot and Egger test showed asymmetry, t(364) = 9.77, p < .001, so they applied a PEESE correction and used the corrected model as the baseline for everything else. The corrected estimate is g = 0.37, 95% CI [0.30, 0.44], with sensitivity analyses spanning g = 0.35 to 0.44 depending on how missing standard deviations were imputed. Heterogeneity is large, Q(364) = 4,445, p < .001. Moderators do most of the interesting work. Asking people to judge truth at first exposure cut the effect to g = 0.10, against g = 0.42 when the first-exposure task was unrelated. Marking a statement false at first exposure reversed it to g = -0.18, against g = 0.43 with no cue. News headlines produced g = 0.17, against g = 0.41 for standard trivia statements. Single studies point the same way. Fazio, Rand and Pennycook ran a preregistered experiment with 503 people recruited on Mechanical Turk and found repeated statements rated true 52% of the time against 48% for novel ones, t(502) = 9.19, p < .001, d = 0.41. Pennycook, Cannon and Rand used real fake-news headlines with 949 participants and found a single prior exposure raised accuracy ratings from 1.65 to 1.77, t(948) = 7.60, p < .001, d = 0.25.",
+    "study": {
+      "cite": "Ye, S., Attali, D., Ghazi, M., Cachia, A., Cassotti, M., & Borst, G. (2026). Systematic review and meta-analysis of the evidence for an illusory truth effect and its determinants. Nature Communications, 17(1), 3270.",
+      "doi": "10.1038/s41467-026-70041-x",
+      "year": 2026,
+      "n": 31184
+    },
+    "replicated": { "es": 0.37, "esType": "g", "ci": [0.3, 0.44], "ciLevel": 95 }
+  },
+  "limits": "The full text of Dechêne, Stahl, Hansen and Wänke's 2010 meta-analysis is behind a paywall and could not be read for this entry. Its pooled figures are quoted here at one remove. Ye and colleagues describe it as covering 51 studies and 102 effect sizes published up to 2006. They report its estimates as d = 0.39, 95% CI [0.32, 0.47] on the within-items criterion and d = 0.50, 95% CI [0.43, 0.57] on the between-items criterion. Those numbers have not been checked against the paper itself. The effect also decays. Henderson, Simons and Barr ran a registered report with 608 participants, 567 of them analysed, varying the gap between exposure and test. Repeated statements beat new ones at every interval. The gap on their 7-point scale fell from 0.68 immediately to 0.39 after a day, 0.27 after a week and 0.14 after a month, chi-squared(3) = 121.15, p < .001 for the interaction with interval. The pooled g of 0.37 is small, it is an average over conditions that differ by a factor of four, and the corpus it comes from shows clear small-study effects before correction. Almost all of the evidence is ratings on a scale, not decisions or behaviour.",
+  "misreadings": "The popular form of the claim is that repeating a lie often enough turns it into a believed truth. What the studies show is a shift in average rating, usually a fraction of a point on a six- or seven-point scale, not the conversion of disbelief into belief. Repetition is also often described as working only on claims people have no view about, which is the assumption Fazio and colleagues tested and rejected in 2015 and again with a cleaner design in 2020. The opposite overstatement circulates too. Pennycook, Cannon and Rand reported that flatly absurd statements did not budge, and that reads as a floor on the effect. Fazio, Rand and Pennycook then showed by simulation that a constant repetition effect produces exactly that flat tail through the psychometrics of a binary task. No mechanism that switches off is needed. Warnings are the practical case people get wrong. Labelling a headline as disputed did not stop prior exposure from raising its perceived accuracy. A correction issued after the fact is not the same intervention as a veracity cue given at first exposure, which the meta-analysis finds reverses the effect.",
+  "sources": [
+    {
+      "text": "Hasher, L., Goldstein, D., & Toppino, T. (1977). Frequency and the conference of referential validity. Journal of Verbal Learning and Verbal Behavior, 16(1), 107-112.",
+      "doi": "10.1016/S0022-5371(77)80012-1",
+      "url": "https://doi.org/10.1016/S0022-5371(77)80012-1",
+      "type": "primary"
+    },
+    {
+      "text": "Ye, S., Attali, D., Ghazi, M., Cachia, A., Cassotti, M., & Borst, G. (2026). Systematic review and meta-analysis of the evidence for an illusory truth effect and its determinants. Nature Communications, 17(1), 3270.",
+      "doi": "10.1038/s41467-026-70041-x",
+      "url": "https://doi.org/10.1038/s41467-026-70041-x",
+      "type": "replication"
+    },
+    {
+      "text": "Dechene, A., Stahl, C., Hansen, J., & Wanke, M. (2010). The truth about the truth: A meta-analytic review of the truth effect. Personality and Social Psychology Review, 14(2), 238-257.",
+      "doi": "10.1177/1088868309352251",
+      "url": "https://doi.org/10.1177/1088868309352251",
+      "type": "replication"
+    },
+    {
+      "text": "Fazio, L. K., Brashier, N. M., Payne, B. K., & Marsh, E. J. (2015). Knowledge does not protect against illusory truth. Journal of Experimental Psychology: General, 144(5), 993-1002.",
+      "doi": "10.1037/xge0000098",
+      "url": "https://doi.org/10.1037/xge0000098",
+      "type": "replication"
+    },
+    {
+      "text": "Fazio, L. K. (2020). Repetition increases perceived truth even for known falsehoods. Collabra: Psychology, 6(1), 38.",
+      "doi": "10.1525/collabra.347",
+      "url": "https://doi.org/10.1525/collabra.347",
+      "type": "replication"
+    },
+    {
+      "text": "Fazio, L. K., Rand, D. G., & Pennycook, G. (2019). Repetition increases perceived truth equally for plausible and implausible statements. Psychonomic Bulletin & Review, 26(5), 1705-1710.",
+      "doi": "10.3758/s13423-019-01651-4",
+      "url": "https://doi.org/10.3758/s13423-019-01651-4",
+      "type": "replication"
+    },
+    {
+      "text": "Pennycook, G., Cannon, T. D., & Rand, D. G. (2018). Prior exposure increases perceived accuracy of fake news. Journal of Experimental Psychology: General, 147(12), 1865-1880.",
+      "doi": "10.1037/xge0000465",
+      "url": "https://doi.org/10.1037/xge0000465",
+      "type": "replication"
+    },
+    {
+      "text": "Henderson, E. L., Simons, D. J., & Barr, D. J. (2021). The trajectory of truth: A longitudinal study of the illusory truth effect. Journal of Cognition, 4(1), 29.",
+      "doi": "10.5334/joc.161",
+      "url": "https://doi.org/10.5334/joc.161",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
