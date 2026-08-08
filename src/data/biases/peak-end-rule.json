@@ -1,0 +1,99 @@
+{
+  "no": 76,
+  "slug": "peak-end-rule",
+  "name": "Peak–end rule",
+  "aliases": [
+    "Peak-and-end rule",
+    "Peak–end effect",
+    "Snapshot model of remembered utility"
+  ],
+  "category": "memory",
+  "statement": "People judge a past episode by its most intense moment and its final moment, and take almost no account of how long it lasted.",
+  "meaning": "The rule describes how an experience is compressed for storage. A colonoscopy, a film or a holiday is lived as hundreds of moments, and the retrospective verdict on it is well predicted by an average of two of them: the worst or best moment, and the last one. Everything in between is weighted lightly, and the number of moments is weighted close to zero. Two claims are bundled together here and they can come apart. The peak–end rule says which moments carry the verdict. Duration neglect says the length of the episode does not, and it is the older of the two findings. The practical consequence is that remembered utility and experienced utility diverge, so a person choosing which episode to repeat can choose the one that contained more total pain.",
+  "origin": {
+    "year": 1993,
+    "who": "Daniel Kahneman, Barbara L. Fredrickson, Charles A. Schreiber and Donald A. Redelmeier",
+    "where": "Psychological Science",
+    "note": "The cold-pressor paper names the pattern and tests it against a direct choice. Its companion, Fredrickson and Kahneman in the Journal of Personality and Social Psychology four months earlier, established duration neglect with film clips and is the paper the 2022 meta-analysis credits for both ideas."
+  },
+  "evidence": "Thirty-two male students at the University of California, aged 19 to 39, held one hand in water at 14 °C for 60 seconds, and on another trial held the other hand in 14 °C water for 60 seconds then kept it in for 30 seconds more while the temperature rose to about 15 °C. The long trial contained all the pain of the short one and then more. Told they would repeat one of the two, 22 of 32 chose the long trial, z = 2.15, p < .05 by sign test. A version with the moment-by-moment discomfort meter removed found 24 of 37 doing the same. The pattern then held in a hospital. Redelmeier and Kahneman recorded real-time pain in 154 colonoscopy patients and 133 lithotripsy patients, and found remembered total pain correlated with peak intensity and with intensity over the last three minutes, both at P < 0.005, while long procedures were not remembered as worse. A 2003 randomised trial then manipulated the ending: 682 patients, half of whom had the colonoscope left resting in the rectum for up to three minutes. Final-minute pain fell from 2.5 to 1.7 on a ten-point scale, P < 0.001, the global rating from 4.9 to 4.4 on a 10 cm scale, P = 0.006, and the ranking against seven other unpleasant events from 4.6 to 4.1, P = 0.002.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A meta-analysis of 174 effect sizes puts the peak–end effect at r = 0.581, and three separate attempts on pleasant or extended episodes found nothing at all.",
+    "detail": "Alaybek and colleagues pooled 174 effect sizes and report the peak–end effect on retrospective evaluations at r = 0.581, 95% CI 0.487 to 0.661, robust across their boundary conditions and stronger than the effects of the first episode, the trough, the trend and the variability. Duration came out essentially nil, so duration neglect survives the pooling as clearly as the peak–end rule does. The failures cluster where the episodes are pleasant or long. Kemp, Burt and Furneaux had 49 students text a daily happiness rating from holidays averaging 7.5 days. Recalled holiday happiness correlated .48 with the peak–end composite, against .64 with the average of the daily ratings and .63 with the happiness of the most memorable day. Peak happiness alone correlated .07, and holiday duration .06, so duration was neglected while the peak did no work. Mah and Bernstein ran three experiments on 988 people to repeat Do, Rupert and Wolford's gift studies, in which a desirable gift followed by a less desirable one had been rated worse than the desirable gift alone. They found no such effect in preschoolers, older children, younger adults or older adults, and a Bayesian meta-analysis across their three experiments returned BF01 = 7.77 against the rule. Strijbosch and colleagues gave 40 students a virtual-reality film and segmented it by what each viewer recounted. Peak valence predicted immediate remembered valence best, R2 = .419, but a week later the average across the whole episode won, R2 = .462.",
+    "study": {
+      "cite": "Alaybek, B., Dalal, R. S., Fyffe, S., Aitken, J. A., Zhou, Y., Qu, X., Roman, A., & Baines, J. I. (2022). All's well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect. Organizational Behavior and Human Decision Processes, 170, 104149.",
+      "doi": "10.1016/j.obhdp.2022.104149",
+      "year": 2022
+    },
+    "replicated": {
+      "es": 0.581,
+      "esType": "r",
+      "ci": [
+        0.487,
+        0.661
+      ],
+      "ciLevel": 95,
+      "weighting": "meta-analytic across 174 effect sizes"
+    }
+  },
+  "limits": "The 2003 trial is the weakest link in the popular account and its own paper says so. Its principal analysis was the rate of returning for a repeat colonoscopy, and on that measure the intervention did nothing: 53% against 48%, P > 0.20, an odds ratio of 1.18 with a 95% confidence interval running from a 13% fall to a 59% rise. The 41% increase in the odds of returning, 95% CI 2 to 96, P = 0.038, appears only after adjusting for prior colonoscopy, indication and abnormal findings, and the authors list under limitations that the difference was found only after that adjustment. The memory outcomes are the ones that came out clean. No effect size is printed here for the 1993 cold-pressor study, which reports a choice proportion rather than a standardised effect. The correlations of remembered pain with peak-and-end predictions in the 1996 study, r = .67 for colonoscopy and r = .65 for lithotripsy, are quoted by Kemp and colleagues in 2008 and are not read off the 1996 paper, which is paywalled and is used here only through its abstract. The 2022 meta-analysis is likewise paywalled; its abstract was read in full and none of its moderator results are quoted. Searches covered Crossref, PubMed, Semantic Scholar, Google via web search, and the full text of the six papers obtained.",
+  "misreadings": "The rule is repeatedly reported as showing that patients given a gentler ending came back for repeat colonoscopies more often. That was the trial's principal outcome and it was null before covariate adjustment. Duration neglect and the peak–end rule are also treated as one claim. They are separable, and Kemp's holiday study is the case that separates them: duration was neglected, correlating .06 with recalled happiness, while the peak carried nothing at .07 and the rule failed anyway. A third error is to reduce the rule to endings. It is an average of two moments, and in the studies where it fails the peak is usually the part that breaks. The last error is scope. Every clean demonstration involves a short aversive episode, and the attempts to carry it to gifts, holidays and immersive film have not found it, which is why the state above is mixed rather than replicated.",
+  "sources": [
+    {
+      "text": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. Psychological Science, 4(6), 401-405.",
+      "doi": "10.1111/j.1467-9280.1993.tb00589.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.1993.tb00589.x",
+      "type": "primary"
+    },
+    {
+      "text": "Fredrickson, B. L., & Kahneman, D. (1993). Duration neglect in retrospective evaluations of affective episodes. Journal of Personality and Social Psychology, 65(1), 45-55. Read here from its PubMed abstract.",
+      "doi": "10.1037/0022-3514.65.1.45",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8355141/",
+      "type": "primary"
+    },
+    {
+      "text": "Redelmeier, D. A., & Kahneman, D. (1996). Patients' memories of painful medical treatments: real-time and retrospective evaluations of two minimally invasive procedures. Pain, 66(1), 3-8. Paywalled; read here from its PubMed abstract.",
+      "doi": "10.1016/0304-3959(96)02994-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8857625/",
+      "type": "primary"
+    },
+    {
+      "text": "Redelmeier, D. A., Katz, J., & Kahneman, D. (2003). Memories of colonoscopy: a randomized trial. Pain, 104(1), 187-194.",
+      "doi": "10.1016/S0304-3959(03)00003-4",
+      "url": "https://doi.org/10.1016/S0304-3959(03)00003-4",
+      "type": "primary"
+    },
+    {
+      "text": "Alaybek, B., Dalal, R. S., Fyffe, S., Aitken, J. A., Zhou, Y., Qu, X., Roman, A., & Baines, J. I. (2022). All's well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect. Organizational Behavior and Human Decision Processes, 170, 104149. Paywalled; the figures here come from its abstract.",
+      "doi": "10.1016/j.obhdp.2022.104149",
+      "url": "https://doi.org/10.1016/j.obhdp.2022.104149",
+      "type": "replication"
+    },
+    {
+      "text": "Kemp, S., Burt, C. D. B., & Furneaux, L. (2008). A test of the peak-end rule with extended autobiographical events. Memory & Cognition, 36(1), 132-138.",
+      "doi": "10.3758/MC.36.1.132",
+      "url": "https://doi.org/10.3758/MC.36.1.132",
+      "type": "replication"
+    },
+    {
+      "text": "Mah, E. Y., & Bernstein, D. M. (2019). No peak-end rule for simple positive experiences observed in children and adults. Journal of Applied Research in Memory and Cognition, 8(3), 337-346. Read here from the authors' accepted post-print.",
+      "doi": "10.1037/h0101838",
+      "url": "https://ericymah.netlify.app/uploads/publications/MahBernstein2019.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Do, A. M., Rupert, A. V., & Wolford, G. (2008). Evaluations of pleasurable experiences: The peak-end rule. Psychonomic Bulletin & Review, 15(1), 96-98. The gift studies Mah and Bernstein failed to repeat.",
+      "doi": "10.3758/PBR.15.1.96",
+      "url": "https://doi.org/10.3758/PBR.15.1.96",
+      "type": "primary"
+    },
+    {
+      "text": "Strijbosch, W., Mitas, O., van Gisbergen, M., Doicaru, M., Gelissen, J., & Bastiaansen, M. (2019). From experience to memory: On the robustness of the peak-and-end-rule for complex, heterogeneous experiences. Frontiers in Psychology, 10, 1705.",
+      "doi": "10.3389/fpsyg.2019.01705",
+      "url": "https://doi.org/10.3389/fpsyg.2019.01705",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

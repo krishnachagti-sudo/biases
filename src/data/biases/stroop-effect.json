@@ -1,0 +1,101 @@
+{
+  "no": 72,
+  "slug": "stroop-effect",
+  "name": "Stroop effect",
+  "aliases": ["Stroop interference", "Stroop task", "Colour-word interference", "Stroop Color-Word Test"],
+  "category": "perception",
+  "statement": "Naming the ink colour of a printed colour word is slowed when the word names a different colour, while reading the word is barely slowed by the ink.",
+  "meaning": "The interference runs one way. A skilled reader cannot look at the word 'red' without reading it, so when the task is to say the ink colour instead, the wrong answer arrives first and has to be held back. Reversing the task removes almost all of the cost: an incongruent ink colour does little to the speed of reading the word. That asymmetry is the finding, and it is usually taken as evidence that reading has become automatic while colour naming has not. The effect is measured as a difference score, the incongruent condition minus a control condition, and that scoring choice matters more than it looks.",
+  "origin": {
+    "year": 1935,
+    "who": "J. Ridley Stroop",
+    "where": "Journal of Experimental Psychology",
+    "note": "The paper is \"Studies of interference in serial verbal reactions\", submitted as a doctoral thesis at George Peabody College and received by the journal on 15 August 1934. Stroop was writing about interference in general and gave his materials no name; the label came from later authors."
+  },
+  "evidence": "Stroop ran three experiments with printed cards, not single trials, and timed each card with a stop watch. The colours were red, blue, green, brown and purple, arranged so that no word appeared in the colour it named. Experiment 1 asked 70 undergraduates, 14 men and 56 women, to read 100 colour names aloud, once printed in conflicting inks and once in black. The conflicting inks cost 2.3 seconds, 5.6% of the black-print time, which Stroop reported as not reliable at D/PEd = 3.64. Experiment 2 switched the task to naming the ink colours, with solid colour squares as the control, and used 100 students: 88 undergraduates and 12 graduate women. Mean time for 100 responses rose from 63.3 seconds to 110.3 seconds, an increase of 47.0 seconds or 74.3%. The standard deviation rose from 10.8 to 18.8, leaving the coefficient of variability unchanged at .171, and the gap of 47 seconds was 4.35 standard deviations of the control condition. Stroop added twice the average time per word for each uncorrected error, a correction he called arbitrary, which moved the two means from 108.7 and 63.0. Experiment 3 gave 32 University of Arizona undergraduates, 17 men and 15 women, eight days of practice at naming the ink colours, 200 reactions a day. Colour naming under conflicting words improved by 16.8 seconds, 33.9% of the first day's mean, while the plain colour-naming control improved by only 4.0 seconds or 13.9%. Practice also made reading harder: the interference it built up in word reading fell from 34.8 seconds to 22.0 seconds after a single day of reading practice.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Many Labs 3 obtained the effect in every one of its 21 samples, d = 0.88 across 3,337 people, with 4% of the variance in effect size attributable to site.",
+    "detail": "Ebersole and 63 colleagues ran ten effects in 20 university participant pools and one online sample. The Stroop task was the strongest of them. Across 3,337 participants the aggregate effect was d = 0.88, 95% CI [0.84, 0.92], t(3336) = 49.795, p < .001, with a median site estimate of 0.89 and a meta-analytic estimate of 0.91, 95% CI [0.84, 0.98]. Every sample returned a positive effect at p < .05, and none returned a null or a reversal. Heterogeneity was near the floor, Q(20) = 15.19, p = .77, I-squared = 4.05%. The error rates moved with the times: participants made 1.6 percentage points more errors on incongruent trials, t(3337) = 18.52, d = .32, 95% CI [.29, .36]. The original effect size those authors compared against, d = 2.04, 95% CI [1.90, 2.18], is not Stroop's own figure. It is the young-adult aggregate from Verhaeghen and De Meersman's meta-analysis of 20 studies in 15 articles, which put older adults at d = 2.17 and found no age difference beyond general slowing. MacLeod repeated Stroop's first two experiments directly. With 50 subjects he found no interference from incongruent colours in word reading, 41.58 seconds against 41.16, F(1, 49) = 1.86, p = .17, matching Stroop's null. With 40 subjects naming ink colours he found 102.27 seconds against 59.76, F(1, 39) = 363.65, p < .001. Both experiments came out where Stroop left them, half a century later.",
+    "study": {
+      "cite": "Ebersole, C. R., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "year": 2016,
+      "sites": 21,
+      "n": 3337
+    },
+    "original": { "es": 2.04, "esType": "d", "ci": [1.9, 2.18], "ciLevel": 95 },
+    "replicated": { "es": 0.88, "esType": "d", "ci": [0.84, 0.92], "ciLevel": 95 },
+    "indexedBy": "Many Labs 3"
+  },
+  "limits": "The group effect is close to unbreakable. The measure of one person is not. Hedge, Powell and Sumner gave seven classic tasks to undergraduates twice, three weeks apart, in two studies of 50 and 62 people. Reliabilities across the seven ranged from 0 to .82 and none reached .8. The Stroop reaction-time cost was among the better ones, at ICC = .60, 95% CI [.31, .78], and ICC = .66, 95% CI [.26, .83]. It still sat below its own ingredients. Congruent trials scored .77 and .72, incongruent trials .67 and .70. Subtracting one condition from the other strips out the between-person variance a correlation needs and leaves the noise. Their argument is that the two properties are the same property. An effect becomes famous because people differ little in it, and a measure ranks people badly for the same reason. MacLeod had already recorded the pattern in 1991, citing Harbeson and colleagues on a group Stroop test whose individual card times were reasonably reliable and whose difference scores were not. Enkavi and colleagues found the same shape at scale, with a median test-retest ICC of 0.311 for behavioural task measures in 150 people against 0.674 for self-report surveys, at a median gap of 115 days. The consequence is practical. A Stroop difference score is a poor input to any study correlating attention with brain structure, personality or diagnosis, however certain the underlying effect is. The emotional Stroop, in which the words are threatening rather than colour names, is a separate literature with a separate record and is treated below.",
+  "misreadings": "Most descriptions of the 1935 paper are wrong about it. MacLeod, who read the whole literature for his review, lists the errors. People write as though there were one experiment with four conditions rather than three separate ones. The word-reading data of Experiment 1 usually go unmentioned. Stroop is credited with a congruent condition of colour words in matching inks, which he never used, and with timing single stimuli, which he never did. His paper contains no theory of automaticity, and it does contain the first report of the reverse effect. The second misreading concerns what the task measures. MacLeod titled a 1992 commentary \"The Stroop task: The 'gold standard' of attentional measures\". By his count at least 300 of the more than 700 Stroop articles then in print used interference as a measure of attention in individual differences, drug effects and the like. The reliability work above is the reason to be careful with that use. A task can produce the same effect in every laboratory on earth and still fail to tell one person from another. Reading the task as a window into what somebody is preoccupied with is the third error, and the emotional Stroop is where it happens. Bar-Haim and colleagues pooled 172 studies of threat-related attentional bias, 2,263 anxious and 1,768 non-anxious participants, and found d = 0.45 overall with no bias at all in non-anxious people. Phaf and Kan pooled 70 emotional Stroop studies. They found no interference when threat words were shown too briefly to be seen consciously, and reliable effects only in fully conscious conditions among high-anxious and clinical participants. The largest effects came from blocked presentation, which points at slow disengagement rather than a fast automatic bias. Fisk and Haase ran the masked version online with 45 people and the unmasked version with 50, and found nothing either way, t(49) = .56, p = .58, d = .08 on the unmasked test. Eide and colleagues had already shown the reliability problem here. Over one week, reaction times in each emotion condition retested well and the interference indices did not. Nothing in the colour-word literature licenses using the task to detect a guilty conscience or a hidden concern in an ordinary person.",
+  "sources": [
+    {
+      "text": "Stroop, J. R. (1935). Studies of interference in serial verbal reactions. Journal of Experimental Psychology, 18(6), 643-662.",
+      "doi": "10.1037/h0054651",
+      "url": "https://psychclassics.yorku.ca/Stroop/",
+      "type": "primary"
+    },
+    {
+      "text": "MacLeod, C. M. (1991). Half a century of research on the Stroop effect: An integrative review. Psychological Bulletin, 109(2), 163-203.",
+      "doi": "10.1037/0033-2909.109.2.163",
+      "url": "https://doi.org/10.1037/0033-2909.109.2.163",
+      "type": "review"
+    },
+    {
+      "text": "MacLeod, C. M. (1992). The Stroop task: The \"gold standard\" of attentional measures. Journal of Experimental Psychology: General, 121(1), 12-14.",
+      "doi": "10.1037/0096-3445.121.1.12",
+      "url": "https://doi.org/10.1037/0096-3445.121.1.12",
+      "type": "review"
+    },
+    {
+      "text": "Ebersole, C. R., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "url": "https://doi.org/10.1016/j.jesp.2015.10.012",
+      "type": "replication"
+    },
+    {
+      "text": "Verhaeghen, P., & De Meersman, L. (1998). Aging and the Stroop effect: A meta-analysis. Psychology and Aging, 13(1), 120-126.",
+      "doi": "10.1037/0882-7974.13.1.120",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9533194/",
+      "type": "replication"
+    },
+    {
+      "text": "Hedge, C., Powell, G., & Sumner, P. (2018). The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences. Behavior Research Methods, 50(3), 1166-1186.",
+      "doi": "10.3758/s13428-017-0935-1",
+      "url": "https://doi.org/10.3758/s13428-017-0935-1",
+      "type": "critique"
+    },
+    {
+      "text": "Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test-retest reliabilities of self-regulation measures. Proceedings of the National Academy of Sciences, 116(12), 5472-5477.",
+      "doi": "10.1073/pnas.1818430116",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6431228/",
+      "type": "critique"
+    },
+    {
+      "text": "Bar-Haim, Y., Lamy, D., Pergamin, L., Bakermans-Kranenburg, M. J., & van IJzendoorn, M. H. (2007). Threat-related attentional bias in anxious and nonanxious individuals: A meta-analytic study. Psychological Bulletin, 133(1), 1-24.",
+      "doi": "10.1037/0033-2909.133.1.1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17201568/",
+      "type": "replication"
+    },
+    {
+      "text": "Phaf, R. H., & Kan, K. J. (2007). The automaticity of emotional Stroop: A meta-analysis. Journal of Behavior Therapy and Experimental Psychiatry, 38(2), 184-199.",
+      "doi": "10.1016/j.jbtep.2006.10.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17112461/",
+      "type": "replication"
+    },
+    {
+      "text": "Fisk, G. D., & Haase, S. J. (2022). No emotional Stroop effect from masked and unmasked stimuli in non-clinical young adults tested online. Journal of Articles in Support of the Null Hypothesis, 19(1).",
+      "url": "https://www.jasnh.com/pdf/Vol19-No1-article1.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Eide, P., Kemp, A., Silberstein, R. B., Nathan, P. J., & Stough, C. (2002). Test-retest reliability of the emotional Stroop task: Examining the paradox of measurement change. The Journal of Psychology, 136(5), 514-520.",
+      "doi": "10.1080/00223980209605547",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12431035/",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
