@@ -1,4 +1,4 @@
-// Shared across all Law Tome pages: theme persistence + toggle, and a small motion
+// Shared across all Bias Atlas pages: theme persistence + toggle, and a small motion
 // engine. Every animation here is gated behind <html class="anim">, which the head
 // script adds BEFORE first paint only when the visitor allows motion AND supports
 // IntersectionObserver. So no-JS and prefers-reduced-motion visitors never see (or
@@ -6,11 +6,14 @@
 (function () {
   var root = document.documentElement;
   var saved = null;
-  try { saved = localStorage.getItem('lt-theme'); } catch (e) {}
-  // Dark-first: the document ships data-theme="dark"; only drop to light when the
-  // visitor stored that choice or their OS explicitly prefers light.
+  // `ba-theme`, not the Law Tome's `lt-theme`. Both sites are served from
+  // github.io, so they share one origin and one localStorage; a shared key would
+  // let a theme chosen on one site silently apply to the other.
+  try { saved = localStorage.getItem('ba-theme'); } catch (e) {}
+  // Light-first: the document ships data-theme="light"; only rise to dark when the
+  // visitor stored that choice or their OS explicitly prefers dark.
   if (saved) root.setAttribute('data-theme', saved);
-  else if (window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches) root.setAttribute('data-theme', 'light');
+  else if (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) root.setAttribute('data-theme', 'dark');
 
   // Keep the browser-chrome colour in step with the ACTUAL theme. The static
   // <meta theme-color> pair keys off prefers-color-scheme, which a manual toggle
@@ -18,7 +21,7 @@
   function syncThemeColor(t) {
     var m = document.getElementById('tc-dyn');
     if (!m) { m = document.createElement('meta'); m.name = 'theme-color'; m.id = 'tc-dyn'; document.head.appendChild(m); }
-    m.setAttribute('content', t === 'light' ? '#f4f1e8' : '#000000');
+    m.setAttribute('content', t === 'dark' ? '#0d1117' : '#eceff2');
   }
 
   function wireTheme() {
@@ -35,7 +38,7 @@
       root.setAttribute('data-theme', next);
       btn.setAttribute('aria-pressed', next === 'dark' ? 'true' : 'false');
       syncThemeColor(next);
-      try { localStorage.setItem('lt-theme', next); } catch (e) {}
+      try { localStorage.setItem('ba-theme', next); } catch (e) {}
       if (root.classList.contains('anim')) {
         btn.classList.remove('spin'); void btn.offsetWidth; btn.classList.add('spin');
       }

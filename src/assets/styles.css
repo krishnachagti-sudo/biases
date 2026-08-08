@@ -1,9 +1,26 @@
-/* "Midnight" editorial system — dark by default. A single characterful text serif
-   (Newsreader) for reading and headings, Space Mono for the "system" labels, a deep
-   charcoal-ink field lit by a warm amber accent, and near-square corners. Light is
-   the secondary theme (html[data-theme="light"]). Veracity tiers keep four distinct
-   hues — green (empirical) · amber (heuristic) · grey (folk) · rust-red (contested) —
-   so the amber brand accent never collides with the "contested" flag. */
+/* "Datasheet" editorial system — light by default.
+
+   The layout in this file came from The Law Tome and should stay there: the
+   grid, the rails, the fact strip and the card geometry are the good part and
+   there is no reason to redraw them. What must NOT stay is the skin. Two sites
+   sharing one identity read as one site with two URLs, and this one is making a
+   different promise — the Tome collects received wisdom, this one checks it.
+   So everything that carries identity is deliberately the opposite number of
+   the Tome's, and the differences are listed here so nobody "restores" one by
+   accident:
+
+     Tome                          Atlas
+     dark first, warm black        light first, cool paper
+     Newsreader / Space Mono       Source Serif 4 / IBM Plex Mono
+     amber gilt accent             ink-blue accent
+     paper grain                   faint measuring grid
+     wax seal, ornament, Vol. I    accuracy-vs-precision mark, no furniture
+     lifted paper (real shadows)   flat sheet (hairline rules)
+
+   Dark is the secondary theme (html[data-theme="dark"]) and stays cool — slate,
+   not charcoal. The verdict hues (green replicated · red failed) are semantic
+   and keep clear of the blue accent, which is why the accent is blue and not,
+   say, teal. */
 :root{
   /* How tall the sticky masthead actually is. Every other sticky thing on the
      site — the A–Z jump bar, the law page's contents rail, the aside — parks
@@ -20,81 +37,80 @@
      lower down. Measured alongside --header-h. */
   --jump-h:0px;
 
-  /* Warm-neutral charcoal ramp. The previous set was a cold blue-grey with only
-     ~1.09:1 between the page and a card and 1.19:1 between a card and its own
-     border — every surface landed inside one narrow band, so the whole page read
-     as a single flat field. These steps are solved to fixed targets (card lifts
-     off the page at 1.25:1, border reads at 1.40:1) and warmed toward the ink-on-
-     paper character the light theme already has. */
-  --bg:#000000; --surface:#292725; --surface-2:#383634;
-  --ink:#f0ece2; --muted:#a8a293; --faint:#97958c; --read:#d6d1c4;
-  --line:#403e3c; --line-strong:#63615f;
-  --accent:#e0a43f; --accent-ink:#f3cb84; --accent-soft:#332811;
-  --gold:#caa153; --gold-soft:#2b2413;
-  --ok:#7fbb7c; --ok-soft:#182417;
-  --con:#df735b; --con-soft:#331812;
-  --on-accent:#1b1917;
-  --serif:'Newsreader',Georgia,'Times New Roman',serif;
-  --sans:'Newsreader',Georgia,serif;
-  --mono:'Space Mono',ui-monospace,monospace;
+  /* Cool-neutral paper ramp — the default, because this site reads as a
+     datasheet and a datasheet is white. The steps keep the contrast targets the
+     Tome's ramp was solved to (a card lifts off the page at ~1.25:1, a border
+     reads against its card at ~1.40:1); only the hue moved, from warm cream to
+     a blue-grey that does not compete with the ink-blue accent. */
+  --bg:#eceff2; --surface:#ffffff; --surface-2:#e0e5ea;
+  --ink:#131820; --muted:#4d5761; --faint:#68727d; --read:#242c35;
+  --line:#d2d9e0; --line-strong:#aeb8c2;
+  --accent:#1a4f8a; --accent-ink:#123765; --accent-soft:#dde8f5;
+  /* `--gold` is a legacy token name, kept because dozens of rules reference it.
+     It is the SECOND accent, not a metal: a muted steel that sits beside the
+     ink-blue without either one looking like a mistake. Renaming it is a
+     mechanical change worth doing, but not in the same commit as a reskin. */
+  --gold:#4a6a86; --gold-soft:#dfe7ee;
+  --ok:#1e7048; --ok-soft:#d8ecdf;
+  --con:#a72b38; --con-soft:#f7dde0;
+  --on-accent:#ffffff;
+  --serif:'Source Serif 4',Georgia,'Times New Roman',serif;
+  --sans:'Source Serif 4',Georgia,serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
   --r:2px;
-  --glow:0 0 0 1px rgba(224,164,63,.14);
-  /* Elevation. Depth was carried entirely by 1px borders, which on a black
-     field reads as line-art: everything sat in the same plane and only the
-     hover state ever lifted. On a dark theme a drop shadow alone cannot do the
-     job — black on black is invisible — so a raised surface gets a hairline
-     rim-light along its top edge (the way a real object catches ambient light)
-     plus a soft shadow beneath it. The rim is what sells it; the shadow only
-     anchors it. */
-  --e1:inset 0 1px 0 0 rgba(255,255,255,.055), inset 0 -1px 0 0 rgba(0,0,0,.5), 0 1px 2px rgba(0,0,0,.6);
-  --e2:inset 0 1px 0 0 rgba(255,255,255,.075), inset 0 -1px 0 0 rgba(0,0,0,.55), 0 3px 6px rgba(0,0,0,.5);
-  --e3:inset 0 1px 0 0 rgba(255,255,255,.1), inset 0 -1px 0 0 rgba(0,0,0,.6), 0 6px 14px rgba(0,0,0,.45);
+  --glow:0 0 0 1px rgba(26,79,138,.13);
+  /* Elevation, deliberately almost none. The Tome's cards are paper lifted off
+     paper and earn real shadows; these are cells ruled onto one sheet, so depth
+     is carried by the 1px border and the shadow only keeps an edge from
+     disappearing into the field. Neutral-cool, never warm — a warm shadow is
+     the single fastest way to make this look like the Tome again. */
+  --e1:0 1px 1px rgba(19,24,32,.04);
+  --e2:0 1px 2px rgba(19,24,32,.05), 0 4px 10px -6px rgba(19,24,32,.12);
+  --e3:0 2px 4px rgba(19,24,32,.06), 0 12px 24px -12px rgba(19,24,32,.16);
   /* The inverse: a recess, for anything the page should read as cut INTO the
      surface rather than laid on top of it — inputs, meters, wells. */
-  --well:inset 0 2px 5px -2px rgba(0,0,0,.85), inset 0 -1px 0 0 rgba(255,255,255,.03);
+  --well:inset 0 2px 4px -2px rgba(19,24,32,.16);
 }
-html[data-theme="light"]{
-  --bg:#f4f1e8; --surface:#fdfbf5; --surface-2:#ece7da;
-  --ink:#1d1b19; --muted:#555341; --faint:#6d6b5e; --read:#33352c;
-  --line:#dcd5c3; --line-strong:#c4b998;
-  --accent:#a4680f; --accent-ink:#734808; --accent-soft:#f0e3c6;
-  --gold:#87661f; --gold-soft:#e6dabb;
-  --ok:#3d7239; --ok-soft:#dde8d3;
-  --con:#b0402a; --con-soft:#f2ddd4;
-  --on-accent:#fbf7ec;
-  --glow:0 0 0 1px rgba(164,104,15,.12);
-  /* On cream the trick reverses: a rim-light would be invisible and a real,
-     warm-tinted shadow does all the work. Tinted rather than neutral grey, so
-     a raised card still looks like paper on paper. */
-  --e1:0 1px 1px rgba(60,48,26,.05), 0 3px 8px -4px rgba(60,48,26,.14);
-  --e2:0 2px 3px rgba(60,48,26,.06), 0 10px 20px -10px rgba(60,48,26,.2);
-  --e3:0 4px 6px rgba(60,48,26,.07), 0 20px 36px -16px rgba(60,48,26,.26);
-  --well:inset 0 2px 4px -2px rgba(60,48,26,.22);
+html[data-theme="dark"]{
+  /* Slate, not charcoal. The Tome's dark theme is a warm near-black with gilt;
+     going darker or warmer here would collapse the distinction the light theme
+     just established. */
+  --bg:#0d1117; --surface:#161c24; --surface-2:#1f2731;
+  --ink:#e7edf4; --muted:#9aa6b3; --faint:#8592a0; --read:#c9d4e0;
+  --line:#28313b; --line-strong:#414d5a;
+  --accent:#6ba6ec; --accent-ink:#a9cbf7; --accent-soft:#13273c;
+  --gold:#84a8c6; --gold-soft:#16222d;
+  --ok:#54b380; --ok-soft:#0f261a;
+  --con:#e4707d; --con-soft:#2b141a;
+  --on-accent:#0d1117;
+  --glow:0 0 0 1px rgba(107,166,236,.16);
+  /* On a dark field a drop shadow is invisible, so a raised surface needs a
+     hairline rim-light along its top edge instead. Kept far weaker than the
+     Tome's, because these are still meant to read as flat cells. */
+  --e1:inset 0 1px 0 0 rgba(255,255,255,.04);
+  --e2:inset 0 1px 0 0 rgba(255,255,255,.055), 0 2px 5px rgba(0,0,0,.4);
+  --e3:inset 0 1px 0 0 rgba(255,255,255,.07), 0 6px 14px rgba(0,0,0,.4);
+  --well:inset 0 2px 5px -2px rgba(0,0,0,.6);
 }
 *{box-sizing:border-box;margin:0;padding:0}
-/* atmospheric depth: a single warm amber wash bleeding from the top-right, fixed to
-   the viewport so it reads as ambient light over the charcoal field rather than a
-   band that scrolls with content. Barely-there on the light theme (darker accent). */
-/* Dark mode is BLACK — no page-wide wash. A radial gold gradient used to sit
-   over the whole background; at 8% accent it lifts the top-right corner to
-   rgb(18,13,5), which is exactly the muddy not-quite-black that gives a dark
-   theme away. The light theme keeps it, where a warm paper cast is the point. */
+/* No wash and no gradient. A tinted corner is exactly what makes a page feel
+   like printed stock, and this one is meant to feel like a measuring surface. */
 body{background:var(--bg);background-attachment:fixed;color:var(--ink);font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased;transition:background-color .35s ease,color .35s ease}
-html[data-theme="light"] body{background-image:radial-gradient(1100px 620px at 82% -6%,color-mix(in srgb,var(--accent) 8%,transparent),transparent 62%)}
-/* Paper grain. A flat #000 is black but it is also dead — the codex framing
-   wants some tooth in the surface. This is HIGH-FREQUENCY noise, not a wash:
-   it adds texture without lifting any region of the page, so black stays black
-   (mean lift is ~rgb(4,4,4)) and no corner reads warmer than another — the
-   exact failure the gradient had. Fixed, so it sits still while the page
-   scrolls, like grain in the paper rather than printed on it. */
-body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.15;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
-  background-size:180px 180px}
-/* On cream the same grain reads as the paper stock it is imitating, a touch
-   stronger because a light field hides it. */
-html[data-theme="light"] body::before{opacity:.1}
-/* Grain is decoration; anyone who asked for less motion/effect keeps a clean field. */
-@media(prefers-reduced-motion:reduce){body::before{opacity:.08}}
+/* A measuring grid where the Tome has paper grain. Same job — keep a flat field
+   from reading as dead — and the same construction: fixed to the viewport, so
+   it sits still while content scrolls, and low enough in contrast that it never
+   competes with a rule or a border. Squares rather than noise, because the
+   subject is measurement.
+   The lines are drawn in `currentColor` at low alpha via color-mix so the grid
+   follows the theme instead of needing a second definition for dark. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background-image:
+    linear-gradient(to right,color-mix(in srgb,var(--line-strong) 42%,transparent) 1px,transparent 1px),
+    linear-gradient(to bottom,color-mix(in srgb,var(--line-strong) 42%,transparent) 1px,transparent 1px);
+  background-size:44px 44px;opacity:.26}
+html[data-theme="dark"] body::before{opacity:.3}
+/* The grid is decoration; anyone who asked for less effect gets a clean sheet. */
+@media(prefers-reduced-motion:reduce){body::before{opacity:.14}}
 .wrap{max-width:1080px;margin:0 auto;padding:0 28px}
 /* wide shell for the law page: pushes the rails out toward the screen edges and
    frees a roomy centre column between them */
@@ -192,16 +208,21 @@ header.nav-open .menu-btn .m-close{display:block}
    top-right wash to frame the hero in warm light on the charcoal field */
 .hero::after{content:"";position:absolute;left:-6%;bottom:-40%;width:70%;height:120%;background:radial-gradient(closest-side,color-mix(in srgb,var(--accent) 12%,transparent),transparent);pointer-events:none;z-index:0}
 .hero .wrap{position:relative;z-index:1}
-.hero-mark{position:absolute;right:-64px;top:24px;width:392px;height:392px;color:var(--accent);opacity:.05;z-index:0;pointer-events:none}
-html[data-theme="dark"] .hero-mark{color:var(--gold);opacity:.07}
+/* .hero-mark and .orn are gone with the hero furniture they styled — the
+   watermark crest and the diamond rule were The Law Tome's, and nothing in
+   this site emits them any more. Deleted rather than left dead so nobody
+   restores the look by reintroducing the markup and finding it "already
+   supported". */
 .eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);display:flex;align-items:center;gap:10px}
 .eyebrow::before{content:"";width:26px;height:1px;background:var(--gold)}
 .lede{font-family:var(--serif);font-weight:400;font-size:clamp(19px,2.4vw,23px);line-height:1.4;
   color:var(--read);margin:14px 0 0;max-width:600px}
 .lede b{color:var(--ink);font-weight:600}
 .lede b{color:var(--ink);font-weight:600}
-.orn{display:block;width:128px;height:13px;margin:26px 0 0;color:var(--line-strong)}
-.stmt-wrap{max-width:760px;min-height:150px}
+/* The top margin used to come from the ornament rule that sat above this block.
+   Removing the ornament removed the space with it and dropped the meta line
+   flush against the hook box, so the gap is now this element's own. */
+.stmt-wrap{max-width:760px;min-height:150px;margin-top:44px}
 .stmt-meta{font-family:var(--mono);font-size:12px;color:var(--accent);letter-spacing:.03em;margin-bottom:12px;display:flex;gap:12px;align-items:center}
 .stmt-meta .dot{width:3px;height:3px;border-radius:50%;background:var(--faint)}
 .stmt-meta .cat{color:var(--faint)}
@@ -1095,7 +1116,6 @@ a.prose-law:hover,a.prose-law:focus-visible{color:var(--accent);border-bottom-co
 /* ---- hero load-in: eyebrow → lede → statement → actions → credit ---- */
 .anim .hero .eyebrow{animation:ltFadeUp .7s .05s both cubic-bezier(.22,.7,.2,1)}
 .anim .hero .lede{animation:ltFadeUp .7s .13s both cubic-bezier(.22,.7,.2,1)}
-.anim .hero .orn{animation:ltFadeIn .9s .2s both}
 .anim .hero .stmt-meta,.anim .hero .stmt-wrap{animation:ltFadeUp .8s .22s both cubic-bezier(.22,.7,.2,1)}
 .anim .hero .hero-actions{animation:ltFadeUp .8s .34s both cubic-bezier(.22,.7,.2,1)}
 .anim .hero .hero-credit,.anim .hero .attrib{animation:ltFadeIn 1s .52s both}
@@ -1243,7 +1263,6 @@ html{scroll-behavior:smooth}
 .narrow p b{color:var(--ink);font-weight:600}
 .narrow a{color:var(--accent);text-decoration:underline;text-underline-offset:2px}
 .narrow code{font-family:var(--mono);font-size:.85em;background:var(--surface-2);border:1px solid var(--line);border-radius:3px;padding:1px 6px;color:var(--accent-ink)}
-.narrow .orn{margin:22px 0 4px}
 .method{margin:8px 0;padding-left:24px}
 .method li{font-size:16px;line-height:1.72;color:var(--muted);margin-bottom:13px;padding-left:6px}
 .method li b{color:var(--ink);font-weight:600}
@@ -1270,29 +1289,31 @@ html{scroll-behavior:smooth}
 .narrow .fine{font-size:13px;color:var(--faint);margin-top:22px;line-height:1.65}
 
 /* ============ self-hosted fonts (was Google Fonts CDN) ============ */
-/* Newsreader (the editorial text serif that replaced Fraunces + Inter) is a
-   variable font: ONE rule spans wght 200..800, roman + italic, so the browser
-   instantiates the real weight instead of synthesising a fake bold/italic.
-   Space Mono is genuinely static, hence separate 400 / 700 faces.
+/* Source Serif 4 is a variable font: ONE rule spans wght 200..900 per style, so
+   the browser instantiates the real weight instead of synthesising a fake bold.
+   IBM Plex Mono is genuinely static, hence separate 400 / 600 faces.
 
-   Each family ships latin + latin-ext. latin-ext is NOT optional here: this is
-   a directory of eponymous laws (Erdős, Gödel, Łukasiewicz), and a missing
+   Each family ships latin + latin-ext. latin-ext is NOT optional here: entries
+   name the researchers behind them (Kahneman, Strack, Białek), and a missing
    latin-ext would drop a single glyph mid-name into a fallback serif.
    unicode-range keeps latin-ext a no-cost extra request until a page needs it.
    Rule order (latin-ext before latin) mirrors what Google emitted: the ranges
    overlap on the combining marks U+0304/0308/0329, and the last matching rule
    wins, so latin must come second. Byte-identical to the fonts the CDN served.
    Not vendored: vietnamese / greek / cyrillic — see fonts/README.md. */
-/* Newsreader — a screen text serif with newspaper character (replaces Fraunces +
-   Inter). Variable wght 200..800, roman + italic, latin + latin-ext. */
-@font-face{font-family:'Newsreader';font-style:normal;font-weight:200 800;font-display:swap;src:url('fonts/Newsreader-normal-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:'Newsreader';font-style:normal;font-weight:200 800;font-display:swap;src:url('fonts/Newsreader-normal-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
-@font-face{font-family:'Newsreader';font-style:italic;font-weight:200 800;font-display:swap;src:url('fonts/Newsreader-italic-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:'Newsreader';font-style:italic;font-weight:200 800;font-display:swap;src:url('fonts/Newsreader-italic-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
-@font-face{font-family:'Space Mono';font-style:normal;font-weight:400;font-display:swap;src:url('fonts/SpaceMono-Regular-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:'Space Mono';font-style:normal;font-weight:400;font-display:swap;src:url('fonts/SpaceMono-Regular-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
-@font-face{font-family:'Space Mono';font-style:normal;font-weight:700;font-display:swap;src:url('fonts/SpaceMono-Bold-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:'Space Mono';font-style:normal;font-weight:700;font-display:swap;src:url('fonts/SpaceMono-Bold-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+/* Source Serif 4 — the reading and heading face. Variable wght 200..900,
+   roman + italic, latin + latin-ext. A journal text serif: sturdier and less
+   literary than the Tome's Newsreader, which is the point. */
+@font-face{font-family:'Source Serif 4';font-style:normal;font-weight:200 900;font-display:swap;src:url('fonts/SourceSerif4-normal-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Source Serif 4';font-style:normal;font-weight:200 900;font-display:swap;src:url('fonts/SourceSerif4-normal-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Source Serif 4';font-style:italic;font-weight:200 900;font-display:swap;src:url('fonts/SourceSerif4-italic-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Source Serif 4';font-style:italic;font-weight:200 900;font-display:swap;src:url('fonts/SourceSerif4-italic-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+/* IBM Plex Mono — every "system" label: eyebrows, meta lines, fact-strip keys,
+   verdict badges. Static, so 400 and 600 are separate faces. */
+@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:400;font-display:swap;src:url('fonts/IBMPlexMono-Regular-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:400;font-display:swap;src:url('fonts/IBMPlexMono-Regular-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:600;font-display:swap;src:url('fonts/IBMPlexMono-SemiBold-latin-ext.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:600;font-display:swap;src:url('fonts/IBMPlexMono-SemiBold-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 
 /* ---- print -----------------------------------------------------------------
    A reference work gets printed and saved to PDF, so an entry should print as
@@ -1312,7 +1333,7 @@ html{scroll-behavior:smooth}
   body{background:#fff!important;background-image:none!important;color:#000}
   /* Screen-only furniture. */
   .kicker,header,footer,.toc,.aside,.progress,.skip,.chips,.browse-controls,
-  .az-nav,.sec-more,.field-hub,.prevnext,.entry-mark,.hero-mark,.orn,
+  .az-nav,.sec-more,.field-hub,.prevnext,.entry-mark,
   .graph-band,.coin,.hscroll,.src-trust,.cmp-foot,.quiz-foot,#rand,.search{display:none!important}
   /* Reveal-animated blocks must never print blank. */
   [data-reveal],[data-reveal-stagger]>*{opacity:1!important;transform:none!important;filter:none!important}

@@ -85,13 +85,15 @@ export function homePage({ base = '/', origin = '', entries = [], mapped = 0 } =
 })();</script>`
     : '';
 
+  // No watermark crest and no ornament rule below the lede. Both were The Law
+  // Tome's furniture, and a giant faint seal behind the text was the loudest
+  // single thing making this read as the same site. What is left is the words,
+  // which is what the hero is for.
   const heroSection = `<section class="hero">
-  <svg class="hero-mark" viewBox="0 0 100 100" aria-hidden="true" data-parallax="0.16"><use href="#seal"/></svg>
   <div class="wrap">
     <div class="eyebrow">${count > 0 ? `${n(count)} cognitive biases, each traced to the study behind it` : `${n(mapped)} cognitive biases identified — the entries are being written`}</div>
     <h1 class="lede">Everyone cites these. <b>Almost nobody checks whether they replicated.</b> ${count > 0 ? 'So every entry here answers that first.' : 'That is what this index is being written to answer.'}</h1>
-${hook}    <svg class="orn" viewBox="0 0 120 12" aria-hidden="true"><use href="#orn"/></svg>
-${first ? `    <div class="stmt-wrap">
+${hook}${first ? `    <div class="stmt-wrap">
       <div class="stmt-meta"><span id="m-no">№ ${escapeHtml(first.no)}</span><span class="dot"></span><span class="cat" id="m-cat">${escapeHtml(first.cat)}</span></div>
       <div class="stmt" id="stmt"><q>${first.stmt}</q></div>
       <div class="attrib" id="attrib">— <a class="who" href="${base}${entryPath(first)}">${escapeHtml(first.name)}</a></div>

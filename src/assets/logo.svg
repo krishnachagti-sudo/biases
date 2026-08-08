@@ -1,20 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Bias Atlas">
   <title>Bias Atlas</title>
-  <rect width="512" height="512" rx="96" fill="#14161c"/>
-  <g fill="none" stroke="#e0a43f" stroke-linejoin="round" stroke-linecap="round">
-    <!-- A globe whose grid is pulled off true: the sphere is drawn straight,
-         the meridians lean, and they lean the same way. A map of a round thing
-         distorts it systematically rather than carelessly, which is the same
-         sentence as the definition of a cognitive bias. -->
-    <circle cx="256" cy="256" r="128" stroke-width="18"/>
-    <g stroke-width="16">
-      <path d="M256 128 C 204 176, 204 336, 256 384"/>
-      <path d="M256 128 C 320 176, 332 336, 292 384"/>
-    </g>
-    <g stroke-width="11">
-      <path d="M136 208 C 192 194, 320 194, 376 208"/>
-      <path d="M128 256 C 188 242, 324 242, 384 256"/>
-      <path d="M136 304 C 192 290, 320 290, 376 304"/>
-    </g>
+  <rect width="512" height="512" rx="72" fill="#eceff2"/>
+  <!-- The same accuracy-versus-precision target the site wears: a tight cluster
+       of hits, consistently off the centre. Geometry mirrors markShapes() in
+       src/templates/partials.mjs at 5.12x (its 0-100 viewBox scaled to 512);
+       edit one and edit the other. Drawn on paper in ink blue: the two colours
+       are the light theme's background and accent tokens, verbatim.
+       (No double hyphens below — XML forbids them inside a comment, and this
+       file is rasterised by resvg, which enforces that.) -->
+  <g fill="none" stroke="#1a4f8a" stroke-width="11">
+    <circle cx="256" cy="256" r="205"/>
+    <circle cx="256" cy="256" r="132"/>
+    <circle cx="256" cy="256" r="59"/>
+  </g>
+  <g stroke="#1a4f8a" stroke-width="8" stroke-linecap="round">
+    <path d="M256 215 v82M215 256 h82"/>
+  </g>
+  <g fill="#1a4f8a">
+    <circle cx="338" cy="159" r="23"/>
+    <circle cx="379" cy="195" r="23"/>
+    <circle cx="333" cy="215" r="23"/>
   </g>
 </svg>

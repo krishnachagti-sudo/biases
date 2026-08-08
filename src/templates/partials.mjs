@@ -321,7 +321,11 @@ export function head({ title, description, base = '/', origin = '', path, canoni
   const serpDescription = description ? clampDescription(description) : description;
   const out = [
     '<!DOCTYPE html>',
-    '<html lang="en" data-theme="dark">',
+    // Light-first, unlike The Law Tome. The attribute is present in the shipped
+    // markup and rewritten by the inline theme script below before first paint,
+    // so the CSS keys both themes off `html[data-theme=…]` and never has to
+    // treat "no attribute" as a third case.
+    '<html lang="en" data-theme="light">',
     '<head>',
     '<meta charset="utf-8">',
     // viewport-fit=cover lets the page use the full screen on notched phones.
@@ -372,8 +376,8 @@ export function head({ title, description, base = '/', origin = '', path, canoni
   if (ogDesc) out.push(`<meta name="twitter:description" content="${escapeHtml(ogDesc)}">`);
   if (ogImage) out.push(`<meta name="twitter:image" content="${escapeHtml(ogImage)}">`);
   // Theme-color: match the masthead paper/ink so the browser chrome blends in.
-  out.push('<meta name="theme-color" content="#f4f1e8" media="(prefers-color-scheme: light)">');
-  out.push('<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">');
+  out.push('<meta name="theme-color" content="#eceff2" media="(prefers-color-scheme: light)">');
+  out.push('<meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)">');
   // Site identity: SVG favicon (modern browsers), a rasterised apple-touch-icon,
   // a web-app manifest, and RSS/Atom autodiscovery for the latest-entries feed.
   out.push(`<link rel="icon" href="${base}assets/logo.svg" type="image/svg+xml">`);
@@ -388,22 +392,26 @@ export function head({ title, description, base = '/', origin = '', path, canoni
   if (Array.isArray(alternates)) for (const a of alternates) {
     if (a && a.href && a.type) out.push(`<link rel="alternate" type="${escapeHtml(a.type)}"${a.title ? ` title="${escapeHtml(a.title)}"` : ''} href="${escapeHtml(a.href)}">`);
   }
-  // Preload the two primary text faces (Newsreader roman + italic, Latin) so the
-  // above-the-fold title and statement paint without waiting on the stylesheet to
-  // parse first — cuts LCP. Same URLs the @font-face rules resolve to, so they
+  // Preload the two primary text faces (Source Serif 4 roman + italic, Latin) so
+  // the above-the-fold title and statement paint without waiting on the stylesheet
+  // to parse first — cuts LCP. Same URLs the @font-face rules resolve to, so they
   // dedupe. Fonts require crossorigin even when same-origin.
-  out.push(`<link rel="preload" as="font" type="font/woff2" crossorigin href="${base}assets/fonts/Newsreader-normal-latin.woff2">`);
-  out.push(`<link rel="preload" as="font" type="font/woff2" crossorigin href="${base}assets/fonts/Newsreader-italic-latin.woff2">`);
+  out.push(`<link rel="preload" as="font" type="font/woff2" crossorigin href="${base}assets/fonts/SourceSerif4-normal-latin.woff2">`);
+  out.push(`<link rel="preload" as="font" type="font/woff2" crossorigin href="${base}assets/fonts/SourceSerif4-italic-latin.woff2">`);
   // Self-hosted stylesheets — replaces the prototype's Google-Fonts + jsDelivr
   // <link>s. Fonts are pulled in by the @font-face rules inside styles.css.
   out.push(`<link rel="stylesheet" href="${asset(base, 'assets/styles.css')}">`);
   out.push(`<link rel="stylesheet" href="${asset(base, 'assets/icons/tabler.css')}">`);
-  // Inline theme-init (mirrors common.js): set data-theme before first paint so
-  // dark-mode readers never flash the light theme. common.js is deferred below.
-  // Theme-init (flash-free dark mode) + reveal-arm: add `.anim` before first paint
-  // so scroll-reveal never flashes, but ONLY when motion is allowed and IO exists —
-  // otherwise content stays fully visible with no JS dependency.
-  out.push(`<script>(function(){var d=document.documentElement,t;try{t=localStorage.getItem('lt-theme')}catch(e){}if(t)d.setAttribute('data-theme',t);else if(window.matchMedia&&matchMedia('(prefers-color-scheme: light)').matches)d.setAttribute('data-theme','light');try{if(window.matchMedia&&!matchMedia('(prefers-reduced-motion: reduce)').matches&&'IntersectionObserver' in window)d.classList.add('anim')}catch(e){}})();</script>`);
+  // Inline theme-init (mirrors common.js): set data-theme before first paint so a
+  // dark-mode reader never flashes the light theme. Light-first, so the query is
+  // for `dark` — the inverse of The Law Tome's. The storage key is `ba-theme`, not
+  // the Tome's `lt-theme`: both sites are served from github.io, which means one
+  // origin and one localStorage, and a shared key would let a choice made on one
+  // site silently set the other's theme.
+  // Reveal-arm: add `.anim` before first paint so scroll-reveal never flashes, but
+  // ONLY when motion is allowed and IO exists — otherwise content stays fully
+  // visible with no JS dependency.
+  out.push(`<script>(function(){var d=document.documentElement,t;try{t=localStorage.getItem('ba-theme')}catch(e){}if(t)d.setAttribute('data-theme',t);else if(window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches)d.setAttribute('data-theme','dark');try{if(window.matchMedia&&!matchMedia('(prefers-reduced-motion: reduce)').matches&&'IntersectionObserver' in window)d.classList.add('anim')}catch(e){}})();</script>`);
   out.push(`<script defer src="${asset(base, 'assets/common.js')}"></script>`);
   if (Array.isArray(jsonld)) for (const block of jsonld) out.push(jsonLd(block));
   out.push('</head>');
@@ -412,45 +420,49 @@ export function head({ title, description, base = '/', origin = '', path, canoni
 }
 
 /**
- * Inline SVG <symbol> sprite (seal / wax / orn), referenced by the chrome via
- * <use href="#seal"> etc. Ported verbatim from the prototype.
+ * The site mark, as SVG children on a 0 0 100 100 viewBox.
+ *
+ * A target with a tight cluster of hits sitting off the centre — the standard
+ * accuracy-versus-precision diagram. It is the picture of what this site is
+ * about: the shots are consistent with each other and consistently wrong, which
+ * is the difference between random error and a bias, and the reason a result
+ * can be replicated and still not be true.
+ *
+ * It replaces a wax seal with a globe in it. That mark was fine, but it was The
+ * Law Tome's mark with a different engraving, and two sites cannot share one
+ * face. Nothing here is antiquarian: no arc of set type, no dashed rope border,
+ * no seal. Flat rings and dots, drawn in `currentColor` so the header, the
+ * footer and the favicon all take their colour from context.
+ *
+ * Shared with build/cards.mjs so the share image cannot drift from the site.
+ * @param {object} [o]
+ * @param {string} [o.stroke='currentColor']
+ * @param {string} [o.fill='currentColor'] colour of the three hits
+ */
+export function markShapes({ stroke = 'currentColor', fill = 'currentColor' } = {}) {
+  return `<g fill="none" stroke="${stroke}" stroke-width="2.2">
+      <circle cx="50" cy="50" r="45"/><circle cx="50" cy="50" r="29"/><circle cx="50" cy="50" r="13"/>
+    </g>
+    <g stroke="${stroke}" stroke-width="1.6" stroke-linecap="round">
+      <path d="M50,42 v16M42,50 h16"/>
+    </g>
+    <g fill="${fill}">
+      <circle cx="66" cy="31" r="4.4"/><circle cx="74" cy="38" r="4.4"/><circle cx="65" cy="42" r="4.4"/>
+    </g>`;
+}
+
+/**
+ * Inline SVG <symbol> sprite, referenced by the chrome via <use href="#seal">.
+ *
+ * `#seal` keeps its id although nothing about it is a seal any more: the id is
+ * referenced from the header, the footer and the home hero, and renaming it is
+ * a rename, not a redesign. The wax-blob and ornament symbols that came with
+ * the engine are gone — this site has no furniture to hang them on.
  */
 export function sprite() {
   return `<svg width="0" height="0" style="position:absolute" aria-hidden="true">
   <symbol id="seal" viewBox="0 0 100 100">
-    <defs><path id="seal-arc" d="M50,50 m-39,0 a39,39 0 1,1 78,0 a39,39 0 1,1 -78,0" fill="none"/></defs>
-    <circle cx="50" cy="50" r="47.2" fill="none" stroke="currentColor" stroke-width="1.4"/>
-    <circle cx="50" cy="50" r="39.5" fill="none" stroke="currentColor" stroke-width="0.6" stroke-dasharray="0.4 3" stroke-linecap="round"/>
-    <text font-family="'Space Mono',monospace" font-size="7" letter-spacing="1.7" fill="currentColor"><textPath href="#seal-arc" startOffset="1%">· BIAS ATLAS · WHAT REPLICATED · </textPath></text>
-    <!-- A globe whose grid is pulled off true. An atlas is a set of maps, and
-         every map of a round thing distorts it in a way that is systematic
-         rather than careless — which is the same sentence as the definition of
-         a cognitive bias. The outer sphere is drawn straight; the meridians
-         lean, and they lean the same way. -->
-    <g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round">
-      <circle cx="50" cy="50" r="22"/>
-      <path d="M50,28 C41,36 41,64 50,72"/>
-      <path d="M50,28 C61,36 63,64 56,72"/>
-    </g>
-    <g fill="none" stroke="currentColor" stroke-width="0.8" stroke-linecap="round">
-      <path d="M29.5,42 C39,39.5 61,39.5 70.5,42"/>
-      <path d="M28,50.5 C38,48 62,48 72,50.5"/>
-      <path d="M29.5,59 C39,56.5 61,56.5 70.5,59"/>
-    </g>
-  </symbol>
-  <symbol id="wax" viewBox="0 0 100 100">
-    <path d="M50,5 C57,4 59,12 65,15 C72,18 80,15 83,22 C87,30 80,36 82,44 C83,52 90,55 87,63 C84,72 74,70 69,76 C64,81 63,90 54,90 C46,91 43,83 36,81 C28,79 20,84 15,77 C10,69 17,62 15,54 C13,46 5,43 8,35 C11,27 20,28 25,23 C30,18 31,9 40,7 C44,6 46,5 50,5 Z" fill="currentColor"/>
-    <circle cx="50" cy="48" r="28" fill="none" stroke="rgba(0,0,0,.17)" stroke-width="1.3"/>
-    <g fill="none" stroke="rgba(0,0,0,.2)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
-      <path d="M50,38 v22"/><path d="M50,38 C44,35 37,35 32,37 L32,55 C37,53 44,53 50,56 Z"/>
-      <path d="M50,38 C56,35 63,35 68,37 L68,55 C63,53 56,53 50,56 Z"/>
-    </g>
-  </symbol>
-  <symbol id="orn" viewBox="0 0 120 12">
-    <line x1="0" y1="6" x2="48" y2="6" stroke="currentColor" stroke-width="1"/>
-    <line x1="72" y1="6" x2="120" y2="6" stroke="currentColor" stroke-width="1"/>
-    <path d="M60,1 L64,6 L60,11 L56,6 Z" fill="currentColor"/>
-    <circle cx="49.5" cy="6" r="1.3" fill="currentColor"/><circle cx="70.5" cy="6" r="1.3" fill="currentColor"/>
+    ${markShapes()}
   </symbol>
   <symbol id="moon" viewBox="0 0 24 24">
     <path d="M21 12.9A9 9 0 1 1 11.1 3 7 7 0 0 0 21 12.9Z" fill="currentColor"/>
@@ -520,8 +532,8 @@ export function header({ base = '/', active, count } = {}) {
   return `<a class="skip" href="#main-content">Skip to content</a>
 <header data-nosnippet>
   <div class="kicker"><div class="wrap kick-in">
-    <span class="k-l">Vol.&nbsp;I</span>
-    <span class="k-c">${escapeHtml(KICKER)} · est.&nbsp;mmxxvi</span>
+    <span class="k-l">Open data · CC&nbsp;BY&nbsp;4.0</span>
+    <span class="k-c">${escapeHtml(KICKER)}</span>
     <span class="k-r">no ads · no tracking</span>
   </div></div>
   <div class="wrap bar">
@@ -628,7 +640,7 @@ export function footer({ base = '/', scripts = '' } = {}) {
       </a>
       <p class="foot-blurb">Every named cognitive bias, with what the claim is, who made it, and what happened when the experiments behind it were repeated. No ads, no tracking of what you read.</p>
       <p class="foot-conyso">Created by <a href="https://conyso.com/founder/" rel="author">Krishna Chagti</a>.</p>
-      <p class="foot-motto">Sapere aude.</p>
+      <p class="foot-motto">Take nobody’s word for it.</p>
     </div>
       <nav class="foot-col" aria-label="This site">
         <h2>This site</h2>
