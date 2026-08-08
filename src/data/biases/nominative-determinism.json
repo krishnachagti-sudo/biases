@@ -1,0 +1,114 @@
+{
+  "no": 56,
+  "slug": "nominative-determinism",
+  "name": "Nominative determinism",
+  "aliases": ["Implicit egotism", "Name-letter effect in life decisions", "Aptronym"],
+  "category": "social",
+  "statement": "People are said to drift towards careers, towns and spouses whose names resemble their own, because they like the letters in their own name.",
+  "meaning": "Two different claims travel under one label. The weak one is a collector's joke: urologists called Splatt and Weedon exist, and they are funny. The strong one is causal and belongs to Brett Pelham and his co-authors, who named it implicit egotism. Most people hold favourable views of themselves, those views attach to the letters in their names, and the resulting preference is supposed to tip the largest decisions a person makes. Only the second claim is testable, because only it predicts a countable excess: more Dennises among dentists than the base rate for the name allows. The joke cannot be tested at all, since nobody records the dentists called Lawrence.",
+  "origin": {
+    "year": 1994,
+    "who": "John Hoyland, editor of the Feedback column",
+    "where": "New Scientist",
+    "note": "The founding item paired a book on the polar regions by Daniel Snowman with a guide to subterranean London co-written by Richard Trench. It then quoted Jen Hunt of the University of Manchester in The Psychologist: \"Authors gravitate to the area of research which fits their surname.\" Her example was a British Journal of Urology paper by Splatt and Weedon. New Scientist's own archive could not be opened for this entry, so the column's wording is quoted from Marc Abrahams at Improbable Research. The psychological claim is eight years younger than the phrase and comes from Pelham, Mirenberg and Jones in 2002."
+  },
+  "evidence": "Pelham, Mirenberg and Jones ran ten archival studies in 2002, mostly on the Social Security Death Index and on professional directories. Deceased women named Mildred and Virginia were distributed across Milwaukee and Virginia Beach in the predicted direction, chi-square(1) = 38.25, and the men named Jack and Philip more strongly still, chi-square(1) = 202.05. Across 35 American cities named after saints, 445 women lived in the city matching their first name against 308.8 expected, 44% above chance; for men the figures were 3,956 against 3,476, or 14% above. The career studies are the famous ones and the smallest. Comparing dentists with lawyers in eight states, the female result reached chi-square(1) = 4.72 and the male result did not reach significance at chi-square(1) = 2.14. A supplementary national count found 482 dentists named Dennis against 257 named Walter and 270 named Jerry, three names of near-identical census frequency, an odds ratio of 1.83. Among published geoscientists there were 93 called George or Geoffrey against 65.5 expected.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Simonsohn reproduced every original pattern and then showed the confounds account for them; the career claim is the one that does not survive.",
+    "detail": "Uri Simonsohn's 2011 paper in the same journal ran 14 new studies against the eight main findings of the Pelham group. He did not fail to replicate: he says plainly that the name-similarity effect is sizable, robust and widespread, and that implicit egotism is not what causes it. On dentists he used the same lawyer directory the original authors had used and counted 2,889 lawyers named Dennis against 1,411 named Jerry and 2,000 named Walter. That is a ratio of actual to expected frequency of 1.38 for Dennis-the-lawyer against 1.43 for Dennis-the-dentist, a difference of chi-square(1) = 1.28, p = .25. Dennis is simply a younger name than Walter, so more Dennises were still working. Georges and Geoffreys wrote 682 geoscience dissertations against 550.2 expected, and 25,351 dissertations in every other science against 19,250.6 expected, which makes them slightly less likely to pick geology than anything else. On states he took the whole Death Index, 80 million records, and the 5.97 million people born after the Social Security Act. People were disproportionately born in the state resembling their name, ratio 1.27, and no more likely to stay there, ratio 0.99, p = .45. On marriage, the same-initials excess in a Texas sample of 195,030 licences was entirely carried by couples sharing a whole surname; among Hispanic surnames the residue was 1.00. Of 95 towns whose founder he could trace, 72% were founded by someone with the matching surname. Pelham and Carvallo replied in the same issue. They argue that Simonsohn gives no reason implicit egotism should hold only in the laboratory, and that most of his studies lack the power to detect it. Simonsohn's rejoinder follows on pages 31 to 33. Chatterjee, Mishra and Mishra reported a positive result in the same journal in 2023, and it is evidence of a different kind, described under limits.",
+    "study": {
+      "cite": "Simonsohn, U. (2011). Spurious? Name similarity effects (implicit egotism) in marriage, job, and moving decisions. Journal of Personality and Social Psychology, 101(1), 1-24.",
+      "doi": "10.1037/a0021990",
+      "year": 2011
+    }
+  },
+  "limits": "None of this is experimental, because no one can assign a newborn a name at random and follow it for fifty years. Everything therefore turns on what the base rate should have been, which is exactly what the two sides disagree about. The laboratory finding underneath is not in dispute: Simonsohn calls the evidence that people like their own letters abundant and convincing, and says he believes implicit egotism is real and may act where a chooser is close to indifferent. The largest field study of the kind, by Anseel and Duyck, covered 528,007 Belgian employees and found a 1.13 excess of workers sharing an initial with their employer. Those figures are Simonsohn's description of that paper. He attributes the excess to family firms and to Flemish and Walloon naming. The 2023 result claiming the effect survives controls is not a study of anybody's job. Chatterjee, Mishra and Mishra measured cosine similarity between word vectors for names and for professions or cities, in word2vec and GloVe models trained on Common Crawl, Twitter, Google News and Google Books. Text co-occurrence is not a career. Three things this entry could not obtain. Pelham and Carvallo's 2015 paper in Self and Identity reports census analyses of surnames and trades, and sits behind a paywall these checks did not pass. The New Scientist issues themselves were unreachable. Sleigh's dental survey was read here only at its abstract.",
+  "misreadings": "Simonsohn is routinely described as having failed to replicate Pelham. He replicated the lot. The finding he attacked was the causal reading, and the distinction is the whole content of his paper. The original career evidence is also far smaller than its fame suggests. In the dentist-versus-lawyer table the female cell that carried the result held 30 women against 21.4 expected. A UK counter-example goes unmentioned in most retellings: Sleigh's survey of the British dental workforce reports that dentists hold dentally related surnames less often than the general population does, and calls the gap statistically reliable, while dental care professionals match the population. The founding anecdote is garbled too. Splatt and Weedon's 1977 paper is about the urethral syndrome and the Richardson urethroplasty rather than incontinence, and the first author is A. J. Splatt, not the J. W. Splatt that circulates. And the BMJ paper finding that people called Brady need pacemakers is a Christmas issue piece resting on eight patients.",
+  "sources": [
+    {
+      "text": "Pelham, B. W., Mirenberg, M. C., & Jones, J. T. (2002). Why Susie sells seashells by the seashore: Implicit egotism and major life decisions. Journal of Personality and Social Psychology, 82(4), 469-487.",
+      "doi": "10.1037/0022-3514.82.4.469",
+      "url": "https://doi.org/10.1037/0022-3514.82.4.469",
+      "type": "primary"
+    },
+    {
+      "text": "Jones, J. T., Pelham, B. W., Carvallo, M., & Mirenberg, M. C. (2004). How do I love thee? Let me count the Js: Implicit egotism and interpersonal attraction. Journal of Personality and Social Psychology, 87(5), 665-683.",
+      "doi": "10.1037/0022-3514.87.5.665",
+      "url": "https://doi.org/10.1037/0022-3514.87.5.665",
+      "type": "primary"
+    },
+    {
+      "text": "Simonsohn, U. (2011). Spurious? Name similarity effects (implicit egotism) in marriage, job, and moving decisions. Journal of Personality and Social Psychology, 101(1), 1-24.",
+      "doi": "10.1037/a0021990",
+      "url": "https://doi.org/10.1037/a0021990",
+      "type": "replication"
+    },
+    {
+      "text": "Pelham, B., & Carvallo, M. (2011). The surprising potency of implicit egotism: A reply to Simonsohn. Journal of Personality and Social Psychology, 101(1), 25-30.",
+      "doi": "10.1037/a0023526",
+      "url": "https://doi.org/10.1037/a0023526",
+      "type": "commentary"
+    },
+    {
+      "text": "Simonsohn, U. (2011). In defense of diligence: A rejoinder to Pelham and Carvallo (2011). Journal of Personality and Social Psychology, 101(1), 31-33.",
+      "doi": "10.1037/a0023232",
+      "url": "https://doi.org/10.1037/a0023232",
+      "type": "commentary"
+    },
+    {
+      "text": "Gallucci, M. (2003). I sell seashells by the seashore and my name is Jack: Comment on Pelham, Mirenberg, and Jones (2002). Journal of Personality and Social Psychology, 85(5), 789-799.",
+      "doi": "10.1037/0022-3514.85.5.789",
+      "url": "https://doi.org/10.1037/0022-3514.85.5.789",
+      "type": "commentary"
+    },
+    {
+      "text": "Chatterjee, P., Mishra, H., & Mishra, A. (2023). Does the first letter of one's name affect life decisions? A natural language processing examination of nominative determinism. Journal of Personality and Social Psychology, 125(5), 943-968.",
+      "doi": "10.1037/pspa0000347",
+      "url": "https://doi.org/10.1037/pspa0000347",
+      "type": "replication"
+    },
+    {
+      "text": "Anseel, F., & Duyck, W. (2008). Unconscious applicants: A systematic test of the name-letter effect. Psychological Science, 19(10), 1059-1061.",
+      "doi": "10.1111/j.1467-9280.2008.02199.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2008.02199.x",
+      "type": "primary"
+    },
+    {
+      "text": "Simonsohn, U. (2011). Spurious also? Name-similarity effects (implicit egotism) in employment decisions. Psychological Science, 22(8), 1087-1089.",
+      "doi": "10.1177/0956797611413937",
+      "url": "https://doi.org/10.1177/0956797611413937",
+      "type": "replication"
+    },
+    {
+      "text": "Pelham, B., & Mauricio, C. (2015). When Tex and Tess Carpenter build houses in Texas: Moderators of implicit egotism. Self and Identity, 14(6), 692-723. Paywalled; named here, not read for this entry.",
+      "doi": "10.1080/15298868.2015.1070745",
+      "url": "https://doi.org/10.1080/15298868.2015.1070745",
+      "type": "commentary"
+    },
+    {
+      "text": "Sleigh, J. (2016). What's in a name? Nominative determinism in the UK dental workforce. British Dental Journal, 221(12), 773-776. Read at abstract only.",
+      "doi": "10.1038/sj.bdj.2016.950",
+      "url": "https://doi.org/10.1038/sj.bdj.2016.950",
+      "type": "replication"
+    },
+    {
+      "text": "Splatt, A. J., & Weedon, D. (1977). The urethral syndrome: Experience with the Richardson urethroplasty. British Journal of Urology, 49(2), 173-176.",
+      "doi": "10.1111/j.1464-410x.1977.tb04095.x",
+      "url": "https://doi.org/10.1111/j.1464-410x.1977.tb04095.x",
+      "type": "primary"
+    },
+    {
+      "text": "Keaney, J. J., Groarke, J. D., Galvin, Z., et al. (2013). The Brady Bunch? New evidence for nominative determinism in patients' health: Retrospective, population based cohort study. BMJ, 347, f6627.",
+      "doi": "10.1136/bmj.f6627",
+      "url": "https://doi.org/10.1136/bmj.f6627",
+      "type": "commentary"
+    },
+    {
+      "text": "Abrahams, M. (2013). Where/when nominative determinism got its name. Improbable Research.",
+      "url": "https://improbable.com/2013/09/22/nominative-determinism/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

@@ -1,0 +1,144 @@
+{
+  "no": 62,
+  "slug": "locus-of-control",
+  "name": "Locus of control",
+  "aliases": ["Internal versus external control of reinforcement", "Internality-externality", "I-E", "Internal-external control"],
+  "category": "social",
+  "statement": "People differ in how far they believe outcomes follow from their own actions rather than from luck, fate or powerful others.",
+  "meaning": "Rotter put the idea inside social learning theory. Whether a reward changes behaviour depends on whether the person reads the reward as contingent on what they did. The generalised expectancy about that contingency is what the scale measures. Someone at the internal end treats results as following from effort and skill. Someone at the external end treats them as following from chance, fate or people with power. Siraji and Haque describe Rotter's instrument as 23 scored item pairs in a forced-choice format plus six filler pairs, with totals running from 0 to 23 and higher totals meaning more external. The construct is a stable difference between people rather than an error anyone commits on a given occasion, which is why it sits awkwardly beside the judgement biases in this corpus.",
+  "origin": {
+    "year": 1966,
+    "who": "Julian B. Rotter",
+    "where": "Psychological Monographs: General and Applied",
+    "note": "A monograph of 28 pages, volume 80 issue 1, gathering about a decade of work by Rotter and his students and introducing the I-E scale. The monograph itself is paywalled and was not read for this entry, so its scale description here comes from Siraji and Haque's account of it."
+  },
+  "evidence": "The scale was built as one dimension, and the first challenges to that came within a decade. Hanna Levenson told the 1973 American Psychological Association convention that lumping fate, chance and powerful others together under one heading was the problem, and she split externality in two. Her I, P and C scales carry eight items each in a Likert format, presented to the respondent as a single 24-item attitude scale. She reports Kuder-Richardson reliabilities in the mid .60s and high .70s for a student group, Spearman-Brown split-half figures in the mid .60s for an adult sample, and one-week test-retest figures in the .60s and .70s. In a college sample of 75 the P and C scales correlated with Rotter externality at .25 and .56, and the I scale at -.41. Two principal component analyses, one on 329 college males and one on 165 psychiatric inpatients, produced I, P and C as the first three factors, together accounting for 60% of the total variance. Levenson also reports that the P and C scales correlate with each other between .23 and .59 and are usually unrelated to the I scale, which is not what a bipolar dimension predicts. Beretvas and colleagues later ran a reliability generalisation study across published uses of Rotter's scale and of the Nowicki-Strickland scale. They found no reliable difference between the two scales in predicted internal consistency, and only the percentage of women in a sample predicted variation in internal consistency estimates. Testing interval length explained variation in the test-retest coefficients.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The correlates reproduce at modest size, around r = .30 for depression symptoms across 28,490 people, while the scale's single dimension and its separateness from neighbouring traits do not.",
+    "detail": "Cheng and colleagues pooled 152 independent samples covering 33,224 adults in 18 cultural regions. External locus of control correlated with depression symptoms at r = .30, 95% CI .27 to .32, across 123 samples and 28,490 people. Anxiety symptoms gave r = .30, 95% CI .27 to .33, across 65 samples and 13,208 people. Individualism explained 20% of unique variance in the anxiety link only: the correlation was .20, 95% CI .13 to .28, in collectivist societies against .32, 95% CI .29 to .34, in individualist ones. Judge and Bono's workplace meta-analysis, built on 274 correlations, gives estimated true score correlations of .32 between internal locus of control and job satisfaction and .22 with job performance. Health behaviour is weaker still. Cheng, Cheung and Lo pooled 76 samples of 76,580 people on specific health behaviours and found average correlations with the three health locus of control dimensions running from -.07 to .10. For global health appraisal, across 95 samples and 12,068 people, the correlations ran from -.16 to .21. The structural claims fare worse than the correlational ones. Lange and Tiggemann factored the I-E scale in Australian students and report that it is not additive but multidimensional, with two largely independent factors covering personal and political control. On retest 8 of the 9 General Control items loaded again on the first factor and all 5 Political Control items on the second, and the scale's test-retest reliability was .61. Walkey gave the Rotter and Levenson scales to 71 male and 85 female students, confirmed Levenson's three factors and added further evidence that Rotter's scale is multidimensional. The sharpest challenge is to the construct's separateness. Judge, Erez, Bono and Thoresen ran four studies on self-esteem, neuroticism, locus of control and generalised self-efficacy. They report that a single factor explained the relationships among measures of the four traits, and that discriminant validity was relatively poor. Each trait accounted for little incremental variance in predicting external criteria relative to the higher order construct. Judge later put the average correlation among the four at .59, and noted that locus of control fits the core self-evaluations typology less well than the other three do. On cohort change, Twenge, Zhang and Im report a shift toward externality of about .80 standard deviations between 1960 and 2002. Their data are 97 college samples of 18,310 students and 41 child samples of 6,554 children, with birth cohort and time period explaining 14% of the variance. Wang and Xin ran the same design on Chinese college students and found no change in Rotter scores between 2001 and 2019, and none in Levenson's internality, powerful others or chance scores between 1997 and 2018. Rudolph and colleagues ran a Monte Carlo study of the cross-temporal meta-analytic method itself and show that in many cases it over- or under-estimates cohort effects. Within a person the construct moves little. Cobb-Clark and Schurer, using seven mastery items in the Australian HILDA panel, report a one-year correlation of 0.605 and a four-year correlation of 0.517. Over four years 25.0% of men and 27.5% of women shifted by more than one standard deviation.",
+    "study": {
+      "cite": "Cheng, C., Cheung, S. F., Chio, J. H., & Chan, M. S. (2013). Cultural meaning of perceived control: A meta-analysis of locus of control and psychological symptoms across 18 cultural regions. Psychological Bulletin, 139(1), 152-188.",
+      "doi": "10.1037/a0028596",
+      "year": 2013,
+      "n": 33224
+    },
+    "replicated": {
+      "es": 0.3,
+      "esType": "r",
+      "ci": [0.27, 0.32],
+      "ciLevel": 95
+    }
+  },
+  "limits": "Locus of control is an individual-difference construct, not a judgement error, so the `state` vocabulary of this site is a poor fit for it. There is no single experimental effect to repeat. The resolution used here is to read `replication` as asking whether the measure's structure and its published correlates hold up when other people test them, which is the question the literature has in fact argued about. That reading yields `mixed`: the correlates reproduce at modest size across tens of thousands of people, and the unidimensional structure and the discriminant validity do not. Several things could not be obtained. Rotter's 1966 monograph is paywalled and was not read, so no figure in this entry is quoted from it; the reliabilities Rotter reported are therefore absent. His 1975 reply on misconceptions and his 1990 retrospective are also paywalled and were not read. Ng, Sorensen and Eby's 2006 meta-analysis of locus of control at work is named as existing only, because the publisher, JSTOR and DeepDyve all returned HTTP 403. Levenson's peer-reviewed 1973 paper in the Journal of Consulting and Clinical Psychology has no abstract on PubMed and was not opened; the Levenson figures here come from her 1973 convention paper, which ERIC hosts in full. Beretvas and colleagues' paper is described from its Crossref abstract, so the average reliability it estimates is not quoted. Judge's .59 is quoted from his own 2009 review of the 2002 paper rather than from the 2002 paper, which is paywalled. Cobb-Clark and Schurer's figures come from the 2011 IZA working paper; the version published in The Economic Journal in 2013 was not read, and their measure is the Pearlin and Schooler mastery items rather than Rotter's scale. Searches covered Crossref, PubMed, Europe PMC, PMC, Unpaywall, Semantic Scholar, ERIC, Frontiers, Sage, Springer, Wiley and general web search.",
+  "misreadings": "The most common is that internal is good and external is bad. Cheng and colleagues found the external locus of control to anxiety link half as strong in collectivist societies as in individualist ones, and wrote that external locus of control does not carry the same negative connotations across cultures. The second is treating an I-E total as one number. Lange and Tiggemann report the scale is not additive but multidimensional, and Levenson's whole revision rests on chance and powerful others behaving differently from each other. The third is treating locus of control as a trait of its own in a list beside self-esteem and neuroticism. Judge, Erez, Bono and Thoresen found a single factor behind all four and poor discriminant validity among them. The fourth concerns the cohort claim. Twenge's .80 standard deviation shift is quoted as a fact about young people everywhere. The same design run on Chinese students by Wang and Xin found no change over two decades, and Rudolph and colleagues show the method misestimates cohort effects. The fifth is a conflation: health locus of control, measured on Wallston's three dimensions, is a domain-specific descendant of Rotter's general scale rather than the same instrument, and its links to specific health behaviours sit between -.07 and .10.",
+  "sources": [
+    {
+      "text": "Rotter, J. B. (1966). Generalized expectancies for internal versus external control of reinforcement. Psychological Monographs: General and Applied, 80(1), 1-28. The founding monograph. Paywalled and not read for this entry; named here as the origin and nothing is quoted from it.",
+      "doi": "10.1037/h0092976",
+      "url": "https://doi.org/10.1037/h0092976",
+      "type": "primary"
+    },
+    {
+      "text": "Levenson, H. (1973). Reliability and validity of the I, P, and C scales: A multidimensional view of locus of control. Paper presented at the American Psychological Association Convention, Montreal, August 1973. ERIC document ED087791. Full text read for this entry.",
+      "url": "https://files.eric.ed.gov/fulltext/ED087791.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Levenson, H. (1973). Multidimensional locus of control in psychiatric patients. Journal of Consulting and Clinical Psychology, 41(3), 397-404. The peer-reviewed companion to the convention paper. Named as existing; it has no abstract on PubMed and was not opened.",
+      "doi": "10.1037/h0035357",
+      "url": "https://doi.org/10.1037/h0035357",
+      "type": "primary"
+    },
+    {
+      "text": "Siraji, M. A., & Haque, S. (2022). Psychometric evaluation of the Bangla-Translated Rotter's Internal-External Scale through classical test theory and item response theory. Frontiers in Psychology, 13, 1023856. Read for this entry; the description of Rotter's item format comes from it, not from Rotter.",
+      "doi": "10.3389/fpsyg.2022.1023856",
+      "url": "https://doi.org/10.3389/fpsyg.2022.1023856",
+      "type": "primary"
+    },
+    {
+      "text": "Beretvas, S. N., Suizzo, M.-A., Durham, J. A., & Yarnell, L. M. (2008). A reliability generalization study of scores on Rotter's and Nowicki-Strickland's locus of control scales. Educational and Psychological Measurement, 68(1), 97-119. Described here from its Crossref abstract; the full text is paywalled.",
+      "doi": "10.1177/0013164407301529",
+      "url": "https://doi.org/10.1177/0013164407301529",
+      "type": "replication"
+    },
+    {
+      "text": "Cheng, C., Cheung, S. F., Chio, J. H., & Chan, M. S. (2013). Cultural meaning of perceived control: A meta-analysis of locus of control and psychological symptoms across 18 cultural regions. Psychological Bulletin, 139(1), 152-188. Read from its abstract at PubMed.",
+      "doi": "10.1037/a0028596",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22642229/",
+      "type": "replication"
+    },
+    {
+      "text": "Cheng, C., Cheung, M. W.-L., & Lo, B. C. Y. (2016). Relationship of health locus of control with specific health behaviours and global health appraisal: a meta-analysis and effects of moderators. Health Psychology Review, 10(4), 460-477. Read from its abstract; the full text is paywalled.",
+      "doi": "10.1080/17437199.2016.1219672",
+      "url": "https://doi.org/10.1080/17437199.2016.1219672",
+      "type": "replication"
+    },
+    {
+      "text": "Judge, T. A., & Bono, J. E. (2001). Relationship of core self-evaluations traits, self-esteem, generalized self-efficacy, locus of control, and emotional stability, with job satisfaction and job performance: A meta-analysis. Journal of Applied Psychology, 86(1), 80-92. Read from its abstract at PubMed.",
+      "doi": "10.1037/0021-9010.86.1.80",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11302235/",
+      "type": "replication"
+    },
+    {
+      "text": "Judge, T. A., Erez, A., Bono, J. E., & Thoresen, C. J. (2002). Are measures of self-esteem, neuroticism, locus of control, and generalized self-efficacy indicators of a common core construct? Journal of Personality and Social Psychology, 83(3), 693-710. Read from its abstract at PubMed; the full text is paywalled.",
+      "doi": "10.1037/0022-3514.83.3.693",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12219863/",
+      "type": "replication"
+    },
+    {
+      "text": "Judge, T. A. (2009). Core self-evaluations and work success. Current Directions in Psychological Science, 18(1), 58-62. Full text read for this entry; the average correlation of .59 among the four core traits is quoted from this review of the 2002 paper.",
+      "doi": "10.1111/j.1467-8721.2009.01606.x",
+      "url": "https://www.wku.edu/cebs/doctorate/documents/readings/judge_2009_core_self-evaluations.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Lange, R. V., & Tiggemann, M. (1981). Dimensionality and reliability of the Rotter I-E locus of control scale. Journal of Personality Assessment, 45(4), 398-406. Read from its abstract at PubMed.",
+      "doi": "10.1207/s15327752jpa4504_9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16370694/",
+      "type": "replication"
+    },
+    {
+      "text": "Walkey, F. H. (1979). Internal control, powerful others, and chance: A confirmation of Levenson's factor structure. Journal of Personality Assessment, 43(5), 532-535. Read from its abstract at PubMed.",
+      "doi": "10.1207/s15327752jpa4305_17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16367031/",
+      "type": "replication"
+    },
+    {
+      "text": "Twenge, J. M., Zhang, L., & Im, C. (2004). It's beyond my control: A cross-temporal meta-analysis of increasing externality in locus of control, 1960-2002. Personality and Social Psychology Review, 8(3), 308-319. Read from its abstract at PubMed.",
+      "doi": "10.1207/s15327957pspr0803_5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15454351/",
+      "type": "replication"
+    },
+    {
+      "text": "Wang, X., & Xin, Z. (2023). Cross-temporal meta-analyses of changes in the locus of control among Chinese college students: No changes were also a trend. Journal of Pacific Rim Psychology, 17. Read from its abstract.",
+      "doi": "10.1177/18344909231164770",
+      "url": "https://doi.org/10.1177/18344909231164770",
+      "type": "replication"
+    },
+    {
+      "text": "Rudolph, C. W., Costanza, D. P., Wright, C., & Zacher, H. (2020). Cross-temporal meta-analysis: A conceptual and empirical critique. Journal of Business and Psychology, 35(6), 733-750. Read from its abstract; the full text is paywalled.",
+      "doi": "10.1007/s10869-019-09659-2",
+      "url": "https://doi.org/10.1007/s10869-019-09659-2",
+      "type": "commentary"
+    },
+    {
+      "text": "Cobb-Clark, D. A., & Schurer, S. (2011). Two economists' musings on the stability of locus of control. IZA Discussion Paper No. 5630. Full text read for this entry; the paper later appeared in The Economic Journal, 123(570), F358-F400, which was not read.",
+      "url": "https://docs.iza.org/dp5630.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Ng, T. W. H., Sorensen, K. L., & Eby, L. T. (2006). Locus of control at work: A meta-analysis. Journal of Organizational Behavior, 27(8), 1057-1087. Named as existing only; the publisher, JSTOR and DeepDyve all returned HTTP 403 and nothing here is taken from it.",
+      "doi": "10.1002/job.416",
+      "url": "https://doi.org/10.1002/job.416",
+      "type": "replication"
+    },
+    {
+      "text": "Rotter, J. B. (1975). Some problems and misconceptions related to the construct of internal versus external control of reinforcement. Journal of Consulting and Clinical Psychology, 43(1), 56-67. Rotter's own reply to the critics. Paywalled and not read; named as existing.",
+      "doi": "10.1037/h0076301",
+      "url": "https://doi.org/10.1037/h0076301",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
