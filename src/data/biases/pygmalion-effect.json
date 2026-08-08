@@ -1,0 +1,50 @@
+{
+  "no": 9,
+  "slug": "pygmalion-effect",
+  "name": "Pygmalion effect",
+  "aliases": ["Teacher expectancy effect", "Rosenthal effect", "Self-fulfilling prophecy in the classroom"],
+  "category": "social",
+  "statement": "Tell a teacher that certain pupils are about to bloom and those pupils are said to improve, because the expectation changes how they are taught.",
+  "meaning": "The claim is causal and it runs from the adult's belief to the child's measured ability. What makes it striking rather than obvious is the choice of measure: not grades, which a teacher marks, but IQ, which is supposed to be a property of the child. If a false belief planted in a teacher can move a pupil's IQ score, then intelligence is partly a social product, and the mechanism has to be something in the hundreds of small interactions a term is made of.",
+  "origin": {
+    "year": 1968,
+    "who": "Robert Rosenthal and Lenore Jacobson",
+    "where": "the book Pygmalion in the Classroom",
+    "note": "Pupils at a California elementary school took a test the teachers were told would identify late bloomers. The children named as bloomers were picked at random. The reasoning came from Rosenthal's earlier work on experimenter expectancy, where an experimenter's belief about a hypothesis shifts the results they obtain."
+  },
+  "evidence": "Teachers were given the names, the school year ran, and everyone was tested again. Later reviewers put numbers on what was found. The difference between bloomers and controls corresponded to an effect size of 0.30, a correlation of r = .15, and a mean gap in IQ gain of about four points. The effect was concentrated: significant in two of six grades in the first year and one of five in the second, which is to say absent in eight of the eleven grades examined.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Eighteen experiments pooled to almost nothing, and then split into four that found a real effect and fourteen that found none.",
+    "detail": "Raudenbush's meta-analysis of 18 experiments on induced teacher expectations and IQ found a mean of d = 0.11, small enough that whether it reached significance depended on which test he used. The interesting part is what he predicted and found underneath that average. The manipulation should only work if the teacher has no better information, so it should die once a teacher has met the child. Re-analysing the same 18 studies with random-effects models, he reported d = 0.43 for the four experiments where teachers had no prior contact with their pupils, a correlation of about r = .2, and no overall effect across the remaining fourteen. Jussim and Harber's review of 35 years of this literature concludes that classroom self-fulfilling prophecies do occur, that they are typically small, and that they tend to dissipate rather than accumulate.",
+    "study": {
+      "cite": "Raudenbush, S. W. (1984). Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments. Journal of Educational Psychology, 76(1), 85-97.",
+      "doi": "10.1037/0022-0663.76.1.85",
+      "year": 1984,
+      "sites": 18
+    }
+  },
+  "limits": "The d = 0.43 figure comes from four studies, which is a thin base for the claim that carries the whole effect. It is also reported here as Jussim and Harber describe Raudenbush's 1994 random-effects re-analysis, a book chapter rather than a paper with a DOI, so the chain runs through a secondary source that names its numbers. The prior-contact moderator is a good theoretical prediction that happened to be confirmed, which is a weaker thing than a prediction registered before the data were seen. And this is a literature about IQ specifically; teacher expectations predicting grades or behaviour is a separate and larger body of work where, as Jussim and Harber argue, much of the correlation may be teachers being accurate rather than teachers being self-fulfilling.",
+  "misreadings": "The effect has been absorbed into management training as proof that believing in people makes them better, at a size the research does not support. Four IQ points, in three grades out of eleven, in one school, is the original result. It is also often stated in reverse as the golem effect, where low expectations damage pupils, and the evidence that negative expectations are the more powerful direction is weak; where the question has been examined the positive direction came out stronger. The deepest misreading is treating the study as settled in either direction. Rosenthal and Raudenbush concluded that expectations do influence IQ; Snow, Wineburg and Spitz concluded that they do not; the disagreement is about the same 18 experiments and is live.",
+  "sources": [
+    {
+      "text": "Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development. Holt, Rinehart and Winston.",
+      "url": "https://doi.org/10.2307/2092211",
+      "doi": "10.2307/2092211",
+      "type": "primary"
+    },
+    {
+      "text": "Raudenbush, S. W. (1984). Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments. Journal of Educational Psychology, 76(1), 85-97.",
+      "doi": "10.1037/0022-0663.76.1.85",
+      "url": "https://doi.org/10.1037/0022-0663.76.1.85",
+      "type": "replication"
+    },
+    {
+      "text": "Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. Personality and Social Psychology Review, 9(2), 131-155. Source for the figures quoted from the original study and from Raudenbush's 1994 re-analysis.",
+      "doi": "10.1207/s15327957pspr0902_3",
+      "url": "https://doi.org/10.1207/s15327957pspr0902_3",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
