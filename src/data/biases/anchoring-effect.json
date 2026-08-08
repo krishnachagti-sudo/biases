@@ -1,0 +1,60 @@
+{
+  "no": 6,
+  "slug": "anchoring-effect",
+  "name": "Anchoring effect",
+  "aliases": ["Anchoring", "Anchoring and adjustment", "Anchoring bias", "Focalism"],
+  "category": "decision",
+  "statement": "Show someone a number before asking them to estimate a quantity and their estimate moves toward it, even when the number was arbitrary and they know it was.",
+  "meaning": "The standard demonstration has two steps. First a comparison: is the height of Mount Everest more or less than 45,500 feet? Then an estimate: how high is it? The comparison question plants a figure, and the estimate that follows sits closer to that figure than it would have otherwise. What makes the result strange is that the anchor carries no information. Participants can be told it was generated at random, or watch it come off a wheel of fortune, and the pull remains. Kahneman and Tversky described the mechanism as adjustment: you start from the number you were given and move away from it, and you stop too soon.",
+  "origin": {
+    "year": 1974,
+    "who": "Amos Tversky and Daniel Kahneman",
+    "where": "Science",
+    "note": "Anchoring is one of three heuristics described in \"Judgment under Uncertainty: Heuristics and Biases\". The standardised procedure that later work replicates comes from Jacowitz and Kahneman in 1995, which is why the replication below tests their version rather than the 1974 demonstration."
+  },
+  "evidence": "Jacowitz and Kahneman gave participants fifteen estimation questions, each preceded by a comparison against a value drawn from the high or low end of what an unanchored group had guessed. Estimates followed the anchor. The Many Labs replication took four of those questions, on the distance from San Francisco to New York, the population of Chicago, the height of Mount Everest and the number of babies born daily in the United States, and ran them at 36 sites.",
+  "replication": {
+    "state": "replicated",
+    "headline": "All four anchoring questions came back at 36 laboratories, every one of them significant at every site, with effects two to three times the size originally reported.",
+    "detail": "Many Labs 1 tested thirteen findings across 36 samples and 6,344 participants. Anchoring was the strongest thing in it. Every one of the four questions reached significance in 100% of samples, in the same direction, with no site finding nothing and no site finding the opposite. Unweighted effect sizes across all samples were d = 2.42 for babies born, 2.23 for Mount Everest, 1.79 for Chicago and 1.17 for the distance to New York. For comparison the whole project's other twelve effects mostly came in below d = 1, and several came in at zero. If any result in this literature is solid, it is this one.",
+    "study": {
+      "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "year": 2014,
+      "sites": 36,
+      "n": 5627
+    },
+    "original": { "es": 0.93, "esType": "d", "ci": [0.51, 1.33], "ciLevel": 99 },
+    "replicated": { "es": 2.23, "esType": "d", "ci": [2.14, 2.32], "ciLevel": 99, "weighting": "unweighted" },
+    "indexedBy": "FReD"
+  },
+  "limits": "The two numbers above are less comparable than they look, and the replication report says so itself. The 1995 paper did not publish enough detail to compute an effect size per question, so its 0.93 is one aggregate figure across all fifteen questions, and it comes from a test-retest design where each participant saw both the anchored and unanchored version. The replication assigned people at random to one anchor or the other, between subjects. Different designs produce different effect sizes for the same underlying phenomenon, so the jump from 0.93 to 2.23 should be read as evidence that the effect is present and large, rather than as a measurement that it grew. The participant count given here is for the Mount Everest question; the other three range from 5,284 to 5,609. What replicates is also the narrow laboratory version: whether a number planted in a negotiation or a price tag moves real decisions by anything like this much is a separate question with a messier literature.",
+  "misreadings": "Anchoring is often described as showing that people are irrational about numbers in general, which overstates it. The effect is about estimates under uncertainty; when someone knows the answer, there is nothing for an anchor to move. It is also frequently attached to advice about opening first in a negotiation, where the evidence is thinner and the conditions matter more than the laboratory result suggests. And the mechanism is contested even though the effect is not: insufficient adjustment is Tversky and Kahneman's account, but selective accessibility, where the anchor primes evidence consistent with itself, explains much of the same data. A robust effect is not the same as a settled explanation.",
+  "sources": [
+    {
+      "text": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.",
+      "doi": "10.1126/science.185.4157.1124",
+      "url": "https://doi.org/10.1126/science.185.4157.1124",
+      "type": "primary"
+    },
+    {
+      "text": "Jacowitz, K. E., & Kahneman, D. (1995). Measures of anchoring in estimation tasks. Personality and Social Psychology Bulletin, 21(11), 1161-1166.",
+      "doi": "10.1177/01461672952111004",
+      "url": "https://doi.org/10.1177/01461672952111004",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "url": "https://doi.org/10.1027/1864-9335/a000178",
+      "type": "replication"
+    },
+    {
+      "text": "FORRT Replication Database (FReD), Roseler et al. Used to locate the replication above, not as the source for what it found.",
+      "doi": "10.17605/OSF.IO/9R62X",
+      "url": "https://doi.org/10.17605/OSF.IO/9R62X",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

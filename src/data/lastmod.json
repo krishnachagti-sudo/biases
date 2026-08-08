@@ -1,27 +1,39 @@
 {
   "pages": {
     "": {
-      "hash": "82f1b19b6330b4fd",
+      "hash": "9ddd2c48ae3275e5",
       "date": "2026-08-08"
     },
     "about/": {
       "hash": "41dbbc2e11d3a5f6",
       "date": "2026-08-08"
     },
+    "bias/anchoring-effect/": {
+      "hash": "f0c40af1f2483e41",
+      "date": "2026-08-08"
+    },
+    "bias/confirmation-bias/": {
+      "hash": "cca55621f038040c",
+      "date": "2026-08-08"
+    },
+    "bias/dunning-kruger-effect/": {
+      "hash": "00199f2a4079ad1d",
+      "date": "2026-08-08"
+    },
     "bias/ego-depletion/": {
-      "hash": "032255fe78e9e593",
+      "hash": "72e08abd62de6f11",
       "date": "2026-08-08"
     },
     "bias/facial-feedback/": {
-      "hash": "58f00f2738020547",
+      "hash": "76b76308d5d3c6bb",
       "date": "2026-08-08"
     },
     "bias/sunk-cost/": {
-      "hash": "8af04425ada67a8a",
+      "hash": "7711c805773b53f6",
       "date": "2026-08-08"
     },
     "browse/": {
-      "hash": "adffcf18d3ec95da",
+      "hash": "f8fc8172ce9f3c63",
       "date": "2026-08-08"
     }
   }

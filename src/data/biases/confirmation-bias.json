@@ -1,0 +1,51 @@
+{
+  "no": 5,
+  "slug": "confirmation-bias",
+  "name": "Confirmation bias",
+  "aliases": ["Myside bias", "Confirmatory bias", "Verification bias"],
+  "category": "belief",
+  "statement": "People look for, notice and remember the evidence that fits what they already think, and go looking less hard for the evidence that would not.",
+  "meaning": "The name covers at least three separate habits that happen to point the same way. One is search: given a choice of what to read, people reach for the article that agrees with them. One is interpretation: the same ambiguous result is read as support by both sides of an argument. One is recall: the confirming instances come to mind more readily later. Each has its own literature and its own experiments, and lumping them together is convenient rather than principled. What they share is a direction, not a mechanism.",
+  "origin": {
+    "year": 1960,
+    "who": "Peter C. Wason",
+    "where": "Quarterly Journal of Experimental Psychology",
+    "note": "Wason's paper is \"On the Failure to Eliminate Hypotheses in a Conceptual Task\", and it introduced the term. The observation is much older than the name: Francis Bacon described the same habit in the Novum Organum in 1620."
+  },
+  "evidence": "Wason's task gives you the sequence 2-4-6, tells you it follows a rule, and asks you to work out the rule by proposing further triples. Most people guess something like \"ascending even numbers\" and then test triples that fit their guess, which can only ever return a yes. The rule is any increasing sequence, and finding that out requires proposing something you expect to be told is wrong. Most people never do. The selective-exposure branch of the literature runs differently: participants choose which articles to read from a set that varies in whether it agrees with a position they hold, and the measure is what they pick.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A meta-analysis of 91 studies and nearly 8,000 people found a moderate and consistent preference for information that agrees with you.",
+    "detail": "Hart and colleagues pooled 67 reports containing 91 studies and 300 statistically independent groups, and found a preference for congenial over uncongenial information of d = 0.36. That is moderate rather than overwhelming, and the paper's more interesting result is what moves it: the preference gets stronger when a belief is tied to someone's commitments or defences, and weaker when they are told the information is useful and accurate. So this is not a fixed feature of the machinery. It is a tendency with conditions, and the conditions are the part that got left out of the popular account.",
+    "study": {
+      "cite": "Hart, W., Albarracin, D., Eagly, A. H., Brechan, I., Lindberg, M. J., & Merrill, L. (2009). Feeling validated versus being correct: A meta-analysis of selective exposure to information. Psychological Bulletin, 135(4), 555-588.",
+      "doi": "10.1037/a0015701",
+      "year": 2009,
+      "n": 8000
+    },
+    "replicated": { "es": 0.36, "esType": "d" }
+  },
+  "limits": "The meta-analysis covers selective exposure, which is one of the three habits the name is used for, so a verdict on it is not a verdict on the whole idea. The participant total is reported by the authors as just under 8,000 and is given here as that round figure rather than an exact count. There is also a live argument that the 2-4-6 result is not a bias at all: Klayman and Ha argued in 1987 that testing cases you expect to confirm your hypothesis is a sensible default strategy under most conditions, and only misleads when the true rule is broader than your guess, which is exactly the trap Wason built. On that reading the task demonstrates a strategy that is usually reasonable rather than a defect.",
+  "misreadings": "The strongest version in circulation is that people cannot process disconfirming evidence at all, or that showing someone a fact that contradicts them makes them believe it more. The second of those is the backfire effect, which is a different claim, and the large attempts to reproduce it have mostly failed to find it. Confirmation bias is also routinely used as a way to dismiss an opponent's reasoning without engaging it, which is a rhetorical move rather than a finding. And a moderate average preference is not a description of any particular person: d = 0.36 is a distribution with a great deal of overlap.",
+  "sources": [
+    {
+      "text": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140.",
+      "doi": "10.1080/17470216008416717",
+      "url": "https://doi.org/10.1080/17470216008416717",
+      "type": "primary"
+    },
+    {
+      "text": "Hart, W., Albarracin, D., Eagly, A. H., Brechan, I., Lindberg, M. J., & Merrill, L. (2009). Feeling validated versus being correct: A meta-analysis of selective exposure to information. Psychological Bulletin, 135(4), 555-588.",
+      "doi": "10.1037/a0015701",
+      "url": "https://doi.org/10.1037/a0015701",
+      "type": "replication"
+    },
+    {
+      "text": "Klayman, J., & Ha, Y.-W. (1987). Confirmation, disconfirmation, and information in hypothesis testing. Psychological Review, 94(2), 211-228.",
+      "doi": "10.1037/0033-295X.94.2.211",
+      "url": "https://doi.org/10.1037/0033-295X.94.2.211",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
