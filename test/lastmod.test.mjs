@@ -2,7 +2,7 @@
 // having: the same page hashes the same wherever the site is served from.
 //
 // Without that property the committed manifest is only valid for the base it
-// was generated against. A manifest built locally at /bias-atlas/ mismatches
+// was generated against. A manifest built locally at /biases/ mismatches
 // every page in CI at /, CI stamps the whole site with today's date, CI does
 // not commit its own manifest — so it mismatches again next deploy, forever.
 // The feature looks implemented and does nothing, which is worse than the bug
@@ -14,9 +14,9 @@ import { pageHash, resolve, stamp, LASTMOD_TOKEN } from '../build/lastmod.mjs';
 
 // The same page, rendered for a github.io project path and for a root domain.
 const PROJECT = [
-  '<link rel="canonical" href="https://x.github.io/bias-atlas/about/">',
-  '<a href="/bias-atlas/browse/">Browse</a>',
-  '<a href="https://s.io/share?u=https%3A%2F%2Fx.github.io%2Fbias-atlas%2Fabout%2F">Share</a>',
+  '<link rel="canonical" href="https://x.github.io/biases/about/">',
+  '<a href="/biases/browse/">Browse</a>',
+  '<a href="https://s.io/share?u=https%3A%2F%2Fx.github.io%2Fbiases%2Fabout%2F">Share</a>',
   '<p>Half of the studies replicated. The other half did not.</p>',
 ].join('');
 const ROOT = [
@@ -25,7 +25,7 @@ const ROOT = [
   '<a href="https://s.io/share?u=https%3A%2F%2Fbiases.example.com%2Fabout%2F">Share</a>',
   '<p>Half of the studies replicated. The other half did not.</p>',
 ].join('');
-const PROJECT_PREFIXES = ['https://x.github.io/bias-atlas/', '/bias-atlas/'];
+const PROJECT_PREFIXES = ['https://x.github.io/biases/', '/biases/'];
 const ROOT_PREFIXES = ['https://biases.example.com/', '/'];
 
 test('the same content hashes the same at a project path and at a domain root', () => {

@@ -182,7 +182,7 @@ writes.push(write(join(out, 'site.webmanifest'), `${JSON.stringify({
 
 // The IndexNow ownership proof: the key, served as a file named after itself at
 // the site root. Only meaningful once the site is at a domain root — on a
-// github.io project path this lands under /bias-atlas/ rather than /, so
+// github.io project path this lands under /biases/ rather than /, so
 // verification will fail there. It is written anyway so that going live is a
 // DNS change and not a code change.
 writes.push(write(join(out, `${cfg.indexNowKey}.txt`), `${cfg.indexNowKey}\n`));

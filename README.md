@@ -24,7 +24,7 @@ npm run build      # → dist/
 npm run preflight  # whole-site checks on dist/
 npm test
 npm run style      # house-style measurement; --strict is the CI gate
-npm run serve      # build, then http://localhost:8080/bias-atlas/
+npm run serve      # build, then http://localhost:8080/biases/
 ```
 
 Node ≥ 22 is required — `npm test` uses a glob argument to `node --test` that

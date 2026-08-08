@@ -91,7 +91,7 @@ jobs:
   # Two things must be true first. The key in site.config.json must be served at
   # the DOMAIN ROOT as <key>.txt (the build writes it), and the site must
   # actually be at the origin passed below. On a github.io project path the key
-  # file lands under /bias-atlas/ rather than at the root, so verification will
+  # file lands under /biases/ rather than at the root, so verification will
   # fail there — this becomes useful at the same moment a custom domain does.
   indexnow:
     needs: deploy

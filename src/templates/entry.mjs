@@ -56,7 +56,13 @@ const dp2 = (n) => Number(n).toFixed(2);
 function esLine(e) {
   if (!e || typeof e.es !== 'number') return '';
   const ci = Array.isArray(e.ci) ? ` (${e.ciLevel || 95}% CI ${dp2(e.ci[0])} to ${dp2(e.ci[1])})` : '';
-  return `${escapeHtml(e.esType)} = ${dp2(e.es)}${ci}`;
+  // A raw mean difference reads as a quantity, not as an equation: "0.03 scale
+  // points", never "md = 0.03". The unit is required by the schema precisely so
+  // this branch always has something to say.
+  const head = e.esType === 'md'
+    ? `${dp2(e.es)} ${escapeHtml(e.unit)}`
+    : `${escapeHtml(e.esType)} = ${dp2(e.es)}`;
+  return `${head}${ci}`;
 }
 
 /**

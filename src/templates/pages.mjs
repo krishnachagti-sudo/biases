@@ -109,7 +109,7 @@ export function aboutPage({ base = '/', origin = '', mapped = 0 } = {}) {
     },
     {
       q: 'How do I report an error?',
-      a: 'Open an issue on <a href="https://github.com/krishnachagti-sudo/bias-atlas" rel="nofollow noopener">the repository</a>. Corrections that turn out to be right are made and the entry says what changed.',
+      a: 'Open an issue on <a href="https://github.com/krishnachagti-sudo/biases" rel="nofollow noopener">the repository</a>. Corrections that turn out to be right are made and the entry says what changed.',
     },
     {
       q: 'Can I reuse this?',

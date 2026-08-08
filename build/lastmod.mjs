@@ -83,7 +83,7 @@ export function pageHash(html, prefixes = []) {
   // falls instead of reaching zero.
   //
   // A BASE prefix is different, and the difference only shows up at the root.
-  // When `base` is '/bias-atlas/' it is distinctive enough to replace anywhere.
+  // When `base` is '/biases/' it is distinctive enough to replace anywhere.
   // When `base` is '/' — which is what a custom domain builds with — a global
   // replace substitutes EVERY forward slash in the document. The result still
   // hashes deterministically, so nothing fails; it just silently stops being

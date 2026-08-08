@@ -170,7 +170,7 @@ test('every shipped source resolves to an http URL or a DOI', () => {
 
 // --- the page ----------------------------------------------------------------
 
-const render = () => entryPage(loadCorpus({ today: TODAY })[0], { base: '/bias-atlas/', origin: 'https://example.com' });
+const render = () => entryPage(loadCorpus({ today: TODAY })[0], { base: '/biases/', origin: 'https://example.com' });
 
 test('the page prints both effect sizes to the same precision', () => {
   // 0.5 and 0.50 next to 0.23 read as different precisions and make a quoted

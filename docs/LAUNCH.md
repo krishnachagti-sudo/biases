@@ -1,7 +1,7 @@
 # Launching on a custom domain
 
 Nothing here is urgent. The site currently deploys to
-`https://krishnachagti-sudo.github.io/bias-atlas/` and that is a perfectly good
+`https://krishnachagti-sudo.github.io/biases/` and that is a perfectly good
 address to write the first entries against — the whole point of the `SITE_BASE`
 and `SITE_ORIGIN` variables is that moving later costs one deploy.
 
@@ -67,7 +67,7 @@ GitHub → the repo → Settings → Secrets and variables → Actions → Varia
 | `SITE_BASE` | `/` |
 | `SITE_ORIGIN` | `https://<the domain>` |
 
-These tell the build it no longer lives under a `/bias-atlas/` subpath. Without
+These tell the build it no longer lives under a `/biases/` subpath. Without
 them every canonical, every sitemap entry and every absolute link still points
 at the GitHub Pages URL.
 
@@ -129,7 +129,7 @@ the protocol proves ownership.
 
 Two reasons not to do this early. Submitting before the host is live tells Bing
 to crawl URLs that do not answer yet. And on the github.io project path the key
-file lands under `/bias-atlas/` rather than at the root, so verification fails
+file lands under `/biases/` rather than at the root, so verification fails
 there regardless — this feature becomes useful at the same moment the domain
 does.
 
@@ -142,7 +142,7 @@ does.
 - **Certificate warning** — normal for the first ten minutes after DNS
   propagates. If it lasts more than an hour, remove and re-add the custom
   domain in Settings → Pages, which forces certificate re-issue.
-- **Links point at `/bias-atlas/…`** — the variables from step 2 were not set,
+- **Links point at `/biases/…`** — the variables from step 2 were not set,
   or the deploy ran before they were. Set them and re-run the workflow.
 - **Every page dated today after the move** — this should not happen; the
   content hash is normalised so a manifest built at one base stays valid at the

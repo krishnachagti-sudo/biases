@@ -19,7 +19,7 @@ const DIST = 'dist';
 //
 // This is not a nicety. CI passes --base/--origin from repository variables and
 // falls back to the github.io project path when they are unset, so a preflight
-// that read site.config.json alone would compare a /bias-atlas/ build against a
+// that read site.config.json alone would compare a /biases/ build against a
 // custom-domain origin, call every internal link dead, and block the very
 // deploy it exists to protect.
 const cfg = JSON.parse(readFileSync('site.config.json', 'utf8'));

@@ -38,8 +38,16 @@ export const CATEGORIES = {
  */
 export const REPLICATION_STATES = ['replicated', 'failed', 'mixed', 'none-located'];
 
-/** Effect-size metrics we will print. A bare number is not an effect size. */
-export const ES_TYPES = ['d', 'g', 'r', 'eta2', 'OR', 'beta'];
+/**
+ * Effect-size metrics we will print. A bare number is not an effect size.
+ *
+ * `md` is a raw mean difference, and it is here because not every replication
+ * standardises. The facial-feedback RRR reports its result the way the original
+ * did, in points on the study's own rating scale, and converting that to a d so
+ * it fits a tidier enum would mean publishing a number no source contains.
+ * A raw difference needs its `unit` for the same reason a d needs its metric.
+ */
+export const ES_TYPES = ['d', 'g', 'r', 'eta2', 'OR', 'beta', 'md'];
 
 /** Confidence levels a paper might report. Required alongside any interval. */
 export const CI_LEVELS = [90, 95, 99];
@@ -120,6 +128,8 @@ export function validate(entry, { today = new Date().toISOString().slice(0, 10) 
       if (!e) continue;
       if (typeof e.es !== 'number') p.push(`replication.${side}.es must be a number`);
       if (!ES_TYPES.includes(e.esType)) p.push(`replication.${side}.esType "${e.esType}" is not one of ${ES_TYPES.join(', ')}`);
+      // A raw difference of 0.03 is meaningless without knowing 0.03 of what.
+      if (e.esType === 'md' && (typeof e.unit !== 'string' || !e.unit.trim())) p.push(`replication.${side}.unit is required when esType is "md"`);
       if (e.ci !== undefined) {
         // An interval without its level is not a quotable figure: 0.22 to 0.39
         // means something different at 95% and at 99%, and the template used to
@@ -133,6 +143,11 @@ export function validate(entry, { today = new Date().toISOString().slice(0, 10) 
     }
     if (r.original && r.replicated && r.original.esType !== r.replicated.esType) {
       p.push(`replication compares ${r.original.esType} with ${r.replicated.esType} — different metrics are not comparable`);
+    }
+    // Same argument one level down: two raw differences on different scales are
+    // as incomparable as a d against an r, and look more comparable.
+    if (r.original && r.replicated && r.original.esType === 'md' && r.original.unit !== r.replicated.unit) {
+      p.push(`replication compares "${r.original.unit}" with "${r.replicated.unit}" — raw differences on different scales are not comparable`);
     }
   }
 

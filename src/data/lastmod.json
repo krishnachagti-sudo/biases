@@ -1,23 +1,27 @@
 {
   "pages": {
     "": {
-      "hash": "17f863668871120b",
+      "hash": "766330c692b2aa48",
       "date": "2026-08-08"
     },
     "about/": {
-      "hash": "ca4cbeecc9a0ac87",
+      "hash": "49a100d88ace7d3d",
       "date": "2026-08-08"
     },
     "bias/ego-depletion/": {
-      "hash": "74e04e18b0e953a4",
+      "hash": "8573e9c77bca069a",
+      "date": "2026-08-08"
+    },
+    "bias/facial-feedback/": {
+      "hash": "f3c1d3bb49d54f5c",
       "date": "2026-08-08"
     },
     "bias/sunk-cost/": {
-      "hash": "9b22309bc2f05426",
+      "hash": "b3659e773a68753e",
       "date": "2026-08-08"
     },
     "browse/": {
-      "hash": "c810e0b775141efb",
+      "hash": "c63e8392981e1656",
       "date": "2026-08-08"
     }
   }

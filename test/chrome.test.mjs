@@ -17,7 +17,7 @@ import {
 import { hubFaq, hubNav, hubJsonLd } from '../src/templates/hub.mjs';
 
 const CFG = JSON.parse(readFileSync(new URL('../site.config.json', import.meta.url), 'utf8'));
-const BASE = '/bias-atlas/';
+const BASE = '/biases/';
 
 test('the brand comes from site.config.json, not from a literal in a template', () => {
   assert.equal(BRAND, CFG.brand);
