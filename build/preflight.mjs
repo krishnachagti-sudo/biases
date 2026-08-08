@@ -76,8 +76,17 @@ check(badCanon === 0, `${badCanon} canonicals do not point at ${ORIGIN}${BASE}`)
 const have = new Set(all.map((f) => f.replace(/^dist/, '')));
 for (const f of pages) have.add(f.replace(/^dist/, '').replace(/index\.html$/, ''));
 const dead = new Set();
+// Script and style bodies are not markup, and reading them as markup produces
+// false positives that are indistinguishable from real dead links. The home
+// page builds an href by concatenation — `href="'+base+'bias/'+slug+'/"` — and
+// this check duly reported /bias/'+e.slug+'/ as pointing at nothing. Stripping
+// them is the fix; making the script avoid the substring would have left the
+// checker still wrong and merely quiet.
+const markupOnly = (html) => html
+  .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '')
+  .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '');
 for (const f of pages) {
-  for (const m of readFileSync(f, 'utf8').matchAll(/href="(\/[^"#?]*)/g)) {
+  for (const m of markupOnly(readFileSync(f, 'utf8')).matchAll(/href="(\/[^"#?]*)/g)) {
     if (m[1].startsWith('//')) continue;
     let p;
     try { p = decodeURI(m[1]); } catch { p = m[1]; }

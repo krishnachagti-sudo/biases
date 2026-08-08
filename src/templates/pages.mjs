@@ -1,9 +1,9 @@
 // The pages that are not entries and not the front door: /browse/, /about/, and
 // the 404. Small enough to share a file until one of them needs more.
 
-import { head, sprite, header, footer, escapeHtml, shareRow, BRAND, founderNode } from './partials.mjs';
+import { head, sprite, header, footer, escapeHtml, shareRow, BRAND, founderNode, biasCard } from './partials.mjs';
 import { hubHead, hubNav, hubFaq, hubJsonLd } from './hub.mjs';
-import { entryPath, replicationLabel } from './entry.mjs';
+import { entryPath, replicationLabel, REPLICATION_CLASS } from './entry.mjs';
 
 const n = (x) => Number(x).toLocaleString('en-US');
 
@@ -20,15 +20,19 @@ export function browsePage({ base = '/', origin = '', entries = [], mapped = 0 }
     ? `${n(count)} cognitive ${count === 1 ? 'bias is' : 'biases are'} published in this index, each with whether it survived being retested.`
     : `No entries are published yet. ${n(mapped)} biases have been identified and ranked for this index; this page lists them as they are written.`;
 
-  // Name plus verdict, never name alone. A list of biases is a list Wikipedia
-  // already has; the column that says whether each one survived being retested
-  // is the only reason to read this one, so it is in the list rather than one
-  // click inside it.
-  const REP_CLASS = { replicated: 'b-emp', failed: 'b-con', mixed: 'b-heu', 'none-located': 'b-folk' };
+  // Cards, in the shape styles.css draws them, with the verdict where the
+  // reliability tier used to sit. A list of bias names is a list Wikipedia
+  // already has; the column saying whether each one survived retesting is the
+  // only reason to read this one, so it is on the card rather than one click
+  // inside it.
   const list = count > 0
-    ? `    <ul class="coll-laws">
-${entries.map((e) => `      <li><a href="${base}${entryPath(e)}">${escapeHtml(e.name)}</a> <span class="badge ${REP_CLASS[e.replication.state] || 'b-heu'}">${escapeHtml(replicationLabel(e.replication.state))}</span></li>`).join('\n')}
-    </ul>
+    ? `    <div class="grid">
+${entries.map((e) => biasCard(e, base, {
+    level: 2,
+    verdictLabel: replicationLabel(e.replication.state),
+    verdictClass: REPLICATION_CLASS[e.replication.state] || 'b-heu',
+  })).join('\n')}
+    </div>
 `
     : `    <p class="vd-p">The build order is by how often each bias is looked up, so the entries that arrive first are the ones people are already searching for. Nothing is listed here before it is written and sourced.</p>
 `;

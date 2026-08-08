@@ -866,7 +866,13 @@ a.stat--link .s-k::after{content:" →";letter-spacing:0;opacity:.55}
    an accent fill (--scroll, 0..1, set on scroll) travels down it, and the active
    item grows + turns accent. The active state is driven by scroll position in JS,
    so it tracks instantly rather than lagging behind an IntersectionObserver. */
-.toc{position:sticky;top:calc(var(--header-h) + 8px);align-self:start;height:calc(100vh - var(--header-h) - 46px);display:flex;flex-direction:column;justify-content:space-between;gap:6px;padding:10px 0 12px 18px;border-left:2px solid var(--line);--fill:0px}
+/* justify-content was `space-between` against a fixed viewport height, which
+   distributes the links evenly down the screen. That reads as designed at
+   fifteen entries — the count the original site had — and as broken at seven,
+   where each link sits a third of a screen from the next. Hugging the top with
+   a max-height is correct at any count: a long list still fills the column and
+   scrolls, a short one stays a list. */
+.toc{position:sticky;top:calc(var(--header-h) + 8px);align-self:start;max-height:calc(100vh - var(--header-h) - 46px);overflow-y:auto;display:flex;flex-direction:column;justify-content:flex-start;gap:6px;padding:10px 0 12px 18px;border-left:2px solid var(--line);--fill:0px}
 /* the accent line runs down to the CURRENT item (its centre), so the indicator
    tracks the active section name rather than raw scroll position */
 .toc::before{content:"";position:absolute;left:-2px;top:0;width:2px;height:var(--fill);background:var(--accent);transition:height .3s cubic-bezier(.2,.7,.2,1)}
@@ -1351,6 +1357,17 @@ html{scroll-behavior:smooth}
    field label on a card, giving the index a per-discipline rhythm instead of one
    flat gold. Text-only: no new blocks of colour, and the reliability badges keep
    owning the green/amber/grey/red signal. */
+/* The field palette, for this site's five categories.
+   The inherited list below is The Law Tome's twenty disciplines; none of its
+   keys match ours, so every card rendered with no stripe at all — the variable
+   simply never resolved, which is the quiet kind of missing. Hues are picked
+   from the same family so the two sites look related rather than identical. */
+[data-cat-c="decision"],[data-c="decision"]{--field:#e0a43f}
+[data-cat-c="memory"],[data-c="memory"]{--field:#77a6f2}
+[data-cat-c="perception"],[data-c="perception"]{--field:#5cc6a2}
+[data-cat-c="social"],[data-c="social"]{--field:#e8926e}
+[data-cat-c="belief"],[data-c="belief"]{--field:#c79be6}
+
 [data-cat-c="economics"],[data-c="economics"]{--field:#e0a43f}   [data-cat-c="management"],[data-c="management"]{--field:#d8b45a}
 [data-cat-c="planning"],[data-c="planning"]{--field:#c9a86a}    [data-cat-c="sociology"],[data-c="sociology"]{--field:#e8926e}
 [data-cat-c="psychology"],[data-c="psychology"]{--field:#f0a0be}  [data-cat-c="media"],[data-c="media"]{--field:#f2b56b}

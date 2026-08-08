@@ -172,8 +172,27 @@ export function escapeHtml(s) {
     .replace(/"/g, '&quot;');
 }
 
-// The Law Tome's four-tier reliability scale lived here, along with the card
-// renderer keyed to it. Both were deleted rather than adapted.
+/**
+ * One `.card` anchor for a bias, in the exact shape styles.css draws.
+ *
+ * The Law Tome's card carried a reliability tier and a count of related laws.
+ * This one carries the replication verdict and the field, because those are the
+ * two facts that decide whether a reader opens it. `level` is the heading level:
+ * pass 2 where the cards sit directly under the page h1, 3 under a section head.
+ */
+export function biasCard(entry, base, { level = 3, verdictLabel, verdictClass } = {}) {
+  const h = level === 2 ? 'h2' : 'h3';
+  const field = String(entry.category || '');
+  return `   <a class="card" data-cat-c="${escapeHtml(field)}" href="${base}bias/${escapeHtml(entry.slug)}/">
+     <div class="top"><span class="no">№ ${String(entry.no).padStart(3, '0')}</span><span class="badge ${escapeHtml(verdictClass)}">${escapeHtml(verdictLabel)}</span></div>
+     <${h} class="card-name">${escapeHtml(entry.name)}</${h}>
+     <div class="say">"${escapeHtml(entry.statement)}"</div>
+     <div class="foot"><span class="cat">${escapeHtml(field)}</span><span class="rel">${escapeHtml(entry.replication.study && entry.replication.study.sites ? `${Number(entry.replication.study.sites)} labs` : 'no replication located')}</span></div>
+   </a>`;
+}
+
+// The Law Tome's four-tier reliability scale lived here, along with a card
+// renderer keyed to it. The scale was deleted rather than adapted.
 //
 // The scale rated how a *claim* was supported: measured, rule of thumb, folklore,
 // disputed. A bias is a different kind of object. The interesting question about
