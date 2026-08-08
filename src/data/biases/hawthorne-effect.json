@@ -1,0 +1,81 @@
+{
+  "no": 26,
+  "slug": "hawthorne-effect",
+  "name": "Hawthorne effect",
+  "aliases": [
+    "Observer effect (in field research)",
+    "Research participation effect",
+    "Reactivity"
+  ],
+  "category": "social",
+  "statement": "People are said to change their behaviour because they know they are being studied, an effect named after a lighting experiment whose recovered data do not show it.",
+  "meaning": "The claim is about the act of measurement rather than about any treatment. If a worker, a patient or a doctor behaves differently while a researcher watches, the measured effect of an intervention contains the effect of the watching. Control groups do not remove it, because controls are observed too. That is why the idea travels beyond psychology into trial design: a bias in the instrument matters everywhere the instrument is used. The label carries a stronger story with it, that output at the Hawthorne Works rose whatever the experimenters did to the lights. This entry is mostly about what happened when somebody read those data.",
+  "origin": {
+    "year": 1939,
+    "who": "Fritz J. Roethlisberger and William J. Dickson",
+    "where": "the book Management and the Worker (Harvard University Press)",
+    "note": "The studies came first and the name came later. The National Research Council began illumination experiments at Western Electric's Hawthorne Works in Cicero, Illinois in 1924; Elton Mayo joined as a consultant in 1928 for the second series, which ran until June 1932. None of the original investigators used the phrase. McCambridge, Witton and Elbourne date its first use to 1953, in John R. P. French's chapter 'Experiments in field settings' in Festinger and Katz's Research Methods in the Behavioral Sciences."
+  },
+  "evidence": "The illumination experiments ran from 1924 to 1927 under two Western Electric engineers, George Pennock and Clarence Stoll, working with the National Research Council committee. Three departments of women assembling relays and winding coils had their light varied and their output counted. Levitt and List describe a baseline of 4 foot-candles of artificial light and manipulations up to 36. In the final phase the windows were taped black and light was stepped down to 1.4 foot-candles for a single day. Changes were made on Mondays, because Sunday was the only day the factory was idle. Workers were told when a new period began. These data were never formally analysed at the time. The popular account, which Levitt and List quote from textbooks, holds that every change in light raised output, including the changes that darkened the room.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The original illumination data were found again in two separate archives, and the famous pattern is not in them; purpose-built tests of being studied find small effects that do not agree with each other.",
+    "detail": "Levitt and List traced the illumination records to a microfiche room in a Milwaukee library and a second archive in Boston, and report that existing descriptions of the data 'prove to be entirely fictional'. Output in the first year rose to about 10 percent above baseline in all three rooms, against a plant-wide rise they estimate at 1.4 percent per worker per year. Output did not jump on the Mondays when the light was changed: the same Monday pattern appears on Mondays with no change. Their strongest positive finding is that output ran 3 to 4 percent higher while experimentation was active. That result disappears once room-by-month and month-by-year interactions are included. Artificial light entered their regressions positively and natural light negatively. A one-standard-deviation change in artificial light moved output by under one percent. Izawa, French and Hedge found copies of the illumination documentation at Cornell and analysed it separately. They report an effect of lighting on productivity in the first treatment sequence of the first experiment, and no confirmation of it in the second sequence or in the second and third experiments. All three experiments, they conclude, were seriously flawed. Jones had earlier reanalysed the relay assembly test room data and concluded that they show 'slender or no evidence of a Hawthorne effect'. The modern methodological question is separate. McCambridge, Witton and Elbourne reviewed 19 purposively designed studies: 8 randomised trials, 5 quasi-experimental studies and 6 observational ones. Twelve of the 19 found an effect at conventional significance. Across the 14 studies with binary outcomes the pooled odds ratio was 1.17 (95% CI 1.06 to 1.30), with I-squared of 93.3 percent. The five trials alone gave 1.06 (95% CI 0.98 to 1.14). The four observational studies gave the largest estimate.",
+    "study": {
+      "cite": "McCambridge, J., Witton, J., & Elbourne, D. R. (2014). Systematic review of the Hawthorne effect: New concepts are needed to study research participation effects. Journal of Clinical Epidemiology, 67(3), 267-277.",
+      "doi": "10.1016/j.jclinepi.2013.08.015",
+      "year": 2014,
+      "sites": 19
+    },
+    "replicated": {
+      "es": 1.17,
+      "esType": "OR",
+      "ci": [
+        1.06,
+        1.3
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects pooling of the 14 included studies with binary outcomes, not weighted by study design"
+    }
+  },
+  "limits": "The Levitt and List figures on this page were read off their NBER working paper, which is the version available in full, while the citation names the published article in American Economic Journal: Applied Economics. Those two normally agree and are not guaranteed to, so any figure here should be checked against the published version before it is relied on. No effect size can be quoted for the original, because the illumination experiments were never analysed and the recovered series were read off printed graphs rather than from a table of counts. The pooled odds ratio above summarises studies its own authors call an 'apples and oranges' review. The manipulation is being interviewed in one study, filling in a questionnaire in another, and being watched washing one's hands in a third. Heterogeneity at 93.3 percent says those numbers are not estimating one quantity. Almost every included study sits in health sciences. Most of the observed effects are short-lived, and the review found them contingent on task and context rather than constant. Levitt and List are careful that their own positive results are weak, and they leave open whether the higher output during experimentation reflects observation or something their controls miss.",
+  "misreadings": "The claim that output rose whichever way the lights were moved is the part with no support in the data, and it is the part everyone repeats. It reached textbooks and management writing through secondary accounts of experiments nobody had checked. The Heisenberg comparison is a second misreading. Levitt and List note that the Hawthorne effect, unlike the uncertainty principle, is not guaranteed and depends on features of the setting. The name postdates the research by about thirty years, so 'what Mayo showed' and 'the Hawthorne effect' are two claims rather than one. The most common working use of the term, in McCambridge and colleagues' judgement, is as an after-the-fact explanation for disappointing findings, above all null results in trials.",
+  "sources": [
+    {
+      "text": "Levitt, S. D., & List, J. A. (2011). Was there really a Hawthorne effect at the Hawthorne plant? An analysis of the original illumination experiments. American Economic Journal: Applied Economics, 3(1), 224-238. Text read from the NBER working paper version, w15016 (2009).",
+      "doi": "10.1257/app.3.1.224",
+      "url": "https://www.nber.org/system/files/working_papers/w15016/w15016.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Izawa, M. R., French, M. D., & Hedge, A. (2011). Shining new light on the Hawthorne illumination experiments. Human Factors, 53(5), 528-547.",
+      "doi": "10.1177/0018720811417968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22046725/",
+      "type": "replication"
+    },
+    {
+      "text": "McCambridge, J., Witton, J., & Elbourne, D. R. (2014). Systematic review of the Hawthorne effect: New concepts are needed to study research participation effects. Journal of Clinical Epidemiology, 67(3), 267-277.",
+      "doi": "10.1016/j.jclinepi.2013.08.015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3969247/",
+      "type": "review"
+    },
+    {
+      "text": "Jones, S. R. G. (1992). Was there a Hawthorne effect? American Journal of Sociology, 98(3), 451-468. Quoted conclusion read from the publisher abstract.",
+      "doi": "10.1086/230046",
+      "url": "https://doi.org/10.1086/230046",
+      "type": "replication"
+    },
+    {
+      "text": "Roethlisberger, F. J., & Dickson, W. J. (1939). Management and the Worker. Cambridge, Mass.: Harvard University Press. The write-up of the Western Electric research programme.",
+      "url": "https://archive.org/details/managementworker00roet",
+      "type": "primary"
+    },
+    {
+      "text": "Gale, E. A. M. (2004). The Hawthorne studies: a fable for our times? QJM, 97(7), 439-449. History of the studies, cited by Levitt and List for the plant's size and staffing.",
+      "doi": "10.1093/qjmed/hch070",
+      "url": "https://doi.org/10.1093/qjmed/hch070",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
