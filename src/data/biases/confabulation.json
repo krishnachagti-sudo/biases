@@ -1,0 +1,194 @@
+{
+  "no": 42,
+  "slug": "confabulation",
+  "name": "Confabulation",
+  "aliases": ["Honest lying", "Provoked confabulation", "Spontaneous confabulation", "Choice blindness"],
+  "category": "memory",
+  "statement": "People produce confident false accounts of their own memories and reasons: a clinical symptom after limbic and frontal damage, and a laboratory finding in healthy adults.",
+  "meaning": "One word covers two claims of very different strength, and this entry keeps them apart. The clinical claim is that certain patients state as memory things that did not happen, without intent to deceive, and act on them. Clinicians divide these into provoked confabulations, which appear when a patient is questioned and cannot retrieve, and spontaneous confabulations, which the patient offers unasked and behaves according to. Both are rated with validated instruments and both are tied to particular lesions. The second claim is about everybody. It says that when a healthy person explains a choice, the explanation is generated after the fact and need not track what actually drove the choice. That claim has three supporting bodies of work: Nisbett and Wilson's 1977 survey of studies where people misreported what influenced them, Gazzaniga's split-brain patients narrating actions their speaking hemisphere had no access to, and the choice blindness paradigm, in which the outcome of a choice is switched and the person is asked why they chose it. Evidence for one claim is not evidence for the other. A Korsakoff patient inventing a hospital visit and a shopper explaining a jam they did not pick share a description, not a mechanism.",
+  "origin": {
+    "year": 1977,
+    "who": "Richard E. Nisbett and Timothy DeCamp Wilson",
+    "where": "Psychological Review",
+    "note": "This is the origin of the claim about ordinary people, not of the term. Confabulation was a clinical word for most of a century before 1977, and no source establishing its first use was read for this entry. An English translation of Korsakoff appeared in Neurology in 1955 and is listed below unread. Nisbett and Wilson did not use the word confabulation in the passages read here; they wrote about the accuracy of verbal reports."
+  },
+  "evidence": "The clinical work rests on lesion series with instruments built for it. Schnider and Ptak gave amnesic patients repeated runs of a continuous recognition task. Spontaneous confabulators detected target items as accurately as nonconfabulating amnesics, and increasingly failed to suppress false positives, confusing an earlier run with the current one. Lesions involved the anterior limbic system: medial orbitofrontal cortex, basal forebrain, amygdala and perirhinal cortex or medial hypothalamus. Schnider, Ptak, von Däniken and Remonda re-examined eight patients 18 months after onset. Seven stopped confabulating, and this temporal context confusion tracked the clinical course while standard memory and executive tests did not. Rensen and colleagues built the Nijmegen-Venray Confabulation List so caregivers could rate spontaneous as well as provoked confabulation, validating the 20-item version on 28 Korsakoff patients and 24 cognitively impaired chronic alcoholics against the Dalla Barba Confabulation Battery and the Provoked Confabulation Test. A later factor analysis on 252 patients with alcoholic Korsakoff's syndrome preferred a four-factor structure to the original three, with internal consistency of lambda 2 = 0.75 for provoked and 0.91 for spontaneous confabulation. The claim about healthy people starts from thinner material. Nisbett and Wilson's stocking study was, in their own word, serendipitous: it came out of a failed attempt to manipulate the smell of garments. Passersby in commercial premises evaluated four identical pairs of nylon stockings, 52 subjects in that study and 378 in a companion study using four different nightgowns. The right-most stockings were preferred over the left-most by a factor of almost four to one. No subject spontaneously mentioned position, and asked directly, virtually all denied it. The paper reports no percentages, no significance test and no control condition for that study. Gazzaniga's demonstration is a single patient. A chicken claw was shown to P.S.'s speaking left hemisphere and a snow scene to his right; his left hand chose a shovel, his right a chicken, and he said the chicken claw goes with the chicken and you need a shovel to clean out the chicken shed. Johansson, Hall, Sikström and Olsson turned the claim into a repeatable procedure. They showed 120 participants 15 pairs of female faces, asked which was more attractive, and used a double-card ploy to hand back the rejected face on three trials. Of 354 manipulated trials, 46, or 13%, were caught as they happened, and tallying every form of detection including the post-experiment interview left no more than 26% exposed. Blind raters found no difference between reports for real and switched choices on emotionality, specificity or certainty, and no difference in length, tense or laughter.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The verdict covers the choice blindness procedure only: switch the outcome of a choice and most people justify the option they rejected, an effect repeated in Sweden, Argentina, the Netherlands and the United States, with faces, jam, tea, moral statements, political attitudes and intelligence reports.",
+    "detail": "The largest test is independent of the originating laboratory. Rieznik and colleagues manipulated answers to political questions and report 40% of 131 manipulated trials detected in a laboratory experiment of 56 people, and 55% of 4,848 manipulated questions undetected in an online experiment completed by 3,106 participants. Hall, Johansson and Strandberg reversed two of twelve moral ratings for 160 people. About a third of trials were caught concurrently in one condition and close to half in the other, 69% of participants accepted at least one reversal, and 53% argued unequivocally for the opposite of their original position on at least one trial. Strandberg, Sivén, Hall, Johansson and Pärnamets found that only half the manipulations were corrected in an experiment of 140, that confabulating supporting arguments produced larger attitude shifts a week later, and that a second experiment of 232 reproduced the pattern. In a supermarket, Hall and colleagues switched jam and tea samples and report that no more than a third of manipulated trials were detected. Sauerland, Sagana, Otgaar and Broers found the effect robust in adolescents (n = 87) and children (n = 117). Patterson and colleagues put the procedure into a simulated intelligence task and report that 76% of novices missed the switch, and that experts did the same. What has not happened is a preregistered or multi-laboratory test. Searches of PubMed and the open web located none, and no direct replication of Nisbett and Wilson's stocking study was found either. The interpretation is contested where the occurrence is not. Detection rates vary from 13% to 56% across designs, and Grassi, Hoeppe, Baytimur and Bartels report 56.4% concurrent detection in one computerised experiment against 84.45% on later questioning, reading the gap as covert detection rather than blindness. Marchant and colleagues showed that cues suggesting the experimenter was incompetent raised reporting, which points the same way. Taya, Gupta, Farber and Mullette-Gillman found 16.9% concurrent detection across 160 manipulated trials, rising to 75% of participants once queried afterwards. None of this touches the clinical syndrome, and none of it rehabilitates the stocking study.",
+    "study": {
+      "cite": "Rieznik, A., Moscovich, L., Frieiro, A., Figini, J., Catalano, R., Garrido, J. M., Alvarez Heduan, F., Sigman, M., & Gonzalez, P. A. (2017). A massive experiment on choice blindness in political decisions: Confidence, confabulation, and unconscious detection of self-deception. PLoS ONE, 12(2), e0171108.",
+      "doi": "10.1371/journal.pone.0171108",
+      "year": 2017,
+      "n": 3106
+    }
+  },
+  "limits": "The verdict above is about the choice blindness procedure and nothing else. The clinical syndrome is not something a replication verdict fits: it is a lesion-linked symptom described in patient series of eight, 28 and 252, not an effect with an original and a repeat. The stocking study has its own verdict, which is that the evidence is weak. Fifty-two shoppers, one ratio, no test statistic, no control, and the authors themselves list it among the studies where subjects may have denied the influential stimulus to avoid looking foolish rather than because they were unaware of it. Position effects in later work do not point one way. Bar-Hillel's review, read here only as an abstract, describes them as seemingly inconsistent: first position wins on ballots, middle on multiple-choice tests and supermarket shelves, first or last on restaurant menus. Christenfeld's 1995 study of choices from identical options is the closest thing to a repeat of the stocking design and was not obtained for this entry. The split-brain evidence is a demonstration, not a measurement. The quoted exchange with P.S. is reproduced in a review Gazzaniga co-wrote, which attributes it to his own 2000 paper; the underlying source is a case description, not a study with an n. De Haan and eleven colleagues note that split-brain findings come from a relatively small group of patients who differ among themselves, some with all commissures severed and some with only the corpus callosum cut. Searches ran across PubMed, Crossref, PLOS, Frontiers, PMC and the open web. Johansson and colleagues' 2005 Science paper and their 2006 follow-up were read in full from author-posted copies of the published versions. The percentages in that paper's figure of eight report categories, which include a specific confabulation category and an original choice category, sit in an image and were not read. The clinical papers were read as abstracts except the 2021 factor analysis, which was read at PubMed Central. Hall and colleagues' supermarket study, Bar-Hillel's review, Kopelman's review of confabulation and delusion and Dalla Barba's battery are named from their abstracts or their Crossref records and were not read in full.",
+  "misreadings": "The stocking study is retold with numbers it does not contain. Popular versions give a percentage choosing the right-hand pair and describe every participant offering a detailed account of texture and weave. The paper reports a four-to-one ratio between the ends of the array and says only that no subject mentioned position and that virtually all denied it when asked. The knit, sheerness and weave appear in the authors' theorising about which causes feel plausible, not in a record of what shoppers said. The 13% figure from Johansson and colleagues is quoted as the detection rate. It is the concurrent rate; their own all-forms figure is 26%, and later designs run far higher. Clinical and everyday confabulation are treated as one thing on the strength of the shared word. Provoked and spontaneous confabulation come apart even inside Korsakoff's syndrome: Rensen and colleagues found provoked confabulation associated with executive dysfunction and poorer memory, and spontaneous confabulation associated with neither. Choice blindness is read as showing that stated reasons are always invented. Johansson and colleagues' own coding kept a category for reports that must have been about the original choice, because they contradicted the face the participant was holding. The split-brain interpreter is offered as a general fact about left hemispheres. It rests on demonstrations in a handful of patients who had epilepsy severe enough to warrant surgery and who differ in how much was cut.",
+  "sources": [
+    {
+      "text": "Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. Psychological Review, 84(3), 231-259. Read in full from a scan; the source for the stocking and nightgown figures and for the authors' own caveat about them.",
+      "doi": "10.1037/0033-295X.84.3.231",
+      "url": "https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. Science, 310(5745), 116-119. Read in full from the authors' posted copy of the published version.",
+      "doi": "10.1126/science.1111709",
+      "url": "https://www.lucs.lu.se/fileadmin/user_upload/lucs/2011/01/Johansson-et-al.-2005-Failure-to-Detect-Mismatches-Between-Intention-and-Outcome-in-a-Simple-Decision-Task.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Johansson, P., Hall, L., Sikström, S., Tärning, B., & Lind, A. (2006). How something can be said about telling more than we can know: On choice blindness and introspection. Consciousness and Cognition, 15(4), 673-692. Read in full; the authors' own restatement of the 2005 detection figures.",
+      "doi": "10.1016/j.concog.2006.09.004",
+      "url": "https://www.lucs.lu.se/fileadmin/user_upload/lucs/2011/01/Johansson-et-al.-2006-How-Something-Can-Be-Said-About-Telling-More-Than-We-Can-Know.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Schnider, A., & Ptak, R. (1999). Spontaneous confabulators fail to suppress currently irrelevant memory traces. Nature Neuroscience, 2(7), 677-681. Read as an abstract.",
+      "doi": "10.1038/10236",
+      "url": "https://doi.org/10.1038/10236",
+      "type": "primary"
+    },
+    {
+      "text": "Schnider, A., Ptak, R., von Däniken, C., & Remonda, L. (2000). Recovery from spontaneous confabulations parallels recovery of temporal confusion in memory. Neurology, 55(1), 74-83. Read as a structured abstract.",
+      "doi": "10.1212/WNL.55.1.74",
+      "url": "https://doi.org/10.1212/WNL.55.1.74",
+      "type": "primary"
+    },
+    {
+      "text": "Rensen, Y. C. M., Oosterman, J. M., van Damme, J. E., Griekspoor, S. I., Wester, A. J., Kopelman, M. D., & Kessels, R. P. C. (2015). Assessment of confabulation in patients with alcohol-related cognitive disorders: The Nijmegen-Venray Confabulation List (NVCL-20). The Clinical Neuropsychologist, 29(6), 804-823. Read as a structured abstract.",
+      "doi": "10.1080/13854046.2015.1084377",
+      "url": "https://doi.org/10.1080/13854046.2015.1084377",
+      "type": "primary"
+    },
+    {
+      "text": "Rensen, Y. C. M., Oudman, E., Oosterman, J. M., & Kessels, R. P. C. (2021). Confabulations in alcoholic Korsakoff's syndrome: A factor analysis of the Nijmegen-Venray Confabulation List. Assessment, 28(6), 1545-1555. Read at PubMed Central; the source for the 252-patient factor structure and the internal consistency values.",
+      "doi": "10.1177/1073191119899476",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8392856/",
+      "type": "primary"
+    },
+    {
+      "text": "Rensen, Y. C., Oosterman, J. M., Walvoort, S. J., Eling, P. A., & Kessels, R. P. (2017). Intrusions and provoked and spontaneous confabulations on memory tests in Korsakoff's syndrome. Journal of Clinical and Experimental Neuropsychology, 39(2), 101-111. Read as a structured abstract.",
+      "doi": "10.1080/13803395.2016.1204991",
+      "url": "https://doi.org/10.1080/13803395.2016.1204991",
+      "type": "primary"
+    },
+    {
+      "text": "Oudman, E., Rensen, Y., & Kessels, R. P. C. (2022). Confabulations in post-acute and chronic alcoholic Korsakoff's syndrome: A cross-sectional study conducted in two centres. International Journal of Psychiatry in Clinical Practice, 26(2), 208-212. Read as a structured abstract.",
+      "doi": "10.1080/13651501.2021.1906907",
+      "url": "https://doi.org/10.1080/13651501.2021.1906907",
+      "type": "primary"
+    },
+    {
+      "text": "Volz, L. J., & Gazzaniga, M. S. (2017). Interaction in isolation: 50 years of insights from split-brain research. Brain, 140(7), 2051-2060. The source for the wording of P.S.'s explanation, which it attributes to Gazzaniga (2000). Co-authored by Gazzaniga.",
+      "doi": "10.1093/brain/awx139",
+      "url": "https://doi.org/10.1093/brain/awx139",
+      "type": "primary"
+    },
+    {
+      "text": "de Haan, E. H. F., Corballis, P. M., Hillyard, S. A., Marzi, C. A., Seth, A., Lamme, V. A. F., Volz, L., Fabri, M., Schechter, E., Bayne, T., Corballis, M., & Pinto, Y. (2020). Split-brain: What we know now and why this is important for understanding consciousness. Neuropsychology Review, 30(2), 224-233. The source for the caveats about the size and heterogeneity of the patient group.",
+      "doi": "10.1007/s11065-020-09439-3",
+      "url": "https://doi.org/10.1007/s11065-020-09439-3",
+      "type": "critique"
+    },
+    {
+      "text": "Rieznik, A., Moscovich, L., Frieiro, A., Figini, J., Catalano, R., Garrido, J. M., Alvarez Heduan, F., Sigman, M., & Gonzalez, P. A. (2017). A massive experiment on choice blindness in political decisions: Confidence, confabulation, and unconscious detection of self-deception. PLoS ONE, 12(2), e0171108. Not preregistered.",
+      "doi": "10.1371/journal.pone.0171108",
+      "url": "https://doi.org/10.1371/journal.pone.0171108",
+      "type": "replication"
+    },
+    {
+      "text": "Hall, L., Johansson, P., & Strandberg, T. (2012). Lifting the veil of morality: Choice blindness and attitude reversals on a self-transforming survey. PLoS ONE, 7(9), e45457.",
+      "doi": "10.1371/journal.pone.0045457",
+      "url": "https://doi.org/10.1371/journal.pone.0045457",
+      "type": "replication"
+    },
+    {
+      "text": "Strandberg, T., Sivén, D., Hall, L., Johansson, P., & Pärnamets, P. (2018). False beliefs and confabulation can lead to lasting changes in political attitudes. Journal of Experimental Psychology: General, 147(9), 1382-1399. Read as an abstract.",
+      "doi": "10.1037/xge0000489",
+      "url": "https://doi.org/10.1037/xge0000489",
+      "type": "replication"
+    },
+    {
+      "text": "Hall, L., Johansson, P., Tärning, B., Sikström, S., & Deutgen, T. (2010). Magic at the marketplace: Choice blindness for the taste of jam and the smell of tea. Cognition, 117(1), 54-61. Read as an abstract; the source for the one-third figure.",
+      "doi": "10.1016/j.cognition.2010.06.010",
+      "url": "https://doi.org/10.1016/j.cognition.2010.06.010",
+      "type": "replication"
+    },
+    {
+      "text": "Sauerland, M., Sagana, A., Otgaar, H., & Broers, N. J. (2014). Self-relevance does not moderate choice blindness in adolescents and children. PLoS ONE, 9(6), e98563. Read as an abstract.",
+      "doi": "10.1371/journal.pone.0098563",
+      "url": "https://doi.org/10.1371/journal.pone.0098563",
+      "type": "replication"
+    },
+    {
+      "text": "Taya, F., Gupta, S., Farber, I., & Mullette-Gillman, O. A. (2014). Manipulation detection and preference alterations in a choice blindness paradigm. PLoS ONE, 9(9), e108515.",
+      "doi": "10.1371/journal.pone.0108515",
+      "url": "https://doi.org/10.1371/journal.pone.0108515",
+      "type": "replication"
+    },
+    {
+      "text": "Patterson, R. E., Acker-Mills, B., Frame, M. E., Maresca, A. M., Christoffers, E., Buccello-Stout, R., Brill, J. C., & Hart, K. (2026). Choice blindness in a military setting. Human Factors, 68(9), 1164-1181. Read as a structured abstract.",
+      "doi": "10.1177/00187208261444690",
+      "url": "https://doi.org/10.1177/00187208261444690",
+      "type": "replication"
+    },
+    {
+      "text": "Grassi, P. R., Hoeppe, T., Baytimur, D., & Bartels, A. (2025). Restoring sight in choice blindness: Pupillometry and behavioral evidence of covert detection. Frontiers in Psychology, 16, 1598254. Read in full at the publisher; argues the effect is under-reporting rather than failure of detection.",
+      "doi": "10.3389/fpsyg.2025.1598254",
+      "url": "https://doi.org/10.3389/fpsyg.2025.1598254",
+      "type": "critique"
+    },
+    {
+      "text": "Marchant, N., Navarrete, G., de Gardelle, V., Silva, J. R., Sackur, J., & Reyes, G. (2025). Social cues for experimenter incompetence influence choice blindness. Consciousness and Cognition, 132, 103887. Read as an abstract.",
+      "doi": "10.1016/j.concog.2025.103887",
+      "url": "https://doi.org/10.1016/j.concog.2025.103887",
+      "type": "critique"
+    },
+    {
+      "text": "Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. Neuroscience of Consciousness, 2021(1), niab004. Read as an abstract.",
+      "doi": "10.1093/nc/niab004",
+      "url": "https://doi.org/10.1093/nc/niab004",
+      "type": "replication"
+    },
+    {
+      "text": "Bar-Hillel, M. (2015). Position effects in choice from simultaneous displays: A conundrum solved. Perspectives on Psychological Science, 10(4), 419-433. Read as an abstract; the source for the statement that position effects run in different directions across settings.",
+      "doi": "10.1177/1745691615588092",
+      "url": "https://doi.org/10.1177/1745691615588092",
+      "type": "critique"
+    },
+    {
+      "text": "Christenfeld, N. (1995). Choices from identical options. Psychological Science, 6(1), 50-55. The nearest thing located to a repeat of the stocking design; named because it exists, and not obtained for this entry.",
+      "doi": "10.1111/j.1467-9280.1995.tb00304.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.1995.tb00304.x",
+      "type": "replication"
+    },
+    {
+      "text": "Kopelman, M. D. (2010). Varieties of confabulation and delusion. Cognitive Neuropsychiatry, 15(1), 14-37. Read as a structured abstract.",
+      "doi": "10.1080/13546800902732830",
+      "url": "https://doi.org/10.1080/13546800902732830",
+      "type": "review"
+    },
+    {
+      "text": "Dalla Barba, G., Guerin, B., Brazzarola, M., Marangoni, S., Barbera, C., & La Corte, V. (2019). The confabulation battery: Instructions and international data from normal participants. Neuropsychological Rehabilitation, 29(10), 1625-1636. Named from its Crossref record; not read.",
+      "doi": "10.1080/09602011.2018.1436446",
+      "url": "https://doi.org/10.1080/09602011.2018.1436446",
+      "type": "primary"
+    },
+    {
+      "text": "Bortolotti, L. (2018). Stranger than fiction: Costs and benefits of everyday confabulation. Review of Philosophy and Psychology, 9(2), 227-249. A philosophical account of the non-clinical case; it carries no rates.",
+      "doi": "10.1007/s13164-017-0367-y",
+      "url": "https://doi.org/10.1007/s13164-017-0367-y",
+      "type": "review"
+    },
+    {
+      "text": "Korsakoff, S. S. (1955). Psychic disorder in conjunction with multiple neuritis. Neurology, 5(6), 396. The English translation of the founding clinical description; listed because it exists, and not read for this entry.",
+      "doi": "10.1212/WNL.5.6.396",
+      "url": "https://doi.org/10.1212/WNL.5.6.396",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
