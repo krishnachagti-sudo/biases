@@ -1,0 +1,86 @@
+{
+  "no": 28,
+  "slug": "curse-of-knowledge",
+  "name": "Curse of knowledge",
+  "aliases": ["Curse of expertise", "Epistemic egocentrism", "Knowledge bias"],
+  "category": "social",
+  "statement": "Once someone knows a thing they cannot set it aside, so they overestimate how much of it other people already know.",
+  "meaning": "The claim is about a subtraction that people cannot perform. Judging what a less informed person believes means holding your own knowledge out of the calculation, and the finding is that the knowledge leaks back in. Camerer, Loewenstein and Weber wrote the leak down formally. A forecaster with information I1 should report E(X|I0) when asked what someone holding only I0 expects; instead they report a weighted blend of E(X|I0) and E(X|I1), and the weight on their own richer information is the size of the bias. The same structure covers hindsight bias, where the naive perspective being reconstructed is the person's own earlier one, and false-belief reasoning, where it belongs to somebody else.",
+  "origin": {
+    "year": 1989,
+    "who": "Colin Camerer, George Loewenstein and Martin Weber",
+    "where": "Journal of Political Economy",
+    "note": "The paper names the effect and credits the phrase to Robin Hogarth in a footnote. It treats the phenomenon as already established in psychology, citing Fischhoff's 1975 hindsight work, and asks the economic question instead: whether incentives, feedback and markets clear the bias away."
+  },
+  "evidence": "The economics experiment ran in two stages. In the first, 51 Wharton students read Value Line reports and predicted eight companies' 1980 earnings. In the second, run two months later, groups of nine experienced traders saw the identical reports with the actual 1980 earnings filled in, then traded assets whose dividend was the first group's mean prediction. Pricing the asset correctly required ignoring the true earnings. Equilibrium prices settled between the no-bias and full-bias predictions, and the authors report rejecting both hypotheses strongly. Judgements by individuals given incentives (n = 19) or incentives plus feedback (n = 13) showed more bias than judgements made inside the markets, which the paper summarises as markets halving the bias without removing it. Feedback on its own did nothing. The famous demonstration is a different study and is described below.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The one well-powered replication in this literature took the false-belief version apart: seven experiments on 3,074 people found effects in the original direction at under half the original size, and its authors call that a failure to replicate.",
+    "detail": "Birch and Bloom gave 155 Yale undergraduates a displacement task about a girl called Vicki and her violin, and asked for percentage probabilities rather than a yes or no. Knowing where the violin had gone raised ratings for the plausible wrong container from 23% to 34%, d = 0.472, and lowered ratings for the correct container from 71% to 59%, d = 0.459. Knowing an implausible location produced no reliable bias. Ryskin and Brown-Schmidt repeated that experiment seven times with a combined 3,074 participants. Pooling across the seven, the knowledge effect came out at d = 0.20 against the original 0.469, and the plausibility effect at d = 0.24 against the original 0.645. Those two baselines are their own figures for the original data, which is why 0.469 sits beside the 0.472 printed by Birch and Bloom. Two of the seven runs found the knowledge effect at p < .05, with a third at p = .053. Their own test is that the original design, with about 50 people per condition, had roughly 17% power to detect d = 0.20, so the results are substantively different rather than a quiet confirmation. What holds up sits elsewhere. Tullis and Feder had participants study trivia answers and then estimate how many novices would know them, and report across four experiments that studying damaged both the calibration and the resolution of those estimates.",
+    "study": {
+      "cite": "Ryskin, R. A., & Brown-Schmidt, S. (2014). Do adults show a curse of knowledge in false-belief reasoning? A robust estimate of the true effect size. PLoS ONE, 9(3), e92406.",
+      "doi": "10.1371/journal.pone.0092406",
+      "year": 2014,
+      "n": 3074
+    },
+    "original": { "es": 0.469, "esType": "d" },
+    "replicated": { "es": 0.2, "esType": "d", "weighting": "combined across seven experiments" }
+  },
+  "limits": "The demonstration everyone quotes was never peer reviewed. Elizabeth Newton's tappers and listeners study is a chapter of her 1990 Stanford doctoral dissertation, and no journal version of it appears in Crossref or in the searches run for this entry. The dissertation was read directly for these figures, and they hold up. 80 undergraduates were paired, and tappers chose three songs each from a list of 25. Tappers put the chance their listener had named the tune at a mean of 50%, range 10 to 95. Listeners scored 3 hits in 120 tries, 2.5%, outside the entire range of the tappers' guesses. The dissertation contradicts itself on that count, giving two of 150 in the abstract and three of 150 in the discussion, against the three of 120 in the results and in the table. The title is also usually got wrong; it is \"The rocky road from actions to intentions\", not the \"Heard and unheard melodies\" phrase attached to it in retellings. No replication of the tapping study was located. No effect size is quoted from the economics paper, which reports a bias index rather than a standardised effect. Guilbault and colleagues' meta-analysis of hindsight bias is named as existing, because it sits behind a paywall these checks did not pass. Searches covered Crossref, PubMed, PLOS, Google via web search, and the full text of the four papers held.",
+  "misreadings": "The tapping figures get quoted as though 50 against 2.5 were the measured size of the curse of knowledge in general. They are one demonstration, in one unpublished study, of a task listeners find close to impossible, and the gap partly measures the difficulty of the task rather than the tappers' egocentrism. Newton's own listeners guessed that only 3% of an audience would name a tune, so the effect is specific to knowing the tune, not a general optimism. The curse is also treated as a fixed trait of experts, where Camerer and colleagues found market experience cut it by about half within a single session. And it is used interchangeably with hindsight bias, which is one case of it: the naive perspective being reconstructed there is the judge's own earlier one.",
+  "sources": [
+    {
+      "text": "Camerer, C., Loewenstein, G., & Weber, M. (1989). The curse of knowledge in economic settings: An experimental analysis. Journal of Political Economy, 97(5), 1232-1254.",
+      "doi": "10.1086/261651",
+      "url": "https://doi.org/10.1086/261651",
+      "type": "primary"
+    },
+    {
+      "text": "Newton, E. L. (1990). The rocky road from actions to intentions. Doctoral dissertation, Stanford University. UMI order number 9102521. Not peer reviewed; the tappers and listeners figures in this entry were read from this document.",
+      "url": "https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/1990-newton.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Birch, S. A. J., & Bloom, P. (2007). The curse of knowledge in reasoning about false beliefs. Psychological Science, 18(5), 382-386.",
+      "doi": "10.1111/j.1467-9280.2007.01909.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2007.01909.x",
+      "type": "primary"
+    },
+    {
+      "text": "Ryskin, R. A., & Brown-Schmidt, S. (2014). Do adults show a curse of knowledge in false-belief reasoning? A robust estimate of the true effect size. PLoS ONE, 9(3), e92406.",
+      "doi": "10.1371/journal.pone.0092406",
+      "url": "https://doi.org/10.1371/journal.pone.0092406",
+      "type": "replication"
+    },
+    {
+      "text": "Tullis, J. G., & Feder, B. (2023). The \"curse of knowledge\" when predicting others' knowledge. Memory & Cognition, 51(5), 1214-1234. Described here from its abstract.",
+      "doi": "10.3758/s13421-022-01382-3",
+      "url": "https://doi.org/10.3758/s13421-022-01382-3",
+      "type": "replication"
+    },
+    {
+      "text": "Birch, S. A. J., & Bloom, P. (2003). Children are cursed: An asymmetric bias in mental-state attribution. Psychological Science, 14(3), 283-286. Cited by Birch and Bloom (2007) as showing 3- and 4-year-olds more susceptible than 5-year-olds; not read for this entry.",
+      "doi": "10.1111/1467-9280.03436",
+      "url": "https://doi.org/10.1111/1467-9280.03436",
+      "type": "primary"
+    },
+    {
+      "text": "Fischhoff, B. (1975). Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299. The hindsight antecedent cited by Camerer and colleagues; not read for this entry.",
+      "doi": "10.1037/0096-1523.1.3.288",
+      "url": "https://doi.org/10.1037/0096-1523.1.3.288",
+      "type": "primary"
+    },
+    {
+      "text": "Guilbault, R. L., Bryant, F. B., Brockway, J. H., & Posavac, E. J. (2004). A meta-analysis of research on hindsight bias. Basic and Applied Social Psychology, 26(2-3), 103-117. Named as existing; paywalled, and no figure from it is quoted here.",
+      "doi": "10.1080/01973533.2004.9646399",
+      "url": "https://doi.org/10.1080/01973533.2004.9646399",
+      "type": "replication"
+    },
+    {
+      "text": "Heath, C., & Heath, D. (2006). The curse of knowledge. Harvard Business Review, December 2006. The popular vector for the tapping story; paywalled, and nothing in this entry is taken from it.",
+      "url": "https://hbr.org/2006/12/the-curse-of-knowledge",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
