@@ -28,8 +28,8 @@
       "n": 150357
     }
   },
-  "limits": "No meta-analysis of the gambler's fallacy was located. Searches covered Crossref, PubMed and general web search for a pooled quantitative synthesis, and turned up individual studies and narrative reviews only, so the entry has no summary estimate to quote and none should be inferred from the figures above. The field results carry their own caveats, stated by their authors. Croson and Sundali find nothing at streaks of one to four, which is where most roulette hands live. They also note that no roulette bet costs more than any other in expected value. The casino is a setting where a cheap bias can survive. Chen, Moskowitz and Shue say they cannot completely rule out sequential contrast effects as an alternative to the gambler's fallacy, and the magnitudes quoted here were read from the February 2016 NBER working-paper version rather than the published article. The Xiang result splits the claim in two, and the split is disputed. Betting against a streak replicates. Whether people also state a lower probability for the streak continuing is now argued over by people working from the same data. Banki and Simonsohn count responses instead of averaging them and report that after a streak of four, 57% of probability judgments call the streak overly likely to end against 31% that do the opposite. Choi and DeKay report that a fuller reanalysis yields strong evidence of the fallacy in those probability judgments and undermines the claimed gap between judgments and choices. Both are working papers rather than peer-reviewed articles as of August 2026, and neither collected new data. One adjacent effect has been replicated at scale and is often confused with this one. In Oppenheimer and Monin's retrospective gambler's fallacy, an observed streak makes people guess that a longer unseen sequence preceded it. That came back in Many Labs 1 across 36 samples and 5,942 participants. The original was d = 0.69 with a 95% interval of 0.16 to 1.21; the replication was d = 0.59 unweighted with a 99% interval of 0.49 to 0.70, significant in the same direction at 83% of sites. That is a claim about reconstructing the past, not about predicting the future, and it is not a replication of the classic fallacy.",
-  "misreadings": "The commonest error is treating every expectation of reversal as irrational. Draws without replacement do make the unseen outcome likelier. A run of one outcome is evidence that the generator is biased towards it. Laplace made both points in 1819, and the fallacy is specific to processes known to be independent and memoryless. The second error is calling the fallacy the inverse of the hot hand. They are answers to different questions, one about outcomes and one about people. Croson and Sundali found both in the same 139 gamblers. Those gamblers bet against long streaks and also placed more bets after winning, 13.62 numbers on average after an inside win against 9.21 after a loss. The third is reading the field studies as measurements of belief. What the asylum, loan and umpire data show is negative autocorrelation in choices, and Xiang and colleagues report that the same negative pattern is present in choices and absent in stated probabilities. Whatever the fallacy is, the newest evidence places it at the point of deciding rather than in the reasoning behind it.",
+  "limits": "No meta-analysis of the gambler's fallacy was located. Searches covered Crossref, PubMed and general web search for a pooled quantitative synthesis, and turned up individual studies and narrative reviews only, so the entry has no summary estimate to quote and none should be inferred from the figures above. The field results carry their own caveats, stated by their authors. Croson and Sundali find nothing at streaks of one to four, which is where most roulette hands live. They also note that almost every roulette bet carries the same expected value, minus 5.26% on a double-zero wheel. The casino is a setting where a costless bias can survive. Chen, Moskowitz and Shue say they cannot completely rule out sequential contrast effects as an alternative to the gambler's fallacy, and the magnitudes quoted here were read from the February 2016 NBER working-paper version rather than the published article. The Danish lotto magnitudes were likewise read from the authors' working paper, not from the published article, and they are percentages of a small weekly stake rather than shifts in belief. The Xiang result splits the claim in two, and the split is disputed. Betting against a streak replicates. Whether people also state a lower probability for the streak continuing is now argued over by people working from the same data. Banki and Simonsohn count responses instead of averaging them and report that after a streak of four, 57% of probability judgments call the streak overly likely to end against 31% that do the opposite. Choi and DeKay report that a fuller reanalysis yields strong evidence of the fallacy in those probability judgments and undermines the claimed gap between judgments and choices. Both are working papers rather than peer-reviewed articles as of August 2026, and neither collected new data. One adjacent effect has been replicated at scale and is often confused with this one. In Oppenheimer and Monin's retrospective gambler's fallacy, an observed streak makes people guess that a longer unseen sequence preceded it. That came back in Many Labs 1 across 36 samples and 5,942 participants. The original was d = 0.69 with a 95% interval of 0.16 to 1.21; the replication was d = 0.59 unweighted with a 99% interval of 0.49 to 0.70, significant in the same direction at 83% of sites. That is a claim about reconstructing the past, not about predicting the future, and it is not a replication of the classic fallacy.",
+  "misreadings": "The commonest error is treating every expectation of reversal as irrational. Draws without replacement do make the unseen outcome likelier. A run of one outcome is evidence that the generator is biased towards it. Laplace made both points in 1819, and the fallacy is specific to processes known to be independent and memoryless. The second error is calling the fallacy the inverse of the hot hand. They are answers to different questions, one about outcomes and one about people. Croson and Sundali found both in the same 139 gamblers. Those gamblers bet against long streaks and also placed more bets after winning, 13.62 numbers on average after an inside win against 9.21 after a loss. The third is reading the field studies as measurements of belief. What the asylum, loan and umpire data show is negative autocorrelation in choices, and whether the same shift appears in stated probabilities is the live dispute over Xiang and colleagues' data. The fourth concerns the founding anecdote. Popular accounts have the ball at the Monte Carlo casino landing on black 26 times running on 18 August 1913, ruining gamblers who kept doubling on red. No contemporary record of that run was located for this entry. A search of the Library of Congress newspaper archive for 1913 to 1915 returned nothing, general web search turned up only modern retellings, and the English Wikipedia article rests the claim on a BBC feature published in 2015. The fallacy does not need the story, which is fortunate, because the story has no source anyone cites.",
   "sources": [
     {
       "text": "Laplace, P. S. (1902). A Philosophical Essay on Probabilities, translated from the sixth French edition by F. W. Truscott and F. L. Emory. New York: John Wiley & Sons. Chapter XVI, \"Concerning Illusions in the Estimation of Probabilities\".",
@@ -55,7 +55,7 @@
       "type": "primary"
     },
     {
-      "text": "Croson, R., & Sundali, J. (2005). The gambler's fallacy and the hot hand: Empirical data from casinos. Journal of Risk and Uncertainty, 30(3), 195-209.",
+      "text": "Croson, R., & Sundali, J. (2005). The gambler's fallacy and the hot hand: Empirical data from casinos. Journal of Risk and Uncertainty, 30(3), 195-209. The counts quoted here were read from a full-text copy carrying the journal's pagination at https://www.readkong.com/page/the-gambler-s-fallacy-and-the-hot-hand-empirical-data-from-8912758, the publisher's copy being paywalled.",
       "doi": "10.1007/s11166-005-1153-2",
       "url": "https://doi.org/10.1007/s11166-005-1153-2",
       "type": "replication"
@@ -67,9 +67,32 @@
       "type": "replication"
     },
     {
+      "text": "Suetens, S., Galbo-Jørgensen, C. B., & Tyran, J.-R. (2016). Predicting lotto numbers: A natural experiment on the gambler's fallacy and the hot-hand fallacy. Journal of the European Economic Association, 14(3), 584-607. Magnitudes quoted in this entry were read from the authors' working-paper version at https://homepage.univie.ac.at/jean-robert.tyran/media/files/RevisionNaturalExperimentLotto_JulyJR.pdf.",
+      "doi": "10.1111/jeea.12147",
+      "url": "https://doi.org/10.1111/jeea.12147",
+      "type": "replication"
+    },
+    {
+      "text": "Barron, G., & Leider, S. (2010). The role of experience in the Gambler's Fallacy. Journal of Behavioral Decision Making, 23(1), 117-129. Described here from the abstract registered at Crossref; the full text is paywalled.",
+      "doi": "10.1002/bdm.676",
+      "url": "https://doi.org/10.1002/bdm.676",
+      "type": "replication"
+    },
+    {
       "text": "Xiang, Y., Dorst, K., & Gershman, S. J. (2025). On the robustness and provenance of the gambler's fallacy. Psychological Science, 36(6), 451-464.",
       "doi": "10.1177/09567976251344570",
-      "url": "https://doi.org/10.1177/09567976251344570",
+      "url": "https://gershmanlab.com/pubs/XiangDorstGershman25.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Banki, D., & Simonsohn, U. (2025). Commentary on Xiang et al. (2025): The gambler's fallacy fallacy fallacy. Working paper, draft of 1 December 2025.",
+      "url": "http://urisohn.com/sohn_files/wp/wordpress/wp-content/uploads/Paper-GF-2025-11-28.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Choi, Y., & DeKay, M. L. (2026). A gambler's fallacy for probability judgments when event sequences are truly random: A reanalysis of Xiang, Dorst, and Gershman's (2025) data. PsyArXiv preprint, version 5, posted 23 April 2026. Described here from its abstract.",
+      "doi": "10.31234/osf.io/yxgt8_v5",
+      "url": "https://doi.org/10.31234/osf.io/yxgt8_v5",
       "type": "replication"
     },
     {
