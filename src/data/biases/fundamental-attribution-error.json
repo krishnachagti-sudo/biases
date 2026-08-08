@@ -1,0 +1,53 @@
+{
+  "no": 11,
+  "slug": "fundamental-attribution-error",
+  "name": "Fundamental attribution error",
+  "aliases": ["Correspondence bias", "Attribution effect", "Overattribution effect"],
+  "category": "social",
+  "statement": "Watching someone do something, people read it as evidence of what that person is like, and go on doing so after being told the person had no choice.",
+  "meaning": "Behaviour has two kinds of cause: the person and the situation. The claim is that observers systematically overweight the first. The clean test removes the ambiguity entirely, by telling the observer that the situation dictated the behaviour, and then asking what the actor really thinks. If the observer's answer still tracks the behaviour, the inference is running on something other than the evidence. The name is contested inside the field: correspondence bias is the more careful term, because what is demonstrated is a pull toward matching disposition to act, rather than a general failure to see situations.",
+  "origin": {
+    "year": 1967,
+    "who": "Edward E. Jones and Victor A. Harris",
+    "where": "Journal of Experimental Social Psychology",
+    "note": "Their paper is \"The attribution of attitudes\", and the phrase fundamental attribution error is not in it. Lee Ross coined that name a decade later, in 1977. Jones thought the phrase overly provocative and somewhat misleading; the alternative label correspondence bias is associated with Daniel Gilbert and others rather than with Jones himself."
+  },
+  "evidence": "Participants read a student essay for or against capital punishment, are told the writer was assigned which side to argue, and then estimate what the writer actually believes. The estimates follow the essay. Miyamoto and Kitayama ran this to compare cultures: their American participants showed a large gap between what they attributed to pro-essay and anti-essay writers, d = 1.75, and their Japanese participants a smaller one, d = 0.53, which did not reach significance in a sample of 49.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Across 7,197 people in 36 countries the effect came back at d = 1.82, marginally larger than the original and among the largest findings in the project.",
+    "detail": "Many Labs 2 re-ran the Miyamoto and Kitayama procedure with perceived constraint controlled for, as in the original. Participants rated the attitude of a writer assigned to argue for capital punishment at 10.98 on the scale and one assigned to argue against it at 4.45, an effect of d = 1.82 with a 95% confidence interval from 1.76 to 1.87. The original American figure was 1.75. This is a case where a fifty-year-old social-psychology finding held at full strength under preregistration, which is rarer in that literature than the size of this effect makes it look.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 125,
+      "n": 7197
+    },
+    "original": { "es": 1.75, "esType": "d", "ci": [1.14, 2.35], "ciLevel": 95 },
+    "replicated": { "es": 1.82, "esType": "d", "ci": [1.76, 1.87], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "What replicated is the attitude-attribution effect, which is the demonstration rather than the theory. That people over-weight disposition in general, across everyday judgements, is a much broader claim and is not what this experiment measures. The original paper here was about cultural difference, and the replication was not designed to settle that comparison: its samples are aggregated across 36 countries rather than matched to the Japanese and American groups the 1.75 and 0.53 came from, so the entry reports the American original against a global replication. Whether the effect is weaker in East Asian samples remains open in this dataset.",
+  "misreadings": "The everyday use, that people blame others for circumstances while excusing themselves, blends two findings. The actor-observer asymmetry is the second one and it is a separate literature with weaker support. The word fundamental also does more work than the evidence licenses; the effect depends on how the situation is described, how diagnostic the behaviour looks, and how much the observer is asked to think, and none of those are properties of a universal defect. And the essay paradigm is not evidence that people ignore constraints, only that they discount them by less than the situation would justify.",
+  "sources": [
+    {
+      "text": "Jones, E. E., & Harris, V. A. (1967). The attribution of attitudes. Journal of Experimental Social Psychology, 3(1), 1-24.",
+      "doi": "10.1016/0022-1031(67)90034-0",
+      "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+      "type": "primary"
+    },
+    {
+      "text": "Miyamoto, Y., & Kitayama, S. (2002). Cultural variation in correspondence bias: The critical role of attitude diagnosticity of socially constrained behavior. Journal of Personality and Social Psychology, 83(5), 1239-1248.",
+      "doi": "10.1037/0022-3514.83.5.1239",
+      "url": "https://doi.org/10.1037/0022-3514.83.5.1239",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
