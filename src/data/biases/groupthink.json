@@ -1,0 +1,105 @@
+{
+  "no": 36,
+  "slug": "groupthink",
+  "name": "Groupthink",
+  "aliases": [
+    "Janis's groupthink model",
+    "Concurrence seeking"
+  ],
+  "category": "social",
+  "statement": "Cohesive, insulated groups under a directive leader are said to suppress doubt and choose badly, a causal chain no study has confirmed end to end.",
+  "meaning": "Janis's claim is a chain, not an observation. Certain conditions come first: a cohesive group, insulation from outside experts, a leader who signals a preferred answer, no method for weighing options, members alike in background and under stress. Those conditions are said to produce a drive for concurrence. Concurrence seeking then produces the symptoms the name is famous for, among them an illusion of invulnerability, stereotypes of outsiders, self-censorship and self-appointed mindguards. The symptoms in turn produce a poor survey of alternatives, weak information search and no appraisal of risk, and those produce the fiasco. Each link is separately testable. The part that made the theory interesting is the first link, because the later ones say that bad procedure makes bad decisions, which few people dispute.",
+  "origin": {
+    "year": 1972,
+    "who": "Irving L. Janis",
+    "where": "the book Victims of Groupthink: A Psychological Study of Foreign-Policy Decisions and Fiascoes (Houghton Mifflin)",
+    "note": "The evidence was a set of qualitative readings of American policy decisions. A revised second edition appeared in 1982 as Groupthink: Psychological Studies of Policy Decisions and Fiascoes. Tetlock and colleagues list six groupthink cases in the 1982 edition. They are the Chamberlain cabinet in 1938, Admiral Kimmel's command before Pearl Harbor, the crossing of the 38th parallel in 1950, the Bay of Pigs invasion in 1961, the Vietnam escalation in 1965 and the Watergate cover-up. Two cases were held up as vigilant by contrast: the Marshall Plan and the Cuban missile crisis."
+  },
+  "evidence": "Janis worked backwards from outcomes he already knew were bad, reading histories of each group for the symptoms his model named. No group was measured before its decision, and no comparison group was sampled at random. Turner and Pratkanis, introducing a special issue on the model's first 25 years, count fewer than two dozen empirical investigations in that period. That is roughly one a year, against the volume of work on cognitive dissonance or attribution over the same span. They also separate three readings of the theory. A strict reading requires all the antecedent conditions to be present. An additive reading makes groupthink more pronounced as more antecedents accumulate. A liberal reading lets the outcome depend on which particular antecedents are in play. Of the first two they write that no published studies provide evidence for either.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Independent historians describe Janis's cases much as he did, and the antecedent conditions that were supposed to cause the trouble do not predict it.",
+    "detail": "Tetlock, Peterson, McGuire, Chang and Feld ran the closest thing to a repeat of the original. Nine graduate students and postdoctoral fellows read independent historical sources on the same groups and rated them with a 100-item Q sort. At least one rater per source was blind to the hypotheses. The result was 88 Q sorts across 10 decision episodes. The descriptive part held. Q sorts drawn from other historians correlated with Q sorts drawn from Janis's own accounts at .60 on average, and at .75 for the Kennedy cabinet over the Bay of Pigs. The causal part did not. In their structural model the path from structural and procedural faults of the organisation to concurrence seeking was .82, and the paths onward to symptoms and to defective decision making were .70 and .87. The paths from group cohesiveness and from provocative situational context to concurrence seeking were .14 and .04. Two cases Janis had proposed as groupthink, the Mayaguez rescue and the Iran hostage rescue, came out looking like the vigilant cases instead. Mullen, Anthony, Salas and Driskell pooled the laboratory work on the cohesion prediction and report no significant effect of cohesiveness on decision quality overall, with poorer decisions from cohesive groups only when directive leadership was also present. Baron, reviewing the field, puts that conditional result at r = -0.176 across three of seventeen experimental tests. Turner and Pratkanis summarise the early laboratory studies the same way: cohesion measured as mutual attraction had little effect on outcomes, while instructing members to limit their discussion duly limited it. Hogg and Hains measured 23 symptoms in role-played decision groups, and in Baron's tabulation of their results cohesion based on group identification correlated positively with 4 of the 23 and negatively with 5.",
+    "study": {
+      "cite": "Tetlock, P. E., Peterson, R. S., McGuire, C., Chang, S., & Feld, P. (1992). Assessing political group dynamics: A test of the groupthink model. Journal of Personality and Social Psychology, 63(3), 403-425.",
+      "doi": "10.1037/0022-3514.63.3.403",
+      "year": 1992,
+      "sites": 10,
+      "n": 88
+    },
+    "replicated": {
+      "es": 0.14,
+      "esType": "beta",
+      "weighting": "standardised path from group cohesiveness to concurrence seeking in the strictly defined Janis model; the model's fit index was .88 and its root mean square error .10"
+    }
+  },
+  "limits": "Esser's review is quoted here from its abstract and from Baron's reproduction of one sentence of it, because the full text sits behind a paywall. The counts of 11 laboratory studies and 17 historical reports come from Baron's reading of Esser rather than from Esser. Baron's text was read from the author's preprint, while the citation names the published chapter in Advances in Experimental Social Psychology. Those normally agree and are not guaranteed to. The r = -0.176 figure is likewise Baron reporting Mullen and colleagues, not Mullen and colleagues in their own words. The search covered Crossref, PubMed, OpenAlex, OpenLibrary and general web search, and turned up no meta-analysis of the model after 1994 and no preregistered or multi-site replication of any groupthink experiment. Effect sizes for the original are unavailable in principle, since the original is a set of historical case readings. The Tetlock betas rest on 88 Q sorts from 10 episodes, which the authors themselves call marginally sufficient for the method.",
+  "misreadings": "The word has come loose from the theory. It entered Webster's New Collegiate Dictionary by 1975, three years after the book, defined as conformity to group values and ethics. That is not what Janis proposed and not what the research tested. Cohesion is the second misreading. It is the antecedent everyone remembers and the one that keeps failing. Tetlock and colleagues found it unrelated to concurrence seeking in the historical cases. Peterson and colleagues studied the top management teams of seven Fortune 500 companies, each at a successful and an unsuccessful moment, and found cohesion, risk-taking and strong opinionated leaders among the successful teams. The Bay of Pigs is the third. Kramer, working from declassified documents, oral histories and participants' memoirs, argues that much of the new evidence does not support Janis's characterisation, and that Kennedy and Johnson were weighing political costs rather than being carried by their groups. What survives the record is narrower than the name suggests. Directive leadership and organisational procedure predict poor decisions, which Baron notes would be expected even with no groupthink reactions at all.",
+  "sources": [
+    {
+      "text": "Janis, I. L. (1972). Victims of Groupthink: A Psychological Study of Foreign-Policy Decisions and Fiascoes. Boston: Houghton Mifflin.",
+      "url": "https://archive.org/details/janis_groupthink",
+      "type": "primary"
+    },
+    {
+      "text": "Janis, I. L. (1982). Groupthink: Psychological Studies of Policy Decisions and Fiascoes. 2nd ed., revised. Boston: Houghton Mifflin. Edition record consulted at the Open Library.",
+      "url": "https://openlibrary.org/books/OL3495796M",
+      "type": "primary"
+    },
+    {
+      "text": "Tetlock, P. E., Peterson, R. S., McGuire, C., Chang, S., & Feld, P. (1992). Assessing political group dynamics: A test of the groupthink model. Journal of Personality and Social Psychology, 63(3), 403-425.",
+      "doi": "10.1037/0022-3514.63.3.403",
+      "url": "https://doi.org/10.1037/0022-3514.63.3.403",
+      "type": "replication"
+    },
+    {
+      "text": "Mullen, B., Anthony, T., Salas, E., & Driskell, J. E. (1994). Group Cohesiveness and Quality of Decision Making: An Integration of Tests of the Groupthink Hypothesis. Small Group Research, 25(2), 189-204. Findings read from the publisher's abstract.",
+      "doi": "10.1177/1046496494252003",
+      "url": "https://doi.org/10.1177/1046496494252003",
+      "type": "replication"
+    },
+    {
+      "text": "Turner, M. E., & Pratkanis, A. R. (1998). Twenty-Five Years of Groupthink Theory and Research: Lessons from the Evaluation of a Theory. Organizational Behavior and Human Decision Processes, 73(2-3), 105-115.",
+      "doi": "10.1006/obhd.1998.2756",
+      "url": "https://homepages.se.edu/cvonbergen/files/2013/01/Twenty-Five-Years-of-Groupthink-Theory-and-Research_Lessons-from-the-Evaluation-of-a-Theory.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Esser, J. K. (1998). Alive and Well after 25 Years: A Review of Groupthink Research. Organizational Behavior and Human Decision Processes, 73(2-3), 116-141. Consulted through its abstract only.",
+      "doi": "10.1006/obhd.1998.2758",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9705799/",
+      "type": "review"
+    },
+    {
+      "text": "Baron, R. S. (2005). So Right It's Wrong: Groupthink and the Ubiquitous Nature of Polarized Group Decision Making. Advances in Experimental Social Psychology, 219-253. Text read from the author's preprint.",
+      "doi": "10.1016/S0065-2601(05)37004-3",
+      "url": "https://www.paci.com.au/downloads_public/risk/10_Paper_Groupthink.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Kramer, R. M. (1998). Revisiting the Bay of Pigs and Vietnam Decisions 25 Years Later: How Well Has the Groupthink Hypothesis Stood the Test of Time? Organizational Behavior and Human Decision Processes, 73(2-3), 236-271. Abstract read from PubMed.",
+      "doi": "10.1006/obhd.1998.2762",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9705804/",
+      "type": "secondary"
+    },
+    {
+      "text": "Peterson, R. S., Owens, P. D., Tetlock, P. E., Fan, E. T., & Martorana, P. (1998). Group Dynamics in Top Management Teams: Groupthink, Vigilance, and Alternative Models of Organizational Failure and Success. Organizational Behavior and Human Decision Processes, 73(2-3), 272-305. Abstract read from PubMed.",
+      "doi": "10.1006/obhd.1998.2763",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9705805/",
+      "type": "secondary"
+    },
+    {
+      "text": "Flowers, M. L. (1977). A laboratory test of some implications of Janis's groupthink hypothesis. Journal of Personality and Social Psychology, 35(12), 888-896. The first experimental test, cited here as Turner and Pratkanis and Baron describe it.",
+      "doi": "10.1037/0022-3514.35.12.888",
+      "url": "https://doi.org/10.1037/0022-3514.35.12.888",
+      "type": "primary"
+    },
+    {
+      "text": "Hogg, M. A., & Hains, S. C. (1998). Friendship and group identification: a new look at the role of cohesiveness in groupthink. European Journal of Social Psychology, 28(3), 323-341. Results reported here as tabulated by Baron.",
+      "doi": "10.1002/(SICI)1099-0992(199805/06)28:3<323::AID-EJSP854>3.0.CO;2-Y",
+      "url": "https://doi.org/10.1002/(SICI)1099-0992(199805/06)28:3<323::AID-EJSP854>3.0.CO;2-Y",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}

@@ -1,0 +1,106 @@
+{
+  "no": 38,
+  "slug": "availability-heuristic",
+  "name": "Availability heuristic",
+  "aliases": [
+    "Availability",
+    "Availability bias",
+    "Ease of retrieval"
+  ],
+  "category": "belief",
+  "statement": "People judge how common or how likely something is by how readily examples of it come to mind, so memorable classes are judged larger than they are.",
+  "meaning": "Tversky and Kahneman proposed that a question about frequency is answered by a different question about retrieval. Asked how often a class of events occurs, a person tries to bring instances to mind and reads off the answer from how that attempt goes. The shortcut works when retrieval tracks frequency, which it usually does. It fails when something other than frequency governs retrieval: recency, vividness, emotional charge, or the way memory happens to be organised. There is a second and sharper version of the idea, due to Schwarz and colleagues, which separates two things the original ran together. Retrieval produces both content and a feeling of effort, and those can point in opposite directions. If the feeling is what people consult, then making recall harder should lower the estimate even though more examples were produced.",
+  "origin": {
+    "year": 1973,
+    "who": "Amos Tversky and Daniel Kahneman",
+    "where": "Cognitive Psychology",
+    "note": "\"Availability: A heuristic for judging frequency and probability\" ran ten studies. The reformulation tested by most later replications is Schwarz, Bless, Strack, Klumpp, Rittenauer-Schatka and Simons in 1991, which is a different claim about a different mechanism."
+  },
+  "evidence": "Study 3 of the 1973 paper asked 152 people whether each of the letters K, L, N, R and V appears more often first or third in English words. All five are commoner in third position, by the word count of Mayzner and Tresselt that the authors used. Of the 152, 105 chose first position for most letters and 47 chose third, and the median estimated ratio was 2:1 for every letter. Study 8 played recorded lists of 39 names, each list pairing 19 famous names of one sex with 20 less famous names of the other. Recall favoured fame: 12.3 of the 19 famous names against 8.4 of the 20 less famous. So did frequency judgement. Of 99 people asked which sex appeared more often, 80 named the sex with the famous names, which was in every list the smaller group. Schwarz and colleagues then asked 40 German students to write down either 6 or 12 examples of their own assertive or unassertive behaviour, and to rate themselves afterwards. Those describing assertive behaviour rated themselves 6.3 after six examples and 5.2 after twelve; those describing unassertive behaviour rated themselves 5.2 after six and 6.2 after twelve. More recalled content produced a weaker effect, which is the reversal the amount-of-recall account cannot give.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The fame demonstration came back at about half its reported size; the ease-of-retrieval reformulation failed in a preregistered replication of 661 people and again in a representative American sample.",
+    "detail": "Groncki, Beaudry and Sauer ran a preregistered direct replication of Schwarz et al.'s Experiment 1 with 661 Australian students, against the original 40, using materials the original author supplied and translated. The manipulation worked: six examples were easier than twelve, d = 0.50 with a 95% interval from 0.35 to 0.66. The judgement did not move. The crossover interaction came out at F(1, 657) = 1.34, p = .25, and the simple effects were d = 0.03 with an interval from -0.19 to 0.26 in the assertive condition and d = 0.15 from 0.05 to 0.36 in the unassertive one. Equivalence tests placed both below the smallest effect the authors had set as interesting. Schwarz et al. published no effect size for that study, and their own interaction was marginal at F(1, 36) = 3.40, p < .07, with nine or ten people per cell. Yeager, Krosnick, Visser, Holbrook and Tahk reached the same place from a different direction. Testing seven classic findings on random national samples of American adults, they found the crossover absent, F(1, 1330) = 1.70, p = .19, d = 0.09 with an interval from -0.06 to 0.24. It was the only one of the seven that did not appear. Weingarten and Hutchinson's meta-analysis, the largest quantitative summary of this paradigm, gathered 142 papers, 263 studies and 582 effect sizes. Across the 298 observations they classed as the standard few-versus-many manipulation with a proximal outcome, the pooled correlation was r = .253 with a 95% interval from .224 to .281. Trim-and-fill cut that to r = .159 from .137 to .181, and PET-PEESE to r = .193 from .153 to .232. Their summary is that publication bias may account for up to a third of the effect. The 1973 demonstrations have fared better. McKelvie and Drumheller gave 195 Canadian undergraduates lists mixing 12 famous names of one sex with 13 non-famous names of the other, and found the famous sex judged more numerous once the true difference of one was allowed for, at d = 0.34. McKelvie had reported d = 0.78 for the same comparison four years earlier, so the fame effect survives at roughly half its previous size.",
+    "study": {
+      "cite": "Groncki, R., Beaudry, J. L., & Sauer, J. D. (2021). Investigating the ease-of-retrieval effect in an eyewitness context. Memory, 29(2), 234-254. Study 3 is a preregistered direct replication of Schwarz et al. (1991), Study 1.",
+      "doi": "10.1080/09658211.2021.1882502",
+      "year": 2021,
+      "n": 661
+    },
+    "replicated": {
+      "es": 0.03,
+      "esType": "d",
+      "ci": [
+        -0.19,
+        0.26
+      ],
+      "ciLevel": 95,
+      "weighting": "assertive condition, simple effect of six versus twelve examples"
+    }
+  },
+  "limits": "Availability and ease of retrieval are separate claims and the evidence separates them. What failed above is the ease-of-retrieval version, tested in the few-versus-many paradigm. The 1973 letter-position result is a different design and no large preregistered repeat of it was located. A third strand has also come apart. Lichtenstein, Slovic, Fischhoff, Layman and Combs reported in 1978 that people overestimate dramatic causes of death and underestimate mundane ones, a finding usually cited as availability at work. Pachur searched for replications of that study, reanalysed the original data alongside them, and reports that the media overrepresent dramatic risks in every dataset, while the matching distortion in people's frequency judgements appears only in the 1978 data. Aggregated across datasets he finds evidence for its absence. Two caveats on the figures above. The Yeager numbers are read off the authors' accepted manuscript rather than the published article, and the Replicability-Index blog quotes slightly different ones for the same test, which was not resolved. The Weingarten and Hutchinson figures come from the July 2017 preprint the first author hosts, not from the 2018 journal version. Searching covered Crossref, PubMed, OSF preprints and general web search; no multi-site project on the scale of Many Labs was found for either paradigm.",
+  "misreadings": "The commonest error is treating availability as a general claim that vivid things are overestimated, which makes it unfalsifiable. Tversky and Kahneman were more specific: retrieval is the mechanism, and their studies measured retrieval separately from judgement. The second error is the reverse of the first. Schwarz and colleagues showed that the amount recalled and the felt difficulty of recalling it make opposite predictions, and the ease account is the one that has failed to replicate. Availability as originally stated does not depend on it. The third is reading Groncki and Yeager as evidence that people judge frequency accurately. Both tested one manipulation of self-rated assertiveness. And Weingarten and Hutchinson's r = .25 is often quoted as vindication of the paradigm without its second half, which is that their own bias corrections take it down by a quarter to a third.",
+  "sources": [
+    {
+      "text": "Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207-232.",
+      "doi": "10.1016/0010-0285(73)90033-9",
+      "url": "https://doi.org/10.1016/0010-0285(73)90033-9",
+      "type": "primary"
+    },
+    {
+      "text": "Schwarz, N., Bless, H., Strack, F., Klumpp, G., Rittenauer-Schatka, H., & Simons, A. (1991). Ease of retrieval as information: Another look at the availability heuristic. Journal of Personality and Social Psychology, 61(2), 195-202.",
+      "doi": "10.1037/0022-3514.61.2.195",
+      "url": "https://doi.org/10.1037/0022-3514.61.2.195",
+      "type": "primary"
+    },
+    {
+      "text": "Groncki, R., Beaudry, J. L., & Sauer, J. D. (2021). Investigating the ease-of-retrieval effect in an eyewitness context. Memory, 29(2), 234-254.",
+      "doi": "10.1080/09658211.2021.1882502",
+      "url": "https://doi.org/10.1080/09658211.2021.1882502",
+      "type": "replication"
+    },
+    {
+      "text": "Yeager, D. S., Krosnick, J. A., Visser, P. S., Holbrook, A. L., & Tahk, A. M. (2019). Moderation of classic social psychological effects by demographics in the U.S. adult population: New opportunities for theoretical advancement. Journal of Personality and Social Psychology, 117(6), e84-e99.",
+      "doi": "10.1037/pspa0000171",
+      "url": "https://doi.org/10.1037/pspa0000171",
+      "type": "replication"
+    },
+    {
+      "text": "Yeager, D. S., & Krosnick, J. A. (2019). Moderation of classic social psychological effects by demographics in the U.S. adult population. PsyArXiv. The accepted manuscript, and the source for the statistics quoted here.",
+      "doi": "10.31234/osf.io/7vbep",
+      "url": "https://doi.org/10.31234/osf.io/7vbep",
+      "type": "replication"
+    },
+    {
+      "text": "Weingarten, E., & Hutchinson, J. W. (2018). Does ease mediate the ease-of-retrieval effect? A meta-analysis. Psychological Bulletin, 144(3), 227-283. Figures quoted here are from the authors' July 2017 preprint at https://faculty.wharton.upenn.edu/wp-content/uploads/2017/12/Weingarten-Hutchinson-PsychBull_July2017.pdf",
+      "doi": "10.1037/bul0000122",
+      "url": "https://doi.org/10.1037/bul0000122",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "McKelvie, S. J., & Drumheller, A. (2001). The availability heuristic with famous names: A replication. Perceptual and Motor Skills, 92(2), 507-516.",
+      "doi": "10.2466/pms.2001.92.2.507",
+      "url": "https://doi.org/10.2466/pms.2001.92.2.507",
+      "type": "replication"
+    },
+    {
+      "text": "McKelvie, S. J. (1997). The availability heuristic: Effects of fame and gender on the estimated frequency of male and female names. The Journal of Social Psychology, 137(1), 63-78.",
+      "doi": "10.1080/00224549709595414",
+      "url": "https://doi.org/10.1080/00224549709595414",
+      "type": "replication"
+    },
+    {
+      "text": "Lichtenstein, S., Slovic, P., Fischhoff, B., Layman, M., & Combs, B. (1978). Judged frequency of lethal events. Journal of Experimental Psychology: Human Learning and Memory, 4(6), 551-578.",
+      "doi": "10.1037/0278-7393.4.6.551",
+      "url": "https://doi.org/10.1037/0278-7393.4.6.551",
+      "type": "primary"
+    },
+    {
+      "text": "Pachur, T. (2024). The perception of dramatic risks: Biased media, but unbiased minds. Cognition, 246, 105736.",
+      "doi": "10.1016/j.cognition.2024.105736",
+      "url": "https://doi.org/10.1016/j.cognition.2024.105736",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
