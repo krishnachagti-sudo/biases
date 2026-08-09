@@ -1,0 +1,82 @@
+{
+  "no": 146,
+  "slug": "bystander-effect",
+  "name": "Bystander effect",
+  "aliases": [
+    "Bystander apathy",
+    "Diffusion of responsibility",
+    "Genovese syndrome"
+  ],
+  "category": "social",
+  "statement": "A person is less likely to help someone in trouble, and slower to act, as the number of other witnesses grows.",
+  "meaning": "The claim is about one witness, not about the crowd. Darley and Latané argued that a lone bystander carries the whole pressure to act, while several bystanders share it, so the responsibility felt by any one of them falls. Two further mechanisms travel with it. Blame for doing nothing is also divided, and a witness who cannot see the others can tell himself that somebody has already called for help. None of this requires the witness to be indifferent. The 1968 paper set the situational account against the newspaper explanations of the day, which blamed apathy, alienation and urban life. Whether a victim ends up helped is a separate question, because more witnesses means more people who might act, and the two questions have different answers.",
+  "origin": {
+    "year": 1968,
+    "who": "John M. Darley and Bibb Latané",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The seizure experiment. Its first paragraph retells the New York Times account of the Kitty Genovese murder, citing Rosenthal's book, and its discussion returns to that case as the closest real analogue to the laboratory set-up. The story the paper opens with has since been shown to be wrong on its central points, which is treated below and does not touch the experiment."
+  },
+  "evidence": "Fifty-nine female and thirteen male students in introductory psychology at New York University sat in separate rooms and talked over an intercom about problems of college life. One voice, prerecorded, mentioned a proneness to seizures, and later staged one. The subject could not see or hear the other listeners, and the measure was how long she took to leave the room and fetch the experimenter. Two subjects saw through the fit and were dropped. Of those who thought they alone heard it, 85% reported the seizure before the victim's microphone cut off, against 62% in three-person groups and 31% in six-person groups. Mean times were 52, 93 and 166 seconds. The likelihood test gave a chi-square of 7.91, p < .02, and the analysis of variance on speed scores gave F = 8.09, p < .01. Everyone in the two-person condition eventually reported it, against 62% of the six-person condition. Composition made no detectable difference: a female subject reported at the same rate whether her fellow bystander was female, male, or a premedical student who worked in a hospital emergency ward. Of 16 personality and background measures, only the size of the community the subject grew up in correlated with speed of helping, r = -.26, p < .05. Subjects who did not report were not calm. They had trembling hands and sweating palms, and asked whether the victim was all right.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Fischer and colleagues pooled 105 independent effect sizes from more than 7,700 participants and found the effect held, at g = -0.35 in a fixed effects model.",
+    "detail": "That 2011 meta-analysis in Psychological Bulletin covers the literature from the 1960s to 2010. Its abstract reports the pooled figure above and four moderators. The effect was weaker when the situation was seen as dangerous rather than not, when a perpetrator was present, and when the cost of intervening was physical. It was also weaker when the other bystanders were exclusively male, when they were naive people rather than passive confederates or merely virtual, and when they were not strangers. The authors describe this as a novel finding of non-negative bystander effects in certain dangerous emergencies, which is weaker than the reversal the finding is often reported as. The moderator-level effect sizes sit in the paper's tables, which are behind a paywall these checks did not pass, so only the pooled figure is quoted here. The same abstract records that the previous systematic review, by Latané and Nida in 1981, was not a quantitative meta-analysis in the modern sense.",
+    "study": {
+      "cite": "Fischer, P., Krueger, J. I., Greitemeyer, T., Vogrincic, C., Kastenmüller, A., Frey, D., Heene, M., Wicher, M., & Kainbacher, M. (2011). The bystander-effect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies. Psychological Bulletin, 137(4), 517-537.",
+      "doi": "10.1037/a0023304",
+      "year": 2011
+    },
+    "replicated": {
+      "es": -0.35,
+      "esType": "g",
+      "weighting": "fixed effects, 105 independent effect sizes"
+    }
+  },
+  "limits": "The field evidence answers a different question and comes out the other way. Philpot, Liebst, Levine, Bernasco and Lindegaard coded 219 clips of real public conflicts caught on monitored surveillance cameras in Amsterdam, Cape Town and Lancaster. At least one bystander intervened in 90.9% of them, with an average of 3.76 interveners per clip and 16.29 bystanders present. The rate did not differ between the three countries, and a Bayes factor of 17.27 favoured no association with national context. More bystanders made help more likely rather than less: each additional one raised the odds that somebody intervened by a factor of 1.10, 95% CI [1.03, 1.18], p = .008. The authors list reasons the figure may be high, including a broad definition of intervention that counts a calming gesture, and a sample drawn from inner-city entertainment districts. Danger points the same way in the field. Lindegaard and colleagues coded 80 conflicts second by second and found the odds of intervention about 19 times higher when aggression was present than when it was absent, though the three severity levels did not differ from each other. Latané and Nida's 1981 review is named here and was not obtained; it is paywalled, and no figure is quoted from it. Fischer and colleagues' 2006 experiment on dangerous emergencies is cited by the later work and was not read. Searches covered Crossref, PubMed, Unpaywall, Semantic Scholar, OSF, three university repositories and web search.",
+  "misreadings": "The founding story is not evidence. Manning, Levine and Collins went through the trial transcripts from People v. Moseley and the associated legal documents, and found no support for the three features that textbooks repeat: that there were 38 witnesses, that they watched from their windows throughout, and that none of them acted. Five residents of the overlooking apartments were called at trial and three of them had seen anything. None reported seeing the stabbing. One shouted from his window and frightened the attacker off, and Genovese then walked around the corner of the building, where the second and fatal attack happened in a stairwell out of sight. There were two attacks, not three, and no list of the 38 has ever been produced. The three witnesses who testified all described a first glimpse that did not read as a murder. All ten of the popular textbooks the authors examined carry the story, seven of them in a box, subsection or picture. The second misreading runs the other way. A victim in a crowd is not thereby doomed, because the effect describes each witness separately, and the aggregate rate of getting help in real conflicts is around nine in ten. Darley and Latané had already noticed the arithmetic: by their own calculation a victim was about as likely to be helped by two bystanders as by one, and the deficit against five showed only in the first minute.",
+  "sources": [
+    {
+      "text": "Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4, Pt.1), 377-383. Full text read for this entry.",
+      "doi": "10.1037/h0025589",
+      "url": "http://www.communicationcache.com/uploads/1/0/8/8/10887248/bystander_intervention_in_emergencies_diffusion_of_responsibility.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fischer, P., Krueger, J. I., Greitemeyer, T., Vogrincic, C., Kastenmüller, A., Frey, D., Heene, M., Wicher, M., & Kainbacher, M. (2011). The bystander-effect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies. Psychological Bulletin, 137(4), 517-537. Paywalled; described here from its published abstract.",
+      "doi": "10.1037/a0023304",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21534650/",
+      "type": "replication"
+    },
+    {
+      "text": "Philpot, R., Liebst, L. S., Levine, M., Bernasco, W., & Lindegaard, M. R. (2020). Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts. American Psychologist, 75(1), 66-75. Figures read from the accepted manuscript posted by the authors.",
+      "doi": "10.1037/amp0000469",
+      "url": "https://osf.io/nqscj/download",
+      "type": "primary"
+    },
+    {
+      "text": "Manning, R., Levine, M., & Collins, A. (2007). The Kitty Genovese murder and the social psychology of helping: The parable of the 38 witnesses. American Psychologist, 62(6), 555-562. Full text read for this entry.",
+      "doi": "10.1037/0003-066X.62.6.555",
+      "url": "https://www.grignoux.be/dossiers/288/pdf/manning_et_alii.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Lindegaard, M. R., Liebst, L. S., Philpot, R., Levine, M., & Bernasco, W. (2022). Does danger level affect bystander intervention in real-life conflicts? Evidence from CCTV footage. Social Psychological and Personality Science, 13(4), 795-802. Full text read for this entry.",
+      "doi": "10.1177/19485506211042683",
+      "url": "https://pure.uva.nl/ws/files/99842199/19485506211042683.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Latané, B., & Nida, S. (1981). Ten years of research on group size and helping. Psychological Bulletin, 89(2), 308-324. Named as the earlier review; paywalled, and no figure from it is quoted here.",
+      "doi": "10.1037/0033-2909.89.2.308",
+      "url": "https://doi.org/10.1037/0033-2909.89.2.308",
+      "type": "replication"
+    },
+    {
+      "text": "Fischer, P., Greitemeyer, T., Pollozek, F., & Frey, D. (2006). The unresponsive bystander: Are bystanders more responsive in dangerous emergencies? European Journal of Social Psychology, 36(2), 267-278. Cited by the later CCTV work as the experimental case for danger raising intervention; not read for this entry.",
+      "doi": "10.1002/ejsp.297",
+      "url": "https://doi.org/10.1002/ejsp.297",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
