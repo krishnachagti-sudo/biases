@@ -1,0 +1,109 @@
+{
+  "no": 197,
+  "slug": "contrast-effect",
+  "name": "Contrast effect",
+  "aliases": [
+    "Sequential contrast effect"
+  ],
+  "category": "decision",
+  "statement": "A judgement is pushed away from whatever was judged just before it, so the same candidate is rated worse after a strong predecessor and better after a weak one.",
+  "meaning": "This entry is about the judgement version, in which the rating given to the current item moves in the opposite direction to the value of the item seen immediately before. It is a sequential effect. It needs an order, and the item doing the work is usually the most recent one, not the average of everything seen. Two other things carry the same name. One is behavioural contrast in operant conditioning, named by George Reynolds in a 1961 paper in the Journal of the Experimental Analysis of Behavior. That article survives only as page scans and was not read for this entry, so nothing is claimed here about what it found. The other is perceptual contrast, the psychophysical case in which a stimulus is judged against a recent anchor. Sherif, Taub and Hovland gave that case its standard vocabulary in 1958, and their title names both assimilation and contrast: the two run in opposite directions, and which one appears depends on the setup. Pegors and colleagues later found both at once in the same task, which is the clearest reason not to treat the three senses as one idea.",
+  "origin": {
+    "year": 1980,
+    "who": "Douglas T. Kenrick and Sara E. Gutierres",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper reports three studies. In the field study, 81 male dormitory residents watching a television show with three attractive women in the lead were asked to rate a photograph of an average woman described as a possible blind date for another resident. They rated her lower than a control group did. Two laboratory studies with 146 undergraduates showed the same pattern. Only the abstract was retrieved; the full text is paywalled, so no condition means or test statistics from it appear here. The name is older than the paper. Sherif, Taub and Hovland used it for anchored psychophysical judgements in 1958, and their record at PubMed carries no abstract."
+  },
+  "evidence": "The field evidence is stronger than the laboratory evidence, which is unusual. Bhargava and Fisman analysed 16 speed dating sessions run in the New York area between 2002 and 2004, in which nearly 500 participants made over 7,000 yes or no decisions. A one point rise in the previous partner's attractiveness on a 1 to 10 scale cut the chance of a yes for the current partner by 1.9 percentage points, against a base rate of 42%. That is 18% of the pull of the same change in the current partner's own attractiveness, and 31% for male evaluators, who drove nearly all of it. Only the first lag mattered. Attractiveness two and three partners back did not predict the current decision, and a placebo test on future partners found nothing. Hartzmark and Shue applied the same logic to share prices, using 75,897 earnings announcements between 1984 and 2013. Moving yesterday's salient earnings surprise from the worst decile to the best was associated with a 55 basis point lower return reaction to today's announcement, holding today's news constant, and one standard deviation of yesterday's surprise was worth 16 basis points. Their figures are read from the September 2017 NBER working paper. In the laboratory, Pegors, Mattar, Bryan and Epstein had 30 people rate faces one at a time, alternating attractiveness ratings with hair darkness ratings. The attractiveness of the previous face pushed the current rating down (t(29) = -4.92, p < 0.001) while the previous response pulled it up (t(29) = 2.73, p = 0.011). The contrast came from the stimulus and the assimilation from the response, in the same data.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The sequential version holds up in pre-registered field data. Radbruch and Schiprowski found the previous candidate's influence in about 37,000 interviews run by about 3,000 evaluators across two selection processes.",
+    "detail": "Radbruch and Schiprowski used register data from a German study grant admission process, about 29,000 interviews, and the hiring process of a large consulting firm, about 8,000 interviews. Candidates were quasi-randomly assigned to evaluators and time slots, and the main specifications were pre-registered at osf.io/t65zq. A candidate was assessed worse when the rest of the sequence was stronger, and the immediately preceding candidate mattered about three times as much as the average other candidate. A one standard deviation rise in the previous candidate's measured quality was about 25% as influential in the admission process, and about 45% in the hiring process, as a one standard deviation fall in the candidate's own quality. Candidates following a yes vote were about 15% less likely to get one in admissions and about 40% less likely in hiring. The distortion carried through to the committees: an extra yes vote for the previous candidate in one of two interviews cut the chance of being admitted or hired by about 20% relative to the average. The authors call the effect three times larger than the influence of the average other candidate and comparable to a one to two standard deviation shift in how lenient the evaluator is. Their figures here are read from the February 2024 ECONtribute discussion paper rather than the journal version. The attractiveness branch of the literature did worse. Balzarini, Dobson, Chin and Campbell pre-registered three close replications of Kenrick, Gutierres and Goldberg's 1989 study, powered at .95 by their own OSF registration, and published them under the title 'Independent replications'. The full text and abstract could not be retrieved. A report at PsyPost describes the replications as finding no evidence that exposure to centrefolds reduced men's attraction to or love for their partners, and that description is second-hand.",
+    "study": {
+      "cite": "Radbruch, J., & Schiprowski, A. (2025). Interview Sequences and the Formation of Subjective Assessments. Review of Economic Studies, 92(2), 1226-1256.",
+      "doi": "10.1093/restud/rdae039",
+      "year": 2025,
+      "n": 37000
+    }
+  },
+  "limits": "The effect is short-ranged. In speed dating only the immediately preceding partner predicted the current decision, and the two before that did not. Radbruch and Schiprowski found the same shape and three things that weaken it: the influence falls as an evaluator works through a sequence, longer breaks between interviews go with weaker autocorrelation, and a dissimilar previous candidate contrasts less than a similar one. Experience across past sequences did not help, and an information treatment the grant programme actually ran had no effect. Their simulations of reordering, extra independent assessments and flagging suspect interviews reduce the distortion without removing it. Direction is not guaranteed either. Pegors found the previous response producing assimilation in the same trials where the previous stimulus produced contrast, so a design that fails to separate the two can record either sign. The speed dating result was almost entirely male, with female evaluators showing no sensitivity to the previous partner. Nothing here establishes the size of the effect in the original 1980 studies, whose full text was not obtained.",
+  "misreadings": "Simonsohn and Gino's admissions paper is the one most often cited as proof of contrast effects, and it argues the opposite. They studied 9,323 interviews by 31 interviewers and found the score for an applicant fell as the average score already given that day rose (B = -.088, p = .018 in their fullest model). They then tested contrast directly. If contrast drove it, the five specific subscores should move too, and more sharply. None of them did: communication B = -.009, driven B = -.037, teamwork B = -.027, accomplishment B = -.052, interest in the school B = .025, none significant. They concluded contrast effects were an unlikely explanation and named the pattern narrow bracketing, a reluctance to hand out a fourth high score in one day. Radbruch and Schiprowski treat that finding as a separate phenomenon from theirs and note the difference in scale, 31 evaluators against about 3,000. The second misreading is the media claim. Kenrick and Gutierres's title says beauty becomes a social problem, and the popular version is that watching attractive strangers spoils your own relationship. That is the 1989 extension, and it is the part with a failed pre-registered replication behind it, not the part with 37,000 interviews. The third is treating the three senses of the name as one finding. Behavioural contrast in operant conditioning and the sequential judgement effect share a word and no evidence base.",
+  "sources": [
+    {
+      "text": "Kenrick, D. T., & Gutierres, S. E. (1980). Contrast effects and judgments of physical attractiveness: When beauty becomes a social problem. Journal of Personality and Social Psychology, 38(1), 131-140. Abstract read from the record at Arizona State University; the full text is paywalled.",
+      "doi": "10.1037/0022-3514.38.1.131",
+      "url": "https://asu.elsevierpure.com/en/publications/contrast-effects-and-judgments-of-physical-attractiveness-when-be/",
+      "type": "primary"
+    },
+    {
+      "text": "Sherif, M., Taub, D., & Hovland, C. I. (1958). Assimilation and contrast effects of anchoring stimuli on judgments. Journal of Experimental Psychology, 55(2), 150-155. The PubMed record carries no abstract and the full text could not be retrieved; only the title, journal and pagination are used here.",
+      "doi": "10.1037/h0048784",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13513928/",
+      "type": "primary"
+    },
+    {
+      "text": "Radbruch, J., & Schiprowski, A. (2025). Interview Sequences and the Formation of Subjective Assessments. Review of Economic Studies, 92(2), 1226-1256. Figures read from ECONtribute Discussion Paper No. 045, version dated 14 February 2024.",
+      "doi": "10.1093/restud/rdae039",
+      "url": "https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_045_2020.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Bhargava, S., & Fisman, R. (2014). Contrast Effects in Sequential Decisions: Evidence from Speed Dating. Review of Economics and Statistics, 96(3), 444-457. Figures read from the authors' working paper version dated 17 October 2012.",
+      "doi": "10.1162/REST_a_00416",
+      "url": "https://sites.bu.edu/fisman/files/2015/11/BhargavaFisman2011_final.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hartzmark, S. M., & Shue, K. (2018). A Tough Act to Follow: Contrast Effects in Financial Markets. The Journal of Finance, 73(4), 1567-1613. Figures read from NBER Working Paper 23883, September 2017, which is not peer reviewed.",
+      "doi": "10.1111/jofi.12685",
+      "url": "https://www.nber.org/system/files/working_papers/w23883/w23883.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Pegors, T. K., Mattar, M. G., Bryan, P. B., & Epstein, R. A. (2015). Simultaneous perceptual and response biases on sequential face attractiveness judgments. Journal of Experimental Psychology: General, 144(3), 664-673. Read from the author copy hosted by the University of Pennsylvania.",
+      "doi": "10.1037/xge0000069",
+      "url": "https://www.psych.upenn.edu/epsteinlab/pdfs/Pegors_JEPG_2015_online.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Simonsohn, U., & Gino, F. (2013). Daily Horizons: Evidence of Narrow Bracketing in Judgments from 9,000 MBA Admission Interviews. Psychological Science, 24(2), 219-224. Read from the accepted manuscript in Harvard's DASH repository.",
+      "doi": "10.1177/0956797612459762",
+      "url": "https://dash.harvard.edu/server/api/core/bitstreams/7312037c-d816-6bd4-e053-0100007fdf3b/content",
+      "type": "primary"
+    },
+    {
+      "text": "Balzarini, R. N., Dobson, K., Chin, K., & Campbell, L. (2017). Does exposure to erotica reduce attraction and love for romantic partners in men? Independent replications of Kenrick, Gutierres, and Goldberg (1989) study 2. Journal of Experimental Social Psychology, 70, 191-197. Record verified at Crossref; the abstract and full text could not be retrieved.",
+      "doi": "10.1016/j.jesp.2016.11.003",
+      "url": "https://doi.org/10.1016/j.jesp.2016.11.003",
+      "type": "replication"
+    },
+    {
+      "text": "Balzarini, R., Campbell, L., Dobson, K., & Chin, K. Independent Replication of Kenrick, Gutierres, and Goldberg (1989, JESP, Study 2). Open Science Framework project njzmq. Source for the design and the stated power of .95.",
+      "url": "https://osf.io/njzmq/",
+      "type": "primary"
+    },
+    {
+      "text": "Kenrick, D. T., Gutierres, S. E., & Goldberg, L. L. (1989). Influence of popular erotica on judgments of strangers and mates. Journal of Experimental Social Psychology, 25(2), 159-167. Record verified at Crossref; not read.",
+      "doi": "10.1016/0022-1031(89)90010-3",
+      "url": "https://doi.org/10.1016/0022-1031(89)90010-3",
+      "type": "primary"
+    },
+    {
+      "text": "Exposure to pornography doesn't reduce attraction and love for romantic partners, study finds. PsyPost. Secondary source, used only for its description of what the Balzarini replications found.",
+      "url": "https://www.psypost.org/study-exposure-pornography-doesnt-reduce-attraction-love-romantic-partners/",
+      "type": "secondary"
+    },
+    {
+      "text": "Reynolds, G. S. (1961). Behavioral contrast. Journal of the Experimental Analysis of Behavior, 4(1), 57-71. Cited only to show the name is shared; the article is held at PubMed Central as page scans and was not read.",
+      "doi": "10.1901/jeab.1961.4-57",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1403981/",
+      "type": "primary"
+    },
+    {
+      "text": "Forth, J. M., & Freeman, H. R. (1997). Contrast effects and ratings of physical attractiveness. Psi Chi Journal of Undergraduate Research, 2(1), 24-27. An undergraduate journal, not indexed by Crossref. Ninety-seven students rated average-looking targets after attractive or unattractive photographs; the positive contrast condition rated the female target lower, F(1, 93) = 5.45, p = .02, and the male target lower, F(1, 93) = 4.99, p = .03.",
+      "url": "https://cdn.ymaws.com/www.psichi.org/resource/resmgr/journal_1997/Spring97_Forth.pdf",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
