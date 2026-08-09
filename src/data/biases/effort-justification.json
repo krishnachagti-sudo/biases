@@ -1,0 +1,83 @@
+{
+  "no": 200,
+  "slug": "effort-justification",
+  "name": "Effort justification",
+  "aliases": [
+    "Justification of effort",
+    "Severity-attraction hypothesis",
+    "Suffering-leading-to-liking hypothesis"
+  ],
+  "category": "social",
+  "statement": "People who suffer or work hard to get something are said to rate it more highly afterwards, because the effort would otherwise look wasted.",
+  "meaning": "Aronson and Mills took the prediction from Festinger's dissonance theory, which has its own entry here. Someone who has paid an unpleasant price for membership holds two thoughts that do not sit together: the price was steep, and the group is dull. The price cannot be unpaid, so the group improves. Two features of the claim get lost in retelling. It is about the person who did the work, not about anyone watching. And it revalues the thing the effort bought, not the effort itself.",
+  "origin": {
+    "year": 1959,
+    "who": "Elliot Aronson and Judson Mills",
+    "where": "The Journal of Abnormal and Social Psychology",
+    "note": "The paper is titled \"The effect of severity of initiation on liking for a group\" and ran at 59(2), 177-181. It cites one work, Festinger's 1957 book, and calls the prediction a consequence of dissonance theory rather than a new idea. The name effort justification is not used anywhere in it. Aronson and Mills call the claim the hypothesis that an unpleasant initiation raises liking, and later writers, including Lodewijkx and Syroit, label it the severity-attraction hypothesis."
+  },
+  "evidence": "Sixty-three college women were told they were joining an ongoing discussion group on the psychology of sex, 21 to each of three conditions. Thirty-three volunteered and 30 were recruited later from a psychology course, and the two samples were pooled. Women in the severe condition read twelve obscene words and two vivid passages of sexual writing aloud to a male experimenter as an admission test. Women in the mild condition read five words related to sex but not obscene, among them prostitute and virgin. Controls read nothing. One woman refused the test and was dropped. All three then heard the same tape, built to be as dull as the authors could manage, of three women discussing secondary sex behaviour in lower animals. They rated the discussion and the members on 17 scales running from 0 to 15, fourteen written and three answered aloud. Summed, the control group averaged 166.7, the mild group 171.1 and the severe group 195.3. Severe beat control at t = 3.32, p < .01, and mild at t = 2.33, p < .05, on two-tailed tests. Control and mild did not differ, t = 0.49. The gap sat mostly in the nine scales about the discussion, 97.6 against 80.2 in the control group, t = 3.66, p < .001, rather than the eight about the participants, 97.7 against 89.9, t = 2.03, p < .05.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Two later attempts to raise liking by making entry unpleasant found no difference, while a study in children got an effect and argued it was not dissonance.",
+    "detail": "Lodewijkx and Syroit compared real initiations at two Dutch student organisations, one severe and one mild, with 138 newcomers in three groups of 46. The severity manipulation held: newcomers rated their experiences 4.03 and 4.28 in the two severe subsamples against 3.56 in the mild one, F(2, 77) = 9.17, p < .001, on five-point scales. Group attractiveness did not follow, F(2, 111) = 1.41, p < .25. Attractiveness rose over the initiation in every condition alike, from 3.90 to 4.09, F(1, 111) = 18.30, p < .001. Rated severity did not correlate with attractiveness at either point, r(94) = -.09, p = .37, and r(94) = -.06, p = .58. What did predict attractiveness was companionship among newcomers, which accounted for about 8% of the variance, and depressive mood, which predicted it downwards, r(94) = -.53. Kamau put 70 participants through a severe or mild admission with about half then rewarded. The abstract reports that severe initiation did not raise group identity above mild, that reward did, and that mild initiation with a reward beat severe initiation with a reward. The other direction of evidence comes from children. Alessandri, Darcheville and Zentall report a dissonance-style effect under conditions that control better for the social value of the outcome, and argue that contrast between the effort demanded and the outcome received explains it more simply than dissonance does. Campbell, Wang and Inzlicht ran six studies with 2,883 participants on whether effort raises how meaningful a task feels. It did, up to a point, and their abstract states they found no evidence that post-hoc effort justification produced it.",
+    "study": {
+      "cite": "Lodewijkx, H. F. M., & Syroit, J. E. M. M. (2001). Affiliation during naturalistic severe and mild initiations: Some further evidence against the severity-attraction hypothesis. Current Research in Social Psychology, 6(7), 90-107.",
+      "url": "https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2020-04/6.7.pdf",
+      "year": 2001,
+      "n": 138
+    }
+  },
+  "limits": "The 1959 paper reports no effect size and no confidence interval, so the structured fields on this page are empty rather than filled with arithmetic done here. Its evidence is 63 women in one laboratory, and the severe advantage on the eight scales about the group members reached only p < .10 against the mild condition. Gerard and Mathewson published a replication using electric shocks in 1966, in the Journal of Experimental Social Psychology at 2(3), 278-287. It is paywalled, Crossref holds no abstract for it, Unpaywall finds no open copy, and it was not read for this entry, so nothing is claimed here about what it found. Schopler and Bateson's 1962 paper in the Journal of Personality is described by Lodewijkx and Syroit as finding that the most embarrassed participants rated the group least favourably. That description is theirs and the 1962 text was not read. Kamau, Campbell and colleagues, and Alessandri and colleagues were all read in abstract only, at PubMed, Europe PMC and Europe PMC respectively. No preregistered direct replication of Aronson and Mills was located, in a search covering Crossref, Europe PMC, Semantic Scholar, Unpaywall and web search. The 2024 multilab dissonance replication tested induced compliance, not initiation, and is covered in the cognitive dissonance entry. The field study is correlational in the ways field studies are: the two Dutch organisations differ in size, politics, group composition and length of initiation as well as in severity, and its authors say so.",
+  "misreadings": "The most common substitution is the IKEA effect, which has its own entry. That effect is about people valuing objects they assembled, and Norton, Mochon and Ariely separate it from this one on the grounds that Aronson and Mills admitted every participant, so whether the effort succeeded was never varied. Sunk cost is a third thing, also with its own entry: it concerns whether to keep spending, not how the outcome is rated afterwards. The second misreading is that the field evidence vindicates hazing. Lodewijkx and Syroit found initiations raising attraction whatever their severity, and traced that rise to newcomers spending time together rather than to what was done to them. The third is scale. One study of 63 women, whose largest reported contrast is 195.3 against 166.7 on a summed 17-item scale, is the whole of the original demonstration.",
+  "sources": [
+    {
+      "text": "Aronson, E., & Mills, J. (1959). The effect of severity of initiation on liking for a group. The Journal of Abnormal and Social Psychology, 59(2), 177-181. Source for every number in the evidence section, read from the full text.",
+      "doi": "10.1037/h0047195",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Aronson_Mills_1959_The_effect_of_severity_of_initiation.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Gerard, H. B., & Mathewson, G. C. (1966). The effects of severity of initiation on liking for a group: A replication. Journal of Experimental Social Psychology, 2(3), 278-287. Listed because it exists; the text is paywalled and was not read for this entry.",
+      "doi": "10.1016/0022-1031(66)90084-9",
+      "url": "https://doi.org/10.1016/0022-1031(66)90084-9",
+      "type": "replication"
+    },
+    {
+      "text": "Schopler, J., & Bateson, N. (1962). A dependence interpretation of the effects of a severe initiation. Journal of Personality, 30(4), 633-649. Paywalled; its result is quoted here only as Lodewijkx and Syroit describe it.",
+      "doi": "10.1111/j.1467-6494.1962.tb01694.x",
+      "url": "https://doi.org/10.1111/j.1467-6494.1962.tb01694.x",
+      "type": "critique"
+    },
+    {
+      "text": "Lodewijkx, H. F. M., & Syroit, J. E. M. M. (2001). Affiliation during naturalistic severe and mild initiations: Some further evidence against the severity-attraction hypothesis. Current Research in Social Psychology, 6(7), 90-107. Open access, read in full.",
+      "url": "https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2020-04/6.7.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Kamau, C. (2013). What does being initiated severely into a group do? The role of rewards. International Journal of Psychology, 48(3), 399-406. Paywalled; the result is taken from the abstract at PubMed.",
+      "doi": "10.1080/00207594.2012.663957",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22512542/",
+      "type": "replication"
+    },
+    {
+      "text": "Alessandri, J., Darcheville, J.-C., & Zentall, T. R. (2008). Cognitive dissonance in children: Justification of effort or contrast? Psychonomic Bulletin & Review, 15(3), 673-677. Paywalled; the contrast account is taken from the abstract at Europe PMC.",
+      "doi": "10.3758/PBR.15.3.673",
+      "url": "https://europepmc.org/article/MED/18567273",
+      "type": "critique"
+    },
+    {
+      "text": "Campbell, T., Wang, J., & Inzlicht, M. (2025). Experimental evidence that exerting effort increases meaning. Cognition, 257, 106065. The finding that effort justification did not explain the effect is taken from the abstract at Europe PMC.",
+      "doi": "10.1016/j.cognition.2025.106065",
+      "url": "https://europepmc.org/article/MED/39854968",
+      "type": "primary"
+    },
+    {
+      "text": "Norton, M. I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453-460. Cited here for its distinction between the IKEA effect and effort justification.",
+      "doi": "10.1016/j.jcps.2011.08.002",
+      "url": "https://doi.org/10.1016/j.jcps.2011.08.002",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
