@@ -1,0 +1,78 @@
+{
+  "no": 110,
+  "slug": "illusion-of-explanatory-depth",
+  "name": "Illusion of explanatory depth",
+  "aliases": ["IOED", "Knowledge illusion", "Illusion of understanding"],
+  "category": "belief",
+  "statement": "People rate their understanding of how everyday things work higher than they can demonstrate, and the rating falls once they try to write the explanation out.",
+  "meaning": "The claim is narrower than it sounds. It is not that people are generally overconfident about what they know. It is that one particular kind of knowledge, the causal mechanism by which something works, invites a confidence that other kinds do not. Rozenblit and Keil's method is three steps: rate your understanding of a zip fastener or a flush toilet on a seven-point scale, write out how it works, then rate yourself again. The gap between the two ratings is the illusion. Their explanation is that a device offers visible parts, a familiar function and a name, and people mistake the availability of those cues for possession of the mechanism.",
+  "origin": {
+    "year": 2002,
+    "who": "Leonid Rozenblit and Frank Keil",
+    "where": "Cognitive Science",
+    "note": "Their paper is \"The misunderstood limits of folk science: an illusion of explanatory depth\", volume 26, pages 521 to 562. It reports twelve studies and coins the name."
+  },
+  "evidence": "Study 1 ran 16 Yale graduate students through 48 items drawn from a popular book on how things work. Ratings were taken five times: before explaining, after explaining, after a diagnostic question, after reading an expert account, and once more as a check. Time was reliable, F(4, 56) = 16.195, p < .001, eta-squared = .536, and the contrasts from Time 1 to Times 2, 3 and 4 all held at p < .002. Study 2 repeated it on 33 Yale undergraduates, F(4, 124) = 38.9, p < .001, eta-squared = .555, with no interaction between study and time. Studies 7 to 10 swapped the material. Table 7 of the paper gives the average Time 1 minus Time 2 drop by domain: .918 for devices, .860 for natural phenomena such as tides and rainbows, .351 for the plots of popular films, .291 for the capital cities of countries and minus .173 for procedures such as baking biscuits. Procedures produced a small rise rather than a drop. The condition means behind those differences are plotted in the paper's figures rather than tabulated.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The rating drop repeats wherever it is tried. The political version of the finding, which is the one that made the idea famous, does not.",
+    "detail": "Two records, and they point different ways. The basic illusion holds. Alter, Oppenheimer and Zemla found it in 60 adults asked about three mechanical processes, a mean drop of 0.42 points, t(58) = 3.89, p < .0001, and traced it to abstract construal. Gaviria and Corredor found it in 255 people rating Colombian historical events, a mean drop of 0.99 points, 95% CI [0.80, 1.17], d = 0.66. The political application is the contested one. Fernbach, Rogers, Fox and Sloman asked people to explain policies such as a single-payer health system or a carbon cap-and-trade scheme. In their Experiment 1, on 198 participants, rated understanding fell from 3.82 to 3.45 and position extremity fell from 1.41 to 1.28 on a scale running 0 to 3, F(1, 86) = 6.10, p = .016. Crawford and Ruscio ran three preregistered close replications, with 306, 405 and 343 participants. Understanding dropped again; extremity and in-group favouritism did not move, no key effect reached statistical significance, and only one survived a small-telescopes analysis. Walker, Zhang and Cheng ran three replications on 5,139 people in Hong Kong and report extremity going the other way, higher after participants articulated their understanding. Sloman and Vives recovered the effect on 739 Prolific participants, but only for policies framed around consequences, t(304) = 3.03, p = .002, with no change for policies resting on protected values, t(304) = 0.06, p = .95.",
+    "study": {
+      "cite": "Crawford, J. T., & Ruscio, J. (2021). Asking people to explain complex policies does not increase political moderation: Three preregistered failures to closely replicate Fernbach, Rogers, Fox, and Sloman's (2013) findings. Psychological Science, 32(4), 611-621.",
+      "doi": "10.1177/0956797620972367",
+      "year": 2021
+    }
+  },
+  "limits": "Rozenblit and Keil's samples are small and mostly Yale, 16 graduate students in Study 1 and 33 undergraduates in Study 2, and the paper reports its condition means as figures rather than numbers. The measure is a change in self-rating, not a measure of knowledge, and it does not stay down: ratings rose again after participants read an expert account. The illusion is also domain-bound by the authors' own data, absent for procedures and film plots. Later work narrows it further. Alter, Oppenheimer and Zemla shrank it by inducing a concrete construal style. Andrew Zeveney's Lehigh master's thesis, supervised by Jessecae Marsh, found a smaller illusion for mental disorders than for devices in 251 participants, F(4, 237) = 4.79, p = .001 for the interaction, found that explanation rather than mere reflection is what exposes it, and found in 101 participants that telling people other people's understanding is limited removes it. That thesis is not peer reviewed. Crawford and Ruscio's per-effect statistics sit behind a paywall and only their sample sizes and abstract conclusions are quoted here.",
+  "misreadings": "The commonest error is treating the two evidence bases as one. That people overrate their grasp of a zip fastener is well supported and repeatedly reproduced. That asking a voter to explain a policy makes their politics more moderate is a separate claim from a separate paper, and it has failed three preregistered replications and reversed in a fourth. The first does not vouch for the second. A second error is reading the rating drop as a measure of ignorance. It measures how far a self-rating moves, and Rozenblit and Keil's own participants rated their knowledge higher again after reading an expert explanation. A third is treating the effect as general overconfidence. The paper was built to rule that out, and the drop for capital cities was .291 against .918 for devices. Even the disputants agree on one thing: every replication of the political studies, including the failures, reproduced the fall in rated understanding. What did not reproduce was the change in attitude.",
+  "sources": [
+    {
+      "text": "Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. Cognitive Science, 26(5), 521-562.",
+      "doi": "10.1207/s15516709cog2605_1",
+      "url": "https://doi.org/10.1207/s15516709cog2605_1",
+      "type": "primary"
+    },
+    {
+      "text": "Fernbach, P. M., Rogers, T., Fox, C. R., & Sloman, S. A. (2013). Political extremism is supported by an illusion of understanding. Psychological Science, 24(6), 939-946.",
+      "doi": "10.1177/0956797612464058",
+      "url": "https://doi.org/10.1177/0956797612464058",
+      "type": "primary"
+    },
+    {
+      "text": "Crawford, J. T., & Ruscio, J. (2021). Asking people to explain complex policies does not increase political moderation: Three preregistered failures to closely replicate Fernbach, Rogers, Fox, and Sloman's (2013) findings. Psychological Science, 32(4), 611-621.",
+      "doi": "10.1177/0956797620972367",
+      "url": "https://doi.org/10.1177/0956797620972367",
+      "type": "replication"
+    },
+    {
+      "text": "Walker, R. M., Zhang, J., & Cheng, E. W. (2024). Puncturing the knowledge illusion does not reduce policy and political extremism: Evidence from a replication and extension. Political Psychology, 45(3), 581-599.",
+      "doi": "10.1111/pops.12938",
+      "url": "https://doi.org/10.1111/pops.12938",
+      "type": "replication"
+    },
+    {
+      "text": "Sloman, S. A., & Vives, M.-L. (2022). Is political extremism supported by an illusion of understanding? Cognition, 225, 105146.",
+      "doi": "10.1016/j.cognition.2022.105146",
+      "url": "https://doi.org/10.1016/j.cognition.2022.105146",
+      "type": "replication"
+    },
+    {
+      "text": "Alter, A. L., Oppenheimer, D. M., & Zemla, J. C. (2010). Missing the trees for the forest: A construal level account of the illusion of explanatory depth. Journal of Personality and Social Psychology, 99(3), 436-451.",
+      "doi": "10.1037/a0020218",
+      "url": "https://doi.org/10.1037/a0020218",
+      "type": "replication"
+    },
+    {
+      "text": "Gaviria, C., & Corredor, J. (2024). Understanding, fast and shallow: Individual differences in memory performance associated with cognitive load predict the illusion of explanatory depth. Memory & Cognition, 53(3), 881-895.",
+      "doi": "10.3758/s13421-024-01616-6",
+      "url": "https://doi.org/10.3758/s13421-024-01616-6",
+      "type": "replication"
+    },
+    {
+      "text": "Zeveney, A. S. (2016). Illusion of understanding in a misunderstood field: The illusion of explanatory depth in mental disorders. Master's thesis, Lehigh University.",
+      "url": "https://jsaw.lib.lehigh.edu/campbell/zeveney_andrew.pdf",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
