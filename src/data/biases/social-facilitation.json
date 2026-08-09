@@ -1,0 +1,108 @@
+{
+  "no": 163,
+  "slug": "social-facilitation",
+  "name": "Social facilitation",
+  "aliases": [
+    "Audience effect",
+    "Coaction effect",
+    "Social facilitation and inhibition",
+    "Dynamogenic factors"
+  ],
+  "category": "social",
+  "statement": "Having other people present speeds up simple, well-practised performance and degrades performance on complex tasks.",
+  "meaning": "The claim has two halves pointing opposite ways. An audience or a co-worker strengthens whatever response is already dominant, so a well-practised task gets faster while a task whose dominant response is the wrong one gets worse. Zajonc set that out in 1965 by borrowing Hull and Spence's behaviour theory: presence raises generalised drive, drive energises the dominant habit, and task complexity decides whether that habit is the right answer. Rival accounts keep the pattern and change the cause. Cottrell argued that presence alone is not enough and that the performer must expect to be judged. Sanders, Baron and Moore argued that the other person is a distraction, and that conflict between attending to them and attending to the task is what produces the drive. The three accounts agree on almost every prediction, which is why they have outlived the attempts to separate them.",
+  "origin": {
+    "year": 1898,
+    "who": "Norman Triplett",
+    "where": "The American Journal of Psychology",
+    "note": "Triplett studied competition and pacemaking, not social facilitation, and never used the term. McHugh and colleagues date the name to Floyd Allport in 1920, two decades later. Gordon Allport's 1954 handbook chapter is what installed Triplett as the first social psychology experiment, and Stroebe argues that attribution is wrong on every count."
+  },
+  "evidence": "Triplett started from bicycle records. Official League of American Wheelmen figures to the close of the 1897 season put paced competition races ahead of paced races against time by an average of 5.15 seconds per mile up to 25 miles. His laboratory version had children turn a fishing reel until a small flag had made four circuits of a four-metre course. Records were taken from nearly 225 people of all ages, and every table in the paper rests on 40 children, split into two groups of 20 running different orders of alone and competition trials. Triplett sorted them by eye into 20 stimulated positively, 10 overstimulated and slower in competition, and 10 barely affected. He reported probable errors and no significance test, because the modern ones did not exist. His conclusion was that the bodily presence of another contestant \"serves to liberate latent energy not ordinarily available\". Zajonc, Heingartner and Herman later moved the question to an animal with no reputation to protect. Neider, Fuse and Suri, setting up their own replication, describe that 1969 design as cockroaches fleeing a floodlight down a simple runway or through a complex maze, alone or watched by other cockroaches, with ten trials each and the median time used for the comparison, and put it at 10 animals per group. Maze times got worse in company and runway times got better. The quantitative record is Bond and Titus, who pooled 241 studies, 23,970 subjects and 742 separate effects. Presence made simple performance faster, d = 0.32 across 154 effects, and complex performance slower, d = -0.20 across 54. It made complex work less accurate, d = -0.36 across 147 effects, the largest mean effect in the analysis. It barely touched the accuracy of simple work, d = 0.11 across 112 effects.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Two preregistered direct replications came out on opposite sides: 445 children reproduced Triplett's speed-up in company, while the cockroach experiment produced the impairment half of the effect and no trace of the facilitation half.",
+    "detail": "McHugh and colleagues rebuilt Triplett's apparatus from his diagrams and ran 445 Irish schoolchildren aged 7 to 13, powered in advance to detect f-squared = 0.02 with 400. Alone they took 58.4 seconds, SD 13.5; together 55.0 seconds, SD 11.8; F(1, 444) = 133.73, p < 0.001. The effect survived controls for trial order and practice, and was stronger for girls, b = -4.07, than for boys, b = -2.75. It did not survive every specification: with covariates and interactions in the right-handed-only sample, condition was no longer significant. The authors also state plainly that their design cannot separate social facilitation from competition. Halfmann, Bredehöft and Häusser ran a preregistered direct replication of the cockroach study as a 2 by 2 of audience and task difficulty. Roaches were slower with an audience present on both tasks, and the audience by difficulty interaction that the original had never tested statistically did not appear. Their summary is that they replicated the social-inhibition effect and found no evidence for a social-facilitation effect. Modern pooling on human motor tasks lands in the same divided place. Van Meurs, Greve and Strauss reviewed 82 studies and 7,008 participants, and the 28 studies with usable data gave an overall d = 0.29, 95% CI [0.03, 0.55], p = 0.030, with I-squared of 87%. Splitting by task, endurance-type tasks were facilitated, d = 0.84, 95% CI [0.46, 1.23] across 16 effects, while coordination tasks under precision pressure gave d = 0.03, 95% CI [-0.88, 0.95], and mixed tasks d = -0.05, 95% CI [-1.07, 0.97]. Only the endurance estimate excluded zero.",
+    "study": {
+      "cite": "McHugh, C., Griffin, S. M., Kinsella, E. L., Quayle, M., Strunz, B., & Muldoon, O. T. (2025). A replication of Triplett's 'social facilitation experiment'. Scientific Reports, 15, 40366.",
+      "doi": "10.1038/s41598-025-25608-x",
+      "year": 2025,
+      "n": 445
+    }
+  },
+  "limits": "The pooled effects are small enough that the label oversells them. Bond and Titus put the presence of others at 0.3% to 3% of the variance in a typical experiment. Their largest effect, the impairment of complex accuracy, accounts for 3.1% of between-subjects variance, and the median effect for 1.3%. The facilitation of simple accuracy accounts for 0.30%, and it is fragile: nearly 40% of the reported effects run the other way, and 194 unreported null results would sink it to non-significance. Between 17.4% and 42.6% of effects point against the mean, depending on the measure. The control condition is also weaker than it sounds. In only 100 of the 241 studies did the authors state that the experimenter had left the room, and in 52 studies the supposedly alone subject could see the experimenter. Bond and Titus found no reliable role for evaluation apprehension at all: audiences with the power to judge had no greater effect than audiences without it, which cuts against Cottrell's account rather than Zajonc's. Van Meurs and colleagues could use only 28 of their 82 reviewed studies in the meta-analysis, and their heterogeneity was 87%. Three sources were not obtained. Strube's reanalysis of Triplett's data sits behind a paywall, and the account of it here comes from McHugh and colleagues' description with their page citations, not from the paper. Zajonc's 1965 Science article was likewise not obtained, and the drive account above is taken from Bond and Titus's exposition of it. The Halfmann replication's full text was not reachable either, so no sample size or test statistic from it is quoted. Searches covered Crossref, PubMed, PMC, OpenAlex, Unpaywall, OSF and web search.",
+  "misreadings": "Triplett is not the founding experiment, and his own data do not carry the finding. Haines and Vaughan called the 1898 origin story \"quite without foundation\" and an origin myth. Stroebe's verdict is blunter: not the first social psychology study, not even the first on social facilitation, the task described wrongly in textbooks, and the evidence overstated. Strube reanalysed the original records with modern tests. As McHugh and colleagues report it, the between-subjects comparisons ran the right way but were not significant, the within-subject analyses showed little, and only averaging the alone and competition trials produced a marginal effect, which Strube summarised as evidence that \"can be coaxed from the data\" giving \"barely a statistical hint of the social facilitation of performance to which his experiment has been credited\". The size of the effect is the second misreading. Cooper and Findley, quoted by Bond and Titus, found social psychology textbooks presenting a mean effect of d = 1.19, or 26.1% of the variance in a typical experiment, against the 1% to 3% the literature actually holds. The third is the mechanism. Triplett's children raced each other and Zajonc's theory is about presence, so a study of competing co-actors is often read as evidence about being watched, and McHugh and colleagues say their own replication cannot tell the two apart.",
+  "sources": [
+    {
+      "text": "Triplett, N. (1898). The dynamogenic factors in pacemaking and competition. The American Journal of Psychology, 9(4), 507-533. Full text read at Christopher Green's Classics in the History of Psychology.",
+      "doi": "10.2307/1412188",
+      "url": "https://psychclassics.yorku.ca/Triplett/",
+      "type": "primary"
+    },
+    {
+      "text": "Bond, C. F., Jr., & Titus, L. J. (1983). Social facilitation: A meta-analysis of 241 studies. Psychological Bulletin, 94(2), 265-292. Full text read from a scanned copy at the Internet Archive.",
+      "doi": "10.1037/0033-2909.94.2.265",
+      "url": "https://archive.org/details/bond054244",
+      "type": "primary"
+    },
+    {
+      "text": "McHugh, C., Griffin, S. M., Kinsella, E. L., Quayle, M., Strunz, B., & Muldoon, O. T. (2025). A replication of Triplett's 'social facilitation experiment'. Scientific Reports, 15, 40366.",
+      "doi": "10.1038/s41598-025-25608-x",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12627428/",
+      "type": "replication"
+    },
+    {
+      "text": "Halfmann, E., Bredehöft, J., & Häusser, J. A. (2020). Replicating roaches: A preregistered direct replication of Zajonc, Heingartner, and Herman's (1969) social-facilitation study. Psychological Science, 31(3), 332-337. Described here from its abstract; the full text was not reachable.",
+      "doi": "10.1177/0956797620902101",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32017670/",
+      "type": "replication"
+    },
+    {
+      "text": "van Meurs, E., Greve, J., & Strauss, B. (2024). Moving in the presence of others: A systematic review and meta-analysis on social facilitation. International Review of Sport and Exercise Psychology, 17(2), 980-1012. Figures read from the authors' postprint, not the version of record.",
+      "doi": "10.1080/1750984X.2022.2111663",
+      "url": "https://osf.io/download/25wh7/",
+      "type": "replication"
+    },
+    {
+      "text": "Perez Neider, D., Fuse, M., & Suri, G. (2019). Cockroaches, performance, and an audience: Reexamining social facilitation 50 years later. Journal of Experimental Social Psychology, 85, 103851. The copy read is the registered-report proposal, which describes the 1969 design and reports the original interaction at eta-squared = 0.025 but contains no results of its own.",
+      "doi": "10.1016/j.jesp.2019.103851",
+      "url": "https://www.suriradlab.com/_files/ugd/562358_5c4bfd723b0544029490325e50dbbfc9.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Stroebe, W. (2012). The truth about Triplett (1898), but nobody seems to care. Perspectives on Psychological Science, 7(1), 54-57. Described here from its abstract; the full text was not reachable.",
+      "doi": "10.1177/1745691611427306",
+      "url": "https://research.rug.nl/en/publications/379aabbc-abfb-47d7-ae0a-d2808be583d9",
+      "type": "commentary"
+    },
+    {
+      "text": "Strube, M. J. (2005). What did Triplett really find? A contemporary analysis of the first experiment in social psychology. The American Journal of Psychology, 118(2), 271-286. Paywalled; quoted here only as McHugh and colleagues report it, with their page citations.",
+      "doi": "10.2307/30039059",
+      "url": "https://doi.org/10.2307/30039059",
+      "type": "commentary"
+    },
+    {
+      "text": "Haines, H., & Vaughan, G. M. (1979). Was 1898 a 'great date' in the history of experimental social psychology? Journal of the History of the Behavioral Sciences, 15(4), 323-332. Described here from its abstract.",
+      "doi": "10.1002/1520-6696(197910)15:4<323::aid-jhbs2300150405>3.0.co;2-i",
+      "type": "commentary"
+    },
+    {
+      "text": "Zajonc, R. B. (1965). Social facilitation. Science, 149(3681), 269-274. The drive account is summarised here from Bond and Titus's exposition; this paper was not obtained.",
+      "doi": "10.1126/science.149.3681.269",
+      "url": "https://doi.org/10.1126/science.149.3681.269",
+      "type": "primary"
+    },
+    {
+      "text": "Zajonc, R. B., Heingartner, A., & Herman, E. M. (1969). Social enhancement and impairment of performance in the cockroach. Journal of Personality and Social Psychology, 13(2), 83-92. Not obtained; its design and effect size are given here as Perez Neider and colleagues describe them.",
+      "doi": "10.1037/h0028063",
+      "url": "https://doi.org/10.1037/h0028063",
+      "type": "primary"
+    },
+    {
+      "text": "Cottrell, N. B., Wack, D. L., Sekerak, G. J., & Rittle, R. H. (1968). Social facilitation of dominant responses by the presence of an audience and the mere presence of others. Journal of Personality and Social Psychology, 9(3), 245-250. Named as the evaluation-apprehension source Bond and Titus test against; not read for this entry.",
+      "doi": "10.1037/h0025902",
+      "url": "https://doi.org/10.1037/h0025902",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
