@@ -1,0 +1,92 @@
+{
+  "no": 143,
+  "slug": "implicit-stereotype",
+  "name": "Implicit stereotype",
+  "aliases": ["Automatic stereotyping", "Automatic stereotype activation", "Unconscious stereotype", "Implicit bias"],
+  "category": "social",
+  "statement": "Knowing what a stereotype says and endorsing it are separable, and the association can fire on a cue and shape a later judgement in people who reject the content.",
+  "meaning": "An implicit stereotype is an association between a social category and a trait, inferred from what a cue does to the speed or the content of a judgement that follows. Three claims travel under the one name and they are not equally supported. The first is that such associations exist and can be activated without the perceiver intending it. The second is that activation follows from categorisation alone, in everyone, whatever the person believes. The third is that these associations cause the discrimination that field experiments measure in hiring and housing. Evidence for the first is good, for the second poor, and for the third indirect. The Implicit Association Test is one instrument for measuring the associations rather than the phenomenon itself. It has its own entry, and the argument about what its scores predict is not repeated here.",
+  "origin": {
+    "year": 1989,
+    "who": "Patricia G. Devine",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Three studies built on a dissociation between automatic and controlled processes. Devine's claim was that high- and low-prejudice people know the same cultural stereotype, that the stereotype activates for both, and that rejecting it takes deliberate effort."
+  },
+  "evidence": "Devine's Study 1 asked 40 white introductory psychology students to list the content of the cultural stereotype of Black people regardless of their own beliefs. A seven-item Modern Racism Scale with Cronbach's alpha of .83 split them into 21 high-prejudice and 19 low-prejudice subjects. Sixteen coding categories were used, two judges agreed on 88% of classifications, and none of the differences between the two groups was statistically reliable. Two further judges could not sort the protocols by prejudice level. Study 2 screened 483 students and ran 78 white subjects in the judgement condition. Words were flashed outside the fixation point for 80 ms and masked, 100 trials in all, with either 80% or 20% of them related to the racial stereotype and none denoting hostility. Subjects then read a paragraph about an ambiguously hostile man named Donald and rated him. Hostility-related ratings ran to 7.52 in the 80% condition against 6.87 in the 20% condition, a priming by scale interaction of F(1, 70) = 5.04, p < .03. Ratings on the six scales unrelated to hostility were 5.89 and 6.00, and prejudice level did not qualify the effect, F(1, 70) = 1.19, p = .27. Of 1,200 guesses in the awareness check, 20 were correct, a hit rate of 1.67%. Study 3 gave 67 students an anonymous thought-listing task about Black Americans. Sixty percent of the high-prejudice subjects wrote hostility themes and about 9% of the low-prejudice subjects did, z = 4.41, p < .01. Banaji and Hardin made the same point about gender with reaction times. Sixty-eight Yale students saw one of 150 primes for 200 ms, then a blank screen for 100 ms, then a pronoun to be judged male or female. Judgements were faster when prime and target matched in gender, F(1, 66) = 117.56, p < .0001, with Cohen's d of .78 for primes gendered by definition and .47 for primes gendered by occupational base rates. Thirty-seven of the 68 noticed the relation between primes and targets, and aware and unaware subjects produced the same pattern, all Fs < 1. Three explicit measures of gender belief correlated with the priming score at -.003, -.050 and .037, none of them significant. The shooter task moved the question to a behavioural response. Correll, Park, Judd and Wittenbrink had 40 undergraduates play a videogame in which armed and unarmed Black and white men appeared against photographic backgrounds. Correct decisions to shoot armed targets took 544 ms for Black men and 554 ms for white men. Correct decisions not to shoot unarmed targets took 634 ms for Black men and 623 ms for white men. The ethnicity by object interaction was F(1, 39) = 21.86, p < .0001. Study 2 cut the response window to 630 ms and pushed the effect into errors: per 20 trials, subjects wrongly shot 3.29 unarmed Black targets against 2.40 unarmed white ones. Signal detection put sensitivity at 2.48 for Black targets and 2.47 for white, F(1, 38) = 0.01, p = .93, and the decision criterion at -0.24 against 0.03, F(1, 38) = 22.21, p < .0001. The bias was a shifted threshold, not worse eyesight.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The reaction-time signatures of the shooter task pool to small but reliable effects, around d = 0.13; the claim that a category cue alone activates the stereotype in everyone did not survive the first direct test of it.",
+    "detail": "Lepore and Brown took Devine's Study 2 apart in 1997. Her primes contained both category labels and stereotype content, including words such as lazy, welfare and ghetto, so the hostility effect could have been ordinary semantic priming. Their Study 2 primed 51 British subjects with category labels and neutral associates only. The three-way interaction of condition, prejudice and valence was F(1, 46) = 6.06, p < .02. High-prejudice subjects rated the target more negatively when primed, 6.76 against 5.88, t(46) = 3.43, p < .005, and less positively, 6.31 against 6.88, t(46) = 2.22, p < .025. Low-prejudice subjects moved the other way, raising their positive ratings from 6.54 to 6.98, t(46) = 1.69, p < .05, with no change on the negative scales. Study 3 put negative stereotype content back into the primes with 45 subjects, and the prejudice difference vanished. Both groups rated the target more negatively, 6.33 against 5.70, t(40) = 2.86, p < .005, with a three-way interaction of F(1, 40) = 0.04. Devine's result reproduces when the prime carries the stereotype and not when it carries only the category. Müller and Rothermund ran a registered replication of the gender work in 2014. They reproduced the large effects of Blair and Banaji's design, in which the prime and the response are compatible. In the semantic task that rules response priming out, the design of Banaji and Hardin's second experiment, they found no evidence of activation. Their conclusion was that automatic stereotype activation is restricted to specific conditions rather than global. Mekawi and Bresin pooled 42 shooter studies in 2015. Participants were quicker to shoot armed Black targets at dav = -.13, 95% CI [-.19, -.06]. They were slower to withhold fire from unarmed Black targets at dav = .11, 95% CI [.05, .18]. Their shooting threshold for Black targets was more liberal at dav = -.19, 95% CI [-.37, -.01]. The threshold estimate is the largest of the three and also the least precise. The abstract reports no significant pooled effect for the other two measures it examined, false alarms and shooting sensitivity, and the full text is paywalled, so the entry cannot report those estimates. Correll and colleagues ran the task on police officers in 2007 and found the speed bias in both officers and community members, while only the community sample set a lower criterion for Black targets.",
+    "study": {
+      "cite": "Mekawi, Y., & Bresin, K. (2015). Is the evidence from racial bias shooting task studies a smoking gun? Results from a meta-analysis. Journal of Experimental Social Psychology, 61, 120-130.",
+      "doi": "10.1016/j.jesp.2015.08.002",
+      "year": 2015
+    },
+    "replicated": { "es": -0.13, "esType": "d", "ci": [-0.19, -0.06], "ciLevel": 95 }
+  },
+  "limits": "The strongest evidence that discrimination happens comes from field experiments, and none of it measures a stereotype. Bertrand and Mullainathan sent 4,870 fictitious resumes to over 1,300 help-wanted advertisements in Boston and Chicago, randomly assigning names that sound white or African American. White names drew callbacks 9.65% of the time and African American names 6.45%, a gap of 3.20 percentage points and a ratio of 1.50. Improving a resume helped only one group: white callbacks rose from 8.50% to 10.79% while African American callbacks moved from 6.19% to 6.70%. Employers advertising themselves as equal-opportunity employers, and federal contractors, did no better. The authors weigh taste-based discrimination, two families of statistical discrimination and a lexicographic search heuristic under which a recruiter stops reading at the name. Implicit stereotyping is not among the mechanisms they test, and their design cannot separate these accounts. Quillian, Pager, Hexel and Midtbøen pooled every available American field experiment of hiring discrimination, 28 studies covering 55,842 applications to 26,326 positions. Across the 24 studies since 1989, white applicants received on average 36% more callbacks than African Americans and 24% more than Latinos. Discrimination against African Americans did not change over 25 years, and there was modest evidence of a decline for Latinos. Controls for applicant education, gender, study method, occupation and local labour market did little to the result. The one study that links a measure of automatic association to real hiring is Rooth's. He measured callbacks for Arab-Muslim and Swedish names in a Swedish correspondence test and then gave the test to the recruiters involved. A one standard deviation stronger negative implicit association was associated with a five percentage point lower probability of inviting an Arab-Muslim applicant. That is one study, correlational at the recruiter level, and it is doing a great deal of work in arguments that cite it.",
+    "misreadings": "The commonest error is the slide from discrimination to its cause. Audit studies establish that identical applications are treated differently by name, which is a fact about employers, not a fact about the contents of their minds. Devine's own paper is misquoted in the direction of universality. The famous claim is that the stereotype fires equally in everyone. It rests on Study 2, whose primes carried both the category and its content. When Lepore and Brown removed the content, the difference between high- and low-prejudice subjects returned. What generalises from Devine is Study 1, where the two groups listed the same stereotype and no judge could tell them apart. The shooter literature is quoted as showing that people shoot unarmed Black men more often. The pooled evidence supports a shifted decision threshold and small differences in speed, and Mekawi and Bresin's abstract does not report a significant pooled effect on the false alarm rate. Police officers in Correll's 2007 sample showed the speed effect and not the criterion shift. Correll's Study 3 is also read backwards. Shooter bias correlated at r = .37 with a measure of what the culture is thought to believe, and at r = .38 with contact with African Americans. The Modern Racism Scale gave .15 and personal endorsement of the violent stereotype gave -.06. Knowing the stereotype predicted the bias and believing it did not, which is Devine's distinction and not a finding about prejudiced people. Finally, implicit stereotype and implicit attitude are treated as one thing. A stereotype is a belief about what a group is like and an attitude is a like or a dislike, and the tasks that measure them come apart.",
+  "sources": [
+    {
+      "text": "Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled components. Journal of Personality and Social Psychology, 56(1), 5-18.",
+      "doi": "10.1037/0022-3514.56.1.5",
+      "url": "https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/wintersemester2011-12/attitudesandsocialjudgment/devine_automcontrprejudice_jpsp1989.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Banaji, M. R., & Hardin, C. D. (1996). Automatic stereotyping. Psychological Science, 7(3), 136-141.",
+      "doi": "10.1111/j.1467-9280.1996.tb00346.x",
+      "url": "https://banaji.sites.fas.harvard.edu/research/publications/articles/1996_Banaji_PS.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Lepore, L., & Brown, R. (1997). Category and stereotype activation: Is prejudice inevitable? Journal of Personality and Social Psychology, 72(2), 275-287.",
+      "doi": "10.1037/0022-3514.72.2.275",
+      "url": "https://www.ime.usp.br/~brolezzi/seminarios/stereotype.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Müller, F., & Rothermund, K. (2014). What does it take to activate stereotypes? Simple primes don't seem enough. Social Psychology, 45(3), 187-193. Paywalled with no repository copy; only the abstract was read for this entry, so no statistics from it appear here.",
+      "doi": "10.1027/1864-9335/a000183",
+      "url": "https://doi.org/10.1027/1864-9335/a000183",
+      "type": "replication"
+    },
+    {
+      "text": "Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer's dilemma: Using ethnicity to disambiguate potentially threatening individuals. Journal of Personality and Social Psychology, 83(6), 1314-1329.",
+      "doi": "10.1037/0022-3514.83.6.1314",
+      "url": "https://faculty.washington.edu/jdb/345/345%20Articles/Correll%20et%20al.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Correll, J., Park, B., Judd, C. M., Wittenbrink, B., Sadler, M. S., & Keesee, T. (2007). Across the thin blue line: Police officers and racial bias in the decision to shoot. Journal of Personality and Social Psychology, 92(6), 1006-1023. Abstract read at PubMed; the full text was not obtained.",
+      "doi": "10.1037/0022-3514.92.6.1006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17547485/",
+      "type": "replication"
+    },
+    {
+      "text": "Mekawi, Y., & Bresin, K. (2015). Is the evidence from racial bias shooting task studies a smoking gun? Results from a meta-analysis. Journal of Experimental Social Psychology, 61, 120-130. Paywalled; the pooled estimates quoted here are from the published abstract, read through the CoLab aggregator, and the full text was not obtained.",
+      "doi": "10.1016/j.jesp.2015.08.002",
+      "url": "https://colab.ws/articles/10.1016%2Fj.jesp.2015.08.002",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Bertrand, M., & Mullainathan, S. (2004). Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination. American Economic Review, 94(4), 991-1013.",
+      "doi": "10.1257/0002828042002561",
+      "url": "https://jenni.uchicago.edu/econ341/readings/Bertrand_Mullainathan_2004_AER_v94_n4.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Quillian, L., Pager, D., Hexel, O., & Midtbøen, A. H. (2017). Meta-analysis of field experiments shows no change in racial discrimination in hiring over time. Proceedings of the National Academy of Sciences, 114(41), 10870-10875. The publisher and repository copies were unreachable; the figures here come from the abstract as held by Europe PMC.",
+      "doi": "10.1073/pnas.1706255114",
+      "url": "https://europepmc.org/article/MED/28900012",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Rooth, D.-O. (2010). Automatic associations and discrimination in hiring: Real world evidence. Labour Economics, 17(3), 523-534. Paywalled; the result quoted is from the published abstract.",
+      "doi": "10.1016/j.labeco.2009.04.005",
+      "url": "https://colab.ws/articles/10.1016/j.labeco.2009.04.005",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
