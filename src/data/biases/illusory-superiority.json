@@ -10,13 +10,13 @@
     "year": 1981,
     "who": "Ola Svenson",
     "where": "Acta Psychologica",
-    "note": "Svenson set out to replicate older claims, which he called poorly documented, that 70 to 80% of drivers put themselves in the safer half. The label \"better-than-average effect\" is not his and came into use later."
+    "note": "Svenson set out to replicate older claims, which he called poorly documented, that 70 to 80% of drivers put themselves in the safer half. He does not use the label \"better-than-average effect\" anywhere in the paper."
   },
   "evidence": "Svenson gave written questions to 161 licensed drivers. Eighty-one answered an advertisement in a University of Oregon student paper, median age 22, and 80 were psychology students at the University of Stockholm, median age 33. Each person judged either skill or safety, not both, by marking one of ten successive 10% intervals. The comparison group was the other people in the room, named in the question and set explicitly against Eugene, Oregon or against Sweden. On skill, 93% of the American sample and 69% of the Swedish put themselves above the median driver, and 46.3% of the Americans claimed the most skilful fifth. On safety the figures were 88% and 77%. The paper reports no statistical test. Zell, Strickhouser, Sedikides and Alicke later pooled 291 independent samples from 124 published articles and more than 950,000 participants, and put the effect at dz = 0.78, 95% CI [0.71, 0.84], with little evidence of publication bias.",
   "replication": {
     "state": "replicated",
-    "headline": "A preregistered replication with 1,203 American drivers found the effect on every response scale it tried, though the scale changed how big it looked.",
-    "detail": "Koppel, Andersson, Tinghög, Västfjäll and Feldman ran the study online in 2019, moving the comparison group from people in the room to drivers in the participant's US state. On Svenson's own percentile scale, 94% placed themselves above the median driver for safety, 95% CI [0.91, 0.96], and 91% did so for skill, [0.88, 0.94]. A seven-point Likert version gave Hedges's g = 1.39 for safety and g = 1.19 for skill, the figure in the field below. The third scale is the informative one. Adding an explicit 50% midpoint to the percentile categories left safety at 91% and dropped skill to 78%, because 14.6% of participants took the midpoint rather than a side. Direction held on all three; magnitude did not.",
+    "headline": "A preregistered replication with 1,203 American drivers found the effect on all three response scales it tried.",
+    "detail": "Koppel, Andersson, Tinghög, Västfjäll and Feldman ran the study online in 2019, moving the comparison group from people in the room to drivers in the participant's US state. On Svenson's own percentile scale, 94% placed themselves above the median driver for safety, 95% CI [0.91, 0.96], and 91% did so for skill, [0.88, 0.94]. A seven-point Likert version gave Hedges's g = 1.39 for safety and g = 1.19 for skill, the figure in the field below. The third scale is the informative one. Adding an explicit 50% midpoint to the percentile categories left safety at 91% and dropped skill to 78%, because 14.6% of participants took the midpoint rather than a side. Effect sizes on the three scales had overlapping intervals, so the authors call the finding stable across them. What the midpoint moved was the share above the median, not the effect size.",
     "study": {
       "cite": "Koppel, L., Andersson, D., Tinghög, G., Västfjäll, D., & Feldman, G. (2023). We are all less risky and more skillful than our fellow drivers: Successful replication and extension of Svenson (1981). Meta-Psychology, 7, MP.2021.2932.",
       "doi": "10.15626/mp.2021.2932",
@@ -77,5 +77,5 @@
       "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
