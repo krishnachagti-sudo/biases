@@ -1,0 +1,73 @@
+{
+  "no": 212,
+  "slug": "aesthetic-usability-effect",
+  "name": "Aesthetic-usability effect",
+  "aliases": ["Apparent usability", "What is beautiful is usable"],
+  "category": "perception",
+  "statement": "Interfaces that look better are rated easier to use, a correlation that is large between ratings and much smaller when usability is measured by what people do.",
+  "meaning": "The claim has two halves that are usually merged. The first half is a correlation between two judgements, how beautiful a screen looks and how easy it looks to use, both given by the same person on the same scale before anybody touches the system. That half is large and repeats. The second half is a causal claim, that beauty makes a system work better or makes its real problems easier to forgive. That half is what design writing takes from the research, and it rests on a smaller and less agreeable set of experiments. Kurosu and Kashimura's term for the rated quantity was apparent usability, and the word apparent was doing work.",
+  "origin": {
+    "year": 1995,
+    "who": "Masaaki Kurosu and Kaori Kashimura",
+    "where": "CHI '95 Conference Companion",
+    "note": "A two-page short paper at pages 292 and 293. It set apparent usability, a rating of how easy a screen looks, against inherent usability, which was seven features of the layout rather than any measurement of use."
+  },
+  "evidence": "Kurosu and Kashimura had people rate 26 ATM screen layouts on how easy each looked to use and on how beautiful it was. Nobody operated an ATM. Their two pages sit behind ACM's bot wall and were not read for this entry, so their correlation of 0.589 between aesthetics and apparent usability is quoted here from Table 1 of Tractinsky's paper rather than from theirs. Tractinsky obtained the 26 layouts from Kurosu and rebuilt them in Hebrew. Experiment 1 showed them to 104 first-year engineering students on an overhead projector for about 20 seconds each, on two scales of 1 to 10. Averaged across the 26 designs, aesthetics and apparent usability correlated at 0.921, and a test for the difference against the Japanese figure gave Z = 3.09, p = 0.001. Experiment 2 separated the two ratings into different rounds for 81 students and returned 0.832. Experiment 3 sat 108 third-year students at individual computers with the order randomised and returned 0.920. Mean ratings tracked the Japanese ones, 5.9 against 6.0 for aesthetics and 5.4 against 5.8 for apparent usability, while the Israeli range was wider, 3.5 to 8.5 against 5.2 to 6.8. Of the seven inherent usability features, only keypad type and grouping moved with apparent usability, and both moved in different directions in the two countries. Israelis rated designs with fewer groups as more usable, against the advice in the usability literature.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The rating-to-rating correlation repeats every time it is attempted; the experiments that manipulate beauty and then measure behaviour disagree with each other.",
+    "detail": "Tractinsky ran three experiments in Israel and reported correlations of 0.921, 0.832 and 0.920 against the Japanese 0.589, on unit-of-analysis 26 design means rather than on participants. He designed the study to show the opposite. His stated expectation was that Israeli correlations would be lower, because Israeli culture is described in the paper as action oriented against a Japanese aesthetic tradition, and his abstract records that the cross-cultural differences he found were not in the hypothesised direction. He also tested his own result for artefacts. Splitting the two ratings into separate rounds did not remove the correlation, and a multitrait-multimethod matrix met the discriminant-validity requirement in 5 of 12 comparisons, with most of the failures involving Experiment 1, the design most exposed to method bias. Tractinsky, Katz and Ikar then had 132 third-year students use an ATM simulation, 124 of them analysed after 8 exclusions, crossing three levels of aesthetics with two levels of real usability. Perceived aesthetics and perceived usability correlated at 0.66 before use and 0.71 after. The usability manipulation worked, raising mean task time from 23.5 to 37.5 seconds, F(1, 118) = 414.05, p < 0.001. The aesthetics manipulation changed post-use perceived usability, stepdown F(2, 116) = 4.49, p < 0.01, while the usability manipulation changed none of the post-use perceptions. Aesthetics changed no behaviour at all: F(2, 118) = 0.01, p = 0.987 on completion times, and no effect on the 1.26 errors people made on average. Tuch and colleagues ran the same crossing on four versions of an online shop with 80 participants and found no effect of aesthetics on perceived usability before use, F(1, 76) = 0.582, p = 0.448, partial eta-squared 0.008, none after use, and an effect running the other way, from real usability to post-use ratings of beauty.",
+    "study": {
+      "cite": "Tractinsky, N. (1997). Aesthetics and apparent usability: empirically assessing cultural and methodological issues. CHI '97, 115-122.",
+      "doi": "10.1145/258549.258626",
+      "year": 1997
+    },
+    "replicated": { "es": 0.921, "esType": "r" }
+  },
+  "limits": "The correlation is between two ratings collected minutes apart from one person, and in the two founding studies it is computed across 26 design means, not across people. On performance the literature splits. Tractinsky, Katz and Ikar found nothing, Sonderegger and Sauer gave 60 adolescents aged 14 to 17 a mobile phone simulation in appealing and unappealing versions and report both higher usability ratings and shorter task completion times for the appealing one, and a preregistered meta-analysis by Schlamann, Nestler and Thielsch pools 31 studies, 234 effect sizes and 18,794 participants at g = 0.29 with high unexplained heterogeneity. Several documents behind this entry could not be opened. The Kurosu and Kashimura paper is marked open access by ACM and every attempt to fetch it returned the publisher's bot page. The meta-analysis is published under a CC-BY licence and Taylor and Francis returned 403 to every route, so its abstract was read on the authors' Zenodo deposit of the supplementary materials and no interval around g = 0.29 was obtained. Hassenzahl's 2004 study, which reports near-zero pre-use correlations of 0.07 and 0.14 once hedonic quality is controlled, is described here only from Tuch and colleagues' summary table, and its own text was not read. Searches covered Crossref, OpenAlex, Semantic Scholar, Unpaywall, PubMed, Zenodo, the authors' own university pages and general web search.",
+  "misreadings": "The most common error is arithmetic. A figure of 0.92 invites the reader to picture 104 people, and it describes 26 pictures of an ATM whose ratings were averaged first. Correlations across design means are larger than correlations across individuals, and none of the founding numbers say how consistent any single person was. The second error is about what was measured. Inherent usability in Kurosu and Kashimura meant seven properties of a layout, such as where the keypad sits and how the keys are grouped, and not one participant in either 1995 or 1997 completed a task. The third concerns Tractinsky himself. He is quoted as confirming the effect, and he ran the study hoping to break it, predicting weaker correlations in Israel and finding stronger ones. That is a stronger result than a confirmation, and it is also the point at which the paper stops explaining anything: his discussion offers three competing accounts of why Israelis correlated more, including the wider spread of their own ratings. The Nielsen Norman Group article that carries the effect to most designers states that Kurosu and Kashimura tested 252 participants. That figure could not be checked against the paper, which was not obtainable.",
+  "sources": [
+    {
+      "text": "Kurosu, M., & Kashimura, K. (1995). Apparent usability vs. inherent usability: experimental analysis on the determinants of the apparent usability. CHI '95 Conference Companion, 292-293. Not read; the record was verified at Crossref and the reported correlation is quoted from Tractinsky (1997).",
+      "doi": "10.1145/223355.223680",
+      "url": "https://doi.org/10.1145/223355.223680",
+      "type": "primary"
+    },
+    {
+      "text": "Tractinsky, N. (1997). Aesthetics and apparent usability: empirically assessing cultural and methodological issues. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems, 115-122. Read in full from the author's copy at Ben-Gurion University.",
+      "doi": "10.1145/258549.258626",
+      "url": "https://www.ise.bgu.ac.il/faculty/noam/papers/97_nt_chi97.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Tractinsky, N., Katz, A. S., & Ikar, D. (2000). What is beautiful is usable. Interacting with Computers, 13(2), 127-145. Read in full from the author's copy at Ben-Gurion University.",
+      "doi": "10.1016/S0953-5438(00)00031-X",
+      "url": "https://www.ise.bgu.ac.il/faculty/noam/papers/00_nt_ask_di_iwc.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Tuch, A. N., Roth, S. P., Hornbaek, K., Opwis, K., & Bargas-Avila, J. A. (2012). Is beautiful really usable? Toward understanding the relation between usability, aesthetics, and affect in HCI. Computers in Human Behavior, 28(5), 1596-1607. Read in full.",
+      "doi": "10.1016/j.chb.2012.03.024",
+      "url": "https://doi.org/10.1016/j.chb.2012.03.024",
+      "type": "replication"
+    },
+    {
+      "text": "Sonderegger, A., & Sauer, J. (2010). The influence of design aesthetics in usability testing: effects on user performance and perceived usability. Applied Ergonomics, 41(3), 403-410. Described here from the abstract at PubMed.",
+      "doi": "10.1016/j.apergo.2009.09.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19892317/",
+      "type": "replication"
+    },
+    {
+      "text": "Schlamann, M., Nestler, S., & Thielsch, M. T. (2026). Attractive Things Do Work Better: A Meta-Analysis on Visual Aesthetics and User Performance. International Journal of Human-Computer Interaction, 1-43. The article PDF was blocked; the abstract was read on the authors' Zenodo deposit at https://zenodo.org/records/18777943.",
+      "doi": "10.1080/10447318.2026.2664081",
+      "url": "https://zenodo.org/records/18777943",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Moran, K. (2024). The aesthetic-usability effect. Nielsen Norman Group. The secondary account that carries the effect to designers, cited here for the participant count it states.",
+      "url": "https://www.nngroup.com/articles/aesthetic-usability-effect/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
