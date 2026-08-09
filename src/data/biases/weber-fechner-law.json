@@ -1,0 +1,96 @@
+{
+  "no": 125,
+  "slug": "weber-fechner-law",
+  "name": "Weber–Fechner law",
+  "aliases": ["Weber's law", "Fechner's law", "Weber fraction", "Just noticeable difference", "Psychophysical law"],
+  "category": "perception",
+  "statement": "The smallest detectable change in a stimulus is a roughly fixed fraction of that stimulus, from which Fechner derived the claim that sensation grows with the logarithm of intensity.",
+  "meaning": "Two claims travel under one hyphenated name, and they are not the same claim. Weber's law is about discrimination: the increment needed to tell two stimuli apart is proportional to the stimuli, so the ratio, not the absolute difference, is what the observer registers. That ratio is the Weber fraction. Fechner's law is about sensation magnitude: it says the felt intensity of a stimulus rises with the logarithm of its physical intensity. Fechner obtained the second from the first by adding an assumption, and the assumption is where the century of argument lives. This is a quantitative law rather than a bias, so the useful question is not whether it is true but over what range of intensities it holds and how closely.",
+  "origin": {
+    "year": 1860,
+    "who": "Gustav Theodor Fechner",
+    "where": "Elemente der Psychophysik",
+    "note": "Fechner named the ratio rule after Ernst Heinrich Weber and turned it into a measurement formula. Weber's own quantitative statement appears in \"Der Tastsinn und das Gemeingefühl\", written for Rudolph Wagner's Handwörterbuch der Physiologie in 1846, which cites his earlier Latin monograph \"De pulsu, resorptione, auditu et tactu annotationes anatomicae et physiologicae\", Leipzig 1834."
+  },
+  "evidence": "Weber gave numbers. Comparing weights held in cloths and raised by hand, so that only the muscular sense was engaged, ten observers, five of them men, judged 78 ounces against 80. Two could not tell them apart, seven were right on every one of three trials, and one was right on seven of eight, which Weber read as most people being able to separate weights standing in the ratio 39:40. Judged instead by pressure on the skin, with weights laid in turn on fingers resting on a table, the limit fell to 29:30 and was reached only with the greatest difficulty. For line lengths seen one after the other, an observer with a very good eye could separate 50:51 or even 100:101, while a less fine eye needed about a twenty-fifth. For pitch he quoted Delezenne: a musician resolves a quarter of a comma, near 321:322, and an amateur about half a comma, near 160:161. The general point is stated plainly. What matters is not how many grains the excess weighs but whether the excess is the thirtieth or the fiftieth part of the weight being compared, and the same holds for two lines and two tones. Fechner turned this into calculus. In the Langfeld translation of sections VII and XVI, the fundamental formula is dg = K db/b, where db/b is the relative stimulus increment and dg the sensation increment. Integrating it gives the measurement formula g = k(log b − log b₀): the magnitude of the sensation is proportional not to the stimulus but to the logarithm of the stimulus measured from its threshold value. The step from one to the other needs two things Weber never supplied. One is what Fechner calls the mathematical auxiliary principle, that small sensation increments stay proportional to stimulus increments; the other is the fact of limen, the threshold b₀ that fixes the constant of integration. Together they treat the just noticeable difference as a constant unit of sensation that can be summed. Stevens attacked exactly that. His 1961 centennial address gives a table of exponents for the power function relating psychological magnitude to stimulus magnitude: loudness 0.6 binaural and 0.54 monaural, brightness 0.33 for a target seen with a dark-adapted eye and 0.5 for a point source, lightness 1.2 for reflectance of grey papers, taste 1.3 for both sucrose and salt and 0.8 for saccharine, warmth on the arm 1.6 against cold at 1.0, vibration 0.95 at 60 cycles per second and 0.6 at 250, heaviness 1.45 for lifted weights, force of handgrip 1.7, and electric shock 3.5. The paper usually cited for the power law is his \"On the psychophysical law\" of 1957, which the 1961 address cites; the exponents above are read off the 1961 table.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Weber's law holds well over a middle range of intensities and fails at the edges, and the contest between Fechner's logarithm and Stevens' power function turns on which measurement procedure is used.",
+    "detail": "Mertens, Mertens and Lerche re-examined magnitude estimation, the method Stevens' evidence rests on. Their argument is that the response scale is asymmetric, running from 0 to 10 below the reference and from 10 to infinity above it, which pushes people to judge differences rather than ratios. In study 2, 34 participants rated brightness. The standard procedure produced a power exponent of 0.44 and extreme Bayesian evidence for the power function over a linear one, log(BF₁₀) = 54.65. A unidirectional procedure, which splits the judgement into a binary brighter-or-darker decision followed by a magnitude, produced an exponent of 0.55 and log(BF₁₀) = −13.38, extreme evidence for the linear model instead. Study 3 used red saturation with 36 participants and did not reverse: exponents of 1.99 and 1.73, with both procedures favouring a power function, log(BF₁₀) = 199.76 and 204.80. The experiments were not preregistered. On the discrimination side the record is better and still bounded. Wojtczak and Viemeister tested six listeners on amplitude modulation and intensity increments. For broadband noise, perceptually equivalent modulation depths showed no dependence on level across 35 decibels of spectrum level, from 5 to 50 dB SPL, which is Weber's law behaving. For pure tones the same measure fell as carrier level rose, sharply between 60 and 75 dB SPL, the pattern known as the near miss to Weber's law, and the suprathreshold departure was larger than the one seen in detection thresholds. Zhou, Duong and Simoncelli then showed the dispute may be smaller than it looks. Treating sensitivity as Fisher information over a noisy internal representation, they find that a whole family of representations with different noise properties all satisfy Weber's law, and that Weber's law is consistent with Stevens' power law at any exponent so long as the standard deviation of the internal noise scales with the same exponent. On their reading Fechner's error was an implicit one, that stimuli are represented deterministically.",
+    "study": {
+      "cite": "Mertens, A., Mertens, U. K., & Lerche, V. (2021). On the difficulty to think in ratios: a methodological bias in Stevens' magnitude estimation procedure. Attention, Perception, & Psychophysics, 83(5), 2347-2365.",
+      "doi": "10.3758/s13414-021-02266-5",
+      "year": 2021,
+      "n": 34
+    }
+  },
+  "limits": "Weber noticed the first limit himself. Pitch discrimination follows the ratio rule wherever the two tones sit in the scale, he wrote, provided they do not lie at the ends of the tonal range, where telling small differences apart becomes harder. Fechner conceded the point in general terms, writing that Weber's law can lose its validity entirely once the average or normal conditions under which a stimulus produces a sensation are not met, and that psychic measurement does not depend on the law holding. Stevens recorded three failures of the tie between discrimination and sensation. Electric shock has an exponent of 3.5 while resolving power on that continuum is little if at all better than for vibration, whose exponent is several times smaller. Measured resolving power for brightness changes about fiftyfold as the stimulus moves from a small point to a wide field, with no comparable change in the exponent, and the small shift there is runs the wrong way, since point sources give the steeper function at 0.5 against 0.33 for larger targets. Newman had shown that the intensity jnd for a pure tone depends on its frequency, so the subjective size of a jnd cannot be constant across tones. Near threshold the simple proportionality also breaks, which is why Stevens wrote the general linear form of the law with an additive constant, as Q = k(I + I₀). The Weber fraction has a second life in numerical cognition, and it carries its own caveat. Halberda and Feigenson measured the acuity of the approximate number system in five groups of 16, comparing arrays of dots with continuous extent controlled. Their psychophysics model returned Weber fractions of .525 at three years, .383 at four, .229 at five, .179 at six and .108 in adults; a sigmoid model fitted to the same data returned .333, .240, .225, .199 and .097. The two models disagree by more than a factor of one and a half in the youngest group and agree closely in adults, so a published w is a property of a model as much as of a child.",
+  "misreadings": "The commonest error is treating Weber's law and Fechner's law as one statement. Weber's law is a claim about thresholds, that the just noticeable difference scales with the stimulus. Fechner's law is a claim about experienced magnitude, that it grows as the logarithm of intensity. The second does not follow from the first on its own. Fechner had to add that small sensation increments are proportional to stimulus increments and that the threshold fixes the zero, which together license adding jnds up as though each were the same size in sensation. The second error is reading Stevens as a refutation of Weber. He was not disputing that thresholds scale with intensity; he restated Weber's law in linear form himself and objected to the view that jnds are quantities that can profitably be added up, or that the slope of the sensation function can be read off them. Zhou and colleagues make the same separation formally, and note that Stevens offered no way of reconciling the two laws even while presenting his own as a direct refutation. The third error is treating a Stevens exponent as a constant of nature. His own table lists two values for loudness, two for brightness, two for smell, three for taste and two for vibration, each tied to a stated condition, and the widely quoted 0.67 for loudness is not among them. The fourth is filing this under cognitive bias. Nothing here describes a mistake. Ratio-based coding is what a sensory system does, and the numerical version of it has been linked to school mathematics rather than to error: Halberda, Mazzocco and Feigenson found that individual differences in the number acuity of 14-year-olds correlate with their earlier standardised maths scores as far back as kindergarten, and that the correlation survives controls for other cognitive factors. The association is real and modest. Chen and Li pooled 36 cross-sectional samples, N = 4,705, and found r = 0.20, 95% CI [0.14, 0.26], with six longitudinal samples giving r = 0.24, 95% CI [0.11, 0.37]. Schneider and colleagues pooled 284 effect sizes from 45 articles and 17,201 participants, and found r = .241, 95% CI [.198, .284] for non-symbolic magnitude comparison against r = .302, 95% CI [.243, .361] for symbolic comparison, so the symbolic task is the better correlate of the two.",
+  "sources": [
+    {
+      "text": "Weber, E. H. (1846/1905). Tastsinn und Gemeingefühl. Ostwald's Klassiker der exakten Wissenschaften Nr. 149. Leipzig: Wilhelm Engelmann. Originally published in Rudolph Wagner's Handwörterbuch der Physiologie.",
+      "url": "https://archive.org/details/tastsinnundgemei00webe",
+      "type": "primary"
+    },
+    {
+      "text": "Fechner, G. T. (1860/1912). Elements of Psychophysics, sections VII and XVI. Translated by Herbert Sidney Langfeld, in B. Rand (Ed.), The Classical Psychologists (pp. 562-572). Boston: Houghton Mifflin.",
+      "url": "https://psychclassics.yorku.ca/Fechner/",
+      "type": "primary"
+    },
+    {
+      "text": "Stevens, S. S. (1957). On the psychophysical law. Psychological Review, 64(3), 153-181.",
+      "doi": "10.1037/h0046162",
+      "url": "https://doi.org/10.1037/h0046162",
+      "type": "primary"
+    },
+    {
+      "text": "Stevens, S. S. (1961). To honor Fechner and repeal his law: A power function, not a log function, describes the operating characteristic of a sensory system. Science, 133(3446), 80-86.",
+      "doi": "10.1126/science.133.3446.80",
+      "url": "http://languagelog.ldc.upenn.edu/myl/Science-1961-Stevens-80-6.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Mertens, A., Mertens, U. K., & Lerche, V. (2021). On the difficulty to think in ratios: a methodological bias in Stevens' magnitude estimation procedure. Attention, Perception, & Psychophysics, 83(5), 2347-2365.",
+      "doi": "10.3758/s13414-021-02266-5",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8213559/",
+      "type": "critique"
+    },
+    {
+      "text": "Wojtczak, M., & Viemeister, N. F. (2008). Perception of suprathreshold amplitude modulation and intensity increments: Weber's law revisited. The Journal of the Acoustical Society of America, 123(4), 2220-2236.",
+      "doi": "10.1121/1.2839889",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2394195/",
+      "type": "replication"
+    },
+    {
+      "text": "Zhou, J., Duong, L. R., & Simoncelli, E. P. (2024). A unified framework for perceived magnitude and discriminability of sensory stimuli. Proceedings of the National Academy of Sciences, 121(25), e2312293121.",
+      "doi": "10.1073/pnas.2312293121",
+      "url": "https://www.cns.nyu.edu/pub/lcv/zhou24.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Halberda, J., & Feigenson, L. (2008). Developmental change in the acuity of the \"number sense\": The approximate number system in 3-, 4-, 5-, and 6-year-olds and adults. Developmental Psychology, 44(5), 1457-1465.",
+      "doi": "10.1037/a0012682",
+      "url": "https://panamath.org/papers/HalberdaFeigenson2008DevPsych.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Halberda, J., Mazzocco, M. M. M., & Feigenson, L. (2008). Individual differences in non-verbal number acuity correlate with maths achievement. Nature, 455(7213), 665-668.",
+      "doi": "10.1038/nature07246",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18776888/",
+      "type": "primary"
+    },
+    {
+      "text": "Chen, Q., & Li, J. (2014). Association between individual differences in non-symbolic number acuity and math performance: A meta-analysis. Acta Psychologica, 148, 163-172.",
+      "doi": "10.1016/j.actpsy.2014.01.016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24583622/",
+      "type": "replication"
+    },
+    {
+      "text": "Schneider, M., Beeres, K., Coban, L., Merz, S., Schmidt, S. S., Stricker, J., & De Smedt, B. (2017). Associations of non-symbolic and symbolic numerical magnitude processing with mathematical competence: A meta-analysis. Developmental Science, 20(3), e12372.",
+      "doi": "10.1111/desc.12372",
+      "url": "https://www.uni-trier.de/fileadmin/fb1/prof/PSY/PAE/Team/Schneider/SchneiderEtAl2017.pdf",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
