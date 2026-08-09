@@ -96,6 +96,24 @@ The general form is that an assertion about the absence or the exhaustiveness
 of evidence is far more expensive to verify than an assertion about a number,
 and both look equally confident on the page.
 
+## The fetching tool is not a source either
+
+An agent writing the attentional-bias entry fetched a meta-analysis and got
+back detailed effect sizes with confidence intervals. It fetched the same page
+again and those numbers were not on it. It discarded them and used only the
+wording it could see twice, which is the correct response and the reason that
+entry is trustworthy.
+
+Some fetches return a model's summary of a page rather than the page. A
+summary can carry figures that are plausible, well formatted and absent from
+the document. This is the same failure the protocol is built against, arriving
+through the one channel that was assumed to be safe, and it does not announce
+itself: the numbers look exactly like numbers that were read.
+
+The defence is cheap. A figure that matters gets seen twice, or it does not
+get published. A figure that appears on one fetch and not the next is treated
+as not obtained, not as a retrieval glitch to work around.
+
 ## What the agent must not do
 
 Touch git. Agents leave the working tree dirty and report; the review, the

@@ -1,0 +1,106 @@
+{
+  "no": 208,
+  "slug": "out-group-homogeneity-effect",
+  "name": "Out-group homogeneity effect",
+  "aliases": [
+    "Outgroup homogeneity effect",
+    "Out-group homogeneity bias",
+    "Out-group homogeneity principle",
+    "Relative heterogeneity effect",
+    "They all look alike to me"
+  ],
+  "category": "social",
+  "statement": "People judge the members of another group to be more alike one another than the members of their own group.",
+  "meaning": "The claim is about perceived variability, not about liking. A perceiver estimates how much spread there is inside a group, and the estimate comes out smaller for the out-group than for the in-group. Nothing in the claim requires the perceiver to dislike anyone, and nothing requires the two groups to differ in real variability. Boldry, Gaertner and Quinn count eleven ways the literature has measured this, grouped into six tasks: the range between the highest and lowest member, the standard deviation and probability of differentiation derived from a distribution task, percent estimates and mean ratings of stereotypic traits, global and trait similarity ratings, the number of subgroups a perceiver can generate, and three memory measures including face recognition. Those measures do not agree with each other. In their coding a negative effect size means the out-group was seen as less variable, and the sign flips from measure to measure once the perceiver's relative status is taken into account.",
+  "origin": {
+    "year": 1980,
+    "who": "George A. Quattrone and Edward E. Jones",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Quattrone and Jones' 'The perception of variability within in-groups and out-groups: Implications for the law of small numbers' is the demonstration the field dates itself from. Park and Rothbart's 1982 title carries the phrase 'out-group homogeneity' and their abstract calls it the out-group homogeneity principle. Ostrom and Sedikides trace the underlying accentuation argument to Tajfel in 1969. The 1980 article is paywalled and was not read for this entry."
+  },
+  "evidence": "Quattrone and Jones' article could not be obtained, so its design is described here from Ostrom and Sedikides' review. Princeton and Rutgers undergraduates rated the average undergraduate man at their own and at the other university on bipolar scales tied to the two schools' stereotypes, and the stereotype rating was stronger for the out-group. Ostrom and Sedikides also record that the paper examined how far people generalise from the behaviour of a single member to the group as a whole, which is the law-of-small-numbers argument in the title. Three of its experiments used similarity ratings, and by their account two reached significance, premedical against nursing students and students of rightist against leftist politics, while Princeton against Rutgers did not. Park and Rothbart ran four experiments, and their abstract was read at OpenAlex. Men and women estimated the proportion of men or of women who would endorse personality and attitude items, and out-group judges saw a group as endorsing more stereotypic and fewer counterstereotypic items than in-group judges did. Because the pattern held across items varying in social desirability, the authors argued it was independent of ethnocentrism. Experiment 3 asked members of three campus sororities to judge intragroup similarity for their own group and two others, and each group judged its own members more dissimilar than out-group judges did. Experiment 4 found men and women remembered the subordinate attributes of an in-group member better than those of an out-group member. Mullen and Hu pooled the literature in 1989 and called the tendency significant but small. Boldry, Gaertner and Quinn pooled it again with 177 effect sizes from 173 independent samples and 12,078 participants.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Pooled over 173 samples the effect is real and small, d = -0.20, 95% CI [-0.26, -0.13], but only two of the eleven measures used to detect it found anything on their own, and the sign reverses between measures once the perceiver's status is accounted for.",
+    "detail": "Boldry, Gaertner and Quinn coded a negative d as the out-group being seen as less variable. Their random-effects aggregate was d = -0.20, 95% CI [-0.26, -0.13], across 177 effect sizes from 173 samples and 12,078 participants. Splitting by measure, the eleven differed, QB(10) = 31.38, p < .01. Only percent estimate, d = -0.31, 95% CI [-0.57, -0.05], and face recognition, d = -0.37, 95% CI [-0.49, -0.26], were individually reliable. At the level of task only stereotyping, d = -0.32, 95% CI [-0.56, -0.08], and memory, d = -0.25, 95% CI [-0.33, -0.16], detected it. The similarity task trended the other way at d = 0.12, 95% CI [-0.05, 0.29], and the authors describe the distribution task as detecting near zero effect sizes. Minimal groups were the second split, QB(1) = 4.24, p < .05: non-minimal groups gave d = -0.23, 95% CI [-0.30, -0.16], and minimal groups gave d = -0.04, 95% CI [-0.20, 0.12]. Relative status did not moderate the aggregate, QB(2) = 4.08, ns, but it interacted with measure, QB(14) = 38.68, p < .01, and with task, QB(8) = 30.48, p < .01. Range and memory found out-group homogeneity among high-status perceivers and nothing among low-status perceivers. Stereotyping and similarity found the opposite shape, with low-status perceivers showing out-group homogeneity on stereotyping at d = -0.67, 95% CI [-1.20, -0.14], and high-status perceivers trending toward in-group homogeneity at d = 0.43, 95% CI [-0.10, 0.96]. The two syntheses of the minimal-group case disagree outright. Mullen and Hu's abstract reports relative heterogeneity strongest for real, enduring groups and weakest for artificial laboratory groups, and Ostrom and Sedikides read them as claiming a weak but significant effect in minimal groups. Reviewing twelve minimal-group experiments against Mullen and Hu's four, Ostrom and Sedikides found four of seven minimal-group tests of similarity ratings non-significant, none of five standard-deviation experiments significant with four running the wrong way, and none of six probability-of-differentiation experiments significant with five running the wrong way.",
+    "study": {
+      "cite": "Boldry, J. G., Gaertner, L., & Quinn, J. (2007). Measuring the Measures: A meta-analytic investigation of the measures of outgroup homogeneity. Group Processes & Intergroup Relations, 10(2), 157-178.",
+      "doi": "10.1177/1368430207075153",
+      "year": 2007,
+      "k": 177,
+      "n": 12078
+    },
+    "replicated": {
+      "es": -0.2,
+      "esType": "d",
+      "ci": [-0.26, -0.13],
+      "ciLevel": 95,
+      "weighting": "random effects, one effect size per sample, negative favours out-group homogeneity"
+    }
+  },
+  "limits": "The minimal-group paradigm is where the effect thins out. Boldry and colleagues put minimal groups at d = -0.04, 95% CI [-0.20, 0.12], and Ostrom and Sedikides concluded that the evidence there was meagre across all three families of measure. Ostrom and Sedikides also warn that a natural-group design can manufacture the effect from a real difference: young people vary less in physical agility than old people, so sampling only the young would produce the result as an artifact and sampling only the old would reverse it. Their review restricted itself to counterbalanced natural-group experiments for that reason. The reversal among minority members is documented and it is not uniform. Mullen and Hu's abstract states that relative heterogeneity falls as the relative size of the in-group falls, producing relative homogeneity for small minorities. Guinote compared Portuguese living in Germany with Portuguese living in Portugal and found the non-minority group perceiving out-group homogeneity and the minority group perceiving in-group homogeneity, driven by minority members differentiating the out-group rather than by any change in how they saw their own. Essa, Rakoczy and Diesendruck tested 272 Arab children in Israel aged five and eight and report that, unlike Jewish majority children, the Arab minority children did not show the effect. Absence is not reversal, and the two findings are often quoted as though they were the same. Boldry and colleagues could not test relative group size at all: their note records that the studies assessing it did not include enough different variability measures for the analysis. Their status analysis is not a substitute, and it does not show minorities reversing the effect on every measure. Simon and Brown's minimal-group experiment, described here from Ostrom and Sedikides, assigned respondents to a blue or a green group by their accuracy on dot patterns and collected range estimates on four scales, with data gathered in groups of 50 and membership kept anonymous. The multivariate analysis showed no reliable out-group homogeneity, one relevant scale was reliable on its own, and the means for the other three ran opposite to prediction. Almost nothing here is preregistered, and no multi-laboratory replication of the basic effect was located. Six articles central to this entry were not read in full: Quattrone and Jones, Park and Rothbart, Mullen and Hu, Simon and Brown, Guinote and Essa are all paywalled, and the claims attributed to them come from their abstracts or from Ostrom and Sedikides. No pooled effect size for Mullen and Hu was found in any source read here, which is why none appears above. The search covered Crossref, OpenAlex, Unpaywall, Semantic Scholar, Europe PMC, PubMed, SSOAR, the authors' own university pages and the open web.",
+  "misreadings": "The effect is read as dislike. It is a judgement about spread, and the entry for in-group favouritism covers the allocation and cooperation literature, where Balliet, Wu and De Dreu found that cooperation with out-group members does not differ from cooperation with unclassified strangers. A perceiver can think a group varied and treat it badly, or think it uniform and treat it well. The second confusion is with the cross-race effect, which this atlas keeps as a separate entry because it is a different measurement. The cross-race effect is recognition accuracy: whether a face studied earlier is correctly called old, scored in hits, false alarms and discriminability. Out-group homogeneity is a judgement about how much members of a group differ. The two touch at exactly one point. Face recognition is one of the eleven measures in Boldry's meta-analysis, and at d = -0.37 it is one of only two that detected the effect on their own, which is a reason to be careful about generalising from it to the other ten. The third misreading is the textbook line that a coin toss into arbitrary groups is enough to produce out-group homogeneity. Ostrom and Sedikides set out to check that claim and could not reproduce it. Their comparison notes that Mullen and Hu's minimal-group conclusion rested on four studies, that none of the four used the standard deviation or probability of differentiation, that Mullen and Hu retained the unequal-sized conditions from Simon and Brown, and that three of the studies came from a 1977 technical report by Brown and Ross whose statistics Mullen and Hu had recorded incorrectly. Reanalysis of one of those experiments turned F(1, 40) = 4.25 favouring the prediction into F(1, 72) = 8.51 contradicting it. Fourth, the effect is treated as one finding rather than as eleven measures that disagree. Nine of the eleven found nothing on their own in a pool of 12,078 participants, and the similarity task and the stereotyping task point in opposite directions once relative status is added.",
+  "sources": [
+    {
+      "text": "Quattrone, G. A., & Jones, E. E. (1980). The perception of variability within in-groups and out-groups: Implications for the law of small numbers. Journal of Personality and Social Psychology, 38(1), 141-152. The founding demonstration. Paywalled with no abstract at Crossref, OpenAlex, PubMed or Unpaywall; not read, and everything said about it here is quoted from Ostrom and Sedikides (1992).",
+      "doi": "10.1037/0022-3514.38.1.141",
+      "url": "https://doi.org/10.1037/0022-3514.38.1.141",
+      "type": "primary"
+    },
+    {
+      "text": "Park, B., & Rothbart, M. (1982). Perception of out-group homogeneity and levels of social categorization: Memory for the subordinate attributes of in-group and out-group members. Journal of Personality and Social Psychology, 42(6), 1051-1068. Full text paywalled; the four experiments are described here from the publisher abstract served by OpenAlex.",
+      "doi": "10.1037/0022-3514.42.6.1051",
+      "url": "https://api.openalex.org/works/doi:10.1037/0022-3514.42.6.1051",
+      "type": "primary"
+    },
+    {
+      "text": "Mullen, B., & Hu, L. (1989). Perceptions of ingroup and outgroup variability: A meta-analytic integration. Basic and Applied Social Psychology, 10(3), 233-252. Full text paywalled; the claims about real versus artificial groups and about small minorities are quoted from the publisher abstract served by OpenAlex. The abstract prints no effect size, and none is given on this page.",
+      "doi": "10.1207/s15324834basp1003_3",
+      "url": "https://api.openalex.org/works/doi:10.1207/s15324834basp1003_3",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Ostrom, T. M., & Sedikides, C. (1992). Out-group homogeneity effects in natural and minimal groups. Psychological Bulletin, 112(3), 536-552. Read in full from the scanned copy hosted by the Centre for Research on Self and Identity at Southampton. Source for the descriptions of Quattrone and Jones and of Simon and Brown, for the natural against minimal group counts, and for the recomputation of the Brown and Ross statistics.",
+      "doi": "10.1037/0033-2909.112.3.536",
+      "url": "https://www.southampton.ac.uk/~crsi/outgrouphomo.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Boldry, J. G., Gaertner, L., & Quinn, J. (2007). Measuring the Measures: A meta-analytic investigation of the measures of outgroup homogeneity. Group Processes & Intergroup Relations, 10(2), 157-178. Read in full from the author postprint at SSOAR. Source for every pooled figure on this page.",
+      "doi": "10.1177/1368430207075153",
+      "url": "https://d-nb.info/1186499923/34",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Simon, B., & Brown, R. (1987). Perceived intragroup homogeneity in minority-majority contexts. Journal of Personality and Social Psychology, 53(4), 703-711. Paywalled with no abstract at Crossref, OpenAlex, PubMed or Unpaywall; not read. Its design and results are quoted here from Ostrom and Sedikides (1992).",
+      "doi": "10.1037/0022-3514.53.4.703",
+      "url": "https://doi.org/10.1037/0022-3514.53.4.703",
+      "type": "primary"
+    },
+    {
+      "text": "Guinote, A. (2001). The perception of group variability in a non-minority and a minority context: When adaptation leads to out-group differentiation. British Journal of Social Psychology, 40(1), 117-132. Abstract read at Europe PMC; source for the reversal among Portuguese living in Germany. Full text not obtained, so no sample size is quoted.",
+      "doi": "10.1348/014466601164722",
+      "url": "https://europepmc.org/abstract/MED/11329830",
+      "type": "primary"
+    },
+    {
+      "text": "Essa, F., Rakoczy, H., & Diesendruck, G. (2025). Exploring the out-group homogeneity effect among Arab children in Israel: The roles of religion, contact, and group identification. Child Development, 96(3), 1148-1164. Abstract read at OpenAlex; source for the 272 Arab children and for the absence of the effect in that sample.",
+      "doi": "10.1111/cdev.14226",
+      "url": "https://api.openalex.org/works/doi:10.1111/cdev.14226",
+      "type": "primary"
+    },
+    {
+      "text": "Tepper, S. J., & Gilovich, T. (2025). The minority-groups homogeneity effect: Seeing members of different minority groups as more similar to each other than members of the majority. Journal of Personality and Social Psychology, 129(5), 888-909. Abstract read at PubMed. Listed because it is the nearest recent multi-study work, and it tests a different claim: that minority groups are seen as similar to each other.",
+      "doi": "10.1037/pspi0000476",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39404822/",
+      "type": "primary"
+    },
+    {
+      "text": "Rubin, M., & Badea, C. (2007). Why do people perceive ingroup homogeneity on ingroup traits and outgroup homogeneity on outgroup traits? Personality and Social Psychology Bulletin, 33(1), 31-42. Abstract read at OpenAlex; two minimal group experiments with 75 and 104 participants. Located and not read in full; no figure here comes from it.",
+      "doi": "10.1177/0146167206293190",
+      "url": "https://api.openalex.org/works/doi:10.1177/0146167206293190",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
