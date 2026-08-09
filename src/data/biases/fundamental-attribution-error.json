@@ -4,36 +4,59 @@
   "name": "Fundamental attribution error",
   "aliases": ["Correspondence bias", "Attribution effect", "Overattribution effect"],
   "category": "social",
-  "statement": "Watching someone do something, people read it as evidence of what that person is like, and go on doing so after being told the person had no choice.",
-  "meaning": "Behaviour has two kinds of cause: the person and the situation. The claim is that observers systematically overweight the first. The clean test removes the ambiguity entirely, by telling the observer that the situation dictated the behaviour, and then asking what the actor really thinks. If the observer's answer still tracks the behaviour, the inference is running on something other than the evidence. The name is contested inside the field: correspondence bias is the more careful term, because what is demonstrated is a pull toward matching disposition to act, rather than a general failure to see situations.",
+  "statement": "Watching someone argue a position, people read it as the person's real view, and go on doing so after being told the position was assigned.",
+  "meaning": "Three claims travel under this name and they are not the same claim. Correspondence bias is the narrow one: shown behaviour the situation forced, observers still infer a matching disposition. The fundamental attribution error is the broad one, that people overweight the person and underweight the situation in general. The actor-observer asymmetry is the third, that people explain their own behaviour by circumstances and other people's by character. The first is a laboratory demonstration with a specific design. The second is a theory about everyday judgement. The third is a separate hypothesis with its own literature, and it is the one that has collapsed.",
   "origin": {
     "year": 1967,
     "who": "Edward E. Jones and Victor A. Harris",
     "where": "Journal of Experimental Social Psychology",
-    "note": "Their paper is \"The attribution of attitudes\", and the phrase fundamental attribution error is not in it. Lee Ross coined that name a decade later, in 1977. Jones thought the phrase overly provocative and somewhat misleading; the alternative label correspondence bias is associated with Daniel Gilbert and others rather than with Jones himself."
+    "note": "Their paper is \"The attribution of attitudes\" and it reports three experiments. Its stated main hypothesis was that choice would matter more when the position argued was improbable, and that prediction was in the right direction but not significant in the first experiment. The result everyone now cites appears in the abstract as the first of four other findings of interest. Lee Ross named the fundamental attribution error a decade later, in his 1977 chapter on the intuitive psychologist."
   },
-  "evidence": "Participants read a student essay for or against capital punishment, are told the writer was assigned which side to argue, and then estimate what the writer actually believes. The estimates follow the essay. Miyamoto and Kitayama ran this to compare cultures: their American participants showed a large gap between what they attributed to pro-essay and anti-essay writers, d = 1.75, and their Japanese participants a smaller one, d = 0.53, which did not reach significance in a sample of 49.",
+  "evidence": "In Experiment I, 51 Duke undergraduates read an essay on Castro's Cuba and estimated the writer's true attitude on a scale running from 10, extreme anti, to 70, extreme pro. Told the writer had chosen the position, they rated the pro essayist at 59.62 and the anti essayist at 17.38. Told a course instructor had assigned it, they still rated the pro essayist at 44.10 and the anti essayist at 22.87, a difference at t = 5.32, p < .001. Cells held 10 to 15 people. Nalipay ran the same design in Manila in 2017 with 145 students and essays on the Philippine reproductive health law. Behaviour direction moved the attitude estimates, F(1) = 162.997; in the no-choice conditions the pro writer was rated 52.752 and the anti writer 31.500 on the same 10 to 70 scale.",
   "replication": {
     "state": "replicated",
-    "headline": "Across 7,197 people in 36 countries the effect came back at d = 1.82, marginally larger than the original and among the largest findings in the project.",
-    "detail": "Many Labs 2 re-ran the Miyamoto and Kitayama procedure with perceived constraint controlled for, as in the original. Participants rated the attitude of a writer assigned to argue for capital punishment at 10.98 on the scale and one assigned to argue against it at 4.45, an effect of d = 1.82 with a 95% confidence interval from 1.76 to 1.87. The original American figure was 1.75. This is a case where a fifty-year-old social-psychology finding held at full strength under preregistration, which is rarer in that literature than the size of this effect makes it look.",
+    "headline": "The attitude-attribution effect came back at d = 1.82 across 7,197 people in 36 countries. The actor-observer asymmetry it is routinely merged with pooled at d = 0.095 across 173 studies.",
+    "detail": "Many Labs 2 re-ran Miyamoto and Kitayama's version of the essay task, controlling for perceived constraint as the original did. Participants rated a writer assigned to argue for capital punishment at 10.98 on a 15-point scale and one assigned to argue against it at 4.45, d = 1.82 with a 95% confidence interval from 1.76 to 1.87. Many Labs 2 puts the original American effect at d = 2.47 and the original Japanese effect at d = 0.74, both computed by the replication team from a combined original sample of 107. The separate claim about actors and observers went the other way. Malle pooled 173 studies from 113 articles and 14,686 participants and found the internal-minus-external asymmetry at d = 0.095, 95% confidence interval 0.032 to 0.159, with internal and external scores taken alone indistinguishable from zero. Of the 173 studies, 68 had effects at or below zero and 97 failed to reach d = 0.20.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 125,
       "n": 7197
     },
-    "original": { "es": 1.75, "esType": "d", "ci": [1.14, 2.35], "ciLevel": 95 },
+    "original": { "es": 2.47, "esType": "d", "ci": [1.46, 3.49], "ciLevel": 95 },
     "replicated": { "es": 1.82, "esType": "d", "ci": [1.76, 1.87], "ciLevel": 95, "weighting": "aggregate" }
   },
-  "limits": "What replicated is the attitude-attribution effect, which is the demonstration rather than the theory. That people over-weight disposition in general, across everyday judgements, is a much broader claim and is not what this experiment measures. The original paper here was about cultural difference, and the replication was not designed to settle that comparison: its samples are aggregated across 36 countries rather than matched to the Japanese and American groups the 1.75 and 0.53 came from, so the entry reports the American original against a global replication. Whether the effect is weaker in East Asian samples remains open in this dataset.",
-  "misreadings": "The everyday use, that people blame others for circumstances while excusing themselves, blends two findings. The actor-observer asymmetry is the second one and it is a separate literature with weaker support. The word fundamental also does more work than the evidence licenses; the effect depends on how the situation is described, how diagnostic the behaviour looks, and how much the observer is asked to think, and none of those are properties of a universal defect. And the essay paradigm is not evidence that people ignore constraints, only that they discount them by less than the situation would justify.",
+  "limits": "What replicated is the attitude-attribution demonstration, not the theory around it. The cultural challenge is unresolved. Morris and Peng coded newspaper reports of two mass murders committed in autumn 1991 and found a personal to situational attribution ratio of 0.78 in The New York Times against 0.40 in the Chinese-language World Journal, t(4) = 7.34, p < .002, a test run across five coders. Many Labs 2 split its samples by a WEIRDness score and found this effect the same on both sides, 1.81 against 1.84, but that dichotomy is not the Japanese and American comparison Miyamoto and Kitayama ran. Nalipay's Manila replication lost the choice effect the original reported: whether the writer had picked the side made no difference there, F(1) = 0.850, p = .358. Jones and Harris's Table 1 is headed means and variances while their text calls the same row standard deviations, so no dispersion figure from Experiment I is quoted above.",
+  "misreadings": "The everyday version, that people blame others for circumstances and excuse themselves, is the actor-observer asymmetry, and Malle's meta-analysis is the reason to stop repeating it. Malle also draws the distinction the textbooks blur. Correspondence bias concerns inferring a trait from a behaviour; the actor-observer hypothesis concerns how a behaviour is explained, and he argues the two processes come apart. His result leaves correspondence bias standing and he says so in the paper. What it damages is the fundamental attribution error stated as a claim about explanations, such as Ross and Nisbett's line that people offer dispositional explanations instead of situational ones. Malle estimates that traits account for 5% to 10% of the roughly 10,000 verbal explanations he has collected, and that about 95% of the data on the error come from controlled laboratory experiments rather than surveys, observation or archives. The word fundamental carries more than any of that licenses.",
   "sources": [
     {
       "text": "Jones, E. E., & Harris, V. A. (1967). The attribution of attitudes. Journal of Experimental Social Psychology, 3(1), 1-24.",
       "doi": "10.1016/0022-1031(67)90034-0",
       "url": "https://doi.org/10.1016/0022-1031(67)90034-0",
+      "type": "primary"
+    },
+    {
+      "text": "Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. Advances in Experimental Social Psychology, 10, 173-220.",
+      "doi": "10.1016/S0065-2601(08)60357-3",
+      "url": "https://doi.org/10.1016/S0065-2601(08)60357-3",
+      "type": "commentary"
+    },
+    {
+      "text": "Gilbert, D. T., & Malone, P. S. (1995). The correspondence bias. Psychological Bulletin, 117(1), 21-38.",
+      "doi": "10.1037/0033-2909.117.1.21",
+      "url": "https://doi.org/10.1037/0033-2909.117.1.21",
+      "type": "commentary"
+    },
+    {
+      "text": "Malle, B. F. (2006). The actor-observer asymmetry in attribution: A (surprising) meta-analysis. Psychological Bulletin, 132(6), 895-919.",
+      "doi": "10.1037/0033-2909.132.6.895",
+      "url": "https://doi.org/10.1037/0033-2909.132.6.895",
+      "type": "replication"
+    },
+    {
+      "text": "Morris, M. W., & Peng, K. (1994). Culture and cause: American and Chinese attributions for social and physical events. Journal of Personality and Social Psychology, 67(6), 949-971.",
+      "doi": "10.1037/0022-3514.67.6.949",
+      "url": "https://doi.org/10.1037/0022-3514.67.6.949",
       "type": "primary"
     },
     {
@@ -43,11 +66,16 @@
       "type": "primary"
     },
     {
+      "text": "Nalipay, M. J. N. (2017). Correspondence bias in the attribution of political attitudes (A replication of Jones and Harris's (1967) experiment on correspondence bias). Philippine Journal of Psychology, 50(2).",
+      "url": "https://pap.ph/assets/files/journals/correspondence-bias-in-the-attribution-of-political-attitudes-a-replication-of-jones-and-harriss.pdf",
+      "type": "replication"
+    },
+    {
       "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "url": "https://doi.org/10.1177/2515245918810225",
       "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
