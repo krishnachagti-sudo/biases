@@ -12,22 +12,22 @@
     "where": "Journal of Experimental Psychology: General",
     "note": "Their paper is \"Overcoming intuition: Metacognitive difficulty activates analytic reasoning\". It became one of the most-cited findings in applied typography and in education, where it is usually reported as a practical recommendation rather than as a laboratory result."
   },
-  "evidence": "Forty-one participants solved syllogisms printed in either black 12-point type or in grey italic 10-point type. On the two moderately difficult items, 64% of the hard-to-read group answered correctly against 42% of the easy-to-read group, an effect of d = 0.64 whose confidence interval ran from -0.004 to 1.27. The interval includes zero, and the reported p value was 0.051.",
+  "evidence": "Forty-one participants solved syllogisms printed in either black 12-point type or in grey italic 10-point type. On the two moderately difficult items, 64% of the hard-to-read group answered correctly against 42% of the easy-to-read group, t(39) = 2.01, p = .051. Many Labs 2 puts that at d = 0.63, with a 95% confidence interval from -0.004 to 1.25. The interval includes zero. Alter et al.'s paper is paywalled, so the figures here are as Many Labs 2 restates them.",
   "replication": {
     "state": "failed",
     "headline": "In 2,580 people tested in laboratories, in English, the hard-to-read group answered no more syllogisms correctly than the easy-to-read group.",
-    "detail": "Many Labs 2 restricted the confirmatory test to English in-laboratory samples on the original authors' advice, for two good reasons: online participants can zoom in and defeat the manipulation, and translated versions might not support the original typeface. In that subsample the hard-to-read group averaged 1.10 syllogisms correct and the easy-to-read group 1.13, giving d = -0.03 with a 95% confidence interval from -0.11 to 0.05. The fonts were the same two the original specified, black Myriad Web 12-point against 10% grey italicised Myriad Web 10-point.",
+    "detail": "Many Labs 2 restricted the confirmatory test to English in-laboratory samples on the original authors' advice, for two good reasons: online participants can zoom in and defeat the manipulation, and translated versions might not support the original typeface. In that subsample the hard-to-read group averaged 1.10 syllogisms correct and the easy-to-read group 1.13, giving d = -0.03 with a 95% confidence interval from -0.08 to 0.01. The full replication sample of 6,935 participants gave the same estimate and the same interval. The fonts were the same two the original specified, black Myriad Web 12-point against 10% grey italicised Myriad Web 10-point.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
       "n": 2580
     },
-    "original": { "es": 0.64, "esType": "d", "ci": [-0.004, 1.27], "ciLevel": 95 },
-    "replicated": { "es": -0.03, "esType": "d", "ci": [-0.11, 0.05], "ciLevel": 95, "weighting": "aggregate" }
+    "original": { "es": 0.63, "esType": "d", "ci": [-0.004, 1.25], "ciLevel": 95 },
+    "replicated": { "es": -0.03, "esType": "d", "ci": [-0.08, 0.01], "ciLevel": 95, "weighting": "English in-laboratory subsample" }
   },
-  "limits": "The replication also had to decide which syllogisms counted as moderately difficult, since that varies by sample, and it did so by dropping items answered correctly by fewer than 25% or more than 75% of participants within each sample rather than by fixing the same two items everywhere. That is a defensible choice and it is a departure from the original. The 2,580 figure is the in-laboratory English subsample rather than the full project sample, and it is the number the confirmatory analysis used. What is being tested here is disfluency produced by typography on syllogisms; other manipulations of processing difficulty, and other tasks, are outside this result.",
-  "misreadings": "The finding travelled into design and teaching advice as though it were settled: set your handouts in something awkward and students will think harder. That advice has never had strong support and now has a well-powered null against it. It is also frequently merged with desirable difficulties in learning, a separate and better-supported literature about spacing, testing and generation, none of which is about fonts. And the original's own interval already ran from below zero to 1.27 at p = 0.051, so the result was borderline in the paper that reported it.",
+  "limits": "The replication also had to decide which syllogisms counted as moderately difficult, since that varies by sample, and it did so by dropping items answered correctly by fewer than 25% or more than 75% of participants within each sample rather than by fixing the same two items everywhere. That is a defensible choice and it is a departure from the original. The 2,580 figure is the in-laboratory English subsample rather than the full project sample, and it is the number the confirmatory analysis used. Many Labs 2 gives the original effect as 0.63 in its summary table and as 0.64 in one comparison sentence, and the table figure is the one used here. What is being tested here is disfluency produced by typography on syllogisms; other manipulations of processing difficulty, and other tasks, are outside this result.",
+  "misreadings": "The finding travelled into design and teaching advice as though it were settled: set your handouts in something awkward and students will think harder. That advice has never had strong support and now has a well-powered null against it. It is also frequently merged with desirable difficulties in learning, a separate and better-supported literature about spacing, testing and generation, none of which is about fonts. And the original's own test came out at p = 0.051, so the result was borderline in the paper that reported it. The font claim has failed elsewhere as well. Meyer and colleagues pooled Alter et al.'s first experiment with 16 replication attempts, 3,657 participants in normal font and 3,710 in disfluent font, and found Cognitive Reflection Test scores of 1.43 and 1.42, t = 0.32, p = .75. That work used maths problems rather than syllogisms, so it bears on the wider claim rather than on the experiment Many Labs 2 repeated.",
   "sources": [
     {
       "text": "Alter, A. L., Oppenheimer, D. M., Epley, N., & Eyre, R. N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. Journal of Experimental Psychology: General, 136(4), 569-576.",
@@ -40,7 +40,13 @@
       "doi": "10.1177/2515245918810225",
       "url": "https://doi.org/10.1177/2515245918810225",
       "type": "replication"
+    },
+    {
+      "text": "Meyer, A., Frederick, S., Burnham, T. C., Guevara Pinto, J. D., Boyer, T. W., Ball, L. J., Pennycook, G., Ackerman, R., Thompson, V. A., & Schuldt, J. P. (2015). Disfluent fonts don't help people solve math problems. Journal of Experimental Psychology: General, 144(2), e16-e30.",
+      "doi": "10.1037/xge0000049",
+      "url": "https://doi.org/10.1037/xge0000049",
+      "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }

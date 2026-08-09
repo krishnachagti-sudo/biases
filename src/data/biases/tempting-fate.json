@@ -12,22 +12,21 @@
     "where": "Journal of Personality and Social Psychology",
     "note": "The paper is \"Why people are reluctant to tempt fate\", and it argues the effect survives in people who explicitly reject the belief, which is what makes it a bias rather than a doctrine."
   },
-  "evidence": "In the study that was retested, 120 participants read that they, or a classmate, had either come to class prepared or had not done the reading, and then estimated how likely it was that the professor would call on them. Unprepared, they put it at 3.43 on the scale; prepared, at 2.53. The original design included both self and other versions and found no difference between them, so the replication ran the self conditions only, with the original authors' agreement.",
+  "evidence": "In the study that was retested, 120 participants read that they, or a classmate, had either come to class prepared or had not done the reading, and then estimated how likely it was that the professor would call on them. Unprepared, they put it at 3.43 on the ten-point scale; prepared, at 2.53. Risen and Gilovich's paper is paywalled, so these figures are as Many Labs 2 restates them. The original design included both self and other versions and found no difference between them, so the replication ran the self conditions only, with the original authors' agreement.",
   "replication": {
-    "state": "replicated",
-    "headline": "The effect came back across 8,000 people in 36 countries, at less than half the size the original reported.",
-    "detail": "Participants who imagined turning up unprepared rated the chance of being called on at 4.58, against 4.14 for those who had done the reading, giving d = 0.18 with a 95% confidence interval from 0.14 to 0.22. The original was d = 0.39, interval 0.03 to 0.75. So the direction held, the interval is tight, and the effect is real and small. The shrinkage from 0.39 to 0.18 is the pattern most surviving effects in this project show, and an original interval that ran from 0.03 to 0.75 was never precise enough to rule the smaller value out.",
+    "state": "mixed",
+    "headline": "The classroom version came back across 8,000 people at less than half the original size, while a later four-site replication of the cognitive-load version found nothing.",
+    "detail": "In Many Labs 2, participants who imagined turning up unprepared rated the chance of being called on at 4.58, against 4.14 for those who had done the reading, giving d = 0.18 with a 95% confidence interval from 0.14 to 0.22. The original was d = 0.39, interval 0.03 to 0.75. The key confirmatory test, restricted to the 4,599 undergraduates, gave d = 0.22 with an interval from 0.17 to 0.28. Many Labs 5 then took the other half of Risen and Gilovich's claim, that the effect grows under cognitive load. Working with the original authors on a new protocol, it ran four university sites chosen to resemble the original site, 754 participants in all, and found neither the interaction nor the main effect. Six less similar universities gave the same answer.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 125,
       "n": 8000
     },
     "original": { "es": 0.39, "esType": "d", "ci": [0.03, 0.75], "ciLevel": 95 },
     "replicated": { "es": 0.18, "esType": "d", "ci": [0.14, 0.22], "ciLevel": 95, "weighting": "aggregate" }
   },
-  "limits": "The scenario is academic and the original authors expected it to work best on students, so they asked for the confirmatory test to use undergraduate samples only. The figure above is the full aggregate across all 8,000 participants rather than that subsample. The measure is also a rating of subjective likelihood in a hypothetical situation, which is a long way from anyone changing what they do, and the entry has nothing to say about whether the effect influences behaviour.",
+  "limits": "The scenario is academic and the original authors expected it to work best on students, so they asked for the confirmatory test to use undergraduate samples only. The structured figures above are the full aggregate across all 8,000 participants rather than that subsample of 4,599. The two replications also tested different things: Many Labs 2 repeated the classroom scenario without cognitive load, and Many Labs 5 targeted the load interaction, so the second is not a straight rerun of the first. The measure is also a rating of subjective likelihood in a hypothetical situation, which is a long way from anyone changing what they do, and the entry has nothing to say about whether the effect influences behaviour.",
   "misreadings": "The effect is often described as evidence that people are superstitious. Risen and Gilovich's own account runs the other way: the judgement is produced by how easily the ironic outcome comes to mind, and it appears in people who deny believing in fate at all. Reading it as a belief also predicts the wrong things, because a belief should be arguable and this is not. And a d of 0.18 is a nudge to a probability estimate, not a conviction that the universe is watching.",
   "sources": [
     {
@@ -41,7 +40,13 @@
       "doi": "10.1177/2515245918810225",
       "url": "https://doi.org/10.1177/2515245918810225",
       "type": "replication"
+    },
+    {
+      "text": "Mathur, M. B., Bart-Plange, D.-J., Aczel, B., et al. (2020). Many Labs 5: Registered Multisite Replication of the Tempting-Fate Effects in Risen and Gilovich (2008). Advances in Methods and Practices in Psychological Science, 3(3), 394-404.",
+      "doi": "10.1177/2515245918785165",
+      "url": "https://doi.org/10.1177/2515245918785165",
+      "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
