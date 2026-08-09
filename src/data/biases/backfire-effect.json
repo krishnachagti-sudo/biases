@@ -1,0 +1,119 @@
+{
+  "no": 157,
+  "slug": "backfire-effect",
+  "name": "Backfire effect",
+  "aliases": ["Worldview backfire effect", "Familiarity backfire effect", "Overkill backfire effect", "Backlash effect"],
+  "category": "belief",
+  "statement": "Correcting a false claim was said to make the people most attached to it believe it more strongly, and the large replication attempts have not found that.",
+  "meaning": "A backfire effect is a reversal, not a failure. The correction has to leave belief in the misconception higher than it was before, or higher than in a group given no correction. Weaker outcomes have their own names and are not the same thing. Under the continued influence effect people go on using discredited information while still moving in the direction the correction pushed. Under belief regression they update and then drift back. Three named mechanisms have been proposed for a true reversal. The worldview version says a correction that threatens someone's political identity provokes counterarguing. The familiarity version says repeating a myth in order to deny it makes it feel truer. The overkill version says piling on counterarguments is less persuasive than offering a few. Swire-Thompson, DeGutis and Lazer review the first two and treat them as distinct psychological claims. The overkill version comes from the 2011 Debunking Handbook rather than that review.",
+  "origin": {
+    "year": 2010,
+    "who": "Brendan Nyhan and Jason Reifler",
+    "where": "Political Behavior",
+    "note": "Their paper \"When corrections fail\" reports four experiments in which undergraduates read a mock news article containing a politician's dubious claim, with or without a paragraph correcting it. The paper coined the label, always in quotation marks, and Nyhan later described the underlying data collection as five experiments run in 2005 and 2006 at a Catholic university in the Midwest."
+  },
+  "evidence": "The four published experiments used a five-point agreement scale and looked for an interaction between the correction and a seven-point ideology scale. Study 1, run in autumn 2005 with 130 participants, corrected the claim that Iraq had weapons of mass destruction before the 2003 invasion. The correction by ideology interaction was 0.359 with a standard error of 0.127, and the marginal effect of the correction was positive and significant for subjects right of centre. In the raw data, agreement among conservatives went from 32% in the control condition to 64% with the correction, against 22% to 13% for everyone else. Study 2, run in spring 2006 with 195 subjects analysed, ran three experiments. The tax cut experiment produced the second reversal, an interaction of 0.198 with a standard error of 0.089, and agreement among conservatives rising from 36% to 67% against 31% to 28% for the rest. The second Iraq experiment went the other way: the interaction was -0.258 with a standard error of 0.097, meaning the correction worked on conservatives. Nyhan and Reifler recovered the original pattern only in a post hoc subgroup of people who named Iraq the most important problem facing the country, a group of 34 respondents of whom eight sat right of centre. The stem cell experiment found no reversal at all, only a correction that worked on conservatives and moderates and not on liberals. Two of the four experiments backfired, one reversed, and one did not.",
+  "replication": {
+    "state": "failed",
+    "headline": "Wood and Porter tested 52 issues on more than 10,100 subjects and found no correction that triggered a backfire.",
+    "detail": "Wood and Porter ran five experiments chosen to be the polarised issues where a reversal should be easiest to produce. Their samples were 3,127, 2,801, 977 and 1,333 respondents from Mechanical Turk, plus a final pair of 995 from the Lucid national panel and 1,024 from Turk fielded together in June 2017. Across all of it they report no corrections capable of triggering backfire. They also re-ran Nyhan and Reifler's own Iraq article and randomised the survey item. With the original long item, respondents ignored the correction and inferred nothing from it, which the authors call a partial replication. With a plain item reading that US forces did not find weapons of mass destruction after the 2003 invasion, liberals took the correction on board. A further experiment wrote simple, moderate and complex versions of items on six issues and found no reversal in any of the 18 combinations, though conservatives showed less factual uptake as items grew more elaborate. An earlier working version of the same project, with four experiments, 8,100 subjects and 36 issues, had reported one issue capable of backfiring, and that issue was Iraq. Haglin re-ran Nyhan and Reifler's flu vaccine study and did not reproduce the effect. Swire-Thompson and colleagues then supplied a mechanism for the pattern of failures. In two near-identical longitudinal experiments with 388 and 532 participants rating 21 misinformation items, no item backfired more under correction than under a test-retest control, and how often an item appeared to backfire tracked how unreliable the item was, at rho of -0.61 and -0.73. Items rated important or strongly believed, the worldview markers, predicted nothing. Nyhan wrote in 2021 that backfire effects are extremely rare in practice and that his own results had been read as showing something they do not show. The Debunking Handbook was rewritten in 2020 to tell communicators not to withhold a correction for fear it will backfire.",
+    "study": {
+      "cite": "Wood, T., & Porter, E. (2019). The elusive backfire effect: Mass attitudes' steadfast factual adherence. Political Behavior, 41(1), 135-163.",
+      "doi": "10.1007/s11109-018-9443-y",
+      "year": 2019
+    }
+  },
+  "limits": "What failed is the group-level claim. Isolated subgroup findings were published and have not all been re-tested. Nyhan, Reifler, Richey and Freed's trial of 1,759 US parents found that refuting the MMR and autism link reduced the misperception yet lowered vaccination intent among parents holding the least favourable vaccine attitudes, which is a reversal on a different outcome from the one corrected. Swire-Thompson and colleagues note that such findings sit almost entirely in political or attitudinal subgroups rather than whole samples, that 81% of the backfire effects in their review came from single-item measures, and that the share of backfire effects found with single items, 37%, exceeded the share found with multi-item measures, 8%, at Z = 2.96, p = .003. Nobody has re-run Nyhan and Reifler's protocol on their original population. Wood and Porter used Mechanical Turk and an online panel; the 2010 studies used undergraduates for course credit. Swire-Thompson and colleagues also leave the door open in principle, saying it remains theoretically possible that a familiarity boost outweighs a correction, for instance under divided attention, and that this has not been observed. No multi-laboratory replication project has taken the effect on.",
+  "misreadings": "The backfire effect is not the continued influence effect, and the second one replicates. Walter and Tukachinsky pooled 32 studies and 6,527 people and found that correction does not entirely eliminate the influence of misinformation, at r = -.05, p = .045. Chan, Jones, Hall Jamieson and Albarracin pooled 52 studies and 6,878 people and put debunking at d = 1.14 to 1.33 and the residual persistence of the misinformation at d = 0.75 to 1.06. Corrections work and leave a residue. That is the finding people reach for when they say facts do not change minds, and it says the opposite. Nor is the familiarity version the illusory truth effect: repetition without a correction does raise belief, and repetition inside a clear correction does not, with a meta-analysis of 10 studies finding no difference in belief updating between corrections that repeat the myth and corrections that do not. Reactance is a third thing again, a response to a threatened freedom rather than to a fact. The retraction should not be read as a scandal. Nyhan and Reifler labelled their subgroup analyses as exploratory in 2010, collaborated with Wood and Porter on the follow-up work, and Nyhan published the correction of his own most-cited finding in PNAS. His argument there is that misperceptions persist for other reasons, including corrections whose effects decay, poor targeting, and a steady supply of contrary cues from political elites.",
+  "sources": [
+    {
+      "text": "Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions. Political Behavior, 32(2), 303-330.",
+      "doi": "10.1007/s11109-010-9112-2",
+      "url": "https://doi.org/10.1007/s11109-010-9112-2",
+      "type": "primary"
+    },
+    {
+      "text": "Wood, T., & Porter, E. (2019). The elusive backfire effect: Mass attitudes' steadfast factual adherence. Political Behavior, 41(1), 135-163.",
+      "doi": "10.1007/s11109-018-9443-y",
+      "url": "https://doi.org/10.1007/s11109-018-9443-y",
+      "type": "replication"
+    },
+    {
+      "text": "Wood, T., & Porter, E. (2016). The elusive backfire effect: mass attitudes' steadfast factual adherence. Working paper dated 5 August 2016, reporting four experiments, 8,100 subjects and 36 issues. Cited here only for what the earlier version claimed.",
+      "url": "https://www.djflynn.org/wp-content/uploads/2016/08/elusive-backfire-effect-wood-porter.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Swire-Thompson, B., DeGutis, J., & Lazer, D. (2020). Searching for the backfire effect: Measurement and design considerations. Journal of Applied Research in Memory and Cognition, 9(3), 286-299.",
+      "doi": "10.1016/j.jarmac.2020.06.006",
+      "url": "https://doi.org/10.1016/j.jarmac.2020.06.006",
+      "type": "commentary"
+    },
+    {
+      "text": "Swire-Thompson, B., Miklaucic, N., Wihbey, J. P., Lazer, D., & DeGutis, J. (2022). The backfire effect after correcting misinformation is strongly associated with reliability. Journal of Experimental Psychology: General, 151(7), 1655-1665.",
+      "doi": "10.1037/xge0001131",
+      "url": "https://doi.org/10.1037/xge0001131",
+      "type": "replication"
+    },
+    {
+      "text": "Nyhan, B. (2021). Why the backfire effect does not explain the durability of political misperceptions. Proceedings of the National Academy of Sciences, 118(15), e1912440117.",
+      "doi": "10.1073/pnas.1912440117",
+      "url": "https://doi.org/10.1073/pnas.1912440117",
+      "type": "commentary"
+    },
+    {
+      "text": "Haglin, K. (2017). The limitations of the backfire effect. Research & Politics, 4(3).",
+      "doi": "10.1177/2053168017716547",
+      "url": "https://doi.org/10.1177/2053168017716547",
+      "type": "replication"
+    },
+    {
+      "text": "Nyhan, B., Reifler, J., Richey, S., & Freed, G. L. (2014). Effective messages in vaccine promotion: A randomized trial. Pediatrics, 133(4), e835-e842.",
+      "doi": "10.1542/peds.2013-2365",
+      "url": "https://doi.org/10.1542/peds.2013-2365",
+      "type": "primary"
+    },
+    {
+      "text": "Nyhan, B., & Reifler, J. (2015). Does correcting myths about the flu vaccine work? An experimental evaluation of the effects of corrective information. Vaccine, 33(3), 459-464.",
+      "doi": "10.1016/j.vaccine.2014.11.017",
+      "url": "https://doi.org/10.1016/j.vaccine.2014.11.017",
+      "type": "primary"
+    },
+    {
+      "text": "Nyhan, B., Porter, E., Reifler, J., & Wood, T. J. (2020). Taking fact-checks literally but not seriously? The effects of journalistic fact-checking on factual beliefs and candidate favorability. Political Behavior, 42(3), 939-960.",
+      "doi": "10.1007/s11109-019-09528-x",
+      "url": "https://doi.org/10.1007/s11109-019-09528-x",
+      "type": "replication"
+    },
+    {
+      "text": "Walter, N., & Tukachinsky, R. (2020). A meta-analytic examination of the continued influence of misinformation in the face of correction. Communication Research, 47(2), 155-177. Figures quoted here from the abstract at Crossref.",
+      "doi": "10.1177/0093650219854600",
+      "url": "https://doi.org/10.1177/0093650219854600",
+      "type": "commentary"
+    },
+    {
+      "text": "Chan, M. S., Jones, C. R., Hall Jamieson, K., & Albarracin, D. (2017). Debunking: A meta-analysis of the psychological efficacy of messages countering misinformation. Psychological Science, 28(11), 1531-1546. Figures quoted here from the abstract at Crossref.",
+      "doi": "10.1177/0956797617714579",
+      "url": "https://doi.org/10.1177/0956797617714579",
+      "type": "commentary"
+    },
+    {
+      "text": "Cook, J., & Lewandowsky, S. (2011). The Debunking Handbook, Part 3: The overkill backfire effect. Posted 20 November 2011. The source for the overkill variant, which the 2020 review by Swire-Thompson and colleagues does not cover.",
+      "url": "https://skepticalscience.com/Debunking-Handbook-Part-3-Overkill-Backfire-Effect.html",
+      "type": "primary"
+    },
+    {
+      "text": "Lewandowsky, S., Cook, J., Lombardi, D., et al. (2020). The Debunking Handbook 2020. Databrary.",
+      "doi": "10.17910/b7.1182",
+      "url": "https://doi.org/10.17910/b7.1182",
+      "type": "commentary"
+    },
+    {
+      "text": "Ecker, U. K. H., Lewandowsky, S., Cook, J., Schmid, P., Fazio, L. K., Brashier, N., Kendeou, P., Vraga, E. K., & Amazeen, M. A. (2022). The psychological drivers of misinformation belief and its resistance to correction. Nature Reviews Psychology, 1(1), 13-29.",
+      "doi": "10.1038/s44159-021-00006-y",
+      "url": "https://doi.org/10.1038/s44159-021-00006-y",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
