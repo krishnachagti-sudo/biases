@@ -1,0 +1,132 @@
+{
+  "no": 84,
+  "slug": "mindset",
+  "name": "Mindset",
+  "aliases": [
+    "Growth mindset",
+    "Fixed mindset",
+    "Implicit theories of intelligence",
+    "Entity and incremental theories"
+  ],
+  "category": "belief",
+  "statement": "Students who believe intelligence can be developed achieve more than students who believe it is fixed, and brief lessons teaching that belief raise achievement.",
+  "meaning": "Dweck and Leggett proposed that people hold implicit theories about their own attributes. An entity theory treats intelligence as a stable quantity; an incremental theory treats it as something effort and strategy can grow. The theory says the two orient a person towards different goals, so a setback reads as a verdict under one theory and as information under the other. Three separate claims grew out of this, and they need separate evidence. The first is correlational: growth-minded students get better grades. The second is causal: a short lesson in malleability raises grades. The third is about praise: telling a child she is clever, rather than that she worked hard, pushes her towards a fixed view and towards giving up after failure.",
+  "origin": {
+    "year": 1988,
+    "who": "Carol S. Dweck and Ellen L. Leggett",
+    "where": "Psychological Review",
+    "note": "\"A social-cognitive approach to motivation and personality\" set out the model linking implicit theories to goals and to mastery-oriented or helpless responses. The classroom claims that made the idea famous came later, in Mueller and Dweck's 1998 praise studies and Blackwell, Trzesniewski and Dweck's 2007 longitudinal study and intervention."
+  },
+  "evidence": "Mueller and Dweck ran six studies with fifth graders. Children praised for intelligence after success cared more about performance goals than learning goals, and after a subsequent failure they persisted less, enjoyed the task less, attributed failure to low ability more, and performed worse than children praised for effort. Blackwell, Trzesniewski and Dweck followed 373 seventh graders across the junior-high transition. Holding an incremental theory predicted rising grades over two years, while an entity theory predicted a flat trajectory. Their Study 2 was the intervention: 48 seventh graders taught an incremental theory against 43 controls. The control group's grades kept falling and the taught group's decline reversed. That reversal, in a sample of 91, is the study most often cited as showing the intervention works.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The correlation is real and small, at r = .10; the intervention gave lower-achieving American teenagers 0.10 of a grade point and nothing to higher achievers, and gave 5,018 English pupils nothing at all.",
+    "detail": "Sisk, Burgoyne, Sun, Butler and Macnamara ran two meta-analyses. The first pooled 273 effect sizes from 162 independent samples in 129 studies, N = 365,915, and found r = .10, 95% CI [.08, .13]. Heterogeneity was I2 = 96.29. Of the 273 effect sizes, 157 did not differ from zero and 16 were negative. Their second pooled 43 effect sizes from 29 intervention studies, N = 57,155, giving d = 0.08, 95% CI [0.02, 0.14]. Low socioeconomic status was the one student moderator that mattered: d = 0.34, 95% CI [0.07, 0.62] on seven effect sizes, against d = 0.03 for middle-class and upper-class students. Yeager and 25 co-authors, Dweck among them, then ran the National Study of Learning Mindsets, a preregistered trial in a nationally representative sample of 12,490 ninth graders across 65 American public schools. Among the pre-registered target group of 6,320 lower-achieving students, a treatment lasting under an hour raised core-course grade point average by 0.10 grade points, 95% CI [0.04, 0.16], a standardised effect of 0.11. Higher-achieving students gained 0.01 grade points, 95% CI [-0.03, 0.06], p = 0.634. An exploratory analysis found advanced-mathematics enrolment in tenth grade rose 3 percentage points, from 33% to 36%. Foliano, Rolfe, Buzzeo, Runge and Wilkinson's English trial for the Education Endowment Foundation randomised 101 schools and 5,018 Year 6 pupils and measured national Key Stage 2 tests. Maths came out at -0.01, 95% CI [-0.04, 0.01]; reading and grammar at -0.00. Two meta-analyses then reached opposite conclusions in the same 2023 issue of Psychological Bulletin. Macnamara and Burgoyne, across 63 studies and 97,672 students, found d = 0.05, 95% CI [0.02, 0.09], which lost statistical support once they corrected for publication bias, and d = 0.02, 95% CI [-0.06, 0.10] across the six studies they rated highest quality. Burnette, Billingsley, Banks, Knouse, Hoyt, Pollack and Simon, across 53 independent samples, restricted attention to targeted subsamples receiving high-fidelity delivery and found d = 0.14, 95% CI [.06, .22], with a 95% prediction interval from -0.08 to 0.35. The praise claim has its own record. Li and Bates tested 624 Chinese children aged 9 to 13. Their Study 1 closely repeated Mueller and Dweck and matched none of the eight motivation and attribution measures, mean p = .48. Studies 2 and 3 added an active control and found nothing, and children's mindsets were unrelated to resilience after failure. Bennett-Pierre, Chernuta, Altamimi and Gunderson gave 150 American children of about eight years process praise, person praise, two forms of easy feedback or a control before a failure. Their preregistered primary analyses found no difference in persistence or self-evaluation between person and process praise.",
+    "study": {
+      "cite": "Yeager, D. S., Hanselman, P., Walton, G. M., et al. (2019). A national experiment reveals where a growth mindset improves achievement. Nature, 573(7774), 364-369.",
+      "doi": "10.1038/s41586-019-1466-y",
+      "year": 2019,
+      "sites": 65,
+      "n": 12490
+    },
+    "replicated": {
+      "es": 0.1,
+      "esType": "md",
+      "unit": "grade points of core ninth-grade GPA, lower-achieving students only",
+      "ci": [
+        0.04,
+        0.16
+      ],
+      "ciLevel": 95,
+      "weighting": "pre-registered target subgroup, n = 6,320"
+    }
+  },
+  "limits": "The three claims run out in different places. The correlation survives and is small, and Sisk's own heterogeneity of I2 = 96.29 means a single pooled r describes the literature poorly. Yeager and Dweck make that point against the meta-analysis and argue its random-effects weighting gave tiny convenience samples roughly the weight of the large representative ones. Their figures are quoted here from the public-access accepted manuscript rather than the published American Psychologist article, and that manuscript prints the pooled correlation as .09 where the published meta-analysis prints .10. Dweck is not an author of any of the 2023 commentaries on Macnamara and Burgoyne; the reply carrying Yeager's name is by Tipton, Bryan, Murray, McDaniel, Schneider and Yeager, and it is about how meta-analyses should handle heterogeneity rather than about a specific number. The English trial is an evaluation report, not a peer-reviewed paper, and carries no DOI. No multi-site preregistered replication of the praise studies on the scale of a Registered Replication Report was located. Searching covered Crossref, OpenAlex, PubMed and general web search.",
+  "misreadings": "The Nature trial is widely reported as showing that growth mindset works. What it shows is 0.10 of a grade point on a four-point scale, for lower-achieving students only, in schools where peer norms supported the message. Higher-achieving students in the same trial gained 0.01 grade points and the interval crossed zero. Sisk's first meta-analysis is often described as covering 273 studies. It covers 129 studies, which contributed 162 independent samples and 273 effect sizes. The three claims are also treated as one. A surviving correlation of r = .10 does not carry the intervention claim, and a working intervention would not by itself rescue the praise claim, which two independent preregistered efforts have failed to reproduce. The opposite error is to read Macnamara and Burgoyne's near-zero estimate as the field's verdict. Burnette and colleagues published a different answer in the same issue of the same journal, from a different inclusion rule, and both papers are in print.",
+  "sources": [
+    {
+      "text": "Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. Psychological Review, 95(2), 256-273.",
+      "doi": "10.1037/0033-295X.95.2.256",
+      "url": "https://doi.org/10.1037/0033-295X.95.2.256",
+      "type": "primary"
+    },
+    {
+      "text": "Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. Journal of Personality and Social Psychology, 75(1), 33-52.",
+      "doi": "10.1037/0022-3514.75.1.33",
+      "url": "https://doi.org/10.1037/0022-3514.75.1.33",
+      "type": "primary"
+    },
+    {
+      "text": "Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. Child Development, 78(1), 246-263.",
+      "doi": "10.1111/j.1467-8624.2007.00995.x",
+      "url": "https://doi.org/10.1111/j.1467-8624.2007.00995.x",
+      "type": "primary"
+    },
+    {
+      "text": "Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. Psychological Science, 29(4), 549-571. Figures here are read from the author-hosted copy at https://artscimedia.case.edu/wp-content/uploads/sites/141/2018/10/03145228/Sisk-et-al.-2018.pdf",
+      "doi": "10.1177/0956797617739704",
+      "url": "https://doi.org/10.1177/0956797617739704",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Yeager, D. S., Hanselman, P., Walton, G. M., et al. (2019). A national experiment reveals where a growth mindset improves achievement. Nature, 573(7774), 364-369.",
+      "doi": "10.1038/s41586-019-1466-y",
+      "url": "https://doi.org/10.1038/s41586-019-1466-y",
+      "type": "replication"
+    },
+    {
+      "text": "Foliano, F., Rolfe, H., Buzzeo, J., Runge, J., & Wilkinson, D. (2019). Changing Mindsets: Effectiveness trial. Evaluation report, Education Endowment Foundation, July 2019. Not peer reviewed and carries no DOI.",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10118795/11/Foliano_Changing%20Mindsets.%20Effectiveness%20trial_report_VoR2.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Li, Y., & Bates, T. C. (2019). You can't change your basic ability, but you work at things, and that's how we get hard things done: Testing the role of growth mindset on response to setbacks, educational attainment, and cognitive ability. Journal of Experimental Psychology: General, 148(9), 1640-1655.",
+      "doi": "10.1037/xge0000669",
+      "url": "https://doi.org/10.1037/xge0000669",
+      "type": "replication"
+    },
+    {
+      "text": "Li, Y., & Bates, T. C. (2020). Testing the association of growth mindset and grades across a challenging transition: Is growth mindset associated with grades? Intelligence, 81, 101471.",
+      "doi": "10.1016/j.intell.2020.101471",
+      "url": "https://doi.org/10.1016/j.intell.2020.101471",
+      "type": "replication"
+    },
+    {
+      "text": "Bennett-Pierre, G., Chernuta, T., Altamimi, R., & Gunderson, E. A. (2024). Effects of praise and \"easy\" feedback on children's persistence and self-evaluations. Journal of Experimental Child Psychology, 247, 106032.",
+      "doi": "10.1016/j.jecp.2024.106032",
+      "url": "https://doi.org/10.1016/j.jecp.2024.106032",
+      "type": "replication"
+    },
+    {
+      "text": "Macnamara, B. N., & Burgoyne, A. P. (2023). Do growth mindset interventions impact students' academic achievement? A systematic review and meta-analysis with recommendations for best practices. Psychological Bulletin, 149(3-4), 133-173.",
+      "doi": "10.1037/bul0000352",
+      "url": "https://doi.org/10.1037/bul0000352",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Burnette, J. L., Billingsley, J., Banks, G. C., Knouse, L. E., Hoyt, C. L., Pollack, J. M., & Simon, S. (2023). A systematic review and meta-analysis of growth mindset interventions: For whom, how, and why might such interventions work? Psychological Bulletin, 149(3-4), 174-205.",
+      "doi": "10.1037/bul0000368",
+      "url": "https://doi.org/10.1037/bul0000368",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Tipton, E., Bryan, C. J., Murray, J., McDaniel, M. A., Schneider, B., & Yeager, D. S. (2023). Why meta-analyses of growth mindset and other interventions should follow best practices for examining heterogeneity: Commentary on Macnamara and Burgoyne (2023) and Burnette et al. (2023). Psychological Bulletin, 149(3-4), 229-241.",
+      "doi": "10.1037/bul0000384",
+      "url": "https://doi.org/10.1037/bul0000384",
+      "type": "commentary"
+    },
+    {
+      "text": "Macnamara, B. N., & Burgoyne, A. P. (2023). A spotlight on bias in the growth mindset intervention literature: A reply to commentaries. Psychological Bulletin, 149(3-4), 242-258.",
+      "doi": "10.1037/bul0000394",
+      "url": "https://doi.org/10.1037/bul0000394",
+      "type": "commentary"
+    },
+    {
+      "text": "Yeager, D. S., & Dweck, C. S. (2020). What can be learned from growth mindset controversies? American Psychologist, 75(9), 1269-1284. Quoted here from the public-access accepted manuscript at https://par.nsf.gov/servlets/purl/10252472",
+      "doi": "10.1037/amp0000794",
+      "url": "https://doi.org/10.1037/amp0000794",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
