@@ -1,0 +1,107 @@
+{
+  "no": 82,
+  "slug": "selection-bias",
+  "name": "Selection bias",
+  "aliases": ["Sample selection bias", "Selection effect", "Ascertainment bias"],
+  "category": "belief",
+  "statement": "Selection bias is the error that arises when whatever decided who entered a sample is related both to the exposure being studied and to the outcome being measured.",
+  "meaning": "This is a property of a sample rather than a habit of a mind, which it shares with survivorship bias and Berkson's paradox and with almost nothing else in this collection. Something decided who got into the data. Where that something is connected to both the cause under study and the effect being measured, the resulting estimate is wrong, and it is wrong in a fixed direction that no amount of careful reasoning about the observations can recover. Hernán, Hernández-Díaz and Robins gave the definition now used in epidemiology. Their abstract describes the shared causal structure as \"conditioning on a common effect of 2 variables, one of which is either exposure or a cause of exposure and the other is either the outcome or a cause of the outcome\". They set that against confounding, which they define as \"the existence of common causes of exposure and outcome\". A common effect and a common cause are different objects and they call for opposite handling. Economics reached the same problem from the other side. Heckman wrote in 1979 that it \"may arise in practice for two reasons\": self selection by the people being studied, and \"sample selection decisions by analysts or data processors\", which he said \"operate in much the same fashion as self selection\".",
+  "origin": {
+    "year": 1979,
+    "who": "James J. Heckman",
+    "where": "Econometrica",
+    "note": "\"Sample Selection Bias as a Specification Error\", Econometrica 47(1), 153 to 161. The term is older than the paper and Heckman claims no coinage; Berkson's 1946 hospital-admission case, entry 58 here, is one documented species of it. What 1979 established is the treatment of the problem as an ordinary specification error with a usable correction. The structural definition that epidemiology now works from arrived 25 years later, with Hernán, Hernández-Díaz and Robins in 2004."
+  },
+  "evidence": "Heckman's paper treats the bias \"that results from using nonrandomly selected samples to estimate behavioral relationships as an ordinary specification error or 'omitted variables' bias\", and offers \"a simple consistent two stage estimator\". His examples are labour-market ones. Market wages are observed for working women whose market wage exceeds their home wage at zero hours of work, and for union members who found the nonunion alternative less desirable. The occupational literature supplies measured cases. Burns, Bodner, Jammer, Collins and Swaen calculated standardised mortality ratios for 114,683 US chemical industry employees who worked at least three days between 1960 and 2005. All-cause mortality came out at 79, 95% CI 78 to 80, against the general population, with 70 for non-malignant respiratory disease, 95% CI 67 to 73. Employed people are not a random draw of the living, and the paper opens by noting that occupational studies typically observe a 20% deficit in overall mortality. Chen and Seaton, pooling 85 occupational cohorts of workers exposed to organic solvents, report an all-cause standardised mortality ratio of 89.5, 95% CI 89.0 to 90.2, and find in regression that the higher the rates of loss to follow up, the greater the effect, p = 0.04. Psychology's version is about who volunteers. Henrich, Heine and Norenzayan, reporting an analysis by Arnett of the top journals in six subdisciplines from 2003 to 2007, write that \"68% of subjects came from the United States, and a full 96% of subjects were from Western industrialized countries\", and that this means \"96% of psychological samples come from countries with only 12% of the world's population\". In the Journal of Personality and Social Psychology, 67% of the American samples and 80% of the samples from other countries were composed solely of undergraduates in psychology courses. Their summary is that \"a randomly selected American undergraduate is more than 4,000 times more likely to be a research participant than is a randomly selected person from outside of the West\". Survey research has the best-documented failures because the truth arrives on election night. AAPOR's task force on the 2020 US general election found the average error on the margin, among polls in the final two weeks, was 4.5 points for national polls and 5.1 points for state-level presidential polls, with the signed error too favourable to Biden by 3.9 and 4.3 points. The task force ruled out late deciders, education weighting, demographic composition, differential turnout and reluctance to name Trump to an interviewer. What it could not rule out was who declined to answer at all: \"At least some of the polling error in 2020 was caused by unit nonresponse.\"",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication attempt was found, and none is the right thing to look for; what exists instead is a record of the bias measured in particular datasets."
+  },
+  "limits": "Selection bias is not an experimental effect. There is no protocol to re-run, no effect size that travels between labs and no confidence interval that would settle anything. Given a selection process connected to both exposure and outcome, the selected sample is distorted, and that follows from the structure rather than being tested. Searches of Crossref, PubMed and the open web for a replication, a registered report or a multi-site repetition of a selection-bias finding returned nothing, which is what a definitional result should return. Every number above is a measurement of one dataset, not a test of the idea. What is genuinely contested is the scope of the structural account. Hernán published a commentary in 2017 arguing that \"selection bias may arise when conditioning on a variable C that is not a collider\", specifically where the exposure has a non-null effect on the outcome and the association between the noncollider and the outcome varies across levels of exposure. The size of the distortion is contested too, and it depends on the mechanism rather than on the amount of missing data. Kristman, Manno and Côté simulated 1,000 replications of a cohort of 500 observations and found no important bias at losses to follow-up from 5% to 60% where the loss was missing completely at random or missing at random, and seriously biased odds ratios at low levels of loss where it was missing not at random. The correction is not free either. Puhani surveyed Monte Carlo studies of Heckman's two-step estimator and concluded that where collinearity is absent \"the full-information maximum likelihood estimator is preferable to the limited-information two-step method\", and that where collinearity is present, subsample ordinary least squares or the two-part model is the more robust of the simple estimators.",
+  "misreadings": "The first error is treating selection bias as a species of confounding, because the remedies point in opposite directions. A confounder is handled by adjusting for it. A collider is turned into a bias by adjusting for it, so the reflex that fixes one causes the other. Berkson's paradox, entry 58, is the case where that goes wrong inside a hospital register, and it is one species of selection bias rather than a synonym for it. The second error is reading a low response rate as a measure of bias. The 1936 Literary Digest poll is the standing example of a poll destroyed by who replied, and Lohr and Brick, going back to the original returns, record that it mailed ten million ballots, got almost 2.4 million back, and achieved a response rate of 24 per cent, which is \"much higher than the response rate in many of today's polls\". It predicted Landon at 54 per cent of the popular vote and 370 electoral votes; Roosevelt took more than 60 per cent and 523. Lohr and Brick show that reweighting the same returns by respondents' reported 1932 vote moves ten states, including California and New York, and predicts Roosevelt winning 276 of 531 electoral votes, the right winner from the wrong sample. Their verdict on the magazine is that its real failure was not the response rate it published but that it \"failed to assess the uncertainty this implied about their estimates\". The third error is treating the label as a finding. Naming a selection process establishes that an association might have been manufactured. It does not give the direction or the size, and both still have to be argued for from the data.",
+  "sources": [
+    {
+      "text": "Heckman, J. J. (1979). Sample Selection Bias as a Specification Error. Econometrica, 47(1), 153-161. Full text read from a scanned JSTOR copy; quotations are from the abstract and the opening two pages.",
+      "doi": "10.2307/1912352",
+      "url": "https://www.jstor.org/stable/1912352",
+      "type": "primary"
+    },
+    {
+      "text": "Hernán, M. A., Hernández-Díaz, S., & Robins, J. M. (2004). A Structural Approach to Selection Bias. Epidemiology, 15(5), 615-625. Abstract read at PubMed, PMID 15308962; the publisher's full text returned HTTP 402 and was not obtained.",
+      "doi": "10.1097/01.ede.0000135174.63482.43",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15308962/",
+      "type": "primary"
+    },
+    {
+      "text": "Hernán, M. A. (2017). Invited Commentary: Selection Bias Without Colliders. American Journal of Epidemiology, 185(11), 1048-1050. Abstract read at Oxford Academic; full text not obtained.",
+      "doi": "10.1093/aje/kwx077",
+      "url": "https://academic.oup.com/aje/article/185/11/1048/3849417",
+      "type": "primary"
+    },
+    {
+      "text": "Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? Behavioral and Brain Sciences, 33(2-3), 61-83. Full text read from the author's PDF. The sampling percentages quoted here are Henrich and colleagues reporting Arnett (2008), not their own count.",
+      "doi": "10.1017/S0140525X0999152X",
+      "url": "https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Arnett, J. J. (2008). The neglected 95%: Why American psychology needs to become less American. American Psychologist, 63(7), 602-614. The source of the 68%, 96%, 12% and undergraduate figures. Crossref confirms the record; the paper itself was not opened, and the figures are quoted here as Henrich and colleagues report them.",
+      "doi": "10.1037/0003-066X.63.7.602",
+      "url": "https://doi.org/10.1037/0003-066X.63.7.602",
+      "type": "secondary"
+    },
+    {
+      "text": "Burns, C. J., Bodner, K. M., Jammer, B. L., Collins, J. J., & Swaen, G. M. H. (2011). The healthy worker effect in US chemical industry workers. Occupational Medicine, 61(1), 40-44. Published online 15 November 2010. Full abstract read at PubMed, PMID 21078828.",
+      "doi": "10.1093/occmed/kqq168",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21078828/",
+      "type": "primary"
+    },
+    {
+      "text": "Chen, R., & Seaton, A. (1996). The Influence of Study Characteristics on the Healthy Worker Effect: A Multiple Regression Analysis. Occupational Medicine, 46(5), 345-350. Full abstract read at Oxford Academic; full text not obtained.",
+      "doi": "10.1093/occmed/46.5.345",
+      "url": "https://academic.oup.com/occmed/article/46/5/345/1400692",
+      "type": "primary"
+    },
+    {
+      "text": "Kristman, V., Manno, M., & Côté, P. (2004). Loss to Follow-Up in Cohort Studies: How Much is Too Much? European Journal of Epidemiology, 19(8), 751-760. Full abstract read at PubMed, PMID 15469032; full text not obtained.",
+      "doi": "10.1023/B:EJEP.0000036568.02655.f8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15469032/",
+      "type": "primary"
+    },
+    {
+      "text": "Clinton, J., et al. (2021). Task Force on 2020 Pre-Election Polling: An Evaluation of the 2020 General Election Polls. American Association for Public Opinion Research. Full report read; figures taken from the executive summary.",
+      "url": "https://aapor.org/wp-content/uploads/2022/11/AAPOR-Task-Force-on-2020-Pre-Election-Polling_Report-FNL.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Kennedy, C., et al. (2017). An Evaluation of 2016 Election Polls in the United States. American Association for Public Opinion Research. Full report read. It gives an average absolute error of 2.2 points for national polls and 5.1 points for 423 state polls, and Table 10 shows the share of final polls weighting on education, from 18% in Michigan to 52% nationally.",
+      "url": "https://aapor.org/wp-content/uploads/2023/01/AAPOR-2016-Election-Polling-Report.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Lohr, S. L., & Brick, J. M. (2017). Roosevelt Predicted to Win: Revisiting the 1936 Literary Digest Poll. Statistics, Politics and Policy, 8(1), 65-84. Full text read.",
+      "doi": "10.1515/spp-2016-0006",
+      "url": "https://gwern.net/doc/statistics/bias/2017-lohr.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Squire, P. (1988). Why the 1936 Literary Digest Poll Failed. Public Opinion Quarterly, 52(1), 125-133. Abstract read at Oxford Academic; it concludes that sample and response \"were both biased and jointly produced the wildly incorrect estimate of the vote\". Full text not obtained.",
+      "doi": "10.1086/269085",
+      "url": "https://academic.oup.com/poq/article-abstract/52/1/125/1826024",
+      "type": "secondary"
+    },
+    {
+      "text": "Puhani, P. (2000). The Heckman Correction for Sample Selection and Its Critique. Journal of Economic Surveys, 14(1), 53-68. Abstract read at RePEc; full text not obtained.",
+      "doi": "10.1111/1467-6419.00104",
+      "url": "https://ideas.repec.org/a/bla/jecsur/v14y2000i1p53-68.html",
+      "type": "secondary"
+    },
+    {
+      "text": "Berkson, J. (1946). Limitations of the Application of Fourfold Table Analysis to Hospital Data. Biometrics Bulletin, 2(3), 47. Cited here only to fix the date of the earlier species; see entry 58 for its own sources.",
+      "doi": "10.2307/3002000",
+      "url": "https://doi.org/10.2307/3002000",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
