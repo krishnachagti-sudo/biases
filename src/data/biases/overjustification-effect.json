@@ -1,0 +1,91 @@
+{
+  "no": 132,
+  "slug": "overjustification-effect",
+  "name": "Overjustification effect",
+  "aliases": ["Undermining effect", "Overjustification hypothesis", "Corruption effect"],
+  "category": "social",
+  "statement": "Rewarding people for something they already enjoy can leave them less willing to do it once the reward stops.",
+  "meaning": "The claim is narrow, and two conditions carry it. The activity has to be one the person already finds interesting, and the reward has to be promised in advance for doing it. Under those conditions the reward supplies a reason for the behaviour that the person did not previously have, and when the reward goes the reason goes with it. Self-perception theory framed this as an inference about oneself: the contract is visible, so the person reads their own drawing or puzzle-solving as a means to an end. The prediction that made the idea testable is about later behaviour, measured when nothing is on offer and nobody appears to be watching.",
+  "origin": {
+    "year": 1973,
+    "who": "Mark R. Lepper, David Greene and Richard E. Nisbett",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their title carries the word overjustification in quotation marks, and they credit the idea to earlier writers including deCharms, Deci, and Kruglanski, Friedman and Zeevi. Deci had reported a similar result in 1971 with students paid to solve puzzles, which Lepper and his co-authors describe as of only marginal statistical significance and as resting partly on baseline differences between the groups."
+  },
+  "evidence": "A field experiment at the Bing Nursery School on the Stanford campus, with children aged 40 to 64 months. Teachers set felt-tipped pens on a table in front of a one-way mirror, and two observers timed how much of the available period each child spent drawing. Children who had already shown interest were split three ways: promised a Good Player Award for drawing, given the same award without warning afterwards, or given nothing. The pens returned to the classroom 7 to 14 days later. Of their free-choice time the promised-award children spent 8.59% drawing, against 16.73% for the no-award children and 18.09% for the unexpected-award children, in cells of 18, 15 and 18. Group variances differed, so the analysis ran on log-transformed proportions: F = 3.25 on 2 and 48 degrees of freedom, p < .05, with a planned contrast at F = 6.19, p < .025. Judges blind to condition rated the promised-award drawings lower in quality, 2.18 against 2.85 and 2.69 on a five-point scale.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Both sides of the argument find that a reward promised in advance for doing an already-interesting task cuts later free-choice engagement; they disagree about everything wider than that.",
+    "detail": "Deci, Koestner and Ryan pooled 128 experiments and reported tangible rewards cutting free-choice engagement by d = -0.34, 95% CI -0.39 to -0.28, with expected tangible rewards at -0.36 and rewards contingent on merely engaging in the task at -0.40. Verbal praise ran the other way at 0.33. Eisenberger and Cameron, presenting figures from Cameron and Pierce's analysis of 96 studies, put all rewards on free time at -0.04, a null, and read their hierarchy from the bottom, where one category survived. Their own numbers give tangible rewards -0.21 and expected tangible rewards -0.25, both intervals clear of zero, and on that basis they concluded that detrimental effects occur under highly restricted, easily avoidable conditions. Cameron, Banko and Pierce then merged both databases into 145 studies and split them first by how interesting the task was, which neither earlier analysis had done. Across all tasks the free-choice effect was -0.08 and not significant. On high-interest tasks it was -0.09, 95% CI -0.14 to -0.04, and on low-interest tasks it was positive, 0.28. Rewards offered simply for doing a high-interest task came out at -0.35, 95% CI -0.43 to -0.27, next to the -0.40 the rival team reported for the same case. The disagreement is about what to average over, not about that cell. Murayama and colleagues later found the same pattern of behaviour in an independent laboratory, with 28 adults and a stopwatch task, the paid group playing it fewer times in both free-choice periods, Mann-Whitney U = 52.5 and 54.5, p < .05.",
+    "study": {
+      "cite": "Cameron, J., Banko, K. M., & Pierce, W. D. (2001). Pervasive negative effects of rewards on intrinsic motivation: The myth continues. The Behavior Analyst, 24(1), 1-44.",
+      "doi": "10.1007/BF03392017",
+      "year": 2001
+    }
+  },
+  "limits": "No independent laboratory has re-run the magic-marker protocol as a preregistered direct replication, and a search of the replication literature turned up none. The nearest thing is Greene and Lepper's 1974 study, run in the same nursery school by two of the same authors, where 55% of the children promised an award touched the activity afterwards against 85% of the unexpected-award children and 87% of the controls, chi-square = 8.18, p < .02. A direct replication of Deci's 1971 puzzle experiment, by Peters and colleagues in 2022 with 24 undergraduates, found engagement falling in both the paid and unpaid groups and reported no support for the hypothesis. Free-choice time is a proxy for motivation rather than motivation. Cameron and colleagues translate d = -0.30 into about 47 seconds of an eight-minute period, using a pooled standard deviation of 2.6 minutes taken from one well-measured study, and call the size of the effect modest. Almost all of this literature is short laboratory or nursery sessions with a single reward, and what repeated rewards do across months is largely untested.",
+  "misreadings": "The finding is not that rewards reduce motivation. Every meta-analysis in the dispute finds verbal praise raises free-choice engagement, 0.33 in Deci, Koestner and Ryan and 0.31 in Cameron, Banko and Pierce, and both find unexpected tangible rewards do nothing. Cameron and colleagues also find rewards raise engagement with tasks people did not like to begin with, at 0.28, which is where incentive schemes are usually pointed. The 8.59% in the 1973 paper is a share of available free-choice time, not a share of children, and the highest of the three cells was the unexpected-award group rather than the untouched control. Baseline percentages are often quoted next to it and the paper reports none. Lepper and his co-authors wrote in that same paper that proscribing token economies on their evidence would be a mistaken overgeneralisation, since such programmes are used precisely where initial interest is low. Cerasoli, Nicklin and Ford, working on performance rather than persistence across 183 samples and 212,468 people, found intrinsic motivation predicting performance at rho = .26 overall, and the link weaker where incentives were tied directly to performance than where they were tied to it indirectly, .30 against .45.",
+  "sources": [
+    {
+      "text": "Lepper, M. R., Greene, D., & Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward: A test of the \"overjustification\" hypothesis. Journal of Personality and Social Psychology, 28(1), 129-137.",
+      "doi": "10.1037/h0035519",
+      "url": "https://doi.org/10.1037/h0035519",
+      "type": "primary"
+    },
+    {
+      "text": "Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. Journal of Personality and Social Psychology, 18(1), 105-115.",
+      "doi": "10.1037/h0030644",
+      "url": "https://doi.org/10.1037/h0030644",
+      "type": "background"
+    },
+    {
+      "text": "Greene, D., & Lepper, M. R. (1974). Effects of extrinsic rewards on children's subsequent intrinsic interest. Child Development, 45(4), 1141-1145.",
+      "doi": "10.2307/1128110",
+      "url": "https://doi.org/10.2307/1128110",
+      "type": "replication"
+    },
+    {
+      "text": "Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6), 627-668.",
+      "doi": "10.1037/0033-2909.125.6.627",
+      "url": "https://doi.org/10.1037/0033-2909.125.6.627",
+      "type": "review"
+    },
+    {
+      "text": "Eisenberger, R., & Cameron, J. (1996). Detrimental effects of reward: Reality or myth? American Psychologist, 51(11), 1153-1166.",
+      "doi": "10.1037/0003-066X.51.11.1153",
+      "url": "https://doi.org/10.1037/0003-066X.51.11.1153",
+      "type": "critique"
+    },
+    {
+      "text": "Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. Review of Educational Research, 64(3), 363-423. The effect sizes reproduced in Eisenberger and Cameron's 1996 figure come from this paper.",
+      "doi": "10.3102/00346543064003363",
+      "url": "https://doi.org/10.3102/00346543064003363",
+      "type": "review"
+    },
+    {
+      "text": "Cameron, J., Banko, K. M., & Pierce, W. D. (2001). Pervasive negative effects of rewards on intrinsic motivation: The myth continues. The Behavior Analyst, 24(1), 1-44.",
+      "doi": "10.1007/BF03392017",
+      "url": "https://doi.org/10.1007/BF03392017",
+      "type": "replication"
+    },
+    {
+      "text": "Murayama, K., Matsumoto, M., Izuma, K., & Matsumoto, K. (2010). Neural basis of the undermining effect of monetary reward on intrinsic motivation. Proceedings of the National Academy of Sciences, 107(49), 20911-20916.",
+      "doi": "10.1073/pnas.1013305107",
+      "url": "https://doi.org/10.1073/pnas.1013305107",
+      "type": "replication"
+    },
+    {
+      "text": "Peters, K. P., Grauerholz-Fisher, E., Vollmer, T. R., & Van Arsdale, A. (2022). An evaluation of the overjustification hypothesis: A replication of Deci (1971). Behavior Analysis: Research and Practice, 22(3), 258-264.",
+      "doi": "10.1037/bar0000245",
+      "url": "https://doi.org/10.1037/bar0000245",
+      "type": "replication"
+    },
+    {
+      "text": "Cerasoli, C. P., Nicklin, J. M., & Ford, M. T. (2014). Intrinsic motivation and extrinsic incentives jointly predict performance: A 40-year meta-analysis. Psychological Bulletin, 140(4), 980-1008.",
+      "doi": "10.1037/a0035661",
+      "url": "https://doi.org/10.1037/a0035661",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
