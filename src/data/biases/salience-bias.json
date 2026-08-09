@@ -1,0 +1,108 @@
+{
+  "no": 131,
+  "slug": "salience-bias",
+  "name": "Salience bias",
+  "aliases": [
+    "Salience effect",
+    "Perceptual salience",
+    "Salience theory",
+    "Tax salience"
+  ],
+  "category": "decision",
+  "statement": "Whatever is conspicuous gets treated as the cause of what happened, or as the number worth acting on, while equally real but less visible features are discounted.",
+  "meaning": "Two literatures use the word and they do not measure the same thing. In social psychology salience is perceptual prominence, meaning which person an observer happens to be looking at, and the claim is that the person in view is credited with driving the interaction. In economics salience is the weight a buyer puts on a cost that is real but not displayed, such as a sales tax added at the register. Chetty, Looney and Kroft turn this into a parameter they call theta, where a value of one means the tax is treated exactly like a price of the same size. Bordalo, Gennaioli and Shleifer go further and make salience a function of how far a payoff stands out from the other payoffs on offer, which makes it depend on what else is in the choice set. The social claim is about attributing causes. The economic claim is about how much a known cost counts. Evidence for one is not evidence for the other, and this entry keeps them apart.",
+  "origin": {
+    "year": 1975,
+    "who": "Shelley E. Taylor and Susan T. Fiske",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their paper is 'Point of view and perceptions of causality', volume 32, pages 439 to 445. The word salience reaches the title of their work three years later, in the chapter 'Salience, Attention, and Attribution: Top of the Head Phenomena'. The economic literature that now carries the same word starts separately, with Chetty, Looney and Kroft in 2009 and Bordalo, Gennaioli and Shleifer in 2012, and neither cites the 1975 experiments as its foundation."
+  },
+  "evidence": "The strongest evidence is a field experiment on sales tax. Chetty, Looney and Kroft posted tax-inclusive price tags on about 750 cosmetics, hair care and deodorant products in one supermarket from 22 February to 15 March 2006. Weekly quantity sold per category fell by 2.20 units against untagged categories in the same store and against the same categories in two matched control stores, standard error 0.59, p below 0.01. Set against a base of 29 units a week, that is a fall of 7.6 percent. With a category price elasticity of 1.59 and a sales tax of 7.375 percent, the implied attention parameter is 0.35, so a ten percent tax rise moved demand as much as a 3.5 percent price rise. A classroom survey supplied the first stage: 18 percent of 49 students read the tax-inclusive total off the ordinary tags and 75 percent read it off the experimental ones. Finkelstein runs the argument backwards, from attention to policy. She assembled toll rates and electronic collection dates for 123 toll facilities in the United States. In her Massachusetts survey, 85 percent of drivers paying electronically misstated the toll they had just paid, against 31 percent of those paying cash. Once electronic collection reaches its steady state share of about 60 percent, she estimates tolls sit 20 to 40 percent above where they would otherwise have been. Bordalo, Gennaioli and Shleifer built the formal version, replacing true probabilities with weights tilted toward payoffs that stand out against the alternatives. It predicts something prospect theory does not: the Allais paradox should disappear when the two lotteries are shown paying their common consequence in the same state. In that correlated format, 79 percent of their subjects made the same choice whether the common payoff was 0 or 2,400. The original attribution studies are harder to check. Taylor and Fiske's paper is paywalled and no copy could be fetched for this entry. A 2017 preregistration on the Open Science Framework describes the design as observers watching two confederates hold a conversation from three vantage points, with causal-role ratings analysed as a two by three design.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Attention to sales tax came out just above 0.25 in an online experiment with 2,998 shoppers, near the 0.35 measured in the supermarket, while the psychology strand has no completed replication on record.",
+    "detail": "Taubinsky and Rees-Jones ran an online shopping experiment with 2,998 consumers matched to the United States adult population on key demographics, varying both the size of the tax and whether it was shown. Average theta was just over 0.25 in the arm using existing sales tax rates and just under 0.5 when those rates were tripled, a gap that clears the 5 percent level. That brackets the 0.35 from the supermarket and adds a boundary condition, because attention is not a fixed trait and rises with the size of the tax. Those figures are read off the authors' revised National Bureau of Economic Research working paper rather than the Review of Economic Studies version, which is paywalled. Salience theory has fared worse on the prediction that separates it from prospect theory. Loewenfeld and Zheng tested correlation sensitivity in the Allais common-consequence problem and in Mao pairs while controlling for event splitting, the tendency to weight an outcome more heavily when it is listed as two rows rather than one. Their conclusion is that once event splitting is controlled, no consistent evidence for correlation effects remains. Bruhin, Manai and Santos-Pinto leave room for both accounts: a finite mixture model sorted their subjects into 38 percent prospect theory types, 34 percent salience theory types and 28 percent expected utility types. For the attribution effect the record is thinner. A preregistration to replicate Experiment 1 of Taylor and Fiske was posted on the Open Science Framework in May 2017. Its parent project is private, no results are attached, and no publication reporting it was located. The nearest repeated finding is the camera perspective bias, where Ware, Lassiter, Patterson and Ransom used eye tracking and report that their Experiment 1 reproduced the bias, with fixation duration partly mediating it.",
+    "study": {
+      "cite": "Taubinsky, D., & Rees-Jones, A. (2018). Attention variation and welfare: Theory and evidence from a tax salience experiment. The Review of Economic Studies, 85(4), 2462-2496.",
+      "doi": "10.1093/restud/rdx069",
+      "year": 2018,
+      "n": 2998
+    }
+  },
+  "limits": "The supermarket result is one store, three weeks and three categories of toiletries, chosen because the chain would not risk its sales leaders and because impulse categories have high price elasticities. The authors state that they can estimate only the effect of posting the tags, and cannot separate raised tax salience from other consequences of hanging 750 new tags in one aisle. They lean on their beer analysis to cover that, and it is not a clean test either. A one percent rise in the gross-of-excise price cut beer consumption by 0.88 percent against 0.20 percent for the sales tax, but once state income and unemployment are controlled the sales tax coefficient falls to -0.01 while the excise coefficient holds near -0.91. Salience is also not the only mechanism that makes a hidden number bite. Bollinger, Leslie and Sorensen studied mandatory calorie posting at Starbucks in New York City from April 2008. Calories per transaction fell 5.8 percent, worth 14.4 calories, with food calories down 13.7 percent and beverage calories down 0.3 percent. Their own test of mechanism cuts against salience: cardholders who bought both inside and outside New York changed their choices at non-posting stores too, which fits learning rather than salience. Revenue did not fall, and rose 3 percent at stores within 100 metres of a Dunkin Donuts.",
+  "misreadings": "The two senses of the word get merged. A page that opens with Taylor and Fiske's seated observers and closes with a 7.6 percent drop in supermarket sales has fused a claim about who looks causal to a claim about how much a tax counts, and no study joins them. The tax figure is also quoted at its rounder end. The abstract says 8 percent; the paper's own calculation of 2.2 units against a base of 29 gives 7.6 percent. Neither number means shoppers were unaware of the tax. Chetty, Looney and Kroft surveyed 91 customers at the treatment store, and 82 percent correctly reported which items were taxable, with a mean estimate of the local rate of 7.48 percent against an actual 7.375 percent. People knew the tax and did not act on it, which is a different claim from ignorance, and it is the claim the parameter of 0.35 encodes. Calorie posting is often cited as salience failing. It did not fail. It moved calories per transaction by a margin close to the one the tax tags moved units sold, and what the authors question is the mechanism rather than the effect. Last, salience theory in economics is a model of choice among gambles with a defined salience function, not a general statement that vivid things loom large. Its distinctive prediction concerns what happens when two lotteries are shown as correlated, and that prediction is the part currently in doubt.",
+  "sources": [
+    {
+      "text": "Chetty, R., Looney, A., & Kroft, K. (2009). Salience and taxation: Theory and evidence. American Economic Review, 99(4), 1145-1177. Figures here are read from the authors' copy of the published article.",
+      "doi": "10.1257/aer.99.4.1145",
+      "url": "https://rajchetty.com/wp-content/uploads/2021/04/taxsalience_aer.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Finkelstein, A. (2009). E-ZTax: Tax salience and tax rates. Quarterly Journal of Economics, 124(3), 969-1010.",
+      "doi": "10.1162/qjec.2009.124.3.969",
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/EZ%20Tax-%20Tax%20Salience%20and%20Tax%20Rates_Quarterly%20Journ.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bordalo, P., Gennaioli, N., & Shleifer, A. (2012). Salience theory of choice under risk. Quarterly Journal of Economics, 127(3), 1243-1285. The experimental figures quoted here are read from the authors' National Bureau of Economic Research working paper 16387, which the published article followed.",
+      "doi": "10.1093/qje/qjs018",
+      "url": "https://www.nber.org/system/files/working_papers/w16387/revisions/w16387.rev0.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Taubinsky, D., & Rees-Jones, A. (2018). Attention variation and welfare: Theory and evidence from a tax salience experiment. The Review of Economic Studies, 85(4), 2462-2496. The published article is paywalled; the numbers quoted here are read from the authors' revised National Bureau of Economic Research working paper 22545.",
+      "doi": "10.1093/restud/rdx069",
+      "url": "https://www.nber.org/system/files/working_papers/w22545/revisions/w22545.rev0.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Bollinger, B., Leslie, P., & Sorensen, A. (2011). Calorie posting in chain restaurants. American Economic Journal: Economic Policy, 3(1), 91-128. The published article is paywalled; the numbers quoted here are read from National Bureau of Economic Research working paper 15648.",
+      "doi": "10.1257/pol.3.1.91",
+      "url": "https://www.nber.org/system/files/working_papers/w15648/w15648.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Loewenfeld, M., & Zheng, J. (2024). Salience or event-splitting? An experimental investigation of correlation sensitivity in risk-taking. Journal of the Economic Science Association, 10(2), 346-366. Read at the publisher's abstract page; the full text is paywalled.",
+      "doi": "10.1007/s40881-024-00162-w",
+      "url": "https://doi.org/10.1007/s40881-024-00162-w",
+      "type": "replication"
+    },
+    {
+      "text": "Bruhin, A., Manai, M., & Santos-Pinto, L. (2022). Risk and rationality: The relative importance of probability weighting and choice set dependence. Journal of Risk and Uncertainty, 65(2), 139-184. Read at the abstract; the type shares are stated there.",
+      "doi": "10.1007/s11166-022-09392-x",
+      "url": "https://doi.org/10.1007/s11166-022-09392-x",
+      "type": "replication"
+    },
+    {
+      "text": "Taylor, S. E., & Fiske, S. T. (1975). Point of view and perceptions of causality. Journal of Personality and Social Psychology, 32(3), 439-445. Paywalled with no open copy located; only its bibliographic record was verified, and nothing in this entry states what its numbers were.",
+      "doi": "10.1037/h0077095",
+      "url": "https://doi.org/10.1037/h0077095",
+      "type": "primary"
+    },
+    {
+      "text": "Taylor, S. E., & Fiske, S. T. (1978). Salience, attention, and attribution: Top of the head phenomena. Advances in Experimental Social Psychology, 249-288. Cited for its title and date only; the chapter is paywalled.",
+      "doi": "10.1016/S0065-2601(08)60009-X",
+      "url": "https://doi.org/10.1016/S0065-2601(08)60009-X",
+      "type": "primary"
+    },
+    {
+      "text": "Taylor & Fiske (1975) Replication Experiment. Open Science Framework registration n2kty, registered 16 May 2017 under the Replication Recipe pre-registration schema. Source for the description of the original design and for the absence of posted results.",
+      "url": "https://osf.io/n2kty/",
+      "type": "replication"
+    },
+    {
+      "text": "Ware, L. J., Lassiter, G. D., Patterson, S. M., & Ransom, M. R. (2008). Camera perspective bias in videotaped confessions: Evidence that visual attention is a mediator. Journal of Experimental Psychology: Applied, 14(2), 192-200. Read at the PubMed abstract.",
+      "doi": "10.1037/1076-898X.14.2.192",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18590374/",
+      "type": "replication"
+    },
+    {
+      "text": "Taylor, S. E., Crocker, J., Fiske, S. T., Sprinzen, M., & Winkler, J. D. (1979). The generalizability of salience effects. Journal of Personality and Social Psychology, 37(3), 357-368. Listed because it is the original authors' own follow-up; its contents could not be retrieved and no claim here rests on it.",
+      "doi": "10.1037/0022-3514.37.3.357",
+      "url": "https://doi.org/10.1037/0022-3514.37.3.357",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

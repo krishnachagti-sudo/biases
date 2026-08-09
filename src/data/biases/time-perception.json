@@ -1,0 +1,132 @@
+{
+  "no": 128,
+  "slug": "time-perception",
+  "name": "Time perception",
+  "aliases": ["Duration distortion", "Subjective time", "Holiday paradox", "Time speeding up with age"],
+  "category": "perception",
+  "statement": "How long something felt and how long it is remembered as lasting are produced by different processes, and under load they move in opposite directions.",
+  "meaning": "There is no organ for duration, so a duration judgement has to be built from something else. Which something else depends on whether the person knew the judgement was coming. Told in advance, they attend to time as it passes, and anything that takes attention away shortens the interval. Asked by surprise afterwards, they reconstruct the interval from what they can retrieve about it, and a busy interval reconstructs as long. Psychologists call the first the prospective paradigm and the second the retrospective paradigm. The distinction is the engine behind three popular claims: that a holiday flies past and then looks long in hindsight, that years pass faster with age, and that time slows down in an emergency. Each of those claims has been measured. The measurements do not all say what the claims say."
+  ,
+  "origin": {
+    "year": 1997,
+    "who": "Richard A. Block and Dan Zakay",
+    "where": "Psychonomic Bulletin & Review",
+    "note": "Their meta-analysis of 20 experiments established the prospective and retrospective paradigms as producing different judgements rather than two measures of one thing. The folk claims are older. William James put the shrinking year down to recollection in 1890, in chapter XV of The Principles of Psychology at page 625. The name 'holiday paradox' is attributed to Claudia Hammond's 2012 book Time Warped, which was not obtained for this entry."
+  },
+  "evidence": "Block and Zakay pooled 20 experiments from 16 references, median publication year 1985. Eighteen gave an effect size for the paradigm comparison. Prospective judgements were larger, weighted mean d+ = 0.35, 95% CI 0.26 to 0.43, with the mean duration judgement ratio 16% higher in the prospective paradigm. Retrospective judgements showed about 15% more variation between people. Processing difficulty moderated the gap and did so on one side only: prospective ratios fell from 0.94 to 0.82 to 0.73 as processing went from easy to moderate to difficult, while retrospective ratios barely moved. Block, Hancock and Zakay later pooled 117 experiments on cognitive load. The two paradigms came apart cleanly. Under a random-effects model the prospective effect was d+ = -0.46, 95% CI -0.55 to -0.37, across 90 experiments, and the retrospective effect was d+ = +0.26, 95% CI +0.03 to +0.49, across 32. Load and paradigm produced no main effects, and their interaction gave F(1,111) = 40.74, p < .001. Funnel plots and failsafe Ns of 9,038 and 273 gave no sign of publication bias. Avni-Babad and Ritov ran the dissociation directly on routine. Ninety-three students crossed out a target symbol from 20 rows, either the same symbol throughout or a different one in each segment. The interaction was F(1,89) = 12.73, p = .001, eta squared .125. Routine was remembered as shorter, F(1,89) = 4.96, p = .03, and estimated as longer while it was happening, F(1,89) = 7.79, p = .006. On aging, Block, Zakay and Hancock pooled 16 experiments in which younger and older adults judged brief intervals. Fourteen gave an effect size, all between-subjects, none longitudinal. The weighted mean was d+ = 0.40, 95% CI 0.28 to 0.52, and the ratio of subjective to objective duration was 21% higher in older adults. That is the opposite of the folk claim, and the authors say so. Method split it: production d+ = 0.60, 95% CI 0.44 to 0.76, verbal estimation d+ = 0.27, 95% CI 0.05 to 0.48, and reproduction d+ = -0.02, 95% CI -0.31 to 0.27. Slope of the function relating judged to target duration showed no age effect, d+ = 0.04, 95% CI -0.29 to 0.37. On fear, Stetson, Fiesta and Eagleman dropped volunteers backwards from a 46-metre tower into a net, giving a fall of 2.49 seconds. Seven of them used a stopwatch to mark out the duration twice, once imagining the fall after watching someone else take it, and once from memory afterwards. The remembered fall was 36% longer, 2.17 plus or minus 0.24 seconds against 2.96 plus or minus 0.51, p < 0.03. During the fall the same people read digits off a wrist-worn display alternating with its own negative near their individual threshold. A 36% gain in temporal resolution predicted 79% accuracy. In-flight performance was no better than a ground control, p = 0.98.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The split between felt and remembered duration is one of the better replicated results in the field. The three popular biases built on it fare worse, and the aging one is close to nothing.",
+    "detail": "Block, Hancock and Zakay's 117 experiments put the load effect at d+ = -0.46 for prospective judgements and +0.26 for retrospective ones, opposite signs with non-overlapping intervals. Tobin, Bisson and Grondin took the same comparison out of the laboratory, timing 116 people through video game sessions of 12, 35 or 58 minutes in gaming centres, and again found prospective estimates longer than retrospective ones. Aging is the strand that does not survive. Wittmann and Lehnhoff interviewed 499 people aged 14 to 94 in Germany and Austria and reported effects accounting for at most 10% of variance. Friedman and Janssen ran the same six questions on 1,865 adults in New Zealand and the Netherlands. In their 99-person laboratory sample the young and old groups did not differ on the composite scale, t(96) = 0.32, p = .75, d = 0.06, 95% CI -0.33 to 0.46. In their 1,766-person Dutch sample age correlated with the composite at r = .12, 95% CI .07 to .17, about 1.4% of variance. Only the question about the previous 10 years showed more, r = .21, and even that is 4.5%. A four-item scale about rushing and having too much to do correlated at r = .32, 10% of variance, which the authors call more than seven times as strong as age. Both samples reported time passing fast at every age: 78.7% of responses on the six items were 'fast' or 'very fast' and 3.2% were 'slow' or 'very slow'. Friedman and Janssen also killed two proposed mechanisms. Feeding people false feedback that they had misdated news events shifted their self-reported telescoping hard, partial eta squared .34, and left their sense of time's speed untouched, partial eta squared below .01. Reminding people of 30 recent news events before asking how fast the year had passed made the year seem faster rather than slower, and the sample was large enough to rule out an effect of d = 0.03 in the predicted direction. Fear is contested. Sarigiannidis and colleagues used threat of shock across five experiments; induced anxiety made people underestimate durations, meta-analytic d = 0.68, 95% CI 0.42 to 0.94, and two attempts to reproduce the reported overestimation under fear failed.",
+    "study": {
+      "cite": "Block, R. A., Hancock, P. A., & Zakay, D. (2010). How cognitive load affects duration judgments: A meta-analytic review. Acta Psychologica, 134(3), 330-343.",
+      "doi": "10.1016/j.actpsy.2010.03.006",
+      "year": 2010
+    }
+  },
+  "limits": "The verdict covers duration judgements and the paradigm distinction. It does not cover judgements of how fast time seems to be flowing, which Wearden argues are a separate thing again, related to duration judgements in a way nobody has yet identified. Droit-Volet and Wearden sampled such judgements by phone alerts during ordinary life and found them tracking mood and absorption, and running faster for intervals in the seconds range than in the minutes range. Almost every experiment in the 1998 aging meta-analysis used the prospective paradigm, so it says little about remembered duration in older adults, and none of its 14 effect sizes came from a longitudinal design. The free-fall experiment rests on seven people for the duration judgement, and no direct replication of it was located. Arstila disputes its reading, arguing that the experiment does not address the comprehensively altered experience accident survivors describe, and defending a realist account in which cognitive processing genuinely speeds up. Droit-Volet's study of people over and under 75 found the current passage of time slowing rather than accelerating after 75, with sadness the best predictor, which is a third direction again. Whether the holiday paradox has been tested in the form it is usually stated could not be established. The nearest field data are Avni-Babad and Ritov's 41 Club Med guests in Eilat, and they went the other way: 51% named the last part of their stay as the shortest and 12% the first, chi-squared(2, N = 41) = 9.56, p < .01, with mean speed ratings of 3.54, 4.10 and 4.37 across the three parts on a scale where 5 is fast. Hammond's Time Warped was not obtained, and the publisher's own description of it does not use the phrase 'holiday paradox'. The 1% and 9% figures often quoted from Wittmann and Lehnhoff are taken here from Friedman and Janssen's description of that paper, not from the paper itself, which was read only as an abstract. Sources read as abstracts only: Wittmann and Lehnhoff, Tse and colleagues, Pariyadath and Eagleman, Sarigiannidis and colleagues, Wearden 2015, Droit-Volet and Wearden, Droit-Volet 2019, Arstila and Tobin and colleagues. The search ran across Crossref, PubMed, Europe PMC, PMC, PLOS, SpringerLink, SAGE and the authors' own posted copies.",
+  "misreadings": "Popular writing treats prospective and retrospective judgements as one measurement, which is the thing the literature is most sure they are not. The whole holiday story depends on them coming apart, and Avni-Babad and Ritov's Study 3 shows the same interval running long in one paradigm and short in the other from a single manipulation. That years pass faster with age is repeated as settled. Measured, it is close to absent: age explains about 1.4% of the variance in how fast adults say time is passing, and how rushed they feel explains seven times more. What does show an age effect is the single question about the last 10 years, which Friedman and Janssen suspect taps a belief about aging rather than an experience of it. Laboratory timing points the other way. Older adults gave larger verbal estimates and shorter productions in Block, Zakay and Hancock's meta-analysis, a ratio 21% higher than younger adults, which means a given interval felt longer to them. Time slowing in danger is the most misreported of the three. Stetson, Fiesta and Eagleman did not find that perception speeds up. They found that the memory dilates while perception does not, and wrote that time-slowing is a function of recollection rather than perception. Nothing in the experiment supports the slow-motion camera picture. The oddball effect is often produced as laboratory proof of that picture. Tse and colleagues report that an improbable item in a stream looks longer than an equally long probable one, with the distortion starting at least 120 milliseconds after onset and peaking around 225. Pariyadath and Eagleman then showed a tone's pitch and a flicker's rate are unchanged while the dilation is happening, so subjective time is not slowing in general, and traced the effect to prediction violation rather than salience. Fear and anxiety are also run together. Sarigiannidis and colleagues found induced anxiety shortening perceived durations, d = 0.68, and could not reproduce the lengthening under fear. James is quoted as the founder of the aging claim, and his version was already a claim about memory: as experience turns into automatic routine, in his words, 'the days and the weeks smooth themselves out in recollection to contentless units, and the years grow hollow and collapse'.",
+  "sources": [
+    {
+      "text": "Block, R. A., & Zakay, D. (1997). Prospective and retrospective duration judgments: A meta-analytic review. Psychonomic Bulletin & Review, 4(2), 184-197. Read in full from the first author's posted copy at Montana State University; the source for the 20 experiments, d+ = 0.35 and the processing-difficulty ratios.",
+      "doi": "10.3758/BF03209393",
+      "url": "https://www.montana.edu/rblock/documents/papers/BlockZakay1997.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Block, R. A., Hancock, P. A., & Zakay, D. (2010). How cognitive load affects duration judgments: A meta-analytic review. Acta Psychologica, 134(3), 330-343. Read in full from the first author's posted copy; the source for the 117 experiments and the two paradigm effect sizes.",
+      "doi": "10.1016/j.actpsy.2010.03.006",
+      "url": "https://www.montana.edu/rblock/documents/papers/BlockHancockZakay2010.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Block, R. A., Zakay, D., & Hancock, P. A. (1998). Human aging and duration judgments: A meta-analytic review. Psychology and Aging, 13(4), 584-596. Read in full from the third author's posted copy; the source for d+ = 0.40, the 1.21 age ratio and the per-method breakdown.",
+      "doi": "10.1037/0882-7974.13.4.584",
+      "url": "https://peterhancock.ucf.edu/wp-content/uploads/sites/12/2012/05/Block_Zakay_Hancock_Human-aging-and-duration-judgments-A-meta-analytic-review_1998.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Friedman, W. J., & Janssen, S. M. J. (2010). Aging and the speed of time. Acta Psychologica, 134(2), 130-141. Read in full; the source for the 1,865 adults, the correlations with age and rushing, and for the description of Wittmann and Lehnhoff's variance figures.",
+      "doi": "10.1016/j.actpsy.2010.01.004",
+      "url": "https://researchmap.jp/read0153473/published_papers/1402627/attachment_file.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Wittmann, M., & Lehnhoff, S. (2005). Age effects in perception of time. Psychological Reports, 97(3), 921-935. Abstract read at PubMed; the publisher's full text returned HTTP 403.",
+      "doi": "10.2466/pr0.97.3.921-935",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16512313/",
+      "type": "primary"
+    },
+    {
+      "text": "Stetson, C., Fiesta, M. P., & Eagleman, D. M. (2007). Does time really slow down during a frightening event? PLoS ONE, 2(12), e1295. Read in full; the source for the tower, the 2.49-second fall, the 36% figure and the p = 0.98 control.",
+      "doi": "10.1371/journal.pone.0001295",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001295",
+      "type": "primary"
+    },
+    {
+      "text": "Avni-Babad, D., & Ritov, I. (2003). Routine and the perception of time. Journal of Experimental Psychology: General, 132(4), 543-550. Read in full from the second author's posted copy; the source for the Study 3 interaction and the Club Med field data.",
+      "doi": "10.1037/0096-3445.132.4.543",
+      "url": "https://pluto.huji.ac.il/~msiritov/AvniBabadRitov.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Tobin, S., Bisson, N., & Grondin, S. (2010). An ecological approach to prospective and retrospective timing of long durations: A study involving gamers. PLoS ONE, 5(2), e9271. Abstract read at Europe PMC.",
+      "doi": "10.1371/journal.pone.0009271",
+      "url": "https://doi.org/10.1371/journal.pone.0009271",
+      "type": "replication"
+    },
+    {
+      "text": "Tse, P. U., Intriligator, J., Rivest, J., & Cavanagh, P. (2004). Attention and the subjective expansion of time. Perception & Psychophysics, 66(7), 1171-1189. Abstract read at Europe PMC; the publisher's full text is behind a login.",
+      "doi": "10.3758/BF03196844",
+      "url": "https://doi.org/10.3758/BF03196844",
+      "type": "primary"
+    },
+    {
+      "text": "Pariyadath, V., & Eagleman, D. (2007). The effect of predictability on subjective duration. PLoS ONE, 2(11), e1264. Abstract read at Europe PMC.",
+      "doi": "10.1371/journal.pone.0001264",
+      "url": "https://doi.org/10.1371/journal.pone.0001264",
+      "type": "critique"
+    },
+    {
+      "text": "Sarigiannidis, I., Grillon, C., Ernst, M., Roiser, J. P., & Robinson, O. J. (2020). Anxiety makes time pass quicker while fear has no effect. Cognition, 197, 104116. Abstract read at PubMed and Europe PMC; the source for d = 0.68 and the two failed fear replications.",
+      "doi": "10.1016/j.cognition.2019.104116",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31883966/",
+      "type": "replication"
+    },
+    {
+      "text": "Wearden, J. H. (2015). Passage of time judgements. Consciousness and Cognition, 38, 165-171. Abstract read at Europe PMC.",
+      "doi": "10.1016/j.concog.2015.06.005",
+      "url": "https://doi.org/10.1016/j.concog.2015.06.005",
+      "type": "review"
+    },
+    {
+      "text": "Droit-Volet, S., & Wearden, J. (2016). Passage of time judgments are not duration judgments: Evidence from a study using experience sampling methodology. Frontiers in Psychology, 7, 176. Abstract read.",
+      "doi": "10.3389/fpsyg.2016.00176",
+      "url": "https://doi.org/10.3389/fpsyg.2016.00176",
+      "type": "primary"
+    },
+    {
+      "text": "Droit-Volet, S. (2019). Time does not fly but slow down in old age. Time & Society, 28(1), 60-82. Abstract read from the Crossref record; the publisher's page returned HTTP 403.",
+      "doi": "10.1177/0961463X16656852",
+      "url": "https://doi.org/10.1177/0961463X16656852",
+      "type": "primary"
+    },
+    {
+      "text": "Arstila, V. (2012). Time slows down during accidents. Frontiers in Psychology, 3, 196. Abstract read at Europe PMC; the critique of the free-fall reading is taken from that abstract.",
+      "doi": "10.3389/fpsyg.2012.00196",
+      "url": "https://doi.org/10.3389/fpsyg.2012.00196",
+      "type": "critique"
+    },
+    {
+      "text": "James, W. (1890). The Principles of Psychology, chapter XV, The Perception of Time, page 625. Read at Classics in the History of Psychology; the source for the quotation about routine and recollection.",
+      "url": "https://psychclassics.yorku.ca/James/Principles/prin15.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Hammond, C. (2012). Time Warped: Unlocking the Mysteries of Time Perception. Canongate Books, hardback 3 May 2012. Only the publisher's catalogue page was read; the book itself was not obtained and its description does not use the phrase 'holiday paradox'.",
+      "url": "https://canongate.co.uk/books/1210-time-warped-unlocking-the-mysteries-of-time-perception/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
