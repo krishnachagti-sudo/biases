@@ -10,25 +10,31 @@
     "year": 1943,
     "who": "Abraham Wald",
     "where": "the Statistical Research Group, Columbia University",
-    "note": "Wald's memorandum is \"A Method of Estimating Plane Vulnerability Based on Damage of Survivors\", reprinted by the Defense Technical Information Center in 1980. He did not name the bias and the phrase came into use much later; his contribution was the method for recovering the distribution you cannot see from the one you can."
+    "note": "Wald's work is a series of eight memoranda written in 1943 for the Statistical Research Group at Columbia University, under the National Defense Research Committee. The Center for Naval Analyses reprinted them in July 1980 as Research Contribution CRC 432, and the Defense Technical Information Center holds that reprint as ADA091073. Wald did not name the bias and the phrase came into use much later. His contribution was a method for recovering the distribution you cannot see from the one you can."
   },
-  "evidence": "Wald's problem was where to armour bombers. The available data were the damage patterns on aircraft that came back, and the intuitive reading was to reinforce the areas showing the most hits. Wald's insight was that the returning aircraft are the sample that survived their hits, so the areas with few recorded hits are the areas where damage stopped a plane from returning. The general form is a set of equations for estimating vulnerability across the whole fleet from the survivors alone. The finance literature contains the cleanest measured examples: fund performance indices that quietly drop closed funds overstate returns, and the size of that overstatement has been estimated repeatedly.",
+  "evidence": "The reprint's own abstract describes methods for estimating the vulnerability of various parts of an aircraft from damage to surviving planes. Armour appears once, at the end of the eighth memorandum, where Wald writes that the table of vulnerabilities and the other conclusions drawn from it \"can be used as guides for locating protective armor and can be used to make a prediction of the estimated loss of a future mission\". The aircraft is never called a bomber, and the worked example uses hypothetical damage records from a mission of 1,000 planes. Wald also set out the limit the popular telling drops. Survivor damage alone cannot separate two explanations for an area with few recorded hits: that the area is rarely hit, and that hits there stop a plane returning. He assumed the distribution of hits across areas was known in advance, from the dispersion of the guns or from firing dummy bullets and recording where they struck. The finance literature supplies the measured examples. Elton, Gruber and Blake tracked every fund alive at the end of 1976 and defined survivorship bias as the average alpha of surviving funds minus the average alpha of all funds. On a 20-year sample their estimates run from 0.896% to 1.108%; on a 10-year sample, from 0.348% to 0.489%.",
   "replication": {
     "state": "none-located",
     "headline": "No replication attempt was found, and for this entry that is a statement about what kind of claim it is."
   },
-  "limits": "Survivorship bias is not an experimental effect, so there is no protocol to re-run and no confidence interval to compare. It is a structural property of how a sample was assembled, closer to a theorem than to a finding: given a filter correlated with the outcome, the surviving sample is biased, and that follows rather than being tested. What can be measured is the size of the distortion in a particular dataset, and those measurements exist in the mutual-fund literature. The label also gets applied well past the cases where anyone has quantified anything, and its usefulness there rests on the argument rather than on evidence.",
-  "misreadings": "The bomber diagram that circulates with this story is a modern illustration. Wald's report contains no picture of a plane covered in dots; the widely shared image was drawn in 2016 and vectorised in 2021, based on a Lockheed PV-1 outline and on US Air Force hit plots from decades after the war. The story is also often told as though Wald reversed a decision the military had already made, which is more than the record supports. The larger misuse is rhetorical: pointing out that a sample survived something is not by itself an argument that its lesson is wrong, only that the missing cases have to be reasoned about. Used as a conversational trump card it explains every success story equally well, which is another way of saying it explains none of them.",
+  "limits": "Survivorship bias is not an experimental effect, so there is no protocol to re-run and no confidence interval to compare. It is a structural property of how a sample was assembled, closer to a theorem than to a finding: given a filter correlated with the outcome, the surviving sample is biased, and that follows rather than being tested. What can be measured is the size of the distortion in a particular dataset, and Elton, Gruber and Blake did that for one set of American mutual funds over one period. The label also gets applied well past the cases where anyone has quantified anything, and its usefulness there rests on the argument rather than on evidence.",
+  "misreadings": "The bomber diagram that circulates with this story is a modern illustration. Wald's report contains no picture of a plane covered in dots; the widely shared image was drawn in 2016 and vectorised in 2021, based on a Lockheed PV-1 outline and on US Air Force hit plots from decades after the war. The story is also often told as though Wald reversed a decision the military had already made. Mangel and Samaniego, who condensed the memoranda for the Journal of the American Statistical Association, write that they do not know whether the work was used during the Second World War, while recording its later use on the A-4 in Vietnam and on the B-52. The larger misuse is rhetorical: pointing out that a sample survived something is not by itself an argument that its lesson is wrong, only that the missing cases have to be reasoned about. Used as a conversational trump card it explains every success story equally well, which is another way of saying it explains none of them.",
   "sources": [
     {
-      "text": "Wald, A. (1943). A method of estimating plane vulnerability based on damage of survivors. Statistical Research Group, Columbia University; reprinted 1980, Defense Technical Information Center, ADA091073.",
-      "url": "https://apps.dtic.mil/sti/citations/ADA091073",
+      "text": "Wald, A. (1943). A method of estimating plane vulnerability based on damage of survivors. Eight memoranda for the Statistical Research Group, Columbia University; reprinted July 1980 by the Center for Naval Analyses as Research Contribution CRC 432, held by the Defense Technical Information Center as ADA091073, which returned HTTP 403 to this search. Read for this entry from a copy of CRC 432 bound together with the Mangel and Samaniego article and its published comments.",
+      "url": "https://jhanley.biostat.mcgill.ca/bios601/CandH-ch0102/WaldAircraft.pdf",
       "type": "primary"
     },
     {
-      "text": "Mangel, M., & Samaniego, F. J. (1984). Abraham Wald's work on aircraft survivability. Journal of the American Statistical Association, 79(386), 259.",
+      "text": "Mangel, M., & Samaniego, F. J. (1984). Abraham Wald's work on aircraft survivability. Journal of the American Statistical Association, 79(386), 259-267.",
       "doi": "10.2307/2288257",
       "url": "https://doi.org/10.2307/2288257",
+      "type": "secondary"
+    },
+    {
+      "text": "Elton, E. J., Gruber, M. J., & Blake, C. R. (1996). Survivorship bias and mutual fund performance. The Review of Financial Studies, 9(4), 1097-1120. Table 7 gives the bias estimates quoted here.",
+      "doi": "10.1093/rfs/9.4.1097",
+      "url": "https://doi.org/10.1093/rfs/9.4.1097",
       "type": "secondary"
     },
     {
@@ -37,5 +43,5 @@
       "type": "provenance"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
