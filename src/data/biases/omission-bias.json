@@ -1,0 +1,104 @@
+{
+  "no": 196,
+  "slug": "omission-bias",
+  "name": "Omission bias",
+  "aliases": ["Omission-commission asymmetry", "Act-omission distinction", "Inaction preference"],
+  "category": "decision",
+  "statement": "Harm that follows from failing to act is judged less wrong than identical harm that follows from acting, and some people accept a worse outcome to avoid causing it.",
+  "meaning": "Two claims travel under one name. The first is about judgement. Hold intention, motive and outcome constant, and the person who let the harm happen is rated less immoral and less blameworthy than the person who brought it about. The second is about choice. Offered two options with equal or worse consequences, some people take the one that needs no action. The second claim carries the policy weight, because it says people will refuse a vaccine or a treatment that lowers their risk. Whether the two claims stand or fall together is what the literature has argued about for three decades. Calling either one a bias requires the consequences of acting and not acting to be equated, and much of the argument is over whether the studies equate them.",
+  "origin": {
+    "year": 1991,
+    "who": "Mark Spranca, Elisa Minsk and Jonathan Baron",
+    "where": "Journal of Experimental Social Psychology",
+    "note": "\"Omission and commission in judgment and choice\" ran six experiments and named the effect. Ritov and Baron's vaccination paper reached print a year earlier and cites this one as in press."
+  },
+  "evidence": "The naming paper held intention and outcome fixed and varied only the route. In Experiment 1, 57 students at the University of Pennsylvania read a scenario in which John wants a tennis rival to eat a dressing that will make him ill. In one ending John recommends it, in another he watches the rival order it and says nothing. Thirty-seven subjects, 65 percent, rated every omission as less bad than every matching commission, and one subject went the other way. A second scenario gave 39 subjects, 68 percent, with none reversed. Among those who drew a distinction the gap averaged 27.6 points on a 100-point scale. Experiment 4 dropped the moral frame. Forty-eight subjects rated treatment decisions where doing nothing carried a 20 percent risk of brain damage and treating carried 15 percent, and the reverse. Inactions were rated 16 points higher than actions on a scale from -100 to 100, F(1,46) = 10.2, p < .005. In the cases where the omission was the more harmful option, 19 of 144 comparisons, 13 percent, still favoured it; in the mirror cases only 3 of 144, 2 percent, favoured the more harmful commission. Ritov and Baron gave 53 undergraduates a flu killing 10 children in 10,000 and a vaccine with fatal side effects. Asked the highest side-effect death rate a compulsory programme should tolerate, 23 percent said none at all. Told the children who would die of the vaccine were the same children who would otherwise die of the flu, 47 percent accepted the maximum offered risk, against 9 percent in the basic condition. Baron and Ritov later ran the design with the response scale made symmetric between the two options. Across 105 online subjects the mean bias was 0.11 on a scale running from -1 to 1, t(104) = 4.67, p < .0001, with 58 percent leaning towards omission and 22 percent the other way. Field work is correlational. Meszaros and colleagues mailed 500 subscribers of Mothering magazine and got 294 back, and a stated preference for errors of omission over errors of commission predicted refusing pertussis vaccine. DiBonaventura and Chapman surveyed 270 university faculty and staff and report that those showing the bias in hypothetical scenarios were less likely to take a flu vaccine.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A preregistered meta-analysis finds the moral judgement effect and fails to find the choice effect it is usually invoked to explain.",
+    "detail": "Yeung, Yay and Feldman searched for experiments contrasting harm through action with harm through inaction and found 21 samples from 13 articles, giving 49 effect sizes. The pooled estimate was g = 0.45, 95% CI [0.14, 0.77]. Split by outcome measure the picture separates. Morality ratings, 14 samples, gave g = 0.71, 95% CI [0.47, 0.94]. Blame, 7 samples, gave g = 0.32, 95% CI [0.01, 0.64]. Decisions, 4 samples, gave g = 0.30, 95% CI [-0.62, 1.21], an interval that includes zero. Heterogeneity was I-squared = 93.68 percent. Publication-bias adjustments disagreed with each other: p-uniform raised the estimate to g = 0.74, trim-and-fill gave 0.49, and the three-parameter selection model gave g = 0.34, 95% CI [-0.03, 0.72], while PET and PEESE returned intervals spanning zero and Egger's test gave z = 1.97, p = .048. Dropping Connolly and Reb's 2003 vaccination studies, flagged as an outlier, lifted the pooled estimate to g = 0.56, 95% CI [0.32, 0.80] and the decision estimate to g = 0.71, 95% CI [0.16, 1.25]. The authors call the small number of eligible studies surprising after three decades. On the judgement side a single preregistered replication is clean. Jamison, Yay and Feldman ran the naming paper's tennis scenario between subjects with 313 participants and found commissions rated more immoral, d = 0.45 to 0.47, and more responsible, d = 0.40 to 0.53. Regret went the other way, higher for inaction than action, d = -0.26 to -0.19.",
+    "study": {
+      "cite": "Yeung, S. K., Yay, T., & Feldman, G. (2022). Action and inaction in moral judgments and decisions: Meta-analysis of omission bias omission-commission asymmetries. Personality and Social Psychology Bulletin, 48(10), 1499-1515.",
+      "doi": "10.1177/01461672211042315",
+      "year": 2022,
+      "n": 21
+    },
+    "replicated": {
+      "es": 0.45,
+      "esType": "g",
+      "ci": [0.14, 0.77],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The pooled estimate rests on four samples for the outcome that matters to policy, and their interval runs from -0.62 to 1.21. Removing one article moves the pooled figure by a quarter of a standard deviation, which is what a corpus of 13 articles buys. Heterogeneity near 94 percent means the average describes a spread rather than a typical study. The effect is also small where the design is tightest. Baron and Ritov's own symmetric experiment put the mean at 0.09 on a scale where 1 is the maximum, t(111) = 2.57, p = .0114, and they call it likely to be labile. Their blame and regret measures showed no omission bias at all when the inactive option was literally doing nothing, only when it was a treatment that failed. The field evidence is survey evidence. Meszaros and colleagues sampled subscribers to a magazine for parents inclined against routine medicine, and DiBonaventura and Chapman measured bias and vaccination in the same cross-section, so neither shows that the bias causes the refusal. One attempt to find the mechanism in how vaccine information is processed failed. Jiménez, Mesoudi and Tehrani tested 202 women aged 18 to 60 and found severity ratings and recall of symptoms unrelated to whether the symptoms were described as vaccine side effects or as disease effects, with neither bias model improving on the null. Connolly and Reb's paper is quoted here from its published abstract and from Baron and Ritov's reply, because the full text could not be retrieved.",
+  "misreadings": "The first error is treating omission bias and status quo bias as one thing. They usually coincide, since doing nothing normally leaves things as they are, and two papers tried to prise them apart with opposite results. Ritov and Baron built choices in which the current state changes unless the chooser acts. Across 50 subjects, 72 percent of the conflicting pairs went the way omission predicted and 51 percent went the way the status quo predicted, a difference of 20 percentage points, t = 4.33, p < .001, and designating an option as the status quo had no effect in a matching task that required no action. Schweitzer, running his own decomposition of Samuelson and Zeckhauser's effect, concluded that both an exaggerated preference for the current state and an exaggerated preference for inaction occur, that they appear to be additive, and that subjects show them unknowingly. The meta-analysis does not settle this, because it excluded status quo and norm-theory studies by design. The second error is quoting the vaccination studies as a measured refusal rate. Ritov and Baron asked what risk a compulsory programme should tolerate, not whether anyone would vaccinate, and Connolly and Reb argue that the bounded response scale used in that literature manufactured the appearance of anti-vaccination majorities. In their own questionnaire, given to 103 students and 192 non-student adults, a clear majority chose to vaccinate when the two risks were balanced, and they conclude that no general reluctance to vaccinate has been shown. Baron and Ritov concede the scale point for some studies and answer it with open-ended and symmetric designs. The third error is reading the effect as universal. It is a minority pattern with a real minority going the other way: in the symmetric experiment 22 subjects showed a reliable omission bias and 3 showed a reliable action bias, and Baron and Ritov defend the concept on the ground that a substantial minority is enough to matter.",
+  "sources": [
+    {
+      "text": "Spranca, M., Minsk, E., & Baron, J. (1991). Omission and commission in judgment and choice. Journal of Experimental Social Psychology, 27(1), 76-105. Numbers here were read off the author's full-text copy at the URL given.",
+      "doi": "10.1016/0022-1031(91)90011-T",
+      "url": "https://www.sas.upenn.edu/~baron/papers.htm/oc.html",
+      "type": "primary"
+    },
+    {
+      "text": "Ritov, I., & Baron, J. (1990). Reluctance to vaccinate: Omission bias and ambiguity. Journal of Behavioral Decision Making, 3(4), 263-277. Numbers here were read off the author's full-text copy at the URL given.",
+      "doi": "10.1002/bdm.3960030404",
+      "url": "https://www.sas.upenn.edu/~baron/papers.htm/vac.html",
+      "type": "primary"
+    },
+    {
+      "text": "Ritov, I., & Baron, J. (1992). Status-quo and omission biases. Journal of Risk and Uncertainty, 5(1), 49-61. Crossref carries no page range for this record; the pages are those printed on the author's full-text copy at the URL given.",
+      "doi": "10.1007/BF00208786",
+      "url": "https://www.sas.upenn.edu/~baron/papers.htm/sq.html",
+      "type": "primary"
+    },
+    {
+      "text": "Schweitzer, M. (1994). Disentangling status quo and omission effects: An experimental analysis. Organizational Behavior and Human Decision Processes, 58(3), 457-476. Quoted from its abstract; the full text was not retrieved.",
+      "doi": "10.1006/obhd.1994.1046",
+      "url": "https://doi.org/10.1006/obhd.1994.1046",
+      "type": "commentary"
+    },
+    {
+      "text": "Connolly, T., & Reb, J. (2003). Omission bias in vaccination decisions: Where's the \"omission\"? Where's the \"bias\"? Organizational Behavior and Human Decision Processes, 91(2), 186-202. Quoted from its abstract and from Baron and Ritov's reply; the full text was not retrieved.",
+      "doi": "10.1016/S0749-5978(03)00057-8",
+      "url": "https://doi.org/10.1016/S0749-5978(03)00057-8",
+      "type": "commentary"
+    },
+    {
+      "text": "Baron, J., & Ritov, I. (2004). Omission bias, individual differences, and normality. Organizational Behavior and Human Decision Processes, 94(2), 74-85.",
+      "doi": "10.1016/j.obhdp.2004.03.003",
+      "url": "https://doi.org/10.1016/j.obhdp.2004.03.003",
+      "type": "primary"
+    },
+    {
+      "text": "Jamison, J., Yay, T., & Feldman, G. (2020). Action-inaction asymmetries in moral scenarios: Replication of the omission bias examining morality and blame with extensions linking to causality, intent, and regret. Journal of Experimental Social Psychology, 89, 103977.",
+      "doi": "10.1016/j.jesp.2020.103977",
+      "url": "https://doi.org/10.1016/j.jesp.2020.103977",
+      "type": "replication"
+    },
+    {
+      "text": "Yeung, S. K., Yay, T., & Feldman, G. (2022). Action and inaction in moral judgments and decisions: Meta-analysis of omission bias omission-commission asymmetries. Personality and Social Psychology Bulletin, 48(10), 1499-1515.",
+      "doi": "10.1177/01461672211042315",
+      "url": "https://mgto.org/wp-content/uploads/2022/09/Yeung-Yay-Feldman-2022-PSPB-omission-bias-meta-analysis-print.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Meszaros, J. R., Asch, D. A., Baron, J., Hershey, J. C., Kunreuther, H., & Schwartz-Buzaglo, J. (1996). Cognitive processes and the decisions of some parents to forego pertussis vaccination for their children. Journal of Clinical Epidemiology, 49(6), 697-703. Quoted from its abstract; the full text was not retrieved.",
+      "doi": "10.1016/0895-4356(96)00007-8",
+      "url": "https://doi.org/10.1016/0895-4356(96)00007-8",
+      "type": "primary"
+    },
+    {
+      "text": "DiBonaventura, M. d., & Chapman, G. B. (2008). Do decision biases predict bad decisions? Omission bias, naturalness bias, and influenza vaccination. Medical Decision Making, 28(4), 532-539. Quoted from its abstract; the full text was not retrieved.",
+      "doi": "10.1177/0272989X08315250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18319507/",
+      "type": "primary"
+    },
+    {
+      "text": "Jimenez, A. V., Mesoudi, A., & Tehrani, J. J. (2020). No evidence that omission and confirmation biases affect the perception and recall of vaccine-related information. PLOS ONE, 15(3), e0228898.",
+      "doi": "10.1371/journal.pone.0228898",
+      "url": "https://doi.org/10.1371/journal.pone.0228898",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

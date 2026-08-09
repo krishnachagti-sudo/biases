@@ -89,6 +89,18 @@ recorded. Two papers also contradict themselves and the rows say so: Many Labs
 4's abstract gives 1,550 participants where its body gives 1,578, and one
 Registered Replication Report reports two different pooled differences.
 
+A replication paper's account of the study it replicated is a secondary source
+and has to be read as one. Many Labs 2 has now been caught twice describing an
+original wrongly. It gives the false-consensus original's figures as 75.4 and
+54.9, which are trait ratings from that paper's Table 3; the consensus
+estimates are 65.7 and 48.5 in Table 1. And it reports Rottenstreich and Hsee
+as finding 70% and 35% preferring the kiss, where the paper gives 65%
+preferring the kiss at 1% and 70% preferring the cash under certainty. Both
+arrangements yield the same chi-square of 4.91, so that one cannot be caught
+from the statistic. Neither error is Many Labs 2 being careless with its own
+data, which is not in question; it is what happens when a description of
+someone else's table is quoted instead of the table.
+
 ## Demand
 
 Twelve-month mean of monthly Wikipedia pageviews, August 2025 to July 2026,
