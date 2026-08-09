@@ -10,13 +10,13 @@
     "year": 1968,
     "who": "Robert Rosenthal and Lenore Jacobson",
     "where": "the book Pygmalion in the Classroom",
-    "note": "Pupils at a California elementary school took a test the teachers were told would identify late bloomers. The children named as bloomers were picked at random. The reasoning came from Rosenthal's earlier work on experimenter expectancy, where an experimenter's belief about a hypothesis shifts the results they obtain."
+    "note": "Every pupil in kindergarten and the six grades of Oak School, an elementary school in South San Francisco, sat the Tests of General Ability in May 1964, presented to teachers as a test that would predict which children were about to spurt. The children named as bloomers were picked from a table of random numbers. The reasoning came from Rosenthal's earlier work on experimenter expectancy, where an experimenter's belief about a hypothesis shifts the results they obtain."
   },
-  "evidence": "Teachers were given the names, the school year ran, and everyone was tested again. Later reviewers put numbers on what was found. The difference between bloomers and controls corresponded to an effect size of 0.30, a correlation of r = .15, and a mean gap in IQ gain of about four points. The effect was concentrated: significant in two of six grades in the first year and one of five in the second, which is to say absent in eight of the eleven grades examined.",
+  "evidence": "Teachers were given the names, the school year ran, and everyone was tested again. Both groups gained, the bloomers about 12 IQ points and the controls about 8. Jussim and Harber put numbers on the gap between them. It corresponded to an effect size of 0.30, a correlation of r = .15, and a mean difference in IQ gain of about four points. The effect was concentrated: significant in two of six grades in the first year and one of five in the second, which is to say absent in eight of the eleven grades examined. Thorndike's 1968 review reprints Rosenthal and Jacobson's own first-year table, and it shows where the concentration sits. Grade 1 gained 27.4 points for 7 bloomers against 12.0 for 48 controls, grade 2 gained 16.5 for 12 against 7.0 for 47, and the differences in grades 3 to 6 were 0.0, 3.4, minus 0.1 and minus 0.7. The first-year result therefore rests on 19 children.",
   "replication": {
     "state": "mixed",
     "headline": "Eighteen experiments pooled to almost nothing, and then split into four that found a real effect and fourteen that found none.",
-    "detail": "Raudenbush's meta-analysis of 18 experiments on induced teacher expectations and IQ found a mean of d = 0.11, small enough that whether it reached significance depended on which test he used. The interesting part is what he predicted and found underneath that average. The manipulation should only work if the teacher has no better information, so it should die once a teacher has met the child. Re-analysing the same 18 studies with random-effects models, he reported d = 0.43 for the four experiments where teachers had no prior contact with their pupils, a correlation of about r = .2, and no overall effect across the remaining fourteen. Jussim and Harber's review of 35 years of this literature concludes that classroom self-fulfilling prophecies do occur, that they are typically small, and that they tend to dissipate rather than accumulate.",
+    "detail": "Raudenbush's meta-analysis of 18 experiments on induced teacher expectations and IQ found a mean of d = 0.11, small enough that whether it reached significance depended on which test he used. The interesting part is what he predicted and found underneath that average. The manipulation should only work if the teacher has no better information, so it should die once a teacher has met the child. Re-analysing the same 18 studies with random-effects models, he reported d = 0.43 for the four experiments where teachers had no prior contact with their pupils, a correlation of about r = .2, and no overall effect across the remaining fourteen. Jussim and Harber's review of 35 years of this literature concludes that classroom self-fulfilling prophecies do occur, that they are typically small, that they do not accumulate much across perceivers or over time, and that teacher expectations may predict pupil outcomes more because they are accurate than because they are self-fulfilling. Their own summary of where the argument lands is that the effect on IQ runs from nonexistent to small, and that the hypothesis of large and dramatic effects on IQ has been disconfirmed. Work since then has moved off induced expectations and onto naturally occurring ones. Gentrup and colleagues followed 1,026 first-graders in 64 German classrooms and found that the part of a teacher's expectation not explained by a pupil's achievement, cognitive ability and motivation still predicted end-of-year attainment, with standardised coefficients of 0.25 for inaccurately high expectations in reading and minus 0.42 for inaccurately low ones. Rated teacher feedback varied with that inaccuracy but did not carry the effect.",
     "study": {
       "cite": "Raudenbush, S. W. (1984). Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments. Journal of Educational Psychology, 76(1), 85-97.",
       "doi": "10.1037/0022-0663.76.1.85",
@@ -24,27 +24,44 @@
       "sites": 18
     }
   },
-  "limits": "The d = 0.43 figure comes from four studies, which is a thin base for the claim that carries the whole effect. It is also reported here as Jussim and Harber describe Raudenbush's 1994 random-effects re-analysis, a book chapter rather than a paper with a DOI, so the chain runs through a secondary source that names its numbers. The prior-contact moderator is a good theoretical prediction that happened to be confirmed, which is a weaker thing than a prediction registered before the data were seen. And this is a literature about IQ specifically; teacher expectations predicting grades or behaviour is a separate and larger body of work where, as Jussim and Harber argue, much of the correlation may be teachers being accurate rather than teachers being self-fulfilling.",
-  "misreadings": "The effect has been absorbed into management training as proof that believing in people makes them better, at a size the research does not support. Four IQ points, in three grades out of eleven, in one school, is the original result. It is also often stated in reverse as the golem effect, where low expectations damage pupils, and the evidence that negative expectations are the more powerful direction is weak; where the question has been examined the positive direction came out stronger. The deepest misreading is treating the study as settled in either direction. Rosenthal and Raudenbush concluded that expectations do influence IQ; Snow, Wineburg and Spitz concluded that they do not; the disagreement is about the same 18 experiments and is live.",
+  "limits": "The d = 0.43 figure comes from four studies, which is a thin base for the claim that carries the whole effect. It is also reported here as Jussim and Harber describe Raudenbush's 1994 random-effects re-analysis, a book chapter rather than a paper with a DOI, so the chain runs through a secondary source that names its numbers. The d = 0.11 figure runs through the same page at one further remove: Jussim and Harber quote Wineburg's description of the 1984 meta-analysis, and no copy of Raudenbush's own article was obtained for this entry. The prior-contact moderator is a good theoretical prediction that happened to be confirmed, which is a weaker thing than a prediction registered before the data were seen. And this is a literature about IQ specifically; teacher expectations predicting grades or behaviour is a separate and larger body of work where, as Jussim and Harber argue, much of the correlation may be teachers being accurate rather than teachers being self-fulfilling. The instrument is contested and the contest is not settled. Thorndike found a class of 19 pupils with a mean reasoning score of 31 and a first-grade reasoning mean of 58, and called the testing worthless. Jussim and Harber answer that low reliability makes group differences harder to find, so finding one anyway counts for the result rather than against it. This atlas's entry on the observer-expectancy effect states Thorndike's case and not that reply, and the two pages differ there. Thorndike's review is read here from the reprint in Elashoff and Snow's Pygmalion Reconsidered, which also carries Rosenthal's answer to it. The DOI attached to Rosenthal and Jacobson's book across the literature, 10.2307/2092211, resolves to Wilbur Brookover's review of the book in the American Sociological Review, not to the book itself. It is kept below because a reader can open it, and it is labelled for what it is.",
+  "misreadings": "The effect has been absorbed into management training as proof that believing in people makes them better, at a size the research does not support. Four IQ points, in three grades out of eleven, in one school, with the first-year gap resting on 19 children, is the original result. It is also often stated in reverse as the golem effect, where low expectations damage pupils. Rosenthal and Jacobson manipulated positive expectations only, and Jussim and Harber note that instilling inaccurate negative ones would have been unethical, so the study says nothing about that direction. The deepest misreading is treating the question as settled either way. Raudenbush concluded that expectations do influence IQ, Snow and Wineburg concluded that they do not, and Spitz's review came down closer to Snow and Wineburg. The disagreement is about the same 18 experiments and is live.",
   "sources": [
     {
-      "text": "Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development. Holt, Rinehart and Winston.",
+      "text": "Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development. Holt, Rinehart and Winston. The DOI here belongs to Wilbur B. Brookover's review of the book in the American Sociological Review, 34(2), 283, not to the book. The book itself was not opened for this entry.",
       "url": "https://doi.org/10.2307/2092211",
       "doi": "10.2307/2092211",
       "type": "primary"
     },
     {
-      "text": "Raudenbush, S. W. (1984). Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments. Journal of Educational Psychology, 76(1), 85-97.",
+      "text": "Thorndike, R. L. (1968). Reviews: Rosenthal, Robert, and Jacobson, Lenore. Pygmalion in the Classroom. American Educational Research Journal, 5(4), 708-711. Source for the first-year table of IQ gains by grade and for the pretest figures. Read from the reprint in chapter VII of Elashoff and Snow's Pygmalion Reconsidered.",
+      "doi": "10.3102/00028312005004708",
+      "url": "https://gwern.net/doc/statistics/bias/1971-elashoff-pygmalionreconsidered.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Elashoff, J. D., & Snow, R. E. (1971). Pygmalion Reconsidered: A Case Study in Statistical Inference. Worthington, Ohio: Charles A. Jones. Reanalysis of the Rosenthal and Jacobson data; read in full.",
+      "url": "https://gwern.net/doc/statistics/bias/1971-elashoff-pygmalionreconsidered.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Raudenbush, S. W. (1984). Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments. Journal of Educational Psychology, 76(1), 85-97. Closed access; named from its Crossref record and quoted through Jussim and Harber.",
       "doi": "10.1037/0022-0663.76.1.85",
       "url": "https://doi.org/10.1037/0022-0663.76.1.85",
       "type": "replication"
     },
     {
-      "text": "Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. Personality and Social Psychology Review, 9(2), 131-155. Source for the figures quoted from the original study and from Raudenbush's 1994 re-analysis.",
+      "text": "Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. Personality and Social Psychology Review, 9(2), 131-155. Read in full from the author copy at Rutgers; the source for the figures quoted from the original study, from Raudenbush's 1984 meta-analysis and from his 1994 re-analysis.",
       "doi": "10.1207/s15327957pspr0902_3",
-      "url": "https://doi.org/10.1207/s15327957pspr0902_3",
+      "url": "http://nwkpsych.rutgers.edu/~kharber/publications/Jussim.&.Harber.2005.%20Teacher%20Expectations%20and%20Self-Fulfilling%20Prophesies.pdf",
       "type": "review"
+    },
+    {
+      "text": "Gentrup, S., Lorenz, G., Kristen, C., & Kogan, I. (2020). Self-fulfilling prophecies in the classroom: Teacher expectations, teacher feedback and student achievement. Learning and Instruction, 66, 101296. Read in full from the Bamberg repository copy.",
+      "doi": "10.1016/j.learninstruc.2019.101296",
+      "url": "https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download",
+      "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
