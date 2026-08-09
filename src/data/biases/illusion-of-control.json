@@ -1,0 +1,81 @@
+{
+  "no": 100,
+  "slug": "illusion-of-control",
+  "name": "Illusion of control",
+  "aliases": ["Illusory control", "Illusion of controllability"],
+  "category": "belief",
+  "statement": "People treat purely chance events as if skill mattered, and feel likelier to win when the game lets them choose, compete, practise or take part.",
+  "meaning": "Langer's definition is narrow and worth keeping: an expectancy of a personal success probability inappropriately higher than the objective probability would warrant. The claim is not that people say the wrong thing about probability. It is that cues borrowed from skill settings, choice, competition, familiarity and involvement, raise confidence in a setting where nothing a person does can change the odds. Two separate literatures now carry the name. One is Langer's, about gamblers and lottery tickets. The other is the contingency-judgement paradigm, where participants press a button and rate their control over a light, and which this atlas covers under depressive realism.",
+  "origin": {
+    "year": 1975,
+    "who": "Ellen J. Langer",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Her paper is titled \"The Illusion of Control\" and reports six studies. It is based on a doctoral dissertation submitted to Yale, and the journal received it on 3 May 1974."
+  },
+  "evidence": "The famous study is the second of the six. Langer sold $1 lottery tickets to office workers at an insurance agency and a manufacturing firm, using football cards, with a pot of about $50. Twenty-seven people picked their own card and 26 were handed one. Asked before the draw what they would sell it back for, the choosers named $8.67 on average and the others $1.96, t = 4.33, p < .005. Fifteen said at first that they would not sell at all, ten of them choosers. The other five studies vary the skill cue rather than the price. In Study 1, 36 male Yale undergraduates bet more against an awkward opponent than a confident one, 16.25 cents against 11.04, t = 2.39, p < .025. Study 3 crossed choice with familiar or unfamiliar ticket symbols and found both mattered, Z = 1.83, p < .05, one-tailed. Study 4 gave telephone company employees practice on a path-tracing box and raised their pretrial confidence from 3.80 to 6.07, F(1, 56) = 4.71, p < .05. Study 5 tracked confidence among racetrack customers across an evening, F(2, 403) = 4.09, p < .05. In Study 6, 63.6% of office workers who received their lottery number one digit a day kept it, against 31.6% of those given all three digits at once. Langer also reports two studies that did not confirm the prediction, one in which choice mattered only for women, and a questionnaire version of the competition study whose significant results ran opposite to the prediction.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Seventeen preregistered experiments on 10,825 people found no evidence that choice causes an illusion of control, while a preregistered replication of the coin-toss study and a meta-analysis of the wider literature both come out positive.",
+    "detail": "Klusowski, Small and Simmons went after the choice mechanism, which is the one Langer's lottery studies established. Across their first nine experiments, on lotteries, roulette colours and chocolates, choosers never felt likelier to win than people assigned an option. Their Study 10 is the sharpest test: choice did not raise incentive-compatible wagers when six numbers shared a 35% chance, d = 0.04, 95% CI [-0.16, 0.23], but raised them when the numbers carried different odds, d = 0.31 [0.12, 0.51]. So the measure worked. Studies 12 to 15 did find small aggregate differences in probability estimates, d from 0.16 to 0.29, and then dissolved them: between 76% and 85% of participants said their box was no likelier to win than chance, and Studies 16 and 17 showed that the estimate for the box a person thought best was no higher after choosing than before. Choice selects the people who already hold the belief rather than creating it. The coin-toss branch fares better. Eben, Chen, Billieux and Verbruggen ran a preregistered online replication of Langer and Roth with 289 Prolific participants split across descending, ascending and random win sequences. The same three of five questions were significant as in the original, with moderate Bayesian support, but none of the five reached their preregistered threshold of BF10 above 10, and only the past-performance question survived correction for multiple comparisons. Their largest effect was Hedges' g_av = 0.49. Stefan and David's meta-analysis of later experiments gives a weighted mean D of .62, 95% CI .49 to .75.",
+    "study": {
+      "cite": "Klusowski, J., Small, D. A., & Simmons, J. P. (2021). Does Choice Cause an Illusion of Control? Psychological Science, 32(2), 159-172.",
+      "doi": "10.1177/0956797620958009",
+      "year": 2021,
+      "n": 10825
+    },
+    "replicated": { "es": 0.04, "esType": "d", "ci": [-0.16, 0.23], "ciLevel": 95 }
+  },
+  "limits": "Langer's lottery study itself has never been directly replicated. Klusowski and colleagues re-tested the choice mechanism with new materials and new measures, and their objection to the 1975 result is that it admits other readings, not that they re-ran it and got nothing: choosers may have liked their football player, or anticipated regret at selling a ticket that then won. Nobody has repeated the selling-price procedure. Langer reports no effect sizes and no intervals, so the entry quotes her test statistics as printed. Her Study 3 also contradicts itself on sample size, giving 13 subjects per condition in the text and 15 per cell in the table note. Presson and Benassi's 1996 meta-analysis in the Journal of Social Behavior and Personality could not be obtained, it has no DOI that resolves, and no figure is quoted from it here. The D of .89 for outcome sequences that is sometimes attached to Stefan and David is reported by Eben and colleagues, who note it rests on four studies and 312 participants in total. What survives the scrutiny is thin but real. Hayes, Walasek, Browne and Newall had 1,692 people shake a phone to roll digital dice over 24 trials and found they shook 4.1% harder when aiming for a six than for a one. Their two other preregistered hypotheses failed: the effect did not grow with gambling experience, and it did not track Problem Gambling Severity Index scores.",
+  "misreadings": "The textbook line, that the illusion afflicts gamblers and executives, is a claim about the world that rests on laboratory work about lottery tickets. Clark and Wohl, writing on gambling, note both the replication trouble and the fact that illusory control beliefs still correlate with disordered gambling. Correlation between a questionnaire and a diagnosis is a different finding from an experiment showing that choice manufactures the belief. The second confusion is direction. Thompson, Armstrong and Thomas titled their review of the field \"Illusions of control, underestimations, and accuracy\", because people also get control wrong the other way, and their control heuristic explains overestimation and underestimation with one mechanism. Third, the effect is often described as universal. In Klusowski's data a large majority of participants were correct that identical options were identical, and the aggregate effects came from a minority who thought otherwise before choosing anything. Langer's own paper is also less tidy than its reputation. It names two studies that did not work, and Study 2's headline gap of $8.67 against $1.96 comes from 53 office workers, six of them women.",
+  "sources": [
+    {
+      "text": "Langer, E. J. (1975). The illusion of control. Journal of Personality and Social Psychology, 32(2), 311-328.",
+      "doi": "10.1037/0022-3514.32.2.311",
+      "url": "https://doi.org/10.1037/0022-3514.32.2.311",
+      "type": "primary"
+    },
+    {
+      "text": "Langer, E. J., & Roth, J. (1975). Heads I win, tails it's chance: The illusion of control as a function of the sequence of outcomes in a purely chance task. Journal of Personality and Social Psychology, 32(6), 951-955.",
+      "doi": "10.1037/0022-3514.32.6.951",
+      "url": "https://doi.org/10.1037/0022-3514.32.6.951",
+      "type": "primary"
+    },
+    {
+      "text": "Klusowski, J., Small, D. A., & Simmons, J. P. (2021). Does Choice Cause an Illusion of Control? Psychological Science, 32(2), 159-172.",
+      "doi": "10.1177/0956797620958009",
+      "url": "https://doi.org/10.1177/0956797620958009",
+      "type": "replication"
+    },
+    {
+      "text": "Eben, C., Chen, Z., Billieux, J., & Verbruggen, F. (2023). Outcome sequences and illusion of control - Part I: An online replication of Langer & Roth (1975). International Gambling Studies, 23(2), 257-268.",
+      "doi": "10.1080/14459795.2022.2133906",
+      "url": "https://doi.org/10.1080/14459795.2022.2133906",
+      "type": "replication"
+    },
+    {
+      "text": "Stefan, S., & David, D. (2013). Recent developments in the experimental investigation of the illusion of control. A meta-analytic review. Journal of Applied Social Psychology, 43(2), 377-386.",
+      "doi": "10.1111/j.1559-1816.2013.01007.x",
+      "url": "https://doi.org/10.1111/j.1559-1816.2013.01007.x",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Thompson, S. C., Armstrong, W., & Thomas, C. (1998). Illusions of control, underestimations, and accuracy: A control heuristic explanation. Psychological Bulletin, 123(2), 143-161.",
+      "doi": "10.1037/0033-2909.123.2.143",
+      "url": "https://doi.org/10.1037/0033-2909.123.2.143",
+      "type": "commentary"
+    },
+    {
+      "text": "Hayes, T., Walasek, L., Browne, M., & Newall, P. (2025). The active foundations of the illusion of control: an experimental test of the Henslin effect. Addiction Research & Theory, 33(3), 223-230.",
+      "doi": "10.1080/16066359.2024.2415590",
+      "url": "https://doi.org/10.1080/16066359.2024.2415590",
+      "type": "replication"
+    },
+    {
+      "text": "Clark, L., & Wohl, M. J. A. (2022). Langer's illusion of control and the cognitive model of disordered gambling. Addiction, 117(4), 1146-1151.",
+      "doi": "10.1111/add.15649",
+      "url": "https://doi.org/10.1111/add.15649",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
