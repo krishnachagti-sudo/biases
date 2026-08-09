@@ -1,0 +1,107 @@
+{
+  "no": 136,
+  "slug": "observer-expectancy-effect",
+  "name": "Observer-expectancy effect",
+  "aliases": [
+    "Experimenter expectancy effect",
+    "Experimenter bias",
+    "Observer bias",
+    "Clever Hans effect"
+  ],
+  "category": "social",
+  "statement": "An observer who knows which result is expected tends to obtain it, by cueing the subject or by scoring ambiguous evidence in the expected direction.",
+  "meaning": "Two mechanisms travel under one name. An observer can change the subject's behaviour through posture, timing and the small signals any interaction carries. An observer can also change the record, marking a borderline case as a success because success is what the treatment should produce. Neither requires dishonesty and neither is available to introspection. This is the only bias in the atlas whose main product is a procedure rather than a finding: the rule that whoever measures an outcome should not know which condition produced it.",
+  "origin": {
+    "year": 1911,
+    "who": "Oskar Pfungst",
+    "where": "the book Clever Hans (The Horse of Mr. von Osten), translated by Carl L. Rahn and published by Henry Holt",
+    "note": "The investigation came first. A commission convened by Carl Stumpf reported on 12 September 1904 that no regular signalling could be detected, and Pfungst published his own report on 9 December 1904. The German book preceded Rahn's English translation. The term experimenter expectancy belongs to Robert Rosenthal's programme of the 1960s, which extended the idea from a horse to human research participants."
+  },
+  "evidence": "Wilhelm von Osten's horse appeared to do arithmetic, spell, read the clock and name musical intervals by tapping a forefoot. Pfungst separated the two things nobody had separated: whether the horse knew the answer, and whether the questioner did. Asked to tap numerals on cards that nobody present could see, Hans was right in 8 percent of 49 tests; when the questioner could see the card, he was right in 98 percent of 42 tests. Across all the series, procedure with knowledge produced 90 to 100 percent correct answers and procedure without knowledge produced at most 10 percent. Blinders settled the channel. In 102 tests with large blinders the questioner was certainly out of sight in 35, seen in 56 and undecided in 11, and Hans scored 6 percent, 89 percent and 18 percent. The cue was a slight forward bend of the questioner's head and trunk, which started the tapping, and a slight upward jerk, which stopped it. Pfungst reproduced it deliberately: of thirty tests in which he simply stooped, twenty-nine set the horse tapping, and it kept tapping until he straightened up. He then reversed the roles and played the horse himself, reading twelve human subjects who were thinking of a word or a number, and averaging 73 percent correct over 350 tests. Rosenthal and Fode's 1963 rat study is the usual citation for the laboratory version of this. Its text is paywalled, so no figure from it appears on this page.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Where the same outcome in the same trial is judged by a blinded and a non-blinded assessor, the non-blinded one reports a bigger treatment effect, in study after study.",
+    "detail": "The clean design compares two assessors inside one trial, so the patients, the treatment and the randomisation are held fixed and only the assessor's knowledge varies. Hrobjartsson and colleagues found 21 such trials with binary outcomes covering 4,391 patients and pooled a ratio of odds ratios of 0.64 (95% CI 0.43 to 0.96), meaning non-blinded assessors exaggerated odds ratios by 36 percent. The two assessors agreed in a median of 78 percent of assessments, interquartile range 64 to 90 percent, and the whole distortion came from misclassifying a median of 3 percent of patients per trial. Salazar and colleagues updated the search to 2024 and reached 66 trials across 18 specialties, pooling 43 of them, 7,055 patients, at a ratio of odds ratios of 0.71 (95% CI 0.55 to 0.92), an exaggeration of 29 percent. The distortion ran larger in non-drug trials, 0.62 (0.46 to 0.84), and in industry-funded trials, 0.57 (0.37 to 0.88). Outside medicine, Holman and colleagues matched 83 pairs of evolutionary biology studies on the same question, one blind and one not, and found the non-blind member of the pair reported the larger effect size in 53 of 83 pairs, 63 percent (95% CI 52 to 74 percent), an inflation of about 27 percent. In their text-mined sample of 12,710 papers, 13.4 percent were scored as blind.",
+    "study": {
+      "cite": "Salazar, J., Moustgaard, H., Bracchiglione, J., & Hrobjartsson, A. (2025). Empirical evidence of observer bias in randomized clinical trials: updated and expanded analysis of trials with both blinded and non-blinded outcome assessors. Journal of Clinical Epidemiology, 183, 111787.",
+      "doi": "10.1016/j.jclinepi.2025.111787",
+      "year": 2025,
+      "sites": 66,
+      "n": 9451
+    }
+  },
+  "limits": "The strongest counter-evidence is about blinding rather than about expectancy. The MetaBLIND study took the other comparison, between trials rather than within them, across 142 meta-analyses holding 1,153 trials. For lack of blinding of outcome assessors it found a ratio of odds ratios of 1.01 (95 percent credible interval 0.86 to 1.18) in 46 meta-analyses of subjective observer-reported outcomes, with no clear gradient by how subjective the outcome was, and no average difference for unblinded patients or clinicians either. Its authors offer two readings, that blinding matters less than believed or that the method is confounded, and recommend blinding anyway. The trial figures come from medicine and from outcomes that require judgement, and they do not transfer untested to a psychology laboratory. Pfungst is one horse, one investigator and no statistics. Rosenthal's laboratory programme was contested at the time by Barber and Silver, whose 1968 monograph is named here from its Crossref record and read only through Bishop's summary of its argument, that the demonstrations rested on small samples and analytic flexibility. Rosenthal and Rubin's synthesis of 345 expectancy experiments is cited below for its design, which its abstract describes; the pooled magnitudes are in the body of a paywalled article and are not quoted here.",
+  "misreadings": "The classroom study is treated as the demonstration and is the weakest link in the chain. Thorndike's review reprints Rosenthal and Jacobson's own table of first-year IQ gains: grade 1, 27.4 points for the 7 designated bloomers against 12.0 for 48 controls; grade 2, 16.5 for 12 against 7.0 for 47; then differences of 0.0, 3.4, minus 0.1 and minus 0.7 in grades 3 to 6. The whole effect rests on 19 children. Thorndike then went after the instrument and found a class of 19 pupils with a mean reasoning score of 31, a first-grade mean of 58, and six designated bloomers in one second-grade class with a post-test mean of 150.17 and a standard deviation of 40.17. Elashoff and Snow's reanalysis found no expectancy advantage in grades 3 to 6 and called grades 1 and 2 unresolvable, because the two groups differed so much at pre-test. The second misreading is that knowing about the cue is enough to stop making it. Pfungst reported that the people he let in on the secret found it difficult and sometimes almost impossible to inhibit the movements on purpose. Blinding works by removing the observer's knowledge, not by asking for self-control. The third is confusion with the Hawthorne effect, which is about a subject who knows they are watched rather than an observer who knows what to expect.",
+  "sources": [
+    {
+      "text": "Pfungst, O. (1911). Clever Hans (The Horse of Mr. von Osten): A Contribution to Experimental Animal and Human Psychology. Translated by Carl L. Rahn. New York: Henry Holt and Company.",
+      "url": "https://www.gutenberg.org/files/33936/33936-h/33936-h.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Rosenthal, R., & Fode, K. L. (1963). The effect of experimenter bias on the performance of the albino rat. Behavioral Science, 8(3), 183-189. Cited for its existence and design; the full text was not obtainable.",
+      "doi": "10.1002/bs.3830080302",
+      "url": "https://doi.org/10.1002/bs.3830080302",
+      "type": "primary"
+    },
+    {
+      "text": "Rosenthal, R., & Rubin, D. B. (1978). Interpersonal expectancy effects: the first 345 studies. Behavioral and Brain Sciences, 1(3), 377-386. Design and the eight research areas read from the publisher abstract; the pooled figures were not obtainable.",
+      "doi": "10.1017/S0140525X00075506",
+      "url": "https://doi.org/10.1017/S0140525X00075506",
+      "type": "review"
+    },
+    {
+      "text": "Hrobjartsson, A., Thomsen, A. S. S., Emanuelsson, F., Tendal, B., Hilden, J., Boutron, I., Ravaud, P., & Brorson, S. (2012). Observer bias in randomised clinical trials with binary outcomes: systematic review of trials with both blinded and non-blinded outcome assessors. BMJ, 344, e1119.",
+      "doi": "10.1136/bmj.e1119",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22371859/",
+      "type": "replication"
+    },
+    {
+      "text": "Salazar, J., Moustgaard, H., Bracchiglione, J., & Hrobjartsson, A. (2025). Empirical evidence of observer bias in randomized clinical trials: updated and expanded analysis of trials with both blinded and non-blinded outcome assessors. Journal of Clinical Epidemiology, 183, 111787.",
+      "doi": "10.1016/j.jclinepi.2025.111787",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40258524/",
+      "type": "replication"
+    },
+    {
+      "text": "Moustgaard, H., Clayton, G. L., Jones, H. E., Boutron, I., Jorgensen, L., Laursen, D. R. T., Olsen, M. F., Paludan-Muller, A., Ravaud, P., Savovic, J., Sterne, J. A. C., Higgins, J. P. T., & Hrobjartsson, A. (2020). Impact of blinding on estimated treatment effects in randomised clinical trials: meta-epidemiological study. BMJ, 368, l6802.",
+      "doi": "10.1136/bmj.l6802",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31964641/",
+      "type": "replication"
+    },
+    {
+      "text": "Holman, L., Head, M. L., Lanfear, R., & Jennions, M. D. (2015). Evidence of Experimental Bias in the Life Sciences: Why We Need Blind Data Recording. PLOS Biology, 13(7), e1002190.",
+      "doi": "10.1371/journal.pbio.1002190",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002190",
+      "type": "replication"
+    },
+    {
+      "text": "Thorndike, R. L. (1968). Reviews: Rosenthal, Robert, and Jacobson, Lenore. Pygmalion in the Classroom. New York: Holt, Rinehart and Winston, 1968. American Educational Research Journal, 5(4), 708-711. Read from the review as reprinted in chapter VII of Elashoff and Snow's Pygmalion Reconsidered, which also carries Rosenthal's reply.",
+      "doi": "10.3102/00028312005004708",
+      "url": "https://gwern.net/doc/statistics/bias/1971-elashoff-pygmalionreconsidered.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Elashoff, J. D., & Snow, R. E. (1971). Pygmalion Reconsidered: A Case Study in Statistical Inference. Worthington, Ohio: Charles A. Jones. Reanalysis of the Rosenthal and Jacobson data.",
+      "url": "https://gwern.net/doc/statistics/bias/1971-elashoff-pygmalionreconsidered.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Raudenbush, S. W. (1984). Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18 experiments. Journal of Educational Psychology, 76(1), 85-97. The classroom literature, covered in this atlas under the Pygmalion effect.",
+      "doi": "10.1037/0022-0663.76.1.85",
+      "url": "https://doi.org/10.1037/0022-0663.76.1.85",
+      "type": "review"
+    },
+    {
+      "text": "Barber, T. X., & Silver, M. J. (1968). Fact, fiction, and the experimenter bias effect. Psychological Bulletin, 70(6, Pt.2), 1-29. Named from its Crossref record; its argument is quoted here through Bishop's summary.",
+      "doi": "10.1037/h0026724",
+      "url": "https://doi.org/10.1037/h0026724",
+      "type": "review"
+    },
+    {
+      "text": "Bishop, D. V. M. Evaluating What Works, chapter 8, The experimenter as a source of bias. Source for the characterisation of Barber and Silver's critique of Rosenthal.",
+      "url": "https://bookdown.org/dorothy_bishop/Evaluating_What_Works/experimenter.html",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
