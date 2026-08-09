@@ -1,0 +1,111 @@
+{
+  "no": 130,
+  "slug": "thin-slicing",
+  "name": "Thin-slicing",
+  "aliases": ["Thin slices", "First impressions", "Snap judgements", "Zero-acquaintance judgement"],
+  "category": "social",
+  "statement": "Judgements of a person formed from a few seconds of their behaviour predict certain outcomes about as well as judgements formed from several minutes.",
+  "meaning": "The claim is about exposure length, not about intuition being wise. Ambady and Rosenthal asked whether observers who see under five minutes of somebody's expressive behaviour can predict an outcome measured elsewhere, and whether seeing more of it helps. Their answer was that a short look does about as well as a longer one. Two things decide what that is worth. The first is the criterion: predicting whether a person is lying is a different task from predicting how their students will rate them at the end of term. The second is who is doing the predicting. Almost every headline correlation in this literature comes from averaging many observers into one score, and then correlating that average with an outcome across a handful of targets. It describes what a crowd of strangers knows collectively, not what one stranger knows.",
+  "origin": {
+    "year": 1992,
+    "who": "Nalini Ambady and Robert Rosenthal",
+    "where": "Psychological Bulletin",
+    "note": "Their paper \"Thin slices of expressive behavior as predictors of interpersonal consequences: A meta-analysis\" gathered 38 independent results from 44 studies, all using observations of under 300 seconds. Ratings had to be tied to an objective behavioural criterion or to expert ratings; self-report and peer ratings were excluded as criteria."
+  },
+  "evidence": "The 1992 meta-analysis reports an unweighted mean r of .39 and a weighted mean of .41, with a 95% confidence interval of .34 to .48. The distribution is wide: the median result is .30, the lower quartile .22, the lowest .10 and the highest .87. Effect sizes for six exposure bands ran from .24 to .45, and a linear contrast on exposure length was not significant, which is the basis for the claim that longer looks add nothing. The band for clips under 30 seconds contained a single result, r = .33. Median sample size across studies was 32 targets, with a range of 2 to 271, and a median of 37 judges each. The best-known demonstration is Ambady and Rosenthal's 1993 teacher study. Nine female judges watched three silent 10-second clips of each of 13 college teaching fellows. Their averaged ratings on 15 dimensions correlated .76 with the teachers' end-of-semester student evaluations, on 11 degrees of freedom. A second sample of 13 high-school teachers gave .68 against a principal's ratings. Rated physical attractiveness correlated .32 with the college criterion and -.18 with the school criterion, neither significant. Cutting the clips to 5 and 2 seconds gave combined correlations of .46 and .54, against .72 at 10 seconds. The authors note an unexplained reversal in which 2-second clips beat 5-second ones for the college sample. Pooling all six sub-studies gives r = .59. On faces rather than behaviour, Todorov, Mandisodza, Goren and Hall had participants pick the more competent-looking of two candidates. The one picked won 71.6% of 95 US Senate races from 2000 to 2004 and 66.8% of 600 House races from 2002 and 2004. Competence ratings correlated .44 with the difference in vote share across Senate races, while trust-related ratings correlated -.09 and likability -.17. A 1-second exposure predicted 67.6% of Senate races.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Short exposures keep predicting things above chance, and the individual results range from clean replications to a documented miss, with the causal reading of the famous election finding contested.",
+    "detail": "The one formal direct replication in this family is the Reproducibility Project: Psychology attempt on Rule and Ambady's 2008 finding that ratings of chief executives' faces track their companies' profits. Its registered criterion was the partial correlation between rated leadership and profits. The original gave r = .30 across 50 chief executives; the replication gave r = .27 with the same sample size, p = .086, which misses the criterion while sitting almost on top of the original estimate. The project's own note explains why nobody can fix this by running more participants: the targets are the unit of analysis, so power is set by the 50 faces, not by the number of undergraduates rating them. Elsewhere the record is genuinely split. Ballew and Todorov reproduced the election result for governors. Pre-election competence judgements called 68.6% of 35 gubernatorial races and 72.4% of Senate races in 2006. Telling people to deliberate cut accuracy to 60.0%, which was not different from chance, and a 100-millisecond exposure predicted only 59.6% of 89 gubernatorial races. Atkinson, Enos and Hill then attacked the causal reading. Scoring the faces of 972 congressional candidates, they found that parties field better-looking challengers where they think they can win: competitiveness predicts challenger facial competence at 0.304 for the House and 0.285 for the Senate. Controlling for that, the direct effect of a face on one vote is 1 to 3 points for partisans and about 4 for independents. Across all 99 Senate elections they studied, the challenger's face was never the difference between winning and losing. Cox, Devine, Bischmann and Hyde ran five experiments on inferring sexual orientation and concluded that orientation is not visible in the face, and that apparent face-based accuracy comes from a third-variable confound. Furley, Wunderlich, Grosshaus and Schweizer argue that thin-slice accuracy is a wisdom-of-crowds effect, with averaged judgements beating individual ones.",
+    "study": {
+      "cite": "Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. Per-study figures read off the project's data file and the replication report for Rule and Ambady (2008) at https://osf.io/r5gpv/.",
+      "doi": "10.1126/science.aac4716",
+      "year": 2015,
+      "n": 50
+    },
+    "original": { "es": 0.3, "esType": "r" },
+    "replicated": { "es": 0.27, "esType": "r" }
+  },
+  "limits": "The target samples are small and the entry's correlations should be read with that in mind. Both teacher studies rest on 13 teachers, so a correlation of .76 carries 11 degrees of freedom, and the Reproducibility Project figures rest on 50 faces. No confidence intervals are printed for the 1993 correlations or the replication because neither source reports them, and computing them here would produce a number no source contains. The criterion also decides what the accuracy means. Ambady and Rosenthal's inclusion rule accepted objective behavioural outcomes and expert ratings, and their largest category by effect size was social psychology at .47, ahead of clinical at .41 and deception detection at .31. Predicting a student evaluation is predicting another set of impressions, which is a weaker claim than predicting how well somebody teaches. Two figures here are named rather than quoted: Furley and colleagues' individual-versus-aggregate correlations were not obtained, because the paper sat behind a login these checks did not pass, so only their abstract's conclusion is used. Murphy and colleagues' five studies on one-minute slices are cited for their reported conclusion of some loss in predictive validity, without the underlying coefficients. The Reproducibility Project's own spreadsheet lists Rule and Ambady (2008) under the wrong journal, volume and pages; the citation here is taken from Crossref instead.",
+  "misreadings": "The pooled r of .39 is read as showing that snap judgements of people are accurate. It shows that averages of many raters' snap judgements correlate with a criterion across a small set of targets, and the median study in that same meta-analysis returns .30 with a lower quartile of .22. The finding that exposure length does not matter is also stretched past its evidence: the band for clips under half a minute held one result. Willis and Todorov's 100-millisecond study is routinely cited as proof that impressions formed in a tenth of a second are correct. It measured agreement, correlating judgements made at 100, 500 and 1,000 milliseconds against judgements made with no time limit, and reports no accuracy criterion at all. The election work is the most over-read. Todorov and colleagues wrote in the paper itself that there is no good evidence that trait inferences from facial appearance are accurate. Their design is correlational, and candidate selection is the gap Atkinson, Enos and Hill filled. Popular retellings, above all Malcolm Gladwell's, treat this literature as a licence to trust a first impression. The studies measure what a pooled crowd of raters predicts, they do not license any single reader's hunch, and Ballew and Todorov's deliberation condition is not evidence that thinking makes people wrong about people in general.",
+  "sources": [
+    {
+      "text": "Ambady, N., & Rosenthal, R. (1992). Thin slices of expressive behavior as predictors of interpersonal consequences: A meta-analysis. Psychological Bulletin, 111(2), 256-274.",
+      "doi": "10.1037/0033-2909.111.2.256",
+      "url": "https://doi.org/10.1037/0033-2909.111.2.256",
+      "type": "primary"
+    },
+    {
+      "text": "Ambady, N., & Rosenthal, R. (1993). Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness. Journal of Personality and Social Psychology, 64(3), 431-441.",
+      "doi": "10.1037/0022-3514.64.3.431",
+      "url": "https://doi.org/10.1037/0022-3514.64.3.431",
+      "type": "primary"
+    },
+    {
+      "text": "Todorov, A., Mandisodza, A. N., Goren, A., & Hall, C. C. (2005). Inferences of competence from faces predict election outcomes. Science, 308(5728), 1623-1626.",
+      "doi": "10.1126/science.1110589",
+      "url": "https://doi.org/10.1126/science.1110589",
+      "type": "primary"
+    },
+    {
+      "text": "Willis, J., & Todorov, A. (2006). First impressions: Making up your mind after a 100-ms exposure to a face. Psychological Science, 17(7), 592-598.",
+      "doi": "10.1111/j.1467-9280.2006.01750.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+      "type": "primary"
+    },
+    {
+      "text": "Ballew, C. C., & Todorov, A. (2007). Predicting political elections from rapid and unreflective face judgments. Proceedings of the National Academy of Sciences, 104(46), 17948-17953.",
+      "doi": "10.1073/pnas.0705435104",
+      "url": "https://doi.org/10.1073/pnas.0705435104",
+      "type": "replication"
+    },
+    {
+      "text": "Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716.",
+      "doi": "10.1126/science.aac4716",
+      "url": "https://doi.org/10.1126/science.aac4716",
+      "type": "replication"
+    },
+    {
+      "text": "Reproducibility Project: Psychology, replication report and data for Rule and Ambady (2008), Open Science Framework. Source for the original r = .30, the replication r = .27 and p = .086, and the note on target-level power.",
+      "url": "https://osf.io/r5gpv/",
+      "type": "replication"
+    },
+    {
+      "text": "Rule, N. O., & Ambady, N. (2008). The face of success: Inferences from chief executive officers' appearance predict company profits. Psychological Science, 19(2), 109-111.",
+      "doi": "10.1111/j.1467-9280.2008.02054.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2008.02054.x",
+      "type": "primary"
+    },
+    {
+      "text": "Atkinson, M. D., Enos, R. D., & Hill, S. J. (2009). Candidate faces and election outcomes: Is the face-vote correlation caused by candidate selection? Quarterly Journal of Political Science, 4(3), 229-249.",
+      "doi": "10.1561/100.00008062",
+      "url": "https://doi.org/10.1561/100.00008062",
+      "type": "commentary"
+    },
+    {
+      "text": "Cox, W. T. L., Devine, P. G., Bischmann, A. A., & Hyde, J. S. (2016). Inferences about sexual orientation: The roles of stereotypes, faces, and the gaydar myth. The Journal of Sex Research, 53(2), 157-171.",
+      "doi": "10.1080/00224499.2015.1015714",
+      "url": "https://doi.org/10.1080/00224499.2015.1015714",
+      "type": "commentary"
+    },
+    {
+      "text": "Rule, N. O., & Ambady, N. (2008). Brief exposures: Male sexual orientation is accurately perceived at 50ms. Journal of Experimental Social Psychology, 44(4), 1100-1105.",
+      "doi": "10.1016/j.jesp.2007.12.001",
+      "url": "https://doi.org/10.1016/j.jesp.2007.12.001",
+      "type": "primary"
+    },
+    {
+      "text": "Murphy, N. A., Hall, J. A., Ruben, M. A., Frauendorfer, D., Schmid Mast, M., Johnson, K. E., & Nguyen, L. (2019). Predictive validity of thin-slice nonverbal behavior from social interactions. Personality and Social Psychology Bulletin, 45(7), 983-993. Cited for its abstract's conclusion; the coefficients were not retrieved.",
+      "doi": "10.1177/0146167218802834",
+      "url": "https://doi.org/10.1177/0146167218802834",
+      "type": "replication"
+    },
+    {
+      "text": "Furley, P., Wunderlich, F., Grosshaus, L., & Schweizer, G. (2025). Thin-slice accuracy depends on the wisdom of crowds: Aggregate judgments outperform individual judgments when inferring athletic performance based on nonverbal behavior. Journal of Nonverbal Behavior, 49, 205-226. Cited for its abstract's conclusion; the paper itself was not retrieved.",
+      "doi": "10.1007/s10919-025-00481-4",
+      "url": "https://doi.org/10.1007/s10919-025-00481-4",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
