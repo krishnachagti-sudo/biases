@@ -1,0 +1,107 @@
+{
+  "no": 218,
+  "slug": "self-defeating-prophecy",
+  "name": "Self-defeating prophecy",
+  "aliases": [
+    "Suicidal prophecy",
+    "Self-falsifying prophecy",
+    "Reflexive prediction"
+  ],
+  "category": "social",
+  "statement": "A published prediction can prevent what it predicts, because the people who hear it change what they do, and the forecast is then read as an error.",
+  "meaning": "Merton's self-fulfilling prophecy has a twin that he named and then put aside. A prediction is made public, people act on it, and their actions push the world away from the state it described. Two conditions have to hold. The prediction must reach the people whose behaviour matters, and their response must run against it rather than with it. Neither is automatic. The same publicity that can make a forecast self-defeating can make it self-fulfilling, which is what the bandwagon effect describes, so the direction is a question for measurement rather than for definition. A conditional projection is a separate case. A model saying an epidemic reaches a given size if nothing is done has not predicted that size, it has stated what inaction would cost, and its non-occurrence after action is the model working. The idea is also distinct from the preparedness paradox, entry 142, which is about how averted harm gets judged afterwards rather than about a prediction undoing itself.",
+  "origin": {
+    "year": 1948,
+    "who": "Robert K. Merton",
+    "where": "The Antioch Review, volume 8, issue 2, pages 193-210",
+    "note": "The idea appears in one footnote of the paper that made its twin famous. It reads: 'Counterpart of the self-fulfilling prophecy is the \"suicidal prophecy\" which so alters human behavior from what would have been its course had the prophecy not been made, that it fails to be borne out. The prophecy destroys itself.' Merton adds that this important type is not considered here. He refers the reader to R. M. MacIver's The More Perfect Union, published by Macmillan in 1948, for examples of both types, and to his own 1936 paper in the American Sociological Review for a general statement. His name for it was 'suicidal prophecy'. Where the phrase 'self-defeating prophecy' first appeared in print could not be established, and the earliest article title carrying it that a Crossref title search returns is from 2014."
+  },
+  "evidence": "The formal treatment came six years after Merton and is a proof rather than a measurement. Simon asked under what conditions a public prediction that influences behaviour is still confirmed. He defines a bandwagon effect as people being more likely to vote for a candidate when they expect him to win, and an underdog effect as the reverse. Writing the actual vote as a function of the published prediction, he shows that a prediction which is borne out always exists provided that function is continuous, by Brouwer's fixed-point theorem. He credits Grunberg and Modigliani with solving the problem for certain cases of economic prediction. The empirical work sits in elections. Sudman reviewed the exit-poll studies and concluded that exit polls appear to cause small declines in total voting in areas where the polls close late for those elections where the exit polls predict a clear winner when previously the race had been considered close. Morton, Muller, Page and Torgler used a French voting reform under which some overseas territories voted after mainland exit poll results were public. Their abstract reports that knowing the exit poll information decreases voter turnout by about 11 percentage points, and that it increases bandwagon voting, so those who do turn out are likelier to vote for the expected winner. Westwood, Messing and Lelkes ran two studies on probabilistic forecasts. In the first, 4,151 respondents from wave 25 of Pew's American Trends Panel saw a hypothetical Senate projection given either as a vote share or as a win probability. Those shown the probability were on average 7% more certain about who would win. Shown an 87% chance of victory, participants expected the candidate to take 64.6% of the vote, 95% CI 63.0% to 66.2%; shown the equivalent 55% vote share, they expected 56.5%, 95% CI 55.3% to 57.6%. Thirty-eight per cent gave the same number for expected vote share and likelihood of victory. In the second, 1,171 respondents played 5,845 rounds of a game costing $1 to vote and paying $2 on a win. Voting fell as the stated probability moved away from even odds, b = -0.17, p = 4.2 x 10-5. A forecast 20 points above even odds lowered voting by 3.4%, 95% CI 1.8% to 5.1%, and one 40 points above lowered it by 6.9%, 95% CI 3.6% to 10.2%. Vote share extremity had no detectable effect, b = -0.13, p = .48. The epidemic case is a single episode rather than a study. Meltzer and colleagues projected in September 2014 that about 550,000 reported Ebola cases, 1.4 million corrected for underreporting, could occur in Liberia and Sierra Leone by 20 January 2015 if trends continued without a scale-up of effective interventions. The CDC's 2016 retrospective states that although initial model estimates of Ebola represented a worst-case scenario, the international community responded to ensure that these dire predictions would not be realised.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Conclusive forecasts do cut turnout, by about 11 percentage points in the cleanest field test. Whose turnout they cut is disputed, and two studies find the leader's side turning out more.",
+    "detail": "The mechanism and the direction come apart. That a published forecast of a decisive outcome lowers participation is found by three designs: Sudman's review of exit polls, Morton and colleagues' natural experiment at about 11 percentage points, and Westwood, Messing and Lelkes's incentivised game at 3.4 percentage points for a 20-point advantage and 6.9 for a 40-point one. The self-defeating part of the claim is that this falls on the predicted winner's supporters, and that is where the studies disagree. Morton and colleagues report that exit poll information increases bandwagon voting, which runs with the forecast rather than against it. Agranov, Goeree, Romero and Yariv, in laboratory elections, report that voting propensity increases systematically with subjects' predictions of their preferred alternative's advantage, that polls lead to more participation by the expected majority, and that they generate more landslide elections. Westwood and colleagues report no evidence of directional differences in their game, citing their appendix table A16, so the demobilisation they measure is not confined to the leading side. Their survey experiment does find the certainty effect stronger when the respondent's candidate was ahead in the polls. Two of their smaller replications, on Amazon Mechanical Turk with 275 participants and on a Qualtrics panel with 178, recovered the same perceptual pattern across offices and when the rival candidate was the one ahead.",
+    "study": {
+      "cite": "Westwood, S. J., Messing, S., & Lelkes, Y. (2020). Projecting Confidence: How the Probabilistic Horse Race Confuses and Demobilizes the Public. The Journal of Politics, 82(4), 1530-1544.",
+      "doi": "10.1086/708682",
+      "year": 2020,
+      "n": 1171
+    }
+  },
+  "limits": "Nothing found here tests the general claim. Every quantitative result is about elections, and within elections about turnout rather than about a forecast being falsified. Westwood and colleagues measure a paid game and an online panel, not votes cast; they say so, and call for field replication. Their survey experiment found 93% intending to vote in every condition, and they treat its turnout result as exploratory. The Morton figure of 11 percentage points was read from the abstract at EconPapers and IDEAS, because the published article and the Queensland University of Technology preprint could not be opened. The same paper is described by Westwood and colleagues as showing a full 12 percentage point decrease, and that discrepancy could not be resolved without the full text. Sudman and Agranov are also read from abstracts alone. Delli Carpini's 1984 study of the networks' early call of the 1980 race is named across this literature; its full text could not be obtained, and no figure from it appears above. Merton's 1936 paper could not be opened either, so nothing is claimed about what it says, only that his 1948 footnote points to it. MacIver's 1948 book was not obtained. The epidemic material is one projection and one retrospective by an overlapping set of authors at the same agency, which is a source with an interest in the answer. Searching covered Crossref by title and by bibliographic text, PubMed, Europe PMC, cdc.gov, Oxford Academic, ScienceDirect, EconPapers, IDEAS, RePEc and general web search. ScienceDirect, Springer, Semantic Scholar and the Caltech and Zurich repositories returned 401, 403 or redirects to login.",
+  "misreadings": "The name is not Merton's and the idea is not his subject. He called it a suicidal prophecy, gave it four sentences in a footnote, and wrote that it is not considered here. Treating the entry as the second half of his 1948 argument overstates what that paper contains. The second error is to read a conditional projection as a prophecy. Meltzer and colleagues wrote that 1.4 million cases could occur if trends continued without a scale-up of effective interventions, so the figure is what inaction was estimated to cost. A projection stated that way cannot be falsified by a response that follows it. The third is the direction. The version that circulates is that forecasts of a comfortable win demobilise the winner's supporters and hand the election to the underdog, and the studies do not deliver that. Morton and colleagues find bandwagon voting rising, Agranov and colleagues find the expected majority participating more, and Westwood and colleagues find no directional difference in the behaviour they measure. What survives is that conclusive information about an outcome lowers turnout on both sides. The fourth is the impossibility argument, that reflexivity makes social prediction futile. Simon's answer is that a confirmed prediction always exists where the reaction function is continuous, and that his proof refutes allegations commonly made about the impossibility, in principle, of correct prediction of social behaviour. His practical caveat is narrower and sharper: the forecaster would have to know the reaction function, and it is less obvious where that knowledge comes from. Naming a case is not testing one. Tenenboim-Weinblatt's chapter on the 2016 election carries the term in its title and offers scenarios rather than measurements.",
+  "sources": [
+    {
+      "text": "Merton, R. K. (1948). The Self-Fulfilling Prophecy. The Antioch Review, 8(2), 193-210. The footnote quoted above sits on page 196 of a scanned copy of the JSTOR original, read in full.",
+      "doi": "10.2307/4609267",
+      "url": "https://entrepreneurscommunicate.pbworks.com/f/Merton.+Self+Fulfilling+Profecy.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Merton, R. K. (1936). The Unanticipated Consequences of Purposive Social Action. American Sociological Review, 1(6), 894-904. Cited by Merton's 1948 footnote for a general statement; metadata verified at Crossref, and the text could not be opened for this entry.",
+      "doi": "10.2307/2084615",
+      "url": "https://doi.org/10.2307/2084615",
+      "type": "background"
+    },
+    {
+      "text": "Simon, H. A. (1954). Bandwagon and Underdog Effects and the Possibility of Election Predictions. The Public Opinion Quarterly, 18(3), 245-253. Read in full from the JSTOR scan.",
+      "doi": "10.1086/266513",
+      "url": "https://static.stevereads.com/papers_to_read/bandwagon_and_underdog_effects_and_the_possibility_of_election_predictions.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Grunberg, E., & Modigliani, F. (1954). The Predictability of Social Events. Journal of Political Economy, 62(6), 465-478. Credited by Simon for the economic case; metadata verified at Crossref, and the paper itself was not opened.",
+      "doi": "10.1086/257604",
+      "url": "https://doi.org/10.1086/257604",
+      "type": "background"
+    },
+    {
+      "text": "Sudman, S. (1986). Do Exit Polls Influence Voting Behavior? Public Opinion Quarterly, 50(3), 331-339. Abstract read at Oxford Academic; the full text was not obtained.",
+      "doi": "10.1086/268987",
+      "url": "https://academic.oup.com/poq/article-abstract/50/3/331/1901143",
+      "type": "primary"
+    },
+    {
+      "text": "Morton, R. B., Muller, D., Page, L., & Torgler, B. (2015). Exit polls, turnout, and bandwagon voting: Evidence from a natural experiment. European Economic Review, 77, 65-81. The 11 percentage point figure is read from the abstract at EconPapers and IDEAS; the article and its preprint could not be opened.",
+      "doi": "10.1016/j.euroecorev.2015.03.012",
+      "url": "https://econpapers.repec.org/article/eeeeecrev/v_3a77_3ay_3a2015_3ai_3ac_3ap_3a65-81.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Westwood, S. J., Messing, S., & Lelkes, Y. (2020). Projecting Confidence: How the Probabilistic Horse Race Confuses and Demobilizes the Public. The Journal of Politics, 82(4), 1530-1544. Read in full from the author copy at Dartmouth.",
+      "doi": "10.1086/708682",
+      "url": "https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/d/2314/files/2021/03/WestwoodMessingLelkes2020.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Agranov, M., Goeree, J. K., Romero, J., & Yariv, L. (2018). What Makes Voters Turn Out: The Effects of Polls and Beliefs. Journal of the European Economic Association, 16(3), 825-856. Abstract read at IDEAS from the University of Zurich working paper; the article was not opened.",
+      "doi": "10.1093/jeea/jvx023",
+      "url": "https://ideas.repec.org/p/zur/econwp/067.html",
+      "type": "replication"
+    },
+    {
+      "text": "Meltzer, M. I., Atkins, C. Y., Santibanez, S., Knust, B., Petersen, B. W., Ervin, E. D., Nichol, S. T., Damon, I. K., & Washington, M. L. (2014). Estimating the Future Number of Cases in the Ebola Epidemic: Liberia and Sierra Leone, 2014-2015. MMWR Supplements, 63(3), 1-14. Read for the projection and its stated conditions.",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/su6303a1.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Meltzer, M. I., Santibanez, S., Fischer, L. S., et al. (2016). Modeling in Real Time During the Ebola Response. MMWR Supplements, 65(3), 85-89. Source for the statement that the international community responded to ensure that these dire predictions would not be realised.",
+      "doi": "10.15585/mmwr.su6503a12",
+      "url": "https://www.cdc.gov/mmwr/volumes/65/su/su6503a12.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Tenenboim-Weinblatt, K. (2018). Media Projections and Trump's Election: A Self-Defeating Prophecy? In Trump and the Media, 111-118. The MIT Press. Read from the MIT Press Reader extract, which sets out scenarios and no measurements.",
+      "doi": "10.7551/mitpress/11464.003.0018",
+      "url": "https://thereader.mitpress.mit.edu/media-projections-polls-election/",
+      "type": "commentary"
+    },
+    {
+      "text": "Delli Carpini, M. X. (1984). Scooping the Voters? The Consequences of the Networks' Early Call of the 1980 Presidential Race. The Journal of Politics, 46(3), 866-885. Named across this literature; metadata verified at Crossref, the full text was not obtained, and no figure from it appears above.",
+      "doi": "10.2307/2130859",
+      "url": "https://doi.org/10.2307/2130859",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
