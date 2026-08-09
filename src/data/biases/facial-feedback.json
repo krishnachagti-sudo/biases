@@ -15,11 +15,11 @@
     "where": "Journal of Personality and Social Psychology",
     "note": "Their paper is titled \"Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis\". The pen manipulation is the reason it became one of the most reproduced demonstrations in undergraduate teaching."
   },
-  "evidence": "Participants rate cartoons for funniness while holding a pen either in their teeth or in their lips. The original reported that the teeth group rated the cartoons 0.82 units higher on a ten-point scale. That single number carried a great deal: it is the demonstration cited when the facial feedback hypothesis is introduced, and until 2016 the study had never been directly replicated.",
+  "evidence": "Participants rate cartoons for funniness while holding a pen either in their teeth or in their lips. In Study 1 the teeth group averaged 5.14 and the lips group 4.32 on a ten-point scale running from 0 to 9, a gap of 0.82 units. Study 2 produced a gap of 1.03. Those numbers carried a great deal: they are the demonstration cited when the facial feedback hypothesis is introduced, and until 2016 the study had never been directly replicated.",
   "replication": {
     "state": "failed",
     "headline": "Seventeen laboratories ran the pen protocol on 1,894 people and the gap between smiling and pouting all but vanished.",
-    "detail": "The Registered Replication Report followed one vetted protocol at every site. Where the original found a 0.82-unit gap on its ten-point scale, the meta-analysis across all 17 labs found 0.03 units, with a 95% confidence interval from -0.11 to 0.16. The interval contains zero and excludes anything close to the original figure. It is worth being precise about what was tested: this is Study 1 of Strack and colleagues, run as they ran it, not the facial feedback hypothesis in general. Later work has argued that the effect may depend on conditions the protocol removed, including whether anyone is watching, and that argument is live rather than settled.",
+    "detail": "The Registered Replication Report followed one vetted protocol at every site. Where the original found a 0.82-unit gap on its ten-point scale, the random-effects meta-analysis across all 17 labs found 0.03 units, with a 95% confidence interval from -0.11 to 0.16. Nine of the 17 site results pointed in the predicted direction and none reached the original gap. The precise target matters: this is Study 1 of Strack and colleagues, run as they ran it, not the facial feedback hypothesis in general. A second multilab test in 2022, the Many Smiles Collaboration, put a pen-in-mouth arm alongside two other manipulations and again found nothing for the pen. The pen demonstration has now failed twice under preregistration, while the wider hypothesis has not. One counter-argument deserves its own line. Every replicating laboratory recorded participants on a video camera, which the 1988 study did not. Noah, Schul and Mayo tested that in 2018 on 200 Hebrew-speaking students, 166 of whom entered the analysis, and reported the teeth-lips gap in the no-camera rooms (5.75 against 4.92) and nothing in the camera rooms (5.21 against 5.15). Their own interaction test, the one their claim rests on, came out at p = .051 one-tailed, and they describe it as greatly underpowered. Coles, Larsen and Lench then checked the same moderator across the whole literature in 2019 and found no sign of it, with effects of d = 0.17 when participants knew about the recording and d = 0.23 when they did not.",
     "study": {
       "cite": "Wagenmakers, E.-J., Beek, T., Dijkhoff, L., et al. (2016). Registered Replication Report: Strack, Martin, & Stepper (1988). Perspectives on Psychological Science, 11(6), 917-928.",
       "doi": "10.1177/1745691616674458",
@@ -30,8 +30,7 @@
     "original": {
       "es": 0.82,
       "esType": "md",
-      "unit": "scale points",
-      "ciLevel": 95
+      "unit": "scale points"
     },
     "replicated": {
       "es": 0.03,
@@ -46,8 +45,8 @@
     },
     "indexedBy": "FReD"
   },
-  "limits": "No confidence interval is printed for the original, because the 1988 paper's abstract is not available from Crossref or any open repository checked and the replication report quotes only its point estimate. The two numbers are also on the study's own rating scale rather than standardised, which is how both papers report them: converting to a standardised effect size would produce a figure neither source contains. And the comparison is between one original study and one protocol, however many laboratories ran it.",
-  "misreadings": "The result is often stated as proof that facial expressions have no effect on emotion. It is narrower than that. What failed is one specific demonstration at the size it originally reported, and a hypothesis is not one experiment. A broader meta-analysis of the facial feedback literature has since concluded that effects on emotional experience exist but are small and variable, which is a different finding from either the 1988 paper or the 2016 report. The pen study is also still taught as an established result, which is the more common error: it is now the best-documented non-replication in the field.",
+  "limits": "No confidence interval is printed for the original. Its abstract at PubMed states the direction of the result and gives no figures, and the 1988 paper is paywalled, so the condition means and the 0.82 gap above are read off the replication report's description of it rather than off Strack, Martin and Stepper. The two numbers are on the study's own rating scale rather than standardised, which is how both papers report them: converting them would produce a figure neither source contains. The 2022 Many Smiles result is on a different measure again, self-reported happiness on a one-to-seven scale, so it cannot be lined up against the 0.82.",
+  "misreadings": "The result is often stated as proof that facial expressions have no effect on emotion. It is narrower than that. What failed is one specific demonstration at the size it originally reported, and a hypothesis is not one experiment. Coles, Larsen and Lench pooled 286 effect sizes from 138 studies in 2019 and put the overall effect of facial feedback on self-reported affect at d = 0.20, 95% confidence interval 0.14 to 0.26, small and heterogeneous. The Many Smiles Collaboration then tested 3,878 people in 19 countries and found that posing a happy expression raised self-reported happiness by 0.31 points on a seven-point scale, 95% confidence interval 0.21 to 0.40. That effect came from the mimicry task, at 0.49, and the voluntary facial action task, at 0.40. The pen task returned 0.04. So the hypothesis has support and the pen does not carry it. The pen study is also still taught as an established result, which is the more common error.",
   "sources": [
     {
       "text": "Strack, F., Martin, L. L., & Stepper, S. (1988). Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis. Journal of Personality and Social Psychology, 54(5), 768-777.",
@@ -62,11 +61,29 @@
       "type": "replication"
     },
     {
+      "text": "Noah, T., Schul, Y., & Mayo, R. (2018). When both the original study and its failed replication are correct: Feeling observed eliminates the facial-feedback effect. Journal of Personality and Social Psychology, 114(5), 657-664.",
+      "doi": "10.1037/pspa0000121",
+      "url": "https://doi.org/10.1037/pspa0000121",
+      "type": "secondary"
+    },
+    {
+      "text": "Coles, N. A., Larsen, J. T., & Lench, H. C. (2019). A meta-analysis of the facial feedback literature: Effects of facial feedback on emotional experience are small and variable. Psychological Bulletin, 145(6), 610-651.",
+      "doi": "10.1037/bul0000194",
+      "url": "https://doi.org/10.1037/bul0000194",
+      "type": "secondary"
+    },
+    {
+      "text": "Coles, N. A., March, D. S., Marmolejo-Ramos, F., et al. (2022). A multi-lab test of the facial feedback hypothesis by the Many Smiles Collaboration. Nature Human Behaviour, 6(12), 1731-1742.",
+      "doi": "10.1038/s41562-022-01458-9",
+      "url": "https://doi.org/10.1038/s41562-022-01458-9",
+      "type": "replication"
+    },
+    {
       "text": "Roseler, L., et al. FORRT Replication Database (FReD) and FORRT Library of Reproduction and Replication Attempts (FLoRA). OSF, 2022. Used to locate the replication above, not as the source for what it found.",
       "doi": "10.17605/OSF.IO/9R62X",
       "url": "https://doi.org/10.17605/OSF.IO/9R62X",
       "type": "index"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }

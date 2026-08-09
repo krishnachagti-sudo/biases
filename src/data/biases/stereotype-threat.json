@@ -1,0 +1,88 @@
+{
+  "no": 147,
+  "slug": "stereotype-threat",
+  "name": "Stereotype threat",
+  "aliases": [
+    "Stereotype vulnerability"
+  ],
+  "category": "social",
+  "statement": "Being at risk of confirming a negative stereotype about one's own group depresses performance on a test in the stereotyped domain.",
+  "meaning": "The claim is about a situation, not a person. A Black student sitting a verbal test described as diagnostic of intellectual ability, or a woman sitting a maths test described as producing gender differences, faces the prospect of being judged by a stereotype. Steele and Aronson argued that this prospect consumes attention and lowers the score. Two predictions follow. Members of the stereotyped group should score lower when the stereotype is made relevant than when it is not, and changing the description of the test should change the score without changing anything about the taker.",
+  "origin": {
+    "year": 1995,
+    "who": "Claude M. Steele and Joshua Aronson",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Four experiments on Black and White Stanford undergraduates taking difficult verbal items. The paper coined the term and set the template every later study follows: one group told the test measures ability, another told it does not."
+  },
+  "evidence": "Steele and Aronson ran four small experiments. Study 1 used 114 undergraduates across three conditions. The analysis was an ANCOVA with self-reported verbal SAT scores as the covariate, and the race-by-condition interaction did not reach conventional significance, p < .19. A weighted contrast dropping the challenge conditions reached p < .08, which the authors called marginal. Study 2 used 40 female undergraduates, 10 per cell, and there the race-by-diagnosticity interaction on adjusted test performance was significant, F(1, 35) = 8.07, p < .01. Study 3 used 68 students and Study 4 used 47, the latter showing that merely asking students to record their race before the test lowered Black students' scores. Spencer, Steele and Quinn extended the design to women and mathematics in 1999, and that paper is what the schoolgirl literature grew out of. Roughly one hundred research papers and five meta-analyses followed for the gender version alone, by Flore and Wicherts' count.",
+  "replication": {
+    "state": "failed",
+    "headline": "A preregistered test on 2,064 Dutch high-school students found no stereotype threat effect on girls' maths scores, with the Bayes factor favouring the null by 28 to 1.",
+    "detail": "Flore and Wicherts pooled 47 effect sizes from studies of schoolgirls taking maths, science and spatial tests, covering 3,760 girls. The random-effects estimate was g = -0.22, 95% CI -0.34 to -0.10. Their publication-bias tests then undercut it. Trim and fill imputed 11 missing effect sizes and dropped the estimate to g = -0.07, 95% CI -0.21 to 0.06, no longer distinguishable from zero. Egger's test gave z = -3.25, p = .001, and studies with fewer than 60 participants gave g = -0.34 against g = -0.13 for the larger ones. They called for a large replication and then ran it. The registered report reached 86 classes at 21 Dutch schools and analysed 2,064 students. Adding the stereotype threat manipulation to the model, and then its interaction with gender, improved fit by nothing; the interaction coefficient was 0.16 with a standard error of 0.31. The default Bayes factor for the no-threat hypothesis against the stereotype threat hypothesis was 28.18, and the posterior probability of the null was .963. Two later results point the same way. Inglis and O'Hagan randomised 1,169 English schoolchildren to answer sheets asking their gender before or after a maths challenge, and the predicted interaction gave F(1, 1165) = 0.525, p = .469, with girls scoring slightly higher in the gender-first condition. A registered replication report by Stoevenbelt and 21 colleagues, posted to PsyArXiv in December 2025 and not yet in a journal, ran eight direct replications of Johns, Schmader and Martens with 1,502 participants. Among the 822 women the effect was d = -0.006, 95% CI -0.15 to 0.14, against d = -0.82 in the original 45-person study.",
+    "study": {
+      "cite": "Flore, P. C., Mulder, J., & Wicherts, J. M. (2018). The influence of gender stereotype threat on mathematics test scores of Dutch high school students: a registered report. Comprehensive Results in Social Psychology, 3(2), 140-174.",
+      "doi": "10.1080/23743603.2018.1559647",
+      "year": 2018,
+      "n": 2064
+    }
+  },
+  "limits": "The record above is about schoolgirls and maths. For adults on cognitive ability tests the picture is graded rather than flat, and Shewach, Sackett and Quint's meta-analysis of 212 samples is the place to read it. Excluding the studies that adjust for a prior ability score, the pooled effect was d = -0.31 across 181 samples and 10,436 people, with a 90% credibility interval from -0.93 to 0.32. Restricting the set to the 45 samples whose conditions resemble a real testing session, meaning subtle rather than blatant threat cues, total-correct scoring, a plain control group and no ability covariate, gave d = -0.14 across 3,532 people. Trim and fill cut that to -0.09 and the interval crossed zero. The four samples drawn from actual college placement exams gave d = -0.01 across 1,670 people, against d = -0.36 in the 177 laboratory samples. Studies offering money to top performers gave d = 0.00. Published studies in that database showed an effect more than twice the size of unpublished ones, -0.37 against -0.17. The one figure this entry has for ethnic minority test-takers on their own, d = -0.26 across 35 samples and 2,432 people, is a subgroup of that same database rather than a separate meta-analysis. No comparable preregistered multi-site replication of the race version of the effect was located. Spencer, Steele and Quinn's 1999 paper is paywalled and was not read here, so what it is said to have shown comes from Flore and Wicherts' description of it.",
+  "misreadings": "The most consequential error is not about whether the effect exists. Steele and Aronson analysed test scores with prior SAT scores held constant, so their finding of no Black-White difference in the non-diagnostic condition means that students matched on prior SAT performed alike, not that the raw gap disappeared. In Study 2 the mean SAT scores differed by 655 against 603 on a test with a standard deviation of 100. Sackett, Hardison and Cullen counted how often this was reported as the gap being eliminated. Their paper is paywalled, and its figures are quoted here from Tomeh and Sackett's account of it: 90.9% of the journal articles and 55.6% of the textbooks they found that described the study got it wrong. Steele and Aronson did not make the error themselves. Tomeh and Sackett repeated the audit over 2005 to 2019 and found the rate had fallen to 62.8% of the 94 journal articles that discussed between-group comparisons, and to 41.18% of textbooks. Reading the replication record as proof that stereotype threat is nothing is the opposite error. Shewach and colleagues put it as a shift in the burden of proof rather than a refutation, and their own focal estimate before bias correction was small and negative, not zero.",
+  "sources": [
+    {
+      "text": "Steele, C. M., & Aronson, J. (1995). Stereotype threat and the intellectual test performance of African Americans. Journal of Personality and Social Psychology, 69(5), 797-811.",
+      "doi": "10.1037/0022-3514.69.5.797",
+      "url": "https://doi.org/10.1037/0022-3514.69.5.797",
+      "type": "primary"
+    },
+    {
+      "text": "Spencer, S. J., Steele, C. M., & Quinn, D. M. (1999). Stereotype Threat and Women's Math Performance. Journal of Experimental Social Psychology, 35(1), 4-28.",
+      "doi": "10.1006/jesp.1998.1373",
+      "url": "https://doi.org/10.1006/jesp.1998.1373",
+      "type": "primary"
+    },
+    {
+      "text": "Flore, P. C., & Wicherts, J. M. (2015). Does stereotype threat influence performance of girls in stereotyped domains? A meta-analysis. Journal of School Psychology, 53(1), 25-44.",
+      "doi": "10.1016/j.jsp.2014.10.002",
+      "url": "https://doi.org/10.1016/j.jsp.2014.10.002",
+      "type": "secondary"
+    },
+    {
+      "text": "Flore, P. C., Mulder, J., & Wicherts, J. M. (2018). The influence of gender stereotype threat on mathematics test scores of Dutch high school students: a registered report. Comprehensive Results in Social Psychology, 3(2), 140-174.",
+      "doi": "10.1080/23743603.2018.1559647",
+      "url": "https://doi.org/10.1080/23743603.2018.1559647",
+      "type": "replication"
+    },
+    {
+      "text": "Shewach, O. R., Sackett, P. R., & Quint, S. (2019). Stereotype threat effects in settings with features likely versus unlikely in operational test settings: A meta-analysis. Journal of Applied Psychology, 104(12), 1514-1534.",
+      "doi": "10.1037/apl0000420",
+      "url": "https://doi.org/10.1037/apl0000420",
+      "type": "secondary"
+    },
+    {
+      "text": "Inglis, M., & O'Hagan, S. (2022). Stereotype threat, gender and mathematics attainment: A conceptual replication of Stricker & Ward. PLOS ONE, 17(5), e0267699.",
+      "doi": "10.1371/journal.pone.0267699",
+      "url": "https://doi.org/10.1371/journal.pone.0267699",
+      "type": "replication"
+    },
+    {
+      "text": "Stoevenbelt, A. H., Flore, P. C., Wicherts, J. M., et al. (2025). Registered Replication Report: Johns, Schmader, & Martens (2005). PsyArXiv preprint, version 5, posted 18 December 2025. Not peer reviewed at the time of checking.",
+      "doi": "10.31234/osf.io/qctkp_v5",
+      "url": "https://doi.org/10.31234/osf.io/qctkp_v5",
+      "type": "replication"
+    },
+    {
+      "text": "Sackett, P. R., Hardison, C. M., & Cullen, M. J. (2004). On Interpreting Stereotype Threat as Accounting for African American-White Differences on Cognitive Tests. American Psychologist, 59(1), 7-13.",
+      "doi": "10.1037/0003-066X.59.1.7",
+      "url": "https://doi.org/10.1037/0003-066X.59.1.7",
+      "type": "secondary"
+    },
+    {
+      "text": "Tomeh, D. H., & Sackett, P. R. (2022). On the Continued Misinterpretation of Stereotype Threat as Accounting for Black-White Differences on Cognitive Tests. Personnel Assessment and Decisions, 8(1), article 1.",
+      "doi": "10.25035/pad.2022.01.001",
+      "url": "https://doi.org/10.25035/pad.2022.01.001",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

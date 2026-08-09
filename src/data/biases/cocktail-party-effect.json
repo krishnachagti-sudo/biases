@@ -1,0 +1,97 @@
+{
+  "no": 149,
+  "slug": "cocktail-party-effect",
+  "name": "Cocktail party effect",
+  "aliases": [
+    "Cocktail party phenomenon",
+    "Cocktail party problem",
+    "Own-name effect",
+    "Selective listening"
+  ],
+  "category": "perception",
+  "statement": "A person's own name spoken in a conversation they are ignoring sometimes pulls their attention across, and in the laboratory it does so for about a third of people.",
+  "meaning": "The phrase covers two claims that are usually run together. The first is that a listener can lock onto one voice in a room full of them, and Cherry showed in 1953 that almost nothing of the ignored voice survives. The second is that one item does break through, the listener's own name, which Moray reported in 1959. Only the second is the effect people mean when they invoke the cocktail party. It matters because a filter that lets a name through has to have recognised the name, which means the ignored channel was processed for meaning before it was discarded. That is the early against late selection argument, and the own-name finding is the observation both sides have to account for.",
+  "origin": {
+    "year": 1953,
+    "who": "E. Colin Cherry",
+    "where": "The Journal of the Acoustical Society of America",
+    "note": "Cherry coined \"the cocktail party problem\" and built the shadowing task, but he ran no name experiment. The own-name finding everyone attaches to the phrase is Moray's, published six years later in the Quarterly Journal of Experimental Psychology."
+  },
+  "evidence": "Cherry fed one spoken message to each ear and had listeners repeat the right-ear message aloud without omission. He then asked four questions about the left ear: was it speech, what was it about, male or female, what language. Listeners always knew it was speech and nearly always caught a switch from a male to a female voice. A 400-cycle tone was always noticed. Nobody identified a single word or phrase, and nobody could say with any confidence that the language was English. When the ignored message switched from English to German partway through, the listener afterwards reported that he did not know what language it was and assumed it was English. Cherry reports no participant counts for these tests and used no listener more than once. Moray added names to the ignored channel and is described below, his paper not having been obtained. Conway, Cowan and Bunting ran 40 native English speakers through the same task, 17 men and 23 women, splitting them by operation span into 20 high and 20 low. The relevant message ran at 60 words per minute for 5.5 minutes and the participant's first name was inserted into the irrelevant message after four or five minutes of shadowing. Four of the 20 high-span participants noticed their name, against 13 of the 20 low-span, that is 20% against 65%, Fisher's exact p = .005. Low-span participants also made more shadowing errors overall, a mean of 20.88 against 10.00, t(32) = 2.18, p = .04.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A preregistered replication with 80 participants found 29% noticed their own name in the ignored ear, close to the 33% and 35% reported in 1959 and 1995, and nowhere near the everybody of the popular claim.",
+    "detail": "Röer and Cowan preregistered the design on OSF and ran 80 German-speaking participants, 59 of them women, mean age 25. The relevant message was 420 words at 60 words per minute in a female voice; the ignored message was a male voice starting 30 seconds later. Names arrived after three, four, five and six minutes. On the questionnaire immediately afterwards, 23 participants, 29%, reported hearing their name. Two reported hearing their yoked partner's name. Shadowing errors confirmed the report: participants who noticed their name made more errors on the word presented at the same time as the name and on the next two words, with Bayes factors of 112.6, above 1000 and above 1000. On the word before the name there was no reliable difference, so the noticing was not just wandering attention. By the third word after, the difference had gone. The working-memory moderator did not survive intact. Comparing top and bottom quartiles of operation span, running span, and the two combined, name detection went 21% against 38%, 28% against 36%, and 21% against 37%, and the Bayesian contingency tests were inconclusive at BF10 = 1.023, 0.582 and 1.018. The online measure did separate the groups: low spans made more shadowing errors around the name, BF10 = 11.68 for the combined score. Röer and Cowan compare their 29% with 33% from Moray, 35% from Wood and Cowan, and 43% from Conway and colleagues averaging the two extreme quartiles. Naveh-Benjamin and colleagues sit higher, with 29 of 50 younger adults, 58%, noticing in their first experiment, and the quartile split of 69% against 33% reproducing Conway's pattern. Their older adults almost never noticed: one of 29, 3%, despite spans matching the low-span young.",
+    "study": {
+      "cite": "Röer, J. P., & Cowan, N. (2021). A preregistered replication and extension of the cocktail party phenomenon: One's name captures attention, unexpected words do not. Journal of Experimental Psychology: Learning, Memory, and Cognition, 47(2), 234-242.",
+      "doi": "10.1037/xlm0000874",
+      "year": 2021,
+      "n": 80
+    }
+  },
+  "limits": "The detection rate is a property of the shadowing task, not of names. Brown and colleagues put 50 people in a multisensory virtual café, had them follow a character at their table while a barista in the background called out orders containing their name, and 94% mentioned unprompted afterwards that they had heard it. Their brains responded to the name whether or not they looked, and gaze shifts followed roughly 5% of probe words, no more than after control words. So the third of people who notice in headphones is what a hard concurrent repetition task leaves over, and an ordinary room is a different measurement. Direction of the working-memory link flips with instructions. Told to listen out for their name in the other channel, high spans notice it more often, which Naveh-Benjamin and colleagues report of Colflesh and Conway and reproduced themselves at 83% against 63% for young adults. Three papers here were not obtained. Moray's 1959 article is behind a SAGE paywall, and its 33%, four of twelve participants, is quoted from Röer and Cowan's description of it. Both Wood and Cowan papers of 1995 are paywalled and are described from their abstracts. The abstract of the Learning, Memory, and Cognition paper reports 34.6% detection alongside a sample of 34 undergraduates, and the full paper would be needed to reconcile those. No standardised effect size is quoted anywhere in this entry, because none of these papers reports one for name detection; the outcome is a proportion of people. Searches covered Crossref, PubMed, PMC, Unpaywall, Semantic Scholar and web search.",
+  "misreadings": "The claim that a name always cuts through is wrong in every laboratory measurement of it. Between 29% and 58% of listeners notice, and the modal finding across sixty years is about a third. The inverse claim, that noticing means a sharper mind, is also wrong: Conway and colleagues found the opposite, with low-span listeners noticing more than three times as often as high spans, and the reading is that high spans are better at shutting the channel out. That inhibition story should be held loosely. Röer and Cowan's preregistered replication found the span difference in the right direction but with Bayes factors around one, meaning the retrospective report on its own settles nothing. Cherry is regularly credited with the name finding, and he never tested names. What he showed is the opposite half of the story, that language, words and meaning in the ignored ear go unreported while voice pitch and a pure tone do not. Semantic salience in general does not do what a name does. Röer and Cowan planted semantically anomalous sentence endings in the ignored channel; one participant of 80 noticed, and only when asked directly, and could not say which word it was.",
+  "sources": [
+    {
+      "text": "Cherry, E. C. (1953). Some experiments on the recognition of speech, with one and with two ears. The Journal of the Acoustical Society of America, 25(5), 975-979. Read in full for this entry.",
+      "doi": "10.1121/1.1907229",
+      "url": "https://www.ee.columbia.edu/~dpwe/papers/Cherry53-cpe.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Moray, N. (1959). Attention in dichotic listening: Affective cues and the influence of instructions. Quarterly Journal of Experimental Psychology, 11(1), 56-60. Paywalled; not read for this entry. Its figure of four of twelve participants is quoted here from Röer and Cowan (2021).",
+      "doi": "10.1080/17470215908416289",
+      "url": "https://doi.org/10.1080/17470215908416289",
+      "type": "primary"
+    },
+    {
+      "text": "Wood, N., & Cowan, N. (1995). The cocktail party phenomenon revisited: How frequent are attention shifts to one's name in an irrelevant auditory channel? Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(1), 255-260. Paywalled; described here from its abstract.",
+      "doi": "10.1037/0278-7393.21.1.255",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7876773/",
+      "type": "replication"
+    },
+    {
+      "text": "Wood, N. L., & Cowan, N. (1995). The cocktail party phenomenon revisited: Attention and memory in the classic selective listening procedure of Cherry (1953). Journal of Experimental Psychology: General, 124(3), 243-262. A separate paper, often confused with the one above. Paywalled; described here from its abstract.",
+      "doi": "10.1037/0096-3445.124.3.243",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7673862/",
+      "type": "replication"
+    },
+    {
+      "text": "Conway, A. R. A., Cowan, N., & Bunting, M. F. (2001). The cocktail party phenomenon revisited: The importance of working memory capacity. Psychonomic Bulletin & Review, 8(2), 331-335. Read in full for this entry.",
+      "doi": "10.3758/BF03196169",
+      "url": "https://memory.psych.missouri.edu/assets/doc/articles/2001/conway-et-al-pbr-2001.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Naveh-Benjamin, M., Kilb, A., Maddox, G. B., Thomas, J., Fine, H. C., Chen, T., & Cowan, N. (2014). Older adults do not notice their names: A new twist to a classic attention task. Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(6), 1540-1550. Read in full for this entry.",
+      "doi": "10.1037/xlm0000020",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4227939/",
+      "type": "replication"
+    },
+    {
+      "text": "Röer, J. P., & Cowan, N. (2021). A preregistered replication and extension of the cocktail party phenomenon: One's name captures attention, unexpected words do not. Journal of Experimental Psychology: Learning, Memory, and Cognition, 47(2), 234-242. Read in full for this entry.",
+      "doi": "10.1037/xlm0000874",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8908911/",
+      "type": "replication"
+    },
+    {
+      "text": "Brown, A., Pinto, D., Burgart, K., Zvilichovsky, Y., & Zion-Golumbic, E. (2023). Neurophysiological evidence for semantic processing of irrelevant speech and own-name detection in a virtual café. The Journal of Neuroscience, 43(27), 5045-5056. Read in full for this entry.",
+      "doi": "10.1523/JNEUROSCI.1731-22.2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10324990/",
+      "type": "replication"
+    },
+    {
+      "text": "Colflesh, G. J. H., & Conway, A. R. A. (2007). Individual differences in working memory capacity and divided attention in dichotic listening. Psychonomic Bulletin & Review, 14(4), 699-703. Cited by Naveh-Benjamin and colleagues for the reversal under divided attention; not read for this entry.",
+      "doi": "10.3758/BF03196824",
+      "url": "https://doi.org/10.3758/BF03196824",
+      "type": "primary"
+    },
+    {
+      "text": "Röer, J. P., Bell, R., & Buchner, A. (2013). Self-relevance increases the irrelevant sound effect: Attentional disruption by one's own name. Journal of Cognitive Psychology, 25(8), 925-931. Cited by Röer and Cowan (2021) as the study in which 96% of participants noticed their own name in a cross-modal task; not read for this entry.",
+      "doi": "10.1080/20445911.2013.828063",
+      "url": "https://doi.org/10.1080/20445911.2013.828063",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
