@@ -20,8 +20,8 @@
   "evidence": "Jacowitz and Kahneman gave participants fifteen estimation questions, each preceded by a comparison against a value drawn from the high or low end of what an unanchored group had guessed. Estimates followed the anchor. The Many Labs replication took four of those questions, on the distance from San Francisco to New York, the population of Chicago, the height of Mount Everest and the number of babies born daily in the United States, and ran them at 36 sites.",
   "replication": {
     "state": "replicated",
-    "headline": "All four anchoring questions came back at 36 laboratories, every one of them significant at every site, with effects two to three times the size originally reported.",
-    "detail": "Many Labs 1 tested thirteen findings across 36 samples and 6,344 participants. Anchoring was the strongest thing in it. Every one of the four questions reached significance in 100% of samples, in the same direction, with no site finding nothing and no site finding the opposite. Unweighted effect sizes were d = 2.60 for babies born, 2.45 for Mount Everest, 2.05 for Chicago and 1.27 for the distance to New York; weighting by sample size lowers each to 2.42, 2.23, 1.79 and 1.17. For comparison the project's other twelve effects mostly came in below d = 1, and three came in at zero. If any result in this literature is solid, it is this one.",
+    "headline": "All four anchoring questions came back across 36 samples, each significant in every sample, and each larger than the 0.93 the original reported.",
+    "detail": "Many Labs 1 tested thirteen findings across 36 samples and 6,344 participants, 27 collected in a laboratory and nine online. Anchoring was the strongest thing in it. Every one of the four questions reached significance in 100% of samples, in the same direction, with no sample finding nothing and no sample finding the opposite. Unweighted effect sizes were d = 2.60 for babies born, 2.45 for Mount Everest, 2.05 for Chicago and 1.27 for the distance to New York; weighting by sample size lowers each to 2.42, 2.23, 1.79 and 1.17. Eleven of the project's other twelve effects came in below d = 1, and two of them, flag priming and currency priming, did not replicate at all. If any result in this literature is solid, it is this one.",
     "study": {
       "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
       "doi": "10.1027/1864-9335/a000178",
@@ -50,7 +50,7 @@
     },
     "indexedBy": "FReD"
   },
-  "limits": "The two numbers above are less comparable than they look, and the replication report says so itself. The 1995 paper did not publish enough detail to compute an effect size per question, so its 0.93 is one aggregate figure across all fifteen questions, and it comes from a test-retest design where each participant saw both the anchored and unanchored version. The replication assigned people at random to one anchor or the other, between subjects. Different designs produce different effect sizes for the same underlying phenomenon, so the jump from 0.93 to 2.45 should be read as evidence that the effect is present and large, rather than as a measurement that it grew. The participant count given here is for the Mount Everest question; the other three range from 5,284 to 5,609. And the effect does not survive being weakened. Many Labs 2 tested incidental anchors, where the number is not part of the question at all but sits in the environment: a phone called the P97 versus one called the P17, with participants estimating its sales. The original found d = 0.30. Across 6,826 people it came back at d = 0.04, with an interval from -0.01 to 0.09, and at the eleven sites that used paper and pencil as the original authors had insisted it went slightly the wrong way. So a number attached to the question is worth two standard deviations and a number merely nearby is worth nothing.",
+  "limits": "The two numbers above are less comparable than they look, and the replication report says so itself. The 1995 paper did not publish enough detail to compute an effect size per question, so its 0.93 is one aggregate figure across all fifteen questions, and it comes from a test-retest design where each participant saw both the anchored and unanchored version. The replication assigned people at random to one anchor or the other, between subjects. Different designs produce different effect sizes for the same underlying phenomenon, so the jump from 0.93 to 2.45 should be read as evidence that the effect is present and large, rather than as a measurement that it grew. The participant count given here is for the Mount Everest question; the other three range from 5,284 to 5,609. And the effect does not survive being weakened. Many Labs 2 tested incidental anchors, where the number is not part of the question at all but sits in the environment: a phone called the P97 versus one called the P17, with participants estimating its sales. The original found d = 0.30 in 207 people, 95% CI 0.02 to 0.58. Across 6,826 people it came back at d = 0.04, 95% CI -0.01 to 0.09, and at the eleven sites that used paper and pencil, the medium the original authors had chosen, it went slightly the wrong way at d = -0.01. So a number attached to the question moves estimates by more than a standard deviation and a number merely nearby moves them by nothing. Schley and Weingarten pooled 2,601 effect sizes from fifty years of anchoring research, 1,280 of them comparing a high anchor against a low one, and report a large effect that survives correction for publication bias. They also report reduced or null effects for incidental anchoring, for anchors drawn from a different dimension and for anchors presented as random. Their point estimate is rendered as a formula placeholder in the abstract and the full text is paywalled, so only the interval, a Hedges' g of 0.765 to 0.884, and the direction of their moderator findings are quoted here. Li, Weigel, Ferraro and Messer add a warning about magnitude. They report that anchoring designs, replication studies included, routinely fail to reach 30% power, and their higher-powered repeat of a bidding experiment found a 3.4% effect, 95% CI -3.4% to 10%, against the 31% the original reported.",
   "misreadings": "Anchoring is often described as showing that people are irrational about numbers in general, which overstates it. The effect is about estimates under uncertainty; when someone knows the answer, there is nothing for an anchor to move. It is also frequently attached to advice about opening first in a negotiation, where the evidence is thinner and the conditions matter more than the laboratory result suggests. And the mechanism is contested even though the effect is not: insufficient adjustment is Tversky and Kahneman's account, but selective accessibility, where the anchor primes evidence consistent with itself, explains much of the same data. A robust effect is not the same as a settled explanation.",
   "sources": [
     {
@@ -84,11 +84,23 @@
       "type": "primary"
     },
     {
+      "text": "Schley, D. R., & Weingarten, E. (2026). Fifty years of anchoring effects: A theoretical reintegration and meta-analysis. Management Science. Quoted from the abstract; the full text is paywalled and the abstract renders the point estimate as a formula placeholder.",
+      "doi": "10.1287/mnsc.2023.03238",
+      "url": "https://doi.org/10.1287/mnsc.2023.03238",
+      "type": "commentary"
+    },
+    {
+      "text": "Li, T., Weigel, C., Ferraro, P., & Messer, K. D. (2025). Underpowered studies and exaggerated effects: A replication and re-evaluation of the magnitude of anchoring effects. Economic Inquiry, 63(2), 387-402. Quoted from the abstract at Crossref; the full text is paywalled.",
+      "doi": "10.1111/ecin.13279",
+      "url": "https://doi.org/10.1111/ecin.13279",
+      "type": "replication"
+    },
+    {
       "text": "Roseler, L., et al. FORRT Replication Database (FReD) and FORRT Library of Reproduction and Replication Attempts (FLoRA). OSF, 2022. Used to locate the replication above, not as the source for what it found.",
       "doi": "10.17605/OSF.IO/9R62X",
       "url": "https://doi.org/10.17605/OSF.IO/9R62X",
       "type": "index"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
