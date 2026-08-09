@@ -1,0 +1,112 @@
+{
+  "no": 97,
+  "slug": "implicit-association-test",
+  "name": "Implicit-association test",
+  "aliases": ["IAT", "Implicit association test", "Race IAT", "Implicit bias test"],
+  "category": "social",
+  "statement": "The Implicit Association Test times how fast people pair social categories with good and bad words, and reads the difference as an attitude they might not report.",
+  "meaning": "Three separate claims travel under one name, and they have three different answers. The first is that the test measures something stable: that the speed gap between pairing Black faces with pleasant words and White faces with pleasant words is a real individual difference rather than noise. The second is that the score predicts how a person behaves towards the group in question. The third is that the score can be moved, and that moving it moves behaviour. Reliability is evidence for the first claim only. It says nothing about the second or third, and the popular case for the test rests on all three at once.",
+  "origin": {
+    "year": 1998,
+    "who": "Anthony G. Greenwald, Debbie E. McGhee and Jordan L. K. Schwartz",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Three experiments, on flowers against insects (32 subjects), Japanese against Korean names (31 subjects) and Black against White names (26 White students). Only the third became famous."
+  },
+  "evidence": "In the 1998 race experiment, White students sorted names and evaluative words. Responses were faster when White names shared a key with pleasant words than when Black names did, by an average of 179 ms across four contrasts. Effect sizes were d = 1.30 with male names and d = 1.03 with female names, in 26 subjects. What made the result travel was the mismatch with self-report. Nineteen of the 26 rated Black and White as equal or rated Black higher on a semantic differential, and all but one of those nineteen still produced a pro-White test score. Only one subject of 26 scored pro-Black. The average correlation between the test and the explicit measures was r = .14, which the authors read as a divergence between constructs rather than as a failure of convergence.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The speed effect itself reproduces reliably; what it predicts about behaviour is disputed, and the two meta-analyses of race studies differ by roughly a third.",
+    "detail": "Greenwald, Poehlman, Uhlmann and Banaji pooled 122 reports, 184 samples and 14,900 subjects in 2009 and found an average test-criterion correlation of r = .274, against r = .361 for parallel self-report measures. Within the White-versus-Black race domain the test correlation was r = .236 across 32 samples and 1,699 subjects, and there self-report did worse, at r = .118. Oswald, Mitchell, Blanton, Jaccard and Tetlock restricted their 2013 analysis to racial and ethnic discrimination criteria and reported far less: 298 effects from 86 samples and 17,470 subjects gave an overall estimate of .14, 95% CI [.10, .19], and .15, 95% CI [.09, .21], for the Black-versus-White subset. Microbehaviour, the category closest to everyday slights, came out at .07, 95% CI [-.03, .18]. The one large correlation was with brain activity, at .42, 95% CI [.11, .73]. Greenwald, Banaji and Nosek replied in 2015 that the gap came from inclusion rules rather than from data. The 100 effects both reviews coded identically averaged .259; the 103 effects unique to the 2013 review averaged .096; and the 52 of those that the 2009 rules would have excluded, because no relationship was predicted, averaged .025. Oswald and colleagues answered in the same issue that all the analyses converge on the test being a poor predictor that explains at most small fractions of laboratory variance. Kurdi and colleagues, working with Greenwald and Banaji, pooled 217 reports and 36,071 subjects in 2019 and found unique contributions of the test at beta = .14 and self-report at beta = .11, with the 13 methodologically strongest studies averaging r = .37 and the six weakest r = .02.",
+    "study": {
+      "cite": "Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J., & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. Journal of Personality and Social Psychology, 105(2), 171-192.",
+      "doi": "10.1037/a0032734",
+      "year": 2013,
+      "n": 17470
+    },
+    "original": { "es": 0.236, "esType": "r" },
+    "replicated": { "es": 0.15, "esType": "r", "ci": [0.09, 0.21], "ciLevel": 95 }
+  },
+  "limits": "Reliability and validity come apart here, and the numbers point in different directions. Greenwald and Lai's 2020 meta-analysis puts the test's internal consistency at alpha = .80, 95% CI [.78, .81], the highest of the implicit measures they compared, and its test-retest correlation at r = .50, 95% CI [.45, .55], from 26 articles and 58 effects. For the race version specifically, Gawronski, Morrison, Phills and Galdi retested 116 people about a month apart and got r = .44, against .88 and .81 for the two explicit measures in the same session. Their survey of earlier race retests runs from .01 to .72. Schimmack reviewed the multimethod evidence in 2021 and found little sign of discriminant validity, estimating that about 20% of variance in the race test reflects racial preference, against 64% for the political-orientation version. Greenwald, Banaji and Nosek accept the consequence: with test-retest between .5 and .6 and small predictive correlations, using a score to classify an individual as likely to discriminate risks high rates of error. Their defence of the test is about aggregates, not people. The change literature is separate again. Forscher and colleagues synthesised 492 studies and 87,418 participants in 2019 and found that implicit measures move, with every procedure category below the conventional small threshold. Behaviour did not follow. Only two categories shifted behaviour at all, and the significant one among the association-weakening procedures was g = -.10, 95% CI [-.20, -.01]. Change in implicit measures did not mediate change in behaviour, and the overall implicit-behaviour correlation in their own data was r = .09, k = 80, 95% CI [.07, .14].",
+  "misreadings": "The score is widely read as a diagnosis, which is the use its own defenders rule out. It is also read as a window onto something unconscious. Hahn, Judd, Hirsh and Blair asked people to predict their own results for five social groups across four studies and found the predictions accurate, despite the usual weak agreement between the test and self-report questionnaires. Knowing your bias and endorsing it are different things, and only the second is measured by a questionnaire. The training claim is the third confusion. Lai and 23 colleagues ran a contest of 17 interventions across four studies and 17,021 participants, and eight worked; no intervention consistently shifted explicit racial preferences. The follow-up tested nine interventions, one of them a sham, on 6,321 participants. All nine reduced implicit preferences immediately and none survived a delay of several hours to several days. A reduced score after a workshop is therefore not evidence that anything about the person has changed by the next morning. Finally, the headline figures are not comparable as usually quoted. The 2009 review's r = .274 covers nine domains including consumer and political preferences, where correlations reach .32 and .48; its race figure is .236, and that is the number the 2013 review's .148 should be set against.",
+  "sources": [
+    {
+      "text": "Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The Implicit Association Test. Journal of Personality and Social Psychology, 74(6), 1464-1480.",
+      "doi": "10.1037/0022-3514.74.6.1464",
+      "url": "https://doi.org/10.1037/0022-3514.74.6.1464",
+      "type": "primary"
+    },
+    {
+      "text": "Greenwald, A. G., Poehlman, T. A., Uhlmann, E. L., & Banaji, M. R. (2009). Understanding and using the Implicit Association Test: III. Meta-analysis of predictive validity. Journal of Personality and Social Psychology, 97(1), 17-41.",
+      "doi": "10.1037/a0015575",
+      "url": "https://doi.org/10.1037/a0015575",
+      "type": "replication"
+    },
+    {
+      "text": "Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J., & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. Journal of Personality and Social Psychology, 105(2), 171-192.",
+      "doi": "10.1037/a0032734",
+      "url": "https://doi.org/10.1037/a0032734",
+      "type": "replication"
+    },
+    {
+      "text": "Greenwald, A. G., Banaji, M. R., & Nosek, B. A. (2015). Statistically small effects of the Implicit Association Test can have societally large effects. Journal of Personality and Social Psychology, 108(4), 553-561.",
+      "doi": "10.1037/pspa0000016",
+      "url": "https://doi.org/10.1037/pspa0000016",
+      "type": "commentary"
+    },
+    {
+      "text": "Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J., & Tetlock, P. E. (2015). Using the IAT to predict ethnic and racial discrimination: Small effect sizes of unknown societal significance. Journal of Personality and Social Psychology, 108(4), 562-571.",
+      "doi": "10.1037/pspa0000023",
+      "url": "https://doi.org/10.1037/pspa0000023",
+      "type": "commentary"
+    },
+    {
+      "text": "Kurdi, B., Seitchik, A. E., Axt, J. R., Carroll, T. J., Karapetyan, A., Kaushik, N., Tomezsko, D., Greenwald, A. G., & Banaji, M. R. (2019). Relationship between the Implicit Association Test and intergroup behavior: A meta-analysis. American Psychologist, 74(5), 569-586.",
+      "doi": "10.1037/amp0000364",
+      "url": "https://doi.org/10.1037/amp0000364",
+      "type": "replication"
+    },
+    {
+      "text": "Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit measures. Journal of Personality and Social Psychology, 117(3), 522-559.",
+      "doi": "10.1037/pspa0000160",
+      "url": "https://doi.org/10.1037/pspa0000160",
+      "type": "replication"
+    },
+    {
+      "text": "Lai, C. K., Marini, M., Lehr, S. A., Cerruti, C., Shin, J. E., Joy-Gaba, J. A., ... & Nosek, B. A. (2014). Reducing implicit racial preferences: I. A comparative investigation of 17 interventions. Journal of Experimental Psychology: General, 143(4), 1765-1785.",
+      "doi": "10.1037/a0036260",
+      "url": "https://doi.org/10.1037/a0036260",
+      "type": "replication"
+    },
+    {
+      "text": "Lai, C. K., Skinner, A. L., Cooley, E., Murrar, S., Brauer, M., Devos, T., ... & Nosek, B. A. (2016). Reducing implicit racial preferences: II. Intervention effectiveness across time. Journal of Experimental Psychology: General, 145(8), 1001-1016.",
+      "doi": "10.1037/xge0000179",
+      "url": "https://doi.org/10.1037/xge0000179",
+      "type": "replication"
+    },
+    {
+      "text": "Greenwald, A. G., & Lai, C. K. (2020). Implicit social cognition. Annual Review of Psychology, 71, 419-445.",
+      "doi": "10.1146/annurev-psych-010419-050837",
+      "url": "https://doi.org/10.1146/annurev-psych-010419-050837",
+      "type": "commentary"
+    },
+    {
+      "text": "Gawronski, B., Morrison, M., Phills, C. E., & Galdi, S. (2017). Temporal stability of implicit and explicit measures: A longitudinal analysis. Personality and Social Psychology Bulletin, 43(3), 300-312.",
+      "doi": "10.1177/0146167216684131",
+      "url": "https://doi.org/10.1177/0146167216684131",
+      "type": "replication"
+    },
+    {
+      "text": "Schimmack, U. (2021). The Implicit Association Test: A method in search of a construct. Perspectives on Psychological Science, 16(2), 396-414.",
+      "doi": "10.1177/1745691619863798",
+      "url": "https://doi.org/10.1177/1745691619863798",
+      "type": "commentary"
+    },
+    {
+      "text": "Hahn, A., Judd, C. M., Hirsh, H. K., & Blair, I. V. (2014). Awareness of implicit attitudes. Journal of Experimental Psychology: General, 143(3), 1369-1392.",
+      "doi": "10.1037/a0035028",
+      "url": "https://doi.org/10.1037/a0035028",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
