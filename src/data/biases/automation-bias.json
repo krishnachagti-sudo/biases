@@ -1,0 +1,93 @@
+{
+  "no": 104,
+  "slug": "automation-bias",
+  "name": "Automation bias",
+  "aliases": ["Automation-induced complacency", "Over-reliance on automation", "Algorithmic over-reliance"],
+  "category": "decision",
+  "statement": "People treat an automated aid as a substitute for checking, so they follow its wrong advice and miss the problems it never flags.",
+  "meaning": "The claim splits into two errors that are usually reported together and are not the same thing. A commission error is acting on advice the automation got wrong, against evidence the operator had and could read. An omission error is failing to act on a problem the automation did not raise, because nothing prompted attention to it. Both are comparative claims: the aided operator does worse than the unaided one on the subset of cases the aid gets wrong, even where overall aided performance is better. That last clause is what makes the effect hard to measure, because the cases where the aid helps and the cases where it hurts are mixed together in the same session.",
+  "origin": {
+    "year": 1996,
+    "who": "Kathleen L. Mosier and Linda J. Skitka",
+    "where": "Automation and Human Performance: Theory and Applications (Lawrence Erlbaum)",
+    "note": "The naming chapter is \"Human decision makers and automated decision aids: Made for each other?\". Goddard, Roudsari and Wyatt cite it as the source of the definition of automation bias, the use of automated cues as 'a heuristic replacement of vigilant information seeking and processing'. The chapter was not obtained for this entry and the definition is quoted from the review. The earliest journal report located is Mosier, Skitka, Heers and Burdick in The International Journal of Aviation Psychology in 1998."
+  },
+  "evidence": "The founding studies are flight simulations run by Mosier, Skitka and colleagues, in which participants flew scenarios containing planted automation events. None of those papers could be opened for this entry, so their error rates are quoted at one remove from Goddard, Roudsari and Wyatt's review, which reports 55% omission and 0% commission rates in a study by Mosier and colleagues and commission errors exceeding omission errors in two studies by Skitka and colleagues. The healthcare evidence is better documented. That review screened 13,821 papers and included 74. Four of them measured what happens when a clinical decision support system gives bad advice, and pooling them by a Mantel-Haenszel random effects model gave a risk ratio of 1.26 (95% CI 1.11 to 1.44, p < 0.0005) for an incorrect decision against a control group with no system. The clearest single measure is the negative consultation, a correct unaided answer changed to a wrong one after the machine speaks. Across four studies it ran from 6% of cases in Friedman and colleagues to 11% in McKibbon and Fridsma, with Berner and colleagues at 21 cases of 272. Friedman's system also produced positive consultations in 12% of cases, so the net gain was 6% and the harm was real at the same time.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The direction reproduces in new domains and in randomised trials, and the size of the effect does not travel at all.",
+    "detail": "Dratsch and colleagues had 27 radiologists rate 50 mammograms alongside what they were told was an AI system. It was a mock-up with no model behind it, and 12 of the 50 cases carried a deliberately wrong BI-RADS suggestion. The share of mammograms rated correctly fell from 79.7% to 19.8% for the 11 inexperienced readers, from 81.3% to 24.8% for the 11 moderately experienced, and from 82.3% to 45.5% for the five very experienced, depending only on whether the suggestion was right (main effect of correctness p < .001, r = 0.92). Qazi and colleagues ran the closest thing to a clean test, a single-blind randomised trial of 44 physicians who had already completed 20 hours of AI-literacy training. Consulting ChatGPT-4o was voluntary and the treatment arm's recommendations carried planted errors in three of six vignettes. Diagnostic reasoning accuracy was 84.9% in the control arm against 73.3% in the treatment arm, reported as an adjusted difference of minus 14.0 percentage points (95% CI 8.3 to 19.7 points, p < .0001). Kim and colleagues found the same pattern with nine radiologists reading twenty MR angiograms twice, at least four weeks apart, with and without a real AI tool: false-positive findings raised suspicion of an aneurysm (p = 0.01) and led inexperienced readers to recommend more intensive follow-up (p = 0.005). Beck and colleagues randomised 2,784 annotators and found that making corrections compulsory for flagged AI errors cut engagement and raised acceptance of the wrong suggestions.",
+    "study": {
+      "cite": "Dratsch, T., Chen, X., Rezazade Mehrizi, M., et al. (2023). Automation Bias in Mammography: The Impact of Artificial Intelligence BI-RADS Suggestions on Reader Performance. Radiology, 307(4), e222176.",
+      "doi": "10.1148/radiol.222176",
+      "year": 2023,
+      "n": 27
+    },
+    "replicated": { "es": 0.92, "esType": "r" }
+  },
+  "limits": "Three of the founding papers stayed shut. Skitka, Mosier and Burdick's 1999 study, Mosier and colleagues' 1998 cockpit study and Parasuraman and Manzey's 2010 review are all behind paywalls these checks did not pass, so no error rate in this entry comes from reading them. The 55% omission and 0% commission figures are Goddard's account of Mosier, not Mosier's own text, and they are not in the structured fields for that reason. No incident-based estimate was located: the aviation evidence found here is simulator work, and searches of the review literature turned up field study rather than accident data. Magnitudes are not portable. Goddard's four pooled healthcare studies put the extra risk at 26%, while Dratsch's readers went from four in five correct to one in five, and both are labelled automation bias. Goddard's own verdict on the wider literature is that the effect is postulated frequently and lacks clear empirical evidence, because it usually turns up in a post-hoc analysis of a study designed for something else.",
+  "misreadings": "Omission and commission are routinely averaged into one error rate, which hides the finding that they move apart. Goddard reports one aviation study with 55% omission and no commission at all, and two others where commission was the larger. Parasuraman and Riley's 1997 paper is often cited as the source of the term, and it is not: it describes the same behaviour as automation 'misuse' and never uses the phrase in its abstract. Automation bias is also read as evidence that decision aids make users worse, which the same studies contradict, since aided performance is usually better on balance and Friedman's system helped twice as often as it harmed. Whether the bias can be trained away is unsettled rather than known. Parasuraman and Manzey conclude that it occurs in naive and expert users alike and cannot be prevented by training or instructions, while Goddard reports that training reduced commission errors in Skitka and colleagues' accountability study. The 2023 mammography result also says nothing about any particular product, because the AI in that experiment did not exist.",
+  "sources": [
+    {
+      "text": "Mosier, K. L., & Skitka, L. J. (1996). Human decision makers and automated decision aids: Made for each other? In R. Parasuraman & M. Mouloua (Eds.), Automation and Human Performance: Theory and Applications (pp. 201-220). Hillsdale, NJ: Lawrence Erlbaum. The DOI given here is for the volume, not the chapter; the chapter was not obtained and is cited via Goddard, Roudsari and Wyatt (2012).",
+      "doi": "10.1201/9781315137957",
+      "url": "https://doi.org/10.1201/9781315137957",
+      "type": "provenance"
+    },
+    {
+      "text": "Mosier, K. L., Skitka, L. J., Heers, S., & Burdick, M. (1998). Automation Bias: Decision Making and Performance in High-Tech Cockpits. The International Journal of Aviation Psychology, 8(1), 47-63. Paywalled; cited as existing, with its error rates taken from Goddard, Roudsari and Wyatt (2012).",
+      "doi": "10.1207/s15327108ijap0801_3",
+      "url": "https://doi.org/10.1207/s15327108ijap0801_3",
+      "type": "primary"
+    },
+    {
+      "text": "Skitka, L. J., Mosier, K. L., & Burdick, M. (1999). Does automation bias decision-making? International Journal of Human-Computer Studies, 51(5), 991-1006. Paywalled; no figure in this entry is read off it.",
+      "doi": "10.1006/ijhc.1999.0252",
+      "url": "https://doi.org/10.1006/ijhc.1999.0252",
+      "type": "primary"
+    },
+    {
+      "text": "Parasuraman, R., & Riley, V. (1997). Humans and Automation: Use, Misuse, Disuse, Abuse. Human Factors, 39(2), 230-253. Abstract read at Crossref; it frames over-reliance as automation misuse and does not use the term automation bias.",
+      "doi": "10.1518/001872097778543886",
+      "url": "https://doi.org/10.1518/001872097778543886",
+      "type": "background"
+    },
+    {
+      "text": "Goddard, K., Roudsari, A., & Wyatt, J. C. (2012). Automation bias: a systematic review of frequency, effect mediators, and mitigators. Journal of the American Medical Informatics Association, 19(1), 121-127.",
+      "doi": "10.1136/amiajnl-2011-000089",
+      "url": "https://doi.org/10.1136/amiajnl-2011-000089",
+      "type": "review"
+    },
+    {
+      "text": "Parasuraman, R., & Manzey, D. H. (2010). Complacency and Bias in Human Use of Automation: An Attentional Integration. Human Factors, 52(3), 381-410. Abstract read at the publisher and at Crossref; the full text was not obtained.",
+      "doi": "10.1177/0018720810376055",
+      "url": "https://doi.org/10.1177/0018720810376055",
+      "type": "review"
+    },
+    {
+      "text": "Dratsch, T., Chen, X., Rezazade Mehrizi, M., et al. (2023). Automation Bias in Mammography: The Impact of Artificial Intelligence BI-RADS Suggestions on Reader Performance. Radiology, 307(4), e222176.",
+      "doi": "10.1148/radiol.222176",
+      "url": "https://doi.org/10.1148/radiol.222176",
+      "type": "replication"
+    },
+    {
+      "text": "Qazi, I. A., Ali, A., Khawaja, A. U., Akhtar, M. J., Sheikh, A. Z., & Alizai, M. H. (2025). Automation Bias in Large Language Model Assisted Diagnostic Reasoning Among AI-Trained Physicians. medRxiv preprint. The figures quoted here are read off this preprint; the peer-reviewed version is NEJM AI 2026;3(5), doi 10.1056/AIoa2501001, which was not accessible.",
+      "doi": "10.1101/2025.08.23.25334280",
+      "url": "https://doi.org/10.1101/2025.08.23.25334280",
+      "type": "replication"
+    },
+    {
+      "text": "Kim, S. H., Schramm, S., Riedel, E. O., et al. (2025). Automation bias in AI-assisted detection of cerebral aneurysms on time-of-flight MR angiography. La radiologia medica, 130(4), 555-566.",
+      "doi": "10.1007/s11547-025-01964-6",
+      "url": "https://doi.org/10.1007/s11547-025-01964-6",
+      "type": "replication"
+    },
+    {
+      "text": "Beck, J., Eckman, S., Kern, C., & Kreuter, F. (2025). Bias in the Loop: How Humans Evaluate AI-Generated Suggestions. arXiv:2509.08514.",
+      "doi": "10.48550/arXiv.2509.08514",
+      "url": "https://arxiv.org/abs/2509.08514",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

@@ -1,0 +1,105 @@
+{
+  "no": 105,
+  "slug": "zero-sum-thinking",
+  "name": "Zero-sum thinking",
+  "aliases": ["Zero-sum bias", "Belief in a zero-sum game", "Fixed-pie bias", "Zero-sum mindset"],
+  "category": "social",
+  "statement": "People judge that one party's gain must come at another's expense, including in situations where nothing fixes the total available.",
+  "meaning": "Two claims travel under this name and they are measured with different instruments. The perceptual claim is that people misread particular situations, inferring that a resource is capped when it is not. The attitudinal claim is that people differ in how readily they agree with statements such as 'if someone gets richer it means that someone else gets poorer', and that this agreement can be scored and correlated with politics, trust and income. Shai Davidai and Stephanie Tepper, reviewing the field for Nature Reviews Psychology, separate a general mindset about how social relations work from domain-specific beliefs about trade, immigration, race, gender and status. Almost all of the large-scale evidence concerns agreement with statements rather than misperception of a situation.",
+  "origin": {
+    "year": 2010,
+    "who": "Daniel V. Meegan",
+    "where": "Frontiers in Psychology",
+    "note": "The paper is \"Zero-Sum Bias: Perceived Competition Despite Unlimited Resources\", article 191 in the journal's first volume. Meegan's frame comes from George Foster's 1965 account of peasant societies operating on an 'image of limited good', and the belief-scale tradition starts separately with Joanna Różycka-Tran, Paweł Boski and Bogdan Wojciszke in 2015."
+  },
+  "evidence": "Meegan ran three experiments at the University of Guelph, whose regulations bar instructors from grading to a fixed distribution. Participants saw the grades of the first 19 presenters in a 20-student course and predicted the 20th. In Experiment 1, 556 undergraduates saw either a negatively skewed distribution or a symmetrical one, 278 in each condition. The skew pushed predictions down, χ²(4) = 50.30, p < 0.001, with D predictions more frequent, χ²(1) = 30.56, p < 0.001, and A predictions less frequent, χ²(1) = 5.63, p < 0.05. Experiment 2 reversed the skew for 308 students and found no matching rise in high-grade predictions. Its one significant cell ran the other way: D predictions became more frequent, χ²(1) = 7.20, p < 0.01. Experiment 3 gave half of 368 students the text of the grading policy, which cut D predictions, χ²(1) = 5.77, p < 0.05, and F predictions, χ²(1) = 9.00, p < 0.005. Samuel Johnson, Jiewen Zhang and Frank Keil found the same error in ordinary trade. Of 100 participants shown 12 everyday transactions, 94.2% said at least one party was left worse off somewhere, and 88.4% called at least one transaction zero-sum or negative-sum. Buyers were judged worse off about five times as often as sellers, t(85) = 7.55, p < 0.001, d = 1.11. Sahil Chinoy, Nathan Nunn, Sandra Sequeira and Stefanie Stantcheva surveyed roughly 20,400 US residents in seven waves between October 2020 and July 2023, scoring agreement with four statements about ethnic groups, citizenship, trade and income classes. Those four correlated between 0.29 and 0.57 and loaded on one component with an eigenvalue of 2.30.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The eight-item belief scale keeps its one-factor shape in an independent sample of 11,368 people across 43 countries, while agreement with logically equivalent zero-sum statements changes when the two halves are swapped.",
+    "detail": "Joanna Różycka-Tran, Guido Alessandri, Paweł Jurek and Michał Olech pooled 11,368 respondents from 43 countries in two waves of 5,158 and 6,210, and refitted the Belief in a Zero-Sum Game scale. The single-level one-factor model fitted, χ²(20) = 1084.69, CFI = .959, RMSEA = .068. Standardised loadings ran from .36 to .79 within countries and .72 to .99 between them. Strong isomorphism, which forces equal loadings across levels and zero country-level residuals, failed, CFI = .428, RMSEA = .093. Freeing those residuals restored fit, CFI = .921, RMSEA = .037, so the scale means roughly the same thing at both levels only once country-specific item bias is allowed for. About 8% of the variance in the latent belief sat between countries. Of five country indicators tested, only gross national income per head and individualism correlated negatively with it. Michael Smithson and Yiyun Shou tested the measure from the other side. A zero-sum statement has the form 'the more X for A, the less Y for B', and its four permutations should be endorsed equally by anyone who believes it. In their Study 1, 395 American adults chose between permutations of six statements, and five of the six showed an effect of which permutation was offered, all χ²(3) > 21.0, p < 0.001. The exception was a statement about investment, χ²(3) = 3.6, p = 0.312. Study 2 repeated the test on rating scales with 405 Americans, 426 Britons and 452 Indians, and Study 3 on a seven-point scale with 498 Americans, 494 Britons, 503 Indians and 496 Chinese. Most asymmetries held across the samples, including for a statement about cloudy weather and sunshine that really is zero-sum. Searches of Crossref, PubMed and the open web found no direct replication of Meegan's grade-prediction experiments.",
+    "study": {
+      "cite": "Różycka-Tran, J., Alessandri, G., Jurek, P., & Olech, M. (2018). A test of construct isomorphism of the Belief in a Zero-Sum Game scale: A multilevel 43-nation study. PLOS ONE, 13(9), e0203196.",
+      "doi": "10.1371/journal.pone.0203196",
+      "year": 2018,
+      "sites": 43,
+      "n": 11368
+    }
+  },
+  "limits": "The evidence is overwhelmingly correlational, and the review of the field says so plainly: Davidai and Tepper write that the difficulty of manipulating zero-sum beliefs has led many researchers to rely on correlational and cross-sectional designs. The Chinoy paper is a survey. Its links between zero-sum scores and support for redistribution, affirmative action and immigration restriction survive controls for demographics, party and six other beliefs, and it reports no experiment. Its ancestry results are of the same kind. Greater mobility from parents to respondent went with a lower zero-sum score, b = -0.0220, SE 0.0016, on an index running from 0 to 1 with a standard deviation of 0.222, and reporting an enslaved ancestor went with a higher score, b = 0.0834, SE 0.0054, in the full sample of 20,263. Experiments do exist, and their outcomes are judgements or hypothetical choices rather than consequential behaviour. Patricia Andrews-Fearon and Shai Davidai told 297 people that a new employer either ranked staff against each other or judged each against a fixed criterion. The ranking description raised zero-sum ratings, d = 1.47, 95% CI [1.21, 1.73], and led participants to pick more books about dominance from a list of eight, d = .75, 95% CI [.51, .98]. Nobody chose a job or gave up money. Meegan's own paper concedes two rival readings of his result: Guelph students rarely see many top grades awarded in practice, so wariness may be reasonable, and they may simply have learned to treat coursework as a contest. His participants were undergraduates at one university. Sirola and Pitesa's 2017 study of economic downturns and workplace helping, and Kakkar and Sivanathan's 2022 study of leader dominance and helping, both report behavioural measures and were not retrieved for this entry, so no figure from either appears here. The 2015 paper that introduced the belief scale is paywalled and its text was not retrieved. Its sample of 6,138 across 37 countries is quoted from the 2018 paper's description of it.",
+  "misreadings": "The idea is usually attached to the political right. Chinoy and colleagues found the opposite alignment on three of their four items, with Democrats more zero-sum about ethnic groups, trade and income, and Republicans more zero-sum about citizenship. In their data a stronger zero-sum score predicts support for redistribution and affirmative action as well as support for restricting immigration, and it explains variation inside each party rather than between them. Davidai and Ongis reach a matching conclusion from six studies with 3,223 participants: in their experiments conservatism went with zero-sum ratings when a policy challenged the status quo and against them when it upheld it, so the sign of the correlation flipped with the framing. Meegan's bias is also quoted as if it ran both ways. It did not. Many high grades already given made low predictions more likely, while many low grades did not make high predictions more likely, which is why he calls the heuristic unidirectional. Agreeing that the rich get rich at the expense of the poor is not the same act as misreading an uncapped situation as capped, and a person can do either without doing the other. In some settings the zero-sum reading is correct, and a scale score cannot tell the two cases apart.",
+  "sources": [
+    {
+      "text": "Meegan, D. V. (2010). Zero-sum bias: Perceived competition despite unlimited resources. Frontiers in Psychology, 1, 191. Source for the three experiments, the samples and the chi-square tests.",
+      "doi": "10.3389/fpsyg.2010.00191",
+      "url": "https://doi.org/10.3389/fpsyg.2010.00191",
+      "type": "primary"
+    },
+    {
+      "text": "Foster, G. M. (1965). Peasant society and the image of limited good. American Anthropologist, 67(2), 293-315.",
+      "doi": "10.1525/aa.1965.67.2.02a00010",
+      "url": "https://doi.org/10.1525/aa.1965.67.2.02a00010",
+      "type": "background"
+    },
+    {
+      "text": "Różycka-Tran, J., Boski, P., & Wojciszke, B. (2015). Belief in a zero-sum game as a social axiom: A 37-nation study. Journal of Cross-Cultural Psychology, 46(4), 525-548. Paywalled; only its abstract was read for this entry.",
+      "doi": "10.1177/0022022115572226",
+      "url": "https://doi.org/10.1177/0022022115572226",
+      "type": "primary"
+    },
+    {
+      "text": "Różycka-Tran, J., Alessandri, G., Jurek, P., & Olech, M. (2018). A test of construct isomorphism of the Belief in a Zero-Sum Game scale: A multilevel 43-nation study. PLOS ONE, 13(9), e0203196. Source for the fit statistics, the loadings and the 37-nation sample size.",
+      "doi": "10.1371/journal.pone.0203196",
+      "url": "https://doi.org/10.1371/journal.pone.0203196",
+      "type": "replication"
+    },
+    {
+      "text": "Smithson, M., & Shou, Y. (2016). Asymmetries in responses to attitude statements: The example of \"zero-sum\" beliefs. Frontiers in Psychology, 7, 984. Source for the permutation effects and the four national samples.",
+      "doi": "10.3389/fpsyg.2016.00984",
+      "url": "https://doi.org/10.3389/fpsyg.2016.00984",
+      "type": "replication"
+    },
+    {
+      "text": "Johnson, S. G. B., Zhang, J., & Keil, F. C. (2022). Win-win denial: The psychological underpinnings of zero-sum thinking. Journal of Experimental Psychology: General, 151(2), 455-474.",
+      "doi": "10.1037/xge0001083",
+      "url": "https://doi.org/10.1037/xge0001083",
+      "type": "primary"
+    },
+    {
+      "text": "Chinoy, S., Nunn, N., Sequeira, S., & Stantcheva, S. (2026). Zero-sum thinking and the roots of US political differences. American Economic Review, 116(3), 1052-1096. Figures here were read off the April 2025 revision of NBER working paper 31688, which carries the same title and sample.",
+      "doi": "10.1257/aer.20240692",
+      "url": "https://doi.org/10.1257/aer.20240692",
+      "type": "primary"
+    },
+    {
+      "text": "Davidai, S., & Ongis, M. (2019). The politics of zero-sum thinking: The relationship between political ideology and the belief that life is a zero-sum game. Science Advances, 5(12), eaay3761.",
+      "doi": "10.1126/sciadv.aay3761",
+      "url": "https://doi.org/10.1126/sciadv.aay3761",
+      "type": "primary"
+    },
+    {
+      "text": "Andrews-Fearon, P., & Davidai, S. (2023). Is status a zero-sum game? Zero-sum beliefs increase people's preference for dominance but not prestige. Journal of Experimental Psychology: General, 152(2), 389-409. Source for the Study 5A manipulation and its effect sizes.",
+      "doi": "10.1037/xge0001282",
+      "url": "https://doi.org/10.1037/xge0001282",
+      "type": "primary"
+    },
+    {
+      "text": "Davidai, S., & Tepper, S. J. (2023). The psychology of zero-sum beliefs. Nature Reviews Psychology, 2(8), 472-482.",
+      "doi": "10.1038/s44159-023-00194-9",
+      "url": "https://doi.org/10.1038/s44159-023-00194-9",
+      "type": "review"
+    },
+    {
+      "text": "Sirola, N., & Pitesa, M. (2017). Economic downturns undermine workplace helping by promoting a zero-sum construal of success. Academy of Management Journal, 60(4), 1339-1359. Named as existing; its text was not retrieved for this entry.",
+      "doi": "10.5465/amj.2015.0804",
+      "url": "https://doi.org/10.5465/amj.2015.0804",
+      "type": "primary"
+    },
+    {
+      "text": "Kakkar, H., & Sivanathan, N. (2022). The impact of leader dominance on employees' zero-sum mindset and helping behavior. Journal of Applied Psychology, 107(10), 1706-1724. Named as existing; its results were not retrieved for this entry.",
+      "doi": "10.1037/apl0000980",
+      "url": "https://doi.org/10.1037/apl0000980",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
