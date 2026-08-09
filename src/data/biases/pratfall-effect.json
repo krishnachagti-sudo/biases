@@ -1,0 +1,73 @@
+{
+  "no": 113,
+  "slug": "pratfall-effect",
+  "name": "Pratfall effect",
+  "category": "social",
+  "statement": "A blunder makes a competent person more likeable and a mediocre person less likeable, on the evidence of one two-page experiment from 1966.",
+  "meaning": "The claim is an interaction, not a rule about mistakes. Aronson, Willerman and Floyd report that a clumsy blunder raises the attractiveness of a superior person and lowers the attractiveness of a mediocre one. Their stated reasoning is that a superior person can look superhuman and therefore distant, and that a blunder humanises him. Competence does the work in that account, so the blunder only helps someone the observer already rates highly. A version of the idea that says mistakes make people likeable has kept the memorable half and dropped the half that carries the prediction.",
+  "origin": {
+    "year": 1966,
+    "who": "Elliot Aronson, Ben Willerman and Joanne Floyd",
+    "where": "Psychonomic Science",
+    "note": "A two-page report at pages 227 and 228 of volume 4, issue 6. The title is \"The effect of a pratfall on increasing interpersonal attractiveness\", and retellings routinely print \"increased\"."
+  },
+  "evidence": "The 1966 report is two pages long and its full text sits behind a paywall these checks did not pass. Only its abstract was read for this entry. That abstract states the result and the reasoning behind it, and gives no sample size, no rating scale and no procedure. The design usually attached to the paper, male students hearing four taped versions of a quiz-show candidate who does or does not spill coffee, could not be checked against the paper itself. Later work using taped or filmed blunders is readable and points elsewhere. Kiesler and Goldberg crossed a blunder with the target's age and with opinion similarity, then factor-analysed the attraction ratings; their abstract reports similarity as significant on both extracted factors and reports nothing about the blunder. Maier, Lavrakas, Bentley and Parrella showed videotaped interactions in which a man blundered, a woman blundered, or nobody did, and found the blunderer derogated, most heavily by observers of the same sex, with 34 men and 34 women rating. Cunningham and Unverzagt had 192 students rate descriptions crossing competence with deviant behaviour, and report that deviance moved ratings more than competence did and that the two rarely interacted.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No repetition of the 1966 experiment was found, and no meta-analysis, anywhere in the paper's citation record.",
+    "detail": "OpenAlex records 215 works citing the paper. Reading the titles of all of them turned up no replication and no meta-analysis, and searches of Crossref, PubMed, Europe PMC, Semantic Scholar, Unpaywall and general web search added none. Three studies from the same decade used the paradigm and are paywalled. Helmreich, Aronson and LeFan brought in observer self-esteem in 1970, Mettee and Wilkins crossed perceived ability with a humorous blunder in 1972, and Deaux tested sex differences in 1972. Mettee and Wilkins is the nearest thing to a test of the original claim, because it manipulated both halves of the interaction, and this entry does not report what it found. Modern work under the name is not a replication. Mirnig and colleagues had 45 people talk to a NAO robot and then build Lego with it, the robot either committing eight errors or none. Likeability was 4.30 against 3.93 on a five-point scale, U = 340.00, z = 2.02, p = 0.044, r = 0.30, with 21 people in the error condition and 24 in the baseline. Anthropomorphism did not differ, p = 0.109, and ran lower for the faulty robot. Nothing in that design manipulates competence, so it asks whether errors are liked, not whether competence changes what an error does."
+  },
+  "limits": "The base is a single two-page paper whose numbers this entry has not seen. Springer's own record marks the 1966 PDF as free to read, and every attempt to fetch it returned the publisher's bot page, so the abstract on the article page is what the origin and evidence sections rest on. Helmreich, Aronson and LeFan's 1970 paper in the Journal of Personality and Social Psychology is the one that qualifies the effect by the observer's self-esteem, and it is paywalled and carries no abstract in MEDLINE, so it is named here rather than summarised. The same holds for Mettee and Wilkins in 1972. Deaux's 1972 paper ran in Representative Research in Social Psychology, has no DOI, and was not obtained; its citation here is taken from the reference list of Celik and colleagues. No effect size is quoted for the original, because none was read. Searches covered Crossref, OpenAlex, PubMed, Europe PMC, Unpaywall, Semantic Scholar, the Internet Archive and general web search.",
+  "misreadings": "The popular form of the effect, that competent people become more likeable when they slip, keeps the first half of the abstract and drops the second. The same blunder is reported to lower a mediocre person's attractiveness, which makes the advice conditional on an audience that has already registered the competence. The 1970 follow-up is skipped even more often. Two of the original authors put self-esteem in its title and \"sometimes\" in its headline claim, which fits badly with a rule stated without conditions. Marketing citations are looser still. The most recent paper carrying the name surveyed 234 Turkish Instagram users who all read one scenario in which a travel influencer spills coffee. There is no condition without the spill, the authors list a two-by-two of expertise and pratfall as future work, and the study cannot show that the blunder changed anything. Robot studies are quoted the same way, as though a machine that people like more after it errs settles a question about people.",
+  "sources": [
+    {
+      "text": "Aronson, E., Willerman, B., & Floyd, J. (1966). The effect of a pratfall on increasing interpersonal attractiveness. Psychonomic Science, 4(6), 227-228. Full text paywalled; the abstract on the publisher's article page is what this entry read.",
+      "doi": "10.3758/BF03342263",
+      "url": "https://doi.org/10.3758/BF03342263",
+      "type": "primary"
+    },
+    {
+      "text": "Helmreich, R., Aronson, E., & LeFan, J. (1970). To err is humanizing sometimes: Effects of self-esteem, competence, and a pratfall on interpersonal attraction. Journal of Personality and Social Psychology, 16(2), 259-264. Named as existing; paywalled, no abstract in MEDLINE, and nothing in this entry is taken from its findings.",
+      "doi": "10.1037/h0029848",
+      "url": "https://doi.org/10.1037/h0029848",
+      "type": "primary"
+    },
+    {
+      "text": "Mettee, D. R., & Wilkins, P. C. (1972). When similarity \"hurts\": Effects of perceived ability and a humorous blunder on interpersonal attractiveness. Journal of Personality and Social Psychology, 22(2), 246-258. Named as existing; paywalled and not read.",
+      "doi": "10.1037/h0032603",
+      "url": "https://doi.org/10.1037/h0032603",
+      "type": "replication"
+    },
+    {
+      "text": "Kiesler, C. A., & Goldberg, G. N. (1968). Multi-dimensional approach to the experimental study of interpersonal attraction: Effect of a blunder on the attractiveness of a competent other. Psychological Reports, 22(3), 693-705. Described here from its abstract.",
+      "doi": "10.2466/pr0.1968.22.3.693",
+      "url": "https://doi.org/10.2466/pr0.1968.22.3.693",
+      "type": "replication"
+    },
+    {
+      "text": "Maier, R. A., Lavrakas, P. J., Bentley, B., & Parrella, G. (1977). Role of sex identification in perception of a social blunder. Perceptual and Motor Skills, 45(3), 933-934. Described here from its abstract.",
+      "doi": "10.2466/pms.1977.45.3.933",
+      "url": "https://doi.org/10.2466/pms.1977.45.3.933",
+      "type": "replication"
+    },
+    {
+      "text": "Cunningham, J., & Unverzagt, F. (1985). Effects of competence and deviance on person perception. Perceptual and Motor Skills, 60(2), 363-368. Described here from its abstract.",
+      "doi": "10.2466/pms.1985.60.2.363",
+      "url": "https://doi.org/10.2466/pms.1985.60.2.363",
+      "type": "replication"
+    },
+    {
+      "text": "Mirnig, N., Stollnberger, G., Miksch, M., Stadler, S., Giuliani, M., & Tscheligi, M. (2017). To err is robot: How humans assess and act toward an erroneous social robot. Frontiers in Robotics and AI, 4, 21. Read in full.",
+      "doi": "10.3389/frobt.2017.00021",
+      "url": "https://doi.org/10.3389/frobt.2017.00021",
+      "type": "replication"
+    },
+    {
+      "text": "Celik, F., Koc, E., Yildiz, S. Y., Tarim, E., & Daryanto, A. (2026). Exploring the potential of the pratfall effect in travel influencer marketing. Journal of Hospitality and Tourism Management, 66, 101388. The author accepted manuscript was read at the Lancaster University repository.",
+      "doi": "10.1016/j.jhtm.2025.101388",
+      "url": "https://eprints.lancs.ac.uk/id/eprint/234695/1/Pratfall_author_accepted_manuscript.pdf",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
