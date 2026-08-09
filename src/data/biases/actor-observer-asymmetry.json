@@ -1,0 +1,73 @@
+{
+  "no": 152,
+  "slug": "actor-observer-asymmetry",
+  "name": "Actor-observer asymmetry",
+  "aliases": ["Actor-observer bias", "Actor-observer effect", "Actor-observer hypothesis"],
+  "category": "social",
+  "statement": "People are said to explain their own behaviour by the situation and other people's by character, but across 173 studies the gap is d = 0.095.",
+  "meaning": "The hypothesis is about explanations, not impressions. It says that when an actor and an observer account for the same behaviour, the actor reaches for circumstances and the observer reaches for the actor's dispositions. Studies test it by asking both parties to rate how much internal and external causes mattered, then comparing the internal-minus-external difference across the two roles. That difference score, labelled I-E, is what the literature means by the asymmetry. The claim is separate from correspondence bias, which is about inferring a trait from constrained behaviour, and separate from the fundamental attribution error, which is a broader claim about weighting persons over situations. Textbooks routinely merge all three.",
+  "origin": {
+    "year": 1971,
+    "who": "Edward E. Jones and Richard E. Nisbett",
+    "where": "General Learning Press",
+    "note": "Their monograph is \"The actor and the observer: Divergent perceptions of the causes of behavior\", reprinted the following year as pages 79 to 94 of the Jones and colleagues volume Attribution: Perceiving the Causes of Behavior. They open with anecdotes about a failing student, the Kitty Genovese witnesses and political memoirs. They then call their own proposition an actuarial one, grant that there are undoubtedly many exceptions, and write that it \"has not been fully tested, but there are a few experiments that provide data consistent with it\"."
+  },
+  "evidence": "The founding evidence is thin by design. Jones and Nisbett cite McArthur's coding of written attributions and two studies by Nisbett and colleagues. In the first, students wrote why they had chosen their major and why they liked the woman they dated most often, then wrote the same for their best friend. Writing about themselves they gave roughly equal numbers of stimulus and person reasons for the major and twice as many stimulus as person reasons for the girlfriend. Writing about the best friend they gave about three times as many person as stimulus reasons for the major and roughly equal numbers for the girlfriend. Measurement later settled on rating scales. Storms asked participants how important their personality, traits, character, style, attitudes and mood had been, against how important the experiment, the setting, the topic and the other person's behaviour had been. Watson reviewed the literature in 1982 and called the hypothesis firmly established. Robins, Spranca and Mendelsohn ran three successive dyadic interactions in 1996 and found the effect held for one external factor, the interaction partner, and one internal factor, personality, but not for situation or mood. They concluded that the effect has limited generality and needs a more complex formulation.",
+  "replication": {
+    "state": "failed",
+    "headline": "Across 173 studies and 14,686 people the asymmetry pooled at d = 0.095, and correcting for publication bias put it at d = -0.011.",
+    "detail": "Malle collected every published test he could find from 1971 to 2004: 113 articles, 173 studies, 14,686 participants. The random-effects estimate on the I-E difference was d = 0.095, 95% confidence interval 0.032 to 0.159, significantly above zero and small enough that 68 studies sat at or below zero and 97 failed to reach Cohen's threshold for a small effect. Taken separately, the internal score at d = 0.062 and the external score at d = 0.023 were both indistinguishable from zero. Under fixed effects the range ran from -0.015 to 0.032. Restricting the pool to standard conditions, meaning real events of no clear valence with no delay and no false base-rate information, pushed the average to between -0.09 and 0.007. A trim-and-fill correction, which suggested 25 negative studies were missing, gave d = -0.011, 95% confidence interval -0.077 to 0.054. Malle estimated it would take 177 further studies at d = 0.50 to lift the pooled figure to 0.30. His verdict is that the hypothesis is \"a widely held yet false belief\". Malle, Knobe and Nelson then ran six studies against it in 2007 and found no support for the person-situation asymmetry or for a trait version of it.",
+    "study": {
+      "cite": "Malle, B. F. (2006). The actor-observer asymmetry in attribution: A (surprising) meta-analysis. Psychological Bulletin, 132(6), 895-919.",
+      "doi": "10.1037/0033-2909.132.6.895",
+      "year": 2006,
+      "n": 14686
+    },
+    "replicated": { "es": 0.095, "esType": "d", "ci": [0.032, 0.159], "ciLevel": 95, "weighting": "random-effects, precision-weighted" }
+  },
+  "limits": "Near zero on average is not zero everywhere, and the moderators are the substance of the paper. Valence splits the pool. Across 61 studies of negative events the classic asymmetry appeared at d = 0.241, 95% confidence interval 0.135 to 0.347, and across 45 studies of positive events it reversed to d = -0.158, interval -0.315 to -0.002. Malle's results text gives these as 0.243 and -0.149 with slightly different intervals; the figures above are from his Table 3, which his discussion also uses. The negative-event asymmetry sits in internal attributions at d = 0.311 rather than external ones at -0.020, and it holds only where actor and observer roles were manipulated between subjects. Because the pool held more negative than positive studies, correcting for that imbalance dropped the overall figure to d = 0.042. Four further conditions produced the effect: eight studies feeding participants fictitious base rates that made the actor look unusual reached d = 0.797, though three extreme values from one article drove that; 24 studies of hypothetical rather than real events gave d = 0.280; 29 studies of intimates gave d = 0.245 against 0.072 for strangers; and 20 studies that coded free verbal explanations gave d = 0.318 against 0.062 for the 152 using rating scales. Visual perspective, the mechanism Jones and Nisbett proposed, produced nothing. Time delay produced nothing. Observer involvement produced nothing. Age produced nothing. Yelderman and colleagues later found a clear asymmetry in 1,317 people judging parole decisions, and note in the paper that their design matched Malle's conditions: hypothetical event, negative outcome, between subjects, Western sample. The whole pool predates 2005 and rests on published work; no preregistered multi-laboratory replication of a single actor-observer protocol was located.",
+  "misreadings": "The familiar folk version, that people excuse themselves and blame everyone else, is not the hypothesis Malle tested and is closer to what his valence split shows. Actors were less willing than observers to cite internal causes for failures and mishaps, and the pattern reversed for successes. Malle argues that even this may not be self-serving: an actor who usually does well and receives false failure feedback is following the base rates by treating the result as a fluke, while the observer has a sample of one. The result does not abolish correspondence bias. Malle says so directly, on the grounds that inferring a trait from constrained behaviour is a different act from explaining a behaviour, and this site's entry on the fundamental attribution error records the demonstration replicating at d = 1.82. What the meta-analysis damages is the error stated as a claim about explanations, such as Ross and Nisbett's line that actors give fewer dispositional explanations than observers. Nor does Malle claim that actors and observers are alike. His folk-conceptual account holds that the differences are real and lie elsewhere, in whether an explanation cites a reason at all, whether that reason is a belief or a desire, and whether the mental state is marked in words. Saying \"she watered the orchid because she thought the soil was dry\" codes as a person attribution, while \"I watered the orchid because the soil was dry\" codes as a situation attribution, and the two sentences may describe the same reason. In the 2007 studies the reason asymmetry never fell below d = 0.55. Textbooks have not caught up. OpenStax's Psychology 2e, dated April 2020, teaches the actor-observer bias as fact and cites Malle only as a caution that the fundamental attribution error may not be as powerful as it is often portrayed.",
+  "sources": [
+    {
+      "text": "Jones, E. E., & Nisbett, R. E. (1971). The actor and the observer: Divergent perceptions of the causes of behavior. Morristown, NJ: General Learning Press. Reprinted in E. E. Jones et al. (Eds.), Attribution: Perceiving the Causes of Behavior, 79-94.",
+      "url": "https://archive.org/download/15341_Readings/15341_Readings/Social_Cognition/Jones_%26_Nisbett_The_Actor_%26_the_Observer_Attribution_pp79-94_text.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Watson, D. (1982). The actor and the observer: How are their perceptions of causality divergent? Psychological Bulletin, 92(3), 682-700.",
+      "doi": "10.1037/0033-2909.92.3.682",
+      "url": "https://doi.org/10.1037/0033-2909.92.3.682",
+      "type": "commentary"
+    },
+    {
+      "text": "Robins, R. W., Spranca, M. D., & Mendelsohn, G. A. (1996). The actor-observer effect revisited: Effects of individual differences and repeated social interactions on actor and observer attributions. Journal of Personality and Social Psychology, 71(2), 375-389.",
+      "doi": "10.1037/0022-3514.71.2.375",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8765487/",
+      "type": "primary"
+    },
+    {
+      "text": "Malle, B. F. (2006). The actor-observer asymmetry in attribution: A (surprising) meta-analysis. Psychological Bulletin, 132(6), 895-919.",
+      "doi": "10.1037/0033-2909.132.6.895",
+      "url": "https://research.clps.brown.edu/SocCogSci/Publications/Pubs/Malle_(2006)_ActObs_meta.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Malle, B. F., Knobe, J. M., & Nelson, S. E. (2007). Actor-observer asymmetries in explanations of behavior: New answers to an old question. Journal of Personality and Social Psychology, 93(4), 491-514.",
+      "doi": "10.1037/0022-3514.93.4.491",
+      "url": "https://research.clps.brown.edu/SocCogSci/Publications/Pubs/Malle_Knobe_Nelson_(2007)_JPSP.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Yelderman, L. A., Lawrence, T. I., Lyons, C. E., & DeVault, A. (2020). Actor-observer asymmetry in perceptions of parole board release decisions. Psychiatry, Psychology and Law, 28(5), 623-644.",
+      "doi": "10.1080/13218719.2020.1821826",
+      "url": "https://doi.org/10.1080/13218719.2020.1821826",
+      "type": "replication"
+    },
+    {
+      "text": "OpenStax (2020). Psychology 2e, section 12.1: What is social psychology? Published 22 April 2020.",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
