@@ -1,0 +1,122 @@
+{
+  "no": 201,
+  "slug": "self-licensing",
+  "name": "Self-licensing",
+  "aliases": [
+    "Moral licensing",
+    "Moral self-licensing",
+    "Moral credential effect",
+    "Licensing effect"
+  ],
+  "category": "social",
+  "statement": "Doing something good makes people more willing to do something questionable next, because the first act works as a credential that excuses the second.",
+  "meaning": "Self-licensing is a claim about sequences rather than about people. An act that marks someone as moral, picking a woman for a job, buying a green product, writing about one's own good traits, is supposed to loosen the constraint on a later act that might look immoral. Two accounts of the mechanism compete. On the credentials account the first act changes how the second is read, so the same behaviour no longer counts as prejudice or greed. On the credits account the first act buys a balance that the second spends. Both make the same prediction: people who have just been good behave worse than people who have not.",
+  "origin": {
+    "year": 2001,
+    "who": "Benoît Monin and Dale T. Miller",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their paper used the phrase moral credentials, not licensing. Study 1 approached 202 Princeton undergraduates with five negative statements about women, worded as either \"most\" or \"some\" women, and men who had disagreed with the blatant version then favoured a man for a stereotypically male job, F(2, 194) = 4.4, p < .05. The label moral self-licensing arrives later, in Merritt, Effron and Monin's 2010 review."
+  },
+  "evidence": "Study 2 of the original paper is the design later replications went after. 132 Princeton undergraduates chose one of five applicants for a starting position at a consulting firm, where the strongest candidate was a White woman, an African American man or a White man depending on condition. They then read a second hiring dilemma, set in a cement factory or in a racist police force, and said on a seven-point scale whether the job suited one gender or ethnicity better. Those who had the chance to pick a woman or a Black candidate favoured a White man more, F(1, 124) = 6.3, p < .05, with means of 4.8 against 4.4 on a scale whose midpoint was 4. Dropping the 22 participants who did not pick the star candidate raised it to F(1, 102) = 9.6, p < .005. Two later demonstrations carried the idea outside prejudice. Sachdeva, Iliev and Medin had people write about their own positive or negative traits, then measured charitable donations and cooperation. Mazar and Zhong had people shop in a green or a conventional online store, then measured cheating for money. Blanken, van de Ven and Zeelenberg pooled 91 studies and 7,397 participants in 2015 and reported d = 0.31, 95% CI [0.23, 0.38].",
+  "replication": {
+    "state": "mixed",
+    "headline": "The founding paper's first study survived a 21-sample replication at a fraction of its original size, its second study failed a registered replication, and bias correction cuts the meta-analytic effect to somewhere between d = -0.05 and d = 0.18.",
+    "detail": "Many Labs 3 ran the Study 1 credentials manipulation in 20 university participant pools and one online sample. Across 3,134 participants the predicted main effect of credentials held, F(1, 3130) = 17.01, p < .001, partial eta squared .005, 95% CI [.001, .012], against .043, 95% CI [.002, .103] in the original 202 participants. Mean preference for a man was 4.44 in the \"most\" condition and 4.31 in the \"some\" condition. The gender moderation Monin and Miller had found, where only men responded to the manipulation, did not appear, F(1, 3130) = 0.0004, p = .985. Xiao, Li, Au, Tan, Chung and Feldman then ran a registered replication of Study 2 with 932 US participants online. The credential effect was d = 0.08, 95% CI [-0.14, 0.30] in the ethnicity scenario and d = -0.38, 95% CI [-0.61, -0.14] in the gender scenario. The original figure they compared against, d = 0.44, 95% CI [0.09, 0.79], is their own calculation from the 2001 paper, which reported no effect size. The gender result points the wrong way, and their participants in the no-credential condition already favoured men more strongly than the original sample did.",
+    "study": {
+      "cite": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "year": 2016,
+      "sites": 21,
+      "n": 3134
+    },
+    "original": {
+      "es": 0.043,
+      "esType": "eta2",
+      "ci": [0.002, 0.103],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.005,
+      "esType": "eta2",
+      "ci": [0.001, 0.012],
+      "ciLevel": 95
+    }
+  },
+  "limits": "Blanken and colleagues documented publication bias inside their own meta-analysis. Published studies averaged d = 0.43 and unpublished ones d = 0.11, QM(1) = 20.66, p < .001, and a regression test on the 57 published studies returned t(55) = 5.72, p < .001. Kuper and Bott reanalysed the larger Simbrunner and Schlegelmilch dataset in 2019. Its 76 independent effect sizes gave a naive random-effects mean of d = 0.27, 95% CI [0.19, 0.35]. A three-parameter selection model cut that to d = 0.18, 95% CI [0.06, 0.29], and PET-PEESE cut it to d = -0.05, 95% CI [-0.26, 0.16]. They also split the data by region, and North American samples gave d = 0.38 before correction against d = 0.10 for European ones after PET-PEESE. Direct replications outside the credentials paradigm found nothing. Blanken, van de Ven, Zeelenberg and Meijers ran three attempts at the trait-writing design with 105, 150 and 940 participants and confirmed none of the original results. Urban, Bahník and Braun Kohlová ran three attempts at the green shopping design with 1,274 participants and found no licensing of dishonesty. One recent analysis pulls the other way. Rotella, Jung, Chinn and Barclay pooled 115 experiments and 21,770 participants and report g = 0.65 when participants were observed against g = 0.13 when they were not, with a robust Bayesian correction for publication bias leaving g = 0.51 and a Bayes factor of 9.14 for observed participants, and g = -0.01 with a Bayes factor of 0.11 for unobserved ones. That paper is paywalled and those figures come from its abstract at Crossref, so no interval for them is printed here.",
+  "misreadings": "The figure d = 0.31 travels as the size of the effect. It is the uncorrected pooled mean from a meta-analysis whose own authors reported a funnel plot with 21 studies missing and a fourfold gap between published and unpublished results. Many Labs 3 gets cited both as a successful replication and as a failure, and it was each in part: the credentials main effect held across 21 samples, the moderation by participant gender vanished, and the effect size dropped to a tenth of the original point estimate. A third error is to state licensing as a general law of moral behaviour. The same literature records the opposite pattern, in which one moral act makes the next one more likely, and Rotella and colleagues' split by observation is one attempt to say which occurs when. Monin and Miller also measured a stated preference about a hypothetical vacancy on a seven-point scale, which is not a measure of who gets hired. Finally, self-licensing is used for anything from dieting to charitable giving to recycling, and the pooled estimates combine paradigms that share little beyond the order of their two tasks.",
+  "sources": [
+    {
+      "text": "Monin, B., & Miller, D. T. (2001). Moral credentials and the expression of prejudice. Journal of Personality and Social Psychology, 81(1), 33-43.",
+      "doi": "10.1037/0022-3514.81.1.33",
+      "url": "https://doi.org/10.1037/0022-3514.81.1.33",
+      "type": "primary"
+    },
+    {
+      "text": "Merritt, A. C., Effron, D. A., & Monin, B. (2010). Moral Self-Licensing: When Being Good Frees Us to Be Bad. Social and Personality Psychology Compass, 4(5), 344-357.",
+      "doi": "10.1111/j.1751-9004.2010.00263.x",
+      "url": "https://doi.org/10.1111/j.1751-9004.2010.00263.x",
+      "type": "secondary"
+    },
+    {
+      "text": "Sachdeva, S., Iliev, R., & Medin, D. L. (2009). Sinning Saints and Saintly Sinners: The Paradox of Moral Self-Regulation. Psychological Science, 20(4), 523-528.",
+      "doi": "10.1111/j.1467-9280.2009.02326.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2009.02326.x",
+      "type": "primary"
+    },
+    {
+      "text": "Mazar, N., & Zhong, C.-B. (2010). Do Green Products Make Us Better People? Psychological Science, 21(4), 494-498.",
+      "doi": "10.1177/0956797610363538",
+      "url": "https://doi.org/10.1177/0956797610363538",
+      "type": "primary"
+    },
+    {
+      "text": "Blanken, I., van de Ven, N., & Zeelenberg, M. (2015). A Meta-Analytic Review of Moral Licensing. Personality and Social Psychology Bulletin, 41(4), 540-558.",
+      "doi": "10.1177/0146167215572134",
+      "url": "https://doi.org/10.1177/0146167215572134",
+      "type": "secondary"
+    },
+    {
+      "text": "Blanken, I., van de Ven, N., Zeelenberg, M., & Meijers, M. H. C. (2014). Three Attempts to Replicate the Moral Licensing Effect. Social Psychology, 45(3), 232-238.",
+      "doi": "10.1027/1864-9335/a000189",
+      "url": "https://doi.org/10.1027/1864-9335/a000189",
+      "type": "replication"
+    },
+    {
+      "text": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "url": "https://doi.org/10.1016/j.jesp.2015.10.012",
+      "type": "replication"
+    },
+    {
+      "text": "Urban, J., Bahník, Š., & Braun Kohlová, M. (2019). Green consumption does not make people cheat: Three attempts to replicate moral licensing effect due to pro-environmental behavior. Journal of Environmental Psychology, 63, 139-147.",
+      "doi": "10.1016/j.jenvp.2019.01.011",
+      "url": "https://doi.org/10.1016/j.jenvp.2019.01.011",
+      "type": "replication"
+    },
+    {
+      "text": "Xiao, Q., Li, L. C., Au, Y. L., Tan, S. N., Chung, W. T., & Feldman, G. (2024). Licensing via Credentials: Replication Registered Report of Monin and Miller (2001) with Extensions. International Review of Social Psychology, 37(1), 10.",
+      "doi": "10.5334/irsp.945",
+      "url": "https://doi.org/10.5334/irsp.945",
+      "type": "replication"
+    },
+    {
+      "text": "Kuper, N., & Bott, A. (2019). Has the evidence for moral licensing been inflated by publication bias? Meta-Psychology, 3.",
+      "doi": "10.15626/MP.2018.878",
+      "url": "https://doi.org/10.15626/MP.2018.878",
+      "type": "secondary"
+    },
+    {
+      "text": "Simbrunner, P., & Schlegelmilch, B. B. (2017). Moral licensing: a culture-moderated meta-analysis. Management Review Quarterly, 67(4), 201-225. Cited as the source of the dataset Kuper and Bott reanalysed, not read directly.",
+      "doi": "10.1007/s11301-017-0128-0",
+      "url": "https://doi.org/10.1007/s11301-017-0128-0",
+      "type": "secondary"
+    },
+    {
+      "text": "Rotella, A., Jung, J., Chinn, C., & Barclay, P. (2026). Observation Moderates the Moral Licensing Effect: A Meta-Analytic Test of Interpersonal and Intrapsychic Mechanisms. Personality and Social Psychology Bulletin, 52(9), 2792-2808. Published online 2025; figures quoted here come from the abstract.",
+      "doi": "10.1177/01461672251345512",
+      "url": "https://doi.org/10.1177/01461672251345512",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
