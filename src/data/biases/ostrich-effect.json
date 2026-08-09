@@ -1,0 +1,104 @@
+{
+  "no": 118,
+  "slug": "ostrich-effect",
+  "name": "Ostrich effect",
+  "aliases": ["Selective attention to information", "Information avoidance", "Ostrich problem"],
+  "category": "decision",
+  "statement": "People look at information less often when they expect it to be bad news, so investors check their accounts less after the market falls than after it rises.",
+  "meaning": "The claim is about attention, not about action. Someone with money in a pension fund can find out what it is worth at any moment for nothing. The ostrich effect says the decision to look is not neutral: it depends on what the answer is likely to be. Karlsson, Loewenstein and Seppi model this by letting information carry utility of its own. Attending to news amplifies its emotional impact, speeds up the updating of the reference point against which future news is judged, and changes exposure to the risk in the news itself. Given plausible parameters, the model predicts asymmetry. Preliminary good news should draw people towards definitive information, preliminary bad news should push them away. The behaviour is a monitoring choice, and nothing in the model says the underlying holding gets changed.",
+  "origin": {
+    "year": 2006,
+    "who": "Dan Galai and Orly Sade",
+    "where": "The Journal of Business",
+    "note": "Their paper is \"The 'Ostrich Effect' and the Relationship between the Liquidity and the Yields of Financial Assets\", on Israeli fixed-income yields. Karlsson, Loewenstein and Seppi credit the term to the 2003 working-paper version and quote its definition, \"avoiding apparently risky financial situations by pretending they do not exist\". The published article could not be obtained for this entry, so what it did is reported here at one remove."
+  },
+  "evidence": "Karlsson, Loewenstein and Seppi tested the asymmetry on two sets of account records. The first came from the Swedish Premium Pension Authority, which by 2004 held 5.3 million of Sweden's 9 million citizens, covering 7 January 2002 to 13 October 2004. Daily logins averaged 10,903, of which 1,142 involved reallocations, leaving 9,761 informational look-ups. A one percent rise in the averaged prior return on the Stockholm All Shares index went with 120 to 140 extra look-ups, just over 1% of the daily mean. That coefficient reached the 10% level in one specification and the 1% level in the other. The second set came from Vanguard, covering 2 January 2006 to 30 June 2008, with a mean of 416,916 logins a day. There the same one percent rise went with 18,000 to 23,000 extra logins, 5% to 6% of the daily mean, significant at 1% in both specifications. Both are aggregate daily time series with day-of-week, trend and transaction controls, not experiments.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The asymmetry is large and stable in retirement-account data and reverses in a sample of active UK traders, where logins rose after falls as well as rises.",
+    "detail": "The biggest follow-up is Sicherman, Loewenstein, Seppi and Utkus, who used a panel of 1,168,309 Vanguard defined-contribution accounts for 2007 and 2008 and ran the analysis on a random 100,000 of them that received no paper statements. Total daily logins fell by 9.5% the day after the Dow declined, and a ten-point rise in the VIX went with 4% fewer logins. The relationship is not monotone. Attention rose again after large falls, and the ostrich pattern held only down to roughly a 3% daily loss, or 6% over the prior month. Across the 100,000 accounts, 53.8% had a negative down-Dow coefficient and 43.4% a positive one, with 2.7% never logging in at all; restricting to accounts where the coefficient was significant at 5%, 79% were ostriches and 21% the reverse. The disposition looks stable, with a correlation of 0.393 between an investor's 2007 and 2008 coefficients. This is confirmation rather than independent replication: same data provider, an overlapping window, and two authors in common with the original. The one independent test on new data went the other way. Gherzi, Egan, Stewart, Haisley and Ayton followed 617 Barclays Wealth Management clients from 2004 to 2009 and found logins rising after both positive and negative daily returns, which they named the meerkat effect. It held for logins that produced no trade and for weekend logins when markets were shut. One result of theirs did fit the original: non-trade logins fell after negative five-day returns.",
+    "study": {
+      "cite": "Gherzi, S., Egan, D., Stewart, N., Haisley, E., & Ayton, P. (2014). The meerkat effect: Personality and market returns affect investors' portfolio monitoring behaviour. Journal of Economic Behavior & Organization, 107, 512-526.",
+      "doi": "10.1016/j.jebo.2014.07.013",
+      "year": 2014,
+      "n": 617
+    }
+  },
+  "limits": "Every finance test of this is observational. Karlsson, Loewenstein and Seppi worked with aggregate daily counts and named two rival stories themselves: media coverage might simply be heavier in bull markets, and logins might follow a desire to trade rather than a desire to look. Their answer to the second is a pair of partial correlations in the Swedish data. Controlling for look-ups, the correlation between transactions and the index was 0.04 with p = 0.34; controlling for transactions, the correlation between look-ups and the index was 0.35 with p < 0.001. The deeper limit is what counts as a bias here. Section 6 of their own paper says selective attention is fully rational once you grant that information affects how people feel, so the label describes preferences over information rather than an error in processing it. Rational inattention offers a competing account in which attention is simply costly. Olafsson and Pagel argue against it using logins to an Icelandic financial-management app. Attention there falls with spending and overdrafts, rises with cash and liquidity, and jumps when a balance turns from negative to positive. Their paper is an NBER working paper rather than a peer-reviewed article. Outside finance the pattern has separate support. The UK Huntington's Prediction Consortium recorded 9,407 predictive tests at 23 centres between 1993 and 2014. It put cumulative uptake among the population at 50% prior risk at 17.4% (95% CI 16.9 to 18.0), leaving over 80% untested. Oster, Shoulson and Dorsey followed 1,001 at-risk people in the PHAROS study, at about 40 sites in the United States and Canada. About 7% of those with uncertain status tested over ten years, and about 5% before any signs appeared. Those two figures are read off the working-paper version, and the article carries a 2016 corrigendum in the same journal which could not be obtained. Gigerenzer and Garcia-Retamero surveyed representative quota samples in two European countries. Between 85% and 90% would rather not know about coming negative events, and only 1% consistently wanted to know.",
+  "misreadings": "The effect is about looking, not about doing. An investor who stops checking a falling portfolio has not necessarily left it alone in any other sense. Sicherman and colleagues found that people classified as ostriches traded more in up-markets than in down-markets, which they note may protect such investors from selling into a slump. Popular summaries also inflate the sample. The Vanguard panel holds about 1.2 million accounts, and the published estimates come from a randomly drawn 100,000 of them. The name is a zoological error, and the original paper says so in a footnote: threatened ostriches press their necks flat to the ground, and do not bury their heads in sand. Deliberate ignorance about a future event is a cousin of this effect rather than the same thing, since the ostrich effect concerns a stake someone already holds and could check today.",
+  "sources": [
+    {
+      "text": "Karlsson, N., Loewenstein, G., & Seppi, D. (2009). The ostrich effect: Selective attention to information. Journal of Risk and Uncertainty, 38(2), 95-115.",
+      "doi": "10.1007/s11166-009-9060-6",
+      "url": "https://doi.org/10.1007/s11166-009-9060-6",
+      "type": "primary"
+    },
+    {
+      "text": "Galai, D., & Sade, O. (2006). The \"ostrich effect\" and the relationship between the liquidity and the yields of financial assets. The Journal of Business, 79(5), 2741-2759.",
+      "doi": "10.1086/505250",
+      "url": "https://doi.org/10.1086/505250",
+      "type": "provenance"
+    },
+    {
+      "text": "Sicherman, N., Loewenstein, G., Seppi, D. J., & Utkus, S. P. (2016). Financial attention. The Review of Financial Studies, 29(4), 863-897.",
+      "doi": "10.1093/rfs/hhv073",
+      "url": "https://doi.org/10.1093/rfs/hhv073",
+      "type": "replication"
+    },
+    {
+      "text": "Gherzi, S., Egan, D., Stewart, N., Haisley, E., & Ayton, P. (2014). The meerkat effect: Personality and market returns affect investors' portfolio monitoring behaviour. Journal of Economic Behavior & Organization, 107, 512-526.",
+      "doi": "10.1016/j.jebo.2014.07.013",
+      "url": "https://doi.org/10.1016/j.jebo.2014.07.013",
+      "type": "critique"
+    },
+    {
+      "text": "Olafsson, A., & Pagel, M. (2017). The ostrich in us: Selective attention to financial accounts, income, spending, and liquidity. NBER Working Paper 23945.",
+      "doi": "10.3386/w23945",
+      "url": "https://doi.org/10.3386/w23945",
+      "type": "replication"
+    },
+    {
+      "text": "Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. Journal of Economic Literature, 55(1), 96-135.",
+      "doi": "10.1257/jel.20151245",
+      "url": "https://doi.org/10.1257/jel.20151245",
+      "type": "review"
+    },
+    {
+      "text": "Gigerenzer, G., & Garcia-Retamero, R. (2017). Cassandra's regret: The psychology of not wanting to know. Psychological Review, 124(2), 179-196.",
+      "doi": "10.1037/rev0000055",
+      "url": "https://doi.org/10.1037/rev0000055",
+      "type": "context"
+    },
+    {
+      "text": "Baig, S. S., Strong, M., Rosser, E., Taverner, N. V., Glew, R., Miedzybrodzka, Z., Clarke, A., Craufurd, D., UK Huntington's Disease Prediction Consortium, & Quarrell, O. W. (2016). 22 years of predictive testing for Huntington's disease: The experience of the UK Huntington's Prediction Consortium. European Journal of Human Genetics, 24(10), 1396-1402.",
+      "doi": "10.1038/ejhg.2016.36",
+      "url": "https://doi.org/10.1038/ejhg.2016.36",
+      "type": "context"
+    },
+    {
+      "text": "Oster, E., Shoulson, I., & Dorsey, E. R. (2013). Optimal expectations and limited medical testing: Evidence from Huntington disease. American Economic Review, 103(2), 804-830.",
+      "doi": "10.1257/aer.103.2.804",
+      "url": "https://doi.org/10.1257/aer.103.2.804",
+      "type": "context"
+    },
+    {
+      "text": "Oster, E., Shoulson, I., & Dorsey, E. R. (2011). Optimal expectations and limited medical testing: Evidence from Huntington disease. NBER Working Paper 17629.",
+      "doi": "10.3386/w17629",
+      "url": "https://doi.org/10.3386/w17629",
+      "type": "context"
+    },
+    {
+      "text": "Oster, E., Shoulson, I., & Dorsey, E. R. (2016). Optimal expectations and limited medical testing: Evidence from Huntington disease: Corrigendum. American Economic Review, 106(6), 1562-1565.",
+      "doi": "10.1257/aer.106.6.1562",
+      "url": "https://doi.org/10.1257/aer.106.6.1562",
+      "type": "commentary"
+    },
+    {
+      "text": "Tassicker, R. J., Teltscher, B., Trembath, M. K., Collins, V., Sheffield, L. J., Chiu, E., Gurrin, L., & Delatycki, M. B. (2009). Problems assessing uptake of Huntington disease predictive testing and a proposed solution. European Journal of Human Genetics, 17(1), 66-70.",
+      "doi": "10.1038/ejhg.2008.142",
+      "url": "https://doi.org/10.1038/ejhg.2008.142",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
