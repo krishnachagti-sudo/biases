@@ -1,0 +1,74 @@
+{
+  "no": 109,
+  "slug": "self-serving-bias",
+  "name": "Self-serving bias",
+  "aliases": ["Self-serving attributional bias", "Self-enhancing attribution"],
+  "category": "social",
+  "statement": "People take more credit for outcomes that go well than for outcomes that go badly, crediting themselves for success and circumstances for failure.",
+  "meaning": "The claim is about an asymmetry between two attributions rather than about either one on its own. Taking credit for a success is not an error, and blaming a real obstacle for a failure is not one either. What the studies measure is the gap between them: the same person assigns internal, stable and global causes to good outcomes more readily than to bad ones. Every effect size below is a measure of that gap. It carries no verdict on whether any single attribution is correct, and it is not the claim that people rate themselves above other people, which is a separate finding with its own literature.",
+  "origin": {
+    "year": 1975,
+    "who": "Dale T. Miller and Michael Ross",
+    "where": "Psychological Bulletin",
+    "note": "Their review did not discover the pattern, which was already in source books and textbooks under labels such as ego-defensive and ego-biased attribution. It named the claim, split it in two and found only half of it supported."
+  },
+  "evidence": "Miller and Ross reviewed the attribution experiments then available and treated the principle as double-edged, requiring evidence on both sides. They found some support for self-enhancing attributions after success and minimal evidence for self-protective attributions after failure. They then argued that the success half need not be motivational, offering three information-processing routes: people accept responsibility for expected outcomes and generally expect success rather than failure; covariation between behaviour and outcome is easier to see under improving performance than under constant failure; and a faulty idea of contingency ties control to the desired outcome. Their conclusion was that existing data read readily in information-processing terms, while calling it premature to deny self-serving attribution outright. Two meta-analyses have since measured the size. Campbell and Sedikides pooled 70 experiments, 6,949 participants and 163 effect sizes, taking only laboratory studies that manipulated both success and failure. Across the 153 effect sizes from participants in the actor condition they obtained d = 0.467, 95% CI [0.416, 0.518], with heterogeneity Q(151) = 829.63, p < .001. Mezulis, Abramson, Hyde and Hankin pooled 266 studies yielding 503 independent effect sizes and reported an average d of 0.96, and report that the bias was present in nearly all samples.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Two meta-analyses find the pattern, the larger pooling 266 studies at d = 0.96, though neither is a direct replication of any single experiment.",
+    "detail": "Mezulis and colleagues put the average at d = 0.96 across 266 studies and 503 independent effect sizes. Campbell and Sedikides put it at d = 0.467, 95% CI [0.416, 0.518], across 70 experiments and 6,949 participants. The two figures do not estimate the same quantity. Campbell and Sedikides took only experiments that manipulated success and failure on a laboratory task, and excluded children, Eastern participants such as Japanese citizens, and people with thought process disorders. Mezulis and colleagues set out to measure the variation those exclusions remove, and found it. Campbell and Sedikides tested for publication bias by plotting effect size against sample size, found the bell shape they predicted with the curve running smoothly across zero, and reported no evidence of it.",
+    "study": {
+      "cite": "Mezulis, A. H., Abramson, L. Y., Hyde, J. S., & Hankin, B. L. (2004). Is there a universal positivity bias in attributions? A meta-analytic review of individual, developmental, and cultural differences in the self-serving attributional bias. Psychological Bulletin, 130(5), 711-747.",
+      "doi": "10.1037/0033-2909.130.5.711",
+      "year": 2004
+    },
+    "replicated": { "es": 0.96, "esType": "d" }
+  },
+  "limits": "The pooled numbers hide the moderators, and Mezulis and colleagues report those as their main result. Asian samples gave d = 0.30 against 1.05 for US samples and 0.70 for other Western samples. Psychopathology cut the bias to d = 0.48, against 1.28 in samples without it and 1.08 in community samples, with depression lowest at 0.21, then anxiety at 0.46 and attention-deficit/hyperactivity disorder at 0.55. Age moved it as well, with children and older adults showing the largest biases. The abstract gives no figures for the age bands and the full text sits behind a paywall, so the age numbers are not quoted here. Heine and Hamamura pressed the cultural question harder. Across 91 comparisons their average cross-cultural effect was d = 0.84, and within cultures Westerners showed a self-serving bias of d = 0.87 where East Asians showed d = -0.01, with Asian Americans at 0.52. Their conclusion is that East Asians do not self-enhance. Sedikides, Gaertner and Vevea answer with two meta-analyses of their own and conclude that both groups self-enhance on the attributes their own culture treats as ideal, individualistic in the West and collectivistic in the East. The dispute is open and both sides sit in the same 2005 issue of the Journal of Personality and Social Psychology. The pattern is also specific to whose outcome is being judged. Campbell and Sedikides found no bias among observers rating another person's performance, d = -0.126, 95% CI [-0.328, 0.077], against d = 0.467 for actors, and read that absence as evidence that the actor pattern is a bias rather than accurate reporting. No preregistered or multi-site replication of the self-serving attributional bias was located. The search covered PubMed, Crossref and general web search for registered reports and preregistered replications of the effect, and returned preregistered work on neighbouring biases instead.",
+  "misreadings": "Motivation is assumed more often than it is shown. Miller and Ross's information-processing account has never been settled against the motivational one, and Campbell and Sedikides, whose model is built on self-threat, still list a cognitive interpretation and a self-presentational one as live alternatives in their discussion. Their answer to the cognitive reading is that success expectancies themselves carry a motivational component, which is an argument rather than a finding. Calling the effect ego-protection picks a side the literature has not picked. Attributing a success to yourself is also not the same as rating yourself better than other people. The second is illusory superiority, entry 47, and the distinction pays. Heine and Hamamura found that East Asian samples self-enhanced on the methods that compare the self with an average while being self-critical on the others, and attribute that split to the everyone-is-better-than-their-group's-average effect contaminating comparative measures. The everyday sense of the phrase, that people blame others while excusing themselves, is closer to the actor-observer asymmetry discussed under the fundamental attribution error, entry 11. The self-serving bias as measured compares one person's attributions across their own good and bad outcomes. Accuracy is handled by design rather than by assumption. Campbell and Sedikides restricted their analysis to experimental tasks because outcomes there are set at random by the experimenter and bear no relation to performance, which is what makes the asymmetry a bias in those studies. Attribution data gathered outside the laboratory carries no such control.",
+  "sources": [
+    {
+      "text": "Miller, D. T., & Ross, M. (1975). Self-serving biases in the attribution of causality: Fact or fiction? Psychological Bulletin, 82(2), 213-225.",
+      "doi": "10.1037/h0076486",
+      "url": "https://doi.org/10.1037/h0076486",
+      "type": "primary"
+    },
+    {
+      "text": "Campbell, W. K., & Sedikides, C. (1999). Self-threat magnifies the self-serving bias: A meta-analytic integration. Review of General Psychology, 3(1), 23-43.",
+      "doi": "10.1037/1089-2680.3.1.23",
+      "url": "https://doi.org/10.1037/1089-2680.3.1.23",
+      "type": "replication"
+    },
+    {
+      "text": "Mezulis, A. H., Abramson, L. Y., Hyde, J. S., & Hankin, B. L. (2004). Is there a universal positivity bias in attributions? A meta-analytic review of individual, developmental, and cultural differences in the self-serving attributional bias. Psychological Bulletin, 130(5), 711-747.",
+      "doi": "10.1037/0033-2909.130.5.711",
+      "url": "https://doi.org/10.1037/0033-2909.130.5.711",
+      "type": "replication"
+    },
+    {
+      "text": "Heine, S. J., & Hamamura, T. (2007). In search of East Asian self-enhancement. Personality and Social Psychology Review, 11(1), 4-27.",
+      "doi": "10.1177/1088868306294587",
+      "url": "https://doi.org/10.1177/1088868306294587",
+      "type": "replication"
+    },
+    {
+      "text": "Sedikides, C., Gaertner, L., & Toguchi, Y. (2003). Pancultural self-enhancement. Journal of Personality and Social Psychology, 84(1), 60-79.",
+      "doi": "10.1037/0022-3514.84.1.60",
+      "url": "https://doi.org/10.1037/0022-3514.84.1.60",
+      "type": "commentary"
+    },
+    {
+      "text": "Heine, S. J. (2005). Where is the evidence for pancultural self-enhancement? A reply to Sedikides, Gaertner, and Toguchi (2003). Journal of Personality and Social Psychology, 89(4), 531-538.",
+      "doi": "10.1037/0022-3514.89.4.531",
+      "url": "https://doi.org/10.1037/0022-3514.89.4.531",
+      "type": "commentary"
+    },
+    {
+      "text": "Sedikides, C., Gaertner, L., & Vevea, J. L. (2005). Pancultural self-enhancement reloaded: A meta-analytic reply to Heine (2005). Journal of Personality and Social Psychology, 89(4), 539-551.",
+      "doi": "10.1037/0022-3514.89.4.539",
+      "url": "https://doi.org/10.1037/0022-3514.89.4.539",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
