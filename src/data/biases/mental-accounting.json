@@ -1,0 +1,98 @@
+{
+  "no": 182,
+  "slug": "mental-accounting",
+  "name": "Mental accounting",
+  "aliases": ["Mental accounts", "Psychological accounting", "Topical accounts", "Non-fungibility of money"],
+  "category": "decision",
+  "statement": "People sort money into separate mental accounts by source and purpose, then spend from each as though the balances could not be moved between them.",
+  "meaning": "Money is fungible. A pound of salary and a pound of lottery winnings buy the same bread, and standard consumer theory says only the total matters. Mental accounting says households keep books instead. Thaler's 1999 review sets out three components. The first is how outcomes are perceived and evaluated, using the prospect theory value function to code gains and losses. The second is the assignment of money to categories, so that food, rent and entertainment carry their own budgets. The third is how often those accounts are balanced, daily or yearly, narrowly or broadly. Each component breaks fungibility somewhere. That structure is the reason the idea is hard to test as a whole. Mental accounting is a framework generating many separate predictions, and the evidence for them is uneven. Some hold in field data on real money. Others do not survive a well-powered repeat of the original question.",
+  "origin": {
+    "year": 1985,
+    "who": "Richard H. Thaler",
+    "where": "Marketing Science",
+    "note": "\"Mental Accounting and Consumer Choice\" built a model of consumer behaviour from the prospect theory value function, added the concept of transaction utility, and folded in household budgeting. The name is older than the model. Kahneman and Tversky's 1984 American Psychologist paper already uses \"mental account\" and credits Thaler's 1980 work for showing its relevance to consumer behaviour. Thaler's 1999 Journal of Behavioral Decision Making review is the version most later work replicates against."
+  },
+  "evidence": "The founding demonstrations are hypothetical questions. Kahneman and Tversky put two theatre problems to separate groups. In Problem 8, N = 200, respondents had paid $10 for a ticket and lost it at the door; 46 percent said they would buy another and 54 percent said they would not. In Problem 9, N = 183, they had lost a $10 bill on the way in; 88 percent said they would still buy a ticket. The cash loss is not posted to the account for the play, so it does not raise the felt cost of seeing it. The same paper reports a second case. Sixty-eight percent of 88 respondents would drive 20 minutes to save $5 on a $15 calculator, while 29 percent of 93 would make the same trip to save $5 on a $125 one. Field tests came later and are the stronger part of the record. Hastings and Shapiro used a panel of gasoline purchases at a grocery retailer to test whether petrol money is fungible with other money. Milkman and Beshears tracked what online grocery customers did with a $10 discount. Abeler and Marklein ran a German restaurant study and a laboratory experiment on labelled budgets. Hastings and Shapiro's later work on food stamps reports a marginal propensity to consume eligible food out of SNAP benefits of 0.5 to 0.6, against no more than 0.1 out of cash, and rejects the hypothesis that households respect fungibility.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A registered replication of the 17 problems in Thaler's review supported 11, but the house-money problem came out backwards, and a meta-analysis of that effect drops it to nothing once publication bias is corrected.",
+    "detail": "Li and Feldman ran a preregistered replication of every problem reviewed in Thaler 1999, with about 500 US participants per problem and 1,007 overall. Eleven of 17 were supported, three were mixed and three contradicted the original. The theatre-ticket problem is among the successes, and its numbers moved. In the lost-cash condition 90 percent would buy a ticket, against 88 percent originally. In the lost-ticket condition 77 percent would buy another, against 46 percent originally. Cramer's V for the contrast fell from 0.44, 95% CI [0.34, 0.54], to 0.17, 95% CI [0.09, 0.27]. The calculator problem failed outright: 11 percent would drive for the $15 calculator and 7 percent for the $125 one, a difference of Cramer's V 0.07, 95% CI [0.00, 0.17], with a chi-square of 3.39, p = 0.066. The house-money problem reversed. Told they had just won $30, 28 percent took a 50-50 bet on $9, against 70 percent in the original, giving Cohen's h of -0.46, 95% CI [-0.54, -0.37]. A companion problem on chasing losses also reversed. Dan's meta-analysis of the house-money effect pooled 36 studies, 57 continuous effect sizes and 18 binary ones. The continuous pooled estimate is g = 0.37, 95% CI [0.22, 0.51], with I-squared of 88.1 percent and a prediction interval from -0.61 to 1.35. Egger's test found asymmetry, intercept 2.92, 95% CI [1.86, 3.98], p < 0.0001, and trim-and-fill brings the estimate to g = 0.07, 95% CI [-0.11, 0.25]. Split by design, questionnaires give 0.51 and laboratory studies 0.43, while field experiments give 0.17 and are not significant. Studies published before 2009 give 0.64 and those after 2020 give 0.18. The field record on labelling runs the other way. Hastings and Shapiro estimate that a $1 rise in the petrol price raises a household's propensity to buy regular grade by 1.4 percentage points, while a $1,000 rise in total household spending lowers it by 0.08 points, and the Wald test of equality has a p-value reported as 0.0000. Households respond almost 20 times more to money lost through petrol prices than to the same money lost from elsewhere. The same specification applied to their choices of milk and orange juice brands cannot reject fungibility. Abeler and Marklein gave restaurant guests 8-euro vouchers. Those whose voucher was labelled for beverages spent 18.55 euros per person on drinks, 3.84 more than guests given a voucher good for the whole bill. In their laboratory version, subjects given an in-kind grant bought 16.6 units of the targeted good against 14.4 in the cash condition, where 13 was optimal, and 21 percent spent the whole grant on the targeted good against 1 percent under cash. Milkman and Beshears found that redeeming a $10 coupon raised an online grocery order by $1.59, standard error 0.79, on an average order of $150.23.",
+    "study": {
+      "cite": "Li, M., & Feldman, G. (2025). Revisiting mental accounting classic paradigms: Replication Registered Report of the problems reviewed in Thaler (1999). Royal Society Open Science, 12(9), 250979.",
+      "doi": "10.1098/rsos.250979",
+      "year": 2025,
+      "n": 1007
+    }
+  },
+  "limits": "The strongest field results test one narrow claim: that money carrying a label is spent differently from money that does not. They do not test the framework's other components. Hastings and Shapiro's petrol sample is selective by construction. It keeps only households buying at their retailer at least 24 times a year for three years, which excludes the majority of households in the retailer's own database, and those retained live closer to the stores and buy more groceries there. The figures quoted above were read from the 2012 NBER working paper, which carries a different title from the 2013 Quarterly Journal of Economics article; no open copy of the published version was located during this check. Searches of Crossref, Europe PMC and the web found no published re-analysis or independent replication of that gasoline result. Abeler and Marklein call their restaurant study suggestive rather than conclusive, and it was not randomised day by day: the restaurant issued all beverage vouchers first and the bill vouchers afterwards. Milkman and Beshears' coupon coefficient clears the 5 percent level and no more. Dan's meta-analysis reports its own numbers inconsistently. The abstract gives a pooled risk ratio of 1.33 while the results section gives 1.46, 95% CI [1.27, 1.69], and the forest plot caption gives g = 0.38, 95% CI [0.22, 0.55] where the text gives 0.37, 95% CI [0.22, 0.51]. The figures above are the ones in the results text. Li and Feldman's sample was drawn from Amazon Mechanical Turk in the United States, and every problem they tested is hypothetical.",
+  "misreadings": "The lost-ticket percentages are quoted as if they were constants. In 1984 the gap between the two conditions was 42 points. In 2025, with about 250 people per condition, it was 13, because the share willing to replace a lost ticket rose from 46 to 77 percent. The direction survives and the size does not. Kahneman and Tversky flagged a second instability in the same paper: willingness to replace the lost ticket rose when that problem was presented after the lost-cash version, while the reverse order changed nothing. Seeing both makes the inconsistency visible, and only in one direction. The calculator problem is still taught as a demonstration of topical accounts and no longer produces one. Li and Feldman note the likely reason, which is that $5 no longer covers 20 minutes of driving, so the failure may say more about 40 years of inflation than about mental accounting. The house-money effect is the claim most often stated without qualification. Prior gains raise risk-taking in questionnaires and laboratories and stop doing so in the field. Flepp and Rüdisser used slot-machine records from 5,169 players over 18,557 sessions, in which 229 jackpots were hit, and found wagering fell after a jackpot rather than rising. Their fixed-effects estimate is a coefficient of -0.600 on log wager, standard error 0.104, which they describe as a reduction of about 60 percent, and jackpot size did not moderate it. The deepest error is treating mental accounting as a single effect with a single verdict. It is a framework, and evidence for one of its predictions is not evidence for the others. Hastings and Shapiro's own placebo test makes the point: the households who violated fungibility at the petrol pump obeyed it when choosing brands of milk and orange juice in the same shop on the same trip.",
+  "sources": [
+    {
+      "text": "Thaler, R. H. (1985). Mental accounting and consumer choice. Marketing Science, 4(3), 199-214.",
+      "doi": "10.1287/mksc.4.3.199",
+      "url": "https://doi.org/10.1287/mksc.4.3.199",
+      "type": "primary"
+    },
+    {
+      "text": "Thaler, R. H. (1999). Mental accounting matters. Journal of Behavioral Decision Making, 12(3), 183-206.",
+      "doi": "10.1002/(SICI)1099-0771(199909)12:3<183::AID-BDM318>3.0.CO;2-F",
+      "url": "https://doi.org/10.1002/(SICI)1099-0771(199909)12:3<183::AID-BDM318>3.0.CO;2-F",
+      "type": "primary"
+    },
+    {
+      "text": "Kahneman, D., & Tversky, A. (1984). Choices, values, and frames. American Psychologist, 39(4), 341-350. Source of the theatre-ticket and calculator problems and their percentages.",
+      "doi": "10.1037/0003-066X.39.4.341",
+      "url": "https://doi.org/10.1037/0003-066X.39.4.341",
+      "type": "primary"
+    },
+    {
+      "text": "Thaler, R. H., & Johnson, E. J. (1990). Gambling with the house money and trying to break even: The effects of prior outcomes on risky choice. Management Science, 36(6), 643-660. Record verified at Crossref; no open copy was located and the paper was not read during this check.",
+      "doi": "10.1287/mnsc.36.6.643",
+      "url": "https://doi.org/10.1287/mnsc.36.6.643",
+      "type": "primary"
+    },
+    {
+      "text": "Li, M., & Feldman, G. (2025). Revisiting mental accounting classic paradigms: Replication Registered Report of the problems reviewed in Thaler (1999). Royal Society Open Science, 12(9), 250979.",
+      "doi": "10.1098/rsos.250979",
+      "url": "https://doi.org/10.1098/rsos.250979",
+      "type": "replication"
+    },
+    {
+      "text": "Dan, K. (2025). The role of mental accounting in risk-taking and spending: a meta-analysis of the house-money effect. Frontiers in Psychology, 16, 1549626.",
+      "doi": "10.3389/fpsyg.2025.1549626",
+      "url": "https://doi.org/10.3389/fpsyg.2025.1549626",
+      "type": "replication"
+    },
+    {
+      "text": "Hastings, J. S., & Shapiro, J. M. (2013). Fungibility and consumer choice: Evidence from commodity price shocks. The Quarterly Journal of Economics, 128(4), 1449-1498. Figures quoted here were read from the earlier NBER working paper 18248 (July 2012), titled \"Mental Accounting and Consumer Choice: Evidence from Commodity Price Shocks\".",
+      "doi": "10.1093/qje/qjt018",
+      "url": "https://www.nber.org/system/files/working_papers/w18248/w18248.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hastings, J., & Shapiro, J. M. (2018). How are SNAP benefits spent? Evidence from a retail panel. American Economic Review, 108(12), 3493-3540.",
+      "doi": "10.1257/aer.20170866",
+      "url": "https://doi.org/10.1257/aer.20170866",
+      "type": "primary"
+    },
+    {
+      "text": "Milkman, K. L., & Beshears, J. (2009). Mental accounting and small windfalls: Evidence from an online grocer. Journal of Economic Behavior & Organization, 71(2), 384-394.",
+      "doi": "10.1016/j.jebo.2009.04.007",
+      "url": "https://doi.org/10.1016/j.jebo.2009.04.007",
+      "type": "primary"
+    },
+    {
+      "text": "Abeler, J., & Marklein, F. (2017). Fungibility, labels, and consumption. Journal of the European Economic Association, 15(1), 99-127.",
+      "doi": "10.1093/jeea/jvw007",
+      "url": "https://doi.org/10.1093/jeea/jvw007",
+      "type": "primary"
+    },
+    {
+      "text": "Flepp, R., & Rüdisser, M. (2019). Revisiting the house money effect in the field: Evidence from casino jackpots. Economics Letters, 181, 146-148.",
+      "doi": "10.1016/j.econlet.2019.05.026",
+      "url": "https://doi.org/10.1016/j.econlet.2019.05.026",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
