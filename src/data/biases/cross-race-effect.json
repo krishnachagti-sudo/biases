@@ -1,0 +1,112 @@
+{
+  "no": 78,
+  "slug": "cross-race-effect",
+  "name": "Cross-race effect",
+  "aliases": ["Own-race bias", "Other-race effect", "Cross-race recognition deficit"],
+  "category": "memory",
+  "statement": "People recognise faces of their own race more accurately than faces of another race, scoring more hits, fewer false alarms and better discrimination.",
+  "meaning": "The claim is about recognition memory rather than attitude. A participant studies a set of faces, then sees those faces mixed with new ones and says which are old. Own-race faces produce more correct hits and fewer false alarms than other-race faces, a pattern the literature calls a mirror effect. Because both measures move, the difference shows up in signal-detection terms as sensitivity, not only as willingness to say old. That distinction is why Singh and colleagues prefer the label cross-race recognition deficit: own-race bias names it as a response bias, which is not what the data show. The effect is studied because of eyewitness identification. A witness who saw a stranger of another race is running the same task the laboratory runs, under worse conditions, and the answer sends someone to prison."
+  ,
+  "origin": {
+    "year": 1969,
+    "who": "Roy S. Malpass and Julius Kravitz",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Malpass and Kravitz's 'Recognition for faces of own and other race' is the paper the field cites as its starting point. The article could not be obtained for this entry and PubMed carries no abstract for it, so nothing on this page rests on its contents. The modern evidence base dates from Meissner and Brigham's 2001 meta-analysis in Psychology, Public Policy, and Law, which gave the effect its standing in law as well as in psychology."
+  },
+  "evidence": "The largest count of the literature is Lee and Penrod's three-level meta-analysis. It took in 159 journal articles published between 1969 and 2021 and 747 effect sizes: 205 for hit rates, 125 for false alarm rates, 261 for discriminability and 158 for response criterion. Across within-subject designs the pooled Hedges' g for discriminability was 0.54, 95% CI [0.49, 0.60]. Hits favoured own-race faces at g = 0.30 [0.22, 0.38] and false alarms ran the other way at g = -0.56 [-0.66, -0.46]. Response criterion came out at g = 0.30 [0.21, 0.39], with own-race faces judged against a stricter standard. The six between-subject samples for discriminability gave a smaller and looser estimate, g = 0.36 [0.06, 0.66]. Splitting by design rather than by measure, the authors report pooled Hedges' gav for two-way designs of 0.37 for hits, -0.46 for false alarms, 0.51 for discriminability and 0.14 for criterion, and for one-way designs 0.26, -0.61, 0.57 and 0.40. Participant race, white against non-white, and the interval between study and test were the two moderators that held up. Meissner and Brigham's 2001 meta-analysis covered 39 articles, 91 independent samples and close to 5,000 participants and found the same mirror pattern. Its own pooled figures for hits, false alarms, discrimination and criterion could not be read: the article is paywalled, no repository copy exists, and the abstract was not obtainable either. What it reported about contact is quoted below from a later meta-analysis that reanalysed the question."
+  ,
+  "replication": {
+    "state": "replicated",
+    "headline": "This is one of the sturdier effects in the field: a meta-analysis of 159 articles spanning 1969 to 2021 puts the own-race advantage in discrimination at Hedges' g = 0.54, 95% CI [0.49, 0.60].",
+    "detail": "Lee and Penrod report that sensitivity analysis and publication-bias analysis both supported the robustness of the effect, and that it replicated the earlier meta-analyses despite decades of rising diversity. The four pooled estimates move in the directions the mirror-effect account predicts and none of the intervals crosses zero. Direction is not the same as explanation, and the contact account is where the evidence thins. Singh, Mellinger, Earls, Tran, Bardsley and Correll gathered 207 statistical tests from 96 independent samples in 65 papers and found that more cross-race contact went with a smaller deficit at r = -.148, 95% CI [-.198, -.096]. That is 2.18% of the variation in the deficit. Meissner and Brigham's 1970s-to-1990s estimate, as Singh and colleagues describe it, was r = -.13 from 29 studies, or about 1.7%. The funnel plot was asymmetric, trim and fill estimated 26 missing samples, and the adjusted estimate fell to r = -.050 [-.082, -.018]. Published samples gave r = -.174 and unpublished ones r = -.056. Contact measured by questionnaire was weaker than contact that had been manipulated, which reached r = -.382. Contact reported for childhood was stronger than contact reported for adulthood: r = -.335 before age six, -.253 for ages six to twelve, -.257 for ages twelve to eighteen and -.128 after eighteen. Adult contact still had an interval clear of zero. Meissner and Brigham had found the contact relationship growing stronger over time; in the larger dataset it grew weaker.",
+    "study": {
+      "cite": "Lee, J., & Penrod, S. D. (2022). Three-level meta-analysis of the other-race bias in facial identification. Applied Cognitive Psychology, 36(5), 1106-1130.",
+      "doi": "10.1002/acp.3997",
+      "year": 2022
+    },
+    "replicated": {
+      "es": 0.54,
+      "esType": "g",
+      "ci": [0.49, 0.6],
+      "ciLevel": 95,
+      "weighting": "within-subject designs, random-effects"
+    }
+  },
+  "limits": "Nobody has shown what causes the effect. Perceptual expertise, category-focused attention and motivation are the three standing accounts, and the tests that would separate them keep coming back null. Singh and colleagues found no difference between studies measuring holistic or configural processing and studies measuring ordinary recognition, which is what Hancock and Rhodes' version of the expertise account predicts a difference in. Hugenberg, Miller and Claypool reported that telling people to individuate other-race faces removes the effect. That did not survive a registered replication. Cruz, Palma, Bansemer, Correll, Fonseca, Gonçalves and Santos ran it in the United States and in Portugal, with final samples of 310 and 293. Individuation instructions did not reduce the effect, and Bayesian analysis favoured its absence. Contact is the best-supported influence and it is small, contested in shape, and possibly age-bounded. McKone and seven colleagues tested 373 people in Australia with race-specific versions of the Cambridge Face Memory Test. Contact in primary school predicted a smaller effect in all 20 correlations, thirteen of them individually reliable. Adult contact did not, p = 0.119 for that pattern. Singh's meta-analysis found adult contact did work, and found no support for a window closing at twelve. Wong, Stephen and Keeble found the effect in Malaysian Malay, Chinese, Indian and Western Caucasian participants and no relationship between self-reported interracial contact and its size. The search ran across Crossref, OpenAlex, Unpaywall, Europe PMC, PubMed, OSF and the open web. Meissner and Brigham's 2001 meta-analysis is closed access with no repository copy and was not read, and its figures here come from Singh and colleagues. Sporer's companion review in the same issue was located and not read. Lee and Penrod's article is also paywalled: the pooled estimates above were read off the forest plots and Supplemental Table 5 the authors posted on OSF, not off the article. No multi-laboratory preregistered replication of the basic effect was located. The registered replication that exists tested an intervention, not the effect. Almost all of this work is laboratory recognition memory, and the entry says nothing about facial-recognition software, about children, or about whether minority-race participants show the effect at the same size."
+  ,
+  "misreadings": "The contact hypothesis is treated as the explanation, and the number it rests on is 2.18% of variance. Contact matters and it does not carry the effect, and the trim-and-fill estimate of r = -.050 suggests even that share may be inflated by what went unpublished. The effect is read as prejudice. It is a difference in discrimination accuracy, it appears in participants of every race tested, and no measure of attitude is required to produce it. Calling it own-race bias invites the same error, because the criterion shift and the sensitivity difference are separate findings and only the second is what the phrase 'they all look alike' is usually pointing at. The Innocence Project's figure is the most misquoted. Of 375 DNA exonerations between 1989 and 2020, 69% involved an eyewitness misidentification, and 42% of those misidentifications were cross-racial. That is a share of known wrongful convictions, not a rate at which cross-racial identifications go wrong, and the denominator that would make it one does not exist. Field data are thinner than the laboratory would suggest. Valentine, Pickering and Darling analysed 640 identification attempts across 314 real lineups run by the Metropolitan Police in London and found no independent, statistically reliable effect of cross-race identification, alongside no reliable effect of weapon focus or delay. Their abstract does report that suspects were more likely to be identified when white European rather than African-Caribbean."
+  ,
+  "sources": [
+    {
+      "text": "Malpass, R. S., & Kravitz, J. (1969). Recognition for faces of own and other race. Journal of Personality and Social Psychology, 13(4), 330-334. The founding citation. Listed because it exists; the article could not be obtained and PubMed records no abstract, so no claim here comes from it.",
+      "doi": "10.1037/h0028434",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/5359231/",
+      "type": "primary"
+    },
+    {
+      "text": "Meissner, C. A., & Brigham, J. C. (2001). Thirty years of investigating the own-race bias in memory for faces: A meta-analytic review. Psychology, Public Policy, and Law, 7(1), 3-35. Closed access with no repository copy; not read for this entry. Its contact figures are quoted here from Singh and colleagues (2022).",
+      "doi": "10.1037/1076-8971.7.1.3",
+      "url": "https://doi.org/10.1037/1076-8971.7.1.3",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Sporer, S. L. (2001). Recognizing faces of other ethnic groups: An integration of theories. Psychology, Public Policy, and Law, 7(1), 36-97. The companion review in the same issue. Located and not read; no claim here comes from it.",
+      "doi": "10.1037/1076-8971.7.1.36",
+      "url": "https://doi.org/10.1037/1076-8971.7.1.36",
+      "type": "review"
+    },
+    {
+      "text": "Lee, J., & Penrod, S. D. (2022). Three-level meta-analysis of the other-race bias in facial identification. Applied Cognitive Psychology, 36(5), 1106-1130. Abstract read at Crossref; the pooled effect sizes quoted here were read off the authors' forest plots and Supplemental Table 5 on OSF.",
+      "doi": "10.1002/acp.3997",
+      "url": "https://doi.org/10.1002/acp.3997",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Lee, J., & Penrod, S. D. (2022). Three-level meta-analysis of the other-race bias in facial identification: supplemental materials and raw data. OSF project sj2tg. Source for the pooled Hedges' g values, their intervals and the counts of effect sizes.",
+      "url": "https://osf.io/sj2tg/",
+      "type": "data"
+    },
+    {
+      "text": "Singh, B., Mellinger, C., Earls, H. A., Tran, J., Bardsley, B., & Correll, J. (2022). Does cross-race contact improve cross-race face perception? A meta-analysis of the cross-race deficit and contact. Personality and Social Psychology Bulletin, 48(6), 865-887. Read in full from the author manuscript at par.nsf.gov.",
+      "doi": "10.1177/01461672211024463",
+      "url": "https://par.nsf.gov/servlets/purl/10256897",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "McKone, E., Wan, L., Pidcock, M., Crookes, K., Reynolds, K., Dawel, A., Kidd, E., & Fiorentini, C. (2019). A critical period for faces: Other-race face recognition is improved by childhood but not adult social contact. Scientific Reports, 9, 12820. Full text read at Europe PMC.",
+      "doi": "10.1038/s41598-019-49202-0",
+      "url": "https://europepmc.org/article/MED/31492907",
+      "type": "primary"
+    },
+    {
+      "text": "Wong, H. K., Stephen, I. D., & Keeble, D. R. T. (2020). The own-race bias for face recognition in a multiracial society. Frontiers in Psychology, 11, 208. Abstract read; the source for the null relationship between self-reported contact and the size of the effect in Malaysia.",
+      "doi": "10.3389/fpsyg.2020.00208",
+      "url": "https://doi.org/10.3389/fpsyg.2020.00208",
+      "type": "primary"
+    },
+    {
+      "text": "Hugenberg, K., Miller, J., & Claypool, H. M. (2007). Categorization and individuation in the cross-race recognition deficit: Toward a solution to an insidious problem. Journal of Experimental Social Psychology, 43(2), 334-340. The study the registered replication targeted; metadata verified, text not read.",
+      "doi": "10.1016/j.jesp.2006.02.010",
+      "url": "https://doi.org/10.1016/j.jesp.2006.02.010",
+      "type": "primary"
+    },
+    {
+      "text": "Cruz, F., Palma, T. A., Bansemer, E., Correll, J., Fonseca, S., Gonçalves, P., & Santos, A. S. (2023). Do individuation instructions reduce the cross-race effect? A registered replication of Hugenberg, Miller, and Claypool (2007). Journal of Experimental Social Psychology, 104, 104423. Paywalled and not read; the sample sizes and the null result are taken from the authors' own report to the European Association of Social Psychology.",
+      "doi": "10.1016/j.jesp.2022.104423",
+      "url": "https://www.easp.eu/news/itm/pre_registered_research_grant_re-1614.html",
+      "type": "replication"
+    },
+    {
+      "text": "Valentine, T., Pickering, A., & Darling, S. (2003). Characteristics of eyewitness identification that predict the outcome of real lineups. Applied Cognitive Psychology, 17(8), 969-993. Abstract read at Crossref; the source for the field null on cross-race identification.",
+      "doi": "10.1002/acp.939",
+      "url": "https://doi.org/10.1002/acp.939",
+      "type": "primary"
+    },
+    {
+      "text": "Innocence Project. DNA exonerations in the United States (1989-2020). Source for the 375 exonerations, the 69% involving eyewitness misidentification and the 42% of those that were cross-racial.",
+      "url": "https://innocenceproject.org/dna-exonerations-in-the-united-states/",
+      "type": "data"
+    }
+  ],
+  "checkedOn": "2026-08-08"
+}
