@@ -1,0 +1,59 @@
+{
+  "no": 102,
+  "slug": "region-beta-paradox",
+  "name": "Region-beta paradox",
+  "category": "decision",
+  "statement": "People sometimes recover faster from intense distress than from mild distress, because only intense distress crosses the threshold that triggers the defences against it.",
+  "meaning": "The name comes from a diagram about travel rather than about feeling. Gilbert and colleagues imagine a commuter who walks at 3 miles per hour to destinations under a mile away and cycles at 15 miles per hour to anything further. Plot time against distance and the line breaks at the threshold. Points just past a mile, the stretch labelled region beta, are reached sooner than the farthest points the commuter would have walked to. Time and distance rise together inside each region and reverse across them. The paper carries that shape over to distress. If the processes that dull a bad feeling switch on only once the feeling passes some level, a worse event can leave a person feeling better sooner. Two claims sit inside this. The first is the reversal, that intense states can abate faster than mild ones. The second is the account of why, that defences fire above a threshold and not below it. The paper tests the first and infers the second.",
+  "origin": {
+    "year": 2004,
+    "who": "Daniel T. Gilbert, Matthew D. Lieberman, Carey K. Morewedge and Timothy D. Wilson",
+    "where": "Psychological Science",
+    "note": "The paper names the paradox and runs three studies, all of them about how much undergraduates dislike someone who has just insulted them. It was received in March 2001 and accepted in January 2003."
+  },
+  "evidence": "Study 1 asked 98 students to imagine nine transgressions, from a polite rejection to a hit-and-run dent in their car, and to rate how they would feel about the culprit at the moment and one week later. Across the nine scenarios, predicted intensity and predicted duration tracked each other at r = .88, p < .01, with no curvilinear component. Computed within each participant, the correlations had a mean of .65 and a median of .75. Study 2a insulted 26 students by having a supposed other participant rate their personality as the worst of three profiles. Students who expected to meet that rater moved further from baseline on eight scales 125 mm long than students who did not, a mean change of 28.8 against 13.5, t(24) = 2.075, p < .05. Study 2b ran the same insult on 29 students split between forecasting and experiencing. Forecasters expected to like an insulting partner less than an insulting stranger, 2.83 against 4.57 on a seven-point scale. Five minutes after the insult, experiencers reported the reverse, 4.57 against 3.33, weighted contrast t(27) = 3.17, p < .005. Study 3 added bystanders who saw the same insult delivered to somebody else, 58 students in four cells of 11 to 20. Forecasters expected victims to like the rater less than bystanders would, 3.15 against 3.83. Experiencing victims liked the rater more than bystanders did, 4.33 against 3.36, weighted contrast t(56) = 3.24, p < .01.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No repetition of the three studies was located, and no test of the intensity threshold outside the insult paradigm was located either."
+  },
+  "limits": "Nothing in the paper measured duration. Studies 2b and 3 took one reading five minutes after the insult and Study 1 collected predictions only, so what was shown is a reversal at a single time point rather than a recovery curve. Nothing measured the defences credited with producing it. Study 2a establishes that the partner insult hurt more, and the attenuating process is read back from the later reversal rather than observed. Cells are small, seven to eight people in Study 2b and 11 to 20 in Study 3, and no effect size is reported anywhere in the paper, so there is no standardised figure for a future replication to aim at. The pain and injury version, that a trick knee outlasts a shattered patella, sits in the introduction as an illustration and carries no data. So do the chocolate, seat-belt and martini examples in the discussion. Two citing studies bear on the leads worth chasing and neither is a replication. Eastwick, Finkel, Krishnamurti and Loewenstein followed 69 Northwestern freshmen through the end of a real relationship, comparing distress forecast two weeks before the split against distress reported at the split and 2, 6 and 10 weeks later. Forecast distress exceeded actual distress at the breakup, coefficient .79, t(24) = 4.30, p < .001, and the two trajectories then fell at rates that did not differ, coefficient -.02, t(24) = 0.55, p = .591. People got the starting height wrong and the decay right. That paper does not mention the paradox. Salomon, Burgess and Bosson exposed women to a hostile, a benevolent or a non-sexist remark from a male experimenter. Hostile sexism raised cardiovascular reactivity during the task that followed, while benevolent sexism, the milder version, impaired the return to baseline afterwards. That is the shape the paradox predicts, in a physiological measure, and it was read here from the PubMed abstract rather than from the paper. Searches for a replication or an outside test covered Crossref, OpenAlex including the titles of all 145 works recorded as citing the paper, Europe PMC full-text search, PubMed and web searches for preregistrations and registered reports. Europe PMC returns one document for the phrase 'region-beta paradox', the original. PsycINFO was not searched and is the next place to look. The paper's own discussion dates Trope and Fishbach's counteractive self-control study to 2002, while the volume and pages it gives, 79 and 493 to 506, belong to a paper published in 2000.",
+  "misreadings": "The travel illustration is walking against cycling, 3 miles per hour against 15, with the switch at one mile. Retellings routinely make it walking against driving, which changes the numbers and drops the detail that the break is created by the commuter's own rule. The paper's other transport line is a flight from New York to London arriving sooner than a drive from New York to Boston. Region beta names the far stretch reached quickly, not the mild zone where people get stuck. Wallet Hacks defines beta regions as 'those times when we endure a mild irritant longer than we would've tolerated a more serious one', which inverts the label. The phrase 'psychological immune system' appears nowhere in the paper. It belongs to the immune-neglect work of Gilbert, Pinel, Wilson, Blumberg and Wheatley, which this paper cites for a different point, and importing it makes a metaphor from another article sound like this one's finding. The claim that people bounce back faster from worse things in life is stronger than anything demonstrated here. What was demonstrated is that undergraduates liked a rude stranger less than a rude prospective partner five minutes on.",
+  "sources": [
+    {
+      "text": "Gilbert, D. T., Lieberman, M. D., Morewedge, C. K., & Wilson, T. D. (2004). The peculiar longevity of things not so bad. Psychological Science, 15(1), 14-19. Read in full for this entry.",
+      "doi": "10.1111/j.0963-7214.2004.01501003.x",
+      "url": "https://doi.org/10.1111/j.0963-7214.2004.01501003.x",
+      "type": "primary"
+    },
+    {
+      "text": "Eastwick, P. W., Finkel, E. J., Krishnamurti, T., & Loewenstein, G. (2008). Mispredicting distress following romantic breakup: Revealing the time course of the affective forecasting error. Journal of Experimental Social Psychology, 44(3), 800-807. Read in full; not a replication, and it does not cite the paradox.",
+      "doi": "10.1016/j.jesp.2007.07.001",
+      "url": "https://doi.org/10.1016/j.jesp.2007.07.001",
+      "type": "primary"
+    },
+    {
+      "text": "Salomon, K., Burgess, K. D., & Bosson, J. K. (2015). Flash fire and slow burn: Women's cardiovascular reactivity and recovery following hostile and benevolent sexism. Journal of Experimental Psychology: General, 144(2), 469-479. Described here from its PubMed abstract.",
+      "doi": "10.1037/xge0000061",
+      "url": "https://doi.org/10.1037/xge0000061",
+      "type": "primary"
+    },
+    {
+      "text": "Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., & Wheatley, T. P. (1998). Immune neglect: A source of durability bias in affective forecasting. Journal of Personality and Social Psychology, 75(3), 617-638. The source of the psychological immune system metaphor; metadata verified, not read for this entry.",
+      "doi": "10.1037/0022-3514.75.3.617",
+      "url": "https://doi.org/10.1037/0022-3514.75.3.617",
+      "type": "background"
+    },
+    {
+      "text": "Trope, Y., & Fishbach, A. (2000). Counteractive self-control in overcoming temptation. Journal of Personality and Social Psychology, 79(4), 493-506. Cited as 2002 in the 2004 paper; metadata verified, not read for this entry.",
+      "doi": "10.1037/0022-3514.79.4.493",
+      "url": "https://doi.org/10.1037/0022-3514.79.4.493",
+      "type": "background"
+    },
+    {
+      "text": "Wallet Hacks. Region-beta paradox: When 'it's not that bad' is that bad. Quoted here as an example of the inverted label.",
+      "url": "https://wallethacks.com/region-beta-paradox/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
