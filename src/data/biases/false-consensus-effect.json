@@ -12,7 +12,7 @@
     "where": "Journal of Experimental Social Psychology",
     "note": "Their paper names the effect in its title, in quotation marks, which is how a phrase enters a literature. The best-known scenario asks whether you would walk around campus wearing a sandwich board reading REPENT."
   },
-  "evidence": "320 undergraduates read hypothetical situations ending in a two-way choice, estimated what percentage of their peers would take each option, and then said what they would do themselves. Across four scenarios, people who chose the first option put its popularity at 75.4% while people who chose the second put it at 54.9%, an effect of d = 0.79. A meta-analysis of 115 hypothesis tests eight years later put the effect at r = 0.31 across a range of paradigms.",
+  "evidence": "320 Stanford undergraduates, 80 to each of four stories, read a hypothetical situation ending in a two-way choice. They estimated what percentage of their peers would take each option, then stated their own choice. Averaging the four stories unweighted, the 186 who picked the first option put its popularity at 65.7%, and the 134 who picked the second put it at 48.5%, F(1,312) = 49.1, p < .001. Many Labs 2 converts that statistic to d = 0.79, 95% CI [0.56, 1.02]. A meta-analysis of 115 hypothesis tests eight years later put the effect at r = 0.31 across a range of paradigms. That figure is quoted here from Many Labs 2, because Mullen and colleagues' paper is paywalled and was not read for this entry. Whether the effect survives correction is disputed. Krueger and Clement ran three experiments in 1994 and found the bias held among participants who had been taught about it and among those given feedback on the real consensus. Engelmann and Strobel found the opposite in 2000, paying subjects for accurate estimates: shown a representative sample of others' choices, subjects showed no false consensus and in aggregate underweighted their own choice.",
   "replication": {
     "state": "replicated",
     "headline": "Many Labs 2 ran two of the original scenarios across 125 samples in 36 countries and found the effect larger than the original both times.",
@@ -21,13 +21,13 @@
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 125,
+      "sites": 64,
       "n": 7205
     },
     "original": { "es": 0.79, "esType": "d", "ci": [0.56, 1.02], "ciLevel": 95 },
     "replicated": { "es": 1.18, "esType": "d", "ci": [1.13, 1.23], "ciLevel": 95, "weighting": "aggregate" }
   },
-  "limits": "The figures above are for the supermarket scenario; the traffic-ticket scenario in the same project gave 0.95. The participant count is that scenario's sample rather than the project's 15,305, because each protocol went to about half the samples. There is also an old and unresolved argument about what the effect measures. Estimating that others resemble you is not irrational when you have no other information about them, and on some accounts a person's own choice is genuine evidence about the population they belong to. Under that reading part of the gap is a sound inference rather than an error, and the experiments do not separate the two.",
+  "limits": "The figures above are for the supermarket scenario; the traffic-ticket scenario in the same project gave 0.95. The site and participant counts are that scenario's, not the project's 125 samples and 15,305 people, because each protocol went to about half the samples. Many Labs 2 ran the supermarket vignette in 64 of them. Many Labs 2 also misreports the study it is replicating. Its summary gives the original consensus estimates as 75.4% and 54.9%. Those two numbers are Ross and colleagues' trait ratings, printed in a different table of the same paper; the consensus estimates are 65.7% and 48.5%. The d = 0.79 is derived from the F statistic and is unaffected. There is also an old and unresolved argument about what the effect measures. Robyn Dawes argued in 1989 that the usual definition does not earn the word false, because treating one's own choice as a sample of size one is sound inference. On that reading the effect is an error only where the own choice carries more weight than a stranger's would, and the original experiments do not separate the two.",
   "misreadings": "The effect is often stated as people believing everyone agrees with them, which is stronger than the data. In the replication, participants who chose the first option put it at 69% and those who chose the second put it at 43%: both groups are well inside plausible ranges, and the finding is the difference between them. It also gets treated as an explanation for political polarisation on its own, where the evidence is about two-way choices in vignettes with nothing at stake. And it is regularly confused with the false uniqueness effect, which points the other way and applies to abilities rather than choices.",
   "sources": [
     {
@@ -47,7 +47,25 @@
       "doi": "10.1016/0022-1031(85)90020-4",
       "url": "https://doi.org/10.1016/0022-1031(85)90020-4",
       "type": "replication"
+    },
+    {
+      "text": "Dawes, R. M. (1989). Statistical criteria for establishing a truly false consensus effect. Journal of Experimental Social Psychology, 25(1), 1-17. The argument that using one's own choice as evidence about a population can be sound inference.",
+      "doi": "10.1016/0022-1031(89)90036-X",
+      "url": "https://doi.org/10.1016/0022-1031(89)90036-X",
+      "type": "critique"
+    },
+    {
+      "text": "Krueger, J., & Clement, R. W. (1994). The truly false consensus effect: An ineradicable and egocentric bias in social perception. Journal of Personality and Social Psychology, 67(4), 596-610.",
+      "doi": "10.1037/0022-3514.67.4.596",
+      "url": "https://doi.org/10.1037/0022-3514.67.4.596",
+      "type": "primary"
+    },
+    {
+      "text": "Engelmann, D., & Strobel, M. (2000). The false consensus effect disappears if representative information and monetary incentives are given. Experimental Economics, 3(3), 241-260.",
+      "doi": "10.1023/A:1011472501737",
+      "url": "https://doi.org/10.1023/A:1011472501737",
+      "type": "primary"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }

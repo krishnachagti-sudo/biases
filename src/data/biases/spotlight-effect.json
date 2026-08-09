@@ -12,20 +12,32 @@
     "where": "Journal of Personality and Social Psychology",
     "note": "Their paper is \"The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance\", and it gave the phenomenon its name."
   },
-  "evidence": "A participant was asked to put on a T-shirt with a large picture of Barry Manilow, chosen because Cornell undergraduates found it embarrassing, and was then sent into a room of other participants. Afterwards they estimated what fraction of the room could say who was on the shirt. They said 46%. The observers were asked separately, and 23% could. The targets' estimates were also higher than those of control participants who were simply told what was on the shirt, F(2, 42) = 5.76. Two further details make the mechanism visible: in a later study the estimate was 48% against an actual 8%, and participants given a delay to get used to wearing the shirt estimated 37% where those sent straight in estimated 51%.",
+  "evidence": "A participant was asked to put on a T-shirt with a large picture of Barry Manilow, chosen because Cornell undergraduates found it embarrassing, and was then sent into a room of other participants. Afterwards they estimated what fraction of the room could say who was on the shirt. They said 46%. The observers were asked separately, and 23% could. Study 1 ran 109 people in all: 15 wore the shirt, 64 watched, and 30 were controls who saw a videotaped reenactment instead. A one-way analysis of variance across the targets and the two control groups gave F(2, 42) = 5.76, p < .01, and the targets sat above the controls who had been told it was Barry Manilow, t(42) = 3.07, p < .005. Per session, the targets overshot the observers by 23 points on average, 95% CI 9 to 38. Two further details make the mechanism visible. Study 2 put 15 more targets in shirts they had chosen and liked, where the estimate was 48% against an actual 8%. Study 5 gave some participants 15 minutes to get used to the Manilow shirt before they walked in; they estimated 37% where those sent straight in estimated 51%, t(28) = 2.26, p < .05.",
   "replication": {
     "state": "none-located",
     "headline": "No replication attempt was found, which for a paradigm this widely taught is worth stating plainly."
   },
-  "limits": "The search that produced this verdict covered the Wikipedia article's reference list, Crossref, and web searches for preregistered or multi-laboratory replications of Gilovich, Medvec and Savitsky. It came up empty. That is a statement about what was found rather than proof that nothing exists: this literature has no equivalent of the Many Labs projects to check against, and a targeted database search through PsycINFO or the Open Science Framework could turn something up that these searches missed. The original studies also used small samples in one university, and the effect sizes are reported as percentages and F values rather than in a standardised form, so there is no figure here to compare a future replication against.",
-  "misreadings": "The effect is usually passed on as reassurance, that nobody is looking at you, which is stronger than the finding. Almost a quarter of the room did identify the shirt. What was measured is a gap between 46% and 23%, so the accurate summary is that people notice you about half as much as you think, not that they do not notice you. The effect is also routinely merged with the illusion of transparency, the belief that your inner states are visible, which is a related claim from the same authors and a separate body of evidence.",
+  "limits": "The search that produced this verdict covered the Wikipedia article's reference list, Crossref, web searches for preregistered or multi-laboratory replications, and the 528 papers that Semantic Scholar records as citing Gilovich, Medvec and Savitsky. It came up empty. The nearest thing is the same three authors' 2002 follow-up on perceived variability, which extends the idea rather than testing it again. That is a statement about what was found rather than proof that nothing exists: this literature has no equivalent of the Many Labs projects to check against, and a targeted search through PsycINFO or the Open Science Framework could turn something up that these searches missed. The original studies also used small samples at one university. Fifteen people wore the shirt in Study 1 and fifteen in Study 2, and the sessions ran with two to six observers each. The paper reports no standardised effect size. It does give a 95% interval on the overestimation itself, 9 to 38 percentage points in Study 1 and 21 to 59 in Study 2, which is what a future replication would have to be compared against.",
+  "misreadings": "The effect is usually passed on as reassurance, that nobody is looking at you, which is stronger than the finding. Almost a quarter of the room did identify the shirt. What was measured is a gap between 46% and 23%, so the accurate summary is that people notice you about half as much as you think, not that they do not notice you. The effect is also routinely merged with the illusion of transparency, the belief that your inner states are visible, which is a related claim from the same authors and a separate body of evidence. Gilovich and Savitsky set the two side by side in 1999 and kept them apart, as two egocentric assessments rather than one.",
   "sources": [
     {
       "text": "Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211-222.",
       "doi": "10.1037/0022-3514.78.2.211",
       "url": "https://doi.org/10.1037/0022-3514.78.2.211",
       "type": "primary"
+    },
+    {
+      "text": "Gilovich, T., & Savitsky, K. (1999). The spotlight effect and the illusion of transparency. Current Directions in Psychological Science, 8(6), 165-168.",
+      "doi": "10.1111/1467-8721.00039",
+      "url": "https://doi.org/10.1111/1467-8721.00039",
+      "type": "review"
+    },
+    {
+      "text": "Gilovich, T., Kruger, J., & Medvec, V. H. (2002). The spotlight effect revisited: Overestimating the manifest variability of our actions and appearance. Journal of Experimental Social Psychology, 38(1), 93-99. An extension by the same authors, not a replication.",
+      "doi": "10.1006/jesp.2001.1490",
+      "url": "https://doi.org/10.1006/jesp.2001.1490",
+      "type": "extension"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
