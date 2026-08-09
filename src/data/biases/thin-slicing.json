@@ -2,7 +2,13 @@
   "no": 130,
   "slug": "thin-slicing",
   "name": "Thin-slicing",
-  "aliases": ["Thin slices", "First impressions", "Snap judgements", "Zero-acquaintance judgement"],
+  "aliases": [
+    "Thin slices",
+    "First impressions",
+    "Snap judgements",
+    "Zero-acquaintance judgement",
+    "First impression (psychology)"
+  ],
   "category": "social",
   "statement": "Judgements of a person formed from a few seconds of their behaviour predict certain outcomes about as well as judgements formed from several minutes.",
   "meaning": "The claim is about exposure length, not about intuition being wise. Ambady and Rosenthal asked whether observers who see under five minutes of somebody's expressive behaviour can predict an outcome measured elsewhere, and whether seeing more of it helps. Their answer was that a short look does about as well as a longer one. Two things decide what that is worth. The first is the criterion: predicting whether a person is lying is a different task from predicting how their students will rate them at the end of term. The second is who is doing the predicting. Almost every headline correlation in this literature comes from averaging many observers into one score, and then correlating that average with an outcome across a handful of targets. It describes what a crowd of strangers knows collectively, not what one stranger knows.",
@@ -23,8 +29,14 @@
       "year": 2015,
       "n": 50
     },
-    "original": { "es": 0.3, "esType": "r" },
-    "replicated": { "es": 0.27, "esType": "r" }
+    "original": {
+      "es": 0.3,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": 0.27,
+      "esType": "r"
+    }
   },
   "limits": "The target samples are small and the entry's correlations should be read with that in mind. Both teacher studies rest on 13 teachers, so a correlation of .76 carries 11 degrees of freedom, and the Reproducibility Project figures rest on 50 faces. No confidence intervals are printed for the 1993 correlations or the replication because neither source reports them, and computing them here would produce a number no source contains. The criterion also decides what the accuracy means. Ambady and Rosenthal's inclusion rule accepted objective behavioural outcomes and expert ratings, and their largest category by effect size was social psychology at .47, ahead of clinical at .41 and deception detection at .31. Predicting a student evaluation is predicting another set of impressions, which is a weaker claim than predicting how well somebody teaches. Two figures here are named rather than quoted. Furley and colleagues' individual-versus-aggregate correlations were not obtained, because the paper sat behind a login these checks did not pass, so only their abstract's conclusion is used. Murphy and colleagues' five studies on one-minute slices are cited for their reported conclusion of some loss in predictive validity, without the underlying coefficients. The Reproducibility Project's own spreadsheet lists Rule and Ambady (2008) under the wrong journal, volume and pages; the citation here is taken from Crossref instead.",
   "misreadings": "The pooled r of .39 is read as showing that snap judgements of people are accurate. It shows that averages of many raters' snap judgements correlate with a criterion across a small set of targets. The median study in that same meta-analysis returns .30, with a lower quartile of .22. The finding that exposure length does not matter is also stretched past its evidence: the band for clips under half a minute held one result. Willis and Todorov's 100-millisecond study is routinely cited as proof that impressions formed in a tenth of a second are correct. It measured agreement, correlating judgements made at 100, 500 and 1,000 milliseconds against judgements made with no time limit, and reports no accuracy criterion at all. The election work is the most over-read. Todorov and colleagues wrote in the paper itself that there is no good evidence that trait inferences from facial appearance are accurate. Their design is correlational, and candidate selection is the gap Atkinson, Enos and Hill filled. Popular retellings, above all Malcolm Gladwell's, treat this literature as a licence to trust a first impression. The studies measure what a pooled crowd of raters predicts, and they do not license any single reader's hunch. Ballew and Todorov's deliberation condition is not evidence that thinking makes people worse judges of people in general.",

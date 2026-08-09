@@ -6,7 +6,8 @@
     "In-group bias",
     "Ingroup favoritism",
     "Intergroup discrimination",
-    "Minimal group effect"
+    "Minimal group effect",
+    "In-group favoritism"
   ],
   "category": "social",
   "statement": "People give more to members of their own group than to outsiders, and a group invented minutes earlier is enough to produce it.",
@@ -31,7 +32,10 @@
     "replicated": {
       "es": 0.32,
       "esType": "d",
-      "ci": [0.27, 0.38],
+      "ci": [
+        0.27,
+        0.38
+      ],
       "ciLevel": 95,
       "weighting": "random effects, non-independent effect sizes collapsed"
     }

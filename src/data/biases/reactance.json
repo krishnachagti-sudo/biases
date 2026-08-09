@@ -2,7 +2,12 @@
   "no": 86,
   "slug": "reactance",
   "name": "Reactance",
-  "aliases": ["Psychological reactance", "Reverse psychology", "Forbidden fruit effect"],
+  "aliases": [
+    "Psychological reactance",
+    "Reverse psychology",
+    "Forbidden fruit effect",
+    "Boomerang effect (psychology)"
+  ],
   "category": "social",
   "statement": "When a rule or a message threatens a freedom people believe they hold, they push back to restore it, which can make the discouraged option more appealing.",
   "meaning": "Reactance is a motivational state rather than a preference. Brehm's claim is that people hold beliefs about which behaviours are open to them, and that a threat to one of those behaviours creates pressure to reassert it. Three things travel under the name and they come apart. The state is the aroused reaction to one particular threat. The trait is a standing disposition to react that way, measured by questionnaire. The boomerang effect is an outcome, where an audience moves away from what a message advocated. A message can raise the state without producing the outcome, and most of the argument about reactance sits in that gap.",
@@ -22,7 +27,15 @@
       "doi": "10.1093/hcr/hqaf016",
       "year": 2026
     },
-    "replicated": { "es": 0.2, "esType": "r", "ci": [0.16, 0.23], "ciLevel": 95 }
+    "replicated": {
+      "es": 0.2,
+      "esType": "r",
+      "ci": [
+        0.16,
+        0.23
+      ],
+      "ciLevel": 95
+    }
   },
   "limits": "The pooled figures come from studies of message wording, mostly on health topics and mostly with US samples. They describe what a forceful sentence does to a questionnaire, not what a law does to behaviour. The standard trait measure is unsettled. Waris and colleagues tested 12 previously published factor solutions of the Hong scale in two Finnish samples of 624 and 518 people, found a single factor fitted best in both confirmatory and exploratory analyses, and reported that this factor accounted for about 40% of total variance. They concluded the scale could use improvement. Rosenberg and Siegel trace five overlapping waves of work rather than one accumulating literature, and argue that the measurement wave pulled the field away from the motivational claim the theory was built on. Searches of Crossref, PubMed and the reactance meta-analyses turned up no multi-laboratory replication project covering a reactance experiment.",
   "misreadings": "Reactance is not general contrariness. It is tied to a specific freedom the person believed they held, and a message that threatens nothing arouses none of it. A high score on the Hong scale is not a measure of how much reactance somebody felt on a given occasion; it is a trait questionnaire, and across Albarracin and colleagues' studies it did not identify who resisted a mandate. Raised anger and counterarguing are also not a boomerang. The meta-analytic path from reactance to persuasion is negative, meaning the message works less well, not that it works backwards. The 'backfire effect' argued over in the misinformation literature, from Nyhan and Reifler's work on corrections to Wood and Porter's large attempt to reproduce it, is a separate phenomenon about how people update factual beliefs, and its numbers do not carry across.",

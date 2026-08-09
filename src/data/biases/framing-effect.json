@@ -2,7 +2,14 @@
   "no": 7,
   "slug": "framing-effect",
   "name": "Framing effect",
-  "aliases": ["Gain-loss framing", "The Asian disease problem", "Valence framing", "Risky-choice framing"],
+  "aliases": [
+    "Gain-loss framing",
+    "The Asian disease problem",
+    "Valence framing",
+    "Risky-choice framing",
+    "Framing (social sciences)",
+    "Framing effect (psychology)"
+  ],
   "category": "decision",
   "statement": "Describe the same outcome as lives saved rather than lives lost and people's willingness to gamble on it reverses, though the arithmetic has not changed.",
   "meaning": "The demonstration uses two versions of one problem. A disease is expected to kill 600 people, and you choose between a certain outcome and a gamble. In the gain frame the certain option saves 200 people; in the loss frame 400 people die. Those are the same outcome stated twice. Most people take the sure thing when the choice is described in lives saved and take the gamble when it is described in deaths, which means the preference is attached to the wording rather than to the world. That is the part that matters: a preference that flips with a rephrasing cannot be a stable ranking of the outcomes themselves.",
@@ -24,8 +31,25 @@
       "sites": 36,
       "n": 6271
     },
-    "original": { "es": 1.13, "esType": "d", "ci": [0.89, 1.37], "ciLevel": 95 },
-    "replicated": { "es": 0.62, "esType": "d", "ci": [0.52, 0.71], "ciLevel": 99, "weighting": "unweighted" },
+    "original": {
+      "es": 1.13,
+      "esType": "d",
+      "ci": [
+        0.89,
+        1.37
+      ],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.62,
+      "esType": "d",
+      "ci": [
+        0.52,
+        0.71
+      ],
+      "ciLevel": 99,
+      "weighting": "unweighted"
+    },
     "indexedBy": "FReD"
   },
   "limits": "What replicated is one problem, in one format, answered by people with nothing at stake. Framing is a family of effects, and the three kinds Levin, Schneider and Gaeth separated in 1998 do not behave alike. Risky-choice framing is the disease problem. Attribute framing changes how an object is judged, as when beef is 75% lean or 25% fat. Goal framing changes how persuasive a message is. Piñon and Gambara pooled 51 primary studies published between 1997 and 2003, yielding 151 effect sizes over nearly 13,500 subjects, and found d = 0.437 for risky framing, 0.260 for attribute framing and 0.444 for goal framing. That ranking is not settled. O'Keefe and Jensen reviewed 93 health-message studies covering 21,656 people and found gain-framed appeals more persuasive than loss-framed ones for disease prevention by r = .03, an advantage they trace almost wholly to messages about dental hygiene. The two meta-analyses score different quantities. Piñon and Gambara count any difference between frames; O'Keefe and Jensen count a directional advantage in persuading someone to act. A single average across the three types would bury that difference, and the replication verdict above covers risky-choice framing only.",
