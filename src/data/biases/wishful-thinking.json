@@ -1,0 +1,83 @@
+{
+  "no": 92,
+  "slug": "wishful-thinking",
+  "name": "Wishful thinking",
+  "aliases": [
+    "Desirability bias",
+    "Desirability effect",
+    "Wishful thinking effect"
+  ],
+  "category": "belief",
+  "statement": "People forecast the outcome they want, and the pull is strong when they are asked which outcome will happen and weak when they are asked how likely it is.",
+  "meaning": "The claim is that a preference moves a forecast, not that some people are cheerful. A card is drawn from a deck of stated composition, or a football match is played, and the forecaster controls neither. Desirability bias is the gap between what such a forecaster says when the outcome pays them and what an otherwise identical forecaster says when it costs them. Optimism bias is a different claim, about a person's own prospects, and it usually needs a comparison with peers before it can be measured at all. Motivated reasoning is a third, and it says the evidence is read differently depending on what the reader wants. Wishful thinking as tested here survives the evidence being read correctly, because a person can state the outcome they prefer while knowing the odds against it.",
+  "origin": {
+    "year": 1951,
+    "who": "Rose W. Marks",
+    "where": "Journal of Personality",
+    "note": "Marks had children state which of two card outcomes they expected, with the marking made desirable or undesirable, and Windschitl and colleagues credit the marked-card paradigm to this paper."
+  },
+  "evidence": "Windschitl, Smith, Rose and Krizan rebuilt the marked-card task with the experimenter blind to what each card was worth. Fifteen undergraduates saw decks of ten and predicted which of two markings would be drawn. They picked the critical mark 68.7% of the time when it paid $1, 50.0% when it paid nothing and 38.0% when it cost $1, F(2, 13) = 9.69, p < .01. The gap was widest on decks split five and five. Experiment 4 divided 46 undergraduates by response format. Those making a dichotomous prediction picked the critical mark 72.3%, 48.2% and 37.7% of the time across the three values, F(2, 20) = 12.85, p < .001. Those marking a continuous likelihood scale gave 52.8%, 50.2% and 47.8%, F(2, 22) = 2.82, p = .08. Experiment 5 put both formats to the same 44 people: a scale asking for their assessment showed nothing, F(2, 42) = 1.18, p > .20, while a scale asking for their hunch showed the bias, F(2, 42) = 15.82, p < .001. Field evidence comes from Simmons and Massey, who paid 770 NFL fans $5 or $50 for correctly picking the winner of one game. Partisans predicted their own team 78.4% of the time, chi-square(1) = 131.11, p < .001, and the rate held between the $5 and $50 groups, 81.0% against 75.7%, chi-square(1) = 1.64, p = .20. Massey, Simmons and Armor had earlier collected predictions from NFL fans in every week of the 2008 season, and report in their abstract that bias about preferred teams lasted the whole season, as strong after four months as after four weeks.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Ask people to name a winner and the effect appears almost every time. Ask the same people for a probability and it mostly vanishes.",
+    "detail": "Krizan and Windschitl sorted the experimental literature into four cells, by whether the event was a matter of chance and by whether the forecast was a discrete outcome or a likelihood judgement. Windschitl and colleagues reproduce that table. Fourteen studies asked for a discrete prediction about a chance event, 13 found the bias, overall OR = 2.26. Nine asked for a likelihood judgement about a chance event, 2 found it, overall g = 0.01. Seven asked for a likelihood judgement about a non-chance event, 4 found it, overall g = 0.20. No study had asked for a discrete prediction about a non-chance event. Those figures are read off the later paper's summary figure, not off the review, which is paywalled. Windschitl and colleagues then filled the empty cell, and found nothing there: 39 people predicting answers to hard trivia questions gave 57.9%, 54.0% and 52.3% across the three values, F(2, 37) = 1.17, p > .20, against a clear effect in the card condition of the same study. Park, Windschitl, Miller, Smith, Stuart and Biangmano tested the format difference on staged contests. Among 269 students watching a basketball game, 75.4% of those asked to predict backed the team they had been assigned, and the format by team interaction gave OR = 8.51, Wald chi-square(1) = 14.93, p < .001. Among 314 watching an endurance race, the rate was 82.4% for predictions, 67.6% for a dichotomous likelihood judgement and 64.7% for a continuous one, with both gaps holding at p = .013 and p = .004. Note that the likelihood judgements in that race were themselves biased, which the card studies had not found. Smith, Windschitl and Crawley asked 329 Americans about the 2020 presidential election. Trump supporters picked Trump 81.8% of the time and Biden supporters picked Biden 86.1% of the time, F(1, 323) = 264.34, p < .001, partial eta-squared 0.450, and the split was almost as wide on probability estimates, F(1, 323) = 178.26, p < .001, partial eta-squared 0.365.",
+    "study": {
+      "cite": "Windschitl, P. D., Smith, A. R., Rose, J. P., & Krizan, Z. (2010). The desirability bias in predictions: Going optimistic without leaving realism. Organizational Behavior and Human Decision Processes, 111(1), 33-47.",
+      "doi": "10.1016/j.obhdp.2009.08.003",
+      "year": 2010
+    }
+  },
+  "limits": "No multi-site or registered replication of any of this has been located. The laboratory samples are small: 15, 54, 30, 46 and 44 across the five experiments that rebuilt the paradigm. The meta-analytic figures quoted above come from a summary table in a later paper by three of the same authors, because the review itself is paywalled, and they are not repeated here as structured effect sizes for that reason. Windschitl and colleagues read their own results as biased guessing rather than biased belief, which caps what the marked-card evidence can be asked to carry. Where a likelihood judgement is the measure, they point to a competing pull towards bracing for bad news. Preference in the election study was measured rather than assigned, unlike in every laboratory study cited here.",
+  "misreadings": "The name suggests someone believing what they want to be true. The strongest evidence shows something narrower: people asked to name an outcome name the one they want, while their stated probabilities stay close to the odds. Windschitl and colleagues call that going optimistic without leaving realism. It is not optimism bias, which concerns a person's own prospects and needs a peer comparison to be measured. It is not motivated reasoning either, which claims the evidence is read differently, since the card players in these studies were told exactly how many cards carried each mark. Nor is it cheap talk. Simmons and Massey found the effect among the 313 fans, 41% of their sample, whose answers to four follow-up questions showed they believed their own prediction, OR = 3.27, p < .001. The elusiveness has a pedigree of its own: Bar-Hillel and Budescu titled their series of tests The Elusive Wishful Thinking Effect, and a later chapter of theirs on World Cup forecasts kept the word.",
+  "sources": [
+    {
+      "text": "Marks, R. W. (1951). The effect of probability, desirability, and 'privilege' on the stated expectations of children. Journal of Personality, 19(3), 332-351.",
+      "doi": "10.1111/j.1467-6494.1951.tb01107.x",
+      "url": "https://doi.org/10.1111/j.1467-6494.1951.tb01107.x",
+      "type": "primary"
+    },
+    {
+      "text": "Krizan, Z., & Windschitl, P. D. (2007). The influence of outcome desirability on optimism. Psychological Bulletin, 133(1), 95-121. Paywalled; its meta-analytic totals are quoted here from Windschitl et al. (2010), Fig. 1.",
+      "doi": "10.1037/0033-2909.133.1.95",
+      "url": "https://doi.org/10.1037/0033-2909.133.1.95",
+      "type": "review"
+    },
+    {
+      "text": "Windschitl, P. D., Smith, A. R., Rose, J. P., & Krizan, Z. (2010). The desirability bias in predictions: Going optimistic without leaving realism. Organizational Behavior and Human Decision Processes, 111(1), 33-47.",
+      "doi": "10.1016/j.obhdp.2009.08.003",
+      "url": "https://www.appstate.edu/~smithar3/articles/Windschitl_et_al-Desirability_Bias.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Massey, C., Simmons, J. P., & Armor, D. A. (2011). Hope over experience: Desirability and the persistence of optimism. Psychological Science, 22(2), 274-281.",
+      "doi": "10.1177/0956797610396223",
+      "url": "https://doi.org/10.1177/0956797610396223",
+      "type": "primary"
+    },
+    {
+      "text": "Simmons, J. P., & Massey, C. (2012). Is optimism real? Journal of Experimental Psychology: General, 141(4), 630-634.",
+      "doi": "10.1037/a0027405",
+      "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2013/01/Simmons---Massey-2012_1.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Park, I., Windschitl, P. D., Miller, J. E., Smith, A. R., Stuart, J. O., & Biangmano, M. (2023). People express more bias in their predictions than in their likelihood judgments. Journal of Experimental Psychology: General, 152(1), 45-59.",
+      "doi": "10.1037/xge0001258",
+      "url": "https://par.nsf.gov/servlets/purl/10410238",
+      "type": "replication"
+    },
+    {
+      "text": "Smith, A. R., Windschitl, P. D., & Crawley, J. (2026). Wishful thinking in the 2020 U.S. presidential election: Does perspective taking mitigate the preference-expectation link? Judgment and Decision Making, 21, e4.",
+      "doi": "10.1017/jdm.2026.10029",
+      "url": "https://doi.org/10.1017/jdm.2026.10029",
+      "type": "replication"
+    },
+    {
+      "text": "Bar-Hillel, M., & Budescu, D. (1995). The elusive wishful thinking effect. Thinking & Reasoning, 1(1), 71-103.",
+      "doi": "10.1080/13546789508256906",
+      "url": "https://doi.org/10.1080/13546789508256906",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

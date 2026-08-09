@@ -1,0 +1,139 @@
+{
+  "no": 86,
+  "slug": "reactance",
+  "name": "Reactance",
+  "aliases": ["Psychological reactance", "Reverse psychology", "Forbidden fruit effect"],
+  "category": "social",
+  "statement": "When a rule or a message threatens a freedom people believe they hold, they push back to restore it, which can make the discouraged option more appealing.",
+  "meaning": "Reactance is a motivational state rather than a preference. Brehm's claim is that people hold beliefs about which behaviours are open to them, and that a threat to one of those behaviours creates pressure to reassert it. Three things travel under the name and they come apart. The state is the aroused reaction to one particular threat. The trait is a standing disposition to react that way, measured by questionnaire. The boomerang effect is an outcome, where an audience moves away from what a message advocated. A message can raise the state without producing the outcome, and most of the argument about reactance sits in that gap.",
+  "origin": {
+    "year": 1966,
+    "who": "Jack W. Brehm",
+    "where": "Academic Press",
+    "note": "Brehm set out the theory in a book, A Theory of Psychological Reactance. Experiments testing it appeared the same year, one of them by Brehm with Lloyd Stires, John Sensenig and Janet Shaban on the attractiveness of an eliminated choice alternative."
+  },
+  "evidence": "The first experiments took an option away and measured what happened to its appeal. Brehm, Stires, Sensenig and Shaban tested the attractiveness of an eliminated choice alternative. Hammock and Brehm tested the same thing when the freedom to choose was removed by another person. Both appeared in 1966. Reactance was then treated for decades as a state that could not be measured directly. Dillard and Shen changed that in 2005 by treating it as an amalgam of anger and negative thoughts about the message, captured with rating scales and thought-listing. Rains pooled 20 studies and 4,942 participants and reported that this intertwined model fitted better than the alternatives, with reactance as a latent factor and anger and counterarguments as its two indicators. Rains's own coefficients sit behind a paywall and are quoted here from Reynolds-Tylus, who reports loadings of 0.62 for anger against 0.52 for negative cognitions, correlations with attitude of 0.20 and 0.16, and a correlation between anger and negative cognitions of 0.31. Trait reactance is measured separately, usually with the Hong Psychological Reactance Scale. Shen and Dillard tested its 11-item version on three samples of 188, 200 and 233 people and found four first-order factors that could be treated as one factor at the second order.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Controlling language reliably raises anger and counterarguing, and the reversal it is supposed to cause often fails to arrive.",
+    "detail": "Li and Shi pooled 33 studies and 146 effect sizes published between 2005 and 2024. High freedom-threatening language beat low freedom-threatening language on reactance at r = .20, 95% CI [.16, .23], across 53 effects, with anger at r = .21 and negative cognitions at r = .17. Gain against loss framing did nothing, r = -.02 across 12 effects. Reactance in turn tracked weaker persuasion, anger at r = -.23 and negative cognitions at r = -.18, which is dampening rather than reversal. The mandate studies from 2020 onward split. Albarracin, Jung, Song, Tan and Fishman ran four US studies and found that requiring vaccination raised intentions rather than lowering them, by d = 0.64 in a survey of 299 people and d = 0.10 in a preregistered nationally representative sample of 606, with trait reactance moderating neither. Sprengholz, Betsch and Bohm found movement the other way in a German sample of 973 and a preregistered US sample of 1,394, where a mandate raised reactance among people whose baseline intention to vaccinate was low, and reactance predicted intentions to act against the restriction. Verpaalen and colleagues followed 1,411 Dutch adults through a vaccination programme. Reactance predicted lower intention, and once intention was controlled it did not predict whether anyone actually got vaccinated.",
+    "study": {
+      "cite": "Li, Z., & Shi, J. (2026). Message effects on psychological reactance: meta-analyses. Human Communication Research, 52(1), 38-52.",
+      "doi": "10.1093/hcr/hqaf016",
+      "year": 2026
+    },
+    "replicated": { "es": 0.2, "esType": "r", "ci": [0.16, 0.23], "ciLevel": 95 }
+  },
+  "limits": "The pooled figures come from studies of message wording, mostly on health topics and mostly with US samples. They describe what a forceful sentence does to a questionnaire, not what a law does to behaviour. The standard trait measure is unsettled. Waris and colleagues tested 12 previously published factor solutions of the Hong scale in two Finnish samples of 624 and 518 people, found a single factor fitted best in both confirmatory and exploratory analyses, and reported that this factor accounted for about 40% of total variance. They concluded the scale could use improvement. Rosenberg and Siegel trace five overlapping waves of work rather than one accumulating literature, and argue that the measurement wave pulled the field away from the motivational claim the theory was built on. Searches of Crossref, PubMed and the reactance meta-analyses turned up no multi-laboratory replication project covering a reactance experiment.",
+  "misreadings": "Reactance is not general contrariness. It is tied to a specific freedom the person believed they held, and a message that threatens nothing arouses none of it. A high score on the Hong scale is not a measure of how much reactance somebody felt on a given occasion; it is a trait questionnaire, and across Albarracin and colleagues' studies it did not identify who resisted a mandate. Raised anger and counterarguing are also not a boomerang. The meta-analytic path from reactance to persuasion is negative, meaning the message works less well, not that it works backwards. The 'backfire effect' argued over in the misinformation literature, from Nyhan and Reifler's work on corrections to Wood and Porter's large attempt to reproduce it, is a separate phenomenon about how people update factual beliefs, and its numbers do not carry across.",
+  "sources": [
+    {
+      "text": "Brehm, J. W. (1966). A theory of psychological reactance. New York: Academic Press.",
+      "url": "https://openlibrary.org/works/OL9393463W",
+      "type": "primary"
+    },
+    {
+      "text": "Brehm, J. W., Stires, L. K., Sensenig, J., & Shaban, J. (1966). The attractiveness of an eliminated choice alternative. Journal of Experimental Social Psychology, 2(3), 301-313.",
+      "doi": "10.1016/0022-1031(66)90086-2",
+      "url": "https://doi.org/10.1016/0022-1031(66)90086-2",
+      "type": "primary"
+    },
+    {
+      "text": "Hammock, T., & Brehm, J. W. (1966). The attractiveness of choice alternatives when freedom to choose is eliminated by a social agent. Journal of Personality, 34(4), 546-554.",
+      "doi": "10.1111/j.1467-6494.1966.tb02370.x",
+      "url": "https://doi.org/10.1111/j.1467-6494.1966.tb02370.x",
+      "type": "primary"
+    },
+    {
+      "text": "Dillard, J. P., & Shen, L. (2005). On the nature of reactance and its role in persuasive health communication. Communication Monographs, 72(2), 144-168.",
+      "doi": "10.1080/03637750500111815",
+      "url": "https://doi.org/10.1080/03637750500111815",
+      "type": "primary"
+    },
+    {
+      "text": "Rains, S. A. (2013). The nature of psychological reactance revisited: A meta-analytic review. Human Communication Research, 39(1), 47-73. Paywalled; its coefficients are quoted on this page from Reynolds-Tylus (2019).",
+      "doi": "10.1111/j.1468-2958.2012.01443.x",
+      "url": "https://doi.org/10.1111/j.1468-2958.2012.01443.x",
+      "type": "replication"
+    },
+    {
+      "text": "Reynolds-Tylus, T. (2019). Psychological reactance and persuasive health communication: A review of the literature. Frontiers in Communication, 4, 56.",
+      "doi": "10.3389/fcomm.2019.00056",
+      "url": "https://doi.org/10.3389/fcomm.2019.00056",
+      "type": "commentary"
+    },
+    {
+      "text": "Li, Z., & Shi, J. (2026). Message effects on psychological reactance: meta-analyses. Human Communication Research, 52(1), 38-52. Published online 30 June 2025.",
+      "doi": "10.1093/hcr/hqaf016",
+      "url": "https://doi.org/10.1093/hcr/hqaf016",
+      "type": "replication"
+    },
+    {
+      "text": "Hong, S.-M., & Faedda, S. (1996). Refinement of the Hong Psychological Reactance Scale. Educational and Psychological Measurement, 56(1), 173-182.",
+      "doi": "10.1177/0013164496056001014",
+      "url": "https://doi.org/10.1177/0013164496056001014",
+      "type": "primary"
+    },
+    {
+      "text": "Shen, L., & Dillard, J. P. (2005). Psychometric properties of the Hong Psychological Reactance Scale. Journal of Personality Assessment, 85(1), 74-81.",
+      "doi": "10.1207/s15327752jpa8501_07",
+      "url": "https://doi.org/10.1207/s15327752jpa8501_07",
+      "type": "commentary"
+    },
+    {
+      "text": "Waris, O., Karlsson, L., Antfolk, J., Karlsson, L., Karlsson, H., & Soveri, A. (2021). The factorial structure of the Hong Psychological Reactance Scale in two Finnish samples. Nordic Psychology, 73(1), 68-90.",
+      "doi": "10.1080/19012276.2020.1800508",
+      "url": "https://doi.org/10.1080/19012276.2020.1800508",
+      "type": "replication"
+    },
+    {
+      "text": "Rosenberg, B. D., & Siegel, J. T. (2018). A 50-year review of psychological reactance theory: Do not read this article. Motivation Science, 4(4), 281-300.",
+      "doi": "10.1037/mot0000091",
+      "url": "https://doi.org/10.1037/mot0000091",
+      "type": "commentary"
+    },
+    {
+      "text": "Steindl, C., Jonas, E., Sittenthaler, S., Traut-Mattausch, E., & Greenberg, J. (2015). Understanding psychological reactance: New developments and findings. Zeitschrift fur Psychologie, 223(4), 205-214.",
+      "doi": "10.1027/2151-2604/a000222",
+      "url": "https://doi.org/10.1027/2151-2604/a000222",
+      "type": "commentary"
+    },
+    {
+      "text": "Albarracin, D., Jung, H., Song, W., Tan, A., & Fishman, J. (2021). Rather than inducing psychological reactance, requiring vaccination strengthens intentions to vaccinate in US populations. Scientific Reports, 11, 20796.",
+      "doi": "10.1038/s41598-021-00256-z",
+      "url": "https://doi.org/10.1038/s41598-021-00256-z",
+      "type": "replication"
+    },
+    {
+      "text": "Sprengholz, P., Betsch, C., & Bohm, R. (2021). Reactance revisited: Consequences of mandatory and scarce vaccination in the case of COVID-19. Applied Psychology: Health and Well-Being, 13(4), 986-995.",
+      "doi": "10.1111/aphw.12285",
+      "url": "https://doi.org/10.1111/aphw.12285",
+      "type": "replication"
+    },
+    {
+      "text": "Verpaalen, I. A. M., Ritter, S. M., van Hooff, M. L. M., van Stekelenburg, A., Fransen, M. L., & Holland, R. W. (2025). Psychological reactance and vaccine uptake: a longitudinal study. Psychology & Health, 40(1), 84-104.",
+      "doi": "10.1080/08870446.2023.2190761",
+      "url": "https://doi.org/10.1080/08870446.2023.2190761",
+      "type": "replication"
+    },
+    {
+      "text": "Elmore, K., Oyserman, D., Smith, G., & Novin, S. (2016). When the going gets tough: Implications of reactance for interpretations of experienced difficulty in the classroom. AERA Open, 2(3), 1-11.",
+      "doi": "10.1177/2332858416664714",
+      "url": "https://doi.org/10.1177/2332858416664714",
+      "type": "commentary"
+    },
+    {
+      "text": "Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions. Political Behavior, 32(2), 303-330.",
+      "doi": "10.1007/s11109-010-9112-2",
+      "url": "https://doi.org/10.1007/s11109-010-9112-2",
+      "type": "commentary"
+    },
+    {
+      "text": "Wood, T., & Porter, E. (2019). The elusive backfire effect: Mass attitudes' steadfast factual adherence. Political Behavior, 41(1), 135-163.",
+      "doi": "10.1007/s11109-018-9443-y",
+      "url": "https://doi.org/10.1007/s11109-018-9443-y",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
