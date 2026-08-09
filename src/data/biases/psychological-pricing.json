@@ -1,0 +1,102 @@
+{
+  "no": 107,
+  "slug": "psychological-pricing",
+  "name": "Psychological pricing",
+  "aliases": [
+    "Charm pricing",
+    "Left-digit effect",
+    "Nine-ending pricing",
+    "Just-below pricing",
+    "Odd pricing",
+    "99-ending prices"
+  ],
+  "category": "decision",
+  "statement": "A price ending in 9 is supposed to sell more than the round price a cent higher, because shoppers read the left digit first and file $3.99 nearer to three dollars than four.",
+  "meaning": "Two claims sit inside the practice, and Stiving and Winer separated them in 1997. A level effect says the 9 makes the price seem lower than it is, because attention lands on the leftmost digits and the rest is rounded away or dropped. An image effect says the 9 carries meaning: it marks the item as cheap, discounted, or on offer, whatever the arithmetic. The two accounts predict different things. Under a level effect the ending works by fooling a calculation, so it should fade wherever the customer knows the price. Under an image effect it works by signalling, so it should fade wherever the signal is redundant or unbelievable, and it should be spent sparingly. Just-below prices are close to universal in retail. Troll and colleagues scraped 12,491 prices from a large online store in the United States and a large supermarket chain in Germany, and found 64.5% just-below, 24.0% precise and 11.5% round.",
+  "origin": {
+    "year": 2003,
+    "who": "Eric T. Anderson and Duncan I. Simester",
+    "where": "Quantitative Marketing and Economics",
+    "note": "The practice is far older than the evidence for it. Anderson and Simester date the interest of economists back over 65 years to Ginzberg in 1936, whose mail-order test they describe as producing varied results. Their own paper is the first set of large randomised field experiments on the question, and it is what most later citation rests on. The name 'left-digit effect' comes from Thomas and Morwitz two years later."
+  },
+  "evidence": "Anderson and Simester ran three split-sample experiments with two mail-order women's clothing catalogues owned by one company. Customers were randomised by postal code and mailed catalogues identical except for price endings. Study 1 sent three versions to 20,000 customers each and varied 27 items in $1 steps; the $9 coefficient was 0.341 with a standard error of 0.170, about 35% more demand, or 0.9 extra units per item. Study 2 sent two versions to 31,250 customers each across 211 items and got 0.143 with a standard error of 0.039, worth 1.3 units on a base of 8.7, about 15%. Study 3 sent three versions to 90,000 customers each across 308 items and got 0.071 with a standard error of 0.030 for items with no sale sign, worth 1.2 units on a base of 16.9, about 7%. Thomas and Morwitz then showed in five experiments that the perceptual part of this needs the leftmost digit to move: $2.99 reads as lower than $3.00, and $3.59 does not read as lower than $3.60.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The catalogue experiments found the effect. The meta-analysis of the whole literature puts it at g = 0.13 overall, g = 0.04 across the seven field studies, and g = -0.01 once publication bias is corrected.",
+    "detail": "Troll, Frankenbach, Friese and Loschelder ran a preregistered meta-analysis of 69 studies, 362 effect sizes and 40,541 participants. Just-below prices raised purchase decisions by g = 0.13, with a 95% interval of 0.01 to 0.25. They improved price image (g = 0.28), left prices more often underestimated (g = 0.67), and did nothing to perceived quality (g = 0.00, interval -0.17 to 0.18). Three features of that headline matter more than its sign. Heterogeneity was extreme, at I2 = 92.84% for purchase decisions. Of the 362 effect sizes, 219 were not statistically significant to begin with. And the design carries almost all of the result: within-subject studies, where the same person sees both prices, gave g = 0.34, while between-subject studies gave g = 0.02 with an interval from -0.09 to 0.13. Split by setting, laboratory and online studies gave g = 0.13 and the seven field studies gave g = 0.04, interval -0.14 to 0.22. Trim-and-fill correction for funnel asymmetry moved the purchase-decision estimate to g = -0.01, interval -0.10 to 0.09.",
+    "study": {
+      "cite": "Troll, E. S., Frankenbach, J., Friese, M., & Loschelder, D. D. (2024). A meta-analysis on the effects of just-below versus round prices. Journal of Consumer Psychology, 34(2), 299-325.",
+      "doi": "10.1002/jcpy.1353",
+      "year": 2024,
+      "n": 40541
+    },
+    "replicated": {
+      "es": 0.13,
+      "esType": "g",
+      "ci": [
+        0.01,
+        0.25
+      ],
+      "ciLevel": 95,
+      "weighting": "robust variance estimation, mixed effects"
+    }
+  },
+  "limits": "The strongest evidence is narrow. All three Anderson and Simester experiments used women's apparel sold by mail order in the United States, from two catalogue titles under one owner, at an average price near $50. Inside that setting the effect is already conditional. It was worth 22% on items new to the catalogue and 10% on items carried in previous seasons. On footwear the coefficient was negative and not statistically significant. It did not transfer to a neighbouring ending: the authors report that $9.50 endings, introduced by a catalogue manager hoping for an extra 50 cents, reduced demand if anything. A plain 'Sale' cue beat the price ending, at 0.240 against 0.071 in the same model, and adding a 9 ending to a new item that already carried a sale sign was worth 3.9% against 8.5% without one. Outside catalogues the picture changes. Ngobo, Legohérel and Guéguen modelled 188,623 observations covering more than 11,000 items in 102 grocery categories at two French retailers. They concluded that 99-endings do not affect choice share on their own, and that the effect was negative in expensive categories, at -0.07. Bray and Harris ran a field experiment in twelve UK stores, six raising their usual 9-endings to round prices, and report in a later paper of their own that sales rose in most cases when the prices were rounded up. On price level the meta-analysis is unhelpful rather than reassuring: the single-moderator slope was -0.03 per $100 with an interval from -0.07 to 0.01, so expensive goods are neither shown to be immune nor shown to be affected.",
+  "misreadings": "The figure in circulation is a percentage with no paper behind it. Applied writing on charm pricing quotes a single lift, often around 24%, and attributes it to nothing that can be opened. The nearest primary number is a four-dress pilot: 66 units sold at $9 endings against 46 at $5 lower and 45 at $5 higher. Anderson and Simester call that roughly 40%, and treat it as a reason to run an experiment rather than as a result. Their published coefficients give 35%, 15% and 7% across three studies of one design, which is the range a reader should hold. The second misreading is mechanical. The popular story is that the brain truncates the price. Anderson and Simester tested it by splitting prices into tens and dollars, and found the weight on the left digit was -0.0631 and on the right -0.0651. That difference was too small to detect, which they read as evidence against dropping-off and for the signalling account. Thomas and Morwitz add the boundary condition that the perceptual effect needs the leading digit to change, and the meta-analysis agrees, at g = 0.16 where the first digit moves and g = -0.02 where it does not. Sokolova, Seenivasan and Thomas find the bias is stronger when both prices are visible at once than when one must be recalled, which is the same pattern as the meta-analysis finding almost all of the demand effect in within-subject designs. A 9 ending is a claim of a bargain made to someone comparing two numbers on one page, and it is not a reliable way to sell more of anything to someone who is not.",
+  "sources": [
+    {
+      "text": "Anderson, E. T., & Simester, D. I. (2003). Effects of $9 price endings on retail sales: Evidence from field experiments. Quantitative Marketing and Economics, 1(1), 93-110.",
+      "doi": "10.1023/A:1023581927405",
+      "url": "https://doi.org/10.1023/A:1023581927405",
+      "type": "primary"
+    },
+    {
+      "text": "Thomas, M., & Morwitz, V. (2005). Penny wise and pound foolish: The left-digit effect in price cognition. Journal of Consumer Research, 32(1), 54-64.",
+      "doi": "10.1086/429600",
+      "url": "https://doi.org/10.1086/429600",
+      "type": "primary"
+    },
+    {
+      "text": "Stiving, M., & Winer, R. S. (1997). An empirical analysis of price endings with scanner data. Journal of Consumer Research, 24(1), 57-67. Source for the level effect and image effect distinction.",
+      "doi": "10.1086/209493",
+      "url": "https://doi.org/10.1086/209493",
+      "type": "primary"
+    },
+    {
+      "text": "Schindler, R. M., & Kibarian, T. M. (1996). Increased consumer sales response though use of 99-ending prices. Journal of Retailing, 72(2), 187-199. The abstract reports that 99 endings raised purchasing; the full text could not be retrieved, and the 8% sales difference usually quoted from it, described as not statistically significant, is taken here from Troll and colleagues.",
+      "doi": "10.1016/S0022-4359(96)90013-5",
+      "url": "https://doi.org/10.1016/S0022-4359(96)90013-5",
+      "type": "primary"
+    },
+    {
+      "text": "Troll, E. S., Frankenbach, J., Friese, M., & Loschelder, D. D. (2024). A meta-analysis on the effects of just-below versus round prices. Journal of Consumer Psychology, 34(2), 299-325.",
+      "doi": "10.1002/jcpy.1353",
+      "url": "https://doi.org/10.1002/jcpy.1353",
+      "type": "replication"
+    },
+    {
+      "text": "Ngobo, P.-V., Legoherel, P., & Gueguen, N. (2010). A cross-category investigation into the effects of nine-ending pricing on brand choice. Journal of Retailing and Consumer Services, 17(5), 374-385.",
+      "doi": "10.1016/j.jretconser.2010.03.018",
+      "url": "https://doi.org/10.1016/j.jretconser.2010.03.018",
+      "type": "primary"
+    },
+    {
+      "text": "Sokolova, T., Seenivasan, S., & Thomas, M. (2020). The left-digit bias: When and why are consumers penny wise and pound foolish? Journal of Marketing Research, 57(4), 771-788.",
+      "doi": "10.1177/0022243720932532",
+      "url": "https://doi.org/10.1177/0022243720932532",
+      "type": "primary"
+    },
+    {
+      "text": "Bray, J., & Harris, C. (2006). The effect of 9-ending prices on retail sales: A quantitative UK based field study. Journal of Marketing Management, 22(5-6), 601-617. Neither the paper nor its abstract could be retrieved; its result is quoted here from the authors' own later paper and from Troll and colleagues.",
+      "doi": "10.1362/026725706777978631",
+      "url": "https://doi.org/10.1362/026725706777978631",
+      "type": "primary"
+    },
+    {
+      "text": "Bray, J., & Harris, C. Price endings and consumer segmentation. Journal of Product and Brand Management. Author manuscript at Bournemouth University. Used for the authors' description of their own 2006 UK store trial.",
+      "url": "https://eprints.bournemouth.ac.uk/850/1/Bray_Output_2.pdf",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
