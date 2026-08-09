@@ -1,0 +1,113 @@
+{
+  "no": 108,
+  "slug": "decoy-effect",
+  "name": "Decoy effect",
+  "aliases": [
+    "Attraction effect",
+    "Asymmetric dominance effect",
+    "Asymmetrically dominated alternative"
+  ],
+  "category": "decision",
+  "statement": "Adding a third option that is plainly worse than one of two existing options is supposed to pull choices towards the option that beats it.",
+  "meaning": "Three options, two attributes. The target and the competitor each win on one attribute, so choosing between them needs a trade-off. The decoy is worse than the target on both attributes and worse than the competitor on only one, which makes the dominance asymmetric. Nobody is meant to pick the decoy. Its job is to give the target something to beat. If the target's share rises when the decoy is added, the choice set has broken regularity, the rule that adding an option cannot raise the probability of choosing an option already there. Huber, Payne and Puto note in a later commentary that Luce had declared regularity the one axiom of rational choice that had not been violated. That is why the finding travelled: it was aimed at choice theory, not at pricing pages. The commercial reading came afterwards, and the evidence for it is much weaker than the evidence for the axiom violation."
+  ,
+  "origin": {
+    "year": 1982,
+    "who": "Joel Huber, John W. Payne and Christopher Puto",
+    "where": "Journal of Consumer Research",
+    "note": "The paper's abstract states the whole claim: an asymmetrically dominated alternative is dominated by one item in the set but not by another, and adding it can raise the probability of choosing the item that dominates it. The full text is behind a paywall and could not be retrieved for this entry. In their 2014 commentary the three authors describe the study as a demonstration built to test regularity, not to supply a marketing tool. They say the decoy took about 2% of choices. They also say their first experiments worked for some choice sets and not for others, until they identified the ones that produced replicable demonstrations."
+  },
+  "evidence": "The clean modern demonstrations come from the paper that set out to bury the effect. Frederick, Lee and Baskin ran 38 studies in 2014. Where both attributes were bare numbers in a matrix, the effect appeared in four of five instances. Their Study 2a gave 507 people a choice between a 73% chance of $197 and a 28% chance of $516. Adding a dominated 23% chance of $507, with the odds written as numbers, took the risky gamble from 14% to 28% (chi-square 7.22, p < .01). Study 2b, with 791 people and a different pair of gambles, went from 21% to 37% (chi-square 11.55, p < .001). In Study 3a, 240 respondents choosing televisions by price and a numeric picture-quality rating moved the target from 33% to 57% (chi-square 6.60, p < .05). The commercial showcase is older and smaller. Kivetz, Netzer and Srinivasan report an Economist subscription choice put to an MBA class. With a $125 print-only option sitting beside it, 72%, or 21 of 29 students, took the $125 print-and-web subscription. Without it, 43%, or 13 of 30, did (t = 2.4, p < .02). They present it in a commentary as a classroom observation, not as a designed experiment.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The effect holds with two-attribute numeric matrices and disappears with real products. Frederick, Lee and Baskin found it in four of five abstract numeric conditions and in none of 27 studies where an attribute could be seen, tasted or touched.",
+    "detail": "Of the 38 studies in Frederick, Lee and Baskin, 27 used stimuli with at least one directly experienced attribute, including jelly beans, Kool-Aid, mints, popcorn, fruit, hotel rooms and apartment views shown as photographs. None produced a significant attraction effect, and one produced a significant repulsion effect: bottled water, where the target fell from 70% to 52% with the decoy present (n = 241, p < .01). Five conditions were hybrids, numbers plus a picture or a verbal description, and two of those five worked. The same televisions that gave 33% to 57% as numbers gave 53% to 35% when picture quality was shown as an image (chi-square 3.37, p = .07). The gambles that worked as percentages did nothing when the odds were drawn as a shaded probability wheel, 24% against 26% in Study 2a and 34% against 35% in Study 2b. Yang and Lynn, in the same issue, report 91 attempts across 23 product classes and 73 decoyed choice sets, and only 11 reliable effects, fewer than the power of the studies predicted. Yang's Cornell dissertation, which carries the same experiments, puts the hit rate at 11 of 91, or 12.1%, better than chance at chi-square 2.87, p = 0.09. In 32 of the 91 scenarios share moved the other way. Trendl, Stewart and Mullett built an experiment to Huber, Payne and Puto's own stated criteria, using film posters chosen so each person's target and competitor were equally liked. Across 2,148 choices from 135 people the target was picked on .50 of trials, 95% interval .49 to .51.",
+    "study": {
+      "cite": "Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487-507.",
+      "doi": "10.1509/jmr.12.0061",
+      "year": 2014
+    }
+  },
+  "limits": "The narrowest test comes from one of the original authors. Huber reports in the 2014 commentary that he took a commercial conjoint data set of 586 respondents, each making 20 choices among three alternatives on three attributes. He found almost 4,000 choice sets in which one item asymmetrically dominated another. He could not detect any consistent increase in the dominating item's share. The same commentary lists five conditions that kill the effect: firm prior trade-offs, dominance that is hard to see, spread in what respondents want, a decoy nobody likes, and a decoy some people like enough to pick. It also concedes that asymmetric dominance is probably rare in real markets, because dominated products stop being stocked and because real goods have too many attributes for dominance to be unambiguous. Heath and Chatterjee's meta-analysis reports that decoys raise the share of higher-quality brands and rarely help lower-quality ones, so the effect is conditional even where it works. Yang's dissertation puts the mean statistical power of 160 published choice scenarios at 0.34. Lichters, Sarstedt and Vogt, reviewing four decades of context-effect experiments in marketing journals, conclude the effect is restricted to artificial choice settings. Where it does hold, it is cheap to overturn: Crosetto and Gaudeul, who priced the effect rather than counting it, report that subjects keep choosing the target only until it costs about 8% more than the competitor. The animal literature offered as convergent evidence splits the same way. Shafir, Waite and Smith found honeybees and gray jays shifting towards the alternative more similar to a new unattractive option, with the jays violating regularity outright. Bateson, Healy and Hurly found rufous hummingbirds preferring whichever artificial flower dominated the decoy. Cohen and Santos ran three experiments with capuchin monkeys and found no asymmetric dominance effect.",
+  "misreadings": "The Economist subscription story is the version most people have met, and the number attached to it is not the published one. Frederick, Lee and Baskin record that Ariely cites a rise from 32% to 84% from his own MBA class, in a trade book. The peer-reviewed report of the same stimulus is Kivetz, Netzer and Srinivasan's classroom observation, 43% to 72% across 59 students in total. Frederick, Lee and Baskin then tried twice to reproduce it, with 515 people and with 2,003 people, and got nothing either time; in the direct condition the target went from 26% to 23%. The second misreading runs the other way. The 2014 exchange is quoted as a debunking. Huber, Payne and Puto reply that the paper doing the debunking replicated the effect wherever it used the stimuli the original studies used, gambles written as percentages among them. Choice between numeric gambles, they add, is the workhorse of thousands of studies in economics and psychology. Their position is that the effect is real, was always a test of an axiom, and was oversold as a merchandising trick by everyone including the field that published it. Third, no peer-reviewed meta-analysis of the attraction effect was located. The figure in circulation, a 14.7% gain in target share across 348 choice scenarios from 89 experiments, comes from Yang's unpublished 2013 dissertation. It is a relative increase in the target's share, not a gain of 14.7 percentage points.",
+  "sources": [
+    {
+      "text": "Huber, J., Payne, J. W., & Puto, C. (1982). Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis. Journal of Consumer Research, 9(1), 90-98. Only the abstract could be retrieved; the full text is paywalled.",
+      "doi": "10.1086/208899",
+      "url": "https://doi.org/10.1086/208899",
+      "type": "primary"
+    },
+    {
+      "text": "Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487-507. Full text read from the author copy hosted by NUS Business School.",
+      "doi": "10.1509/jmr.12.0061",
+      "url": "https://web2-bschool.nus.edu.sg/wp-content/uploads/media_rp/publications/tF83O1430805722.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Yang, S., & Lynn, M. (2014). More evidence challenging the robustness and usefulness of the attraction effect. Journal of Marketing Research, 51(4), 508-513. The 91 attempts, 23 product classes, 73 choice sets and 11 reliable effects are read from the abstract; the full text could not be retrieved.",
+      "doi": "10.1509/jmr.14.0020",
+      "url": "https://doi.org/10.1509/jmr.14.0020",
+      "type": "replication"
+    },
+    {
+      "text": "Huber, J., Payne, J. W., & Puto, C. P. (2014). Let's be honest about the attraction effect. Journal of Marketing Research, 51(4), 520-525. Source for the authors' account of their own 1982 study, the five mitigating conditions, and the conjoint test on 586 respondents.",
+      "doi": "10.1509/jmr.14.0208",
+      "url": "https://people.duke.edu/~jch8/bio/Papers/HuberPaynePutoJMR%202014.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Trendl, A., Stewart, N., & Mullett, T. L. (2021). A zero attraction effect in naturalistic choice. Decision, 8(1), 55-68.",
+      "doi": "10.1037/dec0000145",
+      "url": "https://wrap.warwick.ac.uk/id/eprint/143538/7/WRAP-zero-attraction-effect-naturalistic-choice-Stewart-2020.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Kivetz, R., Netzer, O., & Srinivasan, V. (2004). Extending compromise effect models to complex buying situations and other context effects. Journal of Marketing Research, 41(3), 262-268. Source for the Economist subscription figures.",
+      "doi": "10.1509/jmkr.41.3.262.35993",
+      "url": "http://www.columbia.edu/~on2110/Papers/Extending_Compromise_Models_to_Complex_Buying_Situations.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Yang, S. S. (2013). The attraction effect: An overview, its fragility, and a meta-analysis. Doctoral dissertation, Cornell University. Not peer reviewed. Source for the 11 of 91 hit rate, the mean power of 0.34, and the 14.7% meta-analytic estimate.",
+      "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/91824ab9-baee-451b-a548-e3ccec0f0ea0/content",
+      "type": "secondary"
+    },
+    {
+      "text": "Heath, T. B., & Chatterjee, S. (1995). Asymmetric decoy effects on lower-quality versus higher-quality brands: Meta-analytic and experimental evidence. Journal of Consumer Research, 22(3), 268-284. Read from the abstract at the publisher.",
+      "doi": "10.1086/209449",
+      "url": "https://doi.org/10.1086/209449",
+      "type": "primary"
+    },
+    {
+      "text": "Lichters, M., Sarstedt, M., & Vogt, B. (2015). On the practical relevance of the attraction effect: A cautionary note and guidelines for context effect experiments. AMS Review, 5(1-2), 1-19. Read from the record at IDEAS/RePEc; the full text could not be retrieved.",
+      "doi": "10.1007/s13162-015-0066-8",
+      "url": "https://ideas.repec.org/a/spr/amsrev/v5y2015i1d10.1007_s13162-015-0066-8.html",
+      "type": "primary"
+    },
+    {
+      "text": "Crosetto, P., & Gaudeul, A. (2016). A monetary measure of the strength and robustness of the attraction effect. Economics Letters, 149, 38-43. The 8% figure is read from the abstract at IDEAS/RePEc; the full text could not be retrieved.",
+      "doi": "10.1016/j.econlet.2016.09.031",
+      "url": "https://ideas.repec.org/a/eee/ecolet/v149y2016icp38-43.html",
+      "type": "primary"
+    },
+    {
+      "text": "Shafir, S., Waite, T. A., & Smith, B. H. (2002). Context-dependent violations of rational choice in honeybees (Apis mellifera) and gray jays (Perisoreus canadensis). Behavioral Ecology and Sociobiology, 51(2), 180-187. Read from the abstract at the publisher.",
+      "doi": "10.1007/s00265-001-0420-8",
+      "url": "https://doi.org/10.1007/s00265-001-0420-8",
+      "type": "primary"
+    },
+    {
+      "text": "Bateson, M., Healy, S. D., & Hurly, T. A. (2003). Context-dependent foraging decisions in rufous hummingbirds. Proceedings of the Royal Society B, 270(1521), 1271-1276. Read from the abstract at Europe PMC.",
+      "doi": "10.1098/rspb.2003.2365",
+      "url": "https://doi.org/10.1098/rspb.2003.2365",
+      "type": "primary"
+    },
+    {
+      "text": "Cohen, P. M., & Santos, L. R. (2017). Capuchins (Cebus apella) fail to show an asymmetric dominance effect. Animal Cognition, 20(2), 331-345. Read from the abstract at PubMed.",
+      "doi": "10.1007/s10071-016-1055-5",
+      "url": "https://doi.org/10.1007/s10071-016-1055-5",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
