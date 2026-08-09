@@ -1,0 +1,112 @@
+{
+  "no": 139,
+  "slug": "state-dependent-memory",
+  "name": "State-dependent memory",
+  "aliases": ["Context-dependent memory", "Environmental context-dependent memory", "Mood-dependent memory", "State-dependent retrieval", "Context reinstatement effect"],
+  "category": "memory",
+  "statement": "Memory is better when the place, drug state or mood at retrieval matches the one at learning, an effect that is small on average and largely absent from recognition tests.",
+  "meaning": "Three separate literatures travel under one heading, and they are not equally strong. Environmental context-dependent memory asks whether changing rooms costs you anything. Drug state-dependent retrieval asks whether material learned drunk or sedated comes back best in the same state. Mood-dependent memory asks the same about happiness and sadness. All three share a mechanism: features of the learning episode get encoded alongside the target and can act as retrieval cues later. The shared claim is therefore about cues, not about storage. Nothing is lost when the context changes; what changes is how easy it is to find. That framing predicts the boundary condition that runs through all three literatures. A free-recall test gives the rememberer almost nothing to work with, so incidental cues matter. A recognition test hands back the item itself, and the effect mostly disappears.",
+  "origin": {
+    "year": 1975,
+    "who": "Duncan R. Godden and Alan D. Baddeley",
+    "where": "British Journal of Psychology",
+    "note": "The paper is \"Context-dependent memory in two natural environments: on land and underwater\", published in volume 66, pages 325 to 331. Divers learned word lists on dry land or underwater and recalled them in the same or the other environment; lists learned underwater were best recalled underwater. It was not the first such study. Smith and Vela trace the question to Carr in 1925 with rats and include human work from Dulsky in 1935 onward. The diving study earned its place by making the context change as large as an experiment plausibly can."
+  },
+  "evidence": "Godden and Baddeley's 1975 abstract reports the crossover in words and gives no figures. Murre, who replicated the study, states that it used sixteen divers and reports its interaction as F = 22.0, p < .001, with the degrees of freedom of (1, 12) that a repeated-measures analysis of sixteen subjects gives. From that F he derives a lower bound of Cohen's d = 2.708, which is why he judged sixteen divers enough for his own attempt. Smith and Vela's meta-analysis codes the same study at d = +0.91, 95% CI [-0.06, +1.88], an interval that includes zero. Godden and Baddeley followed it in 1980 with \"When does context influence recognition memory?\", British Journal of Psychology 71, pages 99 to 104. Subjects learned lists of 36 words on land or underwater and then tried to pick them out of a list of 72 words, in the same environment or the other one. Their abstract records the result in six words: \"no trace of context dependency was observed\". Smith and Vela code that study at d = 0.00, 95% CI [-1.13, +1.13]. The pooled picture comes from Smith and Vela, who calculated 93 effect sizes from 75 studies in 41 articles published between 1935 and 1997. The average weighted effect was d = .28, 95% CI ±.05, reliably above zero, with substantial heterogeneity, Q_T = 242.47, p < .001. Moderators explain more than the average does. First-order reinstatement designs, the kind where a list is learned in one room and tested in another, gave d = .23, while interference-reduction designs gave .68 and multiple-context designs .45. An orienting task that made subjects relate list items to each other cut the effect to d = .13, 95% CI [.03, .23], against .33, 95% CI [.20, .46] for item-by-item processing. A retention interval of one day to one week gave d = .63, 95% CI [.42, .84], against .27 or less at every shorter interval. Changing the experimenter along with the room raised the effect from .26 to .62. Eighteen of the 93 effect sizes were above .80. In the drug and mood literatures the same cue logic recurs. Eich and Metcalfe ran four experiments using music to shift mood and the generate-read procedure to separate internally produced from externally presented items. Recall of generated items suffered more from a mood shift than recall of read items, and a shift in mood, arousal or both \"did not deter recognition of either the occurrence or the origin of a target item\". Pooling the recall data of all four studies, subjects who changed mood but not arousal recalled fewer generated items, F(1, 189) = 5.07, p < .05, and fewer read items, F(1, 189) = 5.07, p < .05.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Smith and Vela's 93 effect sizes give a reliable but small d = .28, and the diving study that made the idea famous failed to replicate in 2021.",
+    "detail": "The meta-analytic answer and the direct-replication answer point in different directions, which is the whole story of this effect. Smith and Vela found environmental context effects reliable across 93 effect sizes, with free recall at d = .29, 95% CI [.21, .37]. Against that, Murre ran the first published replication of the diving study, preregistered and with results-blind in-principle acceptance at Royal Society Open Science. Sixteen divers from Amsterdam clubs heard 36-word Dutch lists on land or underwater in a heated indoor pool, recalled them four minutes later in the same or the other place, and did all four combinations in one day rather than four. The interaction was not significant, F = 1.999, p = 0.163. Words learned underwater were recalled better on land than underwater, p < 0.01, which is the opposite of the predicted direction. A 2022 addendum matters and is usually not mentioned. Sean Mackinnon, working from Murre's posted data, found the analysis should have been a repeated-measures ANOVA with order as a between-subjects covariate, and found one raw value entered as 14 that should have been 13. Reanalysed, the learn-by-recall interaction is significant at p = 0.017. Murre's conclusion did not change, because the significant pattern is the wrong pattern: the same-context cells should have been the high ones and they were not. Fernandez and Glenberg had already published eight experiments under the title \"Changing environmental context does not reliably affect memory\". Smith and Vela's appendix codes their eight effect sizes at +.12, +.15, -.31, -.19, +.34, -.46, -.09 and +.26. In the mood literature the failure came from the original author. Bower and Mayer tried to reproduce the mood-dependent retrieval reported in Experiment 3 of Bower, Monteiro and Gilligan (1978), using the same two-list interference design, and found none: subjects recalled about the same percentage of words from the same-mood list as from the opposite-mood list. Their conclusion was that mood-dependent retrieval \"must be judged to be an unreliable phenomenon in the laboratory\".",
+    "study": {
+      "cite": "Smith, S. M., & Vela, E. (2001). Environmental context-dependent memory: A review and meta-analysis. Psychonomic Bulletin & Review, 8(2), 203-220.",
+      "doi": "10.3758/BF03196157",
+      "year": 2001,
+      "n": 93
+    },
+    "original": { "es": 0.91, "esType": "d", "ci": [-0.06, 1.88], "ciLevel": 95 },
+    "replicated": { "es": 0.29, "esType": "d", "ci": [0.21, 0.37], "ciLevel": 95, "weighting": "weighted" }
+  },
+  "limits": "The number in the `original` field is not Godden and Baddeley's. It is Smith and Vela's coding of their study, and the 1975 paper itself is paywalled, so the condition means that circulate in teaching materials are not quoted here. The pooled d = .28 covers environmental context only. Smith and Vela excluded drug and mood manipulations by design, so nothing in that figure speaks to state or mood dependence. They also excluded classroom reinstatement studies, on the ground that students revise wherever they like and the study context is therefore uncontrolled. That exclusion is the direct answer to the revision advice built on this effect. Saufley, Otaka and Bavaresco tested it in real university courses and Smith and Vela summarise the result as classroom field experiments that failed to support context-dependent memory. Seddon, describing the same paper, notes that its first experiment moved 16 of 253 students to another room, which leaves the comparison badly underpowered. The mood-dependence meta-analysis by Ucros, Cognition and Emotion 3(2), 139 to 169, is paywalled and no pooled effect size from it was obtained, so none is quoted. Eich's 1980 review of drug state-dependent retrieval is likewise paywalled; the claim that state dependence fades when explicit retrieval cues are supplied is attributed here to Eich and Metcalfe's description of it. No multi-site or registered replication of any of the three literatures was located beyond Murre's single-laboratory diving replication and its addendum. Effects of this size are hard to detect. Sixteen divers was enough only because the original estimate was enormous, and Murre says so.",
+  "misreadings": "The diving study is quoted everywhere and its own sequel almost nowhere. Godden and Baddeley tested recognition five years later and found nothing, and any account that reports the 1975 crossover without the 1980 null has left out the finding that bounds it. The bound is real in direct comparisons and not visible in the aggregate, and both halves are true at once. Smith and Vela found no reliable difference by test type, Q_B = .21, with recall at .29, recognition at .27 and cued recall at .25. Their explanation is that the experiments comparing recall and recognition head to head all used word lists, which are easy to associate, while the studies that do find context-dependent recognition used harder material such as faces. The advice to revise in the room you will be examined in does not follow from the meta-analysis. Reinstatement designs, which are the ones that model the advice, give the smallest effect of the three paradigms at d = .23, and the largest effects sit in interference-reduction designs that no student is running. Imagining the learning room worked about as well as returning to it, d = .26 against .28, so the practical recommendation the evidence supports is mental, not logistical. The word \"state\" also gets stretched. Mood-dependent memory, where a mood at learning cues retrieval regardless of what was learned, is not mood-congruent memory, where sad material is easier to recall while sad. Eich and Metcalfe note that several classic results, including Weingartner's, can be read either way. A last one concerns the experimenter. Studies that changed the person running the session along with the room reported d = .62 against .26 for those that did not, so some of what is filed as environmental context is social."
+  ,
+  "sources": [
+    {
+      "text": "Godden, D. R., & Baddeley, A. D. (1975). Context-dependent memory in two natural environments: On land and underwater. British Journal of Psychology, 66(3), 325-331. Paywalled; only the published abstract was read, and no condition means are quoted from it here.",
+      "doi": "10.1111/j.2044-8295.1975.tb01468.x",
+      "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8295.1975.tb01468.x",
+      "type": "primary"
+    },
+    {
+      "text": "Godden, D. R., & Baddeley, A. D. (1980). When does context influence recognition memory? British Journal of Psychology, 71(1), 99-104. Paywalled; the published abstract carries the result quoted here.",
+      "doi": "10.1111/j.2044-8295.1980.tb02735.x",
+      "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8295.1980.tb02735.x",
+      "type": "primary"
+    },
+    {
+      "text": "Smith, S. M., & Vela, E. (2001). Environmental context-dependent memory: A review and meta-analysis. Psychonomic Bulletin & Review, 8(2), 203-220.",
+      "doi": "10.3758/BF03196157",
+      "url": "https://people.it.tamu.edu/~stevesmith/SmithMemory/Smith&Vela2001.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Murre, J. M. J. (2021). The Godden and Baddeley (1975) experiment on context-dependent memory on land and underwater: A replication. Royal Society Open Science, 8(11), 200724.",
+      "doi": "10.1098/rsos.200724",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8568063/",
+      "type": "replication"
+    },
+    {
+      "text": "Murre, J. (2022). Addendum to: Murre (2021). The Godden and Baddeley (1975) experiment on context-dependent memory on land and underwater: A replication. Royal Society Open Science, 9(1), 211924.",
+      "doi": "10.1098/rsos.211924",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8728159/",
+      "type": "replication"
+    },
+    {
+      "text": "Fernandez, A., & Glenberg, A. M. (1985). Changing environmental context does not reliably affect memory. Memory & Cognition, 13(4), 333-345. Paywalled; the eight effect sizes quoted here are read from Smith and Vela's appendix, not from this paper.",
+      "doi": "10.3758/BF03202501",
+      "url": "https://link.springer.com/article/10.3758/BF03202501",
+      "type": "replication"
+    },
+    {
+      "text": "Bower, G. H., & Mayer, J. D. (1985). Failure to replicate mood-dependent retrieval. Bulletin of the Psychonomic Society, 23(1), 39-42.",
+      "doi": "10.3758/BF03329773",
+      "url": "https://scholars.unh.edu/psych_facpub/464/",
+      "type": "replication"
+    },
+    {
+      "text": "Eich, E., & Metcalfe, J. (1989). Mood dependent memory for internal versus external events. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 443-455.",
+      "doi": "10.1037/0278-7393.15.3.443",
+      "url": "https://www.columbia.edu/cu/psychology/metcalfe/PDFs/Eich%20Metcalfe%201989.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Eich, J. E. (1980). The cue-dependent nature of state-dependent retrieval. Memory & Cognition, 8(2), 157-173. Paywalled; its argument is described here from Eich and Metcalfe's account of it.",
+      "doi": "10.3758/BF03213419",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7382817/",
+      "type": "primary"
+    },
+    {
+      "text": "Eich, E. (1995). Searching for mood dependent memory. Psychological Science, 6(2), 67-75.",
+      "doi": "10.1111/j.1467-9280.1995.tb00309.x",
+      "url": "https://journals.sagepub.com/doi/10.1111/j.1467-9280.1995.tb00309.x",
+      "type": "primary"
+    },
+    {
+      "text": "Ucros, C. G. (1989). Mood state-dependent memory: A meta-analysis. Cognition & Emotion, 3(2), 139-169. Paywalled; no pooled effect size from it is quoted on this page.",
+      "doi": "10.1080/02699938908408077",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/02699938908408077",
+      "type": "replication"
+    },
+    {
+      "text": "Saufley, W. H., Jr., Otaka, S. R., & Bavaresco, J. L. (1985). Context effects: Classroom tests and context independence. Memory & Cognition, 13(6), 522-528. Paywalled; its result is described here from Smith and Vela and from Seddon.",
+      "doi": "10.3758/BF03198323",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3831709/",
+      "type": "replication"
+    },
+    {
+      "text": "Seddon, M. (2019). Context-dependent memory: Do changes in environmental context cues affect student recall? Teacher Education Advancement Network Journal, 11(3), 25-34.",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1266305.pdf",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
