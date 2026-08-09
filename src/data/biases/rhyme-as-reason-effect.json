@@ -1,0 +1,67 @@
+{
+  "no": 123,
+  "slug": "rhyme-as-reason-effect",
+  "name": "Rhyme-as-reason effect",
+  "aliases": ["Keats heuristic", "Rhyme as reason", "Eaton-Rosen phenomenon"],
+  "category": "belief",
+  "statement": "A saying that rhymes is rated as a more accurate description of human behaviour than the same saying reworded so that it does not rhyme.",
+  "meaning": "The claim is about a rating, not about conduct. A participant reads a saying and marks on a scale how accurately it describes people. Replace one rhyming word with a synonym, so the line no longer rhymes, and the mark falls, although the two versions assert the same thing. The account offered for this is misattribution. Rhyme makes a sentence quicker and smoother to take in, and that ease gets read as a signal that the content is sound. None of the sayings used is checkable against anything, so what the scale records is how true a line feels.",
+  "origin": {
+    "year": 1999,
+    "who": "Matthew S. McGlone and Jessica Tofighbakhsh",
+    "where": "Poetics",
+    "note": "Their paper is \"The Keats heuristic: Rhyme as reason in aphorism interpretation\", and it carries the whole original experiment. The better-known publication is their 2000 paper in Psychological Science, \"Birds of a feather flock conjointly (?): Rhyme as reason in aphorisms\", which most secondary accounts cite as the source of the effect. Both authors were at Lafayette College, and the work was first presented at an American Psychological Society convention in May 1998."
+  },
+  "evidence": "The 1999 experiment took 50 rhyming aphorisms from two printed dictionaries and cut them to 30 after 20 students confirmed they were unfamiliar and that the rewrites did not change the meaning. Each aphorism had two non-rhyming versions, made by swapping either the first or the second rhyming word for a synonym, so \"Woes unite foes\" became \"Misfortunes unite foes\" and \"Woes unite enemies\". Sixty further undergraduates rated 30 items each on two 9-point scales. Mean accuracy was 6.38 for the rhyming forms against 5.15 and 5.33 for the two modified forms, Fp(2,118) = 9.15, p < .01, Fi(2,58) = 4.77, p < .02. Comprehensibility was 7.06, 6.83 and 7.11, with no reliable difference, so the rhyming versions were not rated truer because they were easier to follow. Asked at the end whether rhyming aphorisms describe behaviour more accurately, all 60 said no. The 2000 Psychological Science paper is paywalled and only its abstract was read here. That abstract reports the same accuracy advantage and adds that it was attenuated when participants were cautioned to separate a saying's poetic qualities from its semantic content.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No independent repeat of the aphorism experiment was found. The finding rests on 60 undergraduates at one American college rating 30 antique English proverbs.",
+    "detail": "The two studies usually offered as support are extensions rather than repeats. Filkuková and Klempe wrote new advertising slogans in 2013 and found, in their first experiment, that rhymes were rated more likeable, more original, easier to remember, more suitable for campaigns, more persuasive and more trustworthy. Their second experiment found social advertising rated favourably in both forms. Only in a third, within-subjects experiment, where the two forms sat on one scale, were rhymes clearly preferred on both form and content. Kara-Yakoubian and colleagues tested a different device in 2022, the A-B-B-A pattern of antimetabole, and found an accuracy advantage in three of four experiments with 797 people. Neither reuses the original materials or the original design, and neither is a test of rhyme in aphorisms."
+  },
+  "limits": "The search behind the none-located verdict covered Crossref and Europe PMC by title and DOI, the citing lists of both original papers through Semantic Scholar, which return 293 works citing the 2000 paper and 33 citing the 1999 one, OSF, the Collaborative Replications and Education Project, and web searches for preregistered, student and classroom replications under both the 'rhyme as reason' and 'Keats heuristic' names. Nothing repeating the original design came back. Two figures could not be obtained. The 2000 paper's sample sizes and means are behind a publisher block with no open copy, and Filkuková and Klempe's numbers are likewise unreachable, so both are used here only through their abstracts and no statistics from them are quoted. The tested materials were antique English proverbs unfamiliar to American undergraduates, and the rhyme turned on a single substituted word. Menninghaus and colleagues, working with proverbs that combine rhyme, metre and artful shortness, found those features made semantic comprehension harder while raising beauty and succinctness ratings, which is a more tangled picture than a single fluency dial.",
+  "misreadings": "Johnnie Cochran is an illustration, not a result. He appears in the closing paragraph of the 1999 discussion, in the form \"If the gloves don't fit, you must acquit\", which is not the wording usually quoted, and no juror was measured in either paper. The outcome is a rated accuracy score, and persuasion, memory and behaviour are separate things. Filkuková and Klempe rated slogans for persuasiveness and trustworthiness rather than truth, and the older claim that rhyme aids recall is a different literature again. The name Eaton-Rosen phenomenon has no traceable origin. It entered the Wikipedia article on 11 July 2013 in an edit from an anonymous address, summarised as 'alternative nomenclature' and carrying no citation, and no earlier use of it and no researcher of either name in this field could be found. Every source now using the term postdates that edit.",
+  "sources": [
+    {
+      "text": "McGlone, M. S., & Tofighbakhsh, J. (1999). The Keats heuristic: Rhyme as reason in aphorism interpretation. Poetics, 26(4), 235-244. Full text read for this entry, including the appendix listing all 30 aphorism sets.",
+      "doi": "10.1016/S0304-422X(99)00003-0",
+      "url": "https://doi.org/10.1016/S0304-422X(99)00003-0",
+      "type": "primary"
+    },
+    {
+      "text": "McGlone, M. S., & Tofighbakhsh, J. (2000). Birds of a feather flock conjointly (?): Rhyme as reason in aphorisms. Psychological Science, 11(5), 424-428. Paywalled; abstract read at Europe PMC and PubMed, PMID 11228916. No sample size or mean from this paper is quoted here.",
+      "doi": "10.1111/1467-9280.00282",
+      "url": "https://doi.org/10.1111/1467-9280.00282",
+      "type": "primary"
+    },
+    {
+      "text": "Filkuková, P., & Klempe, S. H. (2013). Rhyme as reason in commercial and social advertising. Scandinavian Journal of Psychology, 54(5), 423-431. Abstract read at Europe PMC; the full text was not reachable, so no statistics from it are quoted.",
+      "doi": "10.1111/sjop.12069",
+      "url": "https://doi.org/10.1111/sjop.12069",
+      "type": "extension"
+    },
+    {
+      "text": "Kara-Yakoubian, M., Walker, A. C., Sharpinskyi, K., Assadourian, G., Fugelsang, J. A., & Harris, R. A. (2022). Beauty and truth, truth and beauty: Chiastic structure increases the subjective accuracy of statements. Canadian Journal of Experimental Psychology, 76(2), 144-155. Abstract read; tests the Keats heuristic with antimetabole rather than rhyme.",
+      "doi": "10.1037/cep0000277",
+      "url": "https://doi.org/10.1037/cep0000277",
+      "type": "extension"
+    },
+    {
+      "text": "Reber, R., & Schwarz, N. (1999). Effects of perceptual fluency on judgments of truth. Consciousness and Cognition, 8(3), 338-342. Abstract read; statements shown in high-contrast colours were judged true above chance, those in moderately visible colours at chance. The abstract reports no sample size.",
+      "doi": "10.1006/ccog.1999.0386",
+      "url": "https://doi.org/10.1006/ccog.1999.0386",
+      "type": "background"
+    },
+    {
+      "text": "Menninghaus, W., Bohrn, I. C., Knoop, C. A., Kotz, S. A., Schlotz, W., & Jacobs, A. M. (2015). Rhetorical features facilitate prosodic processing while handicapping ease of semantic comprehension. Cognition, 143, 48-60. Abstract read.",
+      "doi": "10.1016/j.cognition.2015.05.026",
+      "url": "https://doi.org/10.1016/j.cognition.2015.05.026",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia revision 563792905, 11 July 2013, by the anonymous address 131.111.16.20, edit summary 'alternative nomenclature'. The diff against the previous revision shows the phrase 'or Eaton-Rosen phenomenon' being added to the opening sentence with no citation. Read as the artefact itself, not as an encyclopedia entry.",
+      "url": "https://en.wikipedia.org/w/index.php?title=Rhyme-as-reason_effect&diff=563792905&oldid=506094709",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
