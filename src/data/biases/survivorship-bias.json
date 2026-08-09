@@ -5,7 +5,7 @@
   "aliases": ["Survival bias", "Survivorship fallacy"],
   "category": "belief",
   "statement": "Conclusions get drawn from the cases that made it far enough to be counted, and the cases that did not are missing from the data rather than absent from the world.",
-  "meaning": "This is a property of a sample rather than a habit of a mind, which makes it unlike most entries here. The mechanism is selection: something has already filtered what you can observe, and the filter is correlated with the thing you are trying to measure. Studying successful companies tells you what successful companies have in common, including everything they share with the failed companies you never hear about. The error is not in the reasoning applied to the data; it is that the data arrived pre-sorted and nothing in it says so.",
+  "meaning": "This is a property of a sample rather than a habit of a mind, which makes it unlike most entries here. The mechanism is selection: something has already filtered what you can observe, and the filter is correlated with the thing you are trying to measure. That makes this one species of selection bias, entry 82, the species in which the filter is survival. Studying successful companies tells you what successful companies have in common, including everything they share with the failed companies you never hear about. The error is not in the reasoning applied to the data; it is that the data arrived pre-sorted and nothing in it says so.",
   "origin": {
     "year": 1943,
     "who": "Abraham Wald",
