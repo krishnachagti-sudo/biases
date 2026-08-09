@@ -1,0 +1,70 @@
+{
+  "no": 222,
+  "slug": "chronological-snobbery",
+  "name": "Chronological snobbery",
+  "category": "belief",
+  "statement": "Chronological snobbery treats an idea as discredited by having gone out of date, without asking whether anyone refuted it or whether it merely fell out of fashion.",
+  "meaning": "Lewis defines it as \"the uncritical acceptance of the intellectual climate common to our own age and the assumption that whatever has gone out of date is on that account discredited\". The test he attaches is historical rather than psychological. \"You must find why it went out of date. Was it ever refuted (and if so by whom, where, and how conclusively) or did it merely die away as fashions do? If the latter, this tells us nothing about its truth or falsehood.\" The passage then turns the same suspicion on the present. Lewis writes that our own age is also a period and has, like all periods, its characteristic illusions, and that these are likeliest to lurk in the widespread assumptions so ingrained that nobody attacks or defends them. What is being judged is an argument, not a person. Lewis reports no experiment, names no population and gives no rate, which places chronological snobbery among named fallacies rather than among measured effects. Wiley's fallacy compendium catalogues it under that heading.",
+  "origin": {
+    "year": 1955,
+    "who": "C. S. Lewis",
+    "where": "Surprised by Joy: The Shape of My Early Life",
+    "note": "The phrase appears in chapter XIII, \"The New Look\", of the Geoffrey Bles edition published in London in 1955, on pages 196 to 197 of that setting. Lewis introduces the definition as \"what I have called my 'chronological snobbery'\", so the naming is his own. He credits the argument against it to Owen Barfield, writing that Barfield's counter-attacks \"destroyed forever\" the attitude during the years of dispute he calls the Great War, which began when Barfield became an anthroposophist. Earlier in the same chapter Lewis records dismissing anthroposophy as medieval and adds that he still used the names of earlier periods as terms of abuse. Chapter XIV reports the attitude \"seriously shaken\" after his friendship with Nevill Coghill. The text was read in the Distributed Proofreaders Canada transcription of the 1955 Bles printing."
+  },
+  "evidence": "The evidence for chronological snobbery is a passage of autobiography and the tradition of fallacy lists that took the phrase up. There is no study of it. Three measured literatures sit next to it, and none of them tests it. The first runs the other way. Eidelman, Crandall and Pattershall report five studies in which the mere existence of something is treated as evidence of its goodness: an existing state is rated above an alternative, a form described as more prevalent is judged more aesthetically attractive, and the effect extends to how a food tastes. Their follow-up paper, titled \"Longer is better\", was not obtained. McCabe, Spina and Arndt describe it as holding \"that which exists is good and that which has existed for longer is better\", and their own experiment had participants reminded of death evaluate new, 20-year-old and 100-year-old objects, with the death reminders raising the valuation of the older ones. If age carried a general penalty in judgement, these results would be hard to obtain. The second literature concerns whether scholarship neglects older work. Verstak and colleagues at Google counted citations in articles published between 1990 and 2013 and found the opposite of neglect. In 2013, 36% of citations went to articles at least ten years old, a share that had grown by 28% since 1990. The fraction rose in seven of nine broad areas of research and in 231 of 261 subject categories, and the increase over 2002 to 2013 was double that over 1990 to 2001. For articles at least 15 years old the 2013 share was 21%, up 30% since 1990, and for those at least 20 years old it was 13%, up 36%. The third is the treatment of novelty in clinical trials, which is a claim about study design rather than about judging ideas. Tinè, Attanasio, Muggeo and Crainiceanu ran a meta-regression of hepatitis C interferon trials and found the same therapy performed better when it occupied the experimental arm than when it occupied the control arm, by a mean of 11.9%, p < 0.0001, with the arm effect surviving adjustment for trial and patient characteristics.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study of chronological snobbery was found. It is a name for a bad argument, and nothing located turns it into a claim about people that could pass or fail.",
+    "detail": "Searches of Crossref, Europe PMC and arXiv return no empirical work on the phrase. Crossref's bibliographic index carries humanities essays, including a chapter in Wiley's Bad Arguments and one in the Inklings yearbook. Europe PMC holds three records containing the phrase, in pieces on surgical burnout, Canadian medical education and hospital inpatient complexity, and each uses it in passing rather than studying it. The adjacent measurements are not replications and mostly point the other way: existence and duration raise evaluations in the laboratory, and the share of citations going to older articles rose across 231 of 261 subject categories between 1990 and 2013."
+  },
+  "limits": "The search covered Crossref by bibliographic query, Europe PMC, arXiv full text and general web search. OpenAlex could not be queried, because its API refused the request for want of quota, and no psychology-specific database such as PsycINFO was searched. Absence of a study is therefore a statement about those places and not about the whole literature. Several documents were not obtained. Eidelman, Pattershall and Crandall's 2010 paper is closed access, Unpaywall lists no open copy, and everything said about it here comes from McCabe, Spina and Arndt's description of it. Holdier's chapter in Bad Arguments is cited from its Crossref record, which gives title, book, publisher, pages and date; the text itself returned a 403. Wikipedia's article cites page 164 of Owen Barfield's History in English Words for the concept, and that book is lending-restricted at the Internet Archive, so whether Barfield used the phrase in print could not be settled. The Inklings yearbook chapter titled \"C.S. Lewis and Chronological Snobbery\" has a Crossref record carrying no author and no year. The three adjacent literatures were read at abstract level except Verstak, which was read in full. None of them was designed to test Lewis's claim, and treating any of them as a verdict on it would be a category error.",
+  "misreadings": "The coinage is routinely given to two people. Wikipedia states that the term \"was coined by C. S. Lewis and Owen Barfield\" and marks that sentence as needing a citation. Lewis's own text says \"what I have called my 'chronological snobbery'\" and credits Barfield with the counter-attacks that destroyed the attitude, not with the name. Page references also drift. Wikipedia cites chapter 13, page 206; the 1955 Bles printing puts the definition on pages 196 to 197, and later editions repaginate. A second error is to expect an effect size. Chronological snobbery is a charge about the structure of an argument, and no study located has assigned it a rate or a magnitude. A third is to read Lewis as saying old ideas are better. He says that an idea dying away as fashions do tells us nothing about its truth, and he applies the same suspicion to the assumptions of his own age. The fourth is to assume the psychology supports the charge. The closest measured effects run against it, since the laboratory work on existence and duration finds that things rated as older or longer established are rated as better. The last is to merge it with declinism, which points the other way. Declinism is a belief that people are getting worse, and it is supported by survey evidence across seventy years. Chronological snobbery is a belief that past thought is discredited by being past. A single person can hold both, because the objects are different: the conduct of contemporaries in one case, the standing of old arguments in the other.",
+  "sources": [
+    {
+      "text": "Lewis, C. S. (1955). Surprised by Joy: The Shape of My Early Life. London: Geoffrey Bles. Chapter XIII, \"The New Look\", pages 196 to 197, read in full as the Distributed Proofreaders Canada transcription, Faded Page eBook #20150220, in the PDF copy hosted at orcuttchristian.org. Source for the definition, the attribution to Barfield and the pagination.",
+      "url": "https://www.orcuttchristian.org/Lewis_Surprised%20by%20Joy.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Faded Page (2015). Surprised by Joy: The shape of my early life, eBook #20150220. The catalogue record for the transcription read above.",
+      "url": "https://www.fadedpage.com/showbook.php?pid=20150220",
+      "type": "primary"
+    },
+    {
+      "text": "Holdier, A. G. (2018). Chronological Snobbery. In Bad Arguments, 311-313. Wiley. Cited for the entry's existence in a fallacy compendium; the chapter was not obtained and the bibliographic details come from its Crossref record.",
+      "doi": "10.1002/9781119165811.ch71",
+      "type": "commentary"
+    },
+    {
+      "text": "Eidelman, S., Crandall, C. S., & Pattershall, J. (2009). The existence bias. Journal of Personality and Social Psychology, 97(5), 765-775. Abstract read at Europe PMC.",
+      "doi": "10.1037/a0017058",
+      "type": "commentary"
+    },
+    {
+      "text": "Eidelman, S., Pattershall, J., & Crandall, C. S. (2010). Longer is better. Journal of Experimental Social Psychology, 46(6), 993-998. Not obtained; closed access with no open copy listed by Unpaywall. Its content is described here from McCabe, Spina and Arndt.",
+      "doi": "10.1016/j.jesp.2010.07.008",
+      "type": "commentary"
+    },
+    {
+      "text": "McCabe, S., Spina, M. R., & Arndt, J. (2016). When existence is not futile: The influence of mortality salience on the longer-is-better effect. British Journal of Social Psychology, 55(3), 600-611. Abstract read at Europe PMC.",
+      "doi": "10.1111/bjso.12143",
+      "type": "commentary"
+    },
+    {
+      "text": "Verstak, A., Acharya, A., Suzuki, H., Henderson, S., Iakhiaev, M., Lin, C. C. Y., & Shetty, N. (2014). On the Shoulders of Giants: The Growing Impact of Older Articles. arXiv:1411.0275. Read in full. Source for every citation-share figure above.",
+      "url": "https://arxiv.org/abs/1411.0275",
+      "type": "commentary"
+    },
+    {
+      "text": "Tinè, F., Attanasio, M., Muggeo, V. M. R., & Crainiceanu, C. M. (2017). Evidence of bias in randomized clinical trials of hepatitis C interferon therapies. Clinical Trials, 14(5), 483-488. Abstract read at Europe PMC. Source for the 11.9% arm difference.",
+      "doi": "10.1177/1740774517715447",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Chronological snobbery. Used to find sources and quoted here as the carrier of the joint-coinage claim and of the page 206 citation, not relied on for anything else.",
+      "url": "https://en.wikipedia.org/wiki/Chronological_snobbery",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
