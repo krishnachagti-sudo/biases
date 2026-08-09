@@ -1,0 +1,100 @@
+{
+  "no": 155,
+  "slug": "power-posing",
+  "name": "Power posing",
+  "aliases": [
+    "Power poses",
+    "Postural feedback",
+    "Expansive posture effect"
+  ],
+  "category": "social",
+  "statement": "Holding an expansive, open posture for two minutes is said to raise testosterone, lower cortisol, increase risk-taking and make a person feel more powerful.",
+  "meaning": "The claim is that posture runs the causal arrow backwards. Powerful animals and powerful people spread out; the hypothesis is that spreading out makes the body and mind behave as a powerful one does. Carney, Cuddy and Yap put four outcomes on that claim at once: a hormone of dominance, a hormone of stress, a gamble, and a self-report. The four are separable, and the fate of the idea turns on keeping them apart. A person can feel more powerful after standing tall without any of it showing up in saliva or in what they do next.",
+  "origin": {
+    "year": 2010,
+    "who": "Dana R. Carney, Amy J.C. Cuddy and Andy J. Yap",
+    "where": "Psychological Science",
+    "note": "Their paper is titled \"Power posing: Brief nonverbal displays affect neuroendocrine levels and risk tolerance\". Its last line claims that two one-minute poses let a person \"embody power and instantly become more powerful\", with \"real-world, actionable implications\". Gronau and colleagues noted in 2017 that the TED talk built on it was then the second most watched of all time."
+  },
+  "evidence": "Forty-two participants, 26 women and 16 men, were posed by an experimenter into two high-power or two low-power positions and held each for one minute. They were told the study was about electrode placement. Saliva was taken before the poses and about 17 minutes after. On testosterone the high-power group rose relative to the low-power group, F(1, 39) = 4.29, p < .05, r = .34. On cortisol it fell, F(1, 38) = 7.45, p < .02, r = .43. Offered $2 or a 50-50 die roll for $4, 86.36% of high-power posers gambled against 60% of low-power posers, chi-square(1, N = 42) = 3.86, p < .05, phi = .30. Asked how powerful and in charge they felt on a four-point scale, the high-power group averaged 2.57 against 1.83, F(1, 41) = 9.53, p < .01, r = .44.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Six preregistered studies put the feelings-of-power effect at d = 0.22, while the testosterone, cortisol and risk-taking results have not survived a single larger test.",
+    "detail": "Ranehill and colleagues ran the first large test in 2015 with 200 participants, 98 women and 102 men, holding each pose for three minutes with the experimenter blind to condition. Self-reported power replicated: a mean difference of 0.245 on the four-point scale, 95% confidence interval 0.044 to 0.446, t(193) = 2.399, p = .017, Cohen's d = 0.344. Nothing else did. Testosterone gave a mean difference of -4.077, 95% confidence interval -9.801 to 1.647, p = .162. Cortisol gave -0.028, 95% confidence interval -0.078 to 0.022, p = .272. Risk-taking in the gain domain gave -0.033, 95% confidence interval -0.085 to 0.019, p = .215. Two further behavioural tasks, risk in the loss domain and willingness to compete, also came out null. Comprehensive Results in Social Psychology then published seven preregistered studies in 2017. Preregistering the set rules out publication bias in advance, which is what separates it from every earlier tally. Six of the seven measured felt power, and Gronau and colleagues meta-analysed those 1,071 participants. Their model-averaged estimate is 0.22, with a 95% highest density interval of 0.09 to 0.34 and a Bayes factor of 33.1 in favour of an effect. Only one of the six studies was individually informative. The hormonal pathway fared differently. Ronay, Tybur, van Huijstee and Morssinkhof tested whether testosterone and overconfidence carry power posing through to risk-taking, and report in their abstract that they could not replicate the original findings and found no support for the extension. Gronau and colleagues state plainly that their meta-analysis covered felt power only and considered no hormonal or behavioural measure.",
+    "study": {
+      "cite": "Gronau, Q. F., van Erp, S., Heck, D. W., Cesario, J., Jonas, K. J., & Wagenmakers, E.-J. (2017). A Bayesian model-averaged meta-analysis of the power pose effect with informed and default priors: the case of felt power. Comprehensive Results in Social Psychology, 2(1), 123-138.",
+      "doi": "10.1080/23743603.2017.1326760",
+      "year": 2017,
+      "n": 1071
+    },
+    "replicated": {
+      "es": 0.22,
+      "esType": "d",
+      "weighting": "model-averaged"
+    }
+  },
+  "limits": "No original effect size sits in the fields above. Carney, Cuddy and Yap report theirs as correlations without intervals, r = .44 for felt power, and a correlation cannot be set against the standardised mean difference the meta-analysis gives. The replicated figure carries no interval because the one Gronau and colleagues give is a Bayesian 95% highest density interval and putting it in a frequentist field would misdescribe it. The felt-power result weakens under one obvious test. Gronau and colleagues reran the meta-analysis on the 809 participants who said they did not know the effect, and the Bayes factor fell from 33.1 to 3.1, moderate rather than very strong. Most of the six studies had not excluded people who had seen the TED talk. That is the shape a demand characteristic makes, and the authors name it as a possibility they cannot settle. Taylor and Francis blocks automated access to the special issue, so the editorial summarising all seven studies and the Ronay paper itself could not be read. Ronay and colleagues' conclusion above is quoted from their abstract, their sample size is not stated here because it was not obtained, and the six studies pooled by Gronau are the only ones whose numbers appear on this page.",
+  "misreadings": "The commonest error is to treat the whole idea as dead because Dana Carney says it is. Her statement, archived on 26 September 2016, is unusually candid: the sample was tiny, data collection stopped in chunks once the effect appeared, the risk-taking p-value of .052 on a Pearson chi-square was reported as .05 from a likelihood ratio instead, and the self-report question was chosen from many that were asked. All of that is evidence about how the 2010 paper was produced. Her conclusion that the effect is not real is her judgement, and a co-author's confidence is not a datum. The second error runs the other way, treating the surviving felt-power effect as vindication of the original. It is not. The 2010 paper's claim was neuroendocrine, and no larger study has recovered the testosterone or cortisol result. The two claims have opposite fates and the word 'power posing' covers both. Simmons and Simonsohn p-curved the 33 studies Carney, Cuddy and Yap cited in 2015 and found no evidential value: neither test for right skew passed, half p = .11 and full p = .63, the curve was flatter than one from studies with 33% average power, p = .0016, and estimated average power was 5%, with a 90% confidence interval excluding anything above 14%. Cuddy, Schultz and Fosse replied in 2018 with a wider set of 55 published studies and found strong evidential value, with right skew at half p = .0009 and estimated average power of 58% for feelings of power specifically. Both are p-curves of published work, and the preregistered special issue is the reason the felt-power question does not rest on either. A last error is to assume the active ingredient is expanding. Elkjaer and colleagues pooled 73 studies in 2022 and found the difference sits with contractive displays against neutral ones, Hedges's g = 0.45, while expansive against neutral gave g = 0.06.",
+  "sources": [
+    {
+      "text": "Carney, D. R., Cuddy, A. J. C., & Yap, A. J. (2010). Power posing: Brief nonverbal displays affect neuroendocrine levels and risk tolerance. Psychological Science, 21(10), 1363-1368.",
+      "doi": "10.1177/0956797610383437",
+      "url": "https://doi.org/10.1177/0956797610383437",
+      "type": "primary"
+    },
+    {
+      "text": "Ranehill, E., Dreber, A., Johannesson, M., Leiberg, S., Sul, S., & Weber, R. A. (2015). Assessing the robustness of power posing: No effect on hormones and risk tolerance in a large sample of men and women. Psychological Science, 26(5), 653-656.",
+      "doi": "10.1177/0956797614553946",
+      "url": "https://doi.org/10.1177/0956797614553946",
+      "type": "replication"
+    },
+    {
+      "text": "Carney, D. R., Cuddy, A. J. C., & Yap, A. J. (2015). Review and summary of research on the embodied effects of expansive (vs. contractive) nonverbal displays. Psychological Science, 26(5), 657-663. The review whose reference list both later p-curves analysed.",
+      "doi": "10.1177/0956797614566855",
+      "url": "https://doi.org/10.1177/0956797614566855",
+      "type": "secondary"
+    },
+    {
+      "text": "Simmons, J. P., & Simonsohn, U. (2017). Power posing: P-curving the evidence. Psychological Science, 28(5), 687-693.",
+      "doi": "10.1177/0956797616658563",
+      "url": "https://doi.org/10.1177/0956797616658563",
+      "type": "secondary"
+    },
+    {
+      "text": "Gronau, Q. F., van Erp, S., Heck, D. W., Cesario, J., Jonas, K. J., & Wagenmakers, E.-J. (2017). A Bayesian model-averaged meta-analysis of the power pose effect with informed and default priors: the case of felt power. Comprehensive Results in Social Psychology, 2(1), 123-138.",
+      "doi": "10.1080/23743603.2017.1326760",
+      "url": "https://doi.org/10.1080/23743603.2017.1326760",
+      "type": "replication"
+    },
+    {
+      "text": "Ronay, R., Tybur, J. M., van Huijstee, D., & Morssinkhof, M. (2017). Embodied power, testosterone, and overconfidence as a causal pathway to risk-taking. Comprehensive Results in Social Psychology, 2(1), 28-43. Quoted here from its abstract; the full text could not be retrieved.",
+      "doi": "10.1080/23743603.2016.1248081",
+      "url": "https://doi.org/10.1080/23743603.2016.1248081",
+      "type": "replication"
+    },
+    {
+      "text": "Jonas, K. J., Cesario, J., Alger, M., et al. (2017). Power poses - where do we stand? Comprehensive Results in Social Psychology, 2(1), 139-141. The editorial closing the special issue; its full text could not be retrieved.",
+      "doi": "10.1080/23743603.2017.1342447",
+      "url": "https://doi.org/10.1080/23743603.2017.1342447",
+      "type": "secondary"
+    },
+    {
+      "text": "Cuddy, A. J. C., Schultz, S. J., & Fosse, N. E. (2018). P-curving a more comprehensive body of research on postural feedback reveals clear evidential value for power-posing effects: Reply to Simmons and Simonsohn (2017). Psychological Science, 29(4), 656-666.",
+      "doi": "10.1177/0956797617746749",
+      "url": "https://doi.org/10.1177/0956797617746749",
+      "type": "secondary"
+    },
+    {
+      "text": "Elkjaer, E., Mikkelsen, M. B., Michalak, J., Mennin, D. S., & O'Toole, M. S. (2022). Expansive and contractive postures and movement: A systematic review and meta-analysis of the effect of motor displays on affective and behavioral responses. Perspectives on Psychological Science, 17(1), 276-304. Figures quoted here are from its abstract.",
+      "doi": "10.1177/1745691620919358",
+      "url": "https://doi.org/10.1177/1745691620919358",
+      "type": "secondary"
+    },
+    {
+      "text": "Carney, D. R. My position on \"power poses\". Undated statement on her University of California, Berkeley faculty page, archived by the Internet Archive on 26 September 2016.",
+      "url": "https://web.archive.org/web/20160926154028/http://faculty.haas.berkeley.edu/dana_carney/pdf_My%20position%20on%20power%20poses.pdf",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
