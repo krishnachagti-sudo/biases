@@ -1,0 +1,73 @@
+{
+  "no": 175,
+  "slug": "horn-effect",
+  "name": "Horn effect",
+  "aliases": [
+    "Horns effect",
+    "Reverse halo effect",
+    "Negative halo",
+    "Devil effect"
+  ],
+  "category": "social",
+  "statement": "One unfavourable impression of a person is said to drag down judgements of everything else about them, the negative counterpart of the halo effect.",
+  "meaning": "The claim borrows its structure from the halo effect and reverses the sign. Halo says a good impression bleeds into unrelated ratings. Horn says a bad one does the same, and management writing usually adds that it does so harder. That last part is a separate claim and it has to be shown rather than assumed. An effect can run in both directions and still be symmetrical, in which case the second name is decoration. The halo entry, number 23, carries Thorndike's original rating data and the argument about what halo error is. This entry is about whether the negative half stands on anything of its own.",
+  "origin": {
+    "year": 1920,
+    "who": "Edward L. Thorndike",
+    "where": "Journal of Applied Psychology",
+    "note": "Thorndike's \"A constant error in psychological ratings\" describes the error in both directions. He writes that raters showed a tendency to think of the person in general as rather good or rather inferior and to colour the judgements of the qualities by this general feeling. He never names a negative version, and the words horn, horns and negative halo appear nowhere in the paper. Where the name itself came from could not be established."
+  },
+  "evidence": "Two literatures bear on the question, and neither was designed to answer it. The first is the physical attractiveness stereotype. Langlois and five colleagues pooled it in eleven meta-analyses in 2000. Differential judgement of adults came out at a weighted 0.50, 95% CI 0.41 to 0.59, over 30 independent samples and 1,880 people. Judgement of children came out at 1.11, 95% CI 1.01 to 1.22, over 13 samples and 1,668 people. Their own limitations section states the problem that matters here. Having reviewed over 900 effect sizes, they wrote that they could conclude only that attractive and unattractive people are judged, treated and behave differently. Because they did not know whether either group differed from people of medium attractiveness, they could not tell whether attractiveness is an advantage, unattractiveness a disadvantage, or both. Almost every study had used two levels. Griffin and Langlois used three. They built six matched sets of three female faces, rated 1.50, 2.39 and 3.41 for attractiveness on five-point scales, and had 285 undergraduates rate each face on sociability, altruism and intelligence. Attractiveness mattered, Wilks's lambda 0.34, F(6, 279) = 90.35, p < .001, eta squared 0.66. The shape of it is the finding. Unattractive faces were rated below medium faces on all three domains, while medium faces fell below attractive faces on sociability alone. A second experiment with 115 children aged 7 to 9 gave the same pattern, Wilks's lambda 0.47, F(6, 109) = 20.12, p < .001, eta squared 0.53. The authors conclude that it is more often the case that unattractiveness is bad than that beauty is good, and read the asymmetry as negativity bias. Real earnings point the same way. Hamermesh and Biddle used interviewer ratings of respondents' looks in three North American surveys. Plain people earn less than people of average looks, they report, who earn less than the good-looking. They put the penalty for plainness at 5 to 10 percent, slightly larger than the premium for beauty. The second literature is newer and uses the name. Mattavelli, Brambilla, Koch and Dono ran four experiments on Prolific, 1,418 people in total and three of the four preregistered, comparing how far information about morality and about ability spreads to the other dimension. In the first, 228 people generated their own moral and able behaviours and rated them on the opposite dimension. Spread was larger from immoral behaviours to inability than from unable behaviours to immorality, t(226) = -4.36, p < .001, d = 0.58, and the matching contrast for positive behaviours was flat, t(226) = 0.12, p = .906, d = 0.02. Two further experiments pooling 487 people moved the judgement from behaviours to faces and found the same asymmetry, F(1, 485) = 5.54, p = .019, eta squared 0.008. A preregistered fourth experiment with 703 valid respondents reproduced it at F(1, 699) = 68.12, p < .001, eta squared 0.065. Targets tied to an immoral act were marked down to -1.51 on ability, while targets tied to an incompetent act sat at -0.55 on morality. Perceived threat mediated the gap, indirect effect -0.38, interval -0.56 to -0.23.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The two lines of evidence that test the negative pole against the positive one disagree about which spreads further.",
+    "detail": "Griffin and Langlois found the attractiveness stereotype loaded on its negative end. Unattractive faces were marked down against the middle of the scale on all three trait domains, and attractive faces were marked up against the middle on one. Mattavelli and colleagues ran the closest thing to a head-to-head test of horn against halo and got the opposite answer on overall magnitude. Generalisation across dimensions was larger for positive behaviours, mean 3.04, than for negative ones, mean 2.38, F(1, 226) = 32.18, p < .001, eta squared 0.033. What was asymmetric in their data sat inside the negative half, between dimensions rather than between valences: immorality dragged down ability ratings more than incompetence dragged down morality ratings. So the negative pole dominates one literature and loses on size in the other. The disagreement is real but the two designs are not comparable, since one attributes traits to faces and the other tracks spread between two content dimensions of judgement. Both papers replicate themselves. Griffin and Langlois repeat their result in children, and Mattavelli and colleagues repeat theirs three times, twice under preregistration. No independent laboratory has repeated either.",
+    "study": {
+      "cite": "Mattavelli, S., Brambilla, M., Koch, A., & Dono, M. (2026). \"If Immoral Then Unable\": Asymmetric Generalizations in Social Judgment. Personality and Social Psychology Bulletin.",
+      "doi": "10.1177/01461672251410724",
+      "year": 2026,
+      "n": 1418
+    }
+  },
+  "limits": "There is no horn effect literature under that name. A Crossref search of bibliographic records on 9 August 2026 for horn effect and horns effect returned nothing in psychology; the hits are dorsal horns, uterine horns, loudspeaker horns and brass instruments. The one reference-work entry Crossref lists under the name, two pages titled \"Horns effect\" in the Encyclopedia of Human Resource Management, is closed access and was not opened. A PubMed title and abstract search on the same date returned eight records, of which two concern impression formation. Every quantity above therefore comes from work filed under something else. Griffin and Langlois print no means or effect sizes for the individual contrasts; those appear only in their figures, and the multivariate statistics quoted here are what the text carries. Hamermesh and Biddle were read at the National Bureau of Economic Research working-paper abstract, which records publication in the American Economic Review in December 1994. The journal article was not opened, and the 5 to 10 percent figure is the abstract's own. Langlois and colleagues report attractive against unattractive throughout, so their effect sizes cannot be split by direction, which is the point they make themselves. Mattavelli and colleagues use horn effect to mean generalisation from negative information, which is narrower than the workplace usage and does not test whether a single bad trait contaminates a whole appraisal form.",
+  "misreadings": "The line repeated most often in management writing is that the horn effect is stronger than the halo effect. The one experiment that has put the two side by side found the reverse for overall spread, with positive behaviours generalising further than negative ones. The asymmetry Mattavelli and colleagues did find is a different thing. Within negative information, immorality spread to ability judgements more than the other way round. That is a claim about morality, not about valence, and quoting it as proof that bad news travels further misstates it. A second error attributes the term to Thorndike. His 1920 paper describes raters colouring every quality with a general impression of a person as rather good or rather inferior, which covers the negative direction, but he coined halo and nothing else. Sources online date the name to a 1956 training manual by Campbell and Knowlton; no such work was located, and the claim appears to originate in an automatically generated encyclopedia page. Griffin and Langlois are also cited loosely. Their subject is what people infer from a face, not whether one poor rating contaminates the ratings beside it. Their unattractive faces lost ground against the middle of the scale on all three domains. Nobody was downgraded on a trait they had been rated highly on.",
+  "sources": [
+    {
+      "text": "Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25-29. Read in full from a scan hosted by MIT, and searched for horn, horns and negative halo, none of which occur.",
+      "doi": "10.1037/h0071663",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/biases/4_J_Applied_Psychology_25_(Thorndike).pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Griffin, A. M., & Langlois, J. H. (2006). Stereotype directionality and attractiveness stereotyping: Is beauty good or is ugly bad? Social Cognition, 24(2), 187-206. Read at PubMed Central, PMC1447532. The source for the three-level design and every statistic attributed to it.",
+      "doi": "10.1521/soco.2006.24.2.187",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1447532/",
+      "type": "primary"
+    },
+    {
+      "text": "Langlois, J. H., Kalakanis, L., Rubenstein, A. J., Larson, A., Hallam, M., & Smoot, M. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390-423. Read in full. The source for the pooled judgement effects and for the statement that two-level designs cannot separate advantage from disadvantage.",
+      "doi": "10.1037/0033-2909.126.3.390",
+      "url": "https://jonathanstray.com/papers/Langlois.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Mattavelli, S., Brambilla, M., Koch, A., & Dono, M. (2026). \"If Immoral Then Unable\": Asymmetric Generalizations in Social Judgment. Personality and Social Psychology Bulletin. Read in full from the copy on the second author's website; data and preregistrations at https://osf.io/rfa76/.",
+      "doi": "10.1177/01461672251410724",
+      "url": "https://www.mbrambilla.com/wp-content/uploads/2026/01/Mattavelli-et-al-in-press-halo.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hamermesh, D. S., & Biddle, J. E. (1993). Beauty and the labor market. NBER Working Paper 4518. Abstract read at the NBER, which records publication in the American Economic Review, 84, December 1994, pages 1174-1194. The journal version was not opened.",
+      "doi": "10.3386/w4518",
+      "url": "https://www.nber.org/papers/w4518",
+      "type": "primary"
+    },
+    {
+      "text": "Rowley, C., Ramasamy, N., & Cox, A. (Eds.) (2023). Horns effect. In Encyclopedia of Human Resource Management, pages 172-173. Cited for its existence, as the only reference-work record Crossref returns under the name. Closed access and not opened.",
+      "doi": "10.4337/9781800378841.h.9",
+      "url": "https://doi.org/10.4337/9781800378841.h.9",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
