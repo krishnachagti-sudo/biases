@@ -1,0 +1,86 @@
+{
+  "no": 95,
+  "slug": "law-of-the-instrument",
+  "name": "Law of the instrument",
+  "aliases": [
+    "Maslow's hammer",
+    "Golden hammer",
+    "Birmingham screwdriver"
+  ],
+  "category": "decision",
+  "statement": "Skill with a particular tool shapes which problems a person takes on, so the tool gets applied where it does not fit.",
+  "meaning": "Abraham Kaplan's claim is about choosing problems rather than solving them. A researcher who is good at a technique will frame questions that technique can answer, and will treat the rest as somebody else's business. Kaplan set the point beside a line he quotes from R. A. Fisher, that a brilliant result lends prestige to the method behind it 'even in applications to which it has no special appropriateness'. His illustration is pilot selection: one psychologist runs depth interviews, a second uses projective tests, a third applies statistics to questionnaire data, and a fourth dismisses the problem as practical rather than scientific. He extends the argument to measurement, where 'the contemporary mystique of quantity' follows from owning powerful measuring techniques rather than from the subject matter requiring them. Maslow's later version moves the emphasis from the person's training to the tool in hand, and it is the version that travelled.",
+  "origin": {
+    "year": 1964,
+    "who": "Abraham Kaplan",
+    "where": "The Conduct of Inquiry: Methodology for Behavioral Science",
+    "note": "Kaplan names and states the law on page 28: 'I call it the law of the instrument, and it may be formulated as follows: Give a small boy a hammer, and he will find that everything he encounters needs pounding.' Quote Investigator reports an earlier oral version at an American Educational Research Association meeting in February 1962, and an 1868 antecedent in the London weekly Once a Week; neither was opened for this entry. Maslow's hammer sentence is two years later and is a different sentence, described below."
+  },
+  "evidence": "Nothing in the literature tests the law as Kaplan stated it. Two measured phenomena sit beside it. The first is functional fixedness, named by Karl Duncker in 1945, where an object's ordinary function blocks its use for something else. Robert Adamson repeated three of Duncker's experiments in 1952 and reported that using the solution objects for their normal purpose first produced the effect, though that paper is paywalled and its solution rates are not quoted here. German and Defeyter ran the same design on 60 children in 2000. Among seven-year-olds, 40% used a box as a step when the other objects had been presented inside it, against 89% when the objects sat beside it, Fisher's exact test p = .04. Five-year-olds showed no such gap, U = 21, not significant, and solved it faster than the older children when the box had been used as a container. The second phenomenon is the Einstellung effect, Abraham Luchins' 1942 water-jar result that a practised method blocks a shorter one. Bilalić, McLeod and Gobet carried the paradigm into chess. Shown a position with a familiar five-move smothered mate and an unfamiliar three-move mate, all six Grandmasters found the three-move mate, against 50% of six International Masters, 18% of 11 Masters and none of 11 Candidate Masters. Every one of those players found it once the smothered mate was disabled by moving a single piece. Twelve experts shown both solutions predicted that 86%, 74% and 59% of those three ranks would find it. The familiar solution cost the experts about three standard deviations of playing strength. A companion study tracked the eyes of ten Candidate Masters. Players who had spotted the smothered mate all reported hunting for something shorter, and their gaze stayed on the squares belonging to the solution they already had, with no change across six time intervals, F(5, 20) = 0.6, not significant. Players given the version without the smothered mate shifted their gaze towards the squares that mattered, F(5, 20) = 11.9, p < .001.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No test of the law of the instrument was found, because nobody has turned it into a hypothesis; the nearest measured things are functional fixedness and the Einstellung effect, and both are narrower than the law."
+  },
+  "limits": "The law is an aphorism about how researchers pick problems, and it has never been operationalised. Searches of Crossref, PubMed, Semantic Scholar, Unpaywall and the open web under law of the instrument, Maslow's hammer and golden hammer returned commentary, glossaries and management essays, and no experiment, replication or meta-analysis that measures the claim. The neighbouring work measures something smaller. Functional fixedness concerns one object and one unusual use of it. Einstellung concerns one practised method inside one task, with the alternative sitting in the same problem. Neither asks whether owning a method changes which problems a person chooses to work on, which is what Kaplan asserted. Three documents wanted here were not opened. Adamson's 1952 paper is paywalled at the American Psychological Association and Unpaywall lists no open copy, so its solution rates are absent. Luchins' 1942 monograph was not obtained, which is why no water-jar figures appear above. The 1868 antecedent was not read: Quote Investigator gives a page-level citation to a Google Books full-view scan of Once a Week for 18 April 1868, page 344, and that scan would not return the passage during this task. So the oldest wording quoted on this page is Kaplan's.",
+  "misreadings": "The sentence everyone quotes belongs to nobody. Maslow wrote 'I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail', which circulates as the tidier 'if all you have is a hammer, everything looks like a nail'. Maslow never called it the law of the instrument, and the edition searched for this entry does not mention Kaplan anywhere. Kaplan's version is about a small boy, and it is the earlier one in print. Ralph Keyes, quoted by Quote Investigator, records the saying being credited 'to everyone from Buddha to Bernard Baruch', with Mark Twain the commonest recipient on no evidence. Kaplan also did not present the law as a straight failure. He wrote that it is 'by no means wholly pernicious in its working', asking with Peirce what else a person is to do with an idea but ride it hard and leave others to hold it back. Treating the law as identical to functional fixedness is the last error. Fixedness is failing to see a second use for an object on the table. Kaplan's claim is that a researcher never puts the awkward problem on the table at all.",
+  "sources": [
+    {
+      "text": "Kaplan, A. (1964). The Conduct of Inquiry: Methodology for Behavioral Science. San Francisco: Chandler. The law is named and stated on page 28 and qualified on page 29. Read here from a scanned reprint held by the Internet Archive.",
+      "url": "https://archive.org/details/in.ernet.dli.2015.148988",
+      "type": "primary"
+    },
+    {
+      "text": "Kaplan, A. (1964). The Age of the Symbol: A Philosophy of Library Education. The Library Quarterly, 34(4), 295-304. Reported by Quote Investigator to carry the same formulation in the same year; paywalled and not read for this entry.",
+      "doi": "10.1086/619264",
+      "url": "https://doi.org/10.1086/619264",
+      "type": "primary"
+    },
+    {
+      "text": "Maslow, A. H. (1966). The Psychology of Science: A Reconnaissance. The hammer sentence sits in chapter 2, after the passage about the automatic car wash. Read here from the Maurice Bassett digital edition of 2002.",
+      "url": "https://fumaca.pt/wp-content/uploads/2022/12/The-Psychology-of-Science_-A-Reconnaissance-PDFDrive-.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Duncker, K. (1945). On problem-solving. Psychological Monographs, 58(5), i-113. The source of functional fixedness and the candle problem; named here, not read.",
+      "doi": "10.1037/h0093599",
+      "url": "https://doi.org/10.1037/h0093599",
+      "type": "primary"
+    },
+    {
+      "text": "Adamson, R. E. (1952). Functional fixedness as related to problem solving: a repetition of three experiments. Journal of Experimental Psychology, 44(4), 288-291. Paywalled; no figure from it is quoted here.",
+      "doi": "10.1037/h0062487",
+      "url": "https://doi.org/10.1037/h0062487",
+      "type": "replication"
+    },
+    {
+      "text": "German, T. P., & Defeyter, M. A. (2000). Immunity to functional fixedness in young children. Psychonomic Bulletin & Review, 7(4), 707-712. Source of the children's figures above.",
+      "doi": "10.3758/BF03213010",
+      "url": "https://doi.org/10.3758/BF03213010",
+      "type": "replication"
+    },
+    {
+      "text": "Luchins, A. S. (1942). Mechanization in problem solving: The effect of Einstellung. Psychological Monographs, 54(6), i-95. Not obtained; no figure from it is quoted here.",
+      "doi": "10.1037/h0093502",
+      "url": "https://doi.org/10.1037/h0093502",
+      "type": "primary"
+    },
+    {
+      "text": "Bilalić, M., McLeod, P., & Gobet, F. (2008). Inflexibility of experts: Reality or myth? Quantifying the Einstellung effect in chess masters. Cognitive Psychology, 56(2), 73-102. Source of the chess percentages and the three standard deviations.",
+      "doi": "10.1016/j.cogpsych.2007.02.001",
+      "url": "https://doi.org/10.1016/j.cogpsych.2007.02.001",
+      "type": "replication"
+    },
+    {
+      "text": "Bilalić, M., McLeod, P., & Gobet, F. (2008). Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect. Cognition, 108(3), 652-661. Source of the eye-movement result; read from the authors' accepted manuscript in the Brunel repository.",
+      "doi": "10.1016/j.cognition.2008.05.005",
+      "url": "https://doi.org/10.1016/j.cognition.2008.05.005",
+      "type": "replication"
+    },
+    {
+      "text": "Quote Investigator (2014). Quote Origin: If Your Only Tool Is a Hammer Then Every Problem Looks Like a Nail. Used here as an index to the 1868 and 1962 antecedents and for the Ralph Keyes line on misattribution, both at one remove.",
+      "url": "https://quoteinvestigator.com/2014/05/08/hammer-nail/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
