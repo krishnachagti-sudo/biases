@@ -1,0 +1,74 @@
+{
+  "no": 177,
+  "slug": "ludic-fallacy",
+  "name": "Ludic fallacy",
+  "aliases": ["Uncertainty of the nerd", "Ludic bias"],
+  "category": "belief",
+  "statement": "The ludic fallacy is Nassim Taleb's charge that studying chance through games and dice misleads, because real uncertainty hides the rules as well as the odds.",
+  "meaning": "Taleb's glossary defines it as 'the manifestation of the Platonic fallacy in the study of uncertainty; basing studies of chance on the narrow world of games and dice', and adds that real randomness carries 'an additional layer of uncertainty concerning the rules of the game in real life'. In a casino the probabilities are fixed by the house, bounded and computable. Outside it the distribution is unknown, the payoffs can be unbounded, and the rules can change while the game is running. Taleb's prepared line for the talk where he coined the phrase was that he should not be speaking at a casino, since it had nothing to do with uncertainty. The complaint is aimed at models and at the way probability is taught. It is not a claim about a measurable tendency in individuals, and Taleb names no experiment and reports no data for it. That places the ludic fallacy among criticisms of method rather than among effects with an effect size. The question that has been measured is narrower: whether laboratory gambles capture anything that survives outside the laboratory.",
+  "origin": {
+    "year": 2007,
+    "who": "Nassim Nicholas Taleb",
+    "where": "The Black Swan: The Impact of the Highly Improbable",
+    "note": "Chapter 9 is titled 'The Ludic Fallacy, or the Uncertainty of the Nerd'. Taleb writes that he coined the phrase for a symposium on risk sponsored by a United States Defense Department think tank and held at a Las Vegas casino. The book returns to it in a later section called 'Ludic Fallacy Redux', which lists the chance setups he has in mind: random walks, dice throwing, coin flipping, digital heads or tails, and Brownian motion. He calls the randomness those produce protorandomness. The text quoted here was read in the Penguin edition of 2008, ISBN 978-0-141-90620-1, first published in the United States by Random House in 2007."
+  },
+  "evidence": "Taleb's own support for the claim is a single anecdote. He reports that the four largest losses incurred or narrowly avoided by the casino hosting the symposium all fell outside its models: around $100 million when a performer in its main show was maimed by a tiger, a thwarted attempt by an aggrieved contractor to dynamite the building, an employee who hid mandatory tax forms in boxes under his desk for years, and the kidnapping of the owner's daughter. He then offers 'a back-of-the-envelope calculation' putting the dollar value of these off-model hits at close to 1,000 times the on-model risks. The casino is not named, three of the four losses are not quantified, and the ratio is his own arithmetic on figures he does not print. What has been measured is the reliability of the game-like tasks themselves. Pedroni and colleagues gave six incentivised behavioural elicitation methods to 1,507 healthy adults aged 20 to 36 in Basel and Berlin, among them the Holt and Laury lotteries, the balloon analogue risk task, the Columbia card task, a marbles task, multiple price lists and adaptive lotteries. The share of participants classified as risk averse ran from 100% on the balloon task to 21% on the Columbia card task, and 88% of participants switched between risk averse and risk seeking at least once across the six methods. Rank-order correlations between methods were all positive but ran from 0.06 to 0.34, with a median Spearman correlation of 0.11. Fitting cumulative prospect theory to three of the methods did not rescue the picture: median loss aversion came out at 0.43 on the Columbia card task, against 1.36 and 1.64 on the price lists and adaptive lotteries. Frey and colleagues analysed the same 1,507 participants across 39 risk-taking measures drawn from three traditions, self-reported propensity, incentivised behavioural tasks, and reported frequencies of real risky activities. Correlations between behavioural and propensity measures had a posterior mode of 0.06, with a 95% highest-density interval of 0.05 to 0.06. Correlations among the behavioural measures themselves averaged 0.08, against 0.20 among the propensity measures and 0.18 among the frequency measures. In a retest subsample of 109 people six months later, propensity measures averaged 0.68 and frequency measures 0.65, while behavioural measures averaged 0.46. A bifactor model accounted for 31% of the variance, of which a general factor of risk preference took 61%, and that factor explained little to none of the variance in the behavioural tasks. A stricter version of the model kept 13 of the 39 measures and excluded every behavioural one. Lönnqvist and colleagues ran the comparison directly at Bonn with 232 subjects between December 2007 and February 2008. The Holt and Laury lottery task and a questionnaire measure of risk attitude were uncorrelated, at a Spearman correlation of -0.04. Retested about a year later, the questionnaire held at 0.780 while the lottery task reached only 0.258, p = 0.095. The questionnaire predicted how much subjects sent in a trust game, at 0.231, p = 0.013; the lottery task did not, at 0.151, p = 0.107. Dohmen and colleagues put the same contest to the field. Their survey covered 22,019 individuals in 11,803 households in the 2004 wave of the German Socio-Economic Panel, and their validation experiment interviewed a representative sample of 450 adults at home between 9 June and 4 July 2005, each choosing across 20 rows between a safe sum and a lottery paying 300 euros or nothing with equal probability. Answers to a single general question about willingness to take risks predicted every behaviour they examined, including traffic offences, portfolio choice, smoking, occupational choice, sport and migration, while the standard lottery measure did not. Laboratory lotteries are not useless: Anderson and Mellor, using the Holt and Laury task with adults aged 18 to 87, report risk aversion negatively and significantly associated with cigarette smoking, heavy drinking, being overweight or obese, and seat belt non-use. Levitt and List set out the general case for caution, arguing that laboratory behaviour responds to five things besides money, namely moral and ethical considerations, scrutiny by others, the context the decision sits in, self-selection into the experiment, and the size of the stakes.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No test of the ludic fallacy was found. It is a criticism of how uncertainty is modelled and taught, and nobody appears to have turned it into a claim about people that could pass or fail.",
+    "detail": "The nearest measured question is whether game-like laboratory tasks measure a stable thing. On that, the numbers favour Taleb's suspicion of the tasks. Six incentivised elicitation methods given to the same 1,507 people agreed at a median rank correlation of 0.11, and 88% of participants changed category at least once across them. Across 39 measures in the same sample, behavioural tasks correlated with self-reported propensity at 0.06 and with each other at 0.08. The same data cut the other way for stated preferences. Self-report measures converged at 0.20, held a six-month retest reliability of 0.68, and yielded a general factor of risk preference that retested at 0.85 and generalised to reported real-world activities such as smoking. What looks fragile is the laboratory gamble, which is the closest thing psychology has to Taleb's casino, rather than the measurement of risk preference as such."
+  },
+  "limits": "Nothing here tests the fallacy. A search for an empirical study of it covered Crossref by title and bibliographic query, Europe PMC, arXiv and general web search. Europe PMC returns two records for the phrase, a 2020 Frontiers in Psychology piece on the practice of experimental psychology and a 2023 Frontiers in Neuroergonomics piece on normative uncertainty, and neither is a study of human subjects. arXiv returns none. Crossref returns no work whose title contains the phrase. A search of OpenAlex could not be run, because the API refused the request for want of quota. Taleb's casino figures cannot be checked at all: the venue is unnamed, the amounts beyond the first are withheld, and the 1,000-to-1 ratio is his own estimate. The elicitation results describe young adults, mostly students, choosing over modest stakes, and Pedroni's sample was aged 20 to 36. The Frey intervals are Bayesian highest-density intervals around posterior modes and are not confidence intervals. Two papers were read in working-paper form rather than as published: the Lönnqvist figures come from SOEPpapers 370 of 2011, and the Dohmen figures from IZA Discussion Paper 1730 of 2005, so both may differ from the journal versions cited alongside them. Anderson and Mellor was read only as its abstract, which gives no sample size. Levitt and List concern social preference games rather than risk, and their argument is analytic rather than a measurement of the lab-field gap.",
+  "misreadings": "The dialogue everyone quotes is read backwards. Taleb asks two characters the odds of tails after a stipulated fair coin has come up heads 99 times. Dr John says one half; Fat Tony says no more than 1%, because 'the coin gotta be loaded'. That looks like the gambler's fallacy, and Taleb's own gloss is the opposite: he translates Tony as saying it is far more likely that the assumption of fairness is wrong than that a fair coin delivered 99 heads. The exchange is about a premise, not about a sequence. The second error is to file the ludic fallacy with the cognitive biases and expect it to have an effect size. It was coined as a criticism of models and of teaching, and showing that a model omits something is not the same as showing that people commit an error. A third error reads it as a rejection of probability theory. Taleb's complaint is about applying machinery built for known odds where the odds are unknown, and his glossary treats the bell curve as the application of the ludic fallacy to randomness rather than treating calculation itself as the problem. The elicitation literature is also claimed as vindication more broadly than it supports. It shows that incentivised laboratory gambles disagree with each other and predict poorly. It also shows that asking people a plain question about their willingness to take risks works better, which is not an argument that risk preference cannot be measured.",
+  "sources": [
+    {
+      "text": "Taleb, N. N. (2007). The Black Swan: The Impact of the Highly Improbable. Read in the Penguin Books edition of 2008, ISBN 978-0-141-90620-1, as the scanned full text at the Internet Archive. Chapter 9 and the glossary supply the definition, the coinage, the casino anecdote and the coin dialogue.",
+      "url": "https://archive.org/details/the-black-swan-the-impact-of-the-highly-improbable-nassim-nicholas-taleb",
+      "type": "primary"
+    },
+    {
+      "text": "Pedroni, A., Frey, R., Bruhin, A., Dutilh, G., Hertwig, R., & Rieskamp, J. (2017). The risk elicitation puzzle. Nature Human Behaviour, 1(11), 803-809. Read as the author copy hosted at gwern.net.",
+      "doi": "10.1038/s41562-017-0219-x",
+      "url": "https://gwern.net/doc/statistics/decision/2017-pedroni.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Frey, R., Pedroni, A., Mata, R., Rieskamp, J., & Hertwig, R. (2017). Risk preference shares the psychometric structure of major psychological traits. Science Advances, 3(10), e1701381. Full text read at Europe PMC, PMC5627985.",
+      "doi": "10.1126/sciadv.1701381",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5627985/",
+      "type": "primary"
+    },
+    {
+      "text": "Lönnqvist, J.-E., Verkasalo, M., Walkowitz, G., & Wichardt, P. C. (2011). Measuring individual risk attitudes in the lab: Task or ask? An empirical comparison. SOEPpapers on Multidisciplinary Panel Data Research No. 370. The sample sizes and correlations quoted here were read from this working paper at EconStor.",
+      "url": "https://www.econstor.eu/bitstream/10419/150915/1/diw_sp0370.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Lönnqvist, J.-E., Verkasalo, M., Walkowitz, G., & Wichardt, P. C. (2015). Measuring individual risk attitudes in the lab: Task or ask? An empirical comparison. Journal of Economic Behavior & Organization, 119, 254-266. The published version; not obtained. Cited so a reader can find it, with the figures above taken from the 2011 working paper.",
+      "doi": "10.1016/j.jebo.2015.08.003",
+      "type": "primary"
+    },
+    {
+      "text": "Dohmen, T., Falk, A., Huffman, D., Sunde, U., Schupp, J., & Wagner, G. G. (2005). Individual Risk Attitudes: New Evidence from a Large, Representative, Experimentally-Validated Survey. IZA Discussion Paper No. 1730. Sample sizes, the lottery design and the predictive comparison were read from this paper.",
+      "url": "https://docs.iza.org/dp1730.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dohmen, T., Falk, A., Huffman, D., Sunde, U., Schupp, J., & Wagner, G. G. (2011). Individual risk attitudes: measurement, determinants, and behavioral consequences. Journal of the European Economic Association, 9(3), 522-550. The published version of the work above; not obtained.",
+      "doi": "10.1111/j.1542-4774.2011.01015.x",
+      "type": "primary"
+    },
+    {
+      "text": "Anderson, L. R., & Mellor, J. M. (2008). Predicting health behaviors with an experimental measure of risk preference. Journal of Health Economics, 27(5), 1260-1274. Read only as the abstract at Europe PMC, PMID 18621427.",
+      "doi": "10.1016/j.jhealeco.2008.05.011",
+      "type": "primary"
+    },
+    {
+      "text": "Levitt, S. D., & List, J. A. (2007). What Do Laboratory Experiments Measuring Social Preferences Reveal About the Real World? Journal of Economic Perspectives, 21(2), 153-174. Full text read as a PDF copy of the JSTOR scan.",
+      "doi": "10.1257/jep.21.2.153",
+      "url": "https://www.sjsu.edu/people/tom.means/courses/econ201/s2/Levitt-ListJELv21n2.pdf",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
