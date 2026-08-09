@@ -1,0 +1,126 @@
+{
+  "no": 156,
+  "slug": "social-priming",
+  "name": "Social priming",
+  "aliases": [
+    "Behavioural priming",
+    "Behavioral priming",
+    "Automatic social behaviour",
+    "Elderly priming",
+    "Professor priming"
+  ],
+  "category": "social",
+  "statement": "Brief exposure to words or images tied to a stereotype makes people act it out, so priming the elderly stereotype is said to slow their walking.",
+  "meaning": "The claim is that a small, incidental input produces a large, unrelated action. A few words hidden in a puzzle activate a trait concept or a stereotype, the concept spreads to the behaviour it implies, and the person then walks, interrupts or answers questions in line with it, without noticing why. What makes it social priming rather than any other kind is the output: complex overt behaviour, measured minutes later, in a task the participant thinks is separate. Priming in cognitive psychology is a different claim with the same name. There a prime speeds recognition of a related word by milliseconds, and the effect is about processing the next stimulus rather than about conduct. The two are often reported as one field, and the evidence for them is not the same.",
+  "origin": {
+    "year": 1996,
+    "who": "John A. Bargh, Mark Chen and Lara Burrows",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their paper, \"Automaticity of social behavior\", ran three experiments and gave the field its founding demonstrations. Priming as a term is older and belongs to cognitive psychology, where Meyer and Schvaneveldt had shown word-recognition facilitation in 1971. Bargh and colleagues moved the dependent variable from perception to action."
+  },
+  "evidence": "Bargh, Chen and Burrows used a scrambled-sentence task of 30 items as the prime. In Experiment 1, 34 New York University students were primed with rude words, polite words or neither, then had to interrupt an experimenter who was busy talking. Experiments 2a and 2b are the famous ones. Thirty students took part in each, half getting a version of the puzzle seeded with 29 elderly-stereotype words including Florida, bingo, wrinkle and forgetful. A confederate sitting in the corridor with a hidden stopwatch timed the walk from the laboratory door to a strip of tape 9.75 metres away. In 2a the primed group took 8.28 seconds against 7.30 for controls, t(28) = 2.86, p < .01. In 2b it was 8.20 against 7.23, t(28) = 2.16, p < .05. A separate check on 19 students found one who noticed any link between the words and old age, and that one could not say which way it would push. Experiment 3 flashed subliminal photographs of young African American or Caucasian faces to 41 participants during a tedious computer task, then staged a data-loss error and rated the reaction: hostility 2.79 against 2.13, F(1, 39) = 6.95, p < .05. Two years later Ap Dijksterhuis and Ad van Knippenberg reported four experiments in which asking people to think about a professor raised general-knowledge scores and asking them to think about a soccer hooligan lowered them. Shanks and colleagues put the effect sizes in those original experiments at 0.83 to 1.35.",
+  "replication": {
+    "state": "failed",
+    "headline": "Twenty-three laboratories ran the professor prime on 4,493 people and the gap in trivia score was 0.14 percentage points.",
+    "detail": "The Registered Replication Report tested a 30-question version of Dijksterhuis and van Knippenberg's Study 4, using the procedure from two unpublished follow-ups that Dijksterhuis ran himself to verify the protocol. Forty laboratories collected data and 23 met every inclusion rule. Across those 23, professor-primed participants answered 0.042 more questions correctly than hooligan-primed ones, a difference of 0.14 percentage points, 95% confidence interval -0.71 to 1.00. Heterogeneity between labs was no more than chance would give: tau = 0.86, I-squared 17.43 percent, Q(22) = 28.09, p = .17. Including all 40 laboratories and 6,454 participants moved the estimate to -0.02 percentage points, 95% CI -0.77 to 0.73, in the wrong direction. The original reported 13.1 percent, a figure quoted here from the replication report. Dijksterhuis's own two follow-ups had already come in at 2 to 3 percent overall, with the effect confined to men, 9.3 and 7.6 percent, and absent in women, 0.3 and -0.3 percent. That gender split did not appear either: men 0.01 percent, 95% CI -1.38 to 1.41, women 0.02 percent, 95% CI -0.92 to 0.96. One exploratory cut did produce something. Dropping everyone who said at debriefing that a link between the two tasks was possible removed 62.7 percent of the sample and left a 2.07 percent advantage, 95% CI 0.57 to 3.57. Dropping everyone who answered yes to either awareness question removed 65.9 percent and gave 2.32 percent, 95% CI 0.79 to 3.86. Neither analysis was preregistered, the gender pattern inside the second one ran backwards, and across all 40 labs the same cut fell to 1.24 percent with an interval crossing zero.",
+    "study": {
+      "cite": "O'Donnell, M., Nelson, L. D., Ackermann, E., Aczel, B., et al. (2018). Registered Replication Report: Dijksterhuis and van Knippenberg (1998). Perspectives on Psychological Science, 13(2), 268-294.",
+      "doi": "10.1177/1745691618755704",
+      "year": 2018,
+      "sites": 23,
+      "n": 4493
+    },
+    "replicated": {
+      "es": 0.14,
+      "esType": "md",
+      "unit": "percentage points correct on a 30-question trivia test",
+      "ci": [
+        -0.71,
+        1.0
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    }
+  },
+  "limits": "The walking study has its own record, separate from the professor prime. Doyen, Klein, Pichon and Cleeremans ran 120 Belgian students through the elderly prime in 2012 with infrared sensors replacing the stopwatch, and got 6.27 seconds primed against 6.39 unprimed, F(1, 119) < 1. Their second experiment briefed ten experimenters on what to expect. Where the experimenter had been told primed participants walk slower, they did: 6.95 against 6.52 seconds by sensor, F(1, 24) = 7.07, p = .014. Where the experimenter had been told the opposite, there was nothing, 6.07 against 6.01, F(1, 24) = 0.231, p = .636. The experimenters' own stopwatch readings exaggerated the pattern further, which is the observer-expectancy effect measured inside a priming study. Shanks and colleagues tried the professor prime nine times on 475 people in 2013, across variants including in-group manipulations and self-construal, and got nothing every time, with a Bayes factor of 12.1 favouring the null when the experiments were pooled. Many Labs 1 tested 13 effects across 36 samples and 6,344 participants, and its two priming items were the two that failed outright: flag priming on conservatism, original d = 0.50, and currency priming on system justification, original d = 0.80. Each had one sample out of 36 reaching p < .05, and for flag priming that one ran the wrong way. Many Labs 2 carried two more. Temperature priming of climate concern gave d = -0.03, 95% CI -0.09 to 0.03, against an original 0.31. Consumer priming of trust survived at d = 0.12, 95% CI 0.07 to 0.17, against an original 0.87, so the direction held and the size did not. Against all this sits a meta-analysis. Weingarten and colleagues pooled 352 effect sizes from 133 studies of incidentally presented word primes in 2016 and found d = 0.352, 95% CI 0.294 to 0.409, holding at 0.312 after trim-and-fill. Their own Egger regression found a small-study effect, and the studies pooled are the published ones, which is the literature the multilab tests were built to bypass.",
+  "misreadings": "The commonest error is to read the collapse of social priming as the collapse of priming. Semantic and associative priming in cognitive psychology is a separate finding, measured in reaction times, and it survives. Lucas pooled 116 observations from 26 studies covering 3,882 subjects and found semantic priming at an average d of 0.26 and associative priming at 0.51. Shanks and colleagues make the same distinction when explaining their nulls: word priming generalises narrowly and any unconscious component is short-lived. Nothing in the replication record touches that. The second error concerns Doyen's second experiment. It shows that experimenter expectancy can manufacture the walking effect, not that it did so in 1996. Bargh's reply, a Psychology Today post titled \"Nothing in Their Heads\" that he later deleted, rested on exactly that point: he wrote that his experimenter was blind to hypothesis and condition and did not collect the walking times, and the 1996 paper does describe blinding of the experimenter through prepackaged puzzles. It also says the timing was done by a confederate with a hidden stopwatch, and it does not say what that confederate knew. The same post called PLoS ONE a journal without the usual peer-review scrutiny and the coverage of the failure superficial online science journalism. The third error is about Daniel Kahneman. His letter of 26 September 2012 to researchers on a list supplied largely by Bargh is often described as a repudiation of priming, and it is not. He wrote that he saw \"a train wreck looming\", that the field was \"the poster child for doubts about the integrity of psychological research\", and that its members should build a daisy chain of five laboratories replicating each other's chosen effects. He also wrote \"count me as a general believer\" and said he was sceptical of replications by investigators new to priming. The letter was a demand for a collective test, and the tests that followed are the ones above.",
+  "sources": [
+    {
+      "text": "Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. Journal of Personality and Social Psychology, 71(2), 230-244.",
+      "doi": "10.1037/0022-3514.71.2.230",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Bargh_et_al_1996_Automaticity_of_social_behavior.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dijksterhuis, A., & van Knippenberg, A. (1998). The relation between perception and behavior, or how to win a game of trivial pursuit. Journal of Personality and Social Psychology, 74(4), 865-877. Read here from its abstract; the 13.1 percent figure is quoted from the 2018 replication report.",
+      "doi": "10.1037/0022-3514.74.4.865",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9569649/",
+      "type": "primary"
+    },
+    {
+      "text": "Doyen, S., Klein, O., Pichon, C.-L., & Cleeremans, A. (2012). Behavioral priming: It's all in the mind, but whose mind? PLoS ONE, 7(1), e29081.",
+      "doi": "10.1371/journal.pone.0029081",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029081",
+      "type": "replication"
+    },
+    {
+      "text": "Shanks, D. R., Newell, B. R., Lee, E. H., Balakrishnan, D., Ekelund, L., Cenac, Z., Kavvadia, F., & Moore, C. (2013). Priming intelligent behavior: An elusive phenomenon. PLoS ONE, 8(4), e56515.",
+      "doi": "10.1371/journal.pone.0056515",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056515",
+      "type": "replication"
+    },
+    {
+      "text": "O'Donnell, M., Nelson, L. D., Ackermann, E., Aczel, B., et al. (2018). Registered Replication Report: Dijksterhuis and van Knippenberg (1998). Perspectives on Psychological Science, 13(2), 268-294.",
+      "doi": "10.1177/1745691618755704",
+      "url": "https://discovery.ucl.ac.uk/10046922/1/O%27Donnell%20et%20al.%20FINAL.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"Many Labs\" replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "url": "https://stanford.edu/~knutson/jdm/klein14.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "http://eprints.lse.ac.uk/91159/1/Kappes_Many-labs-2.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Weingarten, E., Chen, Q., McAdams, M., Yi, J., Hepler, J., & Albarracin, D. (2016). From primed concepts to action: A meta-analysis of the behavioral effects of incidentally presented words. Psychological Bulletin, 142(5), 472-497.",
+      "doi": "10.1037/bul0000030",
+      "url": "https://socialactionlab.org/wp-content/uploads/2024/01/Weingarten_From-Primed-Concepts-to-Action-A-Meta-Analysis-of-the-Behavioral-Effects-of-Incidentally-Presented-Words_2016.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "Lucas, M. (2000). Semantic priming without association: A meta-analytic review. Psychonomic Bulletin & Review, 7(4), 618-630. Cited for the cognitive priming literature, which is a separate claim.",
+      "doi": "10.3758/BF03212999",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03212999.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "Meyer, D. E., & Schvaneveldt, R. W. (1971). Facilitation in recognizing pairs of words: Evidence of a dependence between retrieval operations. Journal of Experimental Psychology, 90(2), 227-234. Named from its Crossref record for the date of the cognitive usage; its text was not read here.",
+      "doi": "10.1037/h0031564",
+      "url": "https://doi.org/10.1037/h0031564",
+      "type": "primary"
+    },
+    {
+      "text": "Kahneman, D. (2012). A proposal to deal with questions about priming effects. Open letter of 26 September 2012, published by Nature as supplementary material.",
+      "url": "https://www.nature.com/news/polopoly_fs/7.6716.1349271308!/suppinfoFile/Kahneman%20Letter.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Yong, E. (2012). Nobel laureate challenges psychologists to clean up their act. Nature, 3 October 2012. The news report that published the Kahneman letter.",
+      "doi": "10.1038/nature.2012.11535",
+      "url": "https://doi.org/10.1038/nature.2012.11535",
+      "type": "secondary"
+    },
+    {
+      "text": "Bargh, J. A. (2012). Nothing in Their Heads: Debunking the Doyen et al. claims regarding the elderly-priming study. The Natural Unconscious, Psychology Today, 5 March 2012. Since removed; read here from an archived copy.",
+      "url": "https://replicationindex.com/wp-content/uploads/2020/07/bargh-nothingintheirheads.pdf",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
