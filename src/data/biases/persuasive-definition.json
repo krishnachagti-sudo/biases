@@ -1,0 +1,83 @@
+{
+  "no": 227,
+  "slug": "persuasive-definition",
+  "name": "Persuasive definition",
+  "aliases": ["Persuasive definitions", "Persuasive quasi-definition"],
+  "category": "belief",
+  "statement": "A persuasive definition redraws what a loaded word covers while keeping the approval or disgust the word already carries, so a verdict arrives dressed as a meaning.",
+  "meaning": "Charles Stevenson's 1937 account of ethical language sets up the idea. He treats the emotive meaning of a word as 'a tendency of a word, arising through the history of its usage, to produce (result from) affective responses in people', and separates that from what the word describes. 'Old maid' and 'elderly spinster' pick out the same person and differ in the feeling they carry. A persuasive definition exploits the gap. The speaker keeps the warm or hostile charge attached to a familiar term and quietly moves the boundary of what the term applies to, so that hearers transfer their existing attitude to a new set of cases. Pruś and Aberdein describe the manoeuvre as changing the sense or reference of a term while leaving its tone untouched, and they separate it from the persuasive quasi-definition, which changes the tone and leaves sense and reference alone. Both are named in Stevenson's 1938 paper. The claim is about a move available in argument, not about a tendency measured in people, and that is the first thing to hold on to."
+,
+  "origin": {
+    "year": 1938,
+    "who": "Charles Leslie Stevenson",
+    "where": "Mind",
+    "note": "The paper is 'IV.—Persuasive Definitions', Mind XLVII(187), 331-350, and it names both the persuasive definition and the persuasive quasi-definition. The machinery it runs on appeared a year earlier in the same journal, in 'The Emotive Meaning of Ethical Terms', Mind XLVI(181), 14-31. That paper treats ethical terms as instruments in the readjustment of human interests rather than as reports. Stevenson developed the material again in Ethics and Language in 1944."
+  },
+  "evidence": "There are no experiments behind the idea. Stevenson's method is analysis and invented example, and the literature that grew from him is philosophical. Pruś and Aberdein cite the 1938 paper at pages 333 to 334 for the split between the two manoeuvres, and at page 331 for Stevenson's remark that they can deceive. Macagno and Walton set out the standard illustration. In it one speaker grants that a man is unschooled and unsubtle, then answers that 'in the true and full sense of the term, \"culture\" means imaginative sensitivity and originality'. The word keeps its prestige and acquires a new extension. They quote the dialogue from Ethics and Language, page 211. The same shape covers the brewers' trade papers defining true temperance as a bottle of claret with each meal and three double whiskies after dinner, and libertarians defining taxation as a form of theft. Walton's cases are drawn from politics: 'truly needy', which Pruś and Aberdein report he traces to Ronald Reagan cutting social benefits, and 'wetland', redefined under George H. W. Bush so that some land fell outside the term and could be developed. What has been measured is narrower. Rasinski analysed split-ballot wording experiments carried in the 1984, 1985 and 1986 General Social Surveys, in which respondents were assigned at random to variations of the government spending questions. Asked whether too much, too little or about the right amount is spent on 'assistance to the poor', 65.2% said too little in 1985 and 62.8% in 1986. Asked the same question about 'welfare', 19.8% said too little in 1985 and 23.1% in 1986. The label change held across all three years, at an average logit coefficient of 0.640 with an average standard error of 0.051, p < .001. Rasinski reads the shift as a change in the question rather than as persuasion, on the argument that a small change of wording changes what the respondent is being asked about. Levari and colleagues attacked the boundary itself. Across seven studies they showed people a long series of stimuli and asked whether each was an instance of a concept, then cut how often instances appeared. Study 1 gave 22 Harvard students 1,000 dots on a purple to blue continuum. The share drawn from the blue half fell from 50% over the first 200 trials to 6% from trial 351 onwards. Participants in that condition called dots blue late in the run that they had not called blue early on. Study 6 ran 800 trials of computer-generated faces with 48 usable participants, and the concept of threat expanded the same way. Study 7 asked 84 students to sit as an ethics board over 240 research proposals, cutting the share of unethical proposals from 33.3% to 4.12%, and ambiguous proposals that had been approved early were rejected late. Forewarning did not stop it, and neither did instructions to stay consistent backed by payment.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No empirical test of persuasive definition was found. It is a category in the philosophy of language and argumentation, and nobody appears to have turned it into a claim about people that could pass or fail.",
+    "detail": "The nearest measured questions are about labels and about where a concept stops. On labels, the General Social Survey split ballots put support for spending more on 'assistance to the poor' at 65.2% in 1985 against 19.8% for 'welfare', a gap of about 45 points, repeated at 62.8% against 23.1% in 1986. That is a change of name with the referent held roughly fixed, which is closer to Stevenson's quasi-definition than to his persuasive definition. On boundaries, Levari and colleagues show that a concept's extension moves with how often its instances turn up, in colour, in threat and in research ethics, and that people cannot hold it still when told to. Neither line of work involves anyone defining a term at anyone else, which is the thing Stevenson described. Levari's own later modelling reads the concept-change results as a range-frequency compromise in judgement. It reports an intervention that removes the effect by making stimuli more intense as they grow rare. Even the adjacent finding is a contest over mechanism rather than a settled fact about definitions."
+  },
+  "limits": "The 1938 paper could not be read. It is closed at Oxford Academic, which prints metadata and no abstract, and Unpaywall and Semantic Scholar both return no open copy. Every statement here about its contents comes from two peer-reviewed papers that cite it by page, Pruś and Aberdein in Informal Logic and Macagno and Walton in the same journal. Ethics and Language could not be read either: the Internet Archive holds it as an access-restricted item, and so does Facts and Values, which reprints the essay. Only the 1937 companion paper was read in full. The search for empirical work covered Crossref, Europe PMC, arXiv and general web search. A Crossref title query returns philosophy and rhetoric and no experiments. Europe PMC returns thirteen records for the phrase, none of them a study of human subjects, and arXiv returns none. OpenAlex could not be queried, because the API refused the request for want of quota. The spending figures were read from Rasinski's NORC methodological report of 1988. The 1989 article in Public Opinion Quarterly was not obtained. That report's scan is poor, so only figures legible in its tables are quoted here. Smith's 1987 paper, which Rasinski describes as the earlier finding on the welfare wording, was not obtained. The Levari studies used small samples of Harvard students, between 22 and 92 per study, and their models report unstandardised coefficients rather than effect sizes that would sit in this entry's structured fields.",
+  "misreadings": "The commonest error is to file persuasive definition with the cognitive biases and expect it to have an effect size. It is a description of something a speaker can do with a word, and no study located here measures how often people fall for it. The second error is to treat it as automatically dishonest. Richard Robinson called it 'at best a mistake and at worst a lie', and Patrick Hurley says it 'masquerades as an honest assignment of meaning to a term'. Pruś and Aberdein quote both, and report that Stevenson himself rejected a general disparagement of the device in Ethics and Language. Walton spent much of his career arguing that a redefinition can be a reasonable move in a dispute. The third error is to collapse Stevenson's two manoeuvres. Changing what a prized word covers and changing how a settled word feels are different operations, and the literature calls both persuasive definitions. The fourth concerns the culture dialogue, which is usually attached to the 1938 article; Macagno and Walton take it from page 211 of Ethics and Language, and whether it also appears in the earlier paper could not be checked here. Finally, this is not the framing effect, which is a measured shift in choice when one option is described two ways. A persuasive definition moves the boundary of the word and leaves the feeling attached to it in place.",
+  "sources": [
+    {
+      "text": "Stevenson, C. L. (1938). IV.—Persuasive definitions. Mind, XLVII(187), 331-350. The coinage. Not obtained: closed at the publisher, with no abstract shown, and no open copy indexed by Unpaywall. Cited here for the record, with its contents reported through the two papers below.",
+      "doi": "10.1093/mind/XLVII.187.331",
+      "url": "https://doi.org/10.1093/mind/XLVII.187.331",
+      "type": "primary"
+    },
+    {
+      "text": "Stevenson, C. L. (1937). II.—The emotive meaning of ethical terms. Mind, XLVI(181), 14-31. Read in full as a scanned PDF. The definition of emotive meaning and the 'old maid' example are on page 23.",
+      "doi": "10.1093/mind/XLVI.181.14",
+      "url": "https://sites.ualberta.ca/~francisp/NewPhil448/StevensonEmotiveEthics1937.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Pruś, J., & Aberdein, A. (2022). Is every definition persuasive? Douglas Walton on persuasiveness of definition. Informal Logic, 42(1), 25-47. Source for the split between persuasive definition and persuasive quasi-definition, for the page references into Stevenson 1938, and for the Robinson and Hurley quotations.",
+      "doi": "10.22329/il.v42i1.7211",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/7211",
+      "type": "commentary"
+    },
+    {
+      "text": "Macagno, F., & Walton, D. (2008). Persuasive definitions: Values, meanings and implicit disagreements. Informal Logic, 28(3), 203-228. Source for the culture dialogue, which they quote from Ethics and Language page 211, and for the temperance and taxation examples.",
+      "doi": "10.22329/il.v28i3.594",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/594/527",
+      "type": "commentary"
+    },
+    {
+      "text": "Rasinski, K. A. (1988). The effect of question wording on public support for government spending. NORC General Social Survey Methodological Report No. 54. The spending percentages and the logit coefficient quoted above were read from Table 2 and the results section of this report.",
+      "url": "https://gss.norc.org/content/dam/gss/get-documentation/pdf/reports/methodological-reports/MR054.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Rasinski, K. A. (1989). The effect of question wording on public support for government spending. Public Opinion Quarterly, 53(3), 388-394. The published version of the report above; not obtained.",
+      "doi": "10.1086/269158",
+      "type": "primary"
+    },
+    {
+      "text": "Smith, T. W. (1987). That which we call welfare by any other name would smell sweeter: An analysis of the impact of question wording on response patterns. Public Opinion Quarterly, 51(1), 75-83. Named by Rasinski as the earlier finding on the welfare wording; not obtained.",
+      "doi": "10.1086/269015",
+      "type": "primary"
+    },
+    {
+      "text": "Levari, D. E., Gilbert, D. T., Wilson, T. D., Sievers, B., Amodio, D. M., & Wheatley, T. (2018). Prevalence-induced concept change in human judgment. Science, 360(6396), 1465-1467. Read as the author copy with supplementary materials hosted at Harvard, which carries the sample sizes and prevalence schedules quoted above.",
+      "doi": "10.1126/science.aap8731",
+      "url": "https://dtg.sites.fas.harvard.edu/LEVARI2018COMPLETE.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Levari, D. E. (2022). Range-frequency effects can explain and eliminate prevalence-induced concept change. Cognition, 226, 105196. Read as the author copy. Reinterprets the 2018 results and reports an intervention that removes the effect.",
+      "doi": "10.1016/j.cognition.2022.105196",
+      "url": "https://davidlevari.com/wp-content/uploads/2023/08/levari_2022_cognition_complete.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "Gallie, W. B. (1956). IX.—Essentially contested concepts. Proceedings of the Aristotelian Society, 56(1), 167-198. The background Macagno and Walton draw on for disputes in which rival definitions of one prized term cannot be settled by evidence. Not obtained.",
+      "doi": "10.1093/aristotelian/56.1.167",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
