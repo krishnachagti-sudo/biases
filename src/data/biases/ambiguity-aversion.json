@@ -1,0 +1,91 @@
+{
+  "no": 184,
+  "slug": "ambiguity-aversion",
+  "name": "Ambiguity aversion",
+  "aliases": ["Ellsberg paradox", "Uncertainty aversion", "Knightian uncertainty aversion"],
+  "category": "decision",
+  "statement": "People are said to prefer a bet whose odds are known to an otherwise identical bet whose odds are unknown, and to pay to avoid the unknown one.",
+  "meaning": "Two urns hold red and black balls. One is known to hold fifty of each. The other holds a hundred balls in a proportion nobody has stated. A bet on red pays the same either way, and someone who prefers the known urn for red and also prefers it for black cannot hold consistent probabilities for the unknown urn. Daniel Ellsberg set out that pattern in 1961 and a three-colour version with it: thirty red balls, sixty black and yellow in unstated proportion, where the common preferences are red over black and then black-or-yellow over red-or-yellow. Both patterns break Savage's sure-thing principle. Ambiguity aversion is the name for the preference, ambiguity neutrality for the indifference that subjective expected utility requires, and ambiguity seeking for the reverse. The claim worth testing is not that the pattern exists but how many people show it, and in which situations.",
+  "origin": {
+    "year": 1961,
+    "who": "Daniel Ellsberg",
+    "where": "The Quarterly Journal of Economics",
+    "note": "\"Risk, Ambiguity, and the Savage Axioms\" reports no experiment. Ellsberg writes that his evidence comes \"under absolutely non-experimental conditions\", addresses the reader directly as a respondent, and names the colleagues he questioned. Those who did not violate the axioms include G. Debreu, R. Schlaifer and P. Samuelson. Those who violated them \"cheerfully, even with gusto\" include J. Marschak and N. Dalkey. Savage himself violated them when Ellsberg last tested him. Ellsberg gives no counts and no sample. He does claim persistence: \"the choices themselves do not appear to be careless or random. They are persistent, reportedly deliberate, and they seem to predominate empirically\". He also predicts that repenting of a violation on reflection \"would be exceptional\"."
+  },
+  "evidence": "The experimental record that followed is large and it does not agree with itself. Oechssler and Roomets surveyed 40 experiments using Ellsberg's two-colour and three-colour problems and recorded the share of subjects each classified as ambiguity averse. Their own experiment built the ambiguity mechanically, so that no experimenter knew the composition either. Subjects hammered nails into a plywood board, marbles were dropped through it, and the resulting split of blue and yellow was unknown to everyone in the room. Charness, Karni and Levin ran the three-colour urn but let subjects choose which colour to bet on, which removes the suspicion that the experimenter has stacked the urn against the one colour on offer. They then let subjects consult in pairs, with and without a payment for reaching agreement. Kocher, Lahno and Trautmann ran the same elicitation across four domains: gains and losses, at probabilities of one half and one tenth. Dimmock, Kouwenberg, Mitchell and Peijnenburg put an incentivised urn task to a national sample of American households rather than to students. Fox and Tversky proposed a different explanation, the comparative ignorance hypothesis, under which the aversion is produced by evaluating the vague bet alongside a clear one and fades when the vague bet is priced alone.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Across 40 Ellsberg experiments the share of subjects classed as ambiguity averse runs from 8 percent to 93 percent, and averages 56.6 percent, so the pattern is real and is not what most people do in every setting.",
+    "detail": "Oechssler and Roomets took the midpoints of the ranges reported by 40 studies and obtained a mean of 56.6 percent and a median of 58.5 percent. Discarding the five most extreme studies at each end leaves the mean at 57.1 percent. Restricting to studies that tested for a strict preference gives 51.2 percent. Their own three-colour design, with nine known green marbles out of thirty so that a subject who thinks the two unknown colours equally likely has a strict reason to bet on an unknown one, gave 45.5 percent betting on green among 121 subjects when the machine ran in the classroom and 37.7 percent among 53 subjects in the conventional control where it did not. The difference between the two is not distinguishable, p = 0.58. Removing the suspicion that the experimenter fills the urn therefore changed nothing. Design choices that ought to be incidental move the number much further. Charness, Karni and Levin let 272 subjects pick the colour they bet on and classed 8.1 percent as ambiguity averse, 60.3 percent as ambiguity neutral, 11.8 percent as ambiguity seeking and 19.9 percent as incoherent. Fixing the colour for a separate group of 132 subjects raised the averse share to 23.5 percent in the first round and 24.2 percent in the second. Letting subjects consult in pairs pushed the seeking and incoherent groups towards neutrality: 6.7 percent seeking and 15.7 percent incoherent afterwards, against 11.8 and 19.9 before, while the averse share rose slightly to 10.4 percent. Paying for agreement raised the agreement rate from 30.5 percent to 84.0 percent, Z = 6.28, p = 0.000, without changing the direction of the movement. Outside the laboratory the averse share is higher and still short of universal. Dimmock, Kouwenberg, Mitchell and Peijnenburg put an incentivised Ellsberg task to 3,158 members of the American Life Panel and paid $23,850 to 1,590 of them. They classify 52 percent as ambiguity averse, 10 percent as neutral and 38 percent as ambiguity seeking, and note that this sits inside the range Oechssler and Roomets found.",
+    "study": {
+      "cite": "Oechssler, J., & Roomets, A. (2015). A test of mechanical ambiguity. Journal of Economic Behavior & Organization, 119, 153-162.",
+      "doi": "10.1016/j.jebo.2015.08.004",
+      "year": 2015,
+      "n": 237
+    }
+  },
+  "limits": "The effect is domain-specific, and the domain Ellsberg chose is the one where it is strongest. Kocher, Lahno and Trautmann ran more than 500 participants through gains and losses at probabilities of one half and one tenth. In the classic setting, a bet of 20 euros at even odds, they reproduce ambiguity aversion: 38.9 percent of 72 participants chose the ambiguous prospect, binomial p = .076, and the median probability equivalent was .48 against .50. In the other three cells they find neutrality or the reverse. At even-odds losses, 47.9 percent chose the ambiguous prospect, which is chance. At one-in-ten gains 57.7 percent did, and at one-in-ten losses 63.0 percent did, the latter ambiguity seeking at the 5 percent level. Pooling every pure-domain choice yields no attitude at all, binomial p = .556, N = 289. Between 62.9 and 82.4 percent of participants in each treatment were ambiguity neutral by their criterion, meaning the attitudes on show are held by a minority. Their own data complicate the story once: among the participants whose attitudes were distinct from neutrality, the one-in-ten loss cell reverses to ambiguity aversion, 28.0 percent choosing the ambiguous prospect. Those figures were read from the Munich Discussion Paper version of the paper, which carries the title \"Ambiguity aversion is the exception\"; the published article in the European Economic Review was not opened. The same applies to the household study, where the figures come from the NBER working paper rather than the Journal of Financial Economics version, and to Oechssler and Roomets, read from Heidelberg Discussion Paper No. 555. Four papers named in this entry could not be obtained: Fox and Tversky's 1995 article, Chow and Sarin's 2001 replication of it, Camerer and Weber's 1992 review, and Trautmann and van de Kuilen's handbook chapter. Searches of Crossref, Unpaywall, Semantic Scholar and the publishers themselves found no open copy of any of them. No multi-site preregistered replication of an Ellsberg problem was located.",
+  "misreadings": "The first error is treating the pattern as universal. It is not, in any of the samples above, and the share of people who show it depends on choices an experimenter might think cosmetic. Whether subjects pick the colour they bet on moves the averse share from 8.1 percent to about 24 percent in the same laboratory with the same urn. Charness, Karni and Levin also report, from Trautmann, Vieider and Wakker, that in the two-colour problem elicited by willingness to pay almost every subject looks ambiguity averse while direct choice gives far fewer. The second error is calling Ellsberg's paper an experiment. It reports the reactions of named economists to hypothetical questions, describes those conditions as non-experimental, and offers no proportions. The third is exporting the finding to unlikely events. The applications that motivate the literature, insurance and rare disasters among them, concern small probabilities and losses, and those are the cells where the aversion weakens or turns into ambiguity seeking. The fourth concerns what produces the preference. Under Fox and Tversky's comparative ignorance hypothesis the aversion needs a clear bet standing next to the vague one. Chow and Sarin tested it and found the effect smaller than Fox and Tversky reported. Koundouri, Pittis and Samartzis quote their conclusion: \"The key finding that emerges from our experiments is that the clear bet is priced higher than the vague bet under both comparative and non-comparative conditions. The comparison, however, enhances the difference in prices between clear and vague bets. In the absence of a direct comparison (non-comparative condition) this difference is smaller, but it does not disappear.\" Neither the Fox and Tversky paper nor the Chow and Sarin paper was opened for this entry, so that quotation is at one remove.",
+  "sources": [
+    {
+      "text": "Ellsberg, D. (1961). Risk, ambiguity, and the Savage axioms. The Quarterly Journal of Economics, 75(4), 643-669. Quotations read from the full reproduction scanned in Ellsberg's papers at the Internet Archive.",
+      "doi": "10.2307/1884324",
+      "url": "https://archive.org/details/RiskAmbiguityAndTheSavageAxioms_201809",
+      "type": "primary"
+    },
+    {
+      "text": "Oechssler, J., & Roomets, A. (2015). A test of mechanical ambiguity. Journal of Economic Behavior & Organization, 119, 153-162. Figures read from the working paper, University of Heidelberg Discussion Paper No. 555, March 2014.",
+      "doi": "10.1016/j.jebo.2015.08.004",
+      "url": "https://www.uni-heidelberg.de/md/awi/forschung/dp555.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Charness, G., Karni, E., & Levin, D. (2013). Ambiguity attitudes and social interactions: An experimental investigation. Journal of Risk and Uncertainty, 46(1), 1-25.",
+      "doi": "10.1007/s11166-012-9157-1",
+      "url": "http://www.econ2.jhu.edu/pdf/papers/wp590_karni.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Kocher, M. G., Lahno, A. M., & Trautmann, S. T. (2018). Ambiguity aversion is not universal. European Economic Review, 101, 268-283. Figures read from the working paper, \"Ambiguity aversion is the exception\", Munich Discussion Paper No. 2015-2.",
+      "doi": "10.1016/j.euroecorev.2017.09.016",
+      "url": "https://epub.ub.uni-muenchen.de/23817/1/Kocher.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Dimmock, S. G., Kouwenberg, R., Mitchell, O. S., & Peijnenburg, K. (2016). Ambiguity aversion and household portfolio choice puzzles: Empirical evidence. Journal of Financial Economics, 119(3), 559-577. Figures read from NBER Working Paper 18743, January 2013, revised December 2013.",
+      "doi": "10.1016/j.jfineco.2016.01.003",
+      "url": "https://www.nber.org/system/files/working_papers/w18743/revisions/w18743.rev2.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Fox, C. R., & Tversky, A. (1995). Ambiguity aversion and comparative ignorance. The Quarterly Journal of Economics, 110(3), 585-603. Source of the comparative ignorance hypothesis; no copy was obtained during this check.",
+      "doi": "10.2307/2946693",
+      "url": "https://doi.org/10.2307/2946693",
+      "type": "primary"
+    },
+    {
+      "text": "Chow, C. C., & Sarin, R. K. (2001). Comparative ignorance and the Ellsberg paradox. Journal of Risk and Uncertainty, 22(2), 129-139. Paywalled; its conclusion is quoted here from Koundouri, Pittis and Samartzis.",
+      "doi": "10.1023/A:1011157509006",
+      "url": "https://doi.org/10.1023/A:1011157509006",
+      "type": "replication"
+    },
+    {
+      "text": "Koundouri, P., Pittis, N., & Samartzis, P. (2024). Comparative ignorance as an explanation of ambiguity aversion and Ellsberg choices: A survey with a new proposal for Bayesian training. Athens University of Economics and Business Working Paper 24-08.",
+      "url": "http://wpa.deos.aueb.gr/docs/2024.Ambiguity.Aversion.Ellsberg.Choices.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Camerer, C., & Weber, M. (1992). Recent developments in modeling preferences: Uncertainty and ambiguity. Journal of Risk and Uncertainty, 5(4), 325-370. Named in the literature as the standard early review; no copy was obtained during this check.",
+      "doi": "10.1007/BF00122575",
+      "url": "https://doi.org/10.1007/BF00122575",
+      "type": "commentary"
+    },
+    {
+      "text": "Trautmann, S. T., & van de Kuilen, G. (2015). Ambiguity attitudes. In G. Keren & G. Wu (Eds.), The Wiley Blackwell Handbook of Judgment and Decision Making (pp. 89-116). Cited by both Kocher and colleagues and Dimmock and colleagues as the standard overview; no copy was obtained during this check.",
+      "doi": "10.1002/9781118468333.ch3",
+      "url": "https://doi.org/10.1002/9781118468333.ch3",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
