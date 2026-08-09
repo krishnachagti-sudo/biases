@@ -1,0 +1,73 @@
+{
+  "no": 164,
+  "slug": "functional-fixedness",
+  "name": "Functional fixedness",
+  "category": "decision",
+  "statement": "Using an object for its ordinary purpose, in the minutes before a problem needs it for something else, makes that second use harder to find.",
+  "meaning": "Karl Duncker's claim is narrow and it is about one object inside one problem. A tool that has just been used in its usual function is less available for an unusual one, even when it lies in plain sight on the table. Duncker called this heterogeneous functional fixedness, meaning fixedness produced by a function unlike the one now demanded. His test was not a puzzle given cold. Each problem was presented twice over, once with the crucial object already pressed into its normal job and once with that job done some other way, so that the only thing varying was the object's recent history. The measure was whether the person reached the solution that used the crucial object. Duncker's own summary of the result: 'the object which is not fixed is almost twice as easily found as the object which is fixed'. The claim does not say the person forgets the object exists, and it does not say the effect grows with expertise or with age.",
+  "origin": {
+    "year": 1945,
+    "who": "Karl Duncker",
+    "where": "Psychological Monographs",
+    "note": "The monograph is Lynne S. Lees's English translation of Duncker's 1935 book Zur Psychologie des produktiven Denkens, prepared after his death; the editor's foreword records that the German original had become 'virtually unobtainable'. Duncker's own preface is dated Berlin, February 1935. Chapter VII names and tests functional fixedness. The candle problem everyone quotes is Duncker's box problem, and in his version three candles are fixed to a door using three small pasteboard boxes."
+  },
+  "evidence": "Duncker ran five problems: gimlet, box, pliers, weight and paperclip. In each, the crucial object was either used first in its ordinary function or not, and it lay among a clutter of other objects, none better suited to the solution. Averaged over the five, 97.1% of problems were solved without prior use and 58.2% with it. The box problem showed the widest gap, 7 of 7 against 3 of 7, and the weight problem the narrowest, 12 of 12 against 9 of 12. Cell sizes ran from 7 to 15 people. A second experiment reversed Duncker's own prediction. He expected that filling the boxes with buttons rather than with the candles and tacks the problem needed would loosen the fixedness, since the prior function would be irrelevant. Solutions fell instead, from 3 of 7 to 1 of 7 for the box and from 1 of 7 to 0 of 7 for a cork problem. Duncker attributed the reversal to contact: an object holding the material the problem is about gets handled early, and handling partly offsets the fixing. The developmental result is the one that constrains theory. Tim German and Margaret Anne Defeyter gave 60 children a box that had to become a step rather than a container. Seven-year-olds produced the box solution 40% of the time when the other objects had been presented inside it and 89% when they sat beside it, Fisher's exact test p = .04. Five-year-olds showed no gap in solution time, U = 21, not significant, and solved the primed version faster than either older group. Defeyter and German repeated this with 120 children on a tube task and again with 120 more on objects the children had never seen, whose functions were taught in the session. With novel objects, 6-year-olds chose the target object first 35% of the time when its taught function had been shown and 95% when it had not, and 7-year-olds 40% against 80%. Five-year-olds sat at 75% in both conditions. Equalising experience did not remove the age difference, which is evidence against experience alone as the cause. German and Barrett took the box task and a spoon task to 29 Shuar aged 12 to 25 in two Ecuadorian villages, a setting with few specialised artefacts. On the spoon task the primed group was slower both to pick up the spoon and to finish, U = 51.0 and U = 47.5, one-tailed ps < .05. On the box task the selection difference reached U = 63, p = .056 one-tailed, and the solution-time difference did not separate the groups.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Robert Adamson repeated three of Duncker's problems with 57 people and proper control groups, and 41% solved the box problem after using the boxes as containers against 86% who had not.",
+    "study": {
+      "cite": "Adamson, R. E. (1952). Functional fixedness as related to problem solving: a repetition of three experiments. Journal of Experimental Psychology, 44(4), 288-291.",
+      "doi": "10.1037/h0062487",
+      "year": 1952,
+      "n": 57
+    },
+    "detail": "Adamson's subjects were college students, 29 in the pre-utilisation group and 28 in the control. On the box problem, 12 of 29 solved against 24 of 28, chi-square 12.0, p = .001, and only 7 of the primed group finished faster than the combined median against 22 of the control, chi-square 14.8, p = .001. The gimlet problem defeated only three people, so solution counts could not separate the groups; mean time was 246.6 seconds against 144.0, t' = 3.71, p = .001. Everyone solved the paperclip problem, at 107.9 seconds against 63.0, t' = 2.38, p = .01. Tests were one-tailed. Adamson noted that Duncker had run all five of his problems on 14 people in total, and that Adamson's own subjects were the abler group. He also found that performance on one primed problem barely predicted performance on another: of the three pairwise tests, only box against paperclip reached p < .05. The developmental finding has itself been repeated twice by its authors, in the 2003 paper above and in an earlier study of 100 children reported inside the 2000 paper, where 5-year-olds solved at 64% primed and 65% unprimed while 7-year-olds fell from 89% to 18%. Deborah Kelemen's 2001 conference paper is described by Defeyter and German as a failure to replicate the 2000 result; it was not obtained for this entry."
+  },
+  "limits": "The effect is a delay and a reduced rate, not a blockage. In Adamson's paperclip problem every single person solved it, primed or not, and the whole effect was 45 seconds. Sizes vary by problem for reasons nobody has reduced to a rule: Duncker's weight problem lost 25 percentage points and his box problem 57, and his own attempt to isolate the mechanism, by swapping relevant filling for neutral filling, produced the opposite of what he predicted. Individual susceptibility is not a stable trait, on Adamson's own analysis. Two figures wanted here were not obtained. Glucksberg and Weisberg's 1966 study of labelling is paywalled at the American Psychological Association, Unpaywall lists no open copy, and no number from it is quoted on this page. Adamson's paper is also paywalled; its text and both tables were read from a transcription hosted at All About Psychology, and the DTIC technical report carrying the same work was offline for maintenance throughout this task. Duncker's monograph was read from the Internet Archive's scan of Psychological Monographs volume 58, issue 5. The cross-cultural evidence rests on one study of 29 people, and three of its four comparisons fall outside significance on a two-tailed test, which the authors report. No meta-analysis of functional fixedness was located in searches of Crossref, PubMed and the open web, so there is no pooled estimate to quote and no effect-size fields on this entry.",
+  "misreadings": "The candle problem is usually retold as one candle and one box of tacks, with the box to be tacked to the wall as a shelf. Duncker's box problem uses three candles, three pasteboard boxes and a door, and the three boxes are pinned up as three platforms. Adamson's version melts wax to stick each candle to its box. The second error is the direction of development. Fixedness is widely taught as a habit that thickens with experience, and the measured pattern is that 5-year-olds do not show it, 6- and 7-year-olds do, and the 5-year-olds beat both older groups on the primed version. Defeyter and German's second experiment removed the experience explanation by teaching every child the same new functions for objects none of them had met, and the age difference survived. The third error is to fold Maier's two-string problem in as another demonstration. Maier varied hints rather than prior use: R. Eric Landrum, describing the 1931 study, reports that 39.3% of Maier's 61 subjects produced the pendulum solution unaided, after which those who failed were nudged with a swinging cord and then handed a pair of pliers. Landrum's own two experiments, 160 people in total, found the explicit pendulum hint worked and the swinging-cord hint did not reach significance against control, chi-square 5.30, p = .07. That is a study about transfer from a cue, not about an object spoiled by its own recent use.",
+  "sources": [
+    {
+      "text": "Duncker, K. (1945). On problem-solving. Psychological Monographs, 58(5, Whole No. 270), i-113. Translated by Lynne S. Lees. Chapter VII carries the five problems, Table 3 the solution rates and Table 4 the neutral-filling reversal. Read here from the Internet Archive's scan of the issue.",
+      "doi": "10.1037/h0093599",
+      "url": "https://archive.org/details/sim_psychological-monographs_1945_58_5",
+      "type": "primary"
+    },
+    {
+      "text": "Adamson, R. E. (1952). Functional fixedness as related to problem solving: a repetition of three experiments. Journal of Experimental Psychology, 44(4), 288-291. Paywalled at the American Psychological Association. The text and both tables quoted above were read from a transcription published by All About Psychology, not from the journal.",
+      "doi": "10.1037/h0062487",
+      "url": "https://www.all-about-psychology.com/functional-fixedness.html",
+      "type": "replication"
+    },
+    {
+      "text": "German, T. P., & Defeyter, M. A. (2000). Immunity to functional fixedness in young children. Psychonomic Bulletin & Review, 7(4), 707-712. Source of the 60-child box task and of the 100-child replication reported in its discussion.",
+      "doi": "10.3758/BF03213010",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03213010.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Defeyter, M. A., & German, T. P. (2003). Acquiring an understanding of design: evidence from children's insight problem solving. Cognition, 89(2), 133-155. Source of the two 120-child experiments, including the novel-object test. Read from the authors' copy on the University of California, Santa Barbara server.",
+      "doi": "10.1016/S0010-0277(03)00098-2",
+      "url": "https://labs.psych.ucsb.edu/german/tamsin/uploads/2/4/0/4/24040853/defeyter_german_2003.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. Psychological Science, 16(1), 1-5. Source of the Shuar figures and of the two-tailed probabilities given in its footnote 3.",
+      "doi": "10.1111/j.0956-7976.2005.00771.x",
+      "url": "https://labs.psych.ucsb.edu/german/tamsin/uploads/2/4/0/4/24040853/german_barrett_2005.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Glucksberg, S., & Weisberg, R. W. (1966). Verbal behavior and problem solving: some effects of labeling in a functional fixedness problem. Journal of Experimental Psychology, 71(5), 659-664. Named here because the labelling manipulation belongs in this literature; paywalled and not read, and no figure from it appears above.",
+      "doi": "10.1037/h0023118",
+      "url": "https://doi.org/10.1037/h0023118",
+      "type": "primary"
+    },
+    {
+      "text": "Landrum, R. E. (1990). Maier's (1931) two-string problem revisited: evidence for spontaneous transfer? Psychological Reports, 67(3, Suppl.), 1079-1088. Source of Maier's 1931 figures, which are quoted here at one remove, and of Landrum's own two experiments.",
+      "doi": "10.2466/pr0.1990.67.3f.1079",
+      "url": "https://ericlandrum.com/s/Maiers-1931-two-string-problem-revisited-Evidence-for-spontaneous-transfer-Landrum-1990.pdf",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
