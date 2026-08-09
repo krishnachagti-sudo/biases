@@ -1,0 +1,120 @@
+{
+  "no": 172,
+  "slug": "suggestibility",
+  "name": "Suggestibility",
+  "aliases": [
+    "Interrogative suggestibility",
+    "Gudjonsson Suggestibility Scale",
+    "Yield and Shift",
+    "Witness suggestibility"
+  ],
+  "category": "memory",
+  "statement": "Under questioning by someone in authority, people accept suggested details and change answers under pressure, and how much they do varies between individuals.",
+  "meaning": "Interrogative suggestibility is a narrower idea than the everyday word. Gudjonsson and Clark defined it as the extent to which, within a closed social interaction, people come to accept messages communicated during formal questioning, so that their later behaviour is affected. Two things are being measured at once. The first is yielding to a leading question. The second is changing an answer after being told the answers were wrong, which is a response to interpersonal pressure rather than to the content of the question. Gudjonsson's scales score these separately as Yield and Shift. The forensic claim built on top is that suspects and witnesses who score high are at greater risk of giving statements that are wrong, and in the extreme of confessing to crimes they did not commit. Two populations carry most of the applied weight: criminal suspects under police interrogation, and children questioned about alleged abuse.",
+  "origin": {
+    "year": 1984,
+    "who": "Gisli H. Gudjonsson",
+    "where": "Personality and Individual Differences",
+    "note": "The 1984 paper introduced the Gudjonsson Suggestibility Scale, the instrument that made the construct measurable. The theoretical model came two years later, in Gudjonsson and Clark's 1986 paper in Social Behaviour, which is where the standard definition is stated. Neither paper was read for this entry; the scale is described here from Kassin and Gudjonsson's 2004 monograph and from Hein and colleagues' 2021 psychometric study, and the definition is quoted as those authors quote it."
+  },
+  "evidence": "The scale is a memory test with a social trap in it. A narrative paragraph is read aloud, on GSS 1 an account of a woman attacked and robbed on a Spanish holiday. The subject recalls it, then answers 20 questions of which 15 are subtly misleading. Yield 1 counts how many of the 15 are accepted, with a range of 0 to 15. The subject is then told firmly that there were many errors and that every question must be answered again. Yield 2 counts acceptances on the second pass and Shift counts changed answers in either direction, range 0 to 20. Yield and Shift are summed for Total Suggestibility. Hein, Scheuble, Beauducel and Leue put a German online GSS 1 to 560 students, mean age 24.20, and recovered the two expected factors. Their internal consistencies were 0.43 for Yield 1, 0.65 for Yield 2 and 0.66 for Shift, and their means sat below Gudjonsson's published norms: Yield 1 1.44, Yield 2 1.99, Shift 1.81 and Total 3.25. Frumkin, Lally and Sexton reported 334 people assessed in United States forensic cases, the first sample outside the manual's Icelandic and British norms, and found the same pattern as Gudjonsson's: Yield 1 tracks intellectual and cognitive variables while Shift tracks emotional and personality ones. Kassin and Gudjonsson summarise the correlates as poor memory, high anxiety, low self-esteem and lack of assertiveness, and report that scores rise under prolonged sleep deprivation and alcohol withdrawal. The laboratory work on false confession runs on a different paradigm. Kassin and Kiechel accused 75 students of crashing a computer by hitting a forbidden ALT key, varying the pace of the typing task and whether a confederate claimed to have seen them do it. Across the study 69% signed a confession, 28% told a waiting stranger they had done it, and 9% invented details of how. The conditions matter more than the average. With a slow pace and no witness, 35% signed and none internalised or confabulated. With a fast pace and a witness, every subject signed, 65% internalised and 35% confabulated. Redlich and Goodman ran the paradigm across ages 12 to 26 and found rates of 78% among 12- to 13-year-olds, 72% among 15- to 16-year-olds and 59% among 18- to 26-year-olds, with GSS scores predicting who signed. Children's suggestibility is tested differently again. Leichtman and Ceci sent a man called Sam Stone on a two-minute visit to 176 preschoolers, then interviewed them four times over four weeks and once more at ten weeks, asking finally about a ripped book and a soiled teddy bear that never happened. Control children made no false allegations in free narrative, and 10% of the youngest children's answers to direct probes were wrong. Where the interviews had carried the two suggestions, 21% of the 3- to 4-year-olds volunteered a misdeed unprompted, 53% of their probe answers endorsed one, 35% said they had seen it, and 12% held to that after being gently challenged. Adding a prior stereotype of Sam Stone as clumsy pushed the free-narrative figure to 46% and the probe figure to 72%. Overall accuracy fell from 96% in the control group to 83%, 72% and 64% across the three manipulated groups, all ps < .05, with a large age effect, F(1, 146) = 76.55, p < .0001. Videotapes of three of the children were shown to 119 researchers and clinicians who work on children's testimony, and most could not tell which reports were true.",
+  "replication": {
+    "state": "mixed",
+    "headline": "That people sign false confessions in the laboratory repeats reliably; the rate ranges from 8% to 100% across studies, and suggestibility scores predict who does so in some samples and not in others.",
+    "detail": "Horselenberg, Merckelbach and Josephs ran the closest thing to a direct replication of the computer-crash study, with 34 female undergraduates and a harsher setup: the experimenter herself claimed to have seen the key pressed, and signing cost 80% of the fee, two euros instead of ten. Rates went up rather than down. Twenty-seven of 34, or 82%, signed, 42% took responsibility in conversation with a stranger, and 58% supplied details of when and how. The individual-difference prediction failed completely. Three MANOVAs against compliance, GSS suggestibility, fantasy proneness, dissociation and cognitive failures returned nothing, all F(1, 25) < 1.5 and p > .2 for signing, all F(1, 29) < 2.1 and p > .15 for internalising and confabulating. The same group then showed how fragile the rate is. In their 2006 study 1, 56 students were accused of hitting a plausible key or an implausible one, and 77% against 58% signed, a difference that did not reach significance at Fisher's exact p = 0.16. Internalisation, however, appeared only in the plausible condition, at 26%, p = 0.01. Study 2 told nine students they would owe about 250 euros for the damage, and one signed, 11%. Study 3 accused 12 students of exam fraud with exclusion from future exams as the penalty, and one confessed, 8%. Klaver, Gordon and Lee's study of 204 students, described by Kassin and Gudjonsson and by Horselenberg and colleagues rather than read here, found 59% signing when the forbidden key was ALT and 13% when it was the Esc key in the far corner, and 56% under minimisation against 30% under maximisation. Stewart, Woody and Pulos meta-analysed the experimental literature and reached the same conclusion about design: rates were higher in typing-task studies than in cheating studies, typing speed made no difference, moving the forbidden key somewhere implausible lowered rates, and false-evidence ploys raised them. On the trait side the record is split. Redlich and Goodman found GSS scores predictive across ages 12 to 26. Klaver, Lee and Rose report an association with GSS Shift. Horselenberg and colleagues found nothing in 2003 and, in 2006, only fantasy proneness, t(54) = 2.32, p = .02, with confessors at 7.8 against 5.8. Field data are split the same way. Sigurdsson and Gudjonsson compared 62 prison inmates who said they had confessed falsely with other inmates and found them more anxious, more compliant and more personality disordered, but no different in intelligence, verbal memory or suggestibility. Only the ten who described internalised confessions scored higher on GSS 1.",
+    "study": {
+      "cite": "Horselenberg, R., Merckelbach, H., & Josephs, S. (2003). Individual differences and false confessions: A conceptual replication of Kassin and Kiechel (1996). Psychology, Crime & Law, 9(1), 1-8.",
+      "doi": "10.1080/10683160308141",
+      "year": 2003,
+      "n": 34
+    }
+  },
+  "limits": "This entry covers interrogative suggestibility and the questioning of witnesses and suspects. Implantation of whole childhood events and the misinformation effect are covered in the false memory entry, which also carries the finding that being prone to one kind of memory error says little about being prone to another. The search ran across Crossref, PubMed, PMC, Frontiers and the open web. Several central documents were not read. Gudjonsson's 1984 paper, his 1986 model with Clark, and the 1997 scale manual are all behind paywalls or out of print, so the scale and the definition are reported here as Kassin and Gudjonsson in 2004 and Hein and colleagues in 2021 report them. Kassin and Kiechel's 1996 paper was not obtained; its numbers are taken from Table 5 of Kassin and Gudjonsson's monograph, which Kassin co-wrote. Redlich and Goodman's age figures, Drizin and Leo's case series and Klaver, Gordon and Lee's key-placement figures are likewise quoted through that monograph and through Horselenberg and colleagues' 2006 paper. Stewart, Woody and Pulos's meta-analysis was read only in abstract, so no pooled rate is given here; the abstract states the moderators and not the overall figure. Gignac and Powell published a psychometric critique of the scales in 2009 arguing about difference-score composites, and it could not be obtained, so nothing is claimed about its findings. The scales are also bounded by what they measure. Yield 1 is close to an ordinary leading-question task, Shift is a response to negative feedback, and the two are not the same disposition. Nothing here bears on hypnotic suggestibility, on placebo response, or on the clinical dispute over recovered memories.",
+  "misreadings": "The scale and the laboratory paradigms are treated as measures of one thing. They are not. Yield 1 counts acceptance of misleading questions and is close to what a misinformation experiment measures. Shift counts answers changed after an interviewer says the answers were wrong, which is a reaction to pressure and can move in either direction. Adding them into a Total is a convention, not a finding. The ALT-key study is quoted as showing that 69% of people will confess falsely. It tested 75 students, and 69% is the average of four conditions running from 35% to 100%. Horselenberg's later work took the same paradigm to 11% by attaching a bill and to 8% by accusing students of exam fraud. Neither figure is the true rate; the rate is a property of the setup. High suggestibility is read as an explanation of who confesses. In laboratory samples of undergraduates it usually predicts nothing, and Sigurdsson and Gudjonsson's inmates who claimed false confessions were not more suggestible than other inmates as a group. What distinguished them was compliance, which the Gudjonsson Compliance Scale measures and which is a different construct. Children's suggestibility is read as children being unreliable witnesses. Leichtman and Ceci's control preschoolers made no false allegations in free narrative at all, ten weeks on. The false reports appeared where adults had repeatedly suggested the events, and were worst where a prior stereotype had been planted as well. The other half of that study is the part usually dropped: 119 professionals who work on children's testimony watched the tapes and could not reliably separate the true reports from the false ones. Laboratory rates are also read as prevalence. They are not. The National Registry of Exonerations recorded 147 exonerations in the United States in 2024, of which 22, or 15%, involved a false confession. Gudjonsson's 2021 review reports self-reported false confession in about 20% of Icelandic prisoners and suspects, 33.4% of Scottish prisoners, and 13.8% of 2,726 European pupils of mean age 15.5 who had been questioned at a police station. Drizin and Leo's series of 125 proven false confessions in the United States between 1971 and 2002, as described by Kassin and Gudjonsson, was 93% male and 81% murder cases, with 63% of the confessors under 25 and 32% under 18, and 22% recorded as having mental retardation. When those cases went to trial the jury convicted in 81% of them.",
+  "sources": [
+    {
+      "text": "Gudjonsson, G. H. (1984). A new scale of interrogative suggestibility. Personality and Individual Differences, 5(3), 303-314. The paper that introduced the GSS. Verified at Crossref; not read for this entry.",
+      "doi": "10.1016/0191-8869(84)90069-2",
+      "url": "https://doi.org/10.1016/0191-8869(84)90069-2",
+      "type": "primary"
+    },
+    {
+      "text": "Kassin, S. M., & Gudjonsson, G. H. (2004). The psychology of confessions: A review of the literature and issues. Psychological Science in the Public Interest, 5(2), 33-67. Read in full from the author's posted copy. Source for the description of the GSS, for Table 5 of Kassin and Kiechel's condition means, and for the Redlich and Goodman, Sigurdsson and Gudjonsson, Klaver, and Drizin and Leo figures quoted at one remove.",
+      "doi": "10.1111/j.1529-1006.2004.00016.x",
+      "url": "https://saulkassin.org/wp-content/uploads/2024/07/Kassin_Gudjonsson_PSPI_05.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Kassin, S. M., & Kiechel, K. L. (1996). The social psychology of false confessions: Compliance, internalization, and confabulation. Psychological Science, 7(3), 125-128. The ALT-key study. Verified at Crossref; the paper itself was not obtained and its figures here come from Kassin and Gudjonsson (2004).",
+      "doi": "10.1111/j.1467-9280.1996.tb00344.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.1996.tb00344.x",
+      "type": "primary"
+    },
+    {
+      "text": "Horselenberg, R., Merckelbach, H., & Josephs, S. (2003). Individual differences and false confessions: A conceptual replication of Kassin and Kiechel (1996). Psychology, Crime & Law, 9(1), 1-8. Read in full. Note that the DOI printed on the paper itself, 10.1080/1068316021000057631, does not resolve at Crossref; the DOI given here does and matches the record.",
+      "doi": "10.1080/10683160308141",
+      "url": "https://www.haraldmerckelbach.nl/artikelen_engels/2003/Individual%20Differences%20And%20False%20Confessions.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Horselenberg, R., Merckelbach, H., Smeets, T., Franssens, D., Ygram Peters, G.-J., & Zeles, G. (2006). False confessions in the lab: Do plausibility and consequences matter? Psychology, Crime & Law, 12(1), 61-75. Read in full; source for the three studies at 77%, 11% and 8%.",
+      "doi": "10.1080/1068310042000303076",
+      "url": "https://haraldmerckelbach.nl/artikelen_engels/2006/False%20Confessions%20In%20The%20Lab,%20Do%20Plausibility%20And%20Consequences%20Matter.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Hein, F.-E., Scheuble, V., Beauducel, A., & Leue, A. (2021). Psychometric properties of a German online version of the Gudjonsson Suggestibility Scale 1. Frontiers in Psychology, 12, 718805. Source for the GSS 1 structure, the alphas and the means in a sample of 560.",
+      "doi": "10.3389/fpsyg.2021.718805",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8517322/",
+      "type": "replication"
+    },
+    {
+      "text": "Frumkin, I. B., Lally, S. J., & Sexton, J. E. (2012). A United States forensic sample for the Gudjonsson Suggestibility Scales. Behavioral Sciences & the Law, 30(6), 749-763. Abstract read; source for the 334-person forensic sample and the Yield-versus-Shift correlate pattern.",
+      "doi": "10.1002/bsl.2032",
+      "url": "https://doi.org/10.1002/bsl.2032",
+      "type": "replication"
+    },
+    {
+      "text": "Leichtman, M. D., & Ceci, S. J. (1995). The effects of stereotypes and suggestions on preschoolers' reports. Developmental Psychology, 31(4), 568-578. Read in full; source for every Sam Stone figure.",
+      "doi": "10.1037/0012-1649.31.4.568",
+      "url": "https://www.sakkyndig.com/psykologi/artvit/leichtman1995.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Redlich, A. D., & Goodman, G. S. (2003). Taking responsibility for an act not committed: The influence of age and suggestibility. Law and Human Behavior, 27(2), 141-156. Verified at Crossref; figures taken from Kassin and Gudjonsson (2004).",
+      "doi": "10.1023/A:1022543012851",
+      "url": "https://doi.org/10.1023/A:1022543012851",
+      "type": "replication"
+    },
+    {
+      "text": "Klaver, J. R., Lee, Z., & Rose, V. G. (2008). Effects of personality, interrogation techniques and plausibility in an experimental false confession paradigm. Legal and Criminological Psychology, 13(1), 71-88. Verified at Crossref; not read. The key-placement and minimisation figures attributed in this entry to Klaver, Gordon and Lee (2003) are as reported by Kassin and Gudjonsson (2004) and by Horselenberg and colleagues (2006).",
+      "doi": "10.1348/135532507X193051",
+      "url": "https://doi.org/10.1348/135532507X193051",
+      "type": "replication"
+    },
+    {
+      "text": "Stewart, J. M., Woody, W. D., & Pulos, S. (2018). The prevalence of false confessions in experimental laboratory simulations: A meta-analysis. Behavioral Sciences & the Law, 36(1), 12-31. Abstract read at PubMed; the moderator findings are quoted, the pooled rate was not obtained.",
+      "doi": "10.1002/bsl.2327",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29460441/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Gudjonsson, G. H. (2021). The science-based pathways to understanding false confessions and wrongful convictions. Frontiers in Psychology, 12, 633936. Source for the self-reported false confession rates in Iceland, Scotland and the seven-country school survey.",
+      "doi": "10.3389/fpsyg.2021.633936",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.633936/full",
+      "type": "review"
+    },
+    {
+      "text": "Gignac, G. E., & Powell, M. B. (2009). A psychometric evaluation of the Gudjonsson Suggestibility Scales: Problems associated with measuring suggestibility as a difference score composite. Personality and Individual Differences, 46(2), 88-93. Verified at Crossref; not obtained, and no claim is made here about what it found.",
+      "doi": "10.1016/j.paid.2008.09.007",
+      "url": "https://doi.org/10.1016/j.paid.2008.09.007",
+      "type": "critique"
+    },
+    {
+      "text": "National Registry of Exonerations (2025, April 2). 2024 annual report. University of California Irvine Newkirk Center for Science and Society, University of Michigan Law School and Michigan State University College of Law. Page 4: 22 of the 147 exonerations recorded for 2024, or 15%, involved false confessions.",
+      "url": "https://exonerationregistry.org/sites/exonerationregistry.org/files/documents/2024_Annual_Report.pdf",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
