@@ -1,0 +1,129 @@
+{
+  "no": 88,
+  "slug": "cryptomnesia",
+  "name": "Cryptomnesia",
+  "aliases": ["Unconscious plagiarism", "Inadvertent plagiarism"],
+  "category": "memory",
+  "statement": "People reproduce words and ideas they have recently heard, believing them to be their own, at rates several times higher than chance.",
+  "meaning": "Cryptomnesia names a memory error rather than a moral judgement. Something encountered earlier is retrieved without any mark of where it came from, so it arrives feeling like invention. Brown and Murphy set it beside source amnesia and call it an extreme form of the same failure. In source amnesia the item is known to be old and its origin is lost. In cryptomnesia the item feels new. The laboratory version has a fixed three-stage shape. A small group takes turns producing items aloud, from a category or as solutions to a problem. Each person then writes down the items they themselves produced, avoiding everyone else's, and then produces further items that nobody has yet said. A plagiarism is scored when an item someone else generated turns up in either list. What the paradigm measures is a percentage of items written down, over sessions running from ten minutes to a week. That is the whole of what the numbers describe.",
+  "origin": {
+    "year": 1989,
+    "who": "Alan S. Brown and Dana R. Murphy",
+    "where": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+    "note": "Brown and Murphy write that cryptomnesia had not been directly investigated in a laboratory setting before their three experiments, and they build the generate, recall-own and recall-new sequence the field still uses. The word is much older. Jung's study of so-called occult phenomena, in Constance Long's 1916 translation, attributes the term to French investigators, and Brown and Murphy take their working definition from Taylor's 1965 paper in the British Journal of Psychiatry."
+  },
+  "evidence": "Brown and Murphy ran three experiments at Southern Methodist University. In the first, 24 students in six groups of four took turns naming members of four categories, four items each per category, 16 items per category in all. They were told not to repeat anything already said. During generation, 10 of the 24 produced an item someone else had given, 13 responses in all, or 3.4% of items and 3.6% after adjusting for repetition opportunities. Recalling their own items, 18 of 24 intruded at least one of someone else's, 28 responses or 7.3% of the total. Generating four new items per category, 17 of 24 did so, 33 words or 8.6%. The reference point was 1.6%, the self-repetition rate Gruenewald and Lockhead recorded for people generating alone. Eight further students generated all 16 items themselves and repeated two items out of 512, a rate of 0.4%. Scrambling those solo protocols into artificial four-person sequences, so that no one could have been monitoring anyone, produced overlap of 17.5%. The observed 3.6% sits between the two. Of 74 intrusions in Experiment 1, 38 came from the person who had spoken immediately before the plagiarist, 22 from the person after and 14 from the non-adjacent person. Experiment 2 tested 64 students and crossed semantic categories against orthographic ones, words starting BE, FO, MA and TH, with four generation patterns. Averaged across the three tasks, plagiarism ran at 13.2% for orthographic material against 7.8% for semantic, and 14.8% when categories were interleaved one item at a time against 8.3% for both blocked patterns. Confidence separated the errors cleanly. In the recall-own task, 94.4% of correct items were rated positive and 1.2% a guess, while 25.3% of plagiarised items were rated positive and 48.1% a guess. In Experiment 3, 21 students worked alone through packs of cards carrying category members, writing an item of their own on every fourth card. Plagiarism was 3.9% during generation, 3.9% in recall-own and 9.8% in recall-new. Self-plagiarism was rare throughout. Marsh and Bower replaced the group with a computer partner and the categories with Boggle puzzles, and report more plagiarism than Brown and Murphy found, with retention interval and depth of encoding both moving the rate. Landau and Marsh manipulated how easily self-generated and other-generated solutions could be told apart, and moved recall-own plagiarism up and down while leaving the two generative tasks untouched. Bink, Marsh, Hicks and Howard attributed traffic-safety ideas to traffic planners or to college freshmen, and found more plagiarism of the credible source in two experiments out of three, with no matching difference in explicit memory for who said what. Perfect and Stark had 27 and 29 students generate uses for common objects in groups of four, elaborate a quarter of the ideas by imagining them and a quarter by writing three improvements, and return a week later. As a proportion of ideas output in the recall-own task, control ideas were plagiarised 15.6% and 26.8% of the time across the two experiments and imagined ideas 15.6% and 21.7%, against 36.6% and 41.5% for ideas the participant had improved for their own use and 36.2% and 41.1% for ideas improved for someone else. Outside the laboratory, Defeldre asked 202 people to recall an episode of inadvertent plagiarism from their own past and found reported cases across writing, music and other everyday choices, with same-sex plagiarism more common than opposite-sex.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The basic effect has been produced by at least five research groups across three decades, in different materials and different countries, and nobody has published a failure to obtain it.",
+    "detail": "Marsh and Bower are the clearest independent repeat. Working at Stanford rather than Southern Methodist, swapping category exemplars for a word-search puzzle and the human group for a computer partner, they obtained more plagiarism than Brown and Murphy had, and showed that retention interval and degree of encoding both shift the rate. Landau and Marsh, Bink and colleagues, Perfect and Stark's group at Plymouth, and Hollins and colleagues have each since obtained plagiarism in the three-stage paradigm while manipulating something else. The one published contradiction inside the literature is about a moderator, not the effect. Perfect, Defeldre, Elliman and Dehon ran three experiments with younger and older participants and found no age-related increase in plagiarism, which they state stands against the single previous demonstration of one. Older adults instead intruded more items nobody had generated. The idea-improvement effect, in which elaborating someone else's idea roughly doubles the rate at which it is later recalled as one's own, has been obtained repeatedly, but almost entirely by Perfect, Stark and their colleagues at Plymouth rather than by independent laboratories. No multi-site or preregistered replication of any of this was located, and no meta-analysis.",
+    "study": {
+      "cite": "Marsh, R. L., & Bower, G. H. (1993). Eliciting cryptomnesia: Unconscious plagiarism in a puzzle task. Journal of Experimental Psychology: Learning, Memory, and Cognition, 19(3), 673-688.",
+      "doi": "10.1037/0278-7393.19.3.673",
+      "year": 1993
+    }
+  },
+  "limits": "The paradigm bounds the claim tightly. It measures what happens to single words or one-line ideas heard minutes or days earlier, in a task that forces an output on every blank line, among strangers who have no stake in the answer. It says nothing about how often a novelist, a songwriter or a researcher reproduces someone else's work, and it cannot say so, because no laboratory can run that study. Brown and Murphy's own choice of baseline is a judgement call they discuss at length: 1.6% comes from a different task in a different laboratory, and the solo-generation control they added returned 0.4%. Their Experiment 1 also had 24 participants. The search ran across Crossref, OpenAlex, PubMed, Semantic Scholar, the Caselaw Access Project and the open web. Brown and Murphy was read in full from a scan. Everything attributed here to Marsh and Bower, to Landau and Marsh, to Bink and colleagues, to Perfect, Defeldre, Elliman and Dehon, and to Defeldre comes from published abstracts rather than full texts, all of which are paywalled. Marsh, Landau and Hicks (1997) is named in the sources because it exists and is cited throughout this literature, but no abstract or full text of it could be retrieved. Perfect and Stark's 2008 review chapter, and Kreuz's 2026 book chapter on the subject, were both behind paywalls. Per-condition percentages for Marsh and Bower's immediate and delayed conditions circulate widely and appear in no source reached here, so they are left out. Louisa-Jayne Stark's Plymouth thesis is open access in principle and returned a server error on every attempt.",
+  "misreadings": "The first misreading is scale. A finding that 8.6% of words on a worksheet were borrowed is not a finding that some proportion of books are, and the laboratory literature will not support an accusation against any actual author. The second is confidence. Brown and Murphy's participants were not sure of their plagiarised items: in the recall-own task they rated 48.1% of them a guess and only 25.3% positive, against 94.4% positive for items they really had produced. Cryptomnesia in the laboratory looks less like conviction than like reaching for something and taking what comes. The third is the George Harrison case. Judge Owen held in Bright Tunes Music Corp. v. Harrisongs Music, Ltd. that My Sweet Lord infringed He's So Fine, and wrote that he did not believe Harrison had used the earlier music deliberately, because infringement is 'no less so even though subconsciously accomplished'. The finding cut both ways. When the same judge assessed damages five years later he attributed $1,599,987 of the song's earnings to the borrowed music, and noted that had he found deliberate copying he would have awarded the entire earnings. The case is a ruling on liability, not a measurement of anyone's memory, and it does not establish that cryptomnesia occurred. Two stock anecdotes do have primary sources, contrary to their reputation. Helen Keller devoted a chapter of The Story of My Life to writing 'The Frost King' at eleven, being shown Margaret Canby's 'The Frost Fairies', and being questioned by a panel at the Perkins Institution without her teacher present. Jung printed the Zarathustra passage in parallel columns against Kerner's Blätter aus Prevorst, volume four, page 57, and named the ship's log of 1686 it came from. What the Jung anecdote rests on is thinner than the parallel text suggests. His only evidence that Nietzsche ever read Kerner is a letter from Elisabeth Förster-Nietzsche, the poet's sister, saying he had read it between twelve and fifteen and never after. Last, misattributing a source is not the same error. Forgetting where a fact came from leaves the fact marked as learned. Cryptomnesia requires that the mark be gone.",
+  "sources": [
+    {
+      "text": "Brown, A. S., & Murphy, D. R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432-442. Read in full from a scan hosted by the University of Warwick; the source for every figure in the first half of the evidence section.",
+      "doi": "10.1037/0278-7393.15.3.432",
+      "url": "https://warwick.ac.uk/fac/sci/psych/people/fsch/fsch/studentresources/3rdyearprojects/projects/plag2.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Marsh, R. L., & Bower, G. H. (1993). Eliciting cryptomnesia: Unconscious plagiarism in a puzzle task. Journal of Experimental Psychology: Learning, Memory, and Cognition, 19(3), 673-688. Abstract read at PubMed; the full text is paywalled and the per-condition rates were not obtained.",
+      "doi": "10.1037/0278-7393.19.3.673",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8501434/",
+      "type": "replication"
+    },
+    {
+      "text": "Landau, J. D., & Marsh, R. L. (1997). Monitoring source in an unconscious plagiarism paradigm. Psychonomic Bulletin & Review, 4(2), 265-270. Abstract read at PubMed.",
+      "doi": "10.3758/BF03209404",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21331836/",
+      "type": "replication"
+    },
+    {
+      "text": "Marsh, R. L., Landau, J. D., & Hicks, J. L. (1997). Contributions of inadequate source monitoring to unconscious plagiarism during idea generation. Journal of Experimental Psychology: Learning, Memory, and Cognition, 23(4), 886-897. Listed because it exists and is cited throughout this literature. Neither its abstract nor its text could be retrieved, and nothing on this page rests on it.",
+      "doi": "10.1037/0278-7393.23.4.886",
+      "url": "https://doi.org/10.1037/0278-7393.23.4.886",
+      "type": "primary"
+    },
+    {
+      "text": "Bink, M. L., Marsh, R. L., Hicks, J. L., & Howard, J. D. (1999). The credibility of a source influences the rate of unconscious plagiarism. Memory, 7(3), 293-308. Abstract read at OpenAlex.",
+      "doi": "10.1080/096582199387931",
+      "url": "https://doi.org/10.1080/096582199387931",
+      "type": "replication"
+    },
+    {
+      "text": "Perfect, T. J., & Stark, L.-J. (2012). Unconscious plagiarism in recall: Attribution to the self, but not for self-relevant reasons. Europe's Journal of Psychology, 8(2), 275-283. Open access and read in full; the source for the idea-improvement percentages.",
+      "doi": "10.5964/ejop.v8i2.459",
+      "url": "https://ejop.psychopen.eu/index.php/ejop/article/view/459",
+      "type": "replication"
+    },
+    {
+      "text": "Stark, L.-J., Perfect, T. J., & Newstead, S. (2005). When elaboration leads to appropriation: Unconscious plagiarism in a creative task. Memory, 13(6), 561-573. Abstract read at PubMed.",
+      "doi": "10.1080/09658210444000232",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16076672/",
+      "type": "primary"
+    },
+    {
+      "text": "Stark, L.-J., & Perfect, T. J. (2008). The effects of repeated idea elaboration on unconscious plagiarism. Memory & Cognition, 36(1), 65-73. Abstract read at PubMed.",
+      "doi": "10.3758/MC.36.1.65",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18323063/",
+      "type": "primary"
+    },
+    {
+      "text": "Perfect, T. J., Field, I., & Jones, R. (2009). Source credibility and idea improvement have independent effects on unconscious plagiarism errors in recall and generate-new tasks. Journal of Experimental Psychology: Learning, Memory, and Cognition, 35(1), 267-274. Cited by Perfect and Stark for the double dissociation; not read here.",
+      "doi": "10.1037/a0013936",
+      "url": "https://doi.org/10.1037/a0013936",
+      "type": "replication"
+    },
+    {
+      "text": "Perfect, T. J., Defeldre, A.-C., Elliman, R., & Dehon, H. (2011). No evidence of age-related increases in unconscious plagiarism during free recall. Memory, 19(5), 514-528. Abstract read at OpenAlex.",
+      "doi": "10.1080/09658211.2011.590503",
+      "url": "https://doi.org/10.1080/09658211.2011.590503",
+      "type": "replication"
+    },
+    {
+      "text": "Hollins, T. J., Lange, N., Dennis, I., & Longmore, C. A. (2016). Social influences on unconscious plagiarism and anti-plagiarism. Memory, 24(7), 884-902. Abstract read at PubMed.",
+      "doi": "10.1080/09658211.2015.1059857",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26293909/",
+      "type": "replication"
+    },
+    {
+      "text": "Defeldre, A.-C. (2005). Inadvertent plagiarism in everyday life. Applied Cognitive Psychology, 19(8), 1033-1040. Abstract read at OpenAlex; the survey's own breakdown of how many participants recalled an episode was not obtained.",
+      "doi": "10.1002/acp.1129",
+      "url": "https://doi.org/10.1002/acp.1129",
+      "type": "primary"
+    },
+    {
+      "text": "Taylor, F. K. (1965). Cryptomnesia and plagiarism. British Journal of Psychiatry, 111(480), 1111-1118. The definition Brown and Murphy quote. Metadata verified at Crossref; the paper itself was not read.",
+      "doi": "10.1192/bjp.111.480.1111",
+      "url": "https://doi.org/10.1192/bjp.111.480.1111",
+      "type": "primary"
+    },
+    {
+      "text": "Bright Tunes Music Corp. v. Harrisongs Music, Ltd., 420 F. Supp. 177 (S.D.N.Y. 1976), Owen J., decided 31 August 1976. Full opinion read from the Caselaw Access Project scan of the Federal Supplement.",
+      "url": "https://static.case.law/f-supp/420/cases/0177-01.json",
+      "type": "primary"
+    },
+    {
+      "text": "ABKCO Music, Inc. v. Harrisongs Music, Ltd., 508 F. Supp. 798 (S.D.N.Y. 1981), Owen J., decided 19 February 1981. The damages ruling, read from the Caselaw Access Project scan; the source for the $1,599,987 figure and for the note that deliberate copying would have carried the whole of the song's earnings.",
+      "url": "https://static.case.law/f-supp/508/cases/0798-01.json",
+      "type": "primary"
+    },
+    {
+      "text": "Keller, H. (1903). The Story of My Life. Chapter 14 gives her own account of writing 'The Frost King' and of the inquiry that followed. Read in full at Project Gutenberg.",
+      "url": "https://www.gutenberg.org/cache/epub/2397/pg2397.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Jung, C. G. (1916). On the psychology and pathology of so-called occult phenomena. In Collected Papers on Analytical Psychology, ed. C. E. Long, pp. 86-89. London: Bailliere, Tindall and Cox. The parallel columns setting Thus Spoke Zarathustra against Kerner's Blätter aus Prevorst, and the report of Elisabeth Förster-Nietzsche's reply. Read from the Cornell scan at the Internet Archive.",
+      "url": "https://archive.org/details/cu31924029036577",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
