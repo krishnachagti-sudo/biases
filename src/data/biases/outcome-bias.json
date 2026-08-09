@@ -1,0 +1,71 @@
+{
+  "no": 195,
+  "slug": "outcome-bias",
+  "name": "Outcome bias",
+  "aliases": ["Resulting", "Outcome effect"],
+  "category": "decision",
+  "statement": "People judge a decision by how it turned out, rating the same choice as better thinking when the result was good than when it was bad.",
+  "meaning": "The claim is narrower than it first looks. Nobody disputes that a bad result is often a clue that a decision was bad, and Baron and Hershey grant that outcomes are worth reading when the actor knew things the judge does not. Their bias is what happens once that reason is removed. Judges are handed every probability the decision maker had, told the decision maker had nothing more, and then told the ending. On those terms the ending carries no information about the quality of the thinking, and ratings move anyway. The effect shows up on three separate measures: how good the thinking was, how competent the decision maker is, and whether the judge would let that person decide on their behalf. Asked directly, almost everyone says outcomes should not count.",
+  "origin": {
+    "year": 1988,
+    "who": "Jonathan Baron and John C. Hershey",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Five studies with undergraduates, mostly medical decisions and monetary gambles. The lead case gave a 55-year-old man with chest pain a bypass operation that would raise his life expectancy from 65 to 70, with an 8% chance of dying from the operation itself. Half the cases ended in success and half in failure, and the 8% was picked from pilot data so the decision would look hard."
+  },
+  "evidence": "Experiment 1 gave 20 Pennsylvania undergraduates 15 medical decisions on a scale from +3 for clearly correct to -3 for incorrect and inexcusable, with the instruction to rate the thinking that went into the decision. Cases with a good ending scored 0.70 higher than the matched cases with a bad ending, t(19) = 4.04, p < .001. The shift came from a minority of judgements: across 140 pairs differing only in ending, 44.3% favoured the success case, 9.3% favoured the failure case and 46.4% were rated equal. The pattern held where the patient rather than the physician made the choice, mean 0.48, t(19) = 2.59. Seven of the last eight participants said outcomes should not count, and those seven showed the effect, t(6) = 3.26, p < .01. Experiment 2 repeated it on a 30 to -30 scale with 41 people. Experiment 3 moved to 16 monetary gambles resolved by a roulette wheel. The winning gamble was rated 9.91 points higher, t(39) = 5.40, p < .001. Decisions also scored higher when the road not taken turned out badly, mean 5.03, t(38) = 4.15. Experiment 4 asked 29 people to predict the physician's future competence on a 0 to 100 scale, and the success cases won by 3.41, t(24) = 2.26. Experiment 5 dropped the within-subject design. Its 111 students, drawn from the first author's own class, were more willing to let another student decide a gamble on their behalf after that student had won, p < .005 by Fisher's exact test. Two studies find the same thing in doctors judging care. Caplan, Posner and Cheney sent 112 anaesthesiologists 21 anaesthetic cases, each written in a version ending in temporary injury and a version ending in permanent injury. Ratings of appropriate care fell by 31 percentage points when a temporary outcome was swapped for a permanent one, and rose by 28 points on the reverse swap, with the inverse relation present in 15 of the 21 matched pairs. Plaum and colleagues randomised outcome information in vignettes sent to 191 Dutch emergency physicians and general practitioners. Care in the abdominal pain case was called adequate by 44% of those told the patient did badly, against 88% of those told the patient did well. The trauma case ran 9% against 43% and the chest pain case 5% against 24%, all p < 0.01. The headache case, written to be of excellent quality, moved not at all, p = 0.80."
+  ,
+  "replication": {
+    "state": "replicated",
+    "headline": "A preregistered replication with 692 people found the effect larger than the original, and present in those who said outcomes should not count.",
+    "detail": "Aiyer, Kam, Ng, Young, Shi and Feldman ran Cases 1 to 4 of Baron and Hershey's Experiment 1 as a between-participants 2 x 2, decision maker crossed with outcome, on an online sample recruited through CloudResearch. Where the physician chose, the success version was rated d = 1.10, 95% CI 0.94 to 1.26 above the failure version; where the patient chose, d = 0.77, 0.62 to 0.93. Both are above the figures Aiyer and colleagues calculated for the original, 0.53 and 0.21, which Baron and Hershey did not print themselves. Switching to a between-participants design was the point: it removes the possibility that people rated matched cases alike only because they remembered their earlier answers, which is what most participants in the original said they were doing. The 44 people who rated the outcome as unimportant still showed the effect, d = 0.64, 0.21 to 1.08, p = .03. The extensions found the good ending also raised how responsible the decision maker was held to be, and raised what participants took the social norm to be.",
+    "study": {
+      "cite": "Aiyer, S., Kam, H. C., Ng, K. Y., Young, N. A., Shi, J., & Feldman, G. (2023). Outcomes affect evaluations of decision quality: Replication and extensions of Baron and Hershey's (1988) outcome bias Experiment 1. International Review of Social Psychology, 36(1), 12.",
+      "doi": "10.5334/irsp.751",
+      "year": 2023,
+      "n": 692
+    },
+    "original": { "es": 0.53, "esType": "d" },
+    "replicated": { "es": 1.1, "esType": "d", "ci": [0.94, 1.26], "ciLevel": 95 }
+  },
+  "limits": "No meta-analysis of outcome bias was located. Searches of Crossref, OpenAlex, FORRT's replication atlas entry for Baron and Hershey and the open web returned meta-analyses of outcome reporting bias, which is a different thing, and nothing pooling decision-evaluation studies. The absence is a search result, not a verdict. The original effect sizes were calculated by the replication team rather than printed in 1988. Two retrievals of their Table 7 gave the lower bound of the physician interval as 0.06 and as -0.06, so no interval is printed here for the original. Sample provenance in the original is thin: 20 to 111 undergraduates per study, all at one university, and Experiment 5 used the first author's own class in a course on thinking and decision making. The replication ran at one site through an online panel and used four of the original 15 cases, one medical scenario. Caplan and colleagues were read in abstract only, so the 31 and 28 point figures are quoted from the abstract and the analysis behind them was not seen. Sezer, Zhang, Gino and Bazerman's 2016 paper on reducing outcome bias by evaluating intentions jointly is named here because it exists and was not obtained; nothing from it is reported.",
+  "misreadings": "Outcome bias is not hindsight bias, and Baron and Hershey built the studies to keep them apart. Hindsight bias works on judged probability, so that a known ending looks like it was always likely. Outcome bias is a direct effect on the verdict, and it survives when the judge is handed the probabilities and told the decision maker had nothing else. Whether the two come apart outside such designs is contested. Kneer and Skoczen ran ten preregistered experiments with 2,043 people. Harmful endings raised the perceived ex ante probability of harm, and that rise carried the effect through to negligence and culpability. On those judgements the outcome effect sits back inside hindsight bias. The size of the thing is also routinely overstated. In Experiment 1 the two endings drew equal ratings in 46.4% of pairs, and in Experiment 4 the competence ratings were equal in 62.0% of pairs. Most judges do not flip; enough shift to move the mean. Knowing about the bias is not a defence. Participants who said the outcome should not count showed the effect in 1988 and again in 2023, and Baron and Hershey report that several of those participants also insisted they had not been swayed. The moral version, where a careless act is blamed more heavily when it happens to cause harm, is a separate entry under moral luck.",
+  "sources": [
+    {
+      "text": "Baron, J., & Hershey, J. C. (1988). Outcome bias in decision evaluation. Journal of Personality and Social Psychology, 54(4), 569-579.",
+      "doi": "10.1037/0022-3514.54.4.569",
+      "url": "https://www.sas.upenn.edu/~baron/papers/outcomebias.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Aiyer, S., Kam, H. C., Ng, K. Y., Young, N. A., Shi, J., & Feldman, G. (2023). Outcomes affect evaluations of decision quality: Replication and extensions of Baron and Hershey's (1988) outcome bias Experiment 1. International Review of Social Psychology, 36(1), 12.",
+      "doi": "10.5334/irsp.751",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/",
+      "type": "replication"
+    },
+    {
+      "text": "Caplan, R. A., Posner, K. L., & Cheney, F. W. (1991). Effect of outcome on physician judgments of appropriateness of care. JAMA, 265(15), 1957-1960. Read in abstract only at PubMed; the percentage-point figures quoted here come from that abstract.",
+      "doi": "10.1001/jama.1991.03460150061024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2008024/",
+      "type": "primary"
+    },
+    {
+      "text": "Plaum, P., Visser, L. N. C., de Groot, B., Morsink, M. E. B., Duijst, W. L. J. M., & Candel, B. G. J. (2024). Using case vignettes to study the presence of outcome, hindsight, and implicit bias in acute unplanned medical care: a cross-sectional study. European Journal of Emergency Medicine, 31(4), 260-266.",
+      "doi": "10.1097/MEJ.0000000000001127",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11198948/",
+      "type": "primary"
+    },
+    {
+      "text": "Kneer, M., & Skoczen, I. (2023). Outcome effects, moral luck and the hindsight bias. Cognition, 232, 105258. Read in abstract only, as indexed by OpenAlex.",
+      "doi": "10.1016/j.cognition.2022.105258",
+      "url": "https://api.openalex.org/works/doi:10.1016/j.cognition.2022.105258",
+      "type": "commentary"
+    },
+    {
+      "text": "Sezer, O., Zhang, T., Gino, F., & Bazerman, M. H. (2016). Overcoming the outcome bias: Making intentions matter. Organizational Behavior and Human Decision Processes, 137, 13-26. Named as existing; not obtained, and nothing is quoted from it.",
+      "doi": "10.1016/j.obhdp.2016.07.001",
+      "url": "https://doi.org/10.1016/j.obhdp.2016.07.001",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

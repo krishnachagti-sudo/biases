@@ -75,6 +75,27 @@ something, and the fabrication traces back here. So the instruction is explicit:
 the brief is a starting point for searching and has no authority over what the
 sources say. Contradicting it is the job working correctly.
 
+## Two sentence shapes that no gate can check
+
+Both were found by audit, in entries that had passed build, style, tests and
+the source check.
+
+**"No confidence interval is printed."** A claim that a source is silent is a
+claim about the whole of that source, and it is the one claim a reader cannot
+check without redoing the work. The Knobe entry said it; Many Labs 2 prints
+d = 1.75, 95% CI 1.70 to 1.80. If a figure could not be found, the page says
+where the search looked, in the same way `none-located` does.
+
+**"The one well-powered replication."** A superlative is falsified only by a
+search nobody has a reason to run. The curse-of-knowledge entry made this
+claim about Ryskin and Brown-Schmidt while Farrar and Ostojić's three studies
+and their meta-analysis sat unmentioned. Prefer naming what was found to
+ranking it against what was not.
+
+The general form is that an assertion about the absence or the exhaustiveness
+of evidence is far more expensive to verify than an assertion about a number,
+and both look equally confident on the page.
+
 ## What the agent must not do
 
 Touch git. Agents leave the working tree dirty and report; the review, the
