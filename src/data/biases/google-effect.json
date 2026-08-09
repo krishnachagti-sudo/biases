@@ -1,0 +1,102 @@
+{
+  "no": 112,
+  "slug": "google-effect",
+  "name": "Google effect",
+  "aliases": [
+    "Digital amnesia",
+    "Google effects on memory"
+  ],
+  "category": "memory",
+  "statement": "People recall information less well when they expect a computer to store it for them, and recall where to find it better instead.",
+  "meaning": "The claim is narrow. It is not that internet users have worse memories in general. It is that when a person believes a particular fact will stay available, the fact itself is encoded less strongly and its location is encoded more strongly. Sparrow, Liu and Wegner framed this as the internet becoming a transactive memory partner, the role that colleagues and spouses already play when a group divides up who remembers what. A second and separate claim from the same paper is that being stuck on a hard question primes the concept of computers. Those two claims have opposite replication records.",
+  "origin": {
+    "year": 2011,
+    "who": "Betsy Sparrow, Jenny Liu and Daniel M. Wegner",
+    "where": "Science",
+    "note": "Four experiments in a three-page report. Experiment 1 used a colour-naming task and found slower responses to computer words after hard trivia questions. Experiment 2 had people type 40 trivia statements and told half that the computer had saved them; those told the statements were erased recalled more. Experiments 3 and 4 tested memory for which folder a statement had been filed in. The term 'digital amnesia' appears nowhere in the paper."
+  },
+  "evidence": "Experiment 2 is the one the popular account rests on. Sixty people typed 40 trivia statements, in a between-subjects design crossing saved against erased with explicit instructions to remember against none. Proportion recalled was 0.31 in the erase condition and 0.29 in erase-plus-remember, against 0.22 in the save condition and 0.19 in save-plus-remember, omnibus F(3, 56) = 2.80, P < 0.05. Only the saved-erased manipulation mattered; telling people to try to remember did not. Experiment 4 gave 32 people statements they expected to be filed, and they recalled the folder better than the statement, 0.49 against 0.23, t(31) = 6.70, P < 0.001. Experiment 1 is the outlier in quality. Its sample size is reported inconsistently, the supplement saying 46 and the authors later saying 69, and its headline interaction, F(1, 66) = 5.02, P < 0.03, was computed on four words picked out of 24 after the fact.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The priming experiment failed twice at high power. The forgetting effect held up, but only when people had seen the saving work.",
+    "detail": "The Social Sciences Replication Project took Experiment 1, the colour-naming result, and ran it in two stages. Pooled across 234 participants the replication estimate was r = 0.050, P = 0.449, against an original of r = 0.368, P = 0.002. That is 13.5% of the original effect, and the project scored it as a failure at both stages. Hesselmann then rebuilt the experiment in Berlin using the design corrections Sparrow had published in reply, avoiding repeated words and putting the six-digit load on every trial. With 89 participants the interaction went the wrong way, t(88) = -1.04, P = .301, and the Bayes factor favoured the null by 5.07 to 1. Experiment 2 is a different story. Schooler and Storm reproduced the saved-versus-erased recall difference in two experiments, and found a boundary condition. It appeared after a practice phase that showed the saving process working, and vanished after a practice phase that showed it failing. Their second experiment reproduced the reliable-condition result across trivia from 10 topics.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "n": 234
+    },
+    "original": {
+      "es": 0.368,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": 0.05,
+      "esType": "r"
+    },
+    "indexedBy": "FLoRA"
+  },
+  "limits": "The two structured effect sizes above belong to Experiment 1 only, because that is the only part of the paper with a directly comparable original and replication estimate in the same metric. No such pair exists for Experiment 2. Schooler and Storm's sample sizes and effect sizes are not printed here: their paper is behind a paywall and only the abstract could be read, at Europe PMC. The replication power for the Sparrow replication was 80.7% rather than the project's planned 90%, because the original paper's stated sample size was wrong. Sparrow, writing in Nature Human Behaviour after the fact, argued the replication had changed the cognitive load manipulation and repeated Stroop words; the project reported that its conclusion held when only the first 24 trials were analysed. Daniel Wegner died in 2013 and the original materials were never supplied.",
+  "misreadings": "'Digital amnesia' is not a finding from this literature. Kaspersky Lab, a security company, coined the phrase in 2015 for a survey of about 6,000 consumers run by Opinion Matters, and states in its own follow-up report that it named the phenomenon. A survey commissioned to sell backup software is not evidence that memory has degraded. The second misreading is scope. Sparrow's experiments tested whether people forget specific facts they expect to look up again, in sessions lasting minutes. They did not test whether internet users remember worse in general, and nothing in the paper measures that. The third is direction. Storm and Stone report that saving one file before studying another improves memory for the second file, which makes offloading a way of freeing capacity rather than a way of losing it. Risko and Gilbert's review treats the whole family of behaviours, from tilting your head to setting a phone reminder, as ordinary use of the environment to cut cognitive demand.",
+  "sources": [
+    {
+      "text": "Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips. Science, 333(6043), 776-778.",
+      "doi": "10.1126/science.1207745",
+      "url": "https://doi.org/10.1126/science.1207745",
+      "type": "primary"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Per-study figures read off Supplementary Tables 3 and 4.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Hesselmann, G. (2020). No conclusive evidence that difficult general knowledge questions cause a \"Google Stroop effect\". A replication study. PeerJ, 8, e10325.",
+      "doi": "10.7717/peerj.10325",
+      "url": "https://doi.org/10.7717/peerj.10325",
+      "type": "replication"
+    },
+    {
+      "text": "Schooler, J. N., & Storm, B. C. (2021). Saved information is remembered less well than deleted information, if the saving process is perceived as reliable. Memory, 29(9), 1101-1110. Read as an abstract only.",
+      "doi": "10.1080/09658211.2021.1962356",
+      "url": "https://doi.org/10.1080/09658211.2021.1962356",
+      "type": "replication"
+    },
+    {
+      "text": "Sparrow, B. (2018). The importance of contextual relevance. Nature Human Behaviour, 2(9), 607.",
+      "doi": "10.1038/s41562-018-0411-7",
+      "url": "https://doi.org/10.1038/s41562-018-0411-7",
+      "type": "secondary"
+    },
+    {
+      "text": "Storm, B. C., & Stone, S. M. (2015). Saving-Enhanced Memory. Psychological Science, 26(2), 182-188. Read as an abstract only.",
+      "doi": "10.1177/0956797614559285",
+      "url": "https://doi.org/10.1177/0956797614559285",
+      "type": "secondary"
+    },
+    {
+      "text": "Risko, E. F., & Gilbert, S. J. (2016). Cognitive Offloading. Trends in Cognitive Sciences, 20(9), 676-688. Read as an abstract only.",
+      "doi": "10.1016/j.tics.2016.07.002",
+      "url": "https://doi.org/10.1016/j.tics.2016.07.002",
+      "type": "secondary"
+    },
+    {
+      "text": "Gong, C., & Yang, Y. (2024). Google effects on memory: a meta-analytical review of the media effects of intensive Internet search behavior. Frontiers in Public Health, 12, 1332030. Pools 35 comparisons across five kinds of outcome and does not isolate either of Sparrow's effects.",
+      "doi": "10.3389/fpubh.2024.1332030",
+      "url": "https://doi.org/10.3389/fpubh.2024.1332030",
+      "type": "secondary"
+    },
+    {
+      "text": "Kaspersky Lab (2016). From Digital Amnesia to the Augmented Mind. Company report stating that Kaspersky Lab coined the term after a 2015 survey of over 6,000 consumers commissioned from Opinion Matters.",
+      "url": "https://media.kaspersky.com/pdf/Kaspersky-Digital-Amnesia-Evolution-report-17-08-16.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "FORRT Library of Reproduction and Replication Attempts (FLoRA) Replication Atlas entry for doi 10.1126/science.1207745. Used to locate replications, not as the source for what they found.",
+      "url": "https://forrt.org/flora-replication-atlas/doi/10.1126/science.1207745/",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
