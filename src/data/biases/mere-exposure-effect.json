@@ -5,14 +5,14 @@
   "aliases": ["Familiarity principle", "Zajonc effect", "Exposure effect"],
   "category": "perception",
   "statement": "Seeing something repeatedly makes people like it more, with no need for the repetitions to have taught them anything about it.",
-  "meaning": "The word mere is carrying the claim. Liking something more after learning it is useful is unremarkable; the proposal is that bare repeated exposure, with no reward and no new information, is enough on its own. Zajonc's demonstrations used nonsense words, Chinese-like characters and unfamiliar faces precisely so that nothing could be learned from a second look. The effect has been reported for stimuli presented too briefly to be consciously recognised, which if it holds means the preference forms without the person knowing what they are preferring.",
+  "meaning": "The word mere is carrying the claim. Liking something more after learning it is useful is unremarkable; the proposal is that bare repeated exposure, with no reward and no new information, is enough on its own. Zajonc's demonstrations used nonsense words and unfamiliar symbols precisely so that nothing could be learned from a second look. The effect has been reported for stimuli presented too briefly to be consciously recognised, which if it holds means the preference forms without the person knowing what they are preferring.",
   "origin": {
     "year": 1968,
     "who": "Robert Zajonc",
     "where": "Journal of Personality and Social Psychology",
     "note": "The monograph is \"Attitudinal effects of mere exposure\". Zajonc also pointed at correlational evidence outside the laboratory, including the relationship between how often a word appears in a language and how positive its meaning is."
   },
-  "evidence": "The standard procedure shows a set of unfamiliar items varying numbers of times, then asks how much the participant likes each one. Liking rises with the number of prior showings. The paradigm is easy to run, has been run for over fifty years, and appears across pictures, words, sounds and faces, which is why the meta-analytic question is not whether the effect exists but what shape it has.",
+  "evidence": "The standard procedure shows a set of unfamiliar items varying numbers of times, then asks how much the participant likes each one. Liking rises with the number of prior showings. The paradigm is easy to run, has been run for over fifty years, and appears across pictures, words, sounds and faces, which is why the meta-analytic question is not whether the effect exists but what shape it has. Zajonc's monograph rested on four kinds of evidence. Two were correlational: how often a word appears against the affective connotation of the word, and word frequency against attitudes to what the words refer to. Two were experimental: manipulated frequency of exposure against the connotation of nonsense words and symbols, and manipulated frequency against attitude. The monograph is paywalled, so its own condition means and test statistics are not quoted here.",
   "replication": {
     "state": "mixed",
     "headline": "A meta-analysis of 268 curve estimates found the effect is real and that it is an inverted U, so more exposure stops helping and starts hurting.",
@@ -23,8 +23,8 @@
       "year": 2017
     }
   },
-  "limits": "No pooled effect size is printed here because the meta-analysis models a curve rather than estimating a single difference, and quoting one number for an inverted U would misdescribe its main finding. The 268 figure counts curve estimates and the 81 counts articles. The moderator results also mean the effect should not be assumed to transfer between modalities: the shape held for what people see and not for what they hear, which matters for anyone reasoning from this literature about repeated advertising or repeated music. And a meta-analysis inherits whatever publication bias sits in its inputs, which for a fifty-year-old effect with an easy paradigm is a real concern.",
-  "misreadings": "The effect is routinely cited as though more exposure always means more liking, which the meta-analysis specifically contradicts. It also gets used to explain advertising wearout and its opposite at the same time, which should be a warning: a claim that predicts both outcomes predicts neither. And the subliminal version, where preferences form for stimuli shown too briefly to recognise, is the most-quoted and least-secure part of the literature; it rests on a smaller body of work than the ordinary version does.",
+  "limits": "No pooled effect size is printed here because the meta-analysis models a curve rather than estimating a single difference, and quoting one number for an inverted U would misdescribe its main finding. The 268 figure counts curve estimates and the 81 counts articles. The moderator results also mean the effect should not be assumed to transfer between modalities: the shape held for what people see and not for what they hear, which matters for anyone reasoning from this literature about repeated advertising or repeated music. And a meta-analysis inherits whatever publication bias sits in its inputs, which for a fifty-year-old effect with an easy paradigm is a real concern. Bornstein's 1989 synthesis of the first twenty years of this literature is the other landmark review, and it is the source of the figures usually quoted for the effect. Neither its full text nor its abstract could be obtained for this entry, so its study count, its pooled correlation and its exposure-frequency finding are left out rather than repeated from secondary descriptions. Anyone citing a pooled r for mere exposure is citing Bornstein, and should read him first.",
+  "misreadings": "The effect is routinely cited as though more exposure always means more liking, which the meta-analysis specifically contradicts. It also gets used to explain advertising wearout and its opposite at the same time, which should be a warning: a claim that predicts both outcomes predicts neither. And the subliminal version, where preferences form for stimuli shown too briefly to recognise, is the most-quoted and least-secure part of the literature. De Zilva, Vu, Newell and Pearson used continuous flash suppression to hold stimuli out of awareness, and checked awareness on every trial. Across two experiments no exposure effect appeared without awareness. Liking and recognition rose only when participants could see what they had been shown. That does not settle the question, and it does mean the subliminal claim rests on weaker ground than the ordinary one.",
   "sources": [
     {
       "text": "Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9(2, Pt.2), 1-27.",
@@ -37,7 +37,19 @@
       "doi": "10.1037/bul0000085",
       "url": "https://doi.org/10.1037/bul0000085",
       "type": "replication"
+    },
+    {
+      "text": "Bornstein, R. F. (1989). Exposure and affect: Overview and meta-analysis of research, 1968-1987. Psychological Bulletin, 106(2), 265-289.",
+      "doi": "10.1037/0033-2909.106.2.265",
+      "url": "https://doi.org/10.1037/0033-2909.106.2.265",
+      "type": "review"
+    },
+    {
+      "text": "de Zilva, D., Vu, L., Newell, B. R., & Pearson, J. (2013). Exposure is not enough: Suppressing stimuli from awareness can abolish the mere exposure effect. PLoS ONE, 8(10), e77726.",
+      "doi": "10.1371/journal.pone.0077726",
+      "url": "https://doi.org/10.1371/journal.pone.0077726",
+      "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
