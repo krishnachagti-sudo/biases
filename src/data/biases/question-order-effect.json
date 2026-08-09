@@ -12,20 +12,20 @@
     "where": "Public Opinion Quarterly",
     "note": "Their paper is \"Assimilation and Contrast Effects in Part-Whole Question Sequences: A Conversational Logic Analysis\". Order effects in surveys were documented long before it; what this study added was a mechanism and a specific prediction about correlations."
   },
-  "evidence": "One hundred participants answered a question about relationship satisfaction and a question about life satisfaction, in one order or the other. Specific first produced a correlation of r = 0.67 between the two answers. Specific second produced r = 0.32. The difference between those correlations was the effect, reported as q = 0.48 with a 95% confidence interval from 0.07 to 0.88.",
+  "evidence": "One hundred participants answered a question about relationship satisfaction and a question about life satisfaction, in one order or the other. Specific first produced a correlation of r = 0.67 between the two answers. Specific second produced r = 0.32. The difference between those correlations was the effect, tested as z = 2.32, p < 0.01, and summarised as q = 0.48 with a 95% confidence interval from 0.07 to 0.88. Those last two figures are quoted from Many Labs 2, which recalculated the original effect size and its interval from the reported cell sizes. The 1991 article could not be obtained during this check.",
   "replication": {
     "state": "failed",
     "headline": "Across 7,460 people the two correlations came out the wrong way round: 0.38 for specific-first against 0.44 for specific-second.",
-    "detail": "Many Labs 2 ran the same pair of questions in 36 countries. Where the original found the correlation much stronger when the specific question came first, the replication found it slightly stronger when the specific question came second: 0.44 against 0.38. The difference was q = -0.07 with a 95% confidence interval from -0.12 to -0.02, so it is small, reliably non-zero, and pointing the opposite way to the prediction. The original gap of 0.35 between the two correlations does not appear at any size.",
+    "detail": "Many Labs 2 split its 28 replications across two protocols, and this pair of questions sat in the second, which 61 of its 125 samples took. Where the original found the correlation much stronger when the specific question came first, the replication found it slightly stronger when the specific question came second: 0.44 against 0.38. The difference was q = -0.07 with a 95% confidence interval from -0.12 to -0.02, so it is small, reliably non-zero, and pointing the opposite way to the prediction. The original pattern of 0.67 against 0.32 does not appear at any size.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 125,
+      "sites": 61,
       "n": 7460
     }
   },
-  "limits": "No structured effect sizes are printed above because the measure is Cohen's q, a difference between two correlations, and this site's schema covers standardised mean differences, correlations, odds ratios and the like rather than differences between correlations. The four correlations and the two q values are in the paragraph instead. There is a second limit the replication authors flag themselves: the original had these two questions preceded by nothing at all, whereas in a large multi-study protocol they sit inside a longer session. Since the effect is about what the preceding context makes available, a longer preceding context is a real difference and not only a nuisance. What has not failed is the broader finding that survey answers move with question order, which is one of the best-documented facts in survey methodology; what failed is this specific part-whole prediction about correlations.",
+  "limits": "No structured effect sizes are printed above because the measure is Cohen's q, a difference between two correlations, and this site's schema covers standardised mean differences, correlations, odds ratios and the like rather than differences between correlations. The four correlations and the two q values are in the paragraph instead. There is a second limit the replication authors flag themselves: the original had these two questions preceded by nothing at all, whereas in a large multi-study protocol they sit inside a longer session. Since the effect is about what the preceding context makes available, a longer preceding context is a real difference and not only a nuisance. The authors tested it. Among the 470 participants who met this pair of questions first, both orders gave r = 0.41, q = 0.00 with a 95% confidence interval from -0.18 to 0.18. That subsample shows neither the original effect nor the reversal. What has not failed is the broader finding that survey answers move with question order, which is one of the best-documented facts in survey methodology; what failed is this specific part-whole prediction about correlations.",
   "misreadings": "The result is often cited as proof that survey responses are meaningless, which is far more than either the original or the replication supports. It is also frequently confused with the general phenomenon of order effects, which is much better established and rests on a different kind of evidence, mostly split-ballot experiments in real surveys rather than a correlation comparison in a laboratory. An entry that let this failure stand for that whole literature would be making the same mistake in reverse.",
   "sources": [
     {
@@ -41,5 +41,5 @@
       "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
