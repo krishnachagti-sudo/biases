@@ -12,16 +12,16 @@
     "where": "Journal of Personality and Social Psychology",
     "note": "The paper is \"Moral typecasting: Divergent perceptions of moral agents and moral patients\", and it sits inside their broader dyadic account of moral cognition."
   },
-  "evidence": "Sixty-nine participants read about a tray of glasses knocked over, with either a man harming a baby or a baby harming a man, and rated responsibility, intentionality and the victim's pain. The man was rated more responsible than the baby, 5.29 against 3.86, d = 0.80. He was rated as acting more intentionally, and when he was the one harmed he was judged to feel less pain than the baby did. Responsibility was the measure carried forward for replication.",
+  "evidence": "The paper reports seven studies. Study 1a is the one with a replication record. Sixty-nine participants read about a tray of glasses knocked over, with either a man harming a baby or a baby harming a man, and rated responsibility, intentionality and the victim's pain. The man was rated more responsible than the baby, 5.29 against 3.86, d = 0.80. He was rated as acting more intentionally, 4.05 against 3.07, d = 0.53. When he was the one harmed he was judged to feel less pain than the baby, 4.63 against 5.76, d = 0.85. Responsibility was the measure carried forward for replication. Gray and Wegner's paper is paywalled and could not be opened for this check, so the Study 1a figures here are quoted from Many Labs 2's account of it rather than from the paper.",
   "replication": {
     "state": "replicated",
     "headline": "Across 8,002 people the asymmetry came back slightly larger than the original, at d = 0.95.",
-    "detail": "Many Labs 2 ran the glasses vignette in 36 countries. The adult was rated 5.41 for responsibility and the baby 3.77, giving d = 0.95 with a 95% confidence interval from 0.91 to 1.00. The original was 0.80, interval 0.31 to 1.29. The replication estimate sits inside the original interval and is far more precise, which is the cleanest possible outcome for a replication and rarer in this project than the headline numbers suggest.",
+    "detail": "Many Labs 2 ran the glasses vignette in its second slate, which was administered at 61 of the project's 125 samples. The adult was rated 5.41 for responsibility and the baby 3.77, giving d = 0.95 with a 95% confidence interval from 0.91 to 1.00. The original was 0.80, interval 0.31 to 1.29. The replication estimate sits inside the original interval and is far more precise. Both secondary measures were run as well. The adult was rated as acting more intentionally, d = 0.50 with an interval from 0.46 to 0.55, and as feeling less pain when harmed, d = 0.62 with an interval from 0.57 to 0.66. Each is smaller than the original estimate for the same measure.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 125,
+      "sites": 61,
       "n": 8002
     },
     "original": { "es": 0.80, "esType": "d", "ci": [0.31, 1.29], "ciLevel": 95 },

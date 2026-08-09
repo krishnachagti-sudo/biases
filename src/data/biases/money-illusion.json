@@ -1,0 +1,109 @@
+{
+  "no": 183,
+  "slug": "money-illusion",
+  "name": "Money illusion",
+  "aliases": ["Nominal illusion", "Nominal evaluation", "Money veil"],
+  "category": "decision",
+  "statement": "People judge money by its face value, so identical real outcomes look better when the numbers are bigger, and nominal prices resist coming down.",
+  "meaning": "Two definitions travel under this name. Irving Fisher's is a failure of perception: people do not notice that the unit of money itself changes in value, so a mark or a dollar feels fixed while goods appear to move. The experimental literature uses a narrower test. Money illusion is present when behaviour differs across two situations that are identical in real terms and differ only in how the numbers are written. That makes it a framing effect, and it is measurable, which is why nearly all the evidence since 1997 is built on it. The evidence comes in three kinds that are usually quoted together and should not be. Survey vignettes ask people to judge hypothetical raises, house sales and contracts. Laboratory pricing games pay real money for getting the arithmetic right. Field data record what wages and house prices actually did. The three do not agree about how much illusion there is. The laboratory results also turn on a mechanism the vignettes cannot show, which is what players expect other players to do.",
+  "origin": {
+    "year": 1928,
+    "who": "Irving Fisher",
+    "where": "The Money Illusion (Adelphi Company, New York)",
+    "note": "The book grew out of lectures given in the summer of 1927 at the Geneva School of International Studies. Fisher defines the illusion in its first chapter as \"the failure to perceive that the dollar, or any other unit of money, expands or shrinks in value\", and his evidence is anecdote rather than measurement. The experimental literature dates instead from Shafir, Diamond and Tversky's 1997 paper in the Quarterly Journal of Economics, which recast the term as a framing effect and supplied the survey problems used ever since."
+  },
+  "evidence": "Fisher's case was a travelogue. Touring Germany in 1922 with Frederick W. Roman, he talked at length with twenty-four men and women met by chance, and only one of them had any idea that the mark had changed in value. A shopkeeper on the outskirts of Berlin told him the shirt she had just sold him would cost as much to replace as she had charged, and then said she had made a profit on it because she had bought it for less. By then, Fisher writes, the mark had depreciated by more than ninety-eight per cent. Shafir, Diamond and Tversky replaced the anecdotes with four survey problems, whose original figures are quoted here from the tables of Ziano and colleagues' replication rather than from the 1997 paper, which was not obtained. Asked about Ann, who got a 2% raise with no inflation, and Barbara, who got a 5% raise with 4% inflation, 71% of 150 respondents said Ann was doing better in economic terms, but only 36% of 69 thought her happier and 65% of 139 thought her more likely to leave her job. Ranking three men who bought and sold a house, 47% put first the seller with a 23% nominal gain and a 2% real loss, and 54% put last the seller with a 23% nominal loss and a 2% real gain. Told that all prices and salaries had risen 25%, 38% said they were less likely to buy an armchair and 43% said they were more likely to sell one. Offered two sale contracts, 81% of 47 chose the one that was riskless in real terms when the choice was described in real terms, against 59% of 49 in nominal terms and 54% of 43 in neutral terms. Fehr and Tyran took the question into a paid pricing game with 130 subjects at the University of Zurich. A fully anticipated monetary shock moved the average equilibrium price from 18 to 6. Against computers that best-replied, subjects seeing real payoffs adjusted at once, and subjects seeing nominal payoffs mostly did too, with 80% fully adjusting and the average price 2.1 units too high. Against other humans the gap was far larger. Average prices stood 3.1 units above equilibrium in the first period after the shock under the real frame and 7.1 units above it under the nominal frame, and the nominal groups took eight periods to fall to the real frame's opening deviation. Prices were significantly out of equilibrium for 12 periods under the nominal frame and 2 under the real one. Nominal groups lost 26% of their potential payoff over the first ten post-shock periods, against slightly under 14% for real groups. A further 96 subjects faced a positive shock instead, and the nominal groups were out of equilibrium for only three periods.",
+  "replication": {
+    "state": "mixed",
+    "headline": "All four survey problems replicated at N = 604, but a redesigned re-run of the strongest laboratory experiment found no first-order money illusion at all.",
+    "detail": "Ziano, Li, Tsun, Lei, Kamath, Cheng and Feldman ran all four Shafir problems on 604 MTurk workers and called every one a success. Problem 1 gave Cramer's V of 0.28, 95% CI [0.21, 0.36], against 0.26 [0.17, 0.37] recalculated by them from the original. In problem 2 the seller with the largest nominal gain was ranked first by 70% against 47% originally. In problem 3 the buy and sell splits were 6/47/47 and 43/49/8 per cent against 7/55/38 and 43/42/15. Problem 4 gave V = 0.17 [0.10, 0.25] against 0.25 [0.13, 0.42]. De Moraes Ferreira and colleagues then ran the four problems on 372 Brazilians and reported the same patterns, with 78% naming the person whose raise was larger in real terms as better off and 43% ranking the largest nominal gain first. The laboratory side went the other way. Petersen and Winn rebuilt Fehr and Tyran's game for 225 subjects at Chapman University and the University of California, Santa Cruz, changing three things: a nominal payoff mapping under which the illusion-driven choice and the rational choice differ, a marked focal point present in both frames, and best-reply functions that are symmetric across positive and negative shocks. Not a single decision in their computerised nominal treatment was consistent with taking nominal payoffs for real ones. What remained they attribute to the difficulty of finding the equilibrium among 1,800 payoffs, plus a weak preference for high nominal payoffs among prices that already maximise real payoffs. Their focal point did not shrink the opening deviation in the nominal human treatment, which at 5.6 units was not significantly different from Fehr and Tyran's 7.1, but it cut the duration of inertia by 42%. Fehr and Tyran replied in the same issue that both datasets show money illusion driving expectations after a negative shock, and that Petersen and Winn misread their own data.",
+    "study": {
+      "cite": "Ziano, I., Li, J., Tsun, S. M., Lei, H. C., Kamath, A. A., Cheng, B. L., & Feldman, G. (2021). Revisiting \"money illusion\": Replication and extension of Shafir, Diamond, and Tversky (1997). Journal of Economic Psychology, 83, 102349.",
+      "doi": "10.1016/j.joep.2020.102349",
+      "year": 2021,
+      "n": 604
+    }
+  },
+  "limits": "The survey effect is not uniform across its four problems. In the replication the economic-terms condition of problem 1 fell from 71% to 56% and no longer differed from chance, p = .14, and the authors called the replication successful on the overall pattern rather than on that cell. Problem 4 is thinner still. Its original cells held 47, 49 and 43 respondents, and in the replication only the real-terms frame differed from an even split, with p = .16 for the nominal frame and p = .73 for the neutral one. The effect there lives in the contrast between conditions, not in any one of them. The Cramer's V figures attributed to the original study were recalculated by the replication authors and are not printed in the 1997 paper. None of the vignettes pays anything. The neuroimaging evidence is smaller than its title suggests. Weber, Rangel, Wibral and Falk scanned 24 subjects who earned money in a dot-estimation task under two catalogues whose prices and incomes differed by 50%, leaving purchasing power identical. Two subjects were dropped for scanner dysfunction and four for head movement. The ventromedial prefrontal contrast at 12/47/0 was reported at p < 0.001 uncorrected with a 10-voxel extent threshold, and the correlation with a questionnaire measure of illusion, Spearman's r = 0.60, p < 0.01, is a cross-subject correlation in that reduced sample. The authors state plainly that their experiment produced no behavioural difference. On the field side, Grigsby, Hurst and Yildirmaz's payroll records from 2008 to 2016 show that 2.4% of workers who stayed in the same job took a cut in nominal base pay in a given year and about a third saw no change at all, which is rigidity but says nothing about its cause. The same data show 38% of job-changers taking a nominal cut, and pooling stayers with changers raises the share to about 9%, so the aggregate economy is more flexible than the stayer figure implies. Brunnermeier and Julliard's housing evidence is a time-series decomposition of the United Kingdom price-rent ratio from 1966:Q2 to 2004:Q4, in which inflation explains much of an estimated mispricing component; no individual is measured. On whether money illusion behaves differently where inflation is high, the only thing located was the Brazilian replication succeeding; searches of Crossref, OpenAlex and the web for experimental work in high-inflation economies turned up nothing usable.",
+  "misreadings": "The strongest laboratory finding is not that individuals stay confused. Fehr and Tyran's second experiment, a coordination game with 174 students and three ranked equilibria, shows the opposite at the individual level. Playing against computers under the nominal frame, the share choosing the efficient equilibrium rose from 22.7% in period 1 to 81.8% by period 30, so individual illusion faded with practice. Playing against other humans under the same frame, not one subject chose that equilibrium in any of the 30 periods, and 84% had settled on the equilibrium with the highest nominal payoff and a lower real one by the end. Under the real frame 98% played the efficient equilibrium in the final four periods. The lasting effect runs through beliefs about what others will do, not through arithmetic that people cannot perform. A second misreading treats the effect as symmetric. In the price-setting experiment nominal groups were out of equilibrium for 12 periods after a negative shock and three after a positive one, and Noussair, Richter and Tyran report the same asymmetry in an experimental asset market. Money illusion in this literature is a claim about resistance to nominal cuts. Third, downward nominal wage rigidity is evidence that wages rarely fall, not evidence of why. Fourth, the headline that the brain exhibits money illusion describes a between-condition contrast at an uncorrected threshold in a study whose subjects behaved identically in the two conditions. Finally, Fisher's illusion and the experimental one are different claims. Fisher's shopkeeper did not know the unit had moved. A subject in a framing experiment is told the inflation rate and still answers differently depending on how the numbers are laid out.",
+  "sources": [
+    {
+      "text": "Fisher, I. (1928). The Money Illusion. New York: Adelphi Company. Read in full from the scanned copy at the Internet Archive; the definition, the twenty-four German travellers and the Berlin shopkeeper are in chapter I.",
+      "url": "https://archive.org/details/in.ernet.dli.2015.25405",
+      "type": "primary"
+    },
+    {
+      "text": "Shafir, E., Diamond, P., & Tversky, A. (1997). Money Illusion. The Quarterly Journal of Economics, 112(2), 341-374. Bibliographic record and published abstract read at Crossref and OpenAlex; the article itself was not obtained, and its survey figures are quoted here from the tables of Ziano and colleagues (2021).",
+      "doi": "10.1162/003355397555208",
+      "url": "https://doi.org/10.1162/003355397555208",
+      "type": "primary"
+    },
+    {
+      "text": "Fehr, E., & Tyran, J.-R. (2001). Does Money Illusion Matter? American Economic Review, 91(5), 1239-1262. Read in full from the copy hosted by the University of Zurich; the price paths, deviations and efficiency losses come from its Tables 3 and 4 and section III.",
+      "doi": "10.1257/aer.91.5.1239",
+      "url": "https://www.econ.uzh.ch/dam/jcr:ffffffff-9758-127f-0000-0000595d2fcd/DoesMoneyIllusionMatter.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fehr, E., & Tyran, J.-R. (2007). Money illusion and coordination failure. Games and Economic Behavior, 58(2), 246-268. The coordination-game figures on this page are read from the earlier CESifo Working Paper 1141 of February 2004, which was obtained in full; the published version was not.",
+      "doi": "10.1016/j.geb.2006.04.005",
+      "url": "https://www.ifo.de/DocDL/cesifo1_wp1141.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fehr, E., & Tyran, J.-R. (2008). Limited Rationality and Strategic Interaction: The Impact of the Strategic Environment on Nominal Inertia. Econometrica, 76(2), 353-394. Published abstract read at Crossref and OpenAlex; the article itself was not obtained, and no figure from it appears on this page.",
+      "doi": "10.1111/j.1468-0262.2008.00836.x",
+      "url": "https://doi.org/10.1111/j.1468-0262.2008.00836.x",
+      "type": "primary"
+    },
+    {
+      "text": "Ziano, I., Li, J., Tsun, S. M., Lei, H. C., Kamath, A. A., Cheng, B. L., & Feldman, G. (2021). Revisiting \"money illusion\": Replication and extension of Shafir, Diamond, and Tversky (1997). Journal of Economic Psychology, 83, 102349. Read in full from the authors' preprint on OSF; the original and replication figures come from its Tables 3, 5, 7 and 9.",
+      "doi": "10.1016/j.joep.2020.102349",
+      "url": "https://osf.io/rv9mw/",
+      "type": "replication"
+    },
+    {
+      "text": "de Moraes Ferreira, M., Yumi Tsushima Santiago, M., Bastos, R., Fatori, D., Sardinha Borborema, R., Seda, L., & Camargo Batistuzzo, M. (2024). Replication: The money illusion effect in a Brazilian sample and meta-analyses. Journal of Economic Psychology, 104, 102744. The Brazilian figures here are read from the authors' earlier preprint, which reports the replication without the meta-analyses added in the published version.",
+      "doi": "10.1016/j.joep.2024.102744",
+      "url": "https://osf.io/preprints/psyarxiv/fh597",
+      "type": "replication"
+    },
+    {
+      "text": "Petersen, L., & Winn, A. (2014). Does Money Illusion Matter? Comment. American Economic Review, 104(3), 1047-1062. Read in full from the authors' working-paper version, titled \"The Role of Money Illusion in Nominal Price Adjustment\".",
+      "doi": "10.1257/aer.104.3.1047",
+      "url": "https://www.sfu.ca/~lubap/Site/Luba_Petersen_files/PW%20-%20The%20role%20of%20money%20illusion%20in%20nominal%20price%20adjustment.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Fehr, E., & Tyran, J.-R. (2014). Does Money Illusion Matter? Reply. American Economic Review, 104(3), 1063-1071. Published abstract read at Crossref and OpenAlex; the reply itself was not obtained.",
+      "doi": "10.1257/aer.104.3.1063",
+      "url": "https://doi.org/10.1257/aer.104.3.1063",
+      "type": "commentary"
+    },
+    {
+      "text": "Weber, B., Rangel, A., Wibral, M., & Falk, A. (2009). The medial prefrontal cortex exhibits money illusion. Proceedings of the National Academy of Sciences, 106(13), 5025-5028. Read in full from the open copy at Europe PMC.",
+      "doi": "10.1073/pnas.0901490106",
+      "url": "https://europepmc.org/articles/PMC2664018",
+      "type": "primary"
+    },
+    {
+      "text": "Grigsby, J., Hurst, E., & Yildirmaz, A. (2019). Aggregate Nominal Wage Adjustments: New Evidence from Administrative Payroll Data. NBER Working Paper 25628. Read in full; published in 2021 in the American Economic Review, 111(2), 428-471, which was not obtained. The wage figures on this page are the working paper's.",
+      "doi": "10.3386/w25628",
+      "url": "https://www.nber.org/system/files/working_papers/w25628/w25628.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Brunnermeier, M. K., & Julliard, C. (2008). Money Illusion and Housing Frenzies. Review of Financial Studies, 21(1), 135-180. The sample period and the mispricing decomposition are read from the NBER working-paper version, number 12810 of December 2006.",
+      "doi": "10.1093/rfs/hhm043",
+      "url": "https://www.nber.org/system/files/working_papers/w12810/w12810.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Noussair, C. N., Richter, G., & Tyran, J.-R. (2012). Money Illusion and Nominal Inertia in Experimental Asset Markets. Journal of Behavioral Finance, 13(1), 27-37. Bibliographic record verified at Crossref; the article itself was not obtained, and only its reported direction of asymmetry is used here.",
+      "doi": "10.1080/15427560.2012.654546",
+      "url": "https://doi.org/10.1080/15427560.2012.654546",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
