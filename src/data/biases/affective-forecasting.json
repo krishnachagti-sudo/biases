@@ -1,0 +1,95 @@
+{
+  "no": 161,
+  "slug": "affective-forecasting",
+  "name": "Affective forecasting",
+  "aliases": ["Impact bias", "Durability bias", "Intensity bias", "Immune neglect"],
+  "category": "decision",
+  "statement": "People overestimate how strongly and how long a future event will move them, an error that shrinks or disappears when they are asked about their feelings towards the event itself.",
+  "meaning": "Three separate claims travel under this heading and they are not interchangeable. The durability bias says predicted feelings last longer than real ones. The impact bias is the wider claim, covering initial intensity as well as duration. Wilson and Gilbert say in their 2013 comment that they coined the durability bias in 1998, then widened the term to impact bias in a 2002 chapter once it became clear that people mispredict their initial reactions too. Immune neglect is the third claim, and it is an explanation rather than a finding. It holds that people run a set of unnoticed defences, rationalisation, reappraisal, blame-shifting, which Gilbert and colleagues call the psychological immune system, and that forecasters do not allow for it. Only the first two are measured directly. The immune system is inferred from a pattern: forecasters predict the same reaction to two versions of an event, and experiencers react less to the version their defences can attack. A fourth idea, that intense distress can lift faster than mild distress because only intense distress trips those defences, is the region-beta paradox and has its own entry.",
+  "origin": {
+    "year": 1998,
+    "who": "Daniel T. Gilbert, Elizabeth C. Pinel, Timothy D. Wilson, Stephen J. Blumberg and Thalia P. Wheatley",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Six studies covering a romantic breakup, a tenure decision, a lost election, negative personality feedback, a story about an infant's death, and a job rejection. The paper names the durability bias and immune neglect; the phrase impact bias appears nowhere in it."
+  },
+  "evidence": "Study 1 surveyed 571 undergraduates at the University of Texas at Austin and analysed 532. Students who had never been through a breakup predicted their happiness two months after one at 3.89 on a seven-point scale. Students who had actually been through one sat at 5.46 if it was old and 5.42 if it was recent, against 5.27 for those who had not, F(1, 529) = 125.76 and 40.70 for the two comparisons with the forecast, both p < .001. The matching positive forecast was accurate: students expecting to be lovers guessed 5.79 and lovers reported 5.71 and 5.91, both contrasts null. Study 2 posted questionnaires to faculty and got 33 forecasters, 47 who had won tenure and 20 who had not. Forecasters put their happiness at 3.42 in the five years after being denied tenure. The seven recent denials reported 4.71, F(1, 38) = 4.36, p = .04, and the 13 older denials matched the forecast, F(1, 44) = 0.20. Study 3 stopped 57 voters leaving a polling station in the 1994 Texas gubernatorial election and reached 25 of them a month later, 10 losers and 15 winners. Losers predicted 4.90 and reported 4.40, F(1, 23) = 7.84, p < .02; winners were accurate. Across the first three studies the paper reports a mean effect size for the negative durability bias between r = .38 and .41, and between r = .02 and .12 for the positive one. Studies 4 to 6 staged failure in a laboratory. Study 4 gave 70 analysable students a mundane personality classification from a fallible or an infallible source. Among the 32 with positive self-views, forecasts ignored the source and experiences did not, interaction F(1, 30) = 5.26, p < .03, though the three-way interaction that defines the design was F(1, 62) = 3.37, p = .071. Study 5 gave 143 women at the University of Virginia a fabricated newspaper story about an infant suffocating in a playpen, blamelessly or through negligence. Forecasters, 114 of them, expected equal upset; the 29 experiencers were less upset by the blameworthy version, F(1, 139) = 3.84, p = .05. Study 6 rejected 78 analysable women for a mock job by a fair or an unfair procedure. The 39 who both forecast and experienced predicted the same misery either way and, ten minutes later, the unfairly rejected felt better, F(1, 37) = 6.14, p = .018.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The overestimation is large and reliable when people are later asked how they feel in general, and about zero when they are asked how they feel about the event.",
+    "detail": "Levine, Lench, Kaplan and Safer meta-analysed 84 affective forecasting studies from 44 sources, 156 effect sizes and 9,870 participants, searching PsycINFO to the end of 2010. The pooled overestimate was Hedges's g = 0.55, 95% CI [0.42, 0.68], with heterogeneity Q = 606.73, p < .001. Splitting studies by how the experience question was worded and timed moved the number a long way, QB(3) = 40.70, p < .001. A general question after a delay, the standard procedure, gave g = 0.80, 95% CI [0.65, 0.95]. A general question asked immediately gave 0.16, 95% CI [-0.03, 0.36]. A question naming the event gave 0.37, 95% CI [-0.04, 0.78] after a delay and -0.01, 95% CI [-0.28, 0.26] immediately. None of those three differed from zero. Their four experiments make the same point on one event at a time. Of 394 students forecasting the 2008 presidential election, those later asked how happy they felt in general showed the usual gap, g = 0.48 for Obama supporters and 1.44 for McCain supporters, while those asked how happy they felt about the result showed g = 0.17 and 0.05. Asked afterwards how they had read the general question, 75% and 81% of 99 students picked an event-specific paraphrase over a mood paraphrase. Wilson and Gilbert replied that the meta-analysis omitted whole literatures, miscoded studies and pooled conditions designed to cancel. Recoding the seven specific-immediate studies, the category that best tests the claim, they get g = 0.50, 95% CI [0.16, 0.84], p = .004, against Levine's -0.01. Dropping the four contested studies instead leaves five with g = 0.35, 95% CI [0.20, 0.51], p < .001. Levine and colleagues answered that the ordering survives either recoding, and titled the reply to say the impact bias is both dead and alive."
+    ,
+    "study": {
+      "cite": "Levine, L. J., Lench, H. C., Kaplan, R. L., & Safer, M. A. (2012). Accuracy and artifact: Reexamining the intensity bias in affective forecasting. Journal of Personality and Social Psychology, 103(4), 584-605.",
+      "doi": "10.1037/a0029544",
+      "year": 2012,
+      "n": 9870
+    },
+    "replicated": { "es": 0.55, "esType": "g", "ci": [0.42, 0.68], "ciLevel": 95 }
+  },
+  "limits": "No direct repetition of the six 1998 studies was located. Searches covered Crossref, Europe PMC for 'durability bias', 'immune neglect' and 'impact bias' paired with replication and preregistration terms, PubMed and general web searches; OpenAlex was rate-limited before a citation sweep could be run and PsycINFO was not searched. Two of the three claims rest on thin designs. Studies 1 and 2 are cross-sectional, so the forecasters and the experiencers are different people, and the paper says so. Study 2's key comparison uses seven people. Study 3 reached 25 of 57 voters. The immune neglect studies turn on interactions that did not reach significance: F(1, 62) = 3.37, p = .071 in Study 4, a null role by story interaction of F(1, 139) = 1.33, p = .25 in Study 5, and p = .181 in Study 6, with the supporting contrasts run regardless. Study 5 compared 114 forecasters against 29 experiencers. Nothing in Studies 4 to 6 tracked affect for more than ten minutes, so the durability claim is carried by the three cross-sectional studies. Patel and Urry gave 173 people a navigation task after assigning them to reappraise, suppress or do nothing, reasoning that a working immune system should shrink forecasting error. Error was the same in all three conditions. Hoerger's Valentine's Day study of 325 young adults runs the other way: effective coping correlated with experienced emotion up to r = .63 but with predicted emotion no higher than .15, and the gap was larger on the day itself than after it, Z = 2.68, p = .01. Mathieu and Gosling's argument that forecasts look accurate or inaccurate depending on the index used could not be obtained; the only figure quoted here from it, an average forecast-experience correlation of r = .28, is taken from Wilson and Gilbert's description. Medical evidence points both ways. Van den Bosch and colleagues screened 5,726 records and found seven empirical comparisons of predicted against actual emotion in patients, concluding that people exaggerate both anticipated joy and anticipated grief. Panda and colleagues followed 74 cancer surgery patients from 2017 to 2019 and found the opposite direction, patients expecting better quality of life than they got, with correlations between expected and experienced trends at or below 0.4 in six of eight domains.",
+  "misreadings": "The lottery study behind the popular retelling does not say what the retelling says. Brickman, Coates and Janoff-Bulman interviewed 22 Illinois lottery winners, 22 controls drawn from the phone book and 29 accident victims, 11 paraplegic and 18 quadriplegic, all recruited at one rehabilitation institute. Response rates were 52%, 41% and 85%. On six-point scales the victims rated their present happiness at 2.96 against 3.82 for controls, F(1, 47) = 7.16, p < .01. They were significantly less happy, not equally happy, and the accurate half of the story is that winners at 4.00 did not differ from controls, F = 0.27. Ten of the 29 victims declined the question about future happiness. Overestimating intensity and overestimating duration are separate errors with separate evidence, and every effect size in the Levine meta-analysis is an intensity rating rather than a duration estimate. Immune neglect is a third thing again, an account of why the error happens, and no study in the 1998 paper measured a defence directly. The 1998 authors anticipated the wording objection and dismissed it, arguing that a forecaster who forgets an event will fade from mind is showing focalism rather than answering a badly built question. Levine and colleagues turned that into a testable difference and found that most people read 'in general, how happy will you feel' as a question about the event. On the shared reading, forecasts of feelings about an event are close to accurate and forecasts of general mood are not."
+  ,
+  "sources": [
+    {
+      "text": "Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., & Wheatley, T. P. (1998). Immune neglect: A source of durability bias in affective forecasting. Journal of Personality and Social Psychology, 75(3), 617-638. Read in full for this entry.",
+      "doi": "10.1037/0022-3514.75.3.617",
+      "url": "https://doi.org/10.1037/0022-3514.75.3.617",
+      "type": "primary"
+    },
+    {
+      "text": "Levine, L. J., Lench, H. C., Kaplan, R. L., & Safer, M. A. (2012). Accuracy and artifact: Reexamining the intensity bias in affective forecasting. Journal of Personality and Social Psychology, 103(4), 584-605. Read in full for this entry.",
+      "doi": "10.1037/a0029544",
+      "url": "https://doi.org/10.1037/a0029544",
+      "type": "primary"
+    },
+    {
+      "text": "Wilson, T. D., & Gilbert, D. T. (2013). The impact bias is alive and well. Journal of Personality and Social Psychology, 105(5), 740-748. Read in full; the source for the recoded effect sizes and for the history of the term.",
+      "doi": "10.1037/a0032662",
+      "url": "https://doi.org/10.1037/a0032662",
+      "type": "primary"
+    },
+    {
+      "text": "Levine, L. J., Lench, H. C., Kaplan, R. L., & Safer, M. A. (2013). Like Schrodinger's cat, the impact bias is both dead and alive: Reply to Wilson and Gilbert (2013). Journal of Personality and Social Psychology, 105(5), 749-756. Read from its PubMed abstract; the full text could not be retrieved.",
+      "doi": "10.1037/a0034340",
+      "url": "https://doi.org/10.1037/a0034340",
+      "type": "primary"
+    },
+    {
+      "text": "Brickman, P., Coates, D., & Janoff-Bulman, R. (1978). Lottery winners and accident victims: Is happiness relative? Journal of Personality and Social Psychology, 36(8), 917-927. Read in full for this entry.",
+      "doi": "10.1037/0022-3514.36.8.917",
+      "url": "https://doi.org/10.1037/0022-3514.36.8.917",
+      "type": "primary"
+    },
+    {
+      "text": "Patel, P., & Urry, H. L. (2025). Everything is going to be okay: Emotion regulation and immune neglect in affective forecasting. Cognition and Emotion, 40(2), 481-491. Described here from its abstract.",
+      "doi": "10.1080/02699931.2025.2511974",
+      "url": "https://doi.org/10.1080/02699931.2025.2511974",
+      "type": "primary"
+    },
+    {
+      "text": "Hoerger, M. (2012). Coping strategies and immune neglect in affective forecasting: Direct evidence and key moderators. Judgment and Decision Making, 7(1), 86-96. Described here from the publisher's abstract and summary page.",
+      "doi": "10.1017/S1930297500001868",
+      "url": "https://doi.org/10.1017/S1930297500001868",
+      "type": "primary"
+    },
+    {
+      "text": "Mathieu, M. T., & Gosling, S. D. (2012). The accuracy or inaccuracy of affective forecasts depends on how accuracy is indexed: A meta-analysis of past studies. Psychological Science, 23(2), 161-162. Paywalled and not obtained; the r = .28 quoted on this page comes from Wilson and Gilbert (2013).",
+      "doi": "10.1177/0956797611427044",
+      "url": "https://doi.org/10.1177/0956797611427044",
+      "type": "background"
+    },
+    {
+      "text": "van den Bosch, G. J., Roos, R. A. N., Otten, R., Bockting, C., & Smulders, Y. M. (2021). Are patients accurate forecasters of their emotional response to medical conditions? A scoping review on affective forecasting. BMJ Open, 11(12), e053370. Described here from its PubMed abstract.",
+      "doi": "10.1136/bmjopen-2021-053370",
+      "url": "https://doi.org/10.1136/bmjopen-2021-053370",
+      "type": "primary"
+    },
+    {
+      "text": "Panda, N., Solsky, I., Neal, B. J., Hawrusik, B., Lipsitz, S., Lubitz, C. C., Gibbons, C., Brindle, M., Sinyard, R. D., Onnela, J.-P., Cauley, C. E., & Haynes, A. B. (2021). Expected versus experienced health-related quality of life among patients recovering from cancer surgery: A prospective cohort study. Annals of Surgery Open, 2(2), e060. Described here from the article page.",
+      "doi": "10.1097/AS9.0000000000000060",
+      "url": "https://doi.org/10.1097/AS9.0000000000000060",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

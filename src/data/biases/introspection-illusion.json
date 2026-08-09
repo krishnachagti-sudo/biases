@@ -1,0 +1,98 @@
+{
+  "no": 167,
+  "slug": "introspection-illusion",
+  "name": "Introspection illusion",
+  "aliases": ["Introspection bias", "Introspective weighting"],
+  "category": "social",
+  "statement": "People treat their own introspections as strong evidence about themselves while judging others by behaviour, and so find bias in others and not in themselves.",
+  "meaning": "The claim is about an asymmetry, not about accuracy. Pronin sets it out in four parts: heavy weighting of introspection when assessing oneself, absence of that weighting when assessing others, disregard of one's own behaviour that follows from it, and a difference in how much one's own and others' introspections are valued. The last part is what separates the idea from the obvious observation that a person knows their own thoughts better than a stranger does. Pronin's argument is that even when someone hands over a full account of what they were thinking, the listener discounts it and looks at what the person did. The illusion works in both directions. When introspection turns up good intentions, people weigh those intentions. When it turns up nothing, as happens with biases that operate without conscious traces, people weigh the silence as evidence of objectivity. A separate and older claim, that introspective reports about the causes of one's own judgements are often wrong, is the premise this framework builds on rather than part of it. That claim has its own entry under confabulation.",
+  "origin": {
+    "year": 2004,
+    "who": "Emily Pronin, Thomas Gilovich and Lee Ross",
+    "where": "Psychological Review",
+    "note": "The term is coined in this theoretical note, which contains no new experiments: the authors write that they refer to the asymmetry as the introspection illusion because people's faith in their own introspections is misplaced. The experiments came three years later in Pronin and Kugler's Journal of Experimental Social Psychology paper, and the full statement of the framework is Pronin's 67-page chapter in Advances in Experimental Social Psychology in 2009."
+  },
+  "evidence": "The experimental case is one paper: Pronin and Kugler's five studies on undergraduates, with samples of 38 to 247. Study 1 gave 247 Harvard students a description of the self-serving bias, the halo effect or the fundamental attribution error and asked how much they or the average Harvard student showed it. They rated themselves lower, means of 5.05 against 6.83 on a nine-point scale, F(1, 245) = 76.45. Asked which of two strategies they had used, those rating themselves reported weighing thoughts and motives above behaviour, 5.17 against 3.91, while those rating peers reversed it, 3.48 against 6.10, interaction F(1, 244) = 70.31. The more a participant leaned on thoughts rather than behaviour, the less bias they reported, r(247) = -.43. Study 1a asked 83 students which strategy would be valuable rather than which they used, and found the same reversal, interaction F(1, 81) = 17.93. Studies 2 and 3 tested whether the gap is just a matter of access. In Study 2, 96 Princeton students rated themselves on four traits after listing their thoughts; 77% of observers said the ratings were affected by the better-than-average effect against 52% of the raters themselves. The degree of self-flattery visible in the ratings predicted observers' judgements, r(62) = .48, but not the raters' own, r(30) = .17. Handing observers the raters' written thoughts changed nothing, including when only the longest reports were analysed. Study 3 repeated this with 81 students who were given a score of 7 correct out of 18 on a bogus social intelligence test, placing them in the 30th percentile, and who then dismissed the test. Their dismissal predicted observers' bias ratings, r(52) = -.34, and not their own, r(25) = -.09. Study 4 had 38 students pick between a thought-based and an action-based definition of bias in eight scenarios: 62% chose the introspective definition for themselves and 51% for another person, F(1, 36) = 4.33. Study 5 gave 78 students a fabricated Science article about nonconscious influences, after which the blind spot disappeared, mean 5.88 where 6 marked parity with peers, against 5.29 in the control condition, F(1, 76) = 6.69. Every study is a self-report of which strategy was used or preferred, apart from the two correlations with actual ratings in Studies 2 and 3.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The bias blind spot itself replicates strongly, but the introspection account of it does not: a 427-person test reproduced a shrunken version of the pattern and found the mechanism explained about 1% of the variance.",
+    "detail": "Mandel and colleagues ran the first replication of Pronin and Kugler's strategy result, on 427 online participants, using the same social and motivational biases plus cognitive ones. The predicted crossover did not appear. Participants reported using the behavioural strategy more than the introspective one when judging themselves as well as when judging others, d = -0.21, 95% CI [-0.28, -0.14] for self and d = -0.33, 95% CI [-0.40, -0.27] for others. What survived is that the gap is narrower for the self, interaction F(1, 403) = 8.53, p = .004, partial eta-squared = .021. A score built the way Pronin and Kugler built theirs correlated with the blind spot at r = .11, p = .026, about 1% of the variance, and lost significance once cognitive ability and open-minded thinking were entered alongside it. The authors conclude that their results question whether introspection bias is a principal mechanism. The free-will arm of the framework has also been tested. Pronin and Kugler reported in 2010 that people rate their own decisions as less predictable than a close other's, d = -1.08. Chandrashekar and colleagues ran three preregistered replications: d = -0.84, 95% CI [-1.46, -0.23] on 47 Hong Kong students, d = -0.30, 95% CI [-0.66, 0.05] on 126 Americans, and d = -0.33, 95% CI [-0.52, -0.14] in a between-subjects sample of 424. In a within-subjects sample of 434 the effect was exactly d = 0.00, 95% CI [-0.10, 0.10]. The asymmetry survives when self and other are rated by different people and vanishes when the same person rates both. No preregistered replication of the four components as Pronin states them was located.",
+    "study": {
+      "cite": "Mandel, D. R., Collins, R. N., Walker, A. C., Fugelsang, J. A., & Risko, E. F. (2022). Hypothesized drivers of the bias blind spot: Cognitive sophistication, introspection bias, and conversational processes. Judgment and Decision Making, 17(6), 1392-1421.",
+      "doi": "10.1017/S1930297500009475",
+      "year": 2022,
+      "n": 427
+    }
+  },
+  "limits": "The framework and its supporting experiments are separable, and the experiments are narrow. Pronin and Kugler's five studies ran on Harvard and Princeton undergraduates, the largest sample was 247, none was preregistered, and the central measure asks people to report which mental strategy they used. That measure is itself an introspective report about introspection. Whether a person can meaningfully rate how much they got inside another person's head is a question Mandel and colleagues raise directly, quoting Ehrlinger and colleagues to the effect that people cannot introspect into others' minds by definition, which would make part of the predicted asymmetry a floor rather than a finding. Pronin's 2009 chapter runs to 67 pages and gathers work across judgement, attitudes, conformity, relationships and prejudice under one heading. Most of that material was designed to test something else. Some of it is unpublished: the chapter's description of a BMW survey by Berger and Pronin, means of 2.70 against 4.93 with t(27) = 4.90, cites unpublished raw data, and is reported here from the chapter rather than from a paper. The 2007 conformity paper by Pronin, Berger and Molouki was located only as a scanned image that could not be read, so its findings are described here as Pronin's chapter describes them. Searches ran across Crossref, Semantic Scholar, Unpaywall, PubMed, PLOS and the open web. Pronin and Kugler's 2007 paper, Pronin's 2009 chapter, Pronin, Gilovich and Ross's 2004 note, Mandel and colleagues' paper and the choice blindness papers cited below were read in full. Wilson and Dunn's review was read as an abstract at Crossref, and it supports the premise rather than the asymmetry: it states that introspection cannot provide a direct pipeline to nonconscious processes, and that observing our own behaviour and seeing ourselves through others' eyes are among the alternatives.",
+  "misreadings": "Choice blindness is offered as the experimental proof of the introspection illusion, and it is not evidence for the claim Pronin makes. Switch the outcome of a choice and most people justify the option they rejected: Johansson, Hall, Sikström and Olsson caught 46 of 354 manipulated face trials concurrently, 13%, with no more than 26% exposed by any measure; Hall and colleagues switched jam and tea samples on 180 supermarket shoppers and detected 33.3% of manipulated jam trials and 32.2% of tea trials in total; Hall and colleagues reversed answers on a political survey for 162 Swedes and found 22% of manipulated replies corrected, with 92% of participants endorsing an altered political score. Rieznik and colleagues repeated the political version independently in Argentina, with 40% of 131 manipulated trials detected in a 56-person laboratory study and 55% of 4,848 manipulated questions undetected among 3,106 online participants. All of that establishes that people fail to notice a switched outcome and then explain the switched one, which is a claim about the reliability of introspective reports. It says nothing about whether people weigh their own introspections more heavily than other people's. Pronin's 2009 chapter, the fullest statement of the framework, cites no choice blindness work at all. The second misreading is chronological: the term is often credited to the 2007 experiments, and it was coined in the 2004 theoretical note. The third is to treat the introspection illusion as established because the bias blind spot is. The blind spot replicates at d = -1.00 and larger; the introspection account is one of several proposed explanations for it, and the paper that tested three of them preferred a conversational-artefact account.",
+  "sources": [
+    {
+      "text": "Pronin, E., Gilovich, T., & Ross, L. (2004). Objectivity in the eye of the beholder: Divergent perceptions of bias in self versus others. Psychological Review, 111(3), 781-799. Read in full from the author's posted copy; the source for the coining of the term.",
+      "doi": "10.1037/0033-295X.111.3.781",
+      "url": "https://drive.google.com/file/d/17kYxkqwBho-_VFIqYQaDydvgU2aAT3--/view",
+      "type": "primary"
+    },
+    {
+      "text": "Pronin, E., & Kugler, M. B. (2007). Valuing thoughts, ignoring behavior: The introspection illusion as a source of the bias blind spot. Journal of Experimental Social Psychology, 43(4), 565-578. Read in full from the author's posted copy; the source for every figure in the evidence section.",
+      "doi": "10.1016/j.jesp.2006.05.011",
+      "url": "https://drive.google.com/file/d/1l-V8H_PMStkc3nk6PzFLbSulOKQnPrlt/view",
+      "type": "primary"
+    },
+    {
+      "text": "Pronin, E. (2009). Chapter 1 The Introspection Illusion. In M. P. Zanna (Ed.), Advances in Experimental Social Psychology, Volume 41 (pp. 1-67). Academic Press. Read in full from the author's posted copy; the source for the four components and for the BMW and conformity findings described at one remove.",
+      "doi": "10.1016/S0065-2601(08)00401-2",
+      "url": "https://drive.google.com/file/d/1KqR7re4dm7tXIZM7157mneJ0uoy3sPEC/view",
+      "type": "primary"
+    },
+    {
+      "text": "Mandel, D. R., Collins, R. N., Walker, A. C., Fugelsang, J. A., & Risko, E. F. (2022). Hypothesized drivers of the bias blind spot: Cognitive sophistication, introspection bias, and conversational processes. Judgment and Decision Making, 17(6), 1392-1421. Read in full; the only located replication of the strategy result.",
+      "doi": "10.1017/S1930297500009475",
+      "url": "https://sjdm.org/~baron/journal/22/220208/jdm220208.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Chandrashekar, S. P., Permut, S., Sjåstad, H., Lo, C., Kueh, Y. J., Zhong, E. S., Wan, K. H., Choy, K. Y. K., Wong, M. C., Hugh, S. W. J., Tahira, K., Cheng, B. L., & Feldman, G. (2024). Do people believe they are less predictable than others? Three replications of Pronin and Kugler's (2010) Experiment 1. International Review of Social Psychology, 37(1), 20. Read in full; the source for the replication effect sizes on the free-will asymmetry.",
+      "doi": "10.5334/irsp.946",
+      "url": "https://doi.org/10.5334/irsp.946",
+      "type": "replication"
+    },
+    {
+      "text": "Pronin, E., & Kugler, M. B. (2010). People believe they have more free will than others. Proceedings of the National Academy of Sciences, 107(52), 22469-22474. Not obtained for this entry; its Experiment 1 effect size is quoted as the 2024 replication paper reports it.",
+      "doi": "10.1073/pnas.1012046108",
+      "url": "https://doi.org/10.1073/pnas.1012046108",
+      "type": "primary"
+    },
+    {
+      "text": "Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. Science, 310(5745), 116-119. Read in full from the authors' posted copy of the published version.",
+      "doi": "10.1126/science.1111709",
+      "url": "https://www.lucs.lu.se/fileadmin/user_upload/lucs/2011/01/Johansson-et-al.-2005-Failure-to-Detect-Mismatches-Between-Intention-and-Outcome-in-a-Simple-Decision-Task.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hall, L., Johansson, P., Tärning, B., Sikström, S., & Deutgen, T. (2010). Magic at the marketplace: Choice blindness for the taste of jam and the smell of tea. Cognition, 117(1), 54-61. Read in full from the authors' posted copy; the source for the 180 shoppers and the detection rates by modality.",
+      "doi": "10.1016/j.cognition.2010.06.010",
+      "url": "https://www.lucs.lu.se/fileadmin/user_upload/lucs/2011/01/Hall-et-al.-2010-Magic-at-the-Marketplace-Choice-Blindness-for-the-Taste-of-Jam-and-the-Smell-of-Tea.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hall, L., Strandberg, T., Pärnamets, P., Lind, A., Tärning, B., & Johansson, P. (2013). How the polls can be both spot on and dead wrong: Using choice blindness to shift political attitudes and voter intentions. PLoS ONE, 8(4), e60554. Read in full; the source for the 22% correction rate and the 92% endorsement figure.",
+      "doi": "10.1371/journal.pone.0060554",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0060554",
+      "type": "primary"
+    },
+    {
+      "text": "Rieznik, A., Moscovich, L., Frieiro, A., Figini, J., Catalano, R., Garrido, J. M., Álvarez Heduan, F., Sigman, M., & Gonzalez, P. A. (2017). A massive experiment on choice blindness in political decisions: Confidence, confabulation, and unconscious detection of self-deception. PLoS ONE, 12(2), e0171108. Read in full; the independent Argentine repeat of the political manipulation.",
+      "doi": "10.1371/journal.pone.0171108",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171108",
+      "type": "replication"
+    },
+    {
+      "text": "Wilson, T. D., & Dunn, E. W. (2004). Self-knowledge: Its limits, value, and potential for improvement. Annual Review of Psychology, 55, 493-518. Read as an abstract at Crossref; paywalled at the publisher.",
+      "doi": "10.1146/annurev.psych.55.090902.141954",
+      "url": "https://doi.org/10.1146/annurev.psych.55.090902.141954",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

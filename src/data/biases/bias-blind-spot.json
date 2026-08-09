@@ -2,7 +2,10 @@
   "no": 133,
   "slug": "bias-blind-spot",
   "name": "Bias blind spot",
-  "aliases": ["Blind spot bias", "Bias blindness"],
+  "aliases": [
+    "Blind spot bias",
+    "Bias blindness"
+  ],
   "category": "social",
   "statement": "People rate themselves as less prone to cognitive and motivational biases than the people around them, and keep saying so after being shown the bias in their own answers.",
   "meaning": "The claim has two halves. The first is a comparison: asked how far some documented bias affects them and how far it affects others, people put the others higher. The second is that the comparison is an error rather than a report, because the same people can be caught committing the bias and will still deny it. Pronin, Lin and Ross tied the asymmetry to what each judgement is made of. Someone judging himself consults his own thoughts and finds no wish to be biased. Judging anyone else, he has only behaviour to go on. Biases people notice while committing them should therefore produce no asymmetry, and that prediction is what separates the idea from ordinary self-flattery.",
@@ -23,8 +26,25 @@
       "year": 2021,
       "n": 969
     },
-    "original": { "es": -0.86, "esType": "d", "ci": [-1.28, -0.43], "ciLevel": 95 },
-    "replicated": { "es": -1.0, "esType": "d", "ci": [-1.33, -0.67], "ciLevel": 95, "weighting": "unweighted" }
+    "original": {
+      "es": -0.86,
+      "esType": "d",
+      "ci": [
+        -1.28,
+        -0.43
+      ],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": -1.0,
+      "esType": "d",
+      "ci": [
+        -1.33,
+        -0.67
+      ],
+      "ciLevel": 95,
+      "weighting": "unweighted"
+    }
   },
   "limits": "The effect is easy to obtain and hard to explain, and the mechanism is where the record thins out. Mandel and colleagues tested three accounts on 653 and 404 people, in experiments that were not preregistered, and the one that came out best was the least interesting. On their conversational reading the questionnaire tells participants in advance that the biases are real and common, which licenses a high rating for others while leaving the self-rating free. Their data fit that: self-ratings varied more than other-ratings, and 74.4% of participants put the average person above the scale midpoint against 49.6% who put themselves there. Their partial replication of Pronin and Kugler's introspection account was weaker still, with introspection bias accounting for about 1% of the variance in blind spot scores. The scale literature has its own gap. Scopelliti and colleagues built a 14-item measure, Cronbach's alpha .86, test-retest r = .80 over eight days, and applied it to 661 Mechanical Turk workers across five samples, where 85.2% showed a blind spot and one person showed the reverse. No preregistered replication of that instrument was located.",
   "misreadings": "The commonest objection is that this is the better-than-average effect wearing a new name, and the evidence against that is better than the objection assumes. Scopelliti's Study 3 had 156 people rate their ability at two easy activities and two hard ones. High scorers on the blind spot scale rated themselves above average on the easy activities and below average on the hard ones, so they were not simply flattering themselves. The scale also came apart from the traits that would carry a self-enhancement account, correlating .15 with self-esteem, -.02 with a superiority measure and .04 with narcissism. The second misreading is that clever people escape it. West, Meserve and Stanovich measured seven blind spots in 482 students and found every correlation with cognitive sophistication running the wrong way for that hope: .096 with the Cognitive Reflection Test, .176 with SAT total, .260 with need for cognition and .119 with actively open-minded thinking. Mandel's samples give .20 for cognitive ability and .16 for open-minded thinking. Scopelliti's go the other way, -.22 for the Cognitive Reflection Test and -.13 for the mathematics SAT, so the sign of this relationship is not settled; its size is small in every study that reports it. The third misreading is that noticing your own bias means having less of it. This has been tested against measured bias in the same people, and it fails. West and colleagues gave their participants the seven biases as live tasks and found no interaction between blind spot score and any of them, with Bayes factors favouring the null by at least 374 to 1. Mandel's second experiment found one such link out of six. The one place a blind spot score has predicted anything is in what people do next: Scopelliti's high scorers took less advice, weighting it 0.164 against 0.223 for low scorers, and gained less from training designed to reduce the fundamental attribution error.",
@@ -66,7 +86,7 @@
       "type": "commentary"
     },
     {
-      "text": "Pronin, E., & Kugler, M. B. (2007). Valuing thoughts, ignoring behavior: The introspection illusion as a source of the bias blind spot. Journal of Experimental Social Psychology, 43(4), 565-578. Not obtained for this entry; its argument is described here as Mandel and colleagues describe it.",
+      "text": "Pronin, E., & Kugler, M. B. (2007). Valuing thoughts, ignoring behavior: The introspection illusion as a source of the bias blind spot. Journal of Experimental Social Psychology, 43(4), 565-578. Obtainable at the author's posted copy, which the introspection-illusion entry reads at first hand. The description on this page still comes from Mandel and colleagues rather than from the paper itself.",
       "doi": "10.1016/j.jesp.2006.05.011",
       "url": "https://doi.org/10.1016/j.jesp.2006.05.011",
       "type": "commentary"
