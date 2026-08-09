@@ -5,14 +5,14 @@
   "aliases": ["Impostor phenomenon", "Imposter syndrome", "Impostorism", "Perceived fraudulence"],
   "category": "social",
   "statement": "High achievers who cannot internalise their success believe they have fooled everyone, and expect to be found out as frauds.",
-  "meaning": "The claim is about a gap between the record and the self-image. Someone holds degrees, promotions and praise, and reads every one of them as luck, charm, timing or an administrative error. Clance and Imes described four behaviours that keep the belief alive: overwork, intellectual flattery, cultivating a mentor whose approval is then discounted, and hiding the effort that produced the result. The belief is self-sealing, because each new success is explained away by the same machinery that explained the last one. What the term does not describe is a disorder. Bravata and colleagues state that impostor syndrome is not featured in the American Psychiatric Association's Diagnostic and Statistical Manual and is not listed as a diagnosis in ICD-10, and their review ends by recommending that it be considered for inclusion in the DSM.",
+  "meaning": "The claim is about a gap between the record and the self-image. Someone holds degrees, promotions and praise, and reads every one of them as luck, charm, timing or an administrative error. Clance and Imes described four behaviours that maintain the belief once it is in place: diligence and hard work, intellectual flattery, using charm to win over a mentor whose approval is then discounted, and holding on to the impostor position to avoid what they took to be the social penalties on a confident woman. A woman may show one or more of them, they write, but seldom all. The belief is self-sealing, because each new success is explained away by the same machinery that explained the last one. What the term does not describe is a disorder. Bravata and colleagues state that impostor syndrome is not featured in the American Psychiatric Association's Diagnostic and Statistical Manual and is not listed as a diagnosis in ICD-10, and they recommend that it be considered for inclusion in the DSM.",
   "origin": {
     "year": 1978,
     "who": "Pauline Rose Clance and Suzanne Imes",
     "where": "Psychotherapy: Theory, Research & Practice",
     "note": "The paper is a clinical report, not an experiment. It describes five years of psychotherapy, interaction groups and college classes with over 150 high-achieving women, and contains no measurement, no comparison group and no statistics. The word 'syndrome' is not in it; the authors wrote 'impostor phenomenon'."
   },
-  "evidence": "Clance and Imes list the groups their observations came from: 95 undergraduates and 10 doctoral faculty women at a private Midwestern college, 15 undergraduates, 20 graduate students and 10 faculty at a large southern university, six medical students, and 22 professional women in law, nursing, social work and other fields. Those numbers sum to 178, against the 'over 150' in the text. About a third were therapy clients; the rest were in groups or classes taught by the authors. All were women, mostly white and middle to upper class, aged 20 to 45. A footnote reports the authors' clinical impression that the phenomenon is rarer and milder in men, and calls for research. Measurement arrived later. Clance published the 20-item Clance Impostor Phenomenon Scale in 1985. Chrisman and colleagues compared it with the Perceived Fraudulence Scale in 1995, found three components they named Fake, Discount and Luck, and reported that impostor feelings were related to but discriminable from depression, self-esteem, social anxiety and self-monitoring.",
+  "evidence": "Clance and Imes list the groups their observations came from: 95 undergraduates and 10 doctoral faculty women at a private Midwestern college, 15 undergraduates, 20 graduate students and 10 faculty at a large southern university, six medical students, and 22 professional women in law, nursing, social work and other fields. Those numbers sum to 178, against the 'over 150' in the text. About a third were therapy clients; the rest were in groups or classes taught by the authors. All were women, mostly white and middle to upper class, aged 20 to 45. A footnote reports the authors' clinical impression that the phenomenon is rarer and milder in men, and calls for research. Measurement arrived later. Clance published the 20-item Clance Impostor Phenomenon Scale in 1985. Chrisman and colleagues compared it with the Perceived Fraudulence Scale in 1995, found three components they named Fake, Discount and Luck, and reported that impostor feelings were related to but substantially discriminable from depression, self-esteem, social anxiety and self-monitoring. Mak, Kleitman and Abbott appraised four impostor scales in 2019 and found the position weaker than its use suggests. The Clance scale and the others rest on multidimensional definitions yet report a single total and define no subscale scores, which their review calls a contradiction of the construct they are built on. It would be premature, they conclude, to classify the Clance scale as the gold standard measure.",
   "replication": {
     "state": "mixed",
     "headline": "The correlates reproduce across large samples, and the prevalence claim does not: the figure everyone quotes traces to a newspaper feature, while the largest review puts prevalence anywhere between 9% and 82% depending on the cutoff.",
@@ -24,7 +24,7 @@
       "n": 14161
     }
   },
-  "limits": "There is no original experiment to repeat, so 'replication' here means whether later measurement recovers what the 1978 paper described. It partly does. Several figures could not be obtained. The Gravois feature sits behind the Chronicle's paywall, so the 70% sentence in this entry is read from Sakulku and Alexander and from ERIC's record, not from the feature itself. Gullifor and colleagues' review of 188 workplace impostor studies returned HTTP 403 and is named as existing only. Omar and colleagues' medical-education meta-analysis is described from its Crossref abstract. Clance's 1985 book, which carries the scale and its cutoffs, was not read. Chrisman and colleagues' sample size is not in their abstract and their paper was not opened. The prevalence literature is also skewed young: Bravata reports a weighted mean age of 20 years, with 34 of the 62 studies drawn from students. Searches covered Crossref, PubMed, Europe PMC, PMC, Frontiers, ERIC, Springer, Wiley and general web search.",
+  "limits": "There is no original experiment to repeat, so 'replication' here means whether later measurement recovers what the 1978 paper described. It partly does. Several figures could not be obtained. The Gravois feature sits behind the Chronicle's paywall, so the 70% sentence in this entry is read from Sakulku and Alexander and from ERIC's record, not from the feature itself. Gullifor and colleagues' workplace review returned HTTP 403, so only its Crossref abstract was read. Omar and colleagues' medical-education meta-analysis is described from its Crossref abstract. Clance's 1985 book, which carries the scale and its cutoffs, was not read. Chrisman and colleagues' sample size is not in their abstract and their paper was not opened. The prevalence literature is also skewed young: Bravata reports a weighted mean age of 20 years, with 34 of the 62 studies drawn from students. Searches covered Crossref, PubMed, Europe PMC, PMC, Frontiers, ERIC, Springer, Wiley and general web search.",
   "misreadings": "The 70% figure is the main one, and it is quoted as though a survey produced it. The second is the word 'syndrome', which Clance and Imes did not use and which implies a clinical category that neither the DSM nor ICD-10 contains. Feenstra and colleagues argue for keeping 'phenomenon' on the ground that 'syndrome' implies a medical model of dysfunction inside the individual, and that the environment does part of the work. A third misreading treats a questionnaire score above some cutoff as a diagnosis, when the same 654 people can be 39% impostors or 24% impostors depending on which cutoff is chosen. The last is that it is a women's condition. That is what the 1978 sample was, by construction, and Bravata found impostor syndrome common among men and women alike, from adolescents to late-stage professionals.",
   "sources": [
     {
@@ -82,8 +82,9 @@
       "type": "primary"
     },
     {
-      "text": "Sakulku, J., & Alexander, J. (2011). The impostor phenomenon. International Journal of Behavioral Science, 6(1), 73-92. Read for this entry as the route by which the 70% figure entered the peer-reviewed literature.",
-      "url": "https://www.sciencetheearth.com/uploads/2/4/6/5/24658156/2011_sakulku_the_impostor_phenomenon.pdf",
+      "text": "Sakulku, J., & Alexander, J. (2011). The impostor phenomenon. International Journal of Behavioral Science, 6(1), 75-97. Read for this entry as the route by which the 70% figure entered the peer-reviewed literature. Frequently cited with the pages 73-92, which are not the pages the article carries.",
+      "doi": "10.14456/ijbs.2011.6",
+      "url": "https://so06.tci-thaijo.org/index.php/IJBS/article/view/521",
       "type": "commentary"
     },
     {
@@ -92,7 +93,7 @@
       "type": "commentary"
     },
     {
-      "text": "Mak, K. K. L., Kleitman, S., & Abbott, M. J. (2019). Impostor phenomenon measurement scales: A systematic review. Frontiers in Psychology, 10, 671. Concludes that it would be premature to call the Clance scale the gold standard measure.",
+      "text": "Mak, K. K. L., Kleitman, S., & Abbott, M. J. (2019). Impostor phenomenon measurement scales: A systematic review. Frontiers in Psychology, 10, 671. Full text read via Europe PMC.",
       "doi": "10.3389/fpsyg.2019.00671",
       "url": "https://doi.org/10.3389/fpsyg.2019.00671",
       "type": "commentary"
@@ -104,11 +105,11 @@
       "type": "commentary"
     },
     {
-      "text": "Gullifor, D. P., Gardner, W. L., Karam, E. P., Noghani, F., & Cogliser, C. C. (2024). The impostor phenomenon at work: A systematic evidence-based review, conceptual development, and agenda for future research. Journal of Organizational Behavior, 45(2), 234-251. Named as existing; the full text returned HTTP 403 and nothing here is taken from it beyond its abstract's count of 188 works.",
+      "text": "Gullifor, D. P., Gardner, W. L., Karam, E. P., Noghani, F., & Cogliser, C. C. (2024). The impostor phenomenon at work: A systematic evidence-based review, conceptual development, and agenda for future research. Journal of Organizational Behavior, 45(2), 234-251. The full text returned HTTP 403; its Crossref abstract records a review of 188 scholarly works, 111 articles and 77 dissertations, published between 1978 and 2023.",
       "doi": "10.1002/job.2733",
       "url": "https://doi.org/10.1002/job.2733",
       "type": "commentary"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
