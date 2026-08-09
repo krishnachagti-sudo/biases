@@ -1,0 +1,131 @@
+{
+  "no": 101,
+  "slug": "cheerleader-effect",
+  "name": "Cheerleader effect",
+  "aliases": ["Group attractiveness bias"],
+  "category": "perception",
+  "statement": "The same face is rated as more attractive when seen in a group than when seen alone, by about one and a half to two points on a hundred-point scale.",
+  "meaning": "The claim is narrow. A rater sees one photograph of a person alone and another of the same person flanked by others, and gives an attractiveness rating for the target both times. The rating in the group condition comes out slightly higher. Everything about the comparison is within-subject and within-face, so the effect is a shift in a judgement about one individual, not a claim that groups are attractive. Walker and Vul explained it by ensemble coding. The visual system summarises a set of faces into an average, average faces tend to be rated as attractive, and visual working memory stores individual items in reference to the summary, so a remembered face drifts towards the group average. That is the hierarchical encoding of their title. The name is borrowed from a line in the sitcom How I Met Your Mother, in the 2008 episode 'Not a Father's Day' written by Robia Rashid and directed by Pamela Fryman, as Ojiro and colleagues record.",
+  "origin": {
+    "year": 2014,
+    "who": "Drew Walker and Edward Vul",
+    "where": "Psychological Science",
+    "note": "'Hierarchical encoding makes individuals in a group seem more attractive' ran online on 25 October 2013 and in the January 2014 issue. Five experiments had subjects rate faces shown alone or in a same-gender group. The article is paywalled and was not read for this entry, so its abstract, the publisher's own press release and later papers that reanalyse or replicate it are the sources for everything said about it here."
+  },
+  "evidence": "The Association for Psychological Science's release on the paper says over 130 undergraduates took part across the five experiments, rating 100 photographs, with targets shown alone, in portraits of two or three people, and in collages of 4, 9 and 16 faces. The release puts the benefit at enough to move someone from the 49th to the 51st percentile of attractiveness, and quotes Vul saying the effect is definitely small. Experiment 4 is the one later work has chased. Ojiro and colleagues describe it as 37 undergraduates at the University of California, San Diego, 13 men and 24 women, rating targets surrounded by 0 to 16 other faces, with ratings higher whenever any surrounding face was present and no influence of how many there were. They give its partial eta squared as .197. Those figures are read off Ojiro and colleagues, not off Walker and Vul. The best-measured version of the effect comes from Flinders University. Carragher, Lawrence, Thomas and Nicholls ran 50 and then 60 participants who rated faces on a visual analogue scale running from 'Very Unattractive' at 0% to 'Very Attractive' at 100%. Group ratings exceeded alone ratings by 1.79%, 0.79% and 1.59% in the first experiment and by 1.53%, 1.28% and 2.16% in the second, with Cohen's d between 0.46 and 0.67 and every condition reliable. They summarise the effect as an increase within the range of 1.5 to 2%. Carragher, Thomas, Gwinn and Nicholls repeated it with 28, 31, 31 and 29 participants across three experiments and found the same band, for example 1.64% with d = 0.71 and a 95% interval of [0.79, 2.48] percentage points.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The effect turns up again and again at about 1.5 to 2 points on a hundred-point scale, and the only two direct replications of the original's group-size experiment both came back null.",
+    "detail": "Carragher, Lawrence, Thomas and Nicholls call theirs the first replication of Walker and Vul, using internet-collected photographs and the original's presentation timing. Faces were more attractive in every group arrangement they tried, and the spatial position of the distractors made no difference: a Bayesian ANOVA put the data 8.96 times more likely under the null for that factor. Against this sit two direct replications by Ojiro, Gobara, Nam, Sasaki, Kishimoto, Yamada and Miura, run online with Japanese participants. The first used Walker and Vul's own stimuli, supplied by the authors, with 95 participants, and gave F(2.32, 218.01) = 0.128, p = .91, partial eta squared .001. The second used 300 Japanese faces collected from the web with 153 participants and gave F(2.66, 404.55) = 2.587, p = .060, partial eta squared .017. Both samples were larger than the original, 2.5 and 4.1 times over, and the authors report that neither main effect reached significance while the second traced the original's pattern. Elsewhere the effect keeps appearing. Peng, Mao, Pagliaro, Roberts and Livi tested 1,005 Chinese participants and reported both the cheerleader effect and the separate group attractiveness effect. Hattori, Watanabe and Suzuki replicated it with groups of similarly attractive faces and found it largest when women rated male faces. Kramer, Javorkova and Jones found it for familiar and unfamiliar faces alike, with no interaction between familiarity and group presentation.",
+    "study": {
+      "cite": "Carragher, D. J., Lawrence, B. J., Thomas, N. A., & Nicholls, M. E. R. (2018). Visuospatial asymmetries do not modulate the cheerleader effect. Scientific Reports, 8, 2548.",
+      "doi": "10.1038/s41598-018-20784-5",
+      "year": 2018,
+      "n": 110
+    },
+    "replicated": {
+      "es": 0.64,
+      "esType": "d",
+      "weighting": "Experiment 1, left-visual-field distractor condition, 50 participants"
+    }
+  },
+  "limits": "The mechanism in the title is the part that has failed. Carragher, Thomas, Gwinn and Nicholls built morph faces by digitally averaging each group of three, and those morphs were rated 16.57% more attractive than the faces they were made from, d = 1.79. If hierarchical encoding drove the effect, a target far below its group's morph should gain the most. The correlation between the two measures was r(30) = 0.110, p = .564. Faces also gained when the group was three identical copies of one person, and when the flanking images were houses rather than faces, at 0.75%. Houses gained 1.17% in groups of houses. The authors conclude that hierarchical encoding makes at most a minimal contribution, and note Walker and Vul had already flagged two of their own results as awkward for it: adding faces did not enlarge the effect, and blurring the faces did not either. Hsieh, Gwinn, Brooks, Stephen, Carragher and Nicholls found the effect only when raters judged images after they had been removed from the screen, and not when the images stayed visible, which makes it a memory bias rather than a perceptual one. It was larger for bodies than for faces. Whether it holds at every level of attractiveness is unsettled. Messner, Carnelli and Hohener, testing 586 people on Amazon Mechanical Turk who each rated a face only once, found low-attractiveness targets rising from 39.10 alone to 45.48 when flanked, and high-attractiveness targets unchanged at 58.44 against 58.85, p = .54. Their tests were run across 24 face sets rather than across participants. McDowell and Starratt report the effect for female attractiveness and for romantic-partner value, and only when the group held some highly attractive members and the target cleared a minimum of its own. No meta-analysis of the cheerleader effect was located, and no multi-laboratory registered replication of it was located either. The search covered Crossref, Europe PMC, PubMed, Unpaywall, Semantic Scholar, OSF and the open web. Walker and Vul's article is closed access and was not read. Carragher, Thomas, Gwinn and Nicholls' 2020 paper on presentation time in the Journal of Cognitive Psychology, and Carragher's 2022 comment in Nature Reviews Psychology, were located, had their metadata verified and were not read. Almost all of this work is laboratory or online rating of photographs by young adults, and none of it follows anyone into a bar.",
+  "misreadings": "The unit is the trap. An increase of 1.5 to 2% is 1.5 to 2 points on a scale from 0 to 100, not a 2% gain over the rating a face already had, and Walker and Vul's own gloss was a move from the 49th to the 51st percentile. Nothing in the literature supports the advice the name attracts. The effect is not about cheerleaders, or about attractive company: Ojiro and colleagues trace the phrase to a 2008 episode of How I Met Your Mother, and Carragher and colleagues got a cheerleader effect out of photographs of houses. The second confusion is with a different finding. Van Osch, Blanken, Meijs and van Wolferen's group attractiveness effect is the gap between how attractive a group looks as a whole and the mean of its members rated one at a time. That is a medium to large effect, Cohen's d = 0.60 across 33 comparisons in nine studies, and it is moderated by group size, while the cheerleader effect in Walker and Vul's Experiment 4 was not. The two are routinely quoted as one number. Van Osch and Sleegers later reported that the group attractiveness effect reverses for relatively unattractive groups, which is a result about groups and says nothing about individuals within them.",
+  "sources": [
+    {
+      "text": "Walker, D., & Vul, E. (2014). Hierarchical encoding makes individuals in a group seem more attractive. Psychological Science, 25(1), 230-235. The founding paper. Closed access with no repository copy located; only its abstract was read, and its design and figures are quoted here from Ojiro and colleagues (2015), Carragher and colleagues (2018, 2019) and the publisher's press release.",
+      "doi": "10.1177/0956797613497969",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24163333/",
+      "type": "primary"
+    },
+    {
+      "text": "Association for Psychological Science (2013). People seem more attractive in a group than they do apart. The publisher's release on Walker and Vul. Source for the count of over 130 undergraduates across five experiments, the 100 photographs, the group sizes of 2 to 3 and the collages of 4, 9 and 16, the 49th to 51st percentile figure and Vul's remark that the effect is small.",
+      "url": "https://www.psychologicalscience.org/news/releases/people-seem-more-attractive-in-a-group-than-they-do-apart.html",
+      "type": "press"
+    },
+    {
+      "text": "Ojiro, Y., Gobara, A., Nam, G., Sasaki, K., Kishimoto, R., Yamada, Y., & Miura, K. (2015). Two replications of 'Hierarchical encoding makes individuals in a group seem more attractive (2014; Experiment 4)'. The Quantitative Methods for Psychology, 11(2), r8-r11. Read in full. Source for both null replications, for the description of Walker and Vul's Experiment 4, for its partial eta squared of .197, and for the sitcom origin of the name.",
+      "doi": "10.20982/tqmp.11.2.r008",
+      "url": "https://www.tqmp.org/ReplicationStudies/vol11-2/r008/r008.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Carragher, D. J., Lawrence, B. J., Thomas, N. A., & Nicholls, M. E. R. (2018). Visuospatial asymmetries do not modulate the cheerleader effect. Scientific Reports, 8, 2548. Read in full from the Flinders University repository. Source for the first replication, the per-condition percentages, the Cohen's d values and the Bayes factor.",
+      "doi": "10.1038/s41598-018-20784-5",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5803192/",
+      "type": "replication"
+    },
+    {
+      "text": "Carragher, D. J., Thomas, N. A., Gwinn, O. S., & Nicholls, M. E. R. (2019). Limited evidence of hierarchical encoding in the cheerleader effect. Scientific Reports, 9, 9329. Read in full at Europe PMC. Source for the morph-face results, the r = 0.110 correlation, the house conditions and the sample sizes.",
+      "doi": "10.1038/s41598-019-45789-6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6597562/",
+      "type": "primary"
+    },
+    {
+      "text": "Hsieh, J. Y. J., Gwinn, O. S., Brooks, K. R., Stephen, I. D., Carragher, D. J., & Nicholls, M. E. R. (2021). The 'cheerleader effect' in facial and bodily attractiveness: A result of memory bias and not perceptual encoding. Quarterly Journal of Experimental Psychology, 74(5), 972-980. Abstract read; the source for the memory against perception split and for the effect being larger for bodies.",
+      "doi": "10.1177/1747021820976087",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33174508/",
+      "type": "primary"
+    },
+    {
+      "text": "Messner, C., Carnelli, M., & Hohener, P. S. (2021). Change in evaluation mode can cause a cheerleader effect. Frontiers in Psychology, 12, 607448. Source for the 586 participants and for the effect appearing for low-attractiveness targets and not high-attractiveness ones.",
+      "doi": "10.3389/fpsyg.2021.607448",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.607448/full",
+      "type": "primary"
+    },
+    {
+      "text": "McDowell, J., & Starratt, V. G. (2019). Experimental examination and extension of the cheerleader effect. Personality and Individual Differences, 147, 245-249. Abstract read at the Nova Southeastern University repository; the source for the moderators of target sex, baseline attractiveness and group composition.",
+      "doi": "10.1016/j.paid.2019.05.004",
+      "url": "https://nsuworks.nova.edu/cps_facarticles/1853/",
+      "type": "primary"
+    },
+    {
+      "text": "Peng, C., Mao, Y., Pagliaro, S., Roberts, S., & Livi, S. (2020). Are individuals perceived as more attractive within a group? A confirmative study of group attractiveness effect and the cheerleader effect in China. Healthcare, 8(3), 344. Abstract read at Europe PMC; the source for the 1,005 Chinese participants and the replication of both effects.",
+      "doi": "10.3390/healthcare8030344",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7551192/",
+      "type": "replication"
+    },
+    {
+      "text": "Hattori, Y., Watanabe, N., & Suzuki, A. (2019). The cheerleader effect for a group of similarly attractive faces: Modulation by the observer and face gender. The Japanese Journal of Psychonomic Science, 38(1), 13-25. Abstract read at J-Stage; the source for the replication with similarly attractive groups and the gender modulation. No Crossref record for its DOI was found, so the article page is cited instead.",
+      "url": "https://www.jstage.jst.go.jp/article/psychono/38/1/38_38.6/_article/-char/en",
+      "type": "replication"
+    },
+    {
+      "text": "Kramer, R. S. S., Javorkova, N., & Jones, A. L. (2024). No influence of face familiarity on the cheerleader effect. Visual Cognition, 32(3), 181-191. Abstract read at the Swansea University repository; the source for the null interaction with familiarity.",
+      "doi": "10.1080/13506285.2024.2405700",
+      "url": "https://cronfa.swan.ac.uk/Record/cronfa67774",
+      "type": "primary"
+    },
+    {
+      "text": "van Osch, Y., Blanken, I., Meijs, M. H. J., & van Wolferen, J. (2015). A group's physical attractiveness is greater than the average attractiveness of its members. Personality and Social Psychology Bulletin, 41(4), 559-574. Abstract read at Crossref. The group attractiveness effect, and the source for d = 0.60 across 33 comparisons in nine studies. Not a study of the cheerleader effect.",
+      "doi": "10.1177/0146167215572799",
+      "url": "https://doi.org/10.1177/0146167215572799",
+      "type": "primary"
+    },
+    {
+      "text": "van Osch, Y., & Sleegers, W. W. A. (2021). Replicating and reversing the group attractiveness effect: Relatively unattractive groups are perceived as less attractive than the average attractiveness of their members. Acta Psychologica, 217, 103331. Metadata and title verified at Crossref; the source for the reversal claim, which is about groups rather than individuals.",
+      "doi": "10.1016/j.actpsy.2021.103331",
+      "url": "https://doi.org/10.1016/j.actpsy.2021.103331",
+      "type": "primary"
+    },
+    {
+      "text": "Carragher, D. J., Thomas, N. A., Gwinn, O. S., & Nicholls, M. E. R. (2020). The cheerleader effect is robust to experimental manipulations of presentation time. Journal of Cognitive Psychology, 32(5-6), 553-561. Located, metadata verified at Crossref, not read; no claim here comes from it.",
+      "doi": "10.1080/20445911.2020.1776718",
+      "url": "https://doi.org/10.1080/20445911.2020.1776718",
+      "type": "primary"
+    },
+    {
+      "text": "Wang, S., Ying, H., Wang, Q., Li, L., Lei, X., Krueger, F., & Han, C. (2025). Timing is everything: Unraveling the temporal dynamics of the cheerleader effect. Journal of Experimental Social Psychology, 119, 104758. Preprint abstract read at OSF; five experiments and 473 subjects, with pre-registration, reporting that pre-cue time changes the size of the effect and post-cue time does not.",
+      "doi": "10.1016/j.jesp.2025.104758",
+      "url": "https://osf.io/preprints/osf/4fvdm",
+      "type": "primary"
+    },
+    {
+      "text": "Carragher, D. J. (2022). Examining the cheerleader effect. Nature Reviews Psychology, 1(6), 316. Located, metadata verified at Crossref, not read; no claim here comes from it.",
+      "doi": "10.1038/s44159-022-00063-x",
+      "url": "https://doi.org/10.1038/s44159-022-00063-x",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
