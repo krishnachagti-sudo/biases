@@ -63,12 +63,13 @@ never appear in a list of biases because nobody files them there, and they are
 the entries this site is best at.
 
 So the candidate set carries a `supplement`, assembled from the multi-laboratory
-projects rather than from any category listing. It currently holds the sixteen
-effects of Many Labs 1 with their original and replication effect sizes, read
-off Table 2 of the paper. Many Labs 2 through 5, the Registered Replication
-Reports, the Reproducibility Project: Psychology and the Social Sciences
-Replication Project have to be added the same way, one table at a time, and the
-supplement is incomplete until they are.
+projects rather than from any category listing. It now holds 96 effects: Many
+Labs 1 through 5, twelve Registered Replication Reports, fourteen named Social
+Sciences Replication Project effects, and a project-level record for the
+Reproducibility Project: Psychology, which publishes no per-study table anywhere
+in its article or supplement. Ten rows carry `numbers_not_obtained` with the
+reason, because a row that names an effect and admits it has no figures is worth
+more than a row with a figure nobody read.
 
 Reading those tables by hand is the only method that works here, and it is not
 optional caution. The anchoring entry initially printed a weighted effect size
@@ -77,6 +78,16 @@ original, unweighted and weighted figures in adjacent column pairs and I matched
 them in the wrong order. Nothing was invented; a correct number was read off the
 wrong column, which is the failure this project has to guard against most and
 the one that leaves no trace.
+
+Collecting the rest of the supplement confirmed the trap is structural rather
+than a one-off lapse. Many Labs 3's Table 3 is printed rotated and puts
+meta-analytic and aggregate estimates in adjacent pairs. Many Labs 2's Table 2
+pairs median with global, and its "global" column disagrees with the all-samples
+figure in its own Tables 3 and 5 for the four effects split by WEIRD status.
+Every one of those was resolved against the paper's running text before being
+recorded. Two papers also contradict themselves and the rows say so: Many Labs
+4's abstract gives 1,550 participants where its body gives 1,578, and one
+Registered Replication Report reports two different pooled differences.
 
 ## Demand
 

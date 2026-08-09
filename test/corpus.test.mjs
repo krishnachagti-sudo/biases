@@ -33,7 +33,14 @@ const good = () => ({
   checkedOn: '2026-08-08',
 });
 
+// The synthetic fixture above is pinned to a fixed date, because a test of the
+// validator should not change its meaning tomorrow. The shipped corpus is a
+// different matter: entries carry the date they were checked, which for an
+// entry written today is today, and a pinned TODAY rejects them as
+// future-dated. That failure looks exactly like a corrupt entry and is not one.
+// So the corpus tests below run against the real clock.
 const TODAY = '2026-08-08';
+const REALLY_TODAY = new Date().toISOString().slice(0, 10);
 const problems = (mutate) => {
   const e = good();
   mutate(e);
@@ -119,7 +126,7 @@ test('a confidence interval must state its own level', () => {
 });
 
 test('the page prints each interval at the level its own paper reported', () => {
-  const html = loadCorpus({ today: TODAY }).map((e) => entryPage(e, { base: '/', origin: 'https://example.com' })).join('');
+  const html = loadCorpus({ today: REALLY_TODAY }).map((e) => entryPage(e, { base: '/', origin: 'https://example.com' })).join('');
   // Many Labs 1 reports 99% intervals; the ego-depletion RRR reports 95%.
   assert.match(html, /d = 0\.31 \(99% CI/);
   assert.match(html, /d = 0\.04 \(95% CI/);
@@ -155,13 +162,13 @@ test('every problem is reported at once, not one per run', () => {
 // --- the real corpus ---------------------------------------------------------
 
 test('the shipped corpus loads and validates', () => {
-  const c = loadCorpus({ today: TODAY });
+  const c = loadCorpus({ today: REALLY_TODAY });
   assert.ok(c.length >= 1, 'corpus is empty');
-  for (const e of c) assert.deepEqual(validate(e, { today: TODAY }), [], `${e.slug} is invalid`);
+  for (const e of c) assert.deepEqual(validate(e, { today: REALLY_TODAY }), [], `${e.slug} is invalid`);
 });
 
 test('every shipped source resolves to an http URL or a DOI', () => {
-  for (const e of loadCorpus({ today: TODAY })) {
+  for (const e of loadCorpus({ today: REALLY_TODAY })) {
     for (const s of e.sources) {
       assert.ok(/^https?:\/\//.test(s.url || '') || /^10\./.test(s.doi || ''), `${e.slug}: ${s.text}`);
     }
@@ -170,7 +177,7 @@ test('every shipped source resolves to an http URL or a DOI', () => {
 
 // --- the page ----------------------------------------------------------------
 
-const render = () => entryPage(loadCorpus({ today: TODAY })[0], { base: '/biases/', origin: 'https://example.com' });
+const render = () => entryPage(loadCorpus({ today: REALLY_TODAY })[0], { base: '/biases/', origin: 'https://example.com' });
 
 test('the page prints both effect sizes to the same precision', () => {
   // 0.5 and 0.50 next to 0.23 read as different precisions and make a quoted
@@ -184,7 +191,7 @@ test('the page does not answer the same question twice', () => {
   // The first draft carried "Where does it run out?" as both a body heading and
   // an FAQ item with the same paragraph under each.
   const html = render();
-  const limits = loadCorpus({ today: TODAY })[0].limits.slice(0, 60);
+  const limits = loadCorpus({ today: REALLY_TODAY })[0].limits.slice(0, 60);
   const count = html.split(limits).length - 1;
   assert.equal(count, 1, `the limits paragraph appears ${count} times on the page`);
 });
@@ -196,7 +203,7 @@ test('the replication block names the study, and marks the index as an index', (
 });
 
 test('a none-located entry says a search came up empty, not that the effect failed', () => {
-  const e = { ...loadCorpus({ today: TODAY })[0], replication: { state: 'none-located', headline: 'No replication attempt has been located.' } };
+  const e = { ...loadCorpus({ today: REALLY_TODAY })[0], replication: { state: 'none-located', headline: 'No replication attempt has been located.' } };
   const html = entryPage(e, { base: '/', origin: 'https://example.com' });
   assert.match(html, /No replication located/);
   assert.match(html, /not evidence that it fails/);
@@ -209,7 +216,7 @@ test('the entry declares a DefinedTerm carrying its citations', () => {
     .map((m) => JSON.parse(m[1].replace(/\\u003c/g, '<')));
   const term = blocks.find((b) => b['@type'] === 'DefinedTerm');
   assert.ok(term, 'no DefinedTerm emitted');
-  assert.equal(term.citation.length, loadCorpus({ today: TODAY })[0].sources.length);
+  assert.equal(term.citation.length, loadCorpus({ today: REALLY_TODAY })[0].sources.length);
   assert.ok(term.citation.every((c) => c.identifier || c.url), 'a citation with nothing to resolve');
 });
 
