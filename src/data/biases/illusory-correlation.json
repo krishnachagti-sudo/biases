@@ -1,0 +1,106 @@
+{
+  "no": 162,
+  "slug": "illusory-correlation",
+  "name": "Illusory correlation",
+  "aliases": [
+    "Distinctiveness-based illusory correlation",
+    "Illusory correlation in stereotyping",
+    "Paired distinctiveness"
+  ],
+  "category": "belief",
+  "statement": "People report an association between two things that were paired no more often than chance allows, most readily when both of them are rare.",
+  "meaning": "Two separate research programmes share the name. The first is about clinical judgement. Loren and Jean Chapman showed that psychologists reading projective test protocols report sign-symptom pairings that are not in the data, and that undergraduates shown rigged materials rediscover the same pairings. The second is about stereotype formation. Hamilton and Gifford gave people statements about two invented groups, kept the ratio of desirable to undesirable behaviour identical for both, and made one group and one behaviour type rarer than the other. Participants then judged the smaller group more harshly. Because the smaller group and the rarer behaviour are both distinctive, their co-occurrence is said to be over-recorded, which supplies a route to a negative stereotype with no hostility behind it. The two literatures test different claims with different materials, and a result in one carries no weight in the other. The clustering illusion, apophenia and the Texas sharpshooter fallacy have their own entries; each concerns pattern in a single stream of events rather than covariation between two.",
+  "origin": {
+    "year": 1967,
+    "who": "Loren J. Chapman and Jean P. Chapman",
+    "where": "Journal of Abnormal Psychology",
+    "note": "\"Genesis of popular but erroneous psychodiagnostic observations\" reports six studies in which undergraduates viewed Draw-a-Person drawings paired at random with symptom statements. Loren Chapman published a single-author word-pair study under the same name in the Journal of Verbal Learning and Verbal Behavior four months earlier. Mullen and Johnson treat that paper as the original demonstration, and describe it as showing that people overestimated how often the two longest words in a list had been paired. Neither 1967 paper was obtained; both are cited here from the descriptions given by Watts, Smith and Lilienfeld and by Mullen and Johnson."
+  },
+  "evidence": "The clinical findings are quoted here at one remove. Watts, Smith and Lilienfeld report that in the Chapmans' survey 91% of clinicians said atypical eyes on the Draw-a-Person test indicate suspiciousness, and 82% said a large or emphasised head indicates intelligence. In the experiment that followed, drawings were paired with symptom statements so that each statement appeared once with each drawing, and undergraduates recovered the same pairings the clinicians named. The 1969 follow-up repeated the design with Rorschach protocols and signs of homosexuality, and the same account reports that undergraduates named the signs clinicians named, with actual correlations of zero in the materials. The minority-group paradigm is documented in Mullen and Johnson's meta-analytic table. Hamilton and Gifford's Experiment 1 used 39 statements split 18 desirable and 8 undesirable for the majority against 9 and 4 for the minority, with 33 participants, and gave t(32) = 2.57 on the assignment measure and t(32) = 1.92 on estimation. Their Experiment 2 reversed the valence so that desirable behaviour was the rare kind, used 36 statements and 52 participants, and gave t(51) = 3.04 and t(51) = 1.75. Mullen and Johnson pooled 14 articles reporting 23 studies. Across 28 estimation tests the combined effect was r = 0.344, and across 23 assignment tests r = 0.259, which they call moderate and small-to-moderate. Both sets were heterogeneous, at chi-square 53.208 on 27 degrees of freedom and 46.222 on 22. The valence of the rare behaviour mattered more than anything else they coded. Where it was negative the pooled effects were r = 0.460 and r = 0.385; where it was not, r = 0.213 and r = 0.156.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The minority-group effect survives a preregistered test of nearly 3,000 people on self-reported evaluation at d = 0.20 to 0.33, and is absent on three implicit measures, absent when the rare behaviour is desirable, and eliminated by extended training.",
+    "detail": "Van Dessel, Ratliff, Brannon, Gawronski and De Houwer ran four preregistered high-powered experiments through the Project Implicit website, analysing 1,535 people in Experiment 1 and 1,432 in Experiment 2. Each used the standard array of 16 and 8 statements for the majority against 8 and 4 for the minority. On self-reported evaluation the classic effect appeared when positive statements were the frequent kind: d = 0.28 in Experiment 1, Bayes factor 170.54; d = 0.20 in Experiment 2, Bayes factor 11.50; d = 0.33 in Experiment 3. When negative statements were the frequent kind the picture broke up. Experiment 2 gave the mirror effect, the minority preferred, at d = 0.18, p = .015. Experiments 1 and 3 gave nothing, at d = 0.11 with a Bayes factor of 0.70 and d = 0.10 with a Bayes factor of 0.55. No illusory correlation appeared on the Implicit Association Test, where the crucial interaction gave F(1, 1527) = 0.26, p = .61, Bayes factor 0.08, nor on the Affect Misattribution Procedure or the Evaluative Priming Task. Failures predate this. Mullen and Johnson's own table records four experiments by Feldman, Camburn and Gatti whose tests they summarise as consistently failing to support the effect, including an estimation test of r = -0.272 running the wrong way, though three of their entries for that paper are reconstructions rather than statistics the authors reported. Murphy, Schmeer, Vallee-Tourangeau, Mondragon and Hilton report, in an abstract read at PubMed, that the effect was absent at first, emerged with intermediate amounts of training and was eliminated as training continued. Fiedler's information-loss account holds that no distinctiveness mechanism is needed, only regressive judgement from a smaller sample of minority information, and it predicts the effect should vanish when positive and negative behaviours are equally frequent. Weigl, Mecklinger and Rosburg implemented that prediction in Fiedler's BIAS model over 1,000 runs, and it held: illusory correlation at noise levels one to four with skewed frequencies, all t > 21.03, and nothing with equated frequencies, all absolute t < 1.06, p > .289. Their participants did not co-operate. With skewed frequencies and 28 people the effect appeared on all three measures, at F(1, 27) = 14.93 for assignment, 4.59 for estimation and 10.30 for evaluation. With equated frequencies and 30 people it appeared on all three again, at F(1, 29) = 9.53, 6.26 and 6.71, and the two experiments did not differ, all F < 1, p > .635.",
+    "study": {
+      "cite": "Van Dessel, P., Ratliff, K., Brannon, S. M., Gawronski, B., & De Houwer, J. (2021). Illusory-Correlation Effects on Implicit and Explicit Evaluation. Personality and Social Psychology Bulletin, 47(10), 1480-1494.",
+      "doi": "10.1177/0146167220977706",
+      "year": 2021,
+      "n": 1535
+    },
+    "replicated": {
+      "es": 0.28,
+      "esType": "d"
+    }
+  },
+  "limits": "No effect size is printed for the original. Hamilton and Gifford's own report was not obtained, and the correlations usually quoted for it, r = 0.414 and r = 0.321 for the two measures of Experiment 1, are Mullen and Johnson's conversions of the t values in their table rather than figures Hamilton and Gifford printed. The Chapmans' two papers were not obtained either, and every clinical figure on this page comes from an encyclopedia entry by Watts, Smith and Lilienfeld. Fiedler's 1991 paper is paywalled and is described here through Weigl and colleagues, who implemented its model. The structured effect size is the largest of three preregistered estimates on one measure in one condition, and it is not a summary of the literature. Mullen and Johnson's pooled figures carry no publication-bias test beyond fail-safe numbers, 1,964.5 for estimation and 790.7 for assignment, which say how many null studies would have to be missing rather than whether any are. Their combined estimates also mix reconstructed significance levels with reported ones. Weigl and colleagues tested 28 and 30 people. No replication of the clinical judgement studies was located: a search of Crossref, PubMed and the web found later extensions to other instruments, described by Watts and colleagues, but no direct repeat of either Chapman experiment.",
+  "misreadings": "The clinical result and the minority-group result are routinely cited as one finding. They share a name and a first author and nothing else. One is about experts reading projective tests, the other about undergraduates reading sentences about invented groups, and the replication record for the second says nothing about the first. The second common error is to read the paradigm as showing that people dislike minorities. What it tracks is the rare behaviour, whichever way the valence runs. Hamilton and Gifford's second experiment made desirable behaviour the rare kind, and Van Dessel and colleagues found the minority preferred under that arrangement in one of their three tests of it. A third error treats the effect as a fixed property of the mind. It is a property of a particular stimulus array, and it goes away with more training, does not appear on measures that give people no time to guess, and has never been shown to operate on a real minority in the wild. Distinctiveness is also still contested as the mechanism. Weigl and colleagues found better source memory for the majority than the minority, the opposite of what a distinctiveness account predicts, and no memory advantage for the minority's negative items at all.",
+  "sources": [
+    {
+      "text": "Chapman, L. J., & Chapman, J. P. (1967). Genesis of popular but erroneous psychodiagnostic observations. Journal of Abnormal Psychology, 72(3), 193-204. Not obtained; PubMed carries no abstract for it. Cited through Watts, Smith and Lilienfeld.",
+      "doi": "10.1037/h0024670",
+      "url": "https://doi.org/10.1037/h0024670",
+      "type": "primary"
+    },
+    {
+      "text": "Chapman, L. J., & Chapman, J. P. (1969). Illusory correlation as an obstacle to the use of valid psychodiagnostic signs. Journal of Abnormal Psychology, 74(3), 271-280. Not obtained; PubMed carries no abstract for it. Cited through Watts, Smith and Lilienfeld.",
+      "doi": "10.1037/h0027592",
+      "url": "https://doi.org/10.1037/h0027592",
+      "type": "primary"
+    },
+    {
+      "text": "Chapman, L. J. (1967). Illusory correlation in observational report. Journal of Verbal Learning and Verbal Behavior, 6(1), 151-155. Not obtained; described here as Mullen and Johnson describe it.",
+      "doi": "10.1016/S0022-5371(67)80066-5",
+      "url": "https://doi.org/10.1016/S0022-5371(67)80066-5",
+      "type": "primary"
+    },
+    {
+      "text": "Watts, A. L., Smith, S. F., & Lilienfeld, S. O. (2015). Illusory Correlation. In R. L. Cautin & S. O. Lilienfeld (Eds.), The Encyclopedia of Clinical Psychology, 1-8. Wiley. Full text read; the source for the 91% and 82% survey figures and for the description of both Chapman studies.",
+      "doi": "10.1002/9781118625392.wbecp573",
+      "url": "https://doi.org/10.1002/9781118625392.wbecp573",
+      "type": "reference"
+    },
+    {
+      "text": "Hamilton, D. L., & Gifford, R. K. (1976). Illusory correlation in interpersonal perception: A cognitive basis of stereotypic judgments. Journal of Experimental Social Psychology, 12(4), 392-407. Not obtained; the design and statistics on this page are read off Mullen and Johnson's Table 1.",
+      "doi": "10.1016/S0022-1031(76)80006-6",
+      "url": "https://doi.org/10.1016/S0022-1031(76)80006-6",
+      "type": "primary"
+    },
+    {
+      "text": "Mullen, B., & Johnson, C. (1990). Distinctiveness-based illusory correlations and stereotyping: A meta-analytic integration. British Journal of Social Psychology, 29(1), 11-28. Full text read; the pooled effects, the valence comparison, the fail-safe numbers and the per-study table are theirs.",
+      "doi": "10.1111/j.2044-8309.1990.tb00883.x",
+      "url": "https://doi.org/10.1111/j.2044-8309.1990.tb00883.x",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Fiedler, K. (1991). The tricky nature of skewed frequency tables: An information loss account of distinctiveness-based illusory correlations. Journal of Personality and Social Psychology, 60(1), 24-36. Paywalled and not obtained; the account is described here as Weigl, Mecklinger and Rosburg describe and implement it.",
+      "doi": "10.1037/0022-3514.60.1.24",
+      "url": "https://doi.org/10.1037/0022-3514.60.1.24",
+      "type": "primary"
+    },
+    {
+      "text": "Van Dessel, P., Ratliff, K., Brannon, S. M., Gawronski, B., & De Houwer, J. (2021). Illusory-Correlation Effects on Implicit and Explicit Evaluation. Personality and Social Psychology Bulletin, 47(10), 1480-1494. Full text read; four preregistered experiments.",
+      "doi": "10.1177/0146167220977706",
+      "url": "https://doi.org/10.1177/0146167220977706",
+      "type": "replication"
+    },
+    {
+      "text": "Weigl, M., Mecklinger, A., & Rosburg, T. (2018). Illusory correlations despite equated category frequencies: A test of the information loss account. Consciousness and Cognition, 63, 11-28. Full text read; the BIAS simulation and both experiments.",
+      "doi": "10.1016/j.concog.2018.06.002",
+      "url": "https://doi.org/10.1016/j.concog.2018.06.002",
+      "type": "replication"
+    },
+    {
+      "text": "Murphy, R. A., Schmeer, S., Vallee-Tourangeau, F., Mondragon, E., & Hilton, D. (2011). Making the illusory correlation effect appear and then disappear: The effects of increased learning. Quarterly Journal of Experimental Psychology, 64(1), 24-40. Read as the PubMed abstract; no statistics are quoted here.",
+      "doi": "10.1080/17470218.2010.493615",
+      "url": "https://doi.org/10.1080/17470218.2010.493615",
+      "type": "replication"
+    },
+    {
+      "text": "Eder, A. B., Fiedler, K., & Hamm-Eder, S. (2011). Illusory correlations revisited: The role of pseudocontingencies and working-memory capacity. Quarterly Journal of Experimental Psychology, 64(3), 517-532. Read as the PubMed abstract; reports the bias growing as working-memory capacity falls.",
+      "doi": "10.1080/17470218.2010.509917",
+      "url": "https://doi.org/10.1080/17470218.2010.509917",
+      "type": "reference"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
