@@ -1,0 +1,86 @@
+{
+  "no": 181,
+  "slug": "deformation-professionnelle",
+  "name": "Déformation professionnelle",
+  "aliases": [
+    "Professional deformation",
+    "Occupational deformation",
+    "Job conditioning"
+  ],
+  "category": "perception",
+  "statement": "Training and daily practice in an occupation shape how a person frames problems, including problems that lie outside it.",
+  "meaning": "The phrase is French and plays on formation professionnelle, vocational training. The joke is that a trade forms a person and also deforms them. A lawyer reads a dinner invitation for its conditions, an editor reads a shop sign for its punctuation. Robert Merton set the idea beside two others in his chapter on bureaucratic structure, Thorstein Veblen's 'trained incapacity' and John Dewey's 'occupational psychosis', crediting the third to Daniel Warnotte. All three say that a skill practised long enough becomes the way its owner looks at everything. The claim is descriptive. It does not say professionals reason badly; it says the shape of what they notice follows the shape of what they do. The Trésor de la langue française lists the phrase under the figurative sense of déformation and defines it as transposing professional habits into ordinary life.",
+  "origin": {
+    "year": 1937,
+    "who": "Daniel Warnotte",
+    "where": "Revue de l'Institut de Sociologie",
+    "note": "Merton's footnote gives Warnotte, 'Bureaucratie et Fonctionnarisme', Revue de l'Institut de Sociologie, 1937, 17, 245, and that footnote is the whole basis for the attribution. Warnotte's article was not found in any digital library during this task, so nothing of his wording is quoted here. The phrase is older than 1937 in French, where medical writers used it for a body bent by a trade, and the first use in print was not established. Merton is where the sociological sense enters English."
+  },
+  "evidence": "Nothing measures déformation professionnelle under that name. Two medical surveys measure the thing it describes, by putting one clinical problem to two professions. Fowler and colleagues mailed vignettes to American specialists in 1998. Urologists returned 504 replies, a 64% response rate, and radiation oncologists 559, a 76% rate. For a man with a moderately differentiated localised prostate cancer and more than ten years of life expectancy, 93% of urologists preferred radical prostatectomy, while 72% of radiation oncologists judged surgery and external beam radiotherapy equivalent. The groups also split on screening: 43% of radiation oncologists and 16% of urologists recommended routine PSA testing for men aged 80 and over. Their conclusion is that specialists overwhelmingly recommend the therapy they themselves deliver. Delaney and colleagues took away the vignette. They re-analysed a randomised trial in which 108 men with clinically localised prostate cancer, mean age 61.9, consulted both a urologist and a radiation oncologist about their own case. Urologists recommended surgery in 79% of their recommendations; radiation oncologists recommended radiation in 68% of theirs. The two doctors agreed for 33 of the 108 patients, 30.6%. Of the men, 59% received a treatment both had recommended and 35% one that only one of them had. An older line of work asks the same question of managers rather than doctors, running from Dearborn and Simon's 1958 note on executives through Walsh's 1988 study to Beyer and colleagues' 1997 replication, which attributes the disagreement between the first two to differences in procedure. None of those three papers was read for this entry, and they are treated under selective perception.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study tests déformation professionnelle as such, because nobody has turned an idiom into a hypothesis; the nearest measured result is that a urologist and a radiation oncologist seeing the same 108 patients agreed on treatment for 30.6% of them."
+  },
+  "limits": "The term is an idiom, not a construct. It has no scale, no operational definition and no paradigm, so there is nothing for a replication to repeat. Searches of Crossref, PubMed, OpenAlex, Semantic Scholar and the open web under déformation professionnelle, professional deformation and occupational deformation returned essays, glossaries and occupational-health papers about physical injury, and no experiment that measures the idea. The two prostate surveys measure an outcome and not a mechanism. A urologist who recommends surgery may be seeing the case through surgical training, may be responding to what he is paid to do, or may have entered the specialty because he already preferred cutting. Neither design separates those, and neither paper claims to. Both also concern one disease in one country. Four documents wanted here were not obtained. Pamela Hinds' 1999 paper on the curse of expertise, in the Journal of Experimental Psychology: Applied 5(2), 205-221, is the standard citation for experts underestimating how long novices take; it is closed at the American Psychological Association, Unpaywall and Semantic Scholar list no repository copy, the publisher's abstract could not be fetched, and no figure from it appears above. Warnotte's 1937 article was not located. The nineteenth-century French medical use is cited by Wikipedia to a page of the Bulletins et Mémoires de la Société Médicale des Hôpitaux de Paris for 1897, and that Google Books scan would not return the page during this task. The Oxford English Dictionary has an entry for the phrase in English; it is paywalled and its earliest-evidence date was not checked, so no date is given here for the term's arrival in English.",
+  "misreadings": "The commonest error is to treat this as the law of the instrument. Abraham Kaplan's law is about method: a researcher skilled in a technique picks the problems that technique can answer. Déformation professionnelle is about occupation, which is looser, and covers manner, vocabulary and taste as well as choice of problem. They overlap and they are not the same claim, and the law of the instrument's evidence, functional fixedness and the Einstellung effect, is about a single task rather than a whole outlook. The second error is reading the idiom as a finding. It reached sociology through a footnote and English through common use, and no one has since attached a measurement to it. The third concerns the medical data. That urologists recommend surgery is not proof that surgical training bends perception, since financial interest and self-selection into the specialty predict the same pattern. The fourth is the word itself. Deformation here is figurative, and its force comes from the pun on formation professionnelle rather than from any claim that a professional is damaged.",
+  "sources": [
+    {
+      "text": "Merton, R. K. (1957). Social Theory and Social Structure. Glencoe: Free Press. Chapter 'Bureaucratic Structure and Personality', pp. 195-206. Source of the sentence grouping trained incapacity, occupational psychosis and professional deformation, and of footnote 8 citing Warnotte. Read here from the text hosted by the University of Minnesota Duluth.",
+      "url": "https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Merton, R. K. (1940). Bureaucratic Structure and Personality. Social Forces, 18(4), 560-568. The journal article of the same title; not read for this entry.",
+      "doi": "10.2307/2570634",
+      "url": "https://doi.org/10.2307/2570634",
+      "type": "primary"
+    },
+    {
+      "text": "Fowler, F. J., Jr., McNaughton Collins, M., Albertsen, P. C., Zietman, A., Elliott, D. B., & Barry, M. J. (2000). Comparison of recommendations by urologists and radiation oncologists for treatment of clinically localized prostate cancer. JAMA, 283(24), 3217-3222. Source of the 1998 survey figures above; read from the abstract at PubMed, PMID 10866869.",
+      "doi": "10.1001/jama.283.24.3217",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10866869/",
+      "type": "primary"
+    },
+    {
+      "text": "Delaney, R. K., Sisco-Taylor, B. L., Wang, X., Scherr, K., Ubel, P. A., Haaland, B., Kahn, V. C., Hamstra, D., Wei, J. T., Madanay, F., Davis, J. K., Greeno, T. U., & Fagerlin, A. (2022). Two Specialists, Two Recommendations: Discordance Between Urologists' and Radiation Oncologists' Prostate Cancer Treatment Recommendations. Urology, 169, 156-161. Source of the 108-patient concordance figures; read from the abstract at PubMed, PMID 35768027.",
+      "doi": "10.1016/j.urology.2022.06.009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35768027/",
+      "type": "primary"
+    },
+    {
+      "text": "Hinds, P. J. (1999). The curse of expertise: The effects of expertise and debiasing methods on prediction of novice performance. Journal of Experimental Psychology: Applied, 5(2), 205-221. Named as the standard citation for the curse of expertise; closed access and not obtained, so no figure from it is quoted here.",
+      "doi": "10.1037/1076-898X.5.2.205",
+      "url": "https://doi.org/10.1037/1076-898X.5.2.205",
+      "type": "primary"
+    },
+    {
+      "text": "Dearborn, D. C., & Simon, H. A. (1958). Selective Perception: A Note on the Departmental Identifications of Executives. Sociometry, 21(2), 140-144. Named, not read; the effect is treated under selective perception.",
+      "doi": "10.2307/2785898",
+      "url": "https://doi.org/10.2307/2785898",
+      "type": "primary"
+    },
+    {
+      "text": "Walsh, J. P. (1988). Selectivity and selective perception: An investigation of managers' belief structures and information processing. Academy of Management Journal, 31(4), 873-896. Named, not read.",
+      "doi": "10.2307/256343",
+      "url": "https://doi.org/10.2307/256343",
+      "type": "replication"
+    },
+    {
+      "text": "Beyer, J. M., Chattopadhyay, P., George, E., Glick, W. H., ogilvie, dt, & Pugliese, D. (1997). The selective perception of managers revisited. Academy of Management Journal, 40(3), 716-737. Named, not read.",
+      "doi": "10.2307/257060",
+      "url": "https://doi.org/10.2307/257060",
+      "type": "replication"
+    },
+    {
+      "text": "Trésor de la langue française informatisé, entry 'déformation', sense B.2, at the Centre National de Ressources Textuelles et Lexicales. Source of the French definition; the entry carries no dated attestation for the phrase.",
+      "url": "https://www.cnrtl.fr/definition/d%C3%A9formation",
+      "type": "reference"
+    },
+    {
+      "text": "Wikipedia, 'Déformation professionnelle'. Used here only as an index to the Merton passage and to the 1897 French medical citation, the latter at one remove and unopened.",
+      "url": "https://en.wikipedia.org/wiki/D%C3%A9formation_professionnelle",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
