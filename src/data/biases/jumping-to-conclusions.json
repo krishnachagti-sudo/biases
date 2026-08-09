@@ -1,0 +1,117 @@
+{
+  "no": 203,
+  "slug": "jumping-to-conclusions",
+  "name": "Jumping to conclusions",
+  "aliases": ["JTC bias", "Jumping-to-conclusions bias", "Hasty data-gathering bias", "Reduced data gathering"],
+  "category": "belief",
+  "statement": "People with psychosis decide on the basis of less evidence than other people on the beads task, the probabilistic reasoning test used to study delusions.",
+  "meaning": "The bias is defined by a task rather than by the everyday complaint that somebody assumed too much. In the beads task a participant is told that beads are being drawn from one of two hidden jars, which hold coloured beads in equal but opposite ratios. Beads appear one at a time, and the participant says when they know which jar was chosen. The measure is draws to decision, the number of beads a person asks to see before committing. Taylor, Hutton and Dudley describe easy versions at 85:15, 90:10 or 80:20, and hard versions at 60:40. A decision taken on two beads or fewer counts as extreme responding. Two claims rest on that measure and they are usually run together. One is that people with psychosis ask for fewer beads than other people do. The other is that the hasty style helps to form or sustain delusions, which is what makes the measure interesting to clinicians. The evidence behind the two claims is not the same strength.",
+  "origin": {
+    "year": 1988,
+    "who": "S. F. Huq, Philippa A. Garety and David R. Hemsley",
+    "where": "The Quarterly Journal of Experimental Psychology Section A",
+    "note": "Their paper, 'Probabilistic judgements in deluded and non-deluded subjects', runs from page 801 to page 812 of volume 40. PubMed holds no abstract for it, and indexes it under delusions, judgement, probability learning and schizophrenic psychology. Dudley, Taylor, Wickham and Hutton trace the beads task in delusion research to this study."
+  },
+  "evidence": "Three meta-analyses published within two years cover most of the field. Dudley, Taylor, Wickham and Hutton identified 55 studies and obtained unpublished data from 16 authors, comparing people with psychosis to healthy people, to people with non-psychotic mental health problems, and to each other by delusion status. So, Siu, Wong, Chan and Garety screened 6,864 articles published between 1990 and 2015 and meta-analysed 46 of them, in two separate analyses: 40 effect sizes for psychosis against healthy controls, and 18 for non-psychotic disorders against healthy controls. McLean, Mattiske and Balzan pooled 35 jumping-to-conclusions studies alongside 8 on bias against disconfirmatory evidence, 7 on bias against confirmatory evidence and 6 on liberal acceptance, sorting groups by whether delusions were present at the time of testing. Ross, McKay, Coltheart and Langdon took a different route, collecting individual participant data from 38 clinical and non-clinical samples with 2,237 people and correlating draws to decision against scores on the Peters et al Delusions Inventory. Beyond the group comparisons, Jolley and 10 colleagues gave three probabilistic reasoning tasks to 204 people with schizophrenia spectrum psychosis to see what hasty deciders actually get wrong. Tripoli and the EU-GEI case-control team ran the beads task alongside IQ testing and polygenic scoring in 817 people with first-episode psychosis and 1,294 population controls.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The group difference between psychosis and everyone else holds across three meta-analyses; the link between hasty deciding and delusions themselves does not.",
+    "detail": "Dudley and colleagues found that people with psychosis needed less information than healthy people, k = 33, N = 1935, g = -0.53, 95% CI -0.69 to -0.36, and less than people with non-psychotic mental health problems, k = 13, N = 667, g = -0.58, 95% CI -0.80 to -0.35. Odds of extreme responding in psychosis ran between four and six times the odds in the two comparison groups. So and colleagues report a moderate aggregated effect for the same comparison, and their second analysis found that once outliers were removed the effect in non-psychotic disorders was not statistically reliable, with no effect in depression. McLean and colleagues place the difference more precisely: groups with schizophrenia who were currently deluded showed more of the bias than groups with schizophrenia who were not, and the non-deluded groups showed no more of it than healthy controls. The delusion link is where agreement stops. Dudley and colleagues found the bias raised the probability of delusions being present, k = 14, N = 770, OR 1.52, 95% CI 1.12 to 2.05, but its association with delusion severity was at trend level only, k = 18, N = 794, r = -.09, 95% CI -0.21 to 0.03. Ross and colleagues found delusional ideation negatively associated with data gathering across all 38 samples, rs = -0.10, 95% CI -0.17 to -0.03, with heterogeneity, Q-stat P = .03, I2 = 33. Splitting the samples reverses the reading. The 23 general population samples, n = 1,754, gave rs = -0.10, 95% CI -0.18 to -0.02, and the 8 samples of people with current delusions, n = 262, gave rs = -0.12, 95% CI -0.31 to 0.07. Their Egger's test for funnel plot asymmetry was non-significant, z = -0.74, P = .46. Tripoli and colleagues found the bias unrelated to delusions in their patients.",
+    "study": {
+      "cite": "Dudley, R., Taylor, P., Wickham, S., & Hutton, P. (2016). Psychosis, delusions and the 'Jumping to Conclusions' reasoning bias: A systematic review and meta-analysis. Schizophrenia Bulletin, 42(3), 652-665.",
+      "doi": "10.1093/schbul/sbv150",
+      "year": 2016,
+      "n": 1935
+    },
+    "replicated": { "es": -0.53, "esType": "g", "ci": [-0.69, -0.36], "ciLevel": 95 }
+  },
+  "limits": "The measure is less stable than the literature built on it assumes. McLean, Mattiske and Balzan gave 212 healthy participants either ten standard beads trials or trials seeded with distractor sequences, and report that the standard task may not be reliable over repeated measures. Adding distractor sequences and dropping the first trial as practice improved repeatability. Two later studies using that better task in healthy samples found the association running the wrong way. In one, 203 participants completed the distractor-sequences task and the Peters et al Delusions Inventory, and those who decided on two draws or fewer scored lower on delusion-proneness. In the other, with 167 participants, delusion-proneness and draws to decision were positively correlated, and the authors attribute this to anxiety and risk aversion rather than to odds literacy. General ability may account for most of the clinical finding. Tripoli and colleagues estimate that 79% of the total case-control difference in draws to decision was mediated by IQ. A polygenic score for IQ predicted the number of beads drawn, B = 0.51, 95% CI 0.25 to 0.76, p < 0.001, while a polygenic score for schizophrenia did not, B = 0.47, 95% CI -0.21 to 1.16, p = 0.17. In the controls the bias tracked psychotic-like experiences even with IQ held constant, B = -1.7, 95% CI -2.8 to -0.5, p = 0.006. So and colleagues found marked heterogeneity and evidence of publication bias in the non-psychotic disorders analysis, and conclude the bias is not transdiagnostic beyond psychosis. Moritz and colleagues, arguing that the beads task is hard to interpret and hard to understand, built a box task in its place and identify two routes to a premature decision: a lower decision threshold, or higher initial probability estimates for the favoured option.",
+  "misreadings": "The name invites the everyday reading, and the everyday reading is not what is measured. Nothing in this literature concerns leaping to social conclusions or assuming the worst of someone. It concerns how many coloured beads a person asks to see. Calling a short sequence irrational is also doing more work than the arithmetic allows. Ross and colleagues point out that at an 85:15 ratio, two beads of the same colour put the posterior probability of the matching jar at 0.97, so a decision at that point is not obviously premature. The causal story is the weakest part. Ross, Freeman, Dunn and Garety randomly assigned people with delusions, 34 of them against 34 non-clinical controls at baseline, to a session of reasoning training or attention control. Training raised data gathering, the change in flexibility about delusions was not statistically reliable, and the authors report that the severest form of the bias resists change. Jolley and colleagues found that hasty deciders did make more false conclusions, and that only 37% of their reasoning errors were consistent with the limited evidence they had gathered. The rest contradicted all of it, which points at how evidence is used rather than at how much is collected. Penney and colleagues pooled 43 studies of metacognitive training for psychosis with 1,816 participants and found delusions improved by g = 0.69, 95% CI 0.45 to 0.93, while the cognitive biases the training targets moved by g = 0.16, 95% CI 0.03 to 0.29. A treatment can help without the mechanism it names being the reason.",
+  "sources": [
+    {
+      "text": "Huq, S. F., Garety, P. A., & Hemsley, D. R. (1988). Probabilistic judgements in deluded and non-deluded subjects. The Quarterly Journal of Experimental Psychology Section A, 40(4), 801-812.",
+      "doi": "10.1080/14640748808402300",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3212213/",
+      "type": "primary"
+    },
+    {
+      "text": "Taylor, P., Hutton, P., & Dudley, R. (2014). Rationale and protocol for a systematic review and meta-analysis on reduced data gathering in people with delusions. Systematic Reviews, 3, 44.",
+      "doi": "10.1186/2046-4053-3-44",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4020871/",
+      "type": "primary"
+    },
+    {
+      "text": "Dudley, R., Taylor, P., Wickham, S., & Hutton, P. (2016). Psychosis, delusions and the 'Jumping to Conclusions' reasoning bias: A systematic review and meta-analysis. Schizophrenia Bulletin, 42(3), 652-665.",
+      "doi": "10.1093/schbul/sbv150",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26519952/",
+      "type": "replication"
+    },
+    {
+      "text": "So, S. H., Siu, N. Y., Wong, H. L., Chan, W., & Garety, P. A. (2016). 'Jumping to conclusions' data-gathering bias in psychosis and other psychiatric disorders: Two meta-analyses of comparisons between patients and healthy individuals. Clinical Psychology Review, 46, 151-167.",
+      "doi": "10.1016/j.cpr.2016.05.001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27216559/",
+      "type": "replication"
+    },
+    {
+      "text": "Ross, R. M., McKay, R., Coltheart, M., & Langdon, R. (2015). Jumping to conclusions about the beads task? A meta-analysis of delusional ideation and data-gathering. Schizophrenia Bulletin, 41(5), 1183-1191.",
+      "doi": "10.1093/schbul/sbu187",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4535629/",
+      "type": "replication"
+    },
+    {
+      "text": "McLean, B. F., Mattiske, J. K., & Balzan, R. P. (2017). Association of the jumping to conclusions and evidence integration biases with delusions in psychosis: A detailed meta-analysis. Schizophrenia Bulletin, 43(2), 344-354.",
+      "doi": "10.1093/schbul/sbw056",
+      "url": "https://academic.oup.com/schizophreniabulletin/article-abstract/43/2/344/2503395",
+      "type": "replication"
+    },
+    {
+      "text": "McLean, B. F., Mattiske, J. K., & Balzan, R. P. (2018). Towards a reliable repeated-measures beads task for assessing the jumping to conclusions bias. Psychiatry Research, 265, 200-207.",
+      "doi": "10.1016/j.psychres.2018.04.043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29730540/",
+      "type": "commentary"
+    },
+    {
+      "text": "McLean, B. F., Mattiske, J. K., & Balzan, R. P. (2020). Jumping to conclusions in the less-delusion-prone? Preliminary evidence from a more reliable beads task. Journal of Behavior Therapy and Experimental Psychiatry, 68, 101562.",
+      "doi": "10.1016/j.jbtep.2020.101562",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32105906/",
+      "type": "replication"
+    },
+    {
+      "text": "McLean, B. F., Balzan, R. P., & Mattiske, J. K. (2020). Jumping to conclusions in the less-delusion-prone? Further evidence from a more reliable beads task. Consciousness and Cognition, 83, 102956.",
+      "doi": "10.1016/j.concog.2020.102956",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32502909/",
+      "type": "replication"
+    },
+    {
+      "text": "Tripoli, G., Quattrone, D., Ferraro, L., Gayer-Anderson, C., Rodriguez, V., La Cascia, C., et al. (2021). Jumping to conclusions, general intelligence, and psychosis liability: Findings from the multi-centre EU-GEI case-control study. Psychological Medicine, 51(4), 623-633.",
+      "doi": "10.1017/S003329171900357X",
+      "url": "https://www.cambridge.org/core/journals/psychological-medicine/article/jumping-to-conclusions-general-intelligence-and-psychosis-liability-findings-from-the-multicentre-eugei-casecontrol-study/9CA5BFFA67502EC324EA9DA9929F37DE",
+      "type": "commentary"
+    },
+    {
+      "text": "Jolley, S., Thompson, C., Hurley, J., Medin, E., Butler, L., Bebbington, P., et al. (2014). Jumping to the wrong conclusions? An investigation of the mechanisms of reasoning errors in delusions. Psychiatry Research, 219(2), 275-282.",
+      "doi": "10.1016/j.psychres.2014.05.051",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4118018/",
+      "type": "commentary"
+    },
+    {
+      "text": "Ross, K., Freeman, D., Dunn, G., & Garety, P. (2011). A randomized experimental investigation of reasoning training for people with delusions. Schizophrenia Bulletin, 37(2), 324-333.",
+      "doi": "10.1093/schbul/sbn165",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19520745/",
+      "type": "commentary"
+    },
+    {
+      "text": "Moritz, S., Goritz, A. S., Balzan, R. P., Gaweda, L., Kulagin, S. C., & Andreou, C. (2017). A new paradigm to measure probabilistic reasoning and a possible answer to the question why psychosis-prone individuals jump to conclusions. Journal of Abnormal Psychology, 126(4), 406-415.",
+      "doi": "10.1037/abn0000262",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28277733/",
+      "type": "commentary"
+    },
+    {
+      "text": "Penney, D., Sauve, G., Mendelson, D., Thibaudeau, E., Moritz, S., & Lepage, M. (2022). Immediate and sustained outcomes and moderators associated with metacognitive training for psychosis: A systematic review and meta-analysis. JAMA Psychiatry, 79(5), 417-429.",
+      "doi": "10.1001/jamapsychiatry.2022.0277",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35320347/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
