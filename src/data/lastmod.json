@@ -1,7 +1,7 @@
 {
   "pages": {
     "": {
-      "hash": "400f00f2fda56ec7",
+      "hash": "18cb1ec0214bf038",
       "date": "2026-08-09"
     },
     "about/": {
@@ -9,691 +9,799 @@
       "date": "2026-08-08"
     },
     "bias/actor-observer-asymmetry/": {
-      "hash": "1811591b0bf6aa37",
+      "hash": "980b805154878e00",
+      "date": "2026-08-09"
+    },
+    "bias/aesthetic-usability-effect/": {
+      "hash": "f9cc2906340f02d0",
       "date": "2026-08-09"
     },
     "bias/affect-heuristic/": {
-      "hash": "d5eb25a1c5693986",
+      "hash": "e79ed28cb17a08c3",
       "date": "2026-08-09"
     },
     "bias/affective-forecasting/": {
-      "hash": "887798ff683f2d3c",
+      "hash": "822c97192f3105de",
       "date": "2026-08-09"
     },
     "bias/agent-detection/": {
-      "hash": "f81c8d75be97994e",
+      "hash": "e797fc0aafdeaf73",
       "date": "2026-08-09"
     },
     "bias/ambiguity-aversion/": {
-      "hash": "bfa11f926c317c9a",
+      "hash": "2c14aefc8e9b3d88",
       "date": "2026-08-09"
     },
     "bias/anchoring-effect/": {
-      "hash": "b25b6e2b6a4ee192",
+      "hash": "2ed0dcf34ca7582b",
       "date": "2026-08-09"
     },
     "bias/anthropomorphism/": {
-      "hash": "e8938b2a87789a88",
+      "hash": "beefbd73af0961bc",
       "date": "2026-08-09"
     },
     "bias/apophenia/": {
-      "hash": "65da4e104d13bbf3",
+      "hash": "9c6d671523748010",
+      "date": "2026-08-09"
+    },
+    "bias/attentional-bias/": {
+      "hash": "a643558eaa3116dd",
+      "date": "2026-08-09"
+    },
+    "bias/attribute-substitution/": {
+      "hash": "ab1413ebb8dac5ae",
       "date": "2026-08-09"
     },
     "bias/authority-bias/": {
-      "hash": "c9aad4663cedae82",
+      "hash": "769e54c50ac3a243",
       "date": "2026-08-09"
     },
     "bias/automation-bias/": {
-      "hash": "3194ee15f46fa2b9",
+      "hash": "7faa710ecdfdc3ed",
       "date": "2026-08-09"
     },
     "bias/availability-cascade/": {
-      "hash": "9ef9d26caf0a7e9a",
+      "hash": "92b4e14d7df4a33b",
       "date": "2026-08-09"
     },
     "bias/availability-heuristic/": {
-      "hash": "d7f4896867ba4c6f",
+      "hash": "73eed041cb11c395",
       "date": "2026-08-09"
     },
     "bias/backfire-effect/": {
-      "hash": "f69de2cd4a08db40",
+      "hash": "968b2a30413b8cae",
       "date": "2026-08-09"
     },
     "bias/ballot-order-effect/": {
-      "hash": "1150112833b0690a",
+      "hash": "2e84fdd71150daed",
       "date": "2026-08-09"
     },
     "bias/bandwagon-effect/": {
-      "hash": "9646d578638d0cbf",
+      "hash": "6dbf1b0ecd4dcf65",
       "date": "2026-08-09"
     },
     "bias/barnum-effect/": {
-      "hash": "51fc27c2715d30d9",
+      "hash": "16c17ccfc7c5ebbe",
       "date": "2026-08-09"
     },
     "bias/base-rate-fallacy/": {
-      "hash": "a2d08c68f6d4d815",
+      "hash": "2cf323aef53fb56e",
+      "date": "2026-08-09"
+    },
+    "bias/belief-perseverance/": {
+      "hash": "384fa7d797e940c9",
       "date": "2026-08-09"
     },
     "bias/berksons-paradox/": {
-      "hash": "1eb4520d0c787d0c",
+      "hash": "c05ad64370e6a82f",
       "date": "2026-08-09"
     },
     "bias/bias-blind-spot/": {
-      "hash": "dd690b9e13e3b787",
+      "hash": "4167f9dcdc313f9c",
       "date": "2026-08-09"
     },
     "bias/birthday-number-effect/": {
-      "hash": "826ed16cbe03bd76",
+      "hash": "c2bd48b357e92d7e",
       "date": "2026-08-09"
     },
     "bias/bystander-effect/": {
-      "hash": "d4e14759d849c39f",
+      "hash": "0ed9f322f537daf4",
       "date": "2026-08-09"
     },
     "bias/certainty-effect/": {
-      "hash": "4d0f0b13e9f0d2f8",
+      "hash": "27060572c3e87ef0",
       "date": "2026-08-09"
     },
     "bias/cheerleader-effect/": {
-      "hash": "3351debb123e3bba",
+      "hash": "314b569cf4a33514",
       "date": "2026-08-09"
     },
     "bias/childhood-amnesia/": {
-      "hash": "c13b571e2665d85f",
+      "hash": "c46b07e6eb1806d0",
       "date": "2026-08-09"
     },
     "bias/choice-overload/": {
-      "hash": "6adc06bcc63c2953",
+      "hash": "36b6e3de9e716512",
       "date": "2026-08-09"
     },
     "bias/choice-supportive-bias/": {
-      "hash": "dfac177f555cf004",
+      "hash": "4d7974092a701d82",
       "date": "2026-08-09"
     },
     "bias/choosing-versus-rejecting/": {
-      "hash": "c848f4885807c1b1",
+      "hash": "5397425e6f3bf80b",
       "date": "2026-08-09"
     },
     "bias/clustering-illusion/": {
-      "hash": "9afc3bf6b5a6072e",
+      "hash": "e7b1f65ff08d2ab6",
       "date": "2026-08-09"
     },
     "bias/cocktail-party-effect/": {
-      "hash": "ccd5a92a59d12219",
+      "hash": "cff91eb50669fad5",
       "date": "2026-08-09"
     },
     "bias/cognitive-dissonance/": {
-      "hash": "96d2df33405800ef",
+      "hash": "5ebb51ba18657e72",
       "date": "2026-08-09"
     },
     "bias/confabulation/": {
-      "hash": "b857c1cb003a3c6b",
+      "hash": "49b8e85d021eda30",
       "date": "2026-08-09"
     },
     "bias/confirmation-bias/": {
-      "hash": "3e06b8a7c4e8a9fa",
+      "hash": "e81752432f4e67dd",
       "date": "2026-08-09"
     },
     "bias/conjunction-fallacy/": {
-      "hash": "8a07f45024a2edd7",
+      "hash": "b4d6efed4aa3e9c9",
+      "date": "2026-08-09"
+    },
+    "bias/continued-influence-effect/": {
+      "hash": "8835e419296d3e4a",
+      "date": "2026-08-09"
+    },
+    "bias/contrast-effect/": {
+      "hash": "2b0a55f8d3c749da",
       "date": "2026-08-09"
     },
     "bias/cross-race-effect/": {
-      "hash": "44897b09c678ff98",
+      "hash": "6b89fa1afc41a38f",
       "date": "2026-08-09"
     },
     "bias/cryptomnesia/": {
-      "hash": "3c8641a071715582",
+      "hash": "60700fa272119a47",
+      "date": "2026-08-09"
+    },
+    "bias/curse-of-expertise/": {
+      "hash": "ba80001053663da6",
       "date": "2026-08-09"
     },
     "bias/curse-of-knowledge/": {
-      "hash": "ac212899e7fbcdd3",
+      "hash": "401e7b1e39df59e8",
       "date": "2026-08-09"
     },
     "bias/declinism/": {
-      "hash": "4914f29c4fcd70f6",
+      "hash": "59ef2b8bd58d989d",
       "date": "2026-08-09"
     },
     "bias/decoy-effect/": {
-      "hash": "e8befbfdca155bfb",
+      "hash": "5ac92e3bccc7b5e2",
       "date": "2026-08-09"
     },
     "bias/default-effect/": {
-      "hash": "1f8ceae3bd758790",
+      "hash": "cf75f410f67d944e",
       "date": "2026-08-09"
     },
     "bias/deformation-professionnelle/": {
-      "hash": "d95bc9996eb0f02e",
+      "hash": "4b628681cd9a4838",
       "date": "2026-08-09"
     },
     "bias/denomination-effect/": {
-      "hash": "941e324c3ab50393",
+      "hash": "235fb7db7b99e39d",
       "date": "2026-08-09"
     },
     "bias/depressive-realism/": {
-      "hash": "9548c338d50f66aa",
+      "hash": "338236235118d5ef",
       "date": "2026-08-09"
     },
     "bias/disfluency-effect/": {
-      "hash": "1173a2da4ac59817",
+      "hash": "2901692a0a1c358c",
+      "date": "2026-08-09"
+    },
+    "bias/disposition-effect/": {
+      "hash": "de8c66adaebf21df",
       "date": "2026-08-09"
     },
     "bias/dunning-kruger-effect/": {
-      "hash": "c2d8aaf17d8a2b6c",
+      "hash": "87817e922841d070",
+      "date": "2026-08-09"
+    },
+    "bias/effort-justification/": {
+      "hash": "9a32874da8950615",
       "date": "2026-08-09"
     },
     "bias/ego-depletion/": {
-      "hash": "cf5b4e9d765d09d0",
+      "hash": "2a655d1d1a1cfcef",
+      "date": "2026-08-09"
+    },
+    "bias/egocentric-bias/": {
+      "hash": "61571b21661a474c",
       "date": "2026-08-09"
     },
     "bias/embodied-cognition/": {
-      "hash": "0c25cbbea2c99348",
+      "hash": "ac51b3d4b0f7d739",
       "date": "2026-08-09"
     },
     "bias/end-of-history-illusion/": {
-      "hash": "e924f81e6302e3fa",
+      "hash": "bdc884dd9482aee0",
       "date": "2026-08-09"
     },
     "bias/endowment-effect/": {
-      "hash": "1d9fde36c0a27cdf",
+      "hash": "066a976a5740e08b",
       "date": "2026-08-09"
     },
     "bias/escalation-of-commitment/": {
-      "hash": "6947bbdb1ffb0931",
+      "hash": "062e0ff6f8a1c06a",
       "date": "2026-08-09"
     },
     "bias/facial-feedback/": {
-      "hash": "9dcf12f8f38d630b",
+      "hash": "256d3d9d3654f1cc",
+      "date": "2026-08-09"
+    },
+    "bias/fading-affect-bias/": {
+      "hash": "a2a2e1cb7c6c0698",
       "date": "2026-08-09"
     },
     "bias/false-consensus-effect/": {
-      "hash": "07ef79044aaef5fe",
+      "hash": "052ac1ff3067158a",
       "date": "2026-08-09"
     },
     "bias/false-memory/": {
-      "hash": "8f586e8a2854f827",
+      "hash": "89715c8098bb364c",
       "date": "2026-08-09"
     },
     "bias/fear-of-missing-out/": {
-      "hash": "714c80bb5858b214",
+      "hash": "c86f09bf62661a90",
       "date": "2026-08-09"
     },
     "bias/framing-effect/": {
-      "hash": "9dbc10d748305e1c",
+      "hash": "5573b82e22dd1f07",
       "date": "2026-08-09"
     },
     "bias/frequency-illusion/": {
-      "hash": "f746a44f53d98764",
+      "hash": "ae8e4ff11a3df415",
       "date": "2026-08-09"
     },
     "bias/functional-fixedness/": {
-      "hash": "299c39a9ff8e86e7",
+      "hash": "d89147da93cc91e5",
       "date": "2026-08-09"
     },
     "bias/fundamental-attribution-error/": {
-      "hash": "91d384a25a6e306e",
+      "hash": "84c78acdf020cfca",
       "date": "2026-08-09"
     },
     "bias/gamblers-fallacy/": {
-      "hash": "bd715fef53be8618",
+      "hash": "cd7d74da2a2cc858",
+      "date": "2026-08-09"
+    },
+    "bias/generation-effect/": {
+      "hash": "53ee2ad5f120ad77",
       "date": "2026-08-09"
     },
     "bias/golem-effect/": {
-      "hash": "15c4393db598ea0b",
+      "hash": "0b1c8a747a7e7bad",
       "date": "2026-08-09"
     },
     "bias/google-effect/": {
-      "hash": "da38e7d95f78d0b9",
+      "hash": "71f610619af856f8",
       "date": "2026-08-09"
     },
     "bias/groupthink/": {
-      "hash": "eda0b751821eab59",
+      "hash": "7ccf591d242b8f10",
       "date": "2026-08-09"
     },
     "bias/halo-effect/": {
-      "hash": "34a0ac93eafa64c6",
+      "hash": "c4a5626118be6533",
       "date": "2026-08-09"
     },
     "bias/hawthorne-effect/": {
-      "hash": "3e72daf27a57c366",
+      "hash": "d9ffb6976229950c",
       "date": "2026-08-09"
     },
     "bias/hindsight-bias/": {
-      "hash": "112ac0954423a1ca",
+      "hash": "ee723700f05e3f5b",
       "date": "2026-08-09"
     },
     "bias/horn-effect/": {
-      "hash": "c3330e69722ef789",
+      "hash": "e9ae21b0b7c0112b",
       "date": "2026-08-09"
     },
     "bias/hostile-attribution-bias/": {
-      "hash": "7ea98c2e187a1e7f",
+      "hash": "a1adc6d2fba90aa1",
+      "date": "2026-08-09"
+    },
+    "bias/hostile-media-effect/": {
+      "hash": "fe84c89a87f54da5",
       "date": "2026-08-09"
     },
     "bias/hot-cold-empathy-gap/": {
-      "hash": "7fba31c33f153f40",
+      "hash": "57af2d8dc22aa8bb",
       "date": "2026-08-09"
     },
     "bias/hot-hand-fallacy/": {
-      "hash": "c887199608748bb6",
+      "hash": "e866d21e63098457",
       "date": "2026-08-09"
     },
     "bias/hungry-judge-effect/": {
-      "hash": "d13af826373802b8",
+      "hash": "f1f56f6495eaf171",
       "date": "2026-08-09"
     },
     "bias/hyperbolic-discounting/": {
-      "hash": "4d490da87f93c2f9",
+      "hash": "5dfdf6c184fe813a",
       "date": "2026-08-09"
     },
     "bias/identifiable-victim-effect/": {
-      "hash": "300a055117dd1e12",
+      "hash": "3884f1a1bd152f53",
       "date": "2026-08-09"
     },
     "bias/ikea-effect/": {
-      "hash": "04c43bdbbc229282",
+      "hash": "7a26d2fed0fcc3af",
       "date": "2026-08-09"
     },
     "bias/illusion-of-control/": {
-      "hash": "5978be7bdf4c00a7",
+      "hash": "f1e3197fc53c3683",
       "date": "2026-08-09"
     },
     "bias/illusion-of-explanatory-depth/": {
-      "hash": "2441f66351672ef7",
+      "hash": "e8e7e9e96f0f66a6",
+      "date": "2026-08-09"
+    },
+    "bias/illusion-of-transparency/": {
+      "hash": "1e3820bd31f402d7",
+      "date": "2026-08-09"
+    },
+    "bias/illusion-of-validity/": {
+      "hash": "fa22dfdd4bd55ee6",
       "date": "2026-08-09"
     },
     "bias/illusory-correlation/": {
-      "hash": "156e24530fca82c9",
+      "hash": "86cb24e488b97647",
       "date": "2026-08-09"
     },
     "bias/illusory-superiority/": {
-      "hash": "2baa4be71c496190",
+      "hash": "662eedf09554aca8",
       "date": "2026-08-09"
     },
     "bias/illusory-truth-effect/": {
-      "hash": "1f048cde88780157",
+      "hash": "3d210e3d6a6000d7",
       "date": "2026-08-09"
     },
     "bias/implicit-association-test/": {
-      "hash": "477d2a868f1b928c",
+      "hash": "0ec1c61b4fa9f1a5",
       "date": "2026-08-09"
     },
     "bias/implicit-stereotype/": {
-      "hash": "0b5cdf81ab0d0cc0",
+      "hash": "71775241f357e3bb",
       "date": "2026-08-09"
     },
     "bias/impostor-syndrome/": {
-      "hash": "70f8750efa44fd74",
+      "hash": "fd650b97183161f1",
       "date": "2026-08-09"
     },
     "bias/in-group-favouritism/": {
-      "hash": "7b7efe503450f3b0",
+      "hash": "c4c51561e39348f7",
       "date": "2026-08-09"
     },
     "bias/inequity-aversion/": {
-      "hash": "4ca8cf445a1678c8",
+      "hash": "2f281ace8dbdb480",
       "date": "2026-08-09"
     },
     "bias/information-cascade/": {
-      "hash": "90a45e2ca406c099",
+      "hash": "22e6d9babc847f11",
       "date": "2026-08-09"
     },
     "bias/intellectual-humility/": {
-      "hash": "a9f714a000471cb7",
+      "hash": "636174cad6b3cd40",
       "date": "2026-08-09"
     },
     "bias/introspection-illusion/": {
-      "hash": "91e5be9a855f953e",
+      "hash": "f00b22f2210f8648",
+      "date": "2026-08-09"
+    },
+    "bias/jumping-to-conclusions/": {
+      "hash": "77adeb48b7e8d04b",
       "date": "2026-08-09"
     },
     "bias/just-world-hypothesis/": {
-      "hash": "3f74045b0b5e5a51",
+      "hash": "c6666dc8a4e1f5c2",
       "date": "2026-08-09"
     },
     "bias/law-of-the-instrument/": {
-      "hash": "88033aae6b0bbc44",
+      "hash": "8096c6c5a4646216",
       "date": "2026-08-09"
     },
     "bias/locus-of-control/": {
-      "hash": "49deb20f7a5fd419",
+      "hash": "92106e577d3d7628",
       "date": "2026-08-09"
     },
     "bias/loss-aversion/": {
-      "hash": "e42999a1f9e9acbf",
+      "hash": "79afdbc5bb1ed785",
       "date": "2026-08-09"
     },
     "bias/ludic-fallacy/": {
-      "hash": "2312b5c99caf3296",
+      "hash": "0dd7d22658b6d671",
       "date": "2026-08-09"
     },
     "bias/macbeth-effect/": {
-      "hash": "5b5e1fa7a99ae902",
+      "hash": "1595d420347eee86",
       "date": "2026-08-09"
     },
     "bias/magical-thinking/": {
-      "hash": "8d9717f870aa569b",
+      "hash": "b50456e3dddc8b74",
       "date": "2026-08-09"
     },
     "bias/marshmallow-test/": {
-      "hash": "0337905e8cf4baac",
+      "hash": "ad3a6e11c9e6b314",
       "date": "2026-08-09"
     },
     "bias/mean-world-syndrome/": {
-      "hash": "6adfcf03cf12ed31",
+      "hash": "8992fe474958f270",
       "date": "2026-08-09"
     },
     "bias/mental-accounting/": {
-      "hash": "d39754240e9df956",
+      "hash": "4cdab6f47e68e6c8",
       "date": "2026-08-09"
     },
     "bias/mere-exposure-effect/": {
-      "hash": "090de75efe2e7dc4",
+      "hash": "681ddf4f5d7e11f6",
       "date": "2026-08-09"
     },
     "bias/mindset/": {
-      "hash": "a4bd4a98a7abc99c",
+      "hash": "75945ad872593931",
       "date": "2026-08-09"
     },
     "bias/money-illusion/": {
-      "hash": "7a28a20cea79ca1a",
+      "hash": "06011cae5e4e3c19",
       "date": "2026-08-09"
     },
     "bias/moral-luck/": {
-      "hash": "abab52eb5fc51f7d",
+      "hash": "fd297dbca40aef51",
       "date": "2026-08-09"
     },
     "bias/moral-typecasting/": {
-      "hash": "f7f45ae448c013e6",
+      "hash": "34d0ac985e02e4a3",
       "date": "2026-08-09"
     },
     "bias/motivated-reasoning/": {
-      "hash": "ef376e1ba78358b9",
+      "hash": "d2b0c80ecf2f9129",
       "date": "2026-08-09"
     },
     "bias/naive-realism/": {
-      "hash": "71e446dab36c1b95",
+      "hash": "7577045d556768c6",
       "date": "2026-08-09"
     },
     "bias/name-letter-effect/": {
-      "hash": "27573a9e3fd64bc3",
+      "hash": "095a889e206721d8",
       "date": "2026-08-09"
     },
     "bias/negativity-bias/": {
-      "hash": "4a942ca564390c96",
+      "hash": "cc8f68db8fb978b5",
       "date": "2026-08-09"
     },
     "bias/nominative-determinism/": {
-      "hash": "73dd8744c9b653d5",
+      "hash": "d1577a680bd20cb8",
       "date": "2026-08-09"
     },
     "bias/normalcy-bias/": {
-      "hash": "0750fad29f83002c",
+      "hash": "4714ead6e4fba2d5",
       "date": "2026-08-09"
     },
     "bias/not-invented-here/": {
-      "hash": "3bb05d1d17c2ed6a",
+      "hash": "f5723ac7068e495b",
       "date": "2026-08-09"
     },
     "bias/observer-expectancy-effect/": {
-      "hash": "9dfd587dc74f0b13",
+      "hash": "f2772745fafb7145",
+      "date": "2026-08-09"
+    },
+    "bias/omission-bias/": {
+      "hash": "b0f8b4c9428ea300",
       "date": "2026-08-09"
     },
     "bias/optimism-bias/": {
-      "hash": "fede5a1dcd681cb0",
+      "hash": "4efac565d1e41c9f",
       "date": "2026-08-09"
     },
     "bias/ostrich-effect/": {
-      "hash": "06a579a237c21abb",
+      "hash": "18801d9ee5be8400",
+      "date": "2026-08-09"
+    },
+    "bias/out-group-homogeneity-effect/": {
+      "hash": "5172ce9302573b35",
+      "date": "2026-08-09"
+    },
+    "bias/outcome-bias/": {
+      "hash": "f0516039c0d721c8",
       "date": "2026-08-09"
     },
     "bias/overconfidence-effect/": {
-      "hash": "b7a9617b2615f474",
+      "hash": "e9551c5b8aece21c",
       "date": "2026-08-09"
     },
     "bias/overjustification-effect/": {
-      "hash": "aab8b62890b9beda",
+      "hash": "3cb35d5d456ca13f",
       "date": "2026-08-09"
     },
     "bias/pareidolia/": {
-      "hash": "f9b63e3d206c9023",
+      "hash": "91ce956226e99653",
       "date": "2026-08-09"
     },
     "bias/peak-end-rule/": {
-      "hash": "ef137cb60d631aa1",
+      "hash": "802954b83444832e",
       "date": "2026-08-09"
     },
     "bias/picture-superiority-effect/": {
-      "hash": "32f4b3ecf0afebc4",
+      "hash": "3edf24e0ba979df1",
       "date": "2026-08-09"
     },
     "bias/planning-fallacy/": {
-      "hash": "a751e28697e6eb64",
+      "hash": "03dec4751d450002",
       "date": "2026-08-09"
     },
     "bias/pollyanna-principle/": {
-      "hash": "596875c7c37cb9d0",
+      "hash": "6980b1644ccf609c",
+      "date": "2026-08-09"
+    },
+    "bias/positive-illusions/": {
+      "hash": "634a2d4c53464e8a",
       "date": "2026-08-09"
     },
     "bias/power-posing/": {
-      "hash": "dd736daeaeb2a8c6",
+      "hash": "b10279e106b4e31c",
       "date": "2026-08-09"
     },
     "bias/pratfall-effect/": {
-      "hash": "14485a66e7c7ca16",
+      "hash": "73f51e1e22a5bbf7",
       "date": "2026-08-09"
     },
     "bias/preparedness-paradox/": {
-      "hash": "6a54bf53cd441856",
+      "hash": "62898f5c155ac9d6",
+      "date": "2026-08-09"
+    },
+    "bias/probability-neglect/": {
+      "hash": "5f0e4d9a96972864",
+      "date": "2026-08-09"
+    },
+    "bias/proportion-dominance/": {
+      "hash": "312bb87c41c9de1d",
       "date": "2026-08-09"
     },
     "bias/psychological-pricing/": {
-      "hash": "e1142abd28a70ecb",
+      "hash": "8281b8cb006ad627",
       "date": "2026-08-09"
     },
     "bias/psychological-projection/": {
-      "hash": "aa5f635105982257",
+      "hash": "963f2afaef7d44c7",
       "date": "2026-08-09"
     },
     "bias/pygmalion-effect/": {
-      "hash": "02998a0cec5e98c9",
+      "hash": "dd03080a18fe5d6f",
       "date": "2026-08-09"
     },
     "bias/question-order-effect/": {
-      "hash": "a3bc45bd50ad81cc",
+      "hash": "707f698b82948a44",
       "date": "2026-08-09"
     },
     "bias/reactance/": {
-      "hash": "473cca945935be85",
+      "hash": "ff29aea013519eb8",
       "date": "2026-08-09"
     },
     "bias/recency-effect/": {
-      "hash": "5bd3885429cc6762",
+      "hash": "330edec8602306ae",
       "date": "2026-08-09"
     },
     "bias/reciprocity/": {
-      "hash": "253e92d2753bc791",
+      "hash": "282e2b13a174ec2a",
       "date": "2026-08-09"
     },
     "bias/region-beta-paradox/": {
-      "hash": "79c578fd2af8662e",
+      "hash": "da4843f7935807a7",
       "date": "2026-08-09"
     },
     "bias/reminiscence-bump/": {
-      "hash": "42c2efcf14875c49",
+      "hash": "8e280230d1de34f0",
       "date": "2026-08-09"
     },
     "bias/representativeness-heuristic/": {
-      "hash": "ac626cc190c0164e",
+      "hash": "96fa3e04fb463c1f",
       "date": "2026-08-09"
     },
     "bias/response-bias/": {
-      "hash": "f0b2a9d1edcdd8e9",
+      "hash": "80d13e046e876f22",
       "date": "2026-08-09"
     },
     "bias/rhyme-as-reason-effect/": {
-      "hash": "d0e0420e9ea57612",
+      "hash": "0666c68cc1301f00",
       "date": "2026-08-09"
     },
     "bias/risk-compensation/": {
-      "hash": "7c173b51e59e30a9",
+      "hash": "7c7d21371089b364",
       "date": "2026-08-09"
     },
     "bias/rosy-retrospection/": {
-      "hash": "bb46dd5319a34f78",
+      "hash": "a46f58e851bb1dcc",
       "date": "2026-08-09"
     },
     "bias/salience-bias/": {
-      "hash": "23b8e92ed1bb10c7",
+      "hash": "3ac582efa36189e6",
+      "date": "2026-08-09"
+    },
+    "bias/scope-insensitivity/": {
+      "hash": "3f3d289a158810f3",
       "date": "2026-08-09"
     },
     "bias/selection-bias/": {
-      "hash": "feae04ff3ac6bb33",
+      "hash": "5ad4761a242551b7",
       "date": "2026-08-09"
     },
     "bias/selective-perception/": {
-      "hash": "49754108dcdd2839",
+      "hash": "a4fdd3ccb673ecf3",
       "date": "2026-08-09"
     },
     "bias/self-deception/": {
-      "hash": "a4d91ff868bc736b",
+      "hash": "3d054d8e0bb11502",
       "date": "2026-08-09"
     },
     "bias/self-fulfilling-prophecy/": {
-      "hash": "66cfb73fbd25b51c",
+      "hash": "31827d5563e4b967",
+      "date": "2026-08-09"
+    },
+    "bias/self-licensing/": {
+      "hash": "cef3c16ebaaa7c56",
       "date": "2026-08-09"
     },
     "bias/self-serving-bias/": {
-      "hash": "cebf9d00b7190c78",
+      "hash": "cd1b202256c1b29c",
       "date": "2026-08-09"
     },
     "bias/semmelweis-reflex/": {
-      "hash": "e4e244c544890760",
+      "hash": "bc43b2361bde25f6",
       "date": "2026-08-09"
     },
     "bias/side-effect-effect/": {
-      "hash": "effcd87a3a9e456a",
+      "hash": "2c71f45bd39a5a54",
       "date": "2026-08-09"
     },
     "bias/social-desirability-bias/": {
-      "hash": "ca49c35a1fceb8d1",
+      "hash": "e39c6da5be91ee1a",
       "date": "2026-08-09"
     },
     "bias/social-facilitation/": {
-      "hash": "e2ac21c06270c1c6",
+      "hash": "4847996ef86b2ab8",
       "date": "2026-08-09"
     },
     "bias/social-priming/": {
-      "hash": "c46be8517c1193a3",
+      "hash": "9f68b6f53b5a5e6b",
       "date": "2026-08-09"
     },
     "bias/spacing-effect/": {
-      "hash": "e63aa67d40433cd5",
+      "hash": "c4c40afa30a0df28",
       "date": "2026-08-09"
     },
     "bias/spiral-of-silence/": {
-      "hash": "f52c4d6fa479a0e3",
+      "hash": "89b0d2804cd857f1",
       "date": "2026-08-09"
     },
     "bias/spotlight-effect/": {
-      "hash": "6932e85da0061737",
+      "hash": "6f98ff68806ae3c6",
       "date": "2026-08-09"
     },
     "bias/state-dependent-memory/": {
-      "hash": "cd7a4f2d217ffcb2",
+      "hash": "ad57b58635ea291d",
       "date": "2026-08-09"
     },
     "bias/status-quo-bias/": {
-      "hash": "01fef41c1d3643cd",
+      "hash": "a9f23b850bd81c51",
       "date": "2026-08-09"
     },
     "bias/stereotype-threat/": {
-      "hash": "7a3bea262f8ae676",
+      "hash": "17a317d630eb65e8",
       "date": "2026-08-09"
     },
     "bias/stroop-effect/": {
-      "hash": "17323c3bf931349f",
+      "hash": "80703be09e7c2560",
       "date": "2026-08-09"
     },
     "bias/suggestibility/": {
-      "hash": "44d7a774d4bb9c66",
+      "hash": "8910d4044f1990a4",
       "date": "2026-08-09"
     },
     "bias/sunk-cost/": {
-      "hash": "a34b8c51458c0912",
+      "hash": "0d8f5f91881b4869",
       "date": "2026-08-09"
     },
     "bias/survivorship-bias/": {
-      "hash": "269372a77db19db3",
+      "hash": "3adae843d8d043d2",
       "date": "2026-08-09"
     },
     "bias/system-justification/": {
-      "hash": "088668150adf419d",
+      "hash": "3fb5fecd6aef1537",
       "date": "2026-08-09"
     },
     "bias/tempting-fate/": {
-      "hash": "f9fae43c464b3864",
+      "hash": "da73f75c0b66c21d",
       "date": "2026-08-09"
     },
     "bias/testing-effect/": {
-      "hash": "3ec753a5a19b1ed0",
+      "hash": "b51845c66f714023",
       "date": "2026-08-09"
     },
     "bias/texas-sharpshooter-fallacy/": {
-      "hash": "0dd4bbc687f7ffd2",
+      "hash": "c3d16f038a11e91f",
       "date": "2026-08-09"
     },
     "bias/thin-slicing/": {
-      "hash": "d0ff5e620dbc9c69",
+      "hash": "0a0145a3125e3eff",
       "date": "2026-08-09"
     },
     "bias/third-person-effect/": {
-      "hash": "2131d020ba06c501",
+      "hash": "8bb86646d6e4820b",
       "date": "2026-08-09"
     },
     "bias/time-perception/": {
-      "hash": "4db4384205ffa446",
+      "hash": "9ca80447211e2210",
       "date": "2026-08-09"
     },
     "bias/tip-of-the-tongue/": {
-      "hash": "40a4b44eb7640c5a",
+      "hash": "722894c1ca7b0ba5",
+      "date": "2026-08-09"
+    },
+    "bias/ultimate-attribution-error/": {
+      "hash": "335dbd5e59fd021d",
       "date": "2026-08-09"
     },
     "bias/von-restorff-effect/": {
-      "hash": "18c3df0912bf6de9",
+      "hash": "c5cc9a61ee1f90c3",
+      "date": "2026-08-09"
+    },
+    "bias/watching-eye-effect/": {
+      "hash": "395a40bf53b89ab0",
       "date": "2026-08-09"
     },
     "bias/weapon-focus-effect/": {
-      "hash": "91cc7365daf546f1",
+      "hash": "b5b73c8e5921ba29",
       "date": "2026-08-09"
     },
     "bias/weber-fechner-law/": {
-      "hash": "52d1b5226dfbfc4f",
+      "hash": "5cd3144e77127bea",
       "date": "2026-08-09"
     },
     "bias/wishful-thinking/": {
-      "hash": "472684f0d5f61773",
+      "hash": "beba4f29c49c344d",
       "date": "2026-08-09"
     },
     "bias/women-are-wonderful-effect/": {
-      "hash": "d33e4a723b78972e",
+      "hash": "f97c7b5a6aa7b14c",
       "date": "2026-08-09"
     },
     "bias/woozle-effect/": {
-      "hash": "2330982fa11eaf18",
+      "hash": "5c21ed220959e3a8",
       "date": "2026-08-09"
     },
     "bias/zeigarnik-effect/": {
-      "hash": "4377a10dc73350cd",
+      "hash": "b3daa6aff1a03305",
+      "date": "2026-08-09"
+    },
+    "bias/zero-risk-bias/": {
+      "hash": "56b9e1a06e75eea9",
       "date": "2026-08-09"
     },
     "bias/zero-sum-thinking/": {
-      "hash": "212cd3c68925b03b",
+      "hash": "8a2a03d0a3aa31c4",
       "date": "2026-08-09"
     },
     "browse/": {
-      "hash": "8707b6b4337e6f33",
+      "hash": "7867c4b4591aa0da",
       "date": "2026-08-09"
     }
   }
