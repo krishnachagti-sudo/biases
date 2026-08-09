@@ -5,34 +5,52 @@
   "aliases": ["Myside bias", "Confirmatory bias", "Verification bias"],
   "category": "belief",
   "statement": "People look for, notice and remember the evidence that fits what they already think, and go looking less hard for the evidence that would not.",
-  "meaning": "The name covers at least three separate habits that happen to point the same way. One is search: given a choice of what to read, people reach for the article that agrees with them. One is interpretation: the same ambiguous result is read as support by both sides of an argument. One is recall: the confirming instances come to mind more readily later. Each has its own literature and its own experiments, and lumping them together is convenient rather than principled. What they share is a direction, not a mechanism.",
+  "meaning": "The name covers several habits that happen to point the same way. One is hypothesis testing: given a rule to find, people propose tests they expect to pass rather than tests that could fail. One is selective exposure: given a choice of what to read, people reach for the article that agrees with them. One is biased evaluation: the same ambiguous result is read as support by both sides of an argument. One is recall: the confirming instances come to mind more readily later. Nickerson's 1998 review takes the term as a generic label over all of these, defined as the seeking or interpreting of evidence in ways partial to existing beliefs, expectations or a hypothesis in hand. Klayman and Ha make the point sharply: confirmation bias has meant different things to different investigators, and the senses are not equivalent. Each has its own literature and its own experiments. What they share is a direction, not a mechanism.",
   "origin": {
     "year": 1960,
     "who": "Peter C. Wason",
     "where": "Quarterly Journal of Experimental Psychology",
-    "note": "Wason's paper is \"On the Failure to Eliminate Hypotheses in a Conceptual Task\", and it introduced the term. The observation is much older than the name: Francis Bacon described the same habit in the Novum Organum in 1620."
+    "note": "Wason's paper is \"On the Failure to Eliminate Hypotheses in a Conceptual Task\", and it reports the 2-4-6 task. It does not contain the phrase confirmation bias. Wason writes about enumerative and eliminative induction, and about Bacon's induction by simple enumeration. The phrase itself appears in the title of Mynatt, Doherty and Tweney's 1977 paper in the same journal. The observation is older than either: Nickerson quotes Francis Bacon describing the habit in the Novum Organum of 1620."
   },
-  "evidence": "Wason's task gives you the sequence 2-4-6, tells you it follows a rule, and asks you to work out the rule by proposing further triples. Most people guess something like \"ascending even numbers\" and then test triples that fit their guess, which can only ever return a yes. The rule is any increasing sequence, and finding that out requires proposing something you expect to be told is wrong. Most people never do. The selective-exposure branch of the literature runs differently: participants choose which articles to read from a set that varies in whether it agrees with a position they hold, and the measure is what they pick.",
+  "evidence": "Wason's task gives the sequence 2-4-6, says it follows a rule, and asks the participant to work the rule out by proposing further triples. The rule is three numbers in increasing order of magnitude. People guess something narrower, such as ascending even numbers, and then test triples that fit the guess, which can only ever return a yes. Twenty-nine psychology undergraduates took part, 17 men and 12 women. Six announced the correct rule with no wrong announcement before it, 13 announced one wrong rule, nine announced two or more, and one announced no rule at all. The selective-exposure branch of the literature runs on a different task. Participants choose which articles to read from a set that varies in whether it agrees with a position they hold, and the measure is what they pick. Hypothesis testing, biased evaluation and selective exposure carry separate evidence, and a result in one does not settle the others.",
   "replication": {
     "state": "replicated",
-    "headline": "A meta-analysis of 91 studies and nearly 8,000 people found a moderate and consistent preference for information that agrees with you.",
-    "detail": "Hart and colleagues pooled 67 reports containing 91 studies and 300 statistically independent groups, and found a preference for congenial over uncongenial information of d = 0.36. That is moderate rather than overwhelming, and the paper's more interesting result is what moves it: the preference gets stronger when a belief is tied to someone's commitments or defences, and weaker when they are told the information is useful and accurate. So this is not a fixed feature of the machinery. It is a tendency with conditions, and the conditions are the part that got left out of the popular account.",
+    "headline": "A meta-analysis of 91 studies and just under 8,000 people found a moderate average preference for information that agrees with you.",
+    "detail": "Hart and colleagues pooled 67 reports containing 91 studies and 300 statistically independent groups. The preference for congenial over uncongenial information was d = 0.36 under a fixed-effects model, 95% CI 0.34 to 0.39, and d = 0.38 under random effects, CI 0.32 to 0.44. Both are weighted means, and the unweighted mean was also 0.38. The effect sizes were heterogeneous, Q(299) = 1,354.55, p < .001, so the average sits over a wide spread rather than describing a stable quantity. The moderators are the part the popular account drops. Commitment to the belief, its relevance to the holder's values and closed-mindedness each raised the preference, and the preference was weaker when the belief had already been supported or was held with confidence. Information utility ran in both directions: the preference grew when the congenial material was the more useful of the two, and reversed when the uncongenial material was.",
     "study": {
       "cite": "Hart, W., Albarracin, D., Eagly, A. H., Brechan, I., Lindberg, M. J., & Merrill, L. (2009). Feeling validated versus being correct: A meta-analysis of selective exposure to information. Psychological Bulletin, 135(4), 555-588.",
       "doi": "10.1037/a0015701",
       "year": 2009,
       "n": 8000
     },
-    "replicated": { "es": 0.36, "esType": "d" }
+    "replicated": {
+      "es": 0.36,
+      "esType": "d",
+      "ci": [0.34, 0.39],
+      "ciLevel": 95,
+      "weighting": "weighted, fixed-effects"
+    }
   },
-  "limits": "The meta-analysis covers selective exposure, which is one of the three habits the name is used for, so a verdict on it is not a verdict on the whole idea. The participant total is reported by the authors as just under 8,000 and is given here as that round figure rather than an exact count. There is also a live argument that the 2-4-6 result is not a bias at all: Klayman and Ha argued in 1987 that testing cases you expect to confirm your hypothesis is a sensible default strategy under most conditions, and only misleads when the true rule is broader than your guess, which is exactly the trap Wason built. On that reading the task demonstrates a strategy that is usually reasonable rather than a defect.",
-  "misreadings": "The strongest version in circulation is that people cannot process disconfirming evidence at all, or that showing someone a fact that contradicts them makes them believe it more. The second of those is the backfire effect, which is a different claim, and the large attempts to reproduce it have mostly failed to find it. Confirmation bias is also routinely used as a way to dismiss an opponent's reasoning without engaging it, which is a rhetorical move rather than a finding. And a moderate average preference is not a description of any particular person: d = 0.36 is a distribution with a great deal of overlap.",
+  "limits": "The meta-analysis covers selective exposure, which is one of the habits the name is used for, so a verdict on it is not a verdict on the whole idea. The participant total is reported by the authors as just under 8,000 and is given here as that round figure rather than an exact count. There is also a live argument that the 2-4-6 result is not a bias at all. Klayman and Ha argued in 1987 that most of what gets labelled confirmation bias is a positive test strategy, a tendency to test cases expected to have the property of interest, and that this strategy is a good heuristic for finding out whether a hypothesis is true under realistic conditions. It misleads when the true rule is broader than the guess, which is the trap Wason built. On that reading the task shows a strategy that is usually reasonable rather than a defect.",
+  "misreadings": "The strongest version in circulation is that people cannot process disconfirming evidence at all, or that showing someone a fact that contradicts them makes them believe it more. The second of those is the backfire effect, which is a different claim. Wood and Porter enrolled more than 8,100 people across four experiments covering 36 issues and found a single issue that produced backfire, whether weapons of mass destruction were found in Iraq, and even that went away with a less elaborate survey item. Wason's four-card selection task is also offered as a demonstration of confirmation bias, and Nickerson argues it does not work as one: people are at least as likely to turn the vowel card as the even-number card, and the vowel card is a genuine falsification test, so the usual pattern is not avoidance of disconfirming evidence. Confirmation bias is further used as a way to dismiss an opponent's reasoning without engaging it, which is a rhetorical move rather than a finding. And a moderate average preference is not a description of any particular person: d = 0.36 is a distribution with a great deal of overlap.",
   "sources": [
     {
-      "text": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140.",
+      "text": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140. Full text read for this entry; the phrase \"confirmation bias\" does not appear in it.",
       "doi": "10.1080/17470216008416717",
       "url": "https://doi.org/10.1080/17470216008416717",
       "type": "primary"
+    },
+    {
+      "text": "Mynatt, C. R., Doherty, M. E., & Tweney, R. D. (1977). Confirmation bias in a simulated research environment: An experimental study of scientific inference. Quarterly Journal of Experimental Psychology, 29(1), 85-95. Cited here for its title, which carries the phrase; the full text was not retrieved.",
+      "doi": "10.1080/00335557743000053",
+      "url": "https://doi.org/10.1080/00335557743000053",
+      "type": "commentary"
+    },
+    {
+      "text": "Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175-220. The standard review, and the source here for the definition, the Bacon quotation and the argument about the selection task.",
+      "doi": "10.1037/1089-2680.2.2.175",
+      "url": "https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf",
+      "type": "commentary"
     },
     {
       "text": "Hart, W., Albarracin, D., Eagly, A. H., Brechan, I., Lindberg, M. J., & Merrill, L. (2009). Feeling validated versus being correct: A meta-analysis of selective exposure to information. Psychological Bulletin, 135(4), 555-588.",
@@ -45,7 +63,13 @@
       "doi": "10.1037/0033-295X.94.2.211",
       "url": "https://doi.org/10.1037/0033-295X.94.2.211",
       "type": "commentary"
+    },
+    {
+      "text": "Wood, T., & Porter, E. (2019). The elusive backfire effect: mass attitudes' steadfast factual adherence. Political Behavior, 41(1), 135-163. The published abstract could not be retrieved; the counts quoted here were read from the authors' 2016 working-paper version, which reports four experiments, 36 issues and more than 8,100 subjects.",
+      "doi": "10.1007/s11109-018-9443-y",
+      "url": "https://www.djflynn.org/wp-content/uploads/2016/08/elusive-backfire-effect-wood-porter.pdf",
+      "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
