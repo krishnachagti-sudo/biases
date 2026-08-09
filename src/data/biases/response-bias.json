@@ -1,0 +1,107 @@
+{
+  "no": 176,
+  "slug": "response-bias",
+  "name": "Response bias",
+  "aliases": ["Response style", "Acquiescence bias", "Acquiescence response style", "Yea-saying", "Extreme response style", "Survey satisficing", "Agreement bias"],
+  "category": "belief",
+  "statement": "Response styles are said to move survey answers on their own: some people agree with any assertion, some prefer the endpoints, and some take the first answer that will do.",
+  "meaning": "Three habits travel under this name, and all three are properties of the questionnaire as much as of the person answering it. Acquiescence is the tendency to endorse an assertion whatever it says, which makes an agree-disagree item measure agreeableness alongside opinion. Extreme responding is a preference for the ends of a rating scale, which changes variances and correlations without changing anyone's view. Satisficing is Krosnick's term for stopping at the first acceptable answer rather than the best one, and it is the account that ties the other two to response-order effects and to 'don't know'. None of this is a claim about reasoning. It is a claim about instruments, and it is tested by giving randomly chosen halves of a sample different versions of the same question. That design is why the evidence here is better than in most of this corpus: survey methodologists run split-ballot experiments on national probability samples, at scale, as a matter of routine.",
+  "origin": {
+    "year": 1991,
+    "who": "Jon A. Krosnick",
+    "where": "Applied Cognitive Psychology",
+    "note": "His paper is \"Response strategies for coping with the cognitive demands of attitude measures in surveys\". It is paywalled and was not obtained, so what it argues is reported here from two papers that were. Holbrook, Krosnick, Moore and Tourangeau describe weak satisficing as running all four steps of answering, interpreting, retrieving, integrating and reporting, but with a confirmatory bias and a habit of stopping at the first acceptable option. Saris, Revilla, Krosnick and Shaeffer cite the same paper for the claim that this confirmation bias pushes shortcutting respondents towards agreement. Acquiescence was documented long before 1991, and Saris and colleagues count more than a hundred studies of it. What 1991 added was one mechanism covering several response styles at once."
+  },
+  "evidence": "The cleanest test asks the same question twice, once with the agreeable answer affirmative and once with it negative. Hill and Roberts did this for 53 questions about conspiracies and political facts across six surveys in the United States and China, drawing samples from Lucid, Qualtrics, NORC and Mechanical Turk, including a nationally representative Lucid sample of 2,055 Americans in December 2020. On 52 of the 53 the affirmative version drew more endorsement. Asked whether the FBI director had alerted Congress about new emails on Hillary Clinton's server, 64% agreed with the affirmative wording and 22% with the negated one. Whether candidates should accept election outcomes drew 80% agreement in one direction and 52% disagreement in the other. Question format changes measurement quality as well as marginals. Saris, Revilla, Krosnick and Shaeffer ran split-ballot multitrait-multimethod experiments inside rounds 2 and 3 of the European Social Survey, with subsamples generally above 500 cases per country. In the round 3 immigration experiment, across 23 countries, the third item scored a quality of 0.76 on an 11-point item-specific scale against 0.32 on an 11-point agree-disagree scale. The authors decompose that gap of 0.44: reliability differed by 0.05 and validity by 0.54. Response order behaves the same way. Holbrook, Krosnick, Moore and Tourangeau meta-analysed 548 order experiments embedded in 149 Gallup telephone surveys run between 1995 and 2000, with experiment samples from 284 to 1,727 people. Recency won: 19.2% of experiments showed a significant recency effect and 1.8% a significant primacy effect, with a mean shift of 2.19 percentage points towards the last option heard. Reading the options off a card reverses the direction. Krosnick and Alwin gave 1984 General Social Survey respondents a show card listing 13 qualities a child might have, 905 in the standard order and 446 in the reverse. Items were picked more often when they sat near the top, by 17.3 points for 'honest' and 16.3 for 'good manners'. How many respondents behave this way is harder to pin down. Krosnick, Villar and MacInnis, reviewing the field, put the share who answer affirmatively whatever the statement says at 10% to 20%, and quote a 1974 Schuman and Presser split ballot in which 47% agreed that most men are better suited emotionally for politics, against 33% who picked men when all three positions were named. Both figures are quoted here at one remove from a working paper.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Asked in both directions, 52 of 53 questions drew more endorsement when agreement was the affirmative answer, by a mean of 8.9 percentage points.",
+    "detail": "Hill and Roberts wrote a logically equivalent alternative for each question, flipping which answer an acquiescent respondent would give. Absent acquiescence the two versions should return the same rate. They did not. Fifty-two of 53 points fell on the same side of the line, which the authors calculate has a chance probability close to zero. For the 35 questions whose negation was unambiguous, needing only 'not' and a verb tense, the mean gap was 8.9 percentage points; for the looser wordings it was 7.3. The pattern held across four survey platforms, two countries, three elicitation formats, and with and without payment for accuracy. The one reversal ran 12.5 points the other way, on an item about government planning of the 9/11 attacks in the China sample, which the authors attribute to their own phrasing of the negation. This is not a repeat of one named original study. It is a set of new experiments confirming an effect first recorded decades earlier, which is the form replication takes in survey methodology.",
+    "study": {
+      "cite": "Hill, S. J., & Roberts, M. E. (2023). Acquiescence bias inflates estimates of conspiratorial beliefs and political misperceptions. Political Analysis, 31(4), 575-590.",
+      "doi": "10.1017/pan.2022.28",
+      "year": 2023
+    },
+    "replicated": {
+      "es": 8.9,
+      "esType": "md",
+      "unit": "percentage points, affirmative minus negated endorsement, 35 unambiguously negated questions"
+    }
+  },
+  "limits": "Response styles being real does not make cross-national comparisons wrong. He and Van de Vijver corrected for a general response style in the 2013 Teaching and Learning International Survey, covering 76,887 teachers in 18 countries, and found correlations before and after correction mostly above 0.90, with country rank order largely intact. Whether item-specific formats beat agree-disagree ones is also disputed. Lelkes and Weiss compared political efficacy items in both formats across two waves of the 2012 American National Election Studies and report that construct-specific questions were as reliable and valid as agree-disagree questions, including among the respondents most likely to acquiesce. Their article returned a 403 and was read only as the abstract Semantic Scholar carries, so no figure from it appears above. Changing the format does not clear the field either. Liu, Lee and Conrad, read only in abstract, report extreme responding in both agree-disagree and item-specific scales, behaving as one stable characteristic across the two. Two more gaps. The European Social Survey quality estimates come from a model that fixes one item-specific method's validity at exactly 1 in each experiment, a property of the identification rather than a finding. And Harzing's 26-country study of response styles, the obvious source for cross-national acquiescence rates, was not obtained, so this entry carries no such percentages.",
+  "misreadings": "The first error is filing this with the judgement biases. Nothing here says people reason badly. It says a rating scale is a device with its own behaviour, and that the same person gives a different answer to 'agree or disagree' than to a question that names the options. The second is the belief that reverse-coding half the items cancels acquiescence out. Clifford and Engelhardt ran 160 acquiescence tests across four studies and found that even correlations between balanced scales shifted in size and sometimes in sign once acquiescence was modelled. Their summary puts the average difference between correlations of same-direction and opposite-direction scales at 0.26, reaching 0.35 in one study fielded through a commercial online panel, while the body of the paper gives 0.19 across all studies and constructs. The third is treating acquiescence as purely a personality trait. Weijters, Geuens and Schillewaert had 1,506 panel members answer two non-overlapping sets of items a year apart and found 55% to 65% of the variance in wave-specific response style factors was time-invariant, so a stable component exists. Demographics explained only 4.2% of the stable acquiescence factor and 8.3% of the extreme responding factor, and Holbrook and colleagues found question comprehension difficulty predicted order effects strongly, so the situation carries much of the weight. Those figures come from the Ghent University working paper version rather than the Psychological Methods article. The fourth is reading extreme responding as a fixed cultural signature. Cerda and Basar found Hispanic respondents used both endpoints on four or five of five items 30% of the time against 18% for non-Hispanics on a 10-point scale, and no such gap on a 5-point scale. Format and style interact, which is why the remedy is usually a better question rather than a statistical correction.",
+  "sources": [
+    {
+      "text": "Krosnick, J. A. (1991). Response strategies for coping with the cognitive demands of attitude measures in surveys. Applied Cognitive Psychology, 5(3), 213-236. Not obtained; bibliographic details verified at Crossref and its argument reported via Holbrook et al. (2007) and Saris et al. (2010).",
+      "doi": "10.1002/acp.2350050305",
+      "url": "https://doi.org/10.1002/acp.2350050305",
+      "type": "primary"
+    },
+    {
+      "text": "Hill, S. J., & Roberts, M. E. (2023). Acquiescence bias inflates estimates of conspiratorial beliefs and political misperceptions. Political Analysis, 31(4), 575-590.",
+      "doi": "10.1017/pan.2022.28",
+      "url": "https://doi.org/10.1017/pan.2022.28",
+      "type": "replication"
+    },
+    {
+      "text": "Saris, W., Revilla, M., Krosnick, J. A., & Shaeffer, E. M. (2010). Comparing questions with agree/disagree response options to questions with item-specific response options. Survey Research Methods, 4(1), 61-79.",
+      "doi": "10.18148/srm/2010.v4i1.2682",
+      "url": "https://ojs.ub.uni-konstanz.de/srm/article/view/2682",
+      "type": "primary"
+    },
+    {
+      "text": "Holbrook, A. L., Krosnick, J. A., Moore, D., & Tourangeau, R. (2007). Response order effects in dichotomous categorical questions presented orally: The impact of question and respondent attributes. Public Opinion Quarterly, 71(3), 325-348.",
+      "doi": "10.1093/poq/nfm024",
+      "url": "https://web.stanford.edu/dept/communication/faculty/krosnick/docs/2007/2007%20Response%20Order%20Effects%20in%20Dichotomous%20Categorical%20Questions.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Krosnick, J. A., & Alwin, D. F. (1987). An evaluation of a cognitive theory of response-order effects in survey measurement. Public Opinion Quarterly, 51(2), 201-219. Read as GSS Methodological Report 45.",
+      "doi": "10.1086/269029",
+      "url": "https://gss.norc.org/content/dam/gss/get-documentation/pdf/reports/methodological-reports/MR045%20An%20Evaluation%20of%20a%20Cognitive%20Theory%20of%20Response%20Order%20Effects%20in%20Survey%20Measurement.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Clifford, S., & Engelhardt, A. M. (2026). Acquiescence bias and criterion validity: Problems and potential solutions for agree-disagree scales. Political Behavior.",
+      "doi": "10.1007/s11109-026-10124-z",
+      "url": "https://doi.org/10.1007/s11109-026-10124-z",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Weijters, B., Geuens, M., & Schillewaert, N. (2010). The stability of individual response styles. Psychological Methods, 15(1), 96-110. Figures read from the Ghent University working paper 08/547, not the journal version.",
+      "doi": "10.1037/a0018721",
+      "url": "https://wps-feb.ugent.be/Papers/wp_08_547.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "He, J., & Van de Vijver, F. J. R. (2015). Effects of a general response style on cross-cultural comparisons: Evidence from the Teaching and Learning International Survey. Public Opinion Quarterly, 79(S1), 267-290.",
+      "doi": "10.1093/poq/nfv006",
+      "url": "https://doi.org/10.1093/poq/nfv006",
+      "type": "critique"
+    },
+    {
+      "text": "Lelkes, Y., & Weiss, R. (2015). Much ado about acquiescence: The relative validity and reliability of construct-specific and agree-disagree questions. Research & Politics, 2(3). Abstract only; the article returned a 403.",
+      "doi": "10.1177/2053168015604173",
+      "url": "https://doi.org/10.1177/2053168015604173",
+      "type": "critique"
+    },
+    {
+      "text": "Cerda, M., & Basar, I. (2010). Extreme response style among U.S. Hispanics vs. non-Hispanics. Survey Practice, 3(4), 1-8.",
+      "doi": "10.29115/SP-2010-0017",
+      "url": "https://doi.org/10.29115/SP-2010-0017",
+      "type": "primary"
+    },
+    {
+      "text": "Liu, M., Lee, S., & Conrad, F. G. (2015). Comparing extreme response styles between agree-disagree and item-specific scales. Public Opinion Quarterly, 79(4), 952-975. Abstract only.",
+      "doi": "10.1093/poq/nfv034",
+      "url": "https://doi.org/10.1093/poq/nfv034",
+      "type": "primary"
+    },
+    {
+      "text": "Krosnick, J. A., Villar, A., & MacInnis, B. (2011). Do introductory sentences cause acquiescence response bias in survey questions? Stanford University working paper. Source for the 10% to 20% figure and the Schuman and Presser split ballot, both quoted there at one remove.",
+      "url": "https://woodsinstitute.stanford.edu/system/files/publications/Krosnick-Survey-Acquiescence.pdf",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
