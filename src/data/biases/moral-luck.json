@@ -1,0 +1,69 @@
+{
+  "no": 119,
+  "slug": "moral-luck",
+  "name": "Moral luck",
+  "aliases": [
+    "Resultant moral luck",
+    "Outcome effect on blame"
+  ],
+  "category": "social",
+  "statement": "People blame a careless act more heavily when it happens to cause harm, though the risk taken and the state of mind were the same either way.",
+  "meaning": "Bernard Williams and Thomas Nagel named a conflict inside ethics. Moral assessment is meant to track what an agent controls, and ordinary judgement tracks how things turned out. Two people drive home from the same bar equally drunk. One hits a tree, the other hits a child. Neither controlled which. Psychology asks a different question from the one the philosophers asked. It asks whether outcome does move people's judgements, which kind of judgement it moves, and when the gap between the lucky and the unlucky agent opens or closes. The answers turn out to depend heavily on the measure used and on whether a participant sees one case or both.",
+  "origin": {
+    "year": 1976,
+    "who": "Bernard Williams and Thomas Nagel",
+    "where": "Aristotelian Society Supplementary Volume",
+    "note": "A two-paper symposium under the shared title 'Moral Luck', running from page 115 to page 152 of volume 50. The papers set the problem for later philosophy and supplied the label that the experimental work borrowed."
+  },
+  "evidence": "Fiery Cushman ran the comparison in 2008. He crossed what an agent believed, what the agent wanted and what actually happened, giving eight combinations across eight scenario contexts and 64 vignettes, with 160 people per condition and seven-point scales. For judgements of wrongness, belief explained 62% of the within-context variability, desire 21%, and the consequence 3%. For blame the consequence explained 22%. Permissibility behaved like wrongness at 3%, punishment like blame at 20%. Outcome moved blame and punishment and barely touched whether the act counted as wrong. Markus Kneer and Izabela Skoczen later ran ten preregistered experiments on 2,043 people, using a vignette in which a farmer skips flood defences and either nothing happens or workers drown. Comparing separate groups, the harmful ending raised blame by d = 0.70 and deserved punishment by d = 1.18.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The outcome effect on blame holds when different people see different endings and mostly disappears when one person sees both.",
+    "detail": "Kneer and Machery put the lucky and the unlucky agent in front of the same participants. Most people then rated the two as equally blameworthy and their acts as equally wrong and permissible. Punishment stayed outcome-dependent. Comparing separate groups, outcome moved all four judgements, and the effect ran through ascriptions of negligence, which ran in turn through differing estimates of how likely the harm had been. Kneer and Skoczen reproduce the shape of that result: blame falls from d = 0.70 between subjects to d = 0.49 within subjects, punishment from d = 1.18 to d = 0.63. Aurore Gaboriaud and colleagues then ran Cushman's design within participants on 145 people. Outcome mattered, d = 0.53, and causal involvement weighed more on blame than on wrongness, p = .042. The outcome-by-judgement-type interaction that Cushman's dissociation predicts did not reach significance, p = .105.",
+    "study": {
+      "cite": "Gaboriaud, A., Gautheron, F., Quinton, J.-C., & Smeding, A. (2024). Wrongness and blame judgments and their dynamics: Toward a three-input processing model of moral judgment. International Review of Social Psychology, 37(1), 19.",
+      "doi": "10.5334/irsp.868",
+      "year": 2024,
+      "n": 145
+    },
+    "replicated": {
+      "es": 0.53,
+      "esType": "d"
+    }
+  },
+  "limits": "Cushman's percentages are shares of within-context variability from an analysis that treats each scenario as a case. They are not standardised effect sizes and do not convert into a d, so they cannot be lined up against the figures beside them. The Kneer and Skoczen effect sizes here come from the authors' own preprint of the paper, which carries a note asking readers to cite the final version; the published Cognition article is paywalled and the numbers were not checked against it. Kneer and Machery's paper is paywalled too, so only what its abstract states is used, not the participant-level proportions that circulate in summaries of it. No multi-site replication was located. Crossref, PubMed and open web searches for Many Labs, the Psychological Science Accelerator and the Collaborative Replications and Education Project returned no moral-luck protocol, and a cross-cultural study is listed by its authors as in preparation with no published version found.",
+  "misreadings": "The philosophical claim and the psychological finding are separate claims. Philosophy asks whether outcome ought to bear on blame; the experiments record that it does, which leaves the ought untouched. A vote of the folk does not settle an ethical question, and Kneer and Machery's finding that most people equalise their judgements is not a proof that equalising is right. Their result is also read as showing the effect is an artefact of how blame is elicited. That is not what they report. They treat the between-subjects effect as real and explain it through negligence and probability ascriptions, and they find punishment stays outcome-sensitive even when the two cases sit side by side. The pair of drunk drivers who open Cushman's paper are an illustration rather than his stimulus. He uses them to contrast a $250 fine in Massachusetts with a sentence of two and a half to fifteen years for vehicular manslaughter, then tests welding, dentistry and carnival scenarios instead.",
+  "sources": [
+    {
+      "text": "Williams, B., & Nagel, T. (1976). Moral Luck. Aristotelian Society Supplementary Volume, 50(1), 115-152.",
+      "doi": "10.1093/aristoteliansupp/50.1.115",
+      "url": "https://doi.org/10.1093/aristoteliansupp/50.1.115",
+      "type": "primary"
+    },
+    {
+      "text": "Cushman, F. (2008). Crime and punishment: Distinguishing the roles of causal and intentional analyses in moral judgment. Cognition, 108(2), 353-380.",
+      "doi": "10.1016/j.cognition.2008.03.006",
+      "url": "https://doi.org/10.1016/j.cognition.2008.03.006",
+      "type": "primary"
+    },
+    {
+      "text": "Kneer, M., & Machery, E. (2019). No luck for moral luck. Cognition, 182, 331-348.",
+      "doi": "10.1016/j.cognition.2018.09.003",
+      "url": "https://doi.org/10.1016/j.cognition.2018.09.003",
+      "type": "replication"
+    },
+    {
+      "text": "Kneer, M., & Skoczen, I. (2023). Outcome effects, moral luck and the hindsight bias. Cognition, 232, 105258.",
+      "doi": "10.1016/j.cognition.2022.105258",
+      "url": "https://doi.org/10.1016/j.cognition.2022.105258",
+      "type": "replication"
+    },
+    {
+      "text": "Gaboriaud, A., Gautheron, F., Quinton, J.-C., & Smeding, A. (2024). Wrongness and blame judgments and their dynamics: Toward a three-input processing model of moral judgment. International Review of Social Psychology, 37(1), 19.",
+      "doi": "10.5334/irsp.868",
+      "url": "https://doi.org/10.5334/irsp.868",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
