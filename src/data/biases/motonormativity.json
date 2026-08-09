@@ -1,0 +1,74 @@
+{
+  "no": 224,
+  "slug": "motonormativity",
+  "name": "Motonormativity",
+  "aliases": [
+    "Car brain",
+    "Windshield bias",
+    "Motornormativity"
+  ],
+  "category": "social",
+  "statement": "People judge a harm caused by driving more leniently than the same harm from any other source, and the gap survives changing only the words.",
+  "meaning": "The claim is about judgement, not about driving. Walker, Tapp and Davis wrote five statements about motoring and five parallel statements in which one or two words moved the subject to a non-motoring domain. Leaving a car in the street became leaving belongings in the street; driving in a populated area became smoking in one. The underlying principle in each pair is the same, so anyone applying a general rule should answer both versions alike. Respondents did not. The authors read this as a shared cultural schema in which motoring is treated as normal and proper, so its harms are judged as inevitable and its costs as somebody else's to absorb. Their stronger claim is that the same schema shapes policy and medicine, which is why they framed it as a public health problem rather than a curiosity about survey wording.",
+  "origin": {
+    "year": 2023,
+    "who": "Ian Walker, Alan Tapp and Adrian Davis",
+    "where": "International Journal of Environment and Health",
+    "note": "The paper coined the name and appeared in volume 11, issue 1, pages 21 to 33. Its data are older than its date: YouGov administered the questions on 12 and 13 October 2016, and the authors posted a preprint in December 2022 under the misspelled title 'Motornomativity'."
+  },
+  "evidence": "2157 UK adults answered, 1053 given the motoring form of the questionnaire and 1104 the non-motoring form. Four of the five pairs produced different response patterns across forms. The fumes pair was the widest: 17% agreed that people should not drive in populated areas where others breathe the car fumes, against 75% for the same sentence about cigarette fumes, χ2(1) = 671.11, p < .001, φ = .64. The theft pair gave φ = .53, the risk pair φ = .35 and the drive-less pair φ = .23. The fifth pair, on whether a delivery driver or a chef may bend a few rules to stay profitable, showed no difference at all, χ2(1) = 1.45, p = .23, φ = .03. Drivers and non-drivers answered the non-motoring questions almost identically, and differed on only two of the motoring ones, including 18.0% against 31.4% agreement on the driving fumes item. Agreement percentages for the other four pairs are plotted in the paper's Figure 1 and are not given as numbers in its text. These figures were read off the authors' December 2022 preprint, which is open, rather than the paywalled journal version, whose abstract carries the same sample size and the same 17% and 75%.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The gap reappeared in an American sample, in a second British poll and in a three-country study, and was smallest in the Netherlands.",
+    "detail": "Goddard ran the closest thing to a direct repeat, recruiting 403 US adults through Prolific and assigning them at random to the car form (n = 214) or the non-car form (n = 187). Four of the five pairs diverged in the pro-car direction on binary chi-square tests, and the fifth, the delivery driver against the chef, did not, χ2 = 1.531, p = 0.216. That is the same pair that failed in the UK. On the fumes item Goddard reports nearly 94% agreeing that people should not expose others to secondhand smoke and fewer than 20% agreeing the equivalent about car exhaust. Walker and te Brömmelstroet then ran 2035 people in the Netherlands, the UK and the USA, and switched to a within-participants design in which everyone rated both halves of each pair. On the fumes pair the mean difference was 2.15 points on their seven-point scale. Their footnote re-scales the 1.60-point gap from the 2016 UK data to 2.24 on a seven-point scale, and both figures are theirs rather than the 2023 paper's. Dutch respondents scored lower on the paper's latent motonormativity measure than British or American ones, both p < 0.001, while the UK and USA did not differ, p = 0.55. A fourth reading comes from a policy institute rather than a journal: Frost and Singer Hobbs polled 2,041 British adults for the Institute for Public Policy Research and put agreement at 73% for the smoking statement, 77% for a loud music statement and 12% for the driving one.",
+    "study": {
+      "cite": "Walker, I., & te Brömmelstroet, M. (2025). Why do cars get a free ride? The social-ecological roots of motonormativity. Global Environmental Change, 91, 102980.",
+      "doi": "10.1016/j.gloenvcha.2025.102980",
+      "year": 2025,
+      "n": 2035
+    },
+    "original": {
+      "es": 2.24,
+      "esType": "md",
+      "unit": "points on a 7-point agreement scale"
+    },
+    "replicated": {
+      "es": 2.15,
+      "esType": "md",
+      "unit": "points on a 7-point agreement scale"
+    }
+  },
+  "limits": "The five original questions were picked to work. Walker, Tapp and Davis say so, writing that they used questions they felt would stand a good chance of showing a difference, and arguing that ease of elicitation is itself an index of a bias rather than a flaw in the test. The 2025 study describes its own five pairs as chosen somewhat arbitrarily and reports that they hung together poorly, Cronbach α = 0.28, with the authors stating they do not claim to have used the ideal set of items. Removing each subscale in turn did not change their conclusions. Their five mean differences run 2.15 for the fumes pair, 0.39 for loud music, -0.43 for whether traffic or disease deaths can be prevented, -0.29 for whether drivers or machine operators should answer for harm, and -0.91 for subsidising drivers or cyclists, so the effect is not uniform across the topics anyone might test. Everything measured here is agreement with a sentence. Goddard notes that how these norms translate into behaviour or into support for policy is still to be studied. The samples behind the two later studies came from Prolific, and the 2025 paper states its samples were not representative of their countries. Goddard's group sizes of 214 and 187 sum to 401, not the 403 participants the paper reports.",
+  "misreadings": "The 75% against 17% comparison is quoted as though it described the survey. It describes one pair of five. The other three significant pairs gave φ between .23 and .53, and the fifth gave nothing. Popular coverage also treats this as a fact about drivers, when the UK data show non-drivers answering the non-motoring questions much as drivers did, which is what led the authors to argue that non-drivers have absorbed the majority view. Calling it an unconscious bias suggests an implicit measure, and no reaction-time or association test is involved: the evidence is agreement with statements. The framing of motonormativity as a discovery of 2023 also hides the collection date, which is October 2016.",
+  "sources": [
+    {
+      "text": "Walker, I., Tapp, A., & Davis, A. (2023). Motonormativity: how social norms hide a major public health hazard. International Journal of Environment and Health, 11(1), 21-33.",
+      "doi": "10.1504/IJENVH.2023.135446",
+      "url": "https://doi.org/10.1504/IJENVH.2023.135446",
+      "type": "primary"
+    },
+    {
+      "text": "Walker, I., Tapp, A., & Davis, A. (2022). Motornomativity: How social norms hide a major public health hazard. Preprint, posted 14 December 2022. The open version of the paper above, and the source of its statistics here.",
+      "url": "https://osf.io/preprints/psyarxiv/egnmj",
+      "type": "primary"
+    },
+    {
+      "text": "Goddard, T. (2024). Windshield bias, car brain, motornormativity: different names, same obscured public health hazard. Findings, August 2024.",
+      "doi": "10.32866/001c.122974",
+      "url": "https://doi.org/10.32866/001c.122974",
+      "type": "replication"
+    },
+    {
+      "text": "Walker, I., & te Brömmelstroet, M. (2025). Why do cars get a free ride? The social-ecological roots of motonormativity. Global Environmental Change, 91, 102980.",
+      "doi": "10.1016/j.gloenvcha.2025.102980",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2025.102980",
+      "type": "replication"
+    },
+    {
+      "text": "Frost, S., & Singer Hobbs, M. (2024). Who gets a good deal? Revealing public attitudes to transport in Great Britain. Institute for Public Policy Research, April 2024.",
+      "url": "https://ippr-org.files.svdcdn.com/production/Downloads/Attitudes_to_transport_April24.pdf",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
