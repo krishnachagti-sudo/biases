@@ -1,0 +1,112 @@
+{
+  "no": 103,
+  "slug": "in-group-favouritism",
+  "name": "In-group favouritism",
+  "aliases": [
+    "In-group bias",
+    "Ingroup favoritism",
+    "Intergroup discrimination",
+    "Minimal group effect"
+  ],
+  "category": "social",
+  "statement": "People give more to members of their own group than to outsiders, and a group invented minutes earlier is enough to produce it.",
+  "meaning": "The claim has two halves and they are usually run together. The first is that group membership shifts how people allocate money and how far they cooperate. The second is that the membership can be arbitrary, with no shared history, no contact and no common interest. Tajfel's minimal group paradigm was built to isolate the second half by removing everything else, leaving a category label and nothing behind it. The measured quantity is favouritism rather than hostility. Balliet, Wu and De Dreu found that people cooperate more with ingroup members than with unclassified strangers, and treat outgroup members no differently from strangers. What moves is the ingroup being lifted, not the outgroup being pushed down.",
+  "origin": {
+    "year": 1971,
+    "who": "Henri Tajfel, Michael Billig, R. P. Bundy and Claude Flament",
+    "where": "European Journal of Social Psychology",
+    "note": "The paper reports the first minimal group experiments and supplies the allocation matrices the paradigm still uses. It sits behind a paywall these checks did not pass, so the design and results described on this page are read from Tajfel's own account of the same experiments, published in Scientific American a year earlier."
+  },
+  "evidence": "Tajfel's subjects were 64 boys aged 14 and 15 from a comprehensive school in a Bristol suburb, tested in groups of eight. All eight in each group came from the same house and the same form, so they knew each other well before the experiment. They estimated the number of dots in 40 clusters flashed on a screen. Half were then told that people consistently over- or underestimate, half that people differ in accuracy, and the assignment to groups was random either way. Each boy then worked alone in a cubicle through a booklet of 18 matrices, awarding points worth a tenth of a penny to two other boys known only by code number and group. Nobody could award anything to himself, and each boy went home with about a dollar's worth. Choices between one ingroup and one outgroup member favoured the ingroup. Choices between two ingroup members, or between two outgroup members, sat close to the fairness point at rank 7.5. A second experiment split three groups of 16 boys by their stated preference between six unsigned Klee and six unsigned Kandinsky reproductions, and used matrices that pulled maximum joint profit, maximum ingroup profit and maximum difference apart. Maximum joint profit, in Tajfel's words, exerted hardly any effect. Maximum difference beat the other two combined, so the boys accepted less for their own group in absolute terms to widen the gap. Discrimination rose rather than faded as the task became familiar.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Across 125 effect sizes people cooperate more with ingroup members at d = 0.32, and the effect falls to d = 0.04 when the partner does not know the participant's group.",
+    "detail": "Balliet, Wu and De Dreu searched to September 2013 and found 77 articles containing 212 eligible studies, published between 1965 and 2013. Collapsing non-independent effect sizes left 125 for the ingroup-versus-outgroup contrast in cooperation, giving a random-effects d of 0.32, 95% CI [0.27, 0.38]. Heterogeneity was high, I-squared = 77.75, and the 90% prediction interval ran from -0.07 to 0.73, so the next study in this literature is not guaranteed to find anything. The condition that matters most is who knows what. Where both people know each other's group membership the effect is d = 0.32, 95% CI [0.27, 0.37]; where only the participant knows, it is d = 0.04, 95% CI [-0.12, 0.21], and the difference between the two is Q(1) = 10.08, p = .001. Interdependence moves it the same way: dictator games give d = 0.19 and social dilemmas d = 0.42, 95% CI [0.33, 0.51]. Whether the groups were real or invented in the laboratory made no reliable difference, d = 0.30 against d = 0.35, Q(1) = 0.84, p = .36. Cooperation with outgroup members was no different from cooperation with unclassified strangers, d = -0.09, 95% CI [-0.17, 0.00], which is the result that separates favouritism from derogation. Tom Lane's meta-analysis of economics experiments reaches a compatible figure from a different literature, and Lane notes his estimate is not significantly different from Balliet's. Romano, Balliet, Yamagishi and Liu ran trust games with 3,236 people across 17 societies and found greater trust extended to ingroup members, b = 0.19, p < 0.001, with only a small amount of cross-societal variation and no support for material security, religiosity or pathogen stress as explanations of it. Their reputation manipulation raised cooperation with ingroup and outgroup partners alike. Schmidt and Drake compared six minimal group inductions and report in their abstract that participants favoured their minimal ingroup on most outcome measures whatever the procedure, with the size varying by outcome and method.",
+    "study": {
+      "cite": "Balliet, D., Wu, J., & De Dreu, C. K. W. (2014). Ingroup favoritism in cooperation: A meta-analysis. Psychological Bulletin, 140(6), 1556-1581.",
+      "doi": "10.1037/a0037737",
+      "year": 2014,
+      "k": 125
+    },
+    "replicated": {
+      "es": 0.32,
+      "esType": "d",
+      "ci": [0.27, 0.38],
+      "ciLevel": 95,
+      "weighting": "random effects, non-independent effect sizes collapsed"
+    }
+  },
+  "limits": "The two literatures measure different things and the meta-analysis says so. Balliet and colleagues excluded Tajfel-style matrix studies on the grounds that they are not comparable with the games and carry no variation in interdependence, reciprocity or reputation. So the pooled 0.32 is not a replication of Tajfel, and no standardised effect size for the 1971 experiments was located in either Tajfel source read here, which is why no original figure appears above. Their own dictator-game figure does not settle: the text reports d = 0.19, 95% CI [0.07, 0.37], Table 7 reports [0.01, 0.36] for minimal groups and [0.08, 0.32] with natural groups added, and Table 6 prints 0.15. The interval in the text matches neither table, so 0.19 is quoted here without one. Lane's published article is paywalled and its figures could not be checked; the numbers attributed to him on this page come from the 2015 CeDEx discussion paper version, which counts 447 results from 77 studies. Schmidt and Drake's article sat behind a server that refused these requests, and it is described only from its abstract at Crossref. Perry's book was not read; her archival findings are quoted from her own 2014 article in The Psychologist. Searches covered Crossref, PubMed, PubMed Central, Semantic Scholar, Frontiers, Scientific American via a hosted copy, the Classics in the History of Psychology text of Sherif's monograph, and web search.",
+  "misreadings": "Robbers Cave is the study usually produced as the demonstration, and it demonstrates something else. Sherif and colleagues put boys through weeks of engineered competition at a summer camp, which is the opposite of a minimal group, and Tajfel drew the contrast himself: Sherif's groups had to be placed in intense competition for several days, where a dot-estimation label was enough. The camp study is also retold as a clean natural history of conflict. Sherif's own monograph records that 1954 was not the first attempt and that a 1953 study was 'terminated as an experiment owing to various difficulties and unfavorable conditions, including errors of judgment in the direction of the experiment'. Gina Perry, who worked through Sherif's archive and traced surviving participants, reports that the 1953 camp at Middle Grove fell apart because the boys made friends across the groups, resented the staff and accused them of bias, and that one boy found a staff notebook of observations. She reports that inflating one team's scores to raise rivalry was common in both 1953 and 1954, and that staff at the 1953 camp pulled a tent down hoping one group would blame the other. A second misreading treats arbitrary groups as a floor, on the assumption that race or nationality must move people further than a painting preference. In Lane's working paper the artificial identities average d = 0.353, 95% CI [0.266, 0.439], against ethnicity at d = 0.134, 95% CI [0.013, 0.255], with gender running the other way at d = -0.177, 95% CI [-0.301, -0.053]. A third reading treats the effect as hostility toward outsiders. Everett, Faber and Crockett conclude that favouritism is driven by both preferences and beliefs, and that Balliet's meta-analysis points to the stronger role for beliefs, meaning expectations about what the other person will do.",
+  "sources": [
+    {
+      "text": "Tajfel, H., Billig, M. G., Bundy, R. P., & Flament, C. (1971). Social categorization and intergroup behaviour. European Journal of Social Psychology, 1(2), 149-178. Paywalled; named as the origin, and no figure on this page is taken from it.",
+      "doi": "10.1002/ejsp.2420010202",
+      "url": "https://doi.org/10.1002/ejsp.2420010202",
+      "type": "primary"
+    },
+    {
+      "text": "Tajfel, H. (1970). Experiments in intergroup discrimination. Scientific American, 223(5), 96-102. Tajfel's own account of the same experiments; the design and results in this entry were read from a hosted copy of this article.",
+      "doi": "10.1038/scientificamerican1170-96",
+      "url": "https://faculty.ucmerced.edu/jvevea/classes/Spark/readings/tajfel-1970-experiments-in-intergroup-discrimination.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Balliet, D., Wu, J., & De Dreu, C. K. W. (2014). Ingroup favoritism in cooperation: A meta-analysis. Psychological Bulletin, 140(6), 1556-1581. Full text read from the authors' hosted copy of the advance online version.",
+      "doi": "10.1037/a0037737",
+      "url": "https://doi.org/10.1037/a0037737",
+      "type": "replication"
+    },
+    {
+      "text": "Lane, T. (2016). Discrimination in the laboratory: A meta-analysis of economics experiments. European Economic Review, 90, 375-402. The published article is paywalled; the figures quoted here come from the 2015 CeDEx discussion paper version listed below.",
+      "doi": "10.1016/j.euroecorev.2015.11.011",
+      "url": "https://doi.org/10.1016/j.euroecorev.2015.11.011",
+      "type": "replication"
+    },
+    {
+      "text": "Lane, T. (2015). Discrimination in the laboratory: a meta-analysis. CeDEx Discussion Paper 2015-03, University of Nottingham. The version read for this entry; it reports 447 results from 77 studies and an overall effect size of 0.252, 95% CI [0.205, 0.300].",
+      "url": "https://www.nottingham.ac.uk/cedex/documents/papers/cedex-discussion-paper-2015-03.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Romano, A., Balliet, D., Yamagishi, T., & Liu, J. H. (2017). Parochial trust and cooperation across 17 societies. Proceedings of the National Academy of Sciences, 114(48), 12702-12707. Read from the PubMed Central copy.",
+      "doi": "10.1073/pnas.1712921114",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5715771/",
+      "type": "replication"
+    },
+    {
+      "text": "Schmidt, K., & Drake, R. G. (2023). Minimal group procedures and outcomes. Collabra: Psychology, 9(1), 90187. Described here from its abstract at Crossref; the full text was not reachable.",
+      "doi": "10.1525/collabra.90187",
+      "url": "https://doi.org/10.1525/collabra.90187",
+      "type": "replication"
+    },
+    {
+      "text": "Everett, J. A. C., Faber, N. S., & Crockett, M. J. (2015). Preferences and beliefs in ingroup favoritism. Frontiers in Behavioral Neuroscience, 9, 15.",
+      "doi": "10.3389/fnbeh.2015.00015",
+      "url": "https://doi.org/10.3389/fnbeh.2015.00015",
+      "type": "commentary"
+    },
+    {
+      "text": "Sherif, M., Harvey, O. J., White, B. J., Hood, W. R., & Sherif, C. W. (1954/1961). Intergroup Conflict and Cooperation: The Robbers Cave Experiment. Norman: University of Oklahoma Book Exchange. Chapter 1 read in full; it is the source of Sherif's own statement that the 1953 study was terminated.",
+      "url": "https://psychclassics.yorku.ca/Sherif/chap1.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Perry, G. (2014, 26 November). The view from the boys. The Psychologist. The source of the Middle Grove and staff intervention details quoted here.",
+      "url": "https://www.bps.org.uk/psychologist/view-boys",
+      "type": "commentary"
+    },
+    {
+      "text": "Perry, G. (2018). The Lost Boys: Inside Muzafer Sherif's Robbers Cave Experiment. London: Scribe. The book-length account of the archival work; not read for this entry, and nothing here is quoted from it.",
+      "url": "https://scribepublications.co.uk/books/the-lost-boys",
+      "type": "commentary"
+    },
+    {
+      "text": "Pinter, B., & Greenwald, A. G. (2011). A comparison of minimal group induction procedures. Group Processes & Intergroup Relations, 14(1), 81-98. Read from the authors' hosted final draft; all four inductions produced comparable ingroup favouritism on explicit measures and bonus money allocation.",
+      "doi": "10.1177/1368430210375251",
+      "url": "https://faculty.washington.edu/agg/pdf/MGP.ms.23Apr10.FINALVERSION.pdf",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

@@ -1,0 +1,98 @@
+{
+  "no": 106,
+  "slug": "normalcy-bias",
+  "name": "Normalcy bias",
+  "aliases": ["Normality bias", "Normalization bias", "Ostrich effect (disaster usage)", "正常化の偏見"],
+  "category": "decision",
+  "statement": "People meeting a warning of disaster read it inside their ordinary expectations, underrate the danger, and act late or not at all.",
+  "meaning": "The claim is about interpretation rather than fear. A siren, a tremor or a smell of smoke arrives as an ambiguous signal, and the reading that fits an ordinary Tuesday beats the reading that would require leaving the building. Yamori, summarising Hirose's 1984 formulation, describes two forms. The first pushes an abnormal event into a familiar frame so that its strangeness is discounted. The second appears when the announced danger is far past what anyone could cope with, and the ambiguity in the announcement is used to rate the risk low. Both are claims about one moment, the moment a person is told something bad is coming. Testing them needs a measure of what that person believed at that moment. Most of what is offered instead is a record of what they did afterwards.",
+  "origin": {
+    "year": 1988,
+    "who": "Katsuya Yamori and Jyuji Misumi",
+    "where": "The Japanese Journal of Experimental Social Psychology",
+    "note": "The phrase appears in the English abstract of a laboratory experiment on how fast a subject, left alone after working under different styles of leadership, responded to an unexpected alarm bell. That is the earliest print occurrence located, not a coinage. Yamori's 2009 review traces the Japanese concept, 正常化の偏見, to Hiroyoshi Hirose's 1984 book 生存のための災害学, which was not obtained for this entry. Who first put the English phrase in print could not be established."
+  },
+  "evidence": "The warning research the term is attached to does not use it. Mileti and Sorensen's 1990 review for Oak Ridge National Laboratory synthesised more than 200 studies and carries 235 references. Its third main conclusion is that confirmation underlies the whole warning response: most people answer a first warning by seeking more information, calling friends and relatives, and waiting to hear the message again. The report files that under myths that defeat warning goals, next to the belief that the public panics. Drabek had described the same sequence in 1969 from interviews with 278 families evacuated before a Denver flood in June 1965, separating warning, confirmation and evacuation as distinct processes. Averill and colleagues found it again at the World Trade Center. Their NIST investigation ran 803 telephone interviews with survivors of the two towers. In WTC 1 the most common reported delay before leaving the floor was one minute or less; the median was three minutes below floor 43 and on floors 43 to 76, and five minutes on floors 77 to 91. Seventy percent of WTC 1 survivors and 75 percent of those in WTC 2 talked things over with other people before leaving. The causal model explained 49 percent of the variance in evacuation delay in WTC 1 and 56 percent in WTC 2, and its strongest predictors were the floor a person was on, whether they saw smoke or damage, and whether they went looking for information. Kuligowski and Mileti published the path analysis separately in 2009. None of these documents contains the words normalcy bias.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication attempt was found, and no original experiment on the effect was found to repeat.",
+    "detail": "The one laboratory experiment located that names the bias, Yamori and Misumi in 1988, was testing something else: whether a leader's everyday style changed how quickly a worker reacted to an alarm. Normalcy bias is mentioned in its closing sentence as the crisis condition the finding bears on. Yamori returned to the concept in 2009 and argued against it, on the grounds that the bias is weak when people actually face an alert and is largely built afterwards, as they try to make sense of what happened. That is a criticism of the construct rather than a failed replication of it."
+  },
+  "limits": "The searches behind that verdict were: OpenAlex by title and abstract for the phrase, which returns 50 works with the earliest in 1988; PubMed, which holds five records containing it, the earliest from 1994; Crossref for every DOI cited here; and full-text searches of four technical documents. The phrase appears in none of the four: Mileti and Sorensen 1990, the NIST report on World Trade Center occupant behaviour, Quarantelli's 2001 encyclopedia article on panic, and the chapter on public response in the National Academies' 2018 report on emergency alert and warning systems. Several things could not be read. HathiTrust and Scholar Archive full-text search both refused the requests, so no pre-1988 print search was made, and the 1988 date is a floor set by what is indexed. Hirose's 1984 book is known here only through Yamori's citation of it. Drabek's 1986 inventory, the first item in Wikipedia's reference list, is a book and was not obtained. The sample size of the 1988 experiment sits in Japanese body text that would not extract. Kinateder and colleagues' 2015 review of risk perception in fire evacuation was paywalled. Ripley's 2008 book was not read, only her 2005 article.",
+  "misreadings": "The split usually quoted as 10-80-10 has a traceable source and no data under it. Leach's 2004 paper in Aviation, Space, and Environmental Medicine gives 10 to 15 percent who stay calm, about 75 percent who are stunned and bewildered, and 10 to 15 percent who behave counterproductively. Those figures are introduced as consistent with previously reported natural histories of disasters and referenced to four items, one of them Leach's own 1994 book. His method was a reading of witness testimony, survivor debriefings and inquiry reports from shipwrecks and air accidents, and the paper reports no counts of its own. Ripley quoted him accurately in Time in 2005 and named him. The figure attached to normalcy bias specifically, that 80 percent of people show it, is Wikipedia's, taken from a 2013 Gizmodo article that gives 70 percent and cites no study for it. Freezing and panic are separate claims carrying separate evidence. Quarantelli's review concludes that clear cases of panic are hard to find in disasters and that the phenomena are statistically rare, brief and confined to a handful of people, so the claim that panic is uncommon is the one the sociology supports. That most people freeze is a different claim and rests on the testimony analyses above. Milling is not paralysis either. It is the information seeking documented since Drabek's flood families, and NIST found it in seven of every ten survivors of a burning building. The six-minute average quoted for the World Trade Center is a mean on a right-skewed distribution: NIST gives a modal delay of one minute or less and a tail of people who took more than half an hour.",
+  "sources": [
+    {
+      "text": "Yamori, K., & Misumi, J. (1988). The effects of leadership behavior in the normal time on follower's coping behavior when emergency occurred: An experimental study. The Japanese Journal of Experimental Social Psychology, 28(1), 35-46. Earliest print use of the phrase located in this search; it appears in the English abstract and keywords.",
+      "doi": "10.2130/jjesp.28.35",
+      "url": "https://doi.org/10.2130/jjesp.28.35",
+      "type": "primary"
+    },
+    {
+      "text": "Yamori, K. (2009). Revisiting the concept of normalcy bias. The Japanese Journal of Experimental Social Psychology, 48(2), 137-149. Argues the bias is weak at the moment of the alert and is constructed after the event; credits Hirose (1984) with the formulation.",
+      "doi": "10.2130/jjesp.48.137",
+      "url": "https://doi.org/10.2130/jjesp.48.137",
+      "type": "commentary"
+    },
+    {
+      "text": "Mileti, D. S., & Sorensen, J. H. (1990). Communication of emergency public warnings: A social science perspective and state-of-the-art assessment. ORNL-6609. Oak Ridge National Laboratory. Full text read; the phrase normalcy bias does not occur in it.",
+      "doi": "10.2172/6137387",
+      "url": "https://doi.org/10.2172/6137387",
+      "type": "primary"
+    },
+    {
+      "text": "Averill, J. D., Mileti, D. S., Peacock, R. D., Kuligowski, E. D., Groner, N., Proulx, G., Reneke, P. A., & Nelson, H. E. (2005). Occupant behavior, egress, and emergency communications. NIST NCSTAR 1-7. Full text read; source of the 803 interviews, the delay quartiles in Tables 6-7 and 6-15, and the milling percentages.",
+      "doi": "10.6028/NIST.NCSTAR.1-7",
+      "url": "https://doi.org/10.6028/NIST.NCSTAR.1-7",
+      "type": "primary"
+    },
+    {
+      "text": "Kuligowski, E. D., & Mileti, D. S. (2009). Modeling pre-evacuation delay by occupants in World Trade Center Towers 1 and 2 on September 11, 2001. Fire Safety Journal, 44(4), 487-496. The peer-reviewed path analysis of the NIST interview data.",
+      "doi": "10.1016/j.firesaf.2008.10.001",
+      "url": "https://doi.org/10.1016/j.firesaf.2008.10.001",
+      "type": "primary"
+    },
+    {
+      "text": "Drabek, T. E. (1969). Social processes in disaster: Family evacuation. Social Problems, 16(3), 336-349. Interviews with 278 families evacuated before a Denver flood in June 1965; separates warning, confirmation and evacuation. Read as abstract and catalogue record, not in full.",
+      "doi": "10.2307/799667",
+      "url": "https://doi.org/10.2307/799667",
+      "type": "primary"
+    },
+    {
+      "text": "Quarantelli, E. L. (2001). The sociology of panic. Disaster Research Center Preliminary Paper #283, University of Delaware. Written for the International Encyclopedia of the Social and Behavioral Sciences. Full text read; the phrase normalcy bias does not occur in it.",
+      "url": "https://udspace.udel.edu/bitstreams/981d657d-b864-42e7-ae35-f0b7a969fe85/download",
+      "type": "commentary"
+    },
+    {
+      "text": "Leach, J. (2004). Why people 'freeze' in an emergency: Temporal and cognitive constraints on survival responses. Aviation, Space, and Environmental Medicine, 75(6), 539-542. PMID 15198281. The proximate source of the 10-15 / 75 / 10-15 split; an analysis of testimony and inquiry reports, reporting no counts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15198281/",
+      "type": "primary"
+    },
+    {
+      "text": "Ripley, A. (2005). How to get out alive. Time, 25 April 2005. Attributes the term to disaster researchers, quotes Michael Lindell, and cites Leach's 2004 paper by name for the three-group split.",
+      "url": "https://time.com/archive/6596600/how-to-get-out-alive/",
+      "type": "commentary"
+    },
+    {
+      "text": "Omer, H., & Alon, N. (1994). The continuity principle: A unified approach to disaster and trauma. American Journal of Community Psychology, 22(2), 273-287. The earliest PubMed record containing the phrase; a theoretical paper, and its abstract carries no percentage.",
+      "doi": "10.1007/BF02506866",
+      "url": "https://doi.org/10.1007/BF02506866",
+      "type": "commentary"
+    },
+    {
+      "text": "Inglis-Arkell, E. (2013). The frozen calm of normalcy bias. Gizmodo, 2 May 2013. Source of the 70 percent figure that Wikipedia reproduces as 80 percent; it names four bodies of work and attributes the number to none of them.",
+      "url": "https://gizmodo.com/the-frozen-calm-of-normalcy-bias-486764924",
+      "type": "commentary"
+    },
+    {
+      "text": "National Academies of Sciences, Engineering, and Medicine (2018). Emergency alert and warning systems: Current knowledge and future research directions, chapter 1. National Academies Press. Sets out milling and confirmation as the documented response; does not use the term normalcy bias.",
+      "url": "https://nap.nationalacademies.org/read/24935/chapter/3",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Normalcy bias. Used to find sources, not as one; its claims are described in this entry rather than relied on.",
+      "url": "https://en.wikipedia.org/wiki/Normalcy_bias",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
