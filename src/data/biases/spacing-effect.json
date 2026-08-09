@@ -1,0 +1,91 @@
+{
+  "no": 99,
+  "slug": "spacing-effect",
+  "name": "Spacing effect",
+  "aliases": [
+    "Distributed practice effect",
+    "Distribution of practice effect",
+    "Lag effect",
+    "Spaced repetition"
+  ],
+  "category": "memory",
+  "statement": "Spreading study sessions apart in time produces better long-term retention than packing the same total study time into one sitting.",
+  "meaning": "Two intervals define the claim. The interstudy interval is the gap between one encounter with the material and the next. The retention interval is the gap between the last encounter and the test. The spacing effect proper compares a gap of zero against any gap at all. The lag effect compares a short gap against a longer one, and it is the harder question, because longer is not always better. Total study time is held constant, so the finding is about arrangement rather than effort. Cepeda and colleagues treat the two as one phenomenon with a single control variable, the interstudy interval, and their central result is that its best value depends on when the test falls.",
+  "origin": {
+    "year": 1885,
+    "who": "Hermann Ebbinghaus",
+    "where": "Über das Gedächtnis, translated as Memory: A Contribution to Experimental Psychology",
+    "note": "Chapter VIII, section 34. Ebbinghaus learned 12-syllable series on himself. Massing 68 repetitions on one day left him needing 7 repetitions to relearn a series the next day. Spreading 38 repetitions over the three preceding days bought the same relearning saving. He drew the conclusion narrowly, calling it probable that a suitable distribution over a space of time beats massing, and noting that he had found it under limited conditions. The subject count was one."
+  },
+  "evidence": "Cepeda, Pashler, Vul, Wixted and Rohrer assembled 839 assessments of distributed practice from 317 experiments in 184 articles, restricted to verbal recall. On the spaced-against-massed comparison, 254 studies contributed 271 performance differences covering 14,811 participants. Spaced conditions recalled 47.3% against 36.7% massed, t(540) = 6.6, p < .001. Only 12 of those 271 comparisons showed no effect or a negative one. The review prints percentage points rather than a standardised effect, because the variance data needed to compute effect sizes were missing from most reports in the area. Two findings run against each other. For spacing against massing the review found no evidence that the benefit is modulated by retention interval. For absolute lag the optimal interstudy interval rose with retention interval: gaps under a minute maximised retention at test delays under a minute, while gaps of a month or more maximised it at test delays of six months or more. Cepeda and colleagues then ran the experiment the literature lacked. They assigned 1,354 subjects from an internet panel to 26 combinations of gap and retention interval. Subjects learned 32 obscure trivia facts to a criterion of one perfect recall. Review followed after gaps of 0 to 105 days, and the final test came 7, 35, 70 or 350 days after that review. Against a zero gap, the best gap raised final recall by 64%, d = 1.1, and final recognition by 26%, d = 1.5. The size of that gain varied by test delay: 10%, 59%, 111% and 77% for the four retention intervals in recall.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Spacing survives the move out of the laboratory: a 2025 meta-analysis of classroom studies pooled 31 effect sizes and found d = 0.54, 95% CI [0.31, 0.77].",
+    "detail": "Mawson and Kang screened over 3,000 articles for classroom studies using curriculum materials and timescales a school would recognise, and kept 22 reports carrying 31 effect sizes across more than 3,000 learners. The pooled estimate was d = 0.54, 95% CI [0.31, 0.77]. Heterogeneity was heavy, Q(30) = 230.33, p < .001, with more than 92% of between-study variance attributed to systematic influence. Larger effects went with longer retention intervals, higher education levels and fewer re-exposures. Egger's test found significant funnel asymmetry, z = 2.719, p = .007, which the authors read as small-study bias rather than publication bias, since many of the studies they collected were non-significant. Two field studies show the range. Sobel, Cepeda and Kapler taught 39 fifth-graders GRE vocabulary in their own classroom, using either a one-week gap or a massed pair of sessions. Definition recall five weeks later was 20.8% spaced against 7.5% massed, t(38) = 3.0, p = .004, d = 0.48. Kapler, Weston and Wiseheart lectured 169 undergraduates on weather, sent an online review after one day or eight, and tested 35 days after the review. The eight-day group scored higher on factual questions, 0.54 against 0.47, F(1,166) = 5.89, p = .02, and on application questions, 0.42 against 0.35, F(1,166) = 4.71, p = .03.",
+    "study": {
+      "cite": "Mawson, R. D., & Kang, S. H. K. (2025). The distributed practice effect on classroom learning: A meta-analytic review of applied research. Behavioral Sciences, 15(6), 771.",
+      "doi": "10.3390/bs15060771",
+      "year": 2025
+    },
+    "replicated": {
+      "es": 0.54,
+      "esType": "d",
+      "ci": [0.31, 0.77],
+      "ciLevel": 95,
+      "weighting": "pooled across 31 effect sizes from 22 classroom reports"
+    }
+  },
+  "limits": "The effect shrinks as the task gets harder. Donovan and Radosevich pooled 63 studies and 112 effect sizes for an overall d = 0.46, then found that the number did not survive its own moderators. Their four task clusters gave d = 0.97 for simple psychomotor tasks, 0.42 for mentally demanding ones of average complexity, and 0.11 and 0.07 for the two high-complexity clusters. Rated task complexity correlated negatively with effect size, r = -.25, p < .05. Methodological rigour did the same: studies scoring lowest on their nine-item checklist returned d = 1.22 against 0.40 for both higher bands. Their spaced conditions are also mostly rest breaks inside a session rather than gaps of days. Within that range shorter intertrial intervals gave larger effects, 0.71 under a minute falling to 0.16 beyond a day. That is the opposite of the day-scale pattern. No pooled standardised effect is quoted from Cepeda and colleagues' 2006 review because it does not report one. Its scope is verbal recall, so it carries no claim about motor skill or problem solving. The 2008 experiment ran on a self-selected internet panel with attrition rising at longer delays, and its materials were single-word answers to trivia questions. Mawson and Kang found mathematics effects smaller and more often non-significant, and effects smaller where learners had to transfer to novel situations. Sources searched were Crossref, the full texts of the Cepeda, Donovan, Karpicke, Kapler and Sobel papers, the Ruger and Bussenius translation of Ebbinghaus, and the open-access text of Mawson and Kang.",
+  "misreadings": "The advice usually attached to the effect is more precise than the evidence behind it. The most common version, that the gap should be a fixed proportion of the retention interval, is contradicted by the study people cite for it. In Cepeda and colleagues' 2008 data the interpolated optimal gaps for retention intervals of 7, 35, 70 and 350 days were about 3, 8, 12 and 27 days, which is 43%, 23%, 17% and 8% of the delay. The proportion falls as the delay grows; only the absolute gap rises. Their own summary is that the optimal gap is not a quantity that can be recommended without first knowing how long the material must last. Expanding schedules are the second error. Karpicke and Roediger compared expanding and equal schedules of vocabulary practice and found expanding ahead at 10 minutes, 0.71 against 0.62, and behind at two days, 0.33 against 0.45. Delaying the first attempt, not widening the later ones, carried the benefit. Those schedules were built from retrieval attempts, which is a separate literature. The 2006 review reached the same place on study repetitions: 62.0% for expanding against 58.6% for fixed across 22 comparisons, t(42) = 0.5, p = .61. Its verdict was that expanding intervals rarely do much harm and that there is not enough data to say whether they help. Software that schedules by expanding interval is built on that gap. A third error runs the complexity relationship backwards, assuming difficult material gains most from spacing, where Donovan and Radosevich found the largest effects on the simplest tasks. And the striking classroom percentages measure small numbers. Sobel's 177% advantage is 20.8% recalled against 7.5%."
+  ,
+  "sources": [
+    {
+      "text": "Ebbinghaus, H. (1885/1913). Memory: A Contribution to Experimental Psychology (H. A. Ruger & C. E. Bussenius, Trans.). Chapter VIII, section 34, read for this entry in the Classics in the History of Psychology edition.",
+      "url": "https://psychclassics.yorku.ca/Ebbinghaus/memory8.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132(3), 354-380.",
+      "doi": "10.1037/0033-2909.132.3.354",
+      "url": "https://doi.org/10.1037/0033-2909.132.3.354",
+      "type": "replication"
+    },
+    {
+      "text": "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. Psychological Science, 19(11), 1095-1102.",
+      "doi": "10.1111/j.1467-9280.2008.02209.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2008.02209.x",
+      "type": "primary"
+    },
+    {
+      "text": "Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. Journal of Applied Psychology, 84(5), 795-805.",
+      "doi": "10.1037/0021-9010.84.5.795",
+      "url": "https://doi.org/10.1037/0021-9010.84.5.795",
+      "type": "replication"
+    },
+    {
+      "text": "Karpicke, J. D., & Roediger, H. L. (2007). Expanding retrieval practice promotes short-term retention, but equally spaced retrieval enhances long-term retention. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33(4), 704-719.",
+      "doi": "10.1037/0278-7393.33.4.704",
+      "url": "https://doi.org/10.1037/0278-7393.33.4.704",
+      "type": "primary"
+    },
+    {
+      "text": "Mawson, R. D., & Kang, S. H. K. (2025). The distributed practice effect on classroom learning: A meta-analytic review of applied research. Behavioral Sciences, 15(6), 771.",
+      "doi": "10.3390/bs15060771",
+      "url": "https://doi.org/10.3390/bs15060771",
+      "type": "replication"
+    },
+    {
+      "text": "Sobel, H. S., Cepeda, N. J., & Kapler, I. V. (2011). Spacing effects in real-world classroom vocabulary learning. Applied Cognitive Psychology, 25(5), 763-767.",
+      "doi": "10.1002/acp.1747",
+      "url": "https://doi.org/10.1002/acp.1747",
+      "type": "replication"
+    },
+    {
+      "text": "Kapler, I. V., Weston, T., & Wiseheart, M. (2015). Spacing in a simulated undergraduate classroom: Long-term benefits for factual and higher-level learning. Learning and Instruction, 36, 38-45.",
+      "doi": "10.1016/j.learninstruc.2014.11.001",
+      "url": "https://doi.org/10.1016/j.learninstruc.2014.11.001",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}

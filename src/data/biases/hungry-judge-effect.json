@@ -1,0 +1,80 @@
+{
+  "no": 96,
+  "slug": "hungry-judge-effect",
+  "name": "Hungry judge effect",
+  "aliases": ["Hungry judges", "Judicial decision fatigue"],
+  "category": "decision",
+  "statement": "Israeli parole judges ruled for the prisoner in about 65% of cases at the start of a session and in almost none by its end.",
+  "meaning": "The finding has a mechanism attached, and the mechanism is the contested part. Danziger, Levav and Avnaim-Pesso proposed that making one ruling after another depletes a judge's mental resources, and that a depleted judge falls back on the easier option. In a parole hearing the easier option is to deny, because denial preserves the status quo and takes less writing. A food break restores the resource and the grant rate jumps back. The popular version drops the mechanism and keeps the meal, which is how a paper about position in a queue became a paper about breakfast. What the authors measured was the ordinal position of a case within a session.",
+  "origin": {
+    "year": 2011,
+    "who": "Shai Danziger, Jonathan Levav and Liora Avnaim-Pesso",
+    "where": "Proceedings of the National Academy of Sciences",
+    "note": "Their paper is titled \"Extraneous factors in judicial decisions\" and opens by naming the caricature it sets out to test, that justice is what the judge ate for breakfast. It records no meals other than the timing and length of two daily breaks."
+  },
+  "evidence": "1,112 rulings by eight Israeli judges sitting on two parole boards, collected over 50 days in a 10-month period. The boards handle about 40% of parole requests in the country. A judge heard 14 to 35 cases a day, an average of 22.58, each taking about six minutes, and took a morning snack and a lunch break that split the day into three sessions. Overall 64.2% of requests were rejected, a figure that pools outright refusals with deferrals to a later hearing. The graph everyone reproduces plots the proportion of favourable rulings against ordinal position, and is drawn from the first 95% of each session because the later positions hold few cases. A fixed-effects logistic regression controlling for offence severity, months served, previous imprisonments, rehabilitation programme, sex and nationality put the coefficient on the first decision of the third session at 2.873 (SE 0.425) and the coefficient on overall decision count at -0.078 (SE 0.020). Favourable rulings took longer than unfavourable ones, 7.37 minutes against 5.21.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Two other court systems show a decline across a session at roughly a tenth of the size, and neither shows the jump after the meal break that the depletion story needs.",
+    "detail": "The dispute runs in three separate arguments. Weinshall-Margel and Shapard interviewed court staff and reported that case order is not random: a board clears one prison before breaking and starts another after, and prisoners without a lawyer are usually heard last. In their own 227 decisions from 12 hearing days, unrepresented prisoners were about a third of cases and prevailed 15% of the time against 35% for those with counsel. Danziger and colleagues replied that they recoded their data with legal representation as a predictor and reran every model, and that case order and the meal break remained robust predictors, though they did not report how much the effect shrank. Glöckner attacked the magnitude instead. He simulated a judge with no bias who declines to start a case she cannot finish before the break, using the ruling times the original paper reports, and produced a curve of comparable shape from a 36% base rate. He put the drop such a judge would generate at 15% to 45%, so his claim is that the effect is overstated rather than absent. The field test is Shroff and Vamvourellis, who examined 96,318 pretrial arraignments by 41 judges in a large urban American court system between 2010 and 2015. Covariate-adjusted release rates fell about 6 percentage points across the hours before lunch and before dinner, stayed flat through the sessions after them, and did not rise once judges had eaten. Hemrajani and Hobert found charges less likely to be dismissed late in a session in Pulaski County traffic arraignments, and no such pattern in trial hearings in the same court.",
+    "study": {
+      "cite": "Shroff, R., & Vamvourellis, K. (2022). Pretrial release judgments and decision fatigue. Judgment and Decision Making, 17(6), 1176-1207.",
+      "doi": "10.1017/S1930297500009384",
+      "year": 2022,
+      "n": 96318
+    }
+  },
+  "limits": "Nobody has re-run the Israeli study. The original data were not released for reanalysis, a point Glöckner records, so the critiques either simulate the process or work from the published tables. Daljord, Urminsky and Ureta did obtain the data from one of the authors, and their reanalysis remains a preprint rather than a peer-reviewed paper; it does not dispute the cyclical pattern and argues that the status quo account of depletion does not fit it. The two field studies are not replications in the strict sense, because American pretrial arraignment and Arkansas traffic court differ from Israeli parole in stakes, in who controls the order and in what the default ruling is. Shroff and Vamvourellis do find a decline within a session, so their result is not a flat null. What they fail to find is the part that carries the depletion account, the rebound after eating.",
+  "misreadings": "The paper contains no record of what any judge ate. The breakfast line is a caricature of legal realism that the authors quote and then test, and what they tested was position in a sequence. The near-zero endpoint is the tail of a plotted curve where each point rests on a handful of cases, not a finding that late applicants never win. Deferral to a later hearing is counted with rejection, which the authors defend as psychologically equivalent and their critics reject as legally distinct. And no critic argues that the pattern in the Israeli data is invented. Weinshall-Margel and Shapard, Glöckner and Chatziathanasiou all accept the curve and disagree about what produces it, which is why the honest summary is that the size and the cause are unsettled rather than that the study was debunked.",
+  "sources": [
+    {
+      "text": "Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. Proceedings of the National Academy of Sciences, 108(17), 6889-6892.",
+      "doi": "10.1073/pnas.1018033108",
+      "url": "https://doi.org/10.1073/pnas.1018033108",
+      "type": "primary"
+    },
+    {
+      "text": "Weinshall-Margel, K., & Shapard, J. (2011). Overlooked factors in the analysis of parole decisions. Proceedings of the National Academy of Sciences, 108(42), E833.",
+      "doi": "10.1073/pnas.1110910108",
+      "url": "https://doi.org/10.1073/pnas.1110910108",
+      "type": "commentary"
+    },
+    {
+      "text": "Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Reply to Weinshall-Margel and Shapard: Extraneous factors in judicial decisions persist. Proceedings of the National Academy of Sciences, 108(42), E834.",
+      "doi": "10.1073/pnas.1112190108",
+      "url": "https://doi.org/10.1073/pnas.1112190108",
+      "type": "commentary"
+    },
+    {
+      "text": "Glöckner, A. (2016). The irrational hungry judge effect revisited: Simulations reveal that the magnitude of the effect is overestimated. Judgment and Decision Making, 11(6), 601-610.",
+      "doi": "10.1017/S1930297500004812",
+      "url": "https://doi.org/10.1017/S1930297500004812",
+      "type": "commentary"
+    },
+    {
+      "text": "Shroff, R., & Vamvourellis, K. (2022). Pretrial release judgments and decision fatigue. Judgment and Decision Making, 17(6), 1176-1207.",
+      "doi": "10.1017/S1930297500009384",
+      "url": "https://doi.org/10.1017/S1930297500009384",
+      "type": "replication"
+    },
+    {
+      "text": "Hemrajani, R., & Hobert, T. (2024). The effects of decision fatigue on judicial behavior: A study of Arkansas traffic court outcomes. Journal of Law and Courts, 12(2), 435-443.",
+      "doi": "10.1017/jlc.2023.21",
+      "url": "https://doi.org/10.1017/jlc.2023.21",
+      "type": "replication"
+    },
+    {
+      "text": "Chatziathanasiou, K. (2022). Beware the lure of narratives: \"Hungry judges\" should not motivate the use of \"artificial intelligence\" in law. German Law Journal, 23(4), 452-464.",
+      "doi": "10.1017/glj.2022.32",
+      "url": "https://doi.org/10.1017/glj.2022.32",
+      "type": "commentary"
+    },
+    {
+      "text": "Daljord, Ø., Urminsky, O., & Ureta, J.-M. (2019). The status quo theory of depletion does not explain the Israeli parole decisions. PsyArXiv preprint.",
+      "doi": "10.31234/osf.io/y49h8",
+      "url": "https://doi.org/10.31234/osf.io/y49h8",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
