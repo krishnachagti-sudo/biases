@@ -1,0 +1,122 @@
+{
+  "no": 93,
+  "slug": "tip-of-the-tongue",
+  "name": "Tip of the tongue",
+  "aliases": ["TOT state", "Tip-of-the-tongue phenomenon", "Presque vu", "Tip of the fingers"],
+  "category": "memory",
+  "statement": "A person who cannot retrieve a word can often report parts of it, including its first letter and its number of syllables, at rates far above a matched baseline.",
+  "meaning": "The tip of the tongue state is a retrieval failure with a peculiar shape. The word will not come, the speaker is sure it is known, and recall feels about to happen. Brown and McNeill called what the speaker can produce meanwhile generic recall: a letter or two, a syllable count, a stress pattern, sometimes a suffix. This is a memory phenomenon and not a bias. Nothing about it makes judgement systematically wrong, and it earns a place here because of what it has been taken to prove about the mental lexicon. If meaning can be retrieved while sound cannot, then meaning and sound are stored separately and reached in that order. Two rival readings of the failure have driven the field. On the blocking account a wrong word arrives first and jams the search. On the transmission deficit account nothing jams anything, and the sound of the word is simply activated too weakly to be selected. The evidence has moved a long way towards the second.",
+  "origin": {
+    "year": 1966,
+    "who": "Roger Brown and David McNeill",
+    "where": "Journal of Verbal Learning and Verbal Behavior",
+    "note": "Brown and McNeill did not discover the state, they made it happen on demand. Their paper opens with a passage they date to 1893 in which William James describes 'a gap that is intensely active'. They credit earlier naturalistic records to Woodworth in 1934 and to Wenzl in 1932 and 1936, and dismiss them as unsystematic: several months of watching themselves and asking their friends yielded fewer than a dozen good cases. Reading out definitions of rare words was the method that changed that."
+  },
+  "evidence": "Brown and McNeill ran a pretest on nine people interviewed for two hours each, which produced 57 tip of the tongue states. Guesses at the number of syllables were right 47% of the time and guesses at the first letter 51%. The main experiment used 56 Harvard and Radcliffe undergraduates in three two-hour evening sessions and a list of 49 words drawn from a Thorndike-Lorge frequency band, among them apse, nepotism, cloaca, ambergris and sampan. It produced 360 signalled states, of which 233 were positive, meaning the target was known and the guesses could be scored. Participants also listed the words that came to mind, 224 judged similar in sound and 95 judged similar in meaning, and the similar-meaning words serve as the baseline. Explicit guesses at the number of syllables were correct 57% of the time, and the modes of the guesses matched the true count exactly for one, two and three syllables. The similar-sounding words matched the target's syllable count in 48% of cases against 20% for the similar-meaning words. The first letter was guessed correctly 57% of the time, or 62% counting each word once. Similar-sounding words matched the target's first letter in 49% of cases; similar-meaning words managed 8%. Accuracy tracked nearness to the target. Among states that ended when the experimenter read the word out, 58 of 138 first-letter guesses were right, 42%. Among states where the participant recalled the intended word unaided it was 20 of 36, 56%, and where the participant recalled a different target of their own, 39 of 59, 66%. Endings behaved like chunks: of 93 similar-sounding words produced for a target ending in a suffix, 30 matched its last three letters, against 5 of 130 for targets with no suffix. The states were not evenly distributed. Nine participants had none at all in two hours and the most anyone had was eight. Brown and McNeill call this the fragmentary data problem and report that no significance test is clearly appropriate to it. The blocking account was tested directly and did not survive. Jones and Langford, and then Jones in 1989, read definitions accompanied by a word related to the answer in sound, and found more tip of the tongue states than with unrelated words. Perfect and Hanley reran it with a no-interloper control and found that Jones's phonologically cued definitions produced more states with no interloper present at all; when definitions were matched for the states they produced unaided, the interlopers did nothing. Meyer and Bock reached the same place from another direction with 411, 348 and 261 participants across three experiments. Rotating every definition through every cue condition, sound cues helped: 1,013 correct targets after phonological cues, 951 after semantic and 917 after unrelated, with tip of the tongue states running the other way at 628, 682 and 658. Cueing only after a failed first attempt gave 108, 49 and 28 late retrievals for the three cue types. Their third experiment copied Jones's design, assigning each definition to one condition only, and reproduced his result, 375 correct targets after phonological cues against 577 after unrelated ones. The uncued data explain why. Jones's phonological items were retrieved from the definition alone 43.5% of the time, against 74.0% for his unrelated items, so the cue was carrying the blame for the words. James and Burke tested the transmission deficit account by having 36 young adults and 36 adults with a mean age of 72 read aloud lists that shared phonemes with an answer they were about to be asked for. Prior production of those sounds cut tip of the tongue states, from a mean of 6.69 to 5.86 in the young and 7.86 to 6.44 in the older group. In a second experiment the priming came only after retrieval had already failed, and it lifted resolution for states already in progress but not for questions answered 'don't know'. Kornell and Metcalfe attacked the folklore about blockers from the resolution side. Delay helped tip of the tongue states resolve, and blocked states resolved less often than unblocked ones, but delay did not help blocked states more, F(1,55) = 1.23. Reminding people of the word that had been blocking them changed resolution not at all, F(1,36) = 0.02.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Partial recall during the state reproduces across labs, languages and even a signed language; what has not reproduced is the explanation that a competing word causes it.",
+    "detail": "Koriat and Lieblich ran a modified version of the Brown and McNeill procedure on 56 participants and report their findings generally replicated. The same paper adds the qualification that has taken half a century to be absorbed: correct partial information also appeared when participants said they did not know the word at all. Koriat and Lieblich separate detection based on the class a word belongs to from detection specific to that word, and find both in tip of the tongue states and in don't-know states. Brennen, Vikan and Dybdahl took the procedure to speakers of Q'eqchi', an unwritten Mayan language of Guatemala, testing illiterates, unschooled literates and schooled readers. Q'eqchi' has little sign of a dedicated expression for the state, yet most participants in all three groups recognised a description of it, states were induced in all three groups, and presenting the word's initials reliably resolved them. Only the university-level participants reported partial knowledge of words they had failed to recall. Thompson, Emmorey and Gollan elicited the same state in deaf signers of American Sign Language, where it is a tip of the fingers. Signers were likelier to retrieve a target sign's handshape, location and orientation than its movement, and often recalled the first letter of a fingerspelled word. Brown's 1991 review of the literature summarises the state as nearly universal, occurring about once a week, rising with age, often triggered by proper names, and resolved about half the time while it is happening.",
+    "study": {
+      "cite": "Koriat, A., & Lieblich, I. (1974). What does a person in a 'TOT' state know that a person in a 'don't know' state doesn't know. Memory & Cognition, 2(4), 647-655.",
+      "doi": "10.3758/BF03198134",
+      "year": 1974,
+      "n": 56
+    }
+  },
+  "limits": "The state is easy to elicit and hard to measure cleanly. Brown and McNeill's own design gives unequal numbers of observations per word and per person, and they say plainly that they know of no significance test they can be sure is appropriate. Their 57% for first letters is scored over positive states only, those where the target turned out to be known. It carries no stated chance baseline. The 8% for similar-meaning words is the comparison they offer, and they say the true chance level is unknown. Later figures are not comparable to it. Meyer and Bock subtracted an estimate of guessing from the cue word itself. That left accurate first letters at 18% to 21% of states and accurate syllable counts at 18% to 27%, computed over all reported states rather than over scorable ones. Ageing is where the measurement problem bites hardest. James and Burke found states running at 12.4% of unsuccessful retrievals in young adults and 19.1% in older adults, p < .05, and the age gap survived priming. Dahlgren put three cohorts, aged 17 to 29, 30 to 49 and 50 to 82, through 57 general knowledge questions. The age difference in rates disappeared once level of knowledge was controlled. His argument is that older participants know more of the words that can go missing. Neither result settles the other, and the diary evidence sits in between. Burke, MacKay, Worthley and Wade's 1991 diary and laboratory studies are the origin of the transmission deficit account and the source of the finding that persistent alternate words delay resolution. That paper is behind a paywall and was not obtained. Everything said here about its contents is read off James and Burke's 2000 account of it, and its diary counts are not quoted. Schwartz's language survey is a survey of informants, not of a sampled set of languages, with one fluent speaker consulted per language and their word taken for it. The Huebert, McNeely-White and Cleary paper was read as an abstract only, as were Brennen and colleagues, Thompson and colleagues, Perfect and Hanley, Jones, Dahlgren, Koriat and Lieblich, Schwartz's illusory-states paper and Brown's review. No meta-analysis of tip of the tongue states was found. The search ran over Crossref, Europe PMC, PubMed, OpenAlex, Semantic Scholar and the open web, and turned up narrative reviews and an edited volume but no quantitative synthesis, so no pooled effect size is given anywhere on this page.",
+  "misreadings": "The finding is routinely inflated into proof that the missing word is sitting in storage, fully formed, with a lock on the door. It shows something narrower. Schwartz induced states for questions that had no answer, and every one of his 31 participants in that experiment reported at least one such illusory state. A feeling that a word is about to arrive is evidence about the feeling. Partial information is also read as something the state confers. Koriat and Lieblich found correct partial detection in people who said they did not know the word. Huebert, McNeely-White and Cleary report that under free report, people give more partial-recall responses during these states without being more accurate in them. Forced to guess a first letter, their participants claimed to know it while getting it wrong. Brennen and colleagues found partial knowledge reported only by their university-educated Q'eqchi' speakers, though the state itself and its resolution by initials appeared in every group. The blocker story is the most durable error. Jones found that sound-alike words presented with a definition increase the rate of these states, and two labs replicated it. Perfect and Hanley and then Meyer and Bock explained it away as a property of the words assigned to that condition rather than of the cues. James and Burke wrote in 2000 that the blocking explanation has a tenacious hold and is widely cited despite the absence of supporting evidence. Kornell and Metcalfe later showed that pushing a person's own blocker back in front of them does nothing to their chance of resolving the state. Blockers arrive because retrieval is failing; they are a symptom. The claim that almost every language calls this the tip of the tongue is repeated without its source and is close to true. Schwartz asked fluent speakers of 51 languages and found 45 using a tongue metaphor. American Sign Language, Icelandic, Kiswahili, Kalenjin and Indonesian do not, five languages including Cantonese, Mandarin, Hindi, Hausa and Ibo say the word is in the mouth, and Japanese puts it out of the throat. Korean, which supplied Schwartz's title, has it sparkling at the end of the tongue.",
+  "sources": [
+    {
+      "text": "Brown, R., & McNeill, D. (1966). The 'tip of the tongue' phenomenon. Journal of Verbal Learning and Verbal Behavior, 5(4), 325-337. Read in full from a scanned copy; the source for every figure in the first half of the evidence section.",
+      "doi": "10.1016/S0022-5371(66)80040-3",
+      "url": "https://doi.org/10.1016/S0022-5371(66)80040-3",
+      "type": "primary"
+    },
+    {
+      "text": "Koriat, A., & Lieblich, I. (1974). What does a person in a 'TOT' state know that a person in a 'don't know' state doesn't know. Memory & Cognition, 2(4), 647-655. Abstract read.",
+      "doi": "10.3758/BF03198134",
+      "url": "https://doi.org/10.3758/BF03198134",
+      "type": "replication"
+    },
+    {
+      "text": "Jones, G. V. (1989). Back to Woodworth: Role of interlopers in the tip-of-the-tongue phenomenon. Memory & Cognition, 17(1), 69-76. Abstract read.",
+      "doi": "10.3758/BF03199558",
+      "url": "https://doi.org/10.3758/BF03199558",
+      "type": "primary"
+    },
+    {
+      "text": "Perfect, T. J., & Hanley, J. R. (1992). The tip-of-the-tongue phenomenon: Do experimenter-presented interlopers have any effect? Cognition, 45(1), 55-75. Abstract read.",
+      "doi": "10.1016/0010-0277(92)90023-B",
+      "url": "https://doi.org/10.1016/0010-0277(92)90023-B",
+      "type": "critique"
+    },
+    {
+      "text": "Meyer, A. S., & Bock, K. (1992). The tip-of-the-tongue phenomenon: Blocking or partial activation? Memory & Cognition, 20(6), 715-726. Read in full from the authors' posted copy; the source for all three experiments' counts.",
+      "doi": "10.3758/BF03202721",
+      "url": "https://doi.org/10.3758/BF03202721",
+      "type": "critique"
+    },
+    {
+      "text": "Burke, D. M., MacKay, D. G., Worthley, J. S., & Wade, E. (1991). On the tip of the tongue: What causes word finding failures in young and older adults? Journal of Memory and Language, 30(5), 542-579. Named because it is the origin of the transmission deficit account. Paywalled and not obtained; described here only as James and Burke (2000) describe it.",
+      "doi": "10.1016/0749-596X(91)90026-G",
+      "url": "https://doi.org/10.1016/0749-596X(91)90026-G",
+      "type": "primary"
+    },
+    {
+      "text": "James, L. E., & Burke, D. M. (2000). Phonological priming effects on word retrieval and tip-of-the-tongue experiences in young and older adults. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26(6), 1378-1391. Read in full from the publisher's posted copy.",
+      "doi": "10.1037/0278-7393.26.6.1378",
+      "url": "https://doi.org/10.1037/0278-7393.26.6.1378",
+      "type": "primary"
+    },
+    {
+      "text": "Kornell, N., & Metcalfe, J. (2006). 'Blockers' do not block recall during tip-of-the-tongue states. Metacognition and Learning, 1(3), 248-261. Published online in February 2007. Read in full from the first author's posted copy.",
+      "doi": "10.1007/s11409-007-9003-z",
+      "url": "https://doi.org/10.1007/s11409-007-9003-z",
+      "type": "primary"
+    },
+    {
+      "text": "Schwartz, B. L. (1999). Sparkling at the end of the tongue: The etiology of tip-of-the-tongue phenomenology. Psychonomic Bulletin & Review, 6(3), 379-393. Read in full; the source for the 51-language survey and its exceptions.",
+      "doi": "10.3758/BF03210827",
+      "url": "https://doi.org/10.3758/BF03210827",
+      "type": "review"
+    },
+    {
+      "text": "Schwartz, B. L. (1998). Illusory tip-of-the-tongue states. Memory, 6(6), 623-642. Abstract read.",
+      "doi": "10.1080/741943371",
+      "url": "https://doi.org/10.1080/741943371",
+      "type": "primary"
+    },
+    {
+      "text": "Brennen, T., Vikan, R., & Dybdahl, R. (2007). Are tip-of-the-tongue states universal? Evidence from the speakers of an unwritten language. Memory, 15(2), 167-176. Abstract read.",
+      "doi": "10.1080/09658210601164743",
+      "url": "https://doi.org/10.1080/09658210601164743",
+      "type": "replication"
+    },
+    {
+      "text": "Thompson, R., Emmorey, K., & Gollan, T. H. (2005). 'Tip of the fingers' experiences by deaf signers: Insights into the organization of a sign-based lexicon. Psychological Science, 16(11), 856-860. Abstract read.",
+      "doi": "10.1111/j.1467-9280.2005.01626.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2005.01626.x",
+      "type": "replication"
+    },
+    {
+      "text": "Dahlgren, D. J. (1998). Impact of knowledge and age on tip-of-the-tongue rates. Experimental Aging Research, 24(2), 139-153. Abstract read.",
+      "doi": "10.1080/036107398244283",
+      "url": "https://doi.org/10.1080/036107398244283",
+      "type": "critique"
+    },
+    {
+      "text": "Huebert, A. M., McNeely-White, K. L., & Cleary, A. M. (2023). On the relationship between tip-of-the-tongue states and partial recollective experience: Illusory partial recollective access during tip-of-the-tongue states. Journal of Experimental Psychology: General, 152(2), 542-570. Abstract read; the full text is behind a paywall.",
+      "doi": "10.1037/xge0001292",
+      "url": "https://doi.org/10.1037/xge0001292",
+      "type": "critique"
+    },
+    {
+      "text": "Brown, A. S. (1991). A review of the tip-of-the-tongue experience. Psychological Bulletin, 109(2), 204-223. Abstract read.",
+      "doi": "10.1037/0033-2909.109.2.204",
+      "url": "https://doi.org/10.1037/0033-2909.109.2.204",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
