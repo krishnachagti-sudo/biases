@@ -1,0 +1,62 @@
+{
+  "no": 211,
+  "slug": "egocentric-bias",
+  "name": "Egocentric bias",
+  "aliases": ["Egocentrism in responsibility allocation", "Over-claiming of responsibility"],
+  "category": "social",
+  "statement": "People claim a larger share of a joint effort than the other contributors grant them, because their own work is the part they can recall.",
+  "meaning": "The claim is about allocation, not about self-flattery. Everyone in a group has better access to what they did than to what anyone else did, and if the share each person claims is read off that private record, the shares will not fit inside the whole. The test is arithmetic rather than psychological: collect a claim from every member, add them up, and compare the total to 100%. Ross and Sicoly proposed availability as the mechanism, following Tversky and Kahneman: ease of recall stands in for frequency, and one's own contributions come to mind first.",
+  "origin": {
+    "year": 1979,
+    "who": "Michael Ross and Fiore Sicoly",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Five experiments on discussion groups, married couples, basketball players, laboratory dyads and graduate students, testing recall and responsibility together rather than separately."
+  },
+  "evidence": "Experiment 1 recruited 37 married couples living in student residences and asked each spouse privately to divide responsibility for 20 activities, from making breakfast to causing arguments. Husband and wife each marked a 150-mm line running from 'primarily wife' to 'primarily husband', so a couple whose two marks summed above 150 units had at least one partner over-claiming. The mean excess was 4.67 units, F(1, 35) = 12.89, p < .001, and 27 of the 37 couples showed some overestimation. Over-claiming appeared on 16 of the 20 items on average, including the unflattering ones: causing arguments gave F(1, 32) = 20.38, p < .001. No item showed significant underestimation. The same questionnaire asked spouses to write examples of each side's contributions, and they produced more of their own, 10.9 against 8.1, F(1, 35) = 36.0, p < .001. The size of a couple's recall gap correlated with the size of its responsibility gap, r(35) = .50, p < .01. The other studies push the same measurement into other settings. Across 12 intercollegiate teams, 119 of 158 basketball players named a turning point caused by their own side against 16 who named the opposition, and players gave 1.79 reasons for the result involving their own team against 0.09 involving the other, F(1, 11) = 272.91, p < .001. In Experiment 5, 29 graduate students allocated 33.3% of the thesis work to their supervisor when the questions were phrased about the supervisor and 16.5% when phrased about themselves, F(1, 27) = 9.05, p < .01.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Schroeder, Caruso and Epley put 339 strangers through a handgrip contest and their claimed shares summed past 100% against a machine count of the real ones.",
+    "detail": "Groups of three or six squeezed counting handgrips for one minute each, then estimated the share of the group total they had produced. Three-person groups summed to 104.0%, six-person groups to 113.6%, F(1, 73) = 4.44, p = .04, partial eta squared 0.06. The three-person figure sits beside the 103.1% that the same authors compute for Ross and Sicoly's married couples, so the size of the original result survives a task with an objective denominator. Group size drove claims and not work: grips per member did not differ by group size or condition. Asking people to rate the others before themselves cut the sum from 114.8% to 102.6%, F(1, 73) = 7.13, p < .01. Two field studies and an online study of 1,962 people in the same paper reproduced the pattern at larger group sizes, where remembered groups of five to ten implied 171.0% against 141.1% for groups of two to four.",
+    "study": {
+      "cite": "Schroeder, J., Caruso, E. M., & Epley, N. (2016). Many hands make overlooked work: Over-claiming of responsibility increases with group size. Journal of Experimental Psychology: Applied, 22(2), 238-246.",
+      "doi": "10.1037/xap0000080",
+      "year": 2016,
+      "n": 339
+    }
+  },
+  "limits": "Ross and Sicoly did not show that the recall bias causes the responsibility bias, and say so: the supporting evidence is one correlation in the marriage study and one retrieval manipulation in Experiment 5. Their Experiment 4 tried to shift attention by having 40 men take notes on either their own contributions or their partner's, and the manipulation moved nothing, all Fs < 1, while the over-claiming stayed strong. The samples were small and local, 37 couples and 29 graduate students among them. A laboratory attempt to separate the two ingredients came out against the self-other half. Stinson, Kagan and Pooresmaeili had 51 people compare physical effort in a task where the comparison partner's performance was secretly the participant's own recording, and found no self-other bias, mean -0.027, t(50) = -0.44, p = 0.665, but a reliable bias favouring the trial they had performed over the trial they had watched, mean -0.275, t(50) = -2.75, p = 0.016, d = 0.46. Debiasing has a price. Caruso, Epley and Bazerman ran four experiments in which considering others' contributions reduced egocentric claims and left the members who had done the most work less satisfied and less willing to collaborate again.",
+  "misreadings": "The story usually told is that Ross and Sicoly asked spouses what percentage of the housework they did and the two answers added to well over 100. The experiment proper used no percentages. A footnote explains why: percentage estimates in the pilot interviews were remembered and then compared afterwards, which set the couples arguing, so the published study used unmarked 150-mm lines that subjects could not convert. Retellings also inflate the size. The paper calls the overestimation 'relatively small' and notes that most marks sat near the halfway point, and the excess was 4.67 units out of 150. The bias is not the self-serving bias wearing a different hat. It applied to causing arguments and making the house messy, and it appeared in a handgrip contest where no one's self-worth is at stake. It is also distinct from the false consensus effect, which is about projecting your own choice onto other people's, and from the spotlight effect, which is about how much attention you think you are getting. This one is about who gets the credit. Yamashiro and Roediger show the same availability account working at group level, where making outgroup events easier to retrieve cut the share of national history that residents claimed for their own state.",
+  "sources": [
+    {
+      "text": "Ross, M., & Sicoly, F. (1979). Egocentric biases in availability and attribution. Journal of Personality and Social Psychology, 37(3), 322-336.",
+      "doi": "10.1037/0022-3514.37.3.322",
+      "url": "https://doi.org/10.1037/0022-3514.37.3.322",
+      "type": "primary"
+    },
+    {
+      "text": "Schroeder, J., Caruso, E. M., & Epley, N. (2016). Many hands make overlooked work: Over-claiming of responsibility increases with group size. Journal of Experimental Psychology: Applied, 22(2), 238-246.",
+      "doi": "10.1037/xap0000080",
+      "url": "https://doi.org/10.1037/xap0000080",
+      "type": "replication"
+    },
+    {
+      "text": "Caruso, E. M., Epley, N., & Bazerman, M. H. (2006). The costs and benefits of undoing egocentric responsibility assessments in groups. Journal of Personality and Social Psychology, 91(5), 857-871.",
+      "doi": "10.1037/0022-3514.91.5.857",
+      "url": "https://doi.org/10.1037/0022-3514.91.5.857",
+      "type": "extension"
+    },
+    {
+      "text": "Stinson, C., Kagan, I., & Pooresmaeili, A. (2024). The contribution of sensory information asymmetry and bias of attribution to egocentric tendencies in effort comparison tasks. Frontiers in Psychology, 15, 1304372.",
+      "doi": "10.3389/fpsyg.2024.1304372",
+      "url": "https://doi.org/10.3389/fpsyg.2024.1304372",
+      "type": "critique"
+    },
+    {
+      "text": "Yamashiro, J. K., & Roediger, H. L. (2021). Biased collective memories and historical overclaiming: An availability heuristic account. Memory & Cognition, 49(2), 311-322.",
+      "doi": "10.3758/s13421-020-01090-w",
+      "url": "https://doi.org/10.3758/s13421-020-01090-w",
+      "type": "extension"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
