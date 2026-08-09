@@ -13,18 +13,18 @@
     "year": 2003,
     "who": "Joshua Knobe",
     "where": "Analysis",
-    "note": "The paper is four pages long and reports one questionnaire study run on people in a Manhattan public park. It became one of the founding results of experimental philosophy."
+    "note": "The paper is short and reports two questionnaire studies run on people in a Manhattan public park, 78 subjects in the first and 42 in the second. It became one of the founding results of experimental philosophy."
   },
-  "evidence": "In the original, 82% said the chairman harmed the environment intentionally and 23% said he helped it intentionally. The same vignette also produced more blame for the harm than praise for the help, and the amount of blame or praise correlated with the intentionality judgement, which is the link the effect turns on.",
+  "evidence": "In the first experiment 82% said the chairman harmed the environment intentionally and 23% said he helped it intentionally, χ2(1, N = 78) = 27.2, p < .001. The second swapped the corporate story for a lieutenant sending a squad into or out of enemy fire. There 77% called the harmful side effect intentional and 70% said the helpful one was not, χ2(1, N = 42) = 9.5, p < .01. Knobe then pooled the two experiments to compare blame with praise. Blame in the harm conditions averaged 4.8 on a scale of 0 to 6 and praise in the help conditions 1.4, t(120) = 8.4, p < .001, and the rating correlated with the intentionality judgement at r(120) = .53. That correlation is the link the effect turns on, and it rests on the two experiments together rather than on the chairman vignette alone.",
   "replication": {
     "state": "replicated",
-    "headline": "Across 7,982 people in 36 countries the asymmetry came back larger than in the original park questionnaire.",
-    "detail": "Many Labs 2 replaced the yes-or-no question with a seven-point scale, which is a more sensitive measure of the same judgement. Participants in the harm condition rated the side effect as intentional at 5.34 and those in the help condition at 2.17, giving d = 1.75. The original figure was d = 1.45, with a confidence interval running from 0.79 to 2.77 on a sample of 78. Effects this large surviving a preregistered test at this scale are uncommon in this literature.",
+    "headline": "Across 7,982 people at the 61 sites that ran this vignette the asymmetry came back larger than in the original park questionnaire.",
+    "detail": "Many Labs 2 replaced the yes-or-no question with a seven-point scale, which is a more sensitive measure of the same judgement. Participants in the harm condition rated the side effect as intentional at 5.34 and those in the help condition at 2.17, giving d = 1.75, 95% CI 1.70 to 1.80. The original figure was d = 1.45, with a confidence interval running from 0.79 to 2.77 on a sample of 78. The vignette sat in the project's second slate, which 61 of the 125 samples completed. Effects this large surviving a preregistered test at this scale are uncommon in this literature.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 125,
+      "sites": 61,
       "n": 7982
     },
     "original": {
@@ -39,10 +39,15 @@
     "replicated": {
       "es": 1.75,
       "esType": "d",
+      "ci": [
+        1.7,
+        1.8
+      ],
+      "ciLevel": 95,
       "weighting": "aggregate"
     }
   },
-  "limits": "No confidence interval is printed for the replication. The paper gives the point estimate, the means, the standard deviations and the t statistic, but not an interval, and computing one here would put a number on the page that no source contains. What is not settled by any of this is why the asymmetry happens. Competing accounts have it as a fact about the concept of intentional action, as blame leaking into an unrelated judgement, and as people reading the chairman's indifference to harm as itself a kind of endorsement. The experiment separates none of these, and a robust effect with three live explanations is a smaller result than it looks.",
+  "limits": "The effect was one of the least uniform in Many Labs 2. Its I² ran above 75%, a level only one other effect in the project reached, and it was one of three whose size was moderated by whether the sample came from a WEIRD country. A large average therefore hides real variation between sites. What is not settled by any of this is why the asymmetry happens. Competing accounts have it as a fact about the concept of intentional action, as blame leaking into an unrelated judgement, and as people reading the chairman's indifference to harm as itself a kind of endorsement. The experiment separates none of these, and a robust effect with three live explanations is a smaller result than it looks.",
   "misreadings": "It is often presented as showing that people are incoherent about intention. A more careful reading is that the everyday concept of doing something intentionally may simply include a moral component, in which case the answers are consistent and the philosophical theory was the thing that was wrong. It is also cited as evidence that moral judgement precedes all reasoning, which is a much larger claim than one vignette supports.",
   "sources": [
     {
@@ -58,5 +63,5 @@
       "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-09"
 }
