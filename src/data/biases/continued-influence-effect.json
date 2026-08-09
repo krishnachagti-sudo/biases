@@ -1,0 +1,81 @@
+{
+  "no": 192,
+  "slug": "continued-influence-effect",
+  "name": "Continued influence effect",
+  "aliases": ["CIE", "Continued influence of misinformation", "Misinformation persistence"],
+  "category": "memory",
+  "statement": "People go on using a piece of information in their reasoning after it has been clearly retracted, even when they remember the retraction.",
+  "meaning": "The claim is about inference, not belief. A participant reads a story that unfolds in numbered messages, one of which is later corrected by a credible source in the story. Afterwards they answer open questions about why things happened. The measure is how often the retracted detail turns up in those explanations. Recall of the retraction is checked separately, and the effect is defined by the gap between people who remember the correction and people who nonetheless reason from what it corrected. Johnson and Seifert named the effect in 1994. The size of a correction's remaining shortfall, rather than its failure, is what the literature argues about. Ross, Lepper and Hubbard's debriefing paradigm from 1975 studies a different thing, the persistence of impressions about the self and other people after the evidence for them is withdrawn.",
+  "origin": {
+    "year": 1994,
+    "who": "Hollyn M. Johnson and Colleen M. Seifert",
+    "where": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+    "note": "Their paper reports five experiments with American psychology students and gives the effect its name. The warehouse fire narrative was not theirs. Laurent, Kosinski and Rusinek record that the content of Experiment 1A came from Wilkes and Leatherbarrow's 1988 study of how people edit episodic memory after an error is identified."
+  },
+  "evidence": "The paradigm is a short news story told in about fifteen separate messages. Ecker, Lewandowsky and Tang describe the original as a fictitious warehouse fire, blamed on volatile materials stored carelessly in a closet, with participants later told the closet had been empty. Laurent and colleagues set out the design of Experiment 1A in detail. One group read the version carrying the false detail, corrected at message thirteen by a police investigator. A control group read the true version from the start, with the closet described as empty and the later message carrying unrelated news. Both groups then answered recall and inference questions. Recall was comparable and the misinformed group referred to the retracted detail more often. Ecker, Lewandowsky and Tang ran a related design with 125 undergraduates, five conditions of 25, and a minibus accident whose passengers were described as elderly and then not. Against the no-retraction baseline, a bare retraction did not reduce references to the misinformation, at F(1,120) = 2.29, p = .13. A specific warning about the effect, given before reading, did reduce them.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A direct replication of Johnson and Seifert's Experiment 1A in French found the effect at d = 0.688, and two meta-analyses find a residue after correction.",
+    "detail": "Laurent, Kosinski and Rusinek translated the original text into French and ran it online. They recruited 52 people and excluded eight who ignored the scoring instructions, leaving 21 in the misinformation group and 23 in the control. Inference questions asked participants to spread ten points across four answers, one of them tied to the retracted detail. The misinformation group gave those answers more points, at 21.667 against 15.783, t(42) = 2.28, p = 0.028, d = 0.688 with a 95% interval of 0.075 to 1.294. Recall did not differ, at U = 237, p = 0.924. The authors put the original Experiment 1A at d = 1.521 and note their own estimate is lower. That figure for the original comes from their paper, not from Johnson and Seifert's, which is paywalled. Connor Desai and Reimers ran the paradigm online four times, with 78 and 75 participants and then a preregistered pair totalling 323. They saw continued reference to the corrected detail in every condition of every experiment, with open and closed questions alike. In their first open-question experiment a correction did cut references, at F(2, 75) = 10.73, p < .001, partial eta squared .22. With closed questions in the preregistered run the reduction was larger, at F(2, 163) = 26.90, p < .001, partial eta squared .25. Walter and Tukachinsky pooled 32 studies and 6,527 people and found that correction does not entirely remove the influence of misinformation, at r = -.05, p = .045. Chan, Jones, Hall Jamieson and Albarracin pooled 52 studies and 6,878 people, putting debunking at d = 1.14 to 1.33 and the persistence of the misinformation at d = 0.75 to 1.06.",
+    "study": {
+      "cite": "Laurent, V., Kosinski, T., & Rusinek, S. (2023). I know it's false, but I keep thinking as if it were true: A replication study of Johnson and Seifert's (1994) continued influence effect. Acta Psychologica, 241, 104094.",
+      "doi": "10.1016/j.actpsy.2023.104094",
+      "year": 2023,
+      "n": 44
+    },
+    "replicated": { "es": 0.688, "esType": "d", "ci": [0.075, 1.294], "ciLevel": 95 }
+  },
+  "limits": "The direct replication is small. Forty-four participants gave 80% power to detect d = 0.397 on the authors' own sensitivity analysis, and the lower bound of their interval sits at 0.075. No multi-laboratory project has taken the effect on, and nobody has re-run Johnson and Seifert's paper-booklet group sessions on undergraduates. Connor Desai and Reimers' preregistered open-question experiment found no difference at all between a corrected group and an uncorrected control, at F(2, 154) = 0.62, p = .54. It also found that a group never shown the misinformation, but shown a correction that spelled out what was being corrected, referred to the same detail about as often as the group that had been misinformed. The authors take this to mean the effect may reflect recall stripped of its context rather than a failure to update a mental model. Their study also lost 13% of starters, 375 down to 323, most of them balking at typed answers. The two meta-analyses pool studies that differ in scenario, delay and measure, and neither is a replication project. Walter and Tukachinsky's pooled residue of r = -.05 rests on p = .045.",
+  "misreadings": "The finding is not that corrections fail. Chan and colleagues put debunking at d = 1.14 to 1.33 against a residual persistence of d = 0.75 to 1.06, so the correction moves people a long way and then stops short. Quoting the residue without the correction inverts the result. The effect is also not the backfire effect, which requires belief to end up higher after a correction than before, and which the large tests have not found. Nor is it belief perseverance in the Ross, Lepper and Hubbard sense, where what survives the withdrawal of evidence is an impression somebody formed about themselves or another person. Motivated reasoning is a fourth thing. The warehouse fire and the minibus crash carry no political stake, and the effect appears in participants who remember the retraction and accept it. Explanations that reach for identity or partisanship are explaining something the paradigm was built to exclude. The paradigm's dependent measure is a count of references in written explanations, not a rating of how true the misinformation seems, and the two do not have to move together.",
+  "sources": [
+    {
+      "text": "Johnson, H. M., & Seifert, C. M. (1994). Sources of the continued influence effect: When misinformation in memory affects later inferences. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20(6), 1420-1436. Paywalled; its design and its effect size are quoted here from Laurent and colleagues and from Ecker, Lewandowsky and Tang.",
+      "doi": "10.1037/0278-7393.20.6.1420",
+      "url": "https://doi.org/10.1037/0278-7393.20.6.1420",
+      "type": "primary"
+    },
+    {
+      "text": "Wilkes, A. L., & Leatherbarrow, M. (1988). Editing episodic memory following the identification of error. The Quarterly Journal of Experimental Psychology Section A, 40(2), 361-387. Cited for the antecedent narrative; not read in full.",
+      "doi": "10.1080/02724988843000168",
+      "url": "https://doi.org/10.1080/02724988843000168",
+      "type": "primary"
+    },
+    {
+      "text": "Laurent, V., Kosinski, T., & Rusinek, S. (2023). I know it's false, but I keep thinking as if it were true: A replication study of Johnson and Seifert's (1994) continued influence effect. Acta Psychologica, 241, 104094.",
+      "doi": "10.1016/j.actpsy.2023.104094",
+      "url": "https://lilloa.hal.science/hal-04312002/document",
+      "type": "replication"
+    },
+    {
+      "text": "Connor Desai, S., & Reimers, S. (2019). Comparing the use of open and closed questions for Web-based measures of the continued-influence effect. Behavior Research Methods, 51(3), 1426-1440.",
+      "doi": "10.3758/s13428-018-1066-z",
+      "url": "https://openaccess.city.ac.uk/id/eprint/19831/",
+      "type": "replication"
+    },
+    {
+      "text": "Ecker, U. K. H., Lewandowsky, S., & Tang, D. T. W. (2010). Explicit warnings reduce but do not eliminate the continued influence of misinformation. Memory & Cognition, 38(8), 1087-1100.",
+      "doi": "10.3758/MC.38.8.1087",
+      "url": "https://doi.org/10.3758/MC.38.8.1087",
+      "type": "primary"
+    },
+    {
+      "text": "Walter, N., & Tukachinsky, R. (2020). A meta-analytic examination of the continued influence of misinformation in the face of correction: How powerful is it, why does it happen, and how to stop it? Communication Research, 47(2), 155-177. Figures quoted here from the abstract at Crossref.",
+      "doi": "10.1177/0093650219854600",
+      "url": "https://doi.org/10.1177/0093650219854600",
+      "type": "commentary"
+    },
+    {
+      "text": "Chan, M. S., Jones, C. R., Hall Jamieson, K., & Albarracin, D. (2017). Debunking: A meta-analysis of the psychological efficacy of messages countering misinformation. Psychological Science, 28(11), 1531-1546. Figures quoted here from the abstract at Crossref.",
+      "doi": "10.1177/0956797617714579",
+      "url": "https://doi.org/10.1177/0956797617714579",
+      "type": "commentary"
+    },
+    {
+      "text": "Ross, L., Lepper, M. R., & Hubbard, M. (1975). Perseverance in self-perception and social perception: Biased attributional processes in the debriefing paradigm. Journal of Personality and Social Psychology, 32(5), 880-892. Cited only to mark the separate effect it names.",
+      "doi": "10.1037/0022-3514.32.5.880",
+      "url": "https://doi.org/10.1037/0022-3514.32.5.880",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
