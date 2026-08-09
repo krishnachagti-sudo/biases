@@ -1,0 +1,74 @@
+{
+  "no": 223,
+  "slug": "deviancy-amplification-spiral",
+  "name": "Deviancy amplification spiral",
+  "aliases": [
+    "Deviance amplification",
+    "Deviation amplification",
+    "Moral panic spiral"
+  ],
+  "category": "social",
+  "statement": "A hard reaction to a small deviation is held to enlarge it, because coverage and policing make the deviants more visible and more separate, which brings a harder reaction again.",
+  "meaning": "The model is a feedback loop with four steps. A minor deviation is noticed and treated as worth punishing. The people involved are separated from ordinary society and come to see themselves as the thing they have been called. They group with others in the same position and behave more like the label, which draws heavier control, and the loop turns again. The media supply the step that makes the loop public, because most people learn about deviance from reports rather than from contact. Cohen's addition was to name the audience side of it. A moral panic is a period in which a group is defined as a threat to society's values, presented by the press in a stylised way, and denounced by editors, bishops, politicians and accredited experts. The claim is about the reaction, not about the original behaviour. It says the response to a problem is part of what the problem becomes.",
+  "origin": {
+    "year": 1964,
+    "who": "Leslie T. Wilkins",
+    "where": "Social Deviance: Social Policy, Action and Research, Tavistock, 311 pages",
+    "note": "Wilkins set out the feedback sequence in chapter 4 and called it deviation amplification. That book was not readable here, and its content reaches this page through Stanley Cohen's account of it, which describes the language as mechanistic and derived from cybernetic theory. The idea travels now under Cohen's name because of Folk Devils and Moral Panics, first published in 1972 by MacGibbon and Kee, which applied the model to the mods and rockers. Cohen credits the phrase moral panic to Jock Young, in a 1971 chapter of Cohen's own edited collection Images of Deviance, at page 37, and adds that both men probably took it from Marshall McLuhan's Understanding Media of 1964."
+  },
+  "evidence": "Cohen's fieldwork ran from 1964 to 1967 and covered three years of bank holidays from Easter 1964. He gathered national and local press, tape recordings of BBC news over the holiday weekends, Hansard, council papers, court records and his own observation at the resorts. One agency cutting file on Margate over Whitsun 1964 held 724 items dated between 15 May and 12 June, of which 223 were editorials or columns and 121 were letters. The first event was at Clacton over Easter 1964, when Easter Sunday was the coldest for eighty years. Windows were broken, some beach huts were wrecked, and one boy fired a starting pistol in the air. Ninety-seven people were arrested and twenty-four were charged, of whom twenty-three had previous convictions. About a tenth of the Clacton charges involved violence, and others were for stealing half a pint of petrol and for obtaining an ice cream by fraud. Local authorities put the damage at £513 in Clacton, £100 in Bournemouth, £400 in Brighton and £250 in Margate. Police overtime at Brighton over Whitsun 1964 came to £2,000, four times the Clacton damage bill, and Brighton's overtime across the next four bank holidays totalled £17,000. Cohen's evidence for the amplification step is observation and interview rather than measurement. He describes police reading hairstyle and dress as signs of trouble, magistrates using their powers to make examples, and crowds hardening against the police as the enemy shifted from rival group to force.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No attempt to repeat Cohen's analysis or to measure a full amplification loop was found, and the quantitative work that exists tests one link at a time.",
+    "detail": "Crossref searches for replications of Cohen or of Wilkins returned commentary and later case studies rather than repeat tests, and the reference lists of the papers read here point the same way. Two links have been measured separately. On the first, running from coverage to public alarm, Lowry, Nio and Leitner tracked network television crime reporting, survey answers and FBI crime rates from 1978 to 1998. The share of Americans naming crime as the most important problem facing the country rose from 5% in March 1992 to 52% in August 1994, and their television variables accounted for almost four times more variance in that share than the crime rates did. On the second, running from official reaction to further deviance, Petrosino, Turpin-Petrosino and Guckenburg pooled 29 controlled trials covering 7,304 juveniles reported over 35 years. Almost all results were negative in direction across prevalence, incidence, severity and self-report, and their conclusion is that formal juvenile justice processing appears to increase delinquency rather than reduce it. The comparison matters: trials that set processing against a diversion programme gave much larger negative effects than trials that set it against doing nothing. Augustyn, Ward, Krohn and Dong followed 312 parent and child dyads in Rochester and report that involuntary police contact between ages 14 and 16 predicted higher self-reported offending at 17, with the effect larger where a parent had an arrest record. They call this deviance amplification. Neither line of work tests the loop, and neither involves the press. Cohen's own verdict in the third edition of 2002 was that the link between moral panics and folk devils is the book's weakest, and that critiques of stimulus and response models had hardly touched what he called the thin idea of media-induced deviancy amplification."
+  },
+  "limits": "Wilkins's book could not be read. Searches at the Internet Archive returned a lending copy whose text is not open, and the full-text endpoints returned nothing, so his wording reaches this page through Cohen's citation of his chapter 4. Young's Drugtakers and his 1971 chapter on the police as amplifiers were not obtained either, and are named here rather than quoted. Cohen's study is one case, worked up from documents and observation after the events, and it reports no measurement of deviance before and after the coverage. He says so himself: he contrasts the amplification model with disaster research, where the sequence has been established empirically, and writes that this is by no means the case for reactions to deviance. Petrosino and colleagues' pooled effect sizes could not be read, because Wiley and SAGE both returned 403 and the open repository copies were gone. The United States National Institute of Justice practice profile gives the prevalence result as d = -.109 across 27 experiments, and that figure reaches this page through the profile rather than through the review, so it is not entered in this site's structured effect-size fields. The Augustyn figures are associations in an observational cohort, not an experiment. Cultivation and the fear-of-crime literature carry the media half of the argument, and this site covers that separately under mean world syndrome, which reports pooled correlations near .10 and two reanalyses that removed them.",
+  "misreadings": "The model is not the claim that reporting violence makes people violent. It says that the reaction sorts people into a category, and that being sorted changes what they do next. The second error is treating amplification as automatic. Cohen calls the sequence typical rather than inevitable, and devotes space to de-amplification, in which constant harassment makes the identity unattractive and new recruits stay away. The third is reading moral panic and deviancy amplification as the same idea. One is a description of how a public reaction is organised, the other a causal claim about what that reaction does, and Cohen kept them apart while conceding the join between them was weak. The fourth concerns the famous numbers. The Daily Express and Daily Mirror headlines after Clacton reported 97 arrests, and 97 arrests is what happened. Cohen's charge was over-reporting of scale and menace, in phrases such as orgy of destruction and screaming mob, and in the generic plural that turned one overturned boat into boats. He did not argue that the events were invented. A £513 damage bill and a starting pistol are still a £513 damage bill and a starting pistol.",
+  "sources": [
+    {
+      "text": "Cohen, S. (2011). Folk Devils and Moral Panics: The Creation of the Mods and Rockers. Routledge Classics. First published 1972 by MacGibbon and Kee; third edition 2002.",
+      "doi": "10.4324/9780203828250",
+      "url": "https://doi.org/10.4324/9780203828250",
+      "type": "primary"
+    },
+    {
+      "text": "Wilkins, L. T. (1964). Social Deviance: Social Policy, Action and Research. London: Tavistock, 311 pages. Text not readable; described on this page from Cohen's account of its chapter 4.",
+      "url": "https://archive.org/details/socialdevianceso0000wilk",
+      "type": "primary"
+    },
+    {
+      "text": "Young, J. (1971). The role of the police as amplifiers of deviancy, negotiators of reality and translators of fantasy: Some aspects of our present system of drug control as seen in Notting Hill. In S. Cohen (Ed.), Images of Deviance. Harmondsworth: Penguin. Not obtained; cited here as Cohen cites it.",
+      "url": "https://openlibrary.org/works/OL3812152W/Images_of_deviance",
+      "type": "primary"
+    },
+    {
+      "text": "Young, J. (1972). The Drugtakers: The Social Meaning of Drug Use. London: Paladin. Not obtained.",
+      "url": "https://archive.org/details/drugtakerssocial0000youn_g5y2",
+      "type": "primary"
+    },
+    {
+      "text": "Lowry, D. T., Nio, T. C. J., & Leitner, D. W. (2003). Setting the public fear agenda: A longitudinal analysis of network TV crime reporting, public perceptions of crime, and FBI crime statistics. Journal of Communication, 53(1), 61-73.",
+      "doi": "10.1111/j.1460-2466.2003.tb03005.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.2003.tb03005.x",
+      "type": "replication"
+    },
+    {
+      "text": "Petrosino, A., Turpin-Petrosino, C., & Guckenburg, S. (2010). Formal system processing of juveniles: Effects on delinquency. Campbell Systematic Reviews, 6(1), 1-88.",
+      "doi": "10.4073/csr.2010.1",
+      "url": "https://doi.org/10.4073/csr.2010.1",
+      "type": "replication"
+    },
+    {
+      "text": "National Institute of Justice. Practice profile: Formal system processing for juveniles. CrimeSolutions. Source for the d = -.109 prevalence figure quoted on this page.",
+      "url": "https://crimesolutions.ojp.gov/ratedpractices/formal-system-processing-juveniles",
+      "type": "commentary"
+    },
+    {
+      "text": "Augustyn, M. B., Ward, J. T., Krohn, M. D., & Dong, B. (2019). Criminal justice contact across generations: Assessing the intergenerational labeling hypothesis. Journal of Developmental and Life-Course Criminology, 5(2), 137-175.",
+      "doi": "10.1007/s40865-019-00118-3",
+      "url": "https://doi.org/10.1007/s40865-019-00118-3",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
