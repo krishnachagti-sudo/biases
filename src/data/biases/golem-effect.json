@@ -1,0 +1,84 @@
+{
+  "no": 141,
+  "slug": "golem-effect",
+  "name": "Golem effect",
+  "aliases": [
+    "Negative Pygmalion effect",
+    "Negative expectancy effect",
+    "Pygmalion in reverse"
+  ],
+  "category": "social",
+  "statement": "Low expectations held by a teacher or a manager are said to depress the performance of the people held in them, the negative mirror of the Pygmalion effect.",
+  "meaning": "The claim is causal and it runs from an adult's low belief to a subordinate's measured output. Symmetry is the part that has to be argued rather than assumed. That raising expectations helps says nothing about whether lowering them hurts, and the two directions could differ in size, in mechanism or in sign. The name comes from Babad, Inbar and Rosenthal, who took it from Hebrew slang, where golem means oaf or fool, and from the Jewish legend of an animated being that turned monstrous. Two neighbouring entries carry the positive direction. Teacher expectations and pupil IQ belong to the Pygmalion effect. The general mechanism belongs to the self-fulfilling prophecy.",
+  "origin": {
+    "year": 1982,
+    "who": "Elisha Y. Babad, Jacinto Inbar and Robert Rosenthal",
+    "where": "Journal of Educational Psychology, volume 74, issue 4, pages 459-474",
+    "note": "The paper named the negative direction and separated it from the positive one, which it called Galatea. It also drew the distinction the entry turns on, between teachers susceptible to biasing information and teachers who are not."
+  },
+  "evidence": "Babad, Inbar and Rosenthal identified 26 student teachers as biased or unbiased by how far their scoring of drawings shifted when they were told the artist was a high-status or a low-status pupil. Three groups of pupils followed, 202 in all: a randomly assigned high-expectancy group, and high-potential and low-potential groups the teachers nominated themselves. High-bias teachers treated their nominated low-potential pupils badly while treating the randomly assigned group as well as their own high-potential nominees. Unbiased teachers treated all three groups alike. The abstract reports the strongest and most consistent Golem effects for behavioural signs of dogmatism, and says the pattern appeared in pupils' performance on specially designed tasks as well as in teachers' behaviour. The low-expectancy group was nominated rather than randomised, so the negative half of that design is quasi-experimental. Everything after it splits into two kinds. The first prevents low expectations instead of inducing them. Oz and Eden told squad leaders in a military unit that low physical-fitness scores do not predict later performance, and left control squad leaders to interpret the scores themselves; low scorers under the treated leaders improved more. Reynolds and Leung and Sy, who describe that study, put the design at 17 treatment squad leaders against 17 controls and call the procedure de-golemisation. Davidson and Eden ran two field experiments in the same spirit among women leading disadvantaged women, telling experimental leaders their trainees had higher than usual potential, and found the predicted effects in both. Neither study lowered anybody's expectations. The second kind induces the low expectation directly and is rare. Reynolds gave three support instructors a class of undergraduates each, told one that her group had done well on a management-acumen test, told the second that her group had done badly, and told the third nothing. Assignment was random and neither instructors nor students knew it. On the follow-up test of the same kind, scores fell in every condition: by 0.36 points under positive expectations, by 1.05 in the control group and by 1.89 under negative expectations, from pretest means near 10.8 in all three. On a second and unrelated task, folding origami cups in five minutes, the negative group made 20.82 cups on average, the positive group 17.87, and the control group 23.70. Later work is correlational. Leung and Sy surveyed 202 followers and 101 leaders in real workgroups and found that a group's negative view of what followers are like predicted lower follower self-efficacy, with an unstandardised coefficient of -0.27.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication of any Golem experiment was found. The literature is four decades old and small enough to list.",
+    "detail": "Searches of Crossref, PubMed and the open web turned up no repeat of Babad, Inbar and Rosenthal's design, no repeat of Oz and Eden's, and no repeat of Reynolds's. There is no meta-analysis of the Golem effect. Papers in the literature say the same thing about its size. Davidson and Eden's abstract, in 2000, states that only one experiment had then demonstrated the Golem effect. Reynolds wrote in 2007 that the effect had gone unproven, and that Babad, Inbar and Rosenthal, Oz and Eden, and Davidson and Eden had all declined to apply a treatment of negative expectations. He called his own study the first direct test in a management or classroom setting. Leung and Sy wrote in 2018 that research on Golem effects is scant, that the ethical risk had deterred researchers for nearly half a century, and that they knew of no field study of the effect at work. A PubMed title and abstract search on 9 August 2026 for 'golem effect' or 'golem effects' returns three records in total, against 34 for the Pygmalion equivalent. One of the three is a 2026 narrative review of the Pygmalion effect in surgical training."
+  },
+  "limits": "The ethical obstacle is the whole shape of this literature. A study cannot randomly assign people to be thought stupid by their teacher or their commander, so almost every design either measures low expectations that arose on their own, or blocks them from forming and reads the effect off the untreated controls. Eden's review of field methods sets this out as a deliberate strategy, inverting a harmful treatment so that the harm shows up in the group that was left alone. It buys ethical clearance at a price: the control condition carries the effect, and nothing was manipulated in the direction the theory is about. Oz and Eden's paper and Davidson and Eden's paper are both closed access and neither was opened here. Their designs and results are reported above as Reynolds, Leung and Sy, and Eden's own later review describe them, and no effect size from either appears on this page. Babad, Inbar and Rosenthal's paper is also closed; the account above comes from the abstract carried on the Hebrew University's research record, which gives no statistics. Reynolds's study is the one direct induction, and it is a single laboratory experiment on undergraduates at one university, run over four years, with no effect size reported for the negative condition. Where the question has been asked in the reverse direction the answer has come back reversed. Nurmohamed found across four studies that being seen as unlikely to succeed can raise performance, through the wish to prove others wrong, and that it lowers performance only when the doubters look credible. Ma and Zhu report the split within one dataset: employees with fixed mindsets responded to low expectations by avoiding feedback and doing worse, while those with growth mindsets did better.",
+  "misreadings": "The commonest error is to treat the Pygmalion literature as evidence for the Golem effect. It is not, and no amount of positive-expectancy data settles the negative side. Wikipedia's entry attributes to McNatt's meta-analysis the finding that Golem effects hold at about the same magnitude in the workplace; McNatt's subject was Pygmalion interventions, and Golem experiments in the workplace are what the field says it does not have. A second error runs in the opposite direction, treating the absence of trials as proof the effect is imaginary. Nobody has looked hard, for a reason that has nothing to do with the effect being real. The third is to read Oz and Eden or Davidson and Eden as demonstrations that low expectations harm people. Both raised or protected expectations and inferred the harm from the group nobody protected. Reynolds's own numbers repay attention as well. Every group's test score fell, including the group told it was clever, and on the unrelated folding task the group told it was hopeless beat the group told it was clever, while the group told nothing beat them both.",
+  "sources": [
+    {
+      "text": "Babad, E. Y., Inbar, J., & Rosenthal, R. (1982). Pygmalion, Galatea, and the Golem: Investigations of biased and unbiased teachers. Journal of Educational Psychology, 74(4), 459-474. Closed access; abstract read from the Hebrew University of Jerusalem research record.",
+      "doi": "10.1037/0022-0663.74.4.459",
+      "url": "https://cris.huji.ac.il/en/publications/pygmalion-galatea-and-the-golem-investigations-of-biased-and-unbi",
+      "type": "primary"
+    },
+    {
+      "text": "Oz, S., & Eden, D. (1994). Restraining the Golem: Boosting performance by changing the interpretation of low scores. Journal of Applied Psychology, 79(5), 744-754. Closed access; not opened for this entry. Design and result reported above as Reynolds (2007) and Leung and Sy (2018) describe them.",
+      "doi": "10.1037/0021-9010.79.5.744",
+      "url": "https://doi.org/10.1037/0021-9010.79.5.744",
+      "type": "primary"
+    },
+    {
+      "text": "Davidson, O. B., & Eden, D. (2000). Remedial self-fulfilling prophecy: Two field experiments to prevent Golem effects among disadvantaged women. Journal of Applied Psychology, 85(3), 386-398. Abstract read at PubMed; source for the statement that only one experiment had then demonstrated the Golem effect.",
+      "doi": "10.1037/0021-9010.85.3.386",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10900813/",
+      "type": "primary"
+    },
+    {
+      "text": "Reynolds, D. (2007). Restraining Golem and Harnessing Pygmalion in the Classroom: A Laboratory Study of Managerial Expectations and Task Design. Academy of Management Learning & Education, 6(4), 475-483. Full text read.",
+      "doi": "10.5465/amle.2007.27694947",
+      "url": "http://smartfile.s3.amazonaws.com/e2c7482630406945015caf56704f2890/uploads/2016/12/Golem-and-Pygmalion.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Leung, A., & Sy, T. (2018). I Am as Incompetent as the Prototypical Group Member: An Investigation of Naturally Occurring Golem Effects in Work Groups. Frontiers in Psychology, 9, 1581.",
+      "doi": "10.3389/fpsyg.2018.01581",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6141855/",
+      "type": "primary"
+    },
+    {
+      "text": "Eden, D. (2017). Field Experiments in Organizations. Annual Review of Organizational Psychology and Organizational Behavior, 4, 91-122. Source for the argument that a harmful treatment can be studied by inverting it.",
+      "doi": "10.1146/annurev-orgpsych-041015-062400",
+      "url": "https://cebma.org/assets/Uploads/Eden-2017.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Nurmohamed, S. (2020). The Underdog Effect: When Low Expectations Increase Performance. Academy of Management Journal, 63(4), 1106-1133. Abstract and study summary read; no figure from it appears above.",
+      "doi": "10.5465/amj.2017.0181",
+      "url": "https://doi.org/10.5465/amj.2017.0181",
+      "type": "contrary"
+    },
+    {
+      "text": "Ma, J., & Zhu, M. (2023). Accept or change your fate: Exploring the Golem effect and underdog effect of underdog expectations. Acta Psychologica Sinica, 55(6), 1029-1048. English abstract read at the journal.",
+      "doi": "10.3724/SP.J.1041.2023.01029",
+      "url": "https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2023.01029",
+      "type": "contrary"
+    },
+    {
+      "text": "Vrugt, A. (1990). Negative attitudes, nonverbal behavior and self-fulfilling prophecy in simulated therapy interviews. Journal of Nonverbal Behavior, 14(2), 77-86. Named by Reynolds as the only earlier direct manipulation of negative expectations; not opened for this entry.",
+      "doi": "10.1007/BF01670435",
+      "url": "https://doi.org/10.1007/BF01670435",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-09"
+}
