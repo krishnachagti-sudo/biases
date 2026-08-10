@@ -1,0 +1,121 @@
+{
+  "no": 267,
+  "slug": "group-polarisation",
+  "name": "Group polarisation",
+  "aliases": [
+    "Group polarization",
+    "Groupshift",
+    "Choice shift",
+    "Risky shift",
+    "Cautious shift"
+  ],
+  "category": "social",
+  "statement": "Discussion among people who already lean the same way moves their average position further in that direction, which is why the original 'risky shift' label was abandoned.",
+  "meaning": "The claim is about an average, and about a direction. Members of a group state a position privately, talk, and state it again. Myers and Lamm's group polarisation hypothesis is that the average of the second set of responses will be more extreme than the average of the first, in the same direction the first set already leaned. Two things it does not mean. It is not a claim that the group splits into opposed camps, which is the ordinary sense of the word and which Myers and Lamm flag as different from the technical one. It is not a claim about individuals either. Fraser, Gouge and Billig's example, as Myers and Lamm report it, has three people at +3, +1 and -2 on a seven-point scale all settling on +1 after discussion. The mean moves from +0.67 to +1, so the group has polarised, and no member is more extreme than before. Since group members generally converge, Myers and Lamm call that pattern typical. The related idea of extremisation, movement away from neutrality in any direction, is broader: every polarisation is an extremisation, and not the reverse.",
+  "origin": {
+    "year": 1961,
+    "who": "James A. F. Stoner",
+    "where": "an M.S. thesis at the Massachusetts Institute of Technology, School of Industrial Management, supervised by Donald G. Marquis",
+    "note": "The thesis is 'A comparison of individual and group decisions involving risk'. The name came later and from other people. Moscovici and Zavalloni's 1969 paper 'The group as a polarizer of attitudes' supplied the word, and Myers and Lamm's 1976 review turned it into a general hypothesis. Myers and Lamm date Stoner's discovery to 1961 and describe the method: six people at a time answered choice-dilemmas items from Kogan and Wallach, advising a fictional character on how much risk to accept, then discussed each item until they agreed."
+  },
+  "evidence": "The choice-dilemmas task asks for the lowest probability of success at which a character should attempt a risky option, on a scale from 1 in 10 to 10 in 10. Myers and Lamm report that groups came out riskier than the average of their members, generally by about one scale unit or less, and that the result was found in a dozen different nations. They also report that group decision making is not needed for it: a short discussion followed by private answers shifts the average too. Then the direction reversed on some items. Stoner's 1968 study sorted life-situation items by the values his participants held. Where widely held values favoured the risky option and people rated themselves as relatively risky, unanimous group decisions were riskier than the individual average. Where the values favoured caution, the group decisions tended to be more cautious. Myers and Lamm treat that as settled and call the risky-shift label a misnomer. What replaced it was an item-level regularity: across items, the mean initial response and the mean shift correlate at generally .70 to .90, a figure they attribute to Teger and Pruitt. Items starting below about 6 in 10 tend to shift risky, and items starting above 7 in 10 often shift the other way. Moscovici and Zavalloni had already found the same shape outside risk, with French students' positive view of De Gaulle and negative view of Americans both strengthening after discussion, as Myers and Lamm describe it. Two mechanisms carried the later literature: comparison with the positions of others, and the pool of arguments a discussion brings out.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The original claim, that groups decide more riskily than their members, did not survive the 1960s; the restated claim about shifting toward the pre-existing lean holds in most tests, though its own reviewers call the shift small and often absent.",
+    "detail": "Myers and Lamm reviewed group discussion experiments on attitudes, jury decisions, ethical decisions, judgments, person perception, negotiation and risk measures other than choice dilemmas, and found them generally consistent with the polarisation hypothesis. Their own summary is guarded. Group enhancement of initial mean tendencies is not always observed, they write, and when it does occur it is generally of small absolute magnitude. They add that negative results have probably gone unreported more often than rejections of the null, citing Greenwald. The clearest test outside the laboratory is Schkade, Sunstein and Hastie's Colorado study. Sixty-three citizens were recruited in Boulder, a liberal city, and Colorado Springs, a conservative one, and put in ten like-minded groups to discuss global warming, affirmative action and civil unions, rating each issue privately on a one-to-ten scale before and after. Twenty-six of the thirty group discussions, 87 per cent, moved the individual mean in the direction the group already leaned. The difference in shift between the two locations gave F(1,61) = 56.1, p < .001. The gap between the two towns' overall means widened from 4.59 before discussion to 6.24 after, p < .001. Laboratory work continues to produce the effect and to argue about its cause. Sieber and Ziegler manipulated cognitive load while presenting a group's average attitude and a set of arguments about a tunnel project. With capacity restrained, a high group average produced more polarisation than a low one, M = 3.51 against M = 0.06, F(1, 139) = 3.96, p < .05, d = 0.43. With capacity unrestrained, that difference vanished and argument strength did the work instead.",
+    "study": {
+      "cite": "Schkade, D., Sunstein, C. R., & Hastie, R. (2007). What happened on Deliberation Day? California Law Review, 95(3), 915-940.",
+      "url": "https://lawcat.berkeley.edu/record/1121142/files/fulltext.pdf",
+      "year": 2007,
+      "sites": 2,
+      "n": 63
+    }
+  },
+  "limits": "No effect size for the polarisation effect itself is quoted here, because none was obtained from a paper that was opened. Isenberg's 1986 meta-analysis is paywalled and no abstract for it could be reached at Crossref or Semantic Scholar. Its mean effect sizes of r = .44 for mere exposure and r = .75 for persuasive arguments are quoted here from Sieber and Ziegler's description of it, not from Isenberg, and they are for the two proposed mechanisms rather than for polarisation as such. They are outside the structured fields for that reason. Stoner's 1961 thesis is listed in MIT's repository, and its text is not served without authentication, so its design is reported here as Myers and Lamm describe it. Moscovici and Zavalloni's paper, Fraser, Gouge and Billig's paper and Cartwright's 1971 assessment of the choice-dilemmas literature were verified as bibliographic records only, and what they contain is reported here through Myers and Lamm. A search of Crossref, Semantic Scholar and general web search found no meta-analysis of group polarisation after Isenberg's, and no multi-site or preregistered replication of a choice-dilemmas or group-discussion polarisation experiment. The Colorado study is one country, three issues and ten groups, and its participants were recruited to be like-minded, which is the condition the effect needs.",
+  "misreadings": "Groupthink is the commonest confusion, and it is a different claim. Turner and Pratkanis set out Janis's chain: antecedent conditions foster extreme consensus seeking, which produces symptoms such as illusion of invulnerability and stereotypes of outgroups, which produce defective decision-making performance. That is a claim about decision quality. Group polarisation is a claim about the direction an average moves, and it says nothing about whether the new position is better or worse. The second confusion is the word itself. In political science, polarisation usually means a population dividing, and Iyengar and colleagues use affective polarisation for partisans coming to dislike and distrust the other party. Myers and Lamm's polarisation is an increase in the extremity of one sample's average, and a group can polarise in their sense while every member becomes less extreme. The third is treating the risky shift as the finding. It is the special case that started the field and the label its own reviewers dropped. The fourth is the online story. Bail and colleagues paid Twitter users to follow a bot retweeting the other side for a month, and Republicans became more conservative rather than less, by 0.12 points on a seven-point scale as the most cautious estimate and 0.60 points among the fully compliant; the shift among Democrats was toward the liberal end and not statistically reliable. Nyhan and colleagues went the other way, cutting 23,377 Facebook users' exposure to like-minded sources by about a third during the 2020 election, and found no measurable effect on eight preregistered measures including affective polarisation and ideological extremity. Boxell, Gentzkow and Shapiro report that American polarisation rose fastest in the demographic groups least likely to use the internet. Echo chambers are real as a description of what people see. Their effect on attitudes is not the laboratory effect scaled up.",
+  "sources": [
+    {
+      "text": "Stoner, J. A. F. (1961). A comparison of individual and group decisions involving risk. M.S. thesis, Massachusetts Institute of Technology, School of Industrial Management. Repository metadata consulted; the full text is not served without authentication.",
+      "url": "https://dspace.mit.edu/handle/1721.1/11330",
+      "type": "primary"
+    },
+    {
+      "text": "Stoner, J. A. F. (1968). Risky and cautious shifts in group decisions: The influence of widely held values. Journal of Experimental Social Psychology, 4(4), 442-459. Read from the publisher's abstract as served by Semantic Scholar.",
+      "doi": "10.1016/0022-1031(68)90069-3",
+      "url": "https://doi.org/10.1016/0022-1031(68)90069-3",
+      "type": "primary"
+    },
+    {
+      "text": "Moscovici, S., & Zavalloni, M. (1969). The group as a polarizer of attitudes. Journal of Personality and Social Psychology, 12(2), 125-135. Bibliographic record verified at Crossref; its findings are reported here as Myers and Lamm describe them.",
+      "doi": "10.1037/h0027568",
+      "url": "https://doi.org/10.1037/h0027568",
+      "type": "primary"
+    },
+    {
+      "text": "Myers, D. G., & Lamm, H. (1976). The group polarization phenomenon. Psychological Bulletin, 83(4), 602-627. Full text read.",
+      "doi": "10.1037/0033-2909.83.4.602",
+      "url": "https://pub-fb5027e0bdfb4fc4ab71242ed2116543.r2.dev/uploads/GroupPolarizationPhenomenon.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Fraser, C., Gouge, C., & Billig, M. (1971). Risky shifts, cautious shifts, and group polarization. European Journal of Social Psychology, 1(1), 7-30. Bibliographic record verified at Crossref; the worked example is quoted here from Myers and Lamm.",
+      "doi": "10.1002/ejsp.2420010103",
+      "url": "https://doi.org/10.1002/ejsp.2420010103",
+      "type": "primary"
+    },
+    {
+      "text": "Cartwright, D. (1971). Risk taking by individuals and groups: An assessment of research employing choice dilemmas. Journal of Personality and Social Psychology, 20(3), 361-378. Bibliographic record verified at Crossref; the full text was not opened.",
+      "doi": "10.1037/h0031912",
+      "url": "https://doi.org/10.1037/h0031912",
+      "type": "review"
+    },
+    {
+      "text": "Isenberg, D. J. (1986). Group polarization: A critical review and meta-analysis. Journal of Personality and Social Psychology, 50(6), 1141-1151. Paywalled, with no abstract obtainable at Crossref or Semantic Scholar; its effect sizes are quoted here as Sieber and Ziegler report them.",
+      "doi": "10.1037/0022-3514.50.6.1141",
+      "url": "https://doi.org/10.1037/0022-3514.50.6.1141",
+      "type": "review"
+    },
+    {
+      "text": "Schkade, D., Sunstein, C. R., & Hastie, R. (2007). What happened on Deliberation Day? California Law Review, 95(3), 915-940. Full text read. The same study appears as Schkade, Sunstein and Hastie (2010), 'When deliberation produces extremism', Critical Review, 22(2-3), 227-252.",
+      "url": "https://lawcat.berkeley.edu/record/1121142/files/fulltext.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Sieber, J., & Ziegler, R. (2019). Group polarization revisited: A processing effort account. Personality and Social Psychology Bulletin, 45(10), 1482-1498. Full text read at PubMed Central.",
+      "doi": "10.1177/0146167219833389",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6732819/",
+      "type": "replication"
+    },
+    {
+      "text": "Turner, M. E., & Pratkanis, A. R. (1998). Twenty-five years of groupthink theory and research: Lessons from the evaluation of a theory. Organizational Behavior and Human Decision Processes, 73(2-3), 105-115. Cited here only for its statement of what Janis's model predicts.",
+      "doi": "10.1006/obhd.1998.2756",
+      "url": "https://homepages.se.edu/cvonbergen/files/2013/01/Twenty-Five-Years-of-Groupthink-Theory-and-Research_Lessons-from-the-Evaluation-of-a-Theory.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. Annual Review of Political Science, 22, 129-146. Abstract read at Crossref.",
+      "doi": "10.1146/annurev-polisci-051117-073034",
+      "url": "https://doi.org/10.1146/annurev-polisci-051117-073034",
+      "type": "secondary"
+    },
+    {
+      "text": "Bail, C. A., Argyle, L. P., Brown, T. W., Bumpus, J. P., Chen, H., Hunzaker, M. B. F., Lee, J., Mann, M., Merhout, F., & Volfovsky, A. (2018). Exposure to opposing views on social media can increase political polarization. Proceedings of the National Academy of Sciences, 115(37), 9216-9221. Full text read at PubMed Central.",
+      "doi": "10.1073/pnas.1804840115",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6140520/",
+      "type": "replication"
+    },
+    {
+      "text": "Nyhan, B., Settle, J., Thorson, E., Wojcieszak, M., Barbera, P., et al. (2023). Like-minded sources on Facebook are prevalent but not polarizing. Nature, 620(7972), 137-144. Abstract read at Crossref.",
+      "doi": "10.1038/s41586-023-06297-w",
+      "url": "https://doi.org/10.1038/s41586-023-06297-w",
+      "type": "replication"
+    },
+    {
+      "text": "Boxell, L., Gentzkow, M., & Shapiro, J. M. (2017). Greater internet use is not associated with faster growth in political polarization among US demographic groups. Proceedings of the National Academy of Sciences, 114(40), 10612-10617. Abstract read at Crossref.",
+      "doi": "10.1073/pnas.1706588114",
+      "url": "https://doi.org/10.1073/pnas.1706588114",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
