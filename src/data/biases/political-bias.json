@@ -1,0 +1,86 @@
+{
+  "no": 276,
+  "slug": "political-bias",
+  "name": "Political bias",
+  "aliases": ["Partisan bias", "Partisan motivated reasoning", "Politically motivated reasoning", "Ideological bias"],
+  "category": "belief",
+  "statement": "People judge the same evidence to be stronger when its conclusion favours their own political side.",
+  "meaning": "The claim is tested with a matched-information design. Two groups with opposed politics read material that is identical except for the side its conclusion favours, and the gap between their ratings is the bias. Ditto and colleagues define partisan bias as evaluating otherwise identical information more favourably when it supports one's political beliefs or allegiances than when it challenges them. What the design measures is the difference between two evaluations, not the accuracy of either. Two rival hypotheses sit on top of that measure. The asymmetry hypothesis predicts more bias among conservatives, on the grounds that right-wing citizens score higher on needs for certainty and related traits. The symmetry hypothesis predicts the same level on both sides. Which hypothesis the evidence supports is the live argument, and it has been conducted in print by the people on each end of it.",
+  "origin": {
+    "year": 1979,
+    "who": "Charles G. Lord, Lee Ross and Mark R. Lepper",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their article ran in volume 37, issue 11, pages 2098 to 2109, and the Crossref record confirms the title, journal, volume and pages. It was not read for this entry. Ditto and colleagues describe it as recruiting participants with strong views for and against capital punishment and asking them to rate the methodological quality of fictitious deterrence studies, with both sides calling a study better research when its results supported their view. The label partisan bias was attached to this design much later, in Ditto and colleagues' 2019 meta-analysis. Taber and Lodge's two experiments on affirmative action and gun control arguments, whose abstract reports a prior attitude effect, a disconfirmation bias and a confirmation bias, are the political version most often cited in between."
+  },
+  "evidence": "Ditto and colleagues meta-analysed 51 experimental tests involving more than 18,000 participants, all using the matched-information design in the United States. Their searches returned more than 1,500 articles, chapters and dissertations, of which 42 published and 9 unpublished studies met four inclusion criteria. Mean overall partisan bias was r = .245, 95% CI [.208, .280], p < .001. Split by side, liberals gave r = .235, 95% CI [.192, .276] and conservatives r = .255, 95% CI [.205, .304]. The difference between the two was r = .009, p = .55, 95% CI [-.020, .038]. Guay and Johnston put the same question to two national survey experiments. Their 2018 Lucid sample recruited 2,085 US adults, 1,816 of whom passed two attention checks, and the probability of correctly interpreting numeric evidence rose by 10 to 20 percentage points when the evidence favoured the respondent's own side. In their second experiment, judgements of a study's sample size and of its warrant for causal conclusions moved by 0.15 to 0.30 standard deviations in the same direction. A further 1,816 US adults on the 2018 Cooperative Congressional Election Study repeated the pattern. Across every outcome and all three ways of coding left and right, they report no evidence for the asymmetry hypothesis.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The bias repeats across topics, samples and study designs at r = .245. Whether it is larger on the right is disputed, and the meta-analysis reporting no difference has been attacked on its inputs.",
+    "detail": "Ditto and colleagues found the overall effect significant in every subgroup of all five moderator variables they coded. Published studies gave r = .266, p < .001 against r = .139, p = .003 for unpublished ones, QB = 6.35, p = .012, with both differing from zero. Publication status did not move the left-right difference, which was r = -.001, p = .95 in published studies and r = .054, p = .11 in unpublished ones. Funnel-plot regressions gave a slope of -.12, p = .42 for overall bias and -.01, p = .97 for the difference. By topic the overall effect ran from r = .192 on abortion to r = .334 on environmental policy, with capital punishment at r = .248 and gun control at r = .210. The 95% prediction intervals are wide. Overall bias runs from 0.003 to 0.486 and the conservative-minus-liberal difference from -0.175 to 0.175, which the authors read as true effects varying from study to study and the difference running in both directions. Guay and Johnston reproduced the bias on two national samples and again found no asymmetry. The numeracy version of the claim has fared worse. Persson and colleagues ran a preregistered replication of Kahan and colleagues with a pre-specified analysis plan and report no good evidence for motivated numeracy. Yu and Opfer tested 1,000 US adults on Mechanical Turk and did not find a consistent interaction between numeracy and political orientation, reporting OR = 0.69, 95% CI [0.51, 0.92], p < .05 for the crime-increases problem and OR = 0.85, 95% CI [0.64, 1.13], p = .278 for crime decreases. The interaction with prior attitude was there, at chi-square(1) = 49.19, p < .001.",
+    "study": {
+      "cite": "Ditto, P. H., Liu, B. S., Clark, C. J., Wojcik, S. P., Chen, E. E., Grady, R. H., Celniker, J. B., & Zinger, J. F. (2019). At least bias is bipartisan: A meta-analytic comparison of partisan bias in liberals and conservatives. Perspectives on Psychological Science, 14(2), 273-291.",
+      "doi": "10.1177/1745691617746796",
+      "year": 2019
+    },
+    "replicated": { "es": 0.245, "esType": "r", "ci": [0.208, 0.28], "ciLevel": 95 }
+  },
+  "limits": "Baron and Jost dispute the symmetry finding on its inputs, in the same issue of the same journal. They argue that the 51 studies were assembled for other purposes, so their issues, procedures and materials were chosen in ways that work against detecting an ideological difference, and they note that null differences were obtained in 41 of the 51 experiments. Their second argument is that the bias may not be a bias. Rating congenial evidence as stronger can be rational for someone who already holds the prior, they cite Bayesian analyses of the paradigm, and they point out that no objective standard of accuracy was set against which these judgements could be scored. Ditto and colleagues answer that the studies covered issues at the core of political conflict, that they picked designs least open to a Bayesian reading, and that most included studies never reported liberals and conservatives separately, so the authors had to be emailed for the split. Guay and Johnston audited the same 51 studies from outside the exchange. On their coding 20 distinguish politically motivated reasoning from rational updating, 12 of those use a representative sampling frame, 9 of those cover salient and divisive issues, 7 of those are published, and 4 of the 7 come from a single research group and account for 86% of the combined sample size. The evidence base is American and the studies predate 2019. Ditto and colleagues' own limitations section records that they excluded correlational designs, other experimental designs and other kinds of partisan bias such as selective exposure. Baron and Jost's supplemental material, where they set out what they call anomalous outcomes, was not obtained, and the exchange over it is reported here only as the two published articles describe it.",
+  "misreadings": "The commonest error is reading symmetry in this paradigm as symmetry everywhere. Guay and Johnston's respondents who called themselves extremely conservative scored 0.63 standard deviations higher in need for closure than extremely liberal ones, in the same sample that showed no ideological gap in motivated reasoning. Baron and Jost hold that those domain-general differences are the better guide to American politics. The meta-analytic result is about one measure, and it is silent on selective exposure, on memory and on belief in false claims. The second error runs the other way, treating an average across 51 studies as settling any particular case. The prediction interval for the left-right difference runs from -0.175 to 0.175. The third error is reading bias as irrational. Ditto and colleagues showed 401 Mechanical Turk workers one of four experimental results of this kind and report that more than 90% called each one evidence of biased judgement, which records what people call bias rather than answering the normative question Baron and Jost raise. The fourth is folding motivated numeracy into the replicated core. That is a separate claim, about quantitative skill amplifying the bias rather than curbing it, and two later tests did not find it on political identity. Accusations of political bias are themselves partisan. Ditto and colleagues asked 951 visitors to YourMorals.org how well the word biased described the average Democrat and the average Republican, and Democratic respondents named Republicans while Republican respondents named Democrats.",
+  "sources": [
+    {
+      "text": "Ditto, P. H., Liu, B. S., Clark, C. J., Wojcik, S. P., Chen, E. E., Grady, R. H., Celniker, J. B., & Zinger, J. F. (2019). At least bias is bipartisan: A meta-analytic comparison of partisan bias in liberals and conservatives. Perspectives on Psychological Science, 14(2), 273-291. Full text read from the copy on the authors' university website.",
+      "doi": "10.1177/1745691617746796",
+      "url": "https://doi.org/10.1177/1745691617746796",
+      "type": "primary"
+    },
+    {
+      "text": "Baron, J., & Jost, J. T. (2019). False equivalence: Are liberals and conservatives in the United States equally biased? Perspectives on Psychological Science, 14(2), 292-303. Full text read from the copy on the first author's university website; the supplemental material was not obtained.",
+      "doi": "10.1177/1745691618788876",
+      "url": "https://doi.org/10.1177/1745691618788876",
+      "type": "commentary"
+    },
+    {
+      "text": "Ditto, P. H., Clark, C. J., Liu, B. S., Wojcik, S. P., Chen, E. E., Grady, R. H., Celniker, J. B., & Zinger, J. F. (2019). Partisan bias and its discontents. Perspectives on Psychological Science, 14(2), 304-316.",
+      "doi": "10.1177/1745691618817753",
+      "url": "https://doi.org/10.1177/1745691618817753",
+      "type": "commentary"
+    },
+    {
+      "text": "Guay, B., & Johnston, C. D. (2022). Ideological asymmetries and the determinants of politically motivated reasoning. American Journal of Political Science, 66(2), 285-301. Read from the accepted manuscript posted by the first author.",
+      "doi": "10.1111/ajps.12624",
+      "url": "https://doi.org/10.1111/ajps.12624",
+      "type": "replication"
+    },
+    {
+      "text": "Kahan, D. M., Peters, E., Dawson, E. C., & Slovic, P. (2017). Motivated numeracy and enlightened self-government. Behavioural Public Policy, 1(1), 54-86. Only the abstract at the publisher was obtained; the full text was not read for this entry.",
+      "doi": "10.1017/bpp.2016.2",
+      "url": "https://doi.org/10.1017/bpp.2016.2",
+      "type": "primary"
+    },
+    {
+      "text": "Persson, E., Andersson, D., Koppel, L., Vastfjall, D., & Tinghog, G. (2021). A preregistered replication of motivated numeracy. Cognition, 214, 104768. Abstract read; full text not obtained.",
+      "doi": "10.1016/j.cognition.2021.104768",
+      "url": "https://doi.org/10.1016/j.cognition.2021.104768",
+      "type": "replication"
+    },
+    {
+      "text": "Yu, S., & Opfer, J. E. (2024). Cognitive support for political partisans' understanding of policy data. PLOS ONE, 19(10), e0312088.",
+      "doi": "10.1371/journal.pone.0312088",
+      "url": "https://doi.org/10.1371/journal.pone.0312088",
+      "type": "replication"
+    },
+    {
+      "text": "Lord, C. G., Ross, L., & Lepper, M. R. (1979). Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence. Journal of Personality and Social Psychology, 37(11), 2098-2109. Not read for this entry, and described here as Ditto and colleagues describe it.",
+      "doi": "10.1037/0022-3514.37.11.2098",
+      "url": "https://doi.org/10.1037/0022-3514.37.11.2098",
+      "type": "primary"
+    },
+    {
+      "text": "Taber, C. S., & Lodge, M. (2006). Motivated skepticism in the evaluation of political beliefs. American Journal of Political Science, 50(3), 755-769. Publisher abstract read through Crossref; full text not obtained.",
+      "doi": "10.1111/j.1540-5907.2006.00214.x",
+      "url": "https://doi.org/10.1111/j.1540-5907.2006.00214.x",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
