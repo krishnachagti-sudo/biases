@@ -1,0 +1,52 @@
+{
+  "no": 281,
+  "slug": "distinction-bias",
+  "name": "Distinction bias",
+  "aliases": [
+    "Distinction bias in affective forecasting",
+    "Joint evaluation misprediction"
+  ],
+  "category": "decision",
+  "statement": "Comparing two options side by side makes people overpredict how much the difference between them will matter once they live with only one.",
+  "meaning": "Christopher Hsee and Jiao Zhang's claim is about a mismatch between two moments. A choice is usually made with the alternatives in view, which they call joint evaluation. The chosen option is then lived with alone, which they call single or separate evaluation. Their argument is that the value function for an attribute differs between the two modes. In joint evaluation it is smooth and steep, because a comparison is available. In separate evaluation it is flat except near a reference point, because nothing fixes the scale. A forecaster in joint evaluation reads the difference off the steep curve and expects it to matter, while the experience runs on the flat one. The prediction carries a sharp boundary. Two values on the same side of a reference point differ quantitatively, and those are the differences people overpredict. Two values that straddle the reference point differ qualitatively, and those they do not. Distinction bias is the overprediction, not the comparison.",
+  "origin": {
+    "year": 2004,
+    "who": "Christopher K. Hsee and Jiao Zhang",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper ran three studies. Two tested misprediction of happiness and the third tested mischoice under tradeoffs. No copy of the full text could be retrieved for this entry, so every detail of the 2004 studies given below is read off the 2021 replication paper's account of them, or off the abstract PubMed holds. That abstract offers salary as its example of an attribute and places the work in the literatures on experienced utility, affective forecasting and happiness."
+  },
+  "evidence": "Study 1 asked people to imagine that writing poems was their hobby and that they had tried selling a book of them. They rated how happy they would be, from 1 to 9, at selling no copies, 80, 160 or 240. One group rated all four scenarios. Four other groups rated one scenario each. Zero buyers is the natural reference point, so the step from 0 to 80 is qualitative and the steps between 80, 160 and 240 are quantitative. The joint group's ratings rose at every step. The separate groups did not differ across 80, 160 and 240, and did differ between 0 and 80. Study 2 replaced scenarios with a task, reading a list of 25 negative, 10 negative, 10 positive or 25 positive words, and added groups who performed one task and reported how they actually felt. Hsee and Zhang report the same pattern there: joint evaluation inflated the quantitative gaps and not the shift from negative to positive words. Study 1 ran 249 people across five conditions and Study 2 ran 360 across nine. The paper gives cell means, no standard deviations and no per-cell sample sizes, which the replicators say left too little detail for a direct comparison of effect sizes.",
+  "replication": {
+    "state": "mixed",
+    "headline": "One close replication has been located. It put both prediction studies to 824 people, and the poem-book study replicated in full while the word-reading study did not.",
+    "detail": "Farid Anvari, Jerome Olsen, Wing Yiu Hung and Gilad Feldman preregistered close replications of Studies 1 and 2 on 824 MTurk workers, about twice the original number per cell. In Study 1 the joint group rated 160 buyers above 80, d = 0.77, 95% CI [0.61, 0.92], and 240 above 160, d = 0.60 [0.39, 0.82]. The matching separate comparisons found nothing, 0.09 [-0.19, 0.36] and 0.03 [-0.25, 0.30], and those intervals do not overlap the joint ones. Non-overlap is the test the authors set for overprediction. On the qualitative step from 0 to 80 buyers the separate groups showed the larger effect, 4.13 [3.64, 4.61] against 2.60 [2.11, 3.10], so joint evaluation underpredicted there, which is what the theory requires. Study 2 came apart. The joint group did rate 10 negative words above 25, d = 0.45 [0.26, 0.63], but the interval for people predicting a single task, 0.44 [0.15, 0.73], overlaps it, so no overprediction is shown. For positive words the joint group produced nothing, 0.02 [-0.18, 0.22]. People who actually did the task reported the same happiness whatever they read, including 10 positive words against 10 negative, 0.02 [-0.27, 0.31]. The corresponding figures the replicators derive from the 2004 paper are 0.75 and 1.20, and those derivations are theirs rather than numbers the original printed. The authors call the paper mixed support. No effect-size comparison is available for the quantity the theory is actually about, the gap between the joint and separate differences, because the original reported too little.",
+    "study": {
+      "cite": "Anvari, F., Olsen, J., Hung, W. Y., & Feldman, G. (2021). Misprediction of affective outcomes due to different evaluation modes: Replication and extension of two distinction bias experiments by Hsee and Zhang (2004). Journal of Experimental Social Psychology, 92, 104052.",
+      "doi": "10.1016/j.jesp.2020.104052",
+      "year": 2021,
+      "n": 824
+    }
+  },
+  "limits": "The boundary is the reference point, and the 2021 extension moved it. Told to expect 160 sales, people judging 80 or 240 alone now separated the two, d = 1.45 [1.14, 1.75], against 0.12 [-0.16, 0.39] when the reference point was zero. So the same 80-against-240 gap is quantitative or qualitative depending on what a person happens to expect, which makes the theory hard to test unless the reference point is fixed in advance. The extension is also weaker than it first reads: the joint group still showed the larger effect, 2.27 [1.76, 2.79], and the authors concede the data are consistent with overprediction there too, while pointing out that the intervals nearly touch. Second, the mischoice half is untested. Study 3 of the 2004 paper covered choice under tradeoffs, the replicators left it out, and no close replication of it was located. Third, the replicators read Study 2 as a poor test rather than a disconfirmation, on the grounds that reading 10 or 25 words is unlikely to move anyone's happiness, and their real-experience groups show it did not. That is an argument made after the result, and they state it as their opinion. Fourth, they note that neither their findings nor the originals can safely be generalised beyond the single task and single stimulus set used. Fifth, the whole evidence base is hypothetical scenarios plus one laboratory word task, and no field test was located. Anvari and colleagues also note that the 2004 findings underpin Hsee and Zhang's General Evaluability Theory of 2010, so what fails here does not stay local. Searches of Crossref, Semantic Scholar's citation list for the replication, and the open web, for the effect name and for joint versus separate evaluation, turned up no meta-analysis and no second close replication. A 2006 PsycEXTRA record by Healey, Kim, Hasher and Goldstein, titled 'Distinction Bias Among Older Adults', is a convention-abstract entry whose text could not be retrieved.",
+  "misreadings": "The popular definition drops the part that does the work. Wikipedia's opening line calls distinction bias 'the tendency to view two options as more distinctive when evaluating them simultaneously than when evaluating them separately', which is a claim about perceived difference with no reference point in it. Hsee and Zhang's claim is narrower. Joint evaluation inflates the predicted happiness gap for values sitting on the same side of a reference point, and not for values that cross it. Strip the boundary out and the theory predicts everything. Second, the stock examples are not the experiments. Televisions, baked beans, salaries and house sizes are that page's own illustrations, sourced there to two personal blogs and a critical-thinking website, while the tested stimuli were imagined poetry sales and lists of 10 or 25 words. Third, joint evaluation plays the opposite role here from the one it plays in the less-is-better effect. There it is the mode that corrects a reversal, here it is the mode that misleads, and Hsee is an author of both. Anyone carrying a rule of thumb across from one to the other will carry it the wrong way. Fourth, the advice to judge each job or house alone and only then compare rests on the untested half of the paper. The two studies that have a close replication measured predictions rather than choices, and one of them failed.",
+  "sources": [
+    {
+      "text": "Hsee, C. K., & Zhang, J. (2004). Distinction bias: Misprediction and mischoice due to joint evaluation. Journal of Personality and Social Psychology, 86(5), 680-695. The DOI resolves and the Crossref record matches on title, authors, journal, volume, issue, pages and year. No copy of the full text could be retrieved; the abstract was read from the NCBI record. Details of the three studies on this page come from the 2021 replication paper's account of them.",
+      "doi": "10.1037/0022-3514.86.5.680",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15161394/",
+      "type": "primary"
+    },
+    {
+      "text": "Anvari, F., Olsen, J., Hung, W. Y., & Feldman, G. (2021). Misprediction of affective outcomes due to different evaluation modes: Replication and extension of two distinction bias experiments by Hsee and Zhang (2004). Journal of Experimental Social Psychology, 92, 104052. Full text and supplemental materials read from the accepted preprint the authors host on OSF, which may differ from the published version. Source for the replication and extension figures, for the description of the original studies, and for the statement that the authors were unaware of any close replication before theirs.",
+      "doi": "10.1016/j.jesp.2020.104052",
+      "url": "https://osf.io/download/8236t/",
+      "type": "replication"
+    },
+    {
+      "text": "Wikipedia, 'Distinction bias', revision 1334880905 of 26 January 2026. Cited as a specimen of how the effect is defined and illustrated outside the literature, not as evidence for any claim about the studies. Wikitext read directly from the MediaWiki API.",
+      "url": "https://en.wikipedia.org/w/index.php?title=Distinction_bias&oldid=1334880905",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
