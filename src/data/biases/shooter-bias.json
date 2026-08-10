@@ -1,0 +1,92 @@
+{
+  "no": 299,
+  "slug": "shooter-bias",
+  "name": "Shooter bias",
+  "aliases": ["The police officer's dilemma", "First-person shooter task bias", "Shooter task bias"],
+  "category": "social",
+  "statement": "In a videogame that rewards shooting armed targets and sparing unarmed ones, a target's race shifts how fast the decision arrives and where the threshold to fire sits.",
+  "meaning": "Shooter bias is the name for an interaction, not a body count. Participants see men holding guns or holding wallets, cameras, cans and phones, and press one of two buttons under a deadline. The score of interest is the difference between two differences: how much faster or more accurate the response is when the target is armed and Black or unarmed and white, against the reverse pairing. Four measures come out of the same trials and they behave differently. Reaction times on correct trials move under a loose deadline. Error rates move under a tight one. Signal detection splits those errors into sensitivity, the ability to tell a gun from a wallet, and criterion, the amount of certainty demanded before firing. The measure that carries the effect in Correll's data is criterion, which is a threshold rather than an ability. What the task measures is knowledge of a stereotype rather than agreement with it, a distinction covered in the entry on implicit stereotypes, which treats the same task as one line of evidence among several.",
+  "origin": {
+    "year": 2002,
+    "who": "Joshua Correll, Bernadette Park, Charles M. Judd and Bernd Wittenbrink",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Four studies written in the wake of the 1999 shooting of Amadou Diallo, who was hit by 19 of 41 rounds fired by four New York officers and was unarmed. The paper asks whether a target's ethnicity changes the decision to shoot, and the videogame was built to make that question testable."
+  },
+  "evidence": "Study 1 ran 40 undergraduates at the University of Colorado at Boulder through 80 trials, 20 in each cell of a two by two design crossing target ethnicity with object type. Twenty models, 10 African American and 10 white, appeared against 20 photographic backgrounds. Hits paid 10 points, correct rejections 5, false alarms cost 20 and misses cost 40. The response window was 850 ms. Correct decisions to shoot took 544 ms for African American targets and 554 ms for white ones. Correct decisions not to shoot took 634 ms for African American targets and 623 ms for white ones. The ethnicity by object interaction was F(1, 39) = 21.86, p < .0001, and both simple effects held, F(1, 39) = 10.89 and F(1, 39) = 9.77, both p < .005. Errors averaged 4% of trials. Study 2 cut the window to 630 ms and paid participants by the point. Five of 44 were dropped for exceeding 10 timeouts. Errors per 20 trials ran 3.29 for unarmed African American targets against 2.40 for unarmed white ones, and 1.48 for armed African American targets against 2.46 for armed white ones, F(1, 38) = 17.83, p < .0001. There were no effects in the latencies at that window. Signal detection put sensitivity at 2.48 for African American targets and 2.47 for white, F(1, 38) = 0.01, p = .93, and the decision criterion at -0.24 against 0.03, F(1, 38) = 22.21, p < .0001. Participants were not worse at seeing the object. They demanded less certainty before firing. Study 3 repeated Study 1 with 45 students and added a questionnaire. The bias score correlated .37 with participants' estimate of the cultural stereotype that African Americans are dangerous, violent and aggressive, and .38 with self-reported contact with African Americans, both p < .01. The Modern Racism Scale gave .15, the Discrimination Scale .16, the Diversity Scale .05, a composite of the three .14, and personal endorsement of the violent stereotype .05. None of those five reached significance. Study 4 took the game to bus stations, malls and food courts in Denver and tested 25 African American and 21 white adults. The interaction held, F(1, 45) = 14.75, p < .001, and its size did not depend on the participant's own ethnicity, F(1, 44) = 0.10, p = .75.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The reaction-time signature pools across 42 studies at about a tenth of a standard deviation; the error-rate measure most readers have in mind does not pool, and police officers show the speed effect without the shifted threshold.",
+    "detail": "Mekawi and Bresin pooled 42 studies in 2015 across five ways of operationalising the bias: reaction time with a gun, reaction time without a gun, false alarms, shooting sensitivity and shooting threshold. Their abstract reports pooled estimates for three. Participants were quicker to shoot armed Black targets, dav = -.13, 95% CI [-.19, -.06], slower to withhold fire from unarmed Black targets, dav = .11, 95% CI [.05, .18], and held a more liberal shooting threshold for Black targets, dav = -.19, 95% CI [-.37, -.01]. The threshold estimate is the largest and the least precise, and its interval reaches almost to zero. False alarms and sensitivity appear in the abstract only as moderator results, where a permissive state gun-law regime went with a higher false alarm rate and a lower threshold for Black targets. The full text is paywalled and the pooled figures above come from the published abstract. Police samples split the effect in two. Correll and colleagues compared officers with community members in 2007 and found the speed bias in both, with officers faster and more accurate overall, while community respondents set a lower criterion for Black targets and officers did not. Their own review describes that work as 127 Denver officers, 113 officers recruited nationally and 124 Denver community members in Study 1, and 31 Denver officers against 45 community members in a Study 2 that shortened the window and made the task harder. The criterion difference again appeared in the community sample and not the officers. Stelter and colleagues ran three preregistered studies in Germany with Arab and white targets. Study 1, with 330 participants and a 630 ms window, found no shooter bias in reaction times, error rates or signal detection parameters, in police or civilians. Study 2a, with 290 participants and an 850 ms window, found bias on all three in both samples, and Study 2b replicated it in 191 civilians online. Their abstract was read at the preprint.",
+    "study": {
+      "cite": "Mekawi, Y., & Bresin, K. (2015). Is the evidence from racial bias shooting task studies a smoking gun? Results from a meta-analysis. Journal of Experimental Social Psychology, 61, 120-130.",
+      "doi": "10.1016/j.jesp.2015.08.002",
+      "year": 2015
+    },
+    "replicated": { "es": -0.13, "esType": "d", "ci": [-0.19, -0.06], "ciLevel": 95 }
+  },
+  "limits": "Nothing in the task counts a shooting. It is a button press under a deadline, and the number it yields is a contrast between four cell means. The field literature on real shootings answers a different question and does not settle it. Fryer assembled 1,399 officer-involved shootings from 16 locations between 2000 and 2015, with Houston supplying 36% of them, and built a comparison set by hand-coding 290 variables from a random sample of Houston arrest records in categories where lethal force might have been justified. On non-lethal force, Black and Hispanic civilians were more than 50% more likely to have force used on them. On shootings, controlling for suspect and officer demographics, encounter characteristics, weapon and year, Black suspects were 27.4% less likely to be shot at than non-Black, non-Hispanic suspects, an estimate Fryer describes as measured with considerable error and not statistically significant. Knox, Lowe and Mummolo argue that this class of estimate cannot be read as a race effect at all, because the records only contain people the police already chose to stop. Where Fryer's approach gives a statistically insignificant 2.4 instances per 1,000 encounters of pushing Hispanic suspects to a wall because of race, their bias-corrected figure is at least 26, eleven times larger. The retraction of Johnson and colleagues' 2019 paper on officer characteristics shows how easily this literature is misread: the authors asked PNAS to withdraw it after it was repeatedly cited as evidence of no racial bias in fatal shootings, writing that their data were 'inadequate to address racial disparities in the probability of being shot'. Higher-fidelity laboratory work points the other way from the videogame. James, James and Vila tested 80 police patrol officers in deadly force simulators and report that officers were slower to shoot armed Black suspects than armed white ones and less likely to shoot unarmed Black suspects, a result they call a reverse racism effect. Only their abstract was obtained for this entry.",
+  "misreadings": "The sentence the task is usually cited for is that people shoot unarmed Black men more often, and that is the false alarm rate. Mekawi and Bresin list false alarms as one of their five measures, and the pooled estimates their abstract reports are the two reaction times and the shooting threshold. What the meta-analysis supports is a threshold that sits lower, meaning less certainty is demanded before firing, which is a claim about what it takes to pull the trigger rather than about how often the trigger is pulled. The signs are read backwards as often as the measures are. A dav of -.13 for reaction time is a bias, because it means faster shooting of armed Black targets, and the negative number invites the opposite reading. Prejudice does not predict the effect. In Correll's Study 3 the Modern Racism Scale gave .15 and personal endorsement of the stereotype gave .05, neither significant, while knowing what the culture believes gave .37. Contact with African Americans gave .38, in the direction of more contact and more bias. African American and white participants in Study 4 showed the same effect at the same size. The task is named for police officers and was not run on any until five years later, and when it was, officers showed the speed effect and not the criterion shift. Shooter bias is also not a synonym for an Implicit Association Test score. The two have separate entries here, they use different tasks, and the shooter measure is a behavioural threshold rather than an association strength.",
+  "sources": [
+    {
+      "text": "Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer's dilemma: Using ethnicity to disambiguate potentially threatening individuals. Journal of Personality and Social Psychology, 83(6), 1314-1329.",
+      "doi": "10.1037/0022-3514.83.6.1314",
+      "url": "https://faculty.washington.edu/jdb/345/345%20Articles/Correll%20et%20al.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Correll, J., Park, B., Judd, C. M., Wittenbrink, B., Sadler, M. S., & Keesee, T. (2007). Across the thin blue line: Police officers and racial bias in the decision to shoot. Journal of Personality and Social Psychology, 92(6), 1006-1023. The full text was not obtained; the abstract was read at PubMed, and the sample sizes quoted on this page come from the authors' own 2014 review rather than from this paper.",
+      "doi": "10.1037/0022-3514.92.6.1006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17547485/",
+      "type": "replication"
+    },
+    {
+      "text": "Correll, J., Hudson, S. M., Guillermo, S., & Ma, D. S. (2014). The police officer's dilemma: A decade of research on racial bias in the decision to shoot. Social and Personality Psychology Compass, 8(5), 201-213.",
+      "doi": "10.1111/spc3.12099",
+      "url": "http://www.csun.edu/~dma/Correll,%20Hudson,%20Guillermo,%20&%20Ma%20(2014).pdf",
+      "type": "review"
+    },
+    {
+      "text": "Mekawi, Y., & Bresin, K. (2015). Is the evidence from racial bias shooting task studies a smoking gun? Results from a meta-analysis. Journal of Experimental Social Psychology, 61, 120-130. Paywalled with no repository copy; the pooled estimates quoted here are from the published abstract, read through the CoLab aggregator.",
+      "doi": "10.1016/j.jesp.2015.08.002",
+      "url": "https://colab.ws/articles/10.1016%2Fj.jesp.2015.08.002",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Stelter, M., Essien, I., Rohmann, A., Degner, J., & Kemme, S. (2023). Shooter biases and stereotypes among police and civilians. Acta Psychologica, 232, 103820. The published text was not obtained; the figures on this page come from the preprint abstract cited below.",
+      "doi": "10.1016/j.actpsy.2022.103820",
+      "url": "https://doi.org/10.1016/j.actpsy.2022.103820",
+      "type": "replication"
+    },
+    {
+      "text": "Stelter, M., Essien, I., Rohmann, A., Degner, J., & Kemme, S. (2022). Shooter biases and stereotypes among police and civilians. PsyArXiv preprint, posted 19 December 2022. The abstract read for this entry.",
+      "doi": "10.31234/osf.io/bzrk8",
+      "url": "https://osf.io/preprints/psyarxiv/bzrk8",
+      "type": "replication"
+    },
+    {
+      "text": "Fryer, R. G. (2019). An empirical analysis of racial differences in police use of force. Journal of Political Economy, 127(3), 1210-1261.",
+      "doi": "10.1086/701423",
+      "url": "https://users.ssc.wisc.edu/~gwallace/Papers/Fryer%20(2019).pdf",
+      "type": "context"
+    },
+    {
+      "text": "Knox, D., Lowe, W., & Mummolo, J. (2020). Administrative records mask racially biased policing. American Political Science Review, 114(3), 619-637.",
+      "doi": "10.1017/S0003055420000039",
+      "url": "https://jmummolo.scholar.princeton.edu/sites/g/files/toruqf3341/files/knox_lowe_mummolo_2020.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "Retraction for Johnson et al., Officer characteristics and racial disparities in fatal officer-involved shootings (2020). Proceedings of the National Academy of Sciences, 117(30), 18130. Retracts the paper published in volume 116 at page 15877.",
+      "doi": "10.1073/pnas.2014148117",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7395485/",
+      "type": "correction"
+    },
+    {
+      "text": "James, L., James, S. M., & Vila, B. J. (2016). The reverse racism effect: Are cops more hesitant to shoot Black than White suspects? Criminology & Public Policy, 15(2), 457-479. Paywalled; only the abstract, read at Crossref, was obtained.",
+      "doi": "10.1111/1745-9133.12187",
+      "url": "https://api.crossref.org/works/10.1111/1745-9133.12187",
+      "type": "contrary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
