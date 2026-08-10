@@ -1,0 +1,101 @@
+{
+  "no": 228,
+  "slug": "less-is-better-effect",
+  "name": "Less-is-better effect",
+  "aliases": [
+    "Less is better",
+    "More is less phenomenon"
+  ],
+  "category": "decision",
+  "statement": "An option can be valued more highly than an option that contains everything it has and more, when each is judged on its own.",
+  "meaning": "The claim is about how an option is shown, not about what is in it. Judge two options side by side and the bigger one usually wins. Judge them one at a time, with different people seeing different options, and the ranking can flip. Christopher Hsee called the second arrangement separate evaluation and the first joint evaluation. His proposed mechanism is the evaluability hypothesis: some attributes carry meaning on their own and some do not. A shopper alone with a dinnerware set cannot say whether 40 pieces is generous, because nothing fixes the scale. That same shopper can see at once that some of the cups are broken. So the attribute that is easy to read drives the separate judgement even when it matters less, and the attribute that needs a comparison drives the joint judgement. The effect is a claim about evaluation mode. It is not a claim that people prefer smaller quantities.",
+  "origin": {
+    "year": 1998,
+    "who": "Christopher K. Hsee",
+    "where": "Journal of Behavioral Decision Making",
+    "note": "The paper ran four scenarios, of which three are the ones usually retold: a $45 scarf from a $5 to $50 range judged a more generous gift than a $55 coat from a $50 to $500 range, 7 oz of ice cream overflowing a 5 oz cup priced above 8 oz in a 10 oz cup, and a 24-piece dinnerware set priced above a 40-piece set that held the same 24 pieces plus extras, some of them broken. The full text could not be retrieved for this entry, and every figure below from the 1998 studies is read off the two replication papers that reprint it. Hsee had set out the evaluability hypothesis two years earlier in Organizational Behavior and Human Decision Processes, where 116 students priced second-hand music dictionaries."
+  },
+  "evidence": "The 1996 dictionary study is the cleanest statement of the mechanism, and it is weaker than the retellings suggest. Hsee gave students Dictionary A, 10,000 entries and like new, or Dictionary B, 20,000 entries with a torn cover, or both. Judged together, B drew the higher price (t = 7.11, p < .001). Judged apart, A drew the higher price, but that half of the pattern did not reach significance (t = 1.69, p = .1). The reversal itself was significant (t = 4.56, p < .001). The 1998 gift study, as Many Labs 2 reports it, put 83 people in one of two conditions and found the scarf giver rated more generous than the coat giver, 5.63 against 5.00, t(82) = 3.13, p = 0.002, d = 0.69, 95% CI [0.24, 1.13]. The dinnerware study, as the 2023 replication reports it, had 104 people and split both ways at once: judged separately the 40-piece set drew $23.25 against $32.69 for the 24-piece set (t = 3.91, p < .001), and judged jointly the same 40-piece set drew $32.03 against $29.70 (t = 2.15, p = .039). Nobody paid less for more once both sets were on the table.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The separate-evaluation half of the effect is among the better-replicated findings in judgement research. Many Labs 2 ran the gift scenario on 7,646 people and got d = 0.78, 95% CI [0.74, 0.83], slightly larger than the original.",
+    "detail": "Many Labs 2 replicated Study 1 across its 125 samples, adjusting the prices for inflation and converting them where dollars would be unfamiliar. Scarf recipients rated the giver at 5.50 (SD 0.89) against 4.61 (SD 1.34) for coat recipients, t(6,569.67) = 34.20. Vonasch and six co-authors then ran all three scenarios on 400 MTurk workers in 2023, with each person kept in the same condition throughout. Separate evaluation gave a signal every time: gift d = 0.99 [0.72, 1.25], ice cream d = 0.32 [0.07, 0.56], dinnerware d = 0.76 [0.50, 1.02], the last two smaller than the originals and the first larger. Joint evaluation, which the theory needs, held up less well. Ice cream produced the predicted more-is-better result, dz = 0.60 [0.42, 0.79]. Dinnerware did not, dz = 0.11 [-0.06, 0.28], with $31.67 for the larger set against $30.35 for the smaller. The authors call four of the five effects supported and note that the fifth ran in the right direction. Two accounts of the original gift study differ slightly in the third decimal: Many Labs 2 prints d = 0.69 [0.24, 1.13] and the 2023 team prints d = 0.70 [0.24, 1.15]. Both are recalculations by replicators rather than figures from the 1998 paper.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "n": 7646
+    },
+    "original": {
+      "es": 0.69,
+      "esType": "d",
+      "ci": [0.24, 1.13],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.78,
+      "esType": "d",
+      "ci": [0.74, 0.83],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The boundary the theory predicts is joint evaluation, and it mostly holds. Put both options in front of one person and the ranking usually rights itself, which is why the effect says more about how choices are laid out than about what people want. Three cracks are worth knowing. First, the correction is not reliable: in the 2023 dinnerware replication the larger set failed to win in joint evaluation, and the same participants rated it less attractive and felt worse about its price than the smaller set. Second, the ice cream result turns on data cleaning. With Hsee's own rule, which drops willingness to pay above $10.39, d = 0.32 [0.07, 0.56]; with the two outliers left in, d = 0.06 [-0.18, 0.30]. Third, market experience blunts it. John List ran the design at a sportscard show with 241 people bidding real money in a random nth-price auction. Non-dealers bid $4.86 for 10 graded cards and $3.06 for the same 10 plus three poor-condition cards, a gap significant at p < 0.05, and reversed to $3.72 against $4.52 when the bundles sat side by side. Dealers bid $3.20 against $2.70, a 15% gap that missed significance (z = 0.84), and their joint bids reversed as predicted. The mechanism is also contested. Sher and McKenzie model the reversal as rational inference from the sample of options a person is shown, which on their account makes it not a preference reversal at all. Age cuts against the standard account too. Parrish and Sandgren gave 118 children aged 3 to 9 joint-evaluation choices between a smaller intact set and a larger damaged one, and children picked the smaller set on all six trial types, p < .001 each, with the bias rising as they got older (r(103) = .284, p = .003). No meta-analysis of the less-is-better effect was located, in searches of Crossref, OpenAlex and the web for the effect name and for joint versus separate evaluation.",
+  "misreadings": "The dinnerware set is described wrongly in the literature that studies it. Parrish and Sandgren's abstract calls the larger set a 24-piece set with 16 additional broken dishes. The stimulus table reprinted in the 2023 replication lists 8 cups of which 2 are broken and 8 saucers of which 7 are broken, so 9 of the 16 extras are damaged and 7 are fine. List's 2002 summary of the same study gets the joint-evaluation direction backwards, reporting that the smaller set wins when the two are juxtaposed, which is the opposite of the $32.03 against $29.70 the replication prints for the original. Second, the effect is not a rule that people want less. It needs an attribute nobody can size up alone and a second attribute anyone can, and it needs the two options kept apart. Sales pages, comparison tables and shelves put options together, which is the arrangement in which the effect goes away or reverses. Third, evidence that a real seller loses money by adding a cheap item is thin. List's auction is the closest thing to a market test and it used bundles built for the experiment, with the effect weakest among the professionals. The nearest marketing finding, Weaver, Garcia and Schwarz's presenter's paradox, is about a different mechanism, weighted averaging in impression formation, and reaches the same practical advice by another route. Fourth, joint evaluation is a boundary condition rather than a cure. It failed to restore more-is-better for dinnerware in the 2023 replication, and children show the effect under joint evaluation, more strongly the older they are.",
+  "sources": [
+    {
+      "text": "Hsee, C. K. (1998). Less is better: When low-value options are valued more highly than high-value options. Journal of Behavioral Decision Making, 11(2), 107-121. The DOI resolves and the record matches, but no copy of the full text could be retrieved; the 1998 figures on this page are read off the replication papers that reprint them.",
+      "doi": "10.1002/(SICI)1099-0771(199806)11:2<107::AID-BDM292>3.0.CO;2-Y",
+      "url": "https://doi.org/10.1002/(SICI)1099-0771(199806)11:2<107::AID-BDM292>3.0.CO;2-Y",
+      "type": "primary"
+    },
+    {
+      "text": "Hsee, C. K. (1996). The evaluability hypothesis: An explanation for preference reversals between joint and separate evaluations of alternatives. Organizational Behavior and Human Decision Processes, 67(3), 247-257. Full text read from the copy hosted at UC San Diego. Source for the dictionary study and its statistics.",
+      "doi": "10.1006/obhd.1996.0077",
+      "url": "https://pages.ucsd.edu/~cmckenzie/Hsee1996OBHDP.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Full text read from the author accepted version in LSE Research Online, which may differ from the published version. Source for the replication figures and for the account of Hsee's Study 1.",
+      "doi": "10.1177/2515245918810225",
+      "url": "http://eprints.lse.ac.uk/91159/1/Kappes_Many-labs-2.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Vonasch, A. J., Hung, W. Y., Leung, W. Y., Nguyen, A. T. B., Chan, S., Cheng, B. L., & Feldman, G. (2023). 'Less is better' in separate evaluations versus 'more is better' in joint evaluations: Mostly successful close replication and extension of Hsee (1998). Collabra: Psychology, 9(1), 77859. Full text read from the accepted preprint the authors host on OSF; the publisher's copy is behind a block. Effect sizes cross-checked against the abstract Crossref holds for the article.",
+      "doi": "10.1525/collabra.77859",
+      "url": "https://osf.io/download/rzwpj/",
+      "type": "replication"
+    },
+    {
+      "text": "List, J. A. (2002). Preference reversals of a different kind: The 'more is less' phenomenon. American Economic Review, 92(5), 1636-1643. Full text read from the working-paper copy hosted by the Field Experiments Website.",
+      "doi": "10.1257/000282802762024692",
+      "url": "https://s3.amazonaws.com/fieldexperiments-papers2/papers/00509.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Sher, S., & McKenzie, C. R. M. (2014). Options as information: Rational reversals of evaluation and preference. Journal of Experimental Psychology: General, 143(3), 1127-1143. Read from the author copy hosted by UC San Diego.",
+      "doi": "10.1037/a0035128",
+      "url": "https://rady.ucsd.edu/_files/faculty-research/mckenzie/Sher-McKenzie2014JEPGeneral.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Parrish, A. E., & Sandgren, E. E. (2023). The less-is-better effect: A developmental perspective. Psychonomic Bulletin & Review, 30(6), 2363-2370. Full text read from the publisher.",
+      "doi": "10.3758/s13423-023-02318-x",
+      "url": "https://link.springer.com/content/pdf/10.3758/s13423-023-02318-x.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hsee, C. K., Loewenstein, G. F., Blount, S., & Bazerman, M. H. (1999). Preference reversals between joint and separate evaluations of options: A review and theoretical analysis. Psychological Bulletin, 125(5), 576-590. Read from the copy hosted by Carnegie Mellon University. Source for the joint and separate evaluation framing.",
+      "doi": "10.1037/0033-2909.125.5.576",
+      "url": "https://www.cmu.edu/dietrich/sds/docs/loewenstein/PrefRevJoint.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Weaver, K., Garcia, S. M., & Schwarz, N. (2012). The presenter's paradox. Journal of Consumer Research, 39(3), 445-460. Read from the abstract at the publisher; the full text could not be retrieved. The Crossref record for this DOI carries the title as \"The Presenter's Paradox: Figure 1.\", which is a defect in the record rather than a different article.",
+      "doi": "10.1086/664497",
+      "url": "https://academic.oup.com/jcr/article-abstract/39/3/445/1822596",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
