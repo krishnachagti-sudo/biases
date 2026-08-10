@@ -1,0 +1,65 @@
+{
+  "no": 330,
+  "slug": "failure-bias",
+  "name": "Failure bias",
+  "category": "decision",
+  "statement": "In a two-alternative perceptual task people tend to switch sides after an error, even when trial order is random, and the habit costs them sensitivity.",
+  "meaning": "The name has two referents and they share nothing but the word. In psychophysics it is a fitted parameter. Abrahamyan and colleagues modelled each choice as a weighted sum of the current stimulus and two history terms, one for the side chosen after a success and one for the side chosen after a failure. A negative failure weight means the subject moves away from the side that has just lost. That weight is what the paper calls a failure bias, and it is measured rather than reported by the person who has it. The second referent comes from outside the research literature. A Wikipedia article of the same name defines failure bias as concentrating on the cases that failed a selection process while the cases that passed stay out of sight, which is survivorship bias with the arrow reversed. Nothing located for this entry connects the two.",
+  "origin": {
+    "year": 2016,
+    "who": "Arman Abrahamyan, Laura Luz Silva, Steven C. Dakin, Matteo Carandini and Justin L. Gardner",
+    "where": "Proceedings of the National Academy of Sciences",
+    "note": "The paper uses failure bias for a model weight rather than for a habit of mind, and pairs it throughout with a success bias. Its logistic model came from Busse and colleagues' 2011 study of contrast detection in mice, whose PubMed Central full text carries neither term. The Wikipedia article that holds the other meaning was created on 25 April 2018 by an editor whose edit summary described it as a lesser known variation of the survivorship bias, and it carried no citation of any kind until 2025."
+  },
+  "evidence": "Thirty-six subjects at RIKEN, Stanford and University College London judged whether a grating sat to the left or the right of fixation, with contrast varied to move the task between easy and hard. Trial order was random, so the last trial said nothing about the next. Subjects used it anyway. In that control condition the mean failure weight was −0.55 and the mean success weight 0.27, both P < 0.01 after Bonferroni adjustment, meaning the average subject switched after an error more strongly than it stayed after a hit. Simulating each subject's psychometric curve with and without the history terms gave a significant loss of visual sensitivity in 24 of the 36, or 67%, with a mean loss of 4.7%, 95% CI 3 to 7%. For 19% of subjects the decline ran from 10% to 20%. The rest of the paper changed the trial statistics so that history paid. When failure predicted a switch of side, failure weights shifted in the paying direction by 0.45, t(13) = 3.00, P = 0.02, 95% CI 0.13 to 0.78. When success predicted a stay, success weights shifted by 1.04, t(13) = 6.61, P < 0.01, 95% CI 0.70 to 1.38. Pushed the other way, against the natural switch-after-failure tendency, failure weights barely moved: 0.06, t(15) = 0.59, P = 0.99, 95% CI −0.29 to 0.17. All of those intervals are Bonferroni adjusted. Debriefed at the end, no subject noticed that staying or switching was contingent on previous choices, although their weights showed they had picked the contingency up.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Dependence on the previous trial turns up again across six independent datasets, and the switch-after-failure direction does not.",
+    "detail": "Urai, de Gee, Tsetsos and Donner fitted bounded-accumulation models to six human datasets spanning motion discrimination, contrast detection and tone detection, and sorted observers by how their choices depended on the previous choice and on whether it had been correct. Their counts were 95 stay, 30 switch, 26 win-stay lose-switch and 42 win-switch lose-stay. They conclude that most participants were predominantly biased by their previous choice rather than by its outcome, and that even erroneous choices bias the next decision in the same direction as correct ones. On that reading the outcome-sensitive pattern Abrahamyan's average subject showed is a minority pattern, outnumbered in these samples by its mirror image. This is not a rerun of Abrahamyan's protocol. The tasks differ, the model differs, and the paper never uses the term failure bias. What it supplies is an independent measurement of the same behaviour in six samples, and on the direction of the effect the two papers point opposite ways.",
+    "study": {
+      "cite": "Urai, A. E., de Gee, J. W., Tsetsos, K., & Donner, T. H. (2019). Choice history biases subsequent evidence accumulation. eLife, 8, e46331.",
+      "doi": "10.7554/eLife.46331",
+      "year": 2019
+    }
+  },
+  "limits": "The measured effect belongs to a narrow setting: a two-alternative task with immediate feedback and randomised trial order, where the correct strategy is to ignore history altogether. Whether a failure weight predicts anything outside a psychophysics booth was not tested by Abrahamyan and colleagues, and no study testing it was located. The name is barely used. A Crossref bibliographic search for the phrase returned no paper defining it in the sense the Wikipedia article gives, and the searches behind this entry covered Crossref, PubMed Central, Wikipedia and web search. The organisational claim that firms learn more from failures than from successes belongs to a separate literature that does not use this label. The paper usually pointed at there is Madsen and Desai's 2010 study of the orbital launch vehicle industry, which is paywalled, has no open copy recorded in OpenAlex, and whose findings are therefore not quoted on this page. Denrell's account of the undersampling of failure, often reached for in the same conversation, is survivorship bias under another name.",
+  "misreadings": "The Wikipedia article is what most readers will find first, and its only citation is the Abrahamyan paper. That paper is about switching sides in a contrast task and says nothing about selection processes, invisible successes, espionage or censorship, which are the examples the article offers. The citation matches the title of the paper and not the claim it is attached to, which is the shape a keyword search leaves behind. The definition is also not a new mechanism. Cases that failed a filter being counted while cases that passed stay unseen is the same selection argument as survivorship bias, entry 8, and one species of selection bias, entry 82. Reversing which side of the filter is visible changes the example and not the reasoning. Anyone after the organisational claim that failure teaches more than success wants the learning-from-failure literature instead, since that claim is neither what the psychophysics measures nor what the Wikipedia article asserts.",
+  "sources": [
+    {
+      "text": "Abrahamyan, A., Silva, L. L., Dakin, S. C., Carandini, M., & Gardner, J. L. (2016). Adaptable history biases in human perceptual decisions. Proceedings of the National Academy of Sciences, 113(25), E3548-E3557. Every figure on this page comes from the PubMed Central full text, read twice.",
+      "doi": "10.1073/pnas.1518786113",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4922170/",
+      "type": "primary"
+    },
+    {
+      "text": "Urai, A. E., de Gee, J. W., Tsetsos, K., & Donner, T. H. (2019). Choice history biases subsequent evidence accumulation. eLife, 8, e46331. The observer counts quoted here are in its Results.",
+      "doi": "10.7554/eLife.46331",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6606080/",
+      "type": "replication"
+    },
+    {
+      "text": "Busse, L., Ayaz, A., Dhruv, N. T., et al. (2011). The detection of visual contrast in the behaving mouse. The Journal of Neuroscience, 31(31), 11351-11361. The source of the logistic model Abrahamyan and colleagues used.",
+      "doi": "10.1523/JNEUROSCI.6689-10.2011",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6623377/",
+      "type": "primary"
+    },
+    {
+      "text": "Failure bias, Wikipedia, revision 1336163734 of 2 February 2026, read with its full edit history. The source for the selection-process definition, for the espionage and censorship examples, for the single citation, and for the 25 April 2018 creation and its edit summary.",
+      "url": "https://en.wikipedia.org/w/index.php?title=Failure_bias&oldid=1336163734",
+      "type": "provenance"
+    },
+    {
+      "text": "Denrell, J. (2003). Vicarious learning, undersampling of failure, and the myths of management. Organization Science, 14(3), 227-243. Read here as its publisher abstract at Crossref; the DOI string reads 14.2 while the record gives issue 3.",
+      "doi": "10.1287/orsc.14.2.227.15164",
+      "url": "https://doi.org/10.1287/orsc.14.2.227.15164",
+      "type": "secondary"
+    },
+    {
+      "text": "Madsen, P. M., & Desai, V. (2010). Failing to learn? The effects of failure and success on organizational learning in the global orbital launch vehicle industry. Academy of Management Journal, 53(3), 451-476. Named as the organisational-learning lead; paywalled, not read for this entry, and none of its findings are stated here.",
+      "doi": "10.5465/amj.2010.51467631",
+      "url": "https://doi.org/10.5465/amj.2010.51467631",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
