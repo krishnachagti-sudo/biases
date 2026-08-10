@@ -1,0 +1,99 @@
+{
+  "no": 237,
+  "slug": "time-saving-bias",
+  "name": "Time-saving bias",
+  "aliases": ["Time saving bias", "Proportion heuristic", "Ratio rule"],
+  "category": "decision",
+  "statement": "Time saved by going faster follows a reciprocal rule, and people judge it as though it were linear, so they underrate the gain when slow and overrate it when already fast.",
+  "meaning": "The arithmetic here is not in dispute, which is what makes the bias unusually clean. Time saved over a fixed distance by raising speed from V1 to V2 is t = cD(1/V1 − 1/V2), where D is the distance and c converts the units. Journey time is the reciprocal of speed, so the same increment of speed buys less and less time as the starting speed rises. Adding 10 mph to 20 mph over 10 miles saves 10 minutes. Adding the same 10 mph to 50 mph over the same 10 miles saves 2 minutes. Peer and Gamliel report both figures. People behave as though the saving were roughly proportional to the size of the speed increase, so the initial speed drops out of the judgement. Svenson called the resulting description the Proportion heuristic and wrote it as t = cD(V2 − V1)/V2, which gives the time gained too little weight at low starting speeds and too much at high ones. Eyal Peer proposed a variant using the initial rather than the higher speed as the denominator. Which of the two people actually use is unsettled. That they use something linear is the finding.",
+  "origin": {
+    "year": 2008,
+    "who": "Ola Svenson",
+    "where": "Acta Psychologica",
+    "note": "The name is from this paper, and Peer and the Eriksson group both credit it with coining the term. The effect is older. Svenson's abstract points back to his own 1970 paper in the Journal of Experimental Psychology, which reported that estimated time savings follow the Proportion heuristic. The 1970 paper sits behind a paywall with no abstract released, so what it did is reported here from Svenson's 2008 abstract and from Eriksson, Svenson and Eriksson's 2013 description of it."
+  },
+  "evidence": "Svenson's 2008 abstract describes three studies. The first asked people to choose between road improvement plans and found that a Ratio rule, the choice form of the Proportion heuristic, predicted the wrong decisions. The second moved the problem to health care, asking which of two clinics to reorganise to free up more doctors' time. The third used a matching procedure in which participants equated two alternatives, and the results supported the Ratio rule. The worked example that runs through the later literature comes from the road plans: over 10 km, raising mean speed from 70 to 110 kph saves 3 minutes while raising it from 30 to 40 kph saves about 5, and people picked the first. Peer put the same claim through three studies in Judgment and Decision Making. Study 1, with 79 licensed drivers, found the bias whether people estimated time saved, distance coverable in a fixed time, or the speed needed to complete a distance in shrinking times. Study 2, with 139 drivers, found no major difference between a numeric response scale and a visual analogue one. Study 3 reclassified 159 drivers' answers from the first two studies against the two competing heuristics and found some evidence for the difference form.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Found again by independent groups, in a national quota sample, in a driving simulator, and in taxis on the road.",
+    "detail": "Ron Fuller's group at Trinity College Dublin put four questions into a survey of 1,005 UK drivers, a representative quota sample, varying whether speed rose or fell and whether it started at 30 or 60 mph. Three of the four questions came out as predicted. A repeated-measures ANOVA showed no real appreciation of how starting speed bears on journey time, and a disordinal interaction showed drivers believing that a speed rise buys more time the faster one is already going, which is backwards. Gabriella Eriksson, Svenson and Lars Eriksson took 12 drivers into a fixed-base simulator at the Swedish National Road and Transport Research Institute and gave them no numbers at all, only a speedometer. Each drove a distance at a set speed, then drove it again at whatever speed seemed necessary to gain exactly three minutes. From 30 kph they gained 6.14 minutes against a target of three (t(11) = 5.853, p = 0.0001, one-tailed). From 100 kph they gained 2.21 minutes (t(11) = -3.228, p = 0.0040, one-tailed). Asked afterwards, they put both drives near the three-minute target, judging 3.56 and 3.25 minutes. The same group later reported in Ergonomics that a control group with an ordinary speedometer repeated the pattern while a group shown inverted speed came closer to the target. Peer and Lidor Solomon boarded 30 Jerusalem taxis and interviewed the drivers mid-journey, comparing them with 30 non-professional drivers. Both groups overestimated the time an extra 10 or 20 kph would save, with an adjusted bias ratio of 2.41 for taxi drivers and 5.13 for car drivers, both above 1 (t(26) = 5.4 and t(28) = 4.69) and different from each other (t(54) = 2.86, p < .01). Peer and Eyal Gamliel ran the debiasing side across three samples, 91 and 68 American drivers on Mechanical Turk and 112 Israeli undergraduates, and found correct answers more common when a speedometer carried pace values as well as speeds, by 42.5% against 24.19% on one time-saving problem and 28.02% against 13.75% on another.",
+    "study": {
+      "cite": "Fuller, R., Gormley, M., Stradling, S., Broughton, P., Kinnear, N., O'Dolan, C., & Hannigan, B. (2009). Impact of speed change on estimated journey time: Failure of drivers to appreciate relevance of initial speed. Accident Analysis & Prevention, 41(1), 10-14.",
+      "doi": "10.1016/j.aap.2008.07.013",
+      "year": 2009,
+      "n": 1005
+    }
+  },
+  "limits": "None of the studies read here reports a standardised effect size, so no d or r is printed above and the structured fields are empty. Searches of Crossref, Europe PMC, Semantic Scholar and the open web found no meta-analysis and no failed replication of the bias. Authorship is concentrated: Svenson, Peer and the Eriksson group account for most of the record, and Fuller's survey is the one large test from an unrelated team. Its fourth question, on speed decreases from a low starting speed, did not come out as predicted. The simulator study had 12 participants and one of the original 12 men was replaced after driving flat out in both conditions. Peer and Gamliel excluded 19%, 28% and 13% of their three samples for answers that violated the monotone relation between speed and time, and a further 33%, 19% and 7% did not finish every problem. The taxi study interviewed 30 drivers in one city, all men, against a student comparison group that was mostly women. Svenson's 1970 paper could not be obtained. Almost all the evidence is about driving; Svenson's clinic problem and a production-line problem described by Peer and Gamliel are the only non-driving cases located.",
+  "misreadings": "The bias is not that people always overestimate time saved. It is directional, and the direction turns on the initial speed: underestimation from a low one, overestimation from a high one. Svenson's own 2008 abstract states the one-sided version, saying that people overestimate the time that can be saved, which is how the effect is usually passed on. A second error is reading the taxi field study as showing that drivers overestimate savings in general. Both groups there did overestimate, but the reason is visible in the same table. Taxi meters recorded a mean journey of 6.25 km in 12.7 minutes, an average speed of 29.6 kph, while every one of the 30 taxi drivers put their average speed near 68.83 kph. The starting speed they were reasoning from was more than double the real one, which puts them on the overestimating branch of a bias defined by starting speed. Nor does the bias say that speeding saves no worthwhile time. It says the opposite at the bottom of the range, where small increases save a great deal, and the road-safety interest is in the top of the range, where drivers expect a return that the arithmetic will not pay. The mechanism is also often stated with more confidence than the evidence carries. Svenson's Proportion heuristic and Peer's difference variant make different predictions, Peer's Study 3 found some evidence for the difference form, and Peer and Gamliel's own classification left 49% and 72.66% of responses in their two conditions fitting neither."
+  ,
+  "sources": [
+    {
+      "text": "Svenson, O. (2008). Decisions among time saving options: When intuition is strong and wrong. Acta Psychologica, 127(2), 501-509.",
+      "doi": "10.1016/j.actpsy.2007.09.003",
+      "url": "https://doi.org/10.1016/j.actpsy.2007.09.003",
+      "type": "primary"
+    },
+    {
+      "text": "Svenson, O. (1970). A functional measurement approach to intuitive estimation as exemplified by estimated time savings. Journal of Experimental Psychology, 86(2), 204-210.",
+      "doi": "10.1037/h0029934",
+      "url": "https://doi.org/10.1037/h0029934",
+      "type": "primary"
+    },
+    {
+      "text": "Svenson, O. (2009). Driving speed changes and subjective estimates of time savings, accident risks and braking. Applied Cognitive Psychology, 23(4), 543-560.",
+      "doi": "10.1002/acp.1471",
+      "url": "https://doi.org/10.1002/acp.1471",
+      "type": "primary"
+    },
+    {
+      "text": "Fuller, R., Gormley, M., Stradling, S., Broughton, P., Kinnear, N., O'Dolan, C., & Hannigan, B. (2009). Impact of speed change on estimated journey time: Failure of drivers to appreciate relevance of initial speed. Accident Analysis & Prevention, 41(1), 10-14.",
+      "doi": "10.1016/j.aap.2008.07.013",
+      "url": "https://doi.org/10.1016/j.aap.2008.07.013",
+      "type": "replication"
+    },
+    {
+      "text": "Peer, E. (2010). Exploring the time-saving bias: How drivers misestimate time saved when increasing speed. Judgment and Decision Making, 5(7), 477-488.",
+      "doi": "10.1017/s1930297500001649",
+      "url": "https://doi.org/10.1017/s1930297500001649",
+      "type": "primary"
+    },
+    {
+      "text": "Peer, E. (2010). Speeding and the time-saving bias: How drivers' estimations of time saved in higher speed affects their choice of speed. Accident Analysis & Prevention, 42(6), 1978-1982.",
+      "doi": "10.1016/j.aap.2010.06.003",
+      "url": "https://doi.org/10.1016/j.aap.2010.06.003",
+      "type": "primary"
+    },
+    {
+      "text": "Peer, E. (2011). The time-saving bias, speed choices and driving behavior. Transportation Research Part F: Traffic Psychology and Behaviour, 14(6), 543-554.",
+      "doi": "10.1016/j.trf.2011.06.004",
+      "url": "https://doi.org/10.1016/j.trf.2011.06.004",
+      "type": "primary"
+    },
+    {
+      "text": "Peer, E., & Solomon, L. (2012). Professionally biased: Misestimations of driving speed, journey time and time-savings among taxi and car drivers. Judgment and Decision Making, 7(2), 165-172.",
+      "doi": "10.1017/s1930297500002990",
+      "url": "https://doi.org/10.1017/s1930297500002990",
+      "type": "replication"
+    },
+    {
+      "text": "Peer, E., & Gamliel, E. (2013). Pace yourself: Improving time-saving judgments when increasing activity speed. Judgment and Decision Making, 8(2), 106-115.",
+      "doi": "10.1017/s1930297500005040",
+      "url": "https://doi.org/10.1017/s1930297500005040",
+      "type": "replication"
+    },
+    {
+      "text": "Eriksson, G., Svenson, O., & Eriksson, L. (2013). The time-saving bias: Judgements, cognition and perception. Judgment and Decision Making, 8(4), 492-497.",
+      "doi": "10.1017/s1930297500005337",
+      "url": "https://doi.org/10.1017/s1930297500005337",
+      "type": "replication"
+    },
+    {
+      "text": "Eriksson, G., Patten, C. J. D., Svenson, O., & Eriksson, L. (2015). Estimated time of arrival and debiasing the time saving bias. Ergonomics, 58(12), 1939-1946.",
+      "doi": "10.1080/00140139.2015.1051592",
+      "url": "https://doi.org/10.1080/00140139.2015.1051592",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
