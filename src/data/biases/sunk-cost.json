@@ -4,7 +4,8 @@
   "name": "Sunk cost",
   "aliases": [
     "Sunk cost fallacy",
-    "Sunk cost effect"
+    "Sunk cost effect",
+    "Psychology of previous investment"
   ],
   "category": "decision",
   "statement": "People keep going with something because of what they have already spent on it, even when what they have spent cannot be recovered and should not affect the choice.",
@@ -49,7 +50,7 @@
     "indexedBy": "FReD"
   },
   "limits": "What replicated is a vignette, not a decision with anything at stake. Participants imagined a football ticket; nobody was cold and nobody was out of pocket. The pooled effect is also small: d = 0.31 means the distributions of the paid and free groups overlap heavily, and it describes an average shift, not a rule any individual follows. The vignettes may not even be measuring one thing. Białek and Biesiada gave 395 Prolific participants sets of established sunk-cost scenarios, four of them taken from Arkes and Blumer, and found internal consistency between 0.14 and 0.57 on McDonald's omega, with weak correlations between scenarios and no item whose removal helped. Cleaner designs do find the effect. Ronayne, Sgroi and Tuckwell had participants earn a lottery through a real-effort task and then offered a switch to a dominant lottery; 23 per cent of 268 stayed with the dominated one, against 7 per cent of 197 who had merely been given it, a difference of d = 0.16, p < 0.001. The effect as tested still says little about why. Arkes later argued the driver is avoiding the appearance of waste, and Zhu and Feldman's registered replication of that work found support in two of its three scenarios and none in the third.",
-  "misreadings": "The common misuse is treating any persistence as a sunk-cost fallacy. Continuing a project is only a fallacy if the reason is the money already spent; if it is a reasonable estimate that finishing still pays, or a reputation that would suffer from abandoning it, that is a different calculation and possibly a correct one. The second misreading is confusing sunk cost with escalation of commitment, which has its own entry here. Sunk cost asks whether resources already spent move the decision. Escalation asks whether having been the one who chose the failing course moves it further, and it requires bad news. Sleesman and colleagues admitted only studies with a failing course of action to their meta-analysis and excluded sunk-cost studies with no negative feedback. The third runs the other way: because the per-site results in Many Labs 1 split evenly, the effect is sometimes listed among psychology's replication casualties. It is not one. It replicated, with no detectable variation between laboratories. A fourth is the claim that sunk-cost sensitivity is unique to humans. Sweis and colleagues report that early work said so, that field studies in swallows, sparrows, mice and bluegills went both ways, and that in their own two foraging tasks 32 mice, 10 rats and 65 human undergraduates all showed it (F = 30.75, 45.65 and 3.95, all p < 0.0001). In all three species the sensitivity appeared only after the decision to pursue had been made, not before it.",
+  "misreadings": "The common misuse is treating any persistence as a sunk-cost fallacy. Continuing a project is only a fallacy if the reason is the money already spent; if it is a reasonable estimate that finishing still pays, or a reputation that would suffer from abandoning it, that is a different calculation and possibly a correct one. The second misreading is confusing sunk cost with escalation of commitment, which has its own entry here. Sunk cost asks whether resources already spent move the decision. Escalation asks whether having been the one who chose the failing course moves it further, and it requires bad news. Sleesman and colleagues admitted only studies with a failing course of action to their meta-analysis and excluded sunk-cost studies with no negative feedback. The third runs the other way: because the per-site results in Many Labs 1 split evenly, the effect is sometimes listed among psychology's replication casualties. It is not one. It replicated, with no detectable variation between laboratories. A fourth is the claim that sunk-cost sensitivity is unique to humans. Sweis and colleagues report that early work said so, that field studies in swallows, sparrows, mice and bluegills went both ways, and that in their own two foraging tasks 32 mice, 10 rats and 65 human undergraduates all showed it (F = 30.75, 45.65 and 3.95, all p < 0.0001). In all three species the sensitivity appeared only after the decision to pursue had been made, not before it. A fifth concerns a name rather than a finding. James Howard Kunstler coined the phrase \"the psychology of previous investment\", and Wikipedia files it under cognitive biases as though it were one of its own. Kunstler glossed it for Chris Martenson in 2010 as \"mainly our sunk costs in suburbia, including all its furnishings and accessories\". It is the effect described here under a popular name, pointed at roads and houses instead of football tickets. It carries no separate evidence. A full-text search of Europe PMC for the phrase returned no records, and a Crossref title search returned none either.",
   "sources": [
     {
       "text": "Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124-140. Paywalled; the full text could not be retrieved for this entry, so no figure from it is quoted here. Its citation count was read from OpenAlex, and its definition is quoted as later authors state it.",
@@ -109,7 +110,17 @@
       "doi": "10.17605/OSF.IO/9R62X",
       "url": "https://doi.org/10.17605/OSF.IO/9R62X",
       "type": "index"
+    },
+    {
+      "text": "Martenson, C. (2010). Straight Talk with James Howard Kunstler: \"The World is Going to Get Rounder and Bigger Again\". Peak Prosperity, 17 November 2010. The interview in which Kunstler calls the psychology of previous investment a massive impediment to the public's ability to think clearly and defines it as sunk costs in suburbia.",
+      "url": "https://peakprosperity.com/straight-talk-with-james-howard-kunstler-the-world-is-going-to-get-rounder-and-bigger-again-2/",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, \"Psychology of previous investment\", article wikitext read on 10 August 2026. A stub that attributes the phrase to Kunstler and files it under cognitive biases. Cited for the currency of the name, not for any finding.",
+      "url": "https://en.wikipedia.org/wiki/Psychology_of_previous_investment",
+      "type": "index"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-10"
 }
