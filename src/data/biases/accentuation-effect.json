@@ -1,0 +1,95 @@
+{
+  "no": 304,
+  "slug": "accentuation-effect",
+  "name": "Accentuation effect",
+  "aliases": [
+    "Categorical accentuation",
+    "Category accentuation effect",
+    "Accentuation principle",
+    "Accentuation theory",
+    "Tajfel effect"
+  ],
+  "category": "perception",
+  "statement": "Putting a two-class label on a graded series makes people judge the two items either side of the class boundary as further apart than they are.",
+  "meaning": "The claim is about judged differences, not about liking. A perceiver estimates the magnitude of each item in a series, and the estimates stretch at the point where one class ends and the other begins. Nothing in the claim requires the classes to be groups of people, and nothing requires the perceiver to prefer one class. Tajfel and Wilkes state two predictions taken from Tajfel's 1959 paper. A classification that runs consistently with the physical dimension shifts judgements of magnitude at the class boundary. A classification unrelated to the dimension does nothing. Two further hypotheses in the same paper are separable from the first and fare differently: that items inside a class are judged more alike, and that making the classification more salient strengthens both effects. The between-class half is the one usually meant by the name. The within-class half is the one that connects the idea to stereotyping, and it is the weaker of the two."
+  ,
+  "origin": {
+    "year": 1963,
+    "who": "Henri Tajfel and A. L. Wilkes",
+    "where": "British Journal of Psychology",
+    "note": "'Classification and quantitative judgement' was received on 24 July 1962 and published in the May 1963 issue, from the Department of Social and Administrative Studies at Oxford. The predictions it tested were set out four years earlier in Tajfel's 'Quantitative judgement in social perception', and the 1963 paper quotes them from pages 20 to 21 of that article. Tajfel and Wilkes describe their own experiments as 'a simplified exercise in stereotyping'."
+  },
+  "evidence": "Eight lines differed from each other by a constant ratio of about 5% of length. The shortest was 16.2 cm; the text gives the longest as 22.9 cm while the table of actual values ends at 22.8. Each line was drawn diagonally on a sheet of white cardboard 63.5 cm by 50.8 cm, and a separate sheet was made for every presentation. Sixty-one volunteers from Oxford University, Westminster Training College and Manchester University took part in the first two experiments, and 54 came back a week later. Group C, twelve people, saw the four shorter lines labelled A and the four longer labelled B. Group R, thirteen people, saw the same letters alternating at random. Group U, twelve people, saw no letters. A second experiment repeated the classified and unlabelled conditions with twelve people each under a different mode of prior presentation. Lines were shown one at a time, six times, in successive random orders, at about 8 ft, with judgements called out in centimetres. The boundary sat between stimuli 4 and 5. In the first sessions the apparent difference there was 100% greater than the actual difference for the classified groups and 11% greater for the controls; in the second sessions, 122% and 44%. Fitting a linear function to each subject's judgements within each class gave mean inter-class differences of 1.9 for the classified groups against 1.1 for both control groups, rising to 2.1 against 1.4 and 1.1 a week later. The analysis of variance gave F = 6.12, P < 0.025 for the classification in the first sessions and F = 4.40, P < 0.05 in the second. Two controls rule out the letters themselves. In group R the mean judgements of a stimulus labelled A and labelled B were practically identical. Mean adjacent differences were 1.07 when both items carried the same letter and 1.12 when they carried different ones. The effect appeared at one place only. An analysis run on the other point where the classified groups exaggerated a gap, between stimuli 1 and 2, gave F = 0.47 for the classification."
+  ,
+  "replication": {
+    "state": "mixed",
+    "headline": "Direct line-judgement replications in 2002 and 2021 found the between-class stretch, but only under uncertainty about the judgement scale, and the within-class half of the hypothesis failed in the original paper itself.",
+    "detail": "Tajfel and Wilkes obtained the between-class result and did not obtain the within-class one. Their analysis of mean intra-class slopes showed that neither the classification nor its salience changed the apparent differences within a class. They write that this does not confirm the prediction that classifying would increase the judged similarity of stimuli in the same class. Salience made no difference, and neither did returning a week later. Repeated judging inside a single session did. Over the last five of eleven presentations the classified group's inter-class difference was 2.0, against 0.7 for the random-label group and 0.9 for the unlabelled group. Those gaps reached P < 0.001 and P < 0.01, and the classified group's intra-class slope fell to 0.83 against 0.99 and 1.02. Corneille, Klein, Lambert and Judd rebuilt the task for Belgian and American participants estimating lines in inches or in centimetres. Their abstract reports accentuation higher when the lines were systematically categorised, and stronger when the unit was the unfamiliar one. It closes by saying the finding may help explain why researchers had had difficulty replicating the effect in the past. Foroni and Rothbart, reading that paper, put it more sharply in a footnote: it replicated Tajfel and Wilkes only with judgement scales unfamiliar to the participants. Drače and Čehajić ran the closest recent direct replication, with 136 of 139 psychology undergraduates at Sarajevo analysed, assigned to no-label, label, or label plus a fear induction. Eight on-screen lines ran from 7.4 cm to 11.4 cm, each judged six times, and the accentuation score was the mean estimated difference between the two lines flanking the boundary. Means were 0.67 cm with no labels, SD 0.40, 0.89 cm with labels, SD 0.51, and 1.04 cm with labels plus fear, SD 0.53. The planned contrast that reached significance set label-plus-fear against no-label, F(1, 133) = 12.48, p = .001, partial eta squared .08; the orthogonal contrast testing residual variance was F < 1. No test of labels against no labels on its own is reported in that paper. Sample size was fixed in advance at 135 for 80% power against a medium effect. Away from lines the picture splits by measure. Foroni and Rothbart showed 233 people nine female silhouettes graded by ponderosity and imposed labels between phases. Labels increased within-category similarity, F(1, 230) = 11.01, p = .001, eta squared .05, while the matching accentuation of across-category pairs reached only F(1, 230) = 3.26, p = .07, eta squared .014. On absolute weight estimates both held: assimilation at F(1, 230) = 8.59, p = .004, and accentuation at F(1, 230) = 8.98, p = .003. McGarty and Penny had 55 people judge political statements classified by author and found both halves, and their abstract says this was unlike numerous other studies with similar designs. Rothermund and Deutsch report two preregistered experiments in which perceivers exaggerated differences between two fictitious groups, with accentuation stronger for the group met second and still present for the group met first.",
+    "study": {
+      "cite": "Drače, S., & Čehajić, M. (2021). Emotional Determinants of Categorical Accentuation. Psihologijske teme, 30(2), 271-278.",
+      "doi": "10.31820/pt.30.2.6",
+      "year": 2021,
+      "n": 136
+    }
+  },
+  "limits": "The original is small and old. Sixty-one volunteers were split into groups of twelve and thirteen, the paper reports F ratios and P values with no effect sizes and no confidence intervals, and nothing about it was preregistered. Its own comparison of the classified group against the random-label group, the cleanest control it had, missed significance in the first session and reached P < 0.01 only in the second. Tajfel and Wilkes note the asymmetry themselves: the random-label group existed in one experiment and not the other, because enough subjects could not be found. Where the effect shows up seems to depend on how uncertain the judgement is. Corneille and colleagues found it stronger in an unfamiliar measurement unit, and Drače and Čehajić found it stronger after a fear induction, which is consistent with an effect that needs room in the scale to appear. The line task itself is unusual in that respect. Tajfel and Wilkes had British subjects in 1962 judge in centimetres and showed them a ruler with examples of the relation between centimetres and inches, which is the detail Corneille and colleagues built their replication around. No pooled estimate across studies was located, and no multi-laboratory replication was located. Four papers central to this entry were not read in full. Corneille, Klein, Lambert and Judd is paywalled with no open copy at Unpaywall, and everything attributed to it here comes from its abstract, read at PubMed and at Crossref, or from Foroni and Rothbart's footnote about it. McGarty and Penny and Rothermund and Deutsch are cited from their abstracts. Carter and Schooler's 1949 re-examination of the coin studies was located and not read, and no abstract for it was found at Crossref, PsycNet or Semantic Scholar, so what it found is not stated on this page. The search covered Crossref, PubMed, Europe PMC, Unpaywall, Hrčak, the authors' institutional pages and the open web; OpenAlex and Semantic Scholar were rate-limited during the search and returned no results.",
+  "misreadings": "The effect is read as a claim about attitude. It is a claim about judged magnitude, and the same stretch at a boundary appears for lines, weights and political statements. This atlas keeps the out-group homogeneity effect as a separate entry for the same reason, and the two claims are related without being the same one. Out-group homogeneity is the within-class half of Tajfel's hypothesis applied to people, and that is the half Tajfel and Wilkes did not obtain. Boldry, Gaertner and Quinn's meta-analysis, quoted on that page, puts the pooled out-group homogeneity effect at d = -0.20 across 12,078 participants with nine of eleven measures finding nothing alone. Presenting the 1963 lines study as the demonstration of out-group homogeneity gets the direction of support backwards. The second confusion is with Bruner and Goodman's coin studies, which are a different claim with a different design. They sat thirty ten-year-olds in front of an adjustable circle of light and asked them to match it to coins and to grey cardboard discs of the same size. Coins were judged larger than discs, the overestimation grew with the value of the coin apart from the half dollar, and the ten poor children overestimated more than the ten rich ones. That is value inflating perceived size, with no category boundary and no series to stretch. Bruner and Goodman use the word accentuate for it, which is part of why the two get bundled, and their rich group over-judged a half dollar by 17.4% with the coin in view and 34.7% from memory. Third, retellings say the classified series was judged more different throughout. Tajfel and Wilkes found the difference only at the break between stimuli 4 and 5, and reported F = 0.47 for the classification at the other point where the classified groups stretched a gap. Fourth, the lines are often described as vertical. The paper says each was drawn diagonally, on a large sheet chosen to keep the frame from giving the differences away."
+  ,
+  "sources": [
+    {
+      "text": "Tajfel, H., & Wilkes, A. L. (1963). Classification and quantitative judgement. British Journal of Psychology, 54(2), 101-114. The founding paper. Read in full from a scanned copy hosted by the University of Western Macedonia; source for every figure attributed to the original here.",
+      "doi": "10.1111/j.2044-8295.1963.tb00865.x",
+      "url": "https://eclass.uowm.gr/modules/document/file.php/NURED262/%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F%CE%A4%CE%A5%CE%A0%CE%91%20%CE%91%CE%A1%CE%98%CE%A1%CE%91/Tajfel%20&%20Wilkes%20classification%20and%20quantitative%20judgement%201963%20BJP.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Tajfel, H. (1959). Quantitative judgement in social perception. British Journal of Psychology, 50(1), 16-29. The paper that stated the predictions. Not read; it is listed because Tajfel and Wilkes quote its pages 20 to 21 and 23 for the hypotheses they test.",
+      "doi": "10.1111/j.2044-8295.1959.tb00677.x",
+      "url": "https://doi.org/10.1111/j.2044-8295.1959.tb00677.x",
+      "type": "primary"
+    },
+    {
+      "text": "Corneille, O., Klein, O., Lambert, S., & Judd, C. M. (2002). On the role of familiarity with units of measurement in categorical accentuation: Tajfel and Wilkes (1963) revisited and replicated. Psychological Science, 13(4), 380-383. Paywalled, with no open copy at Unpaywall. The abstract was read at PubMed and at Crossref and matched; no number from this paper appears on this page.",
+      "doi": "10.1111/1467-9280.00468",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12137143/",
+      "type": "replication"
+    },
+    {
+      "text": "Drače, S., & Čehajić, M. (2021). Emotional Determinants of Categorical Accentuation. Psihologijske teme, 30(2), 271-278. Read in full from the open-access copy at Hrčak. Source for the 136 participants, the condition means and the planned contrasts.",
+      "doi": "10.31820/pt.30.2.6",
+      "url": "https://hrcak.srce.hr/clanak/378866",
+      "type": "replication"
+    },
+    {
+      "text": "Foroni, F., & Rothbart, M. (2011). Category boundaries and category labels: When does a category name influence the perceived similarity of category members? Social Cognition, 29(5), 547-576. Read in full from the copy hosted at SISSA. Source for the silhouette experiments and for the footnote reading of Corneille and colleagues.",
+      "doi": "10.1521/soco.2011.29.5.547",
+      "url": "https://insula.sissa.it/sites/default/files/Foroni&Rothbart_2011.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "McGarty, C., & Penny, R. E. C. (1988). Categorization, accentuation and social judgement. British Journal of Social Psychology, 27(2), 147-157. Abstract read at Crossref; source for the 55 subjects, for both halves of the effect appearing, and for the remark that this was unlike numerous other studies with similar designs. Full text not obtained.",
+      "doi": "10.1111/j.2044-8309.1988.tb00813.x",
+      "url": "https://doi.org/10.1111/j.2044-8309.1988.tb00813.x",
+      "type": "primary"
+    },
+    {
+      "text": "Rothermund, P., & Deutsch, R. (2024). Exaggerating differences back and forth: Two levels of intergroup accentuation. British Journal of Social Psychology, 63(2), 708-722. Abstract read at Europe PMC and at Crossref. Listed as the most recent preregistered work on accentuation between groups; no figure here comes from it.",
+      "doi": "10.1111/bjso.12699",
+      "url": "https://europepmc.org/abstract/MED/37991175",
+      "type": "primary"
+    },
+    {
+      "text": "Bruner, J. S., & Goodman, C. C. (1947). Value and need as organizing factors in perception. The Journal of Abnormal and Social Psychology, 42(1), 33-44. Read in full from the Classics in the History of Psychology transcription at York University. Source for the coin study's design and results, which this page cites only to separate them from the accentuation effect.",
+      "doi": "10.1037/h0058484",
+      "url": "https://psychclassics.yorku.ca/Bruner/Value/",
+      "type": "primary"
+    },
+    {
+      "text": "Carter, L. F., & Schooler, K. (1949). Value, need, and other factors in perception. Psychological Review, 56(4), 200-207. The contemporaneous re-examination of the coin studies. Located and not read; no abstract was found at Crossref, PsycNet or Semantic Scholar, so nothing is claimed about what it found.",
+      "doi": "10.1037/h0060745",
+      "url": "https://doi.org/10.1037/h0060745",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
