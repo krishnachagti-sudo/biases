@@ -1,0 +1,120 @@
+{
+  "no": 271,
+  "slug": "eyewitness-memory",
+  "name": "Eyewitness memory",
+  "aliases": [
+    "Eyewitness testimony",
+    "Eyewitness identification",
+    "Eyewitness misidentification",
+    "Unreliability of eyewitness memory"
+  ],
+  "category": "memory",
+  "statement": "Eyewitness memory is a field label rather than one effect, and its most argued recent finding is that confidence at a first, uncontaminated identification predicts accuracy well.",
+  "meaning": "The label covers every way a witness's account of a crime can go wrong, and it is not one effect. Wells split the field in two in 1978 and the split still organises it. System variables are conditions the police control, such as who stands in the lineup, who administers it and what the witness is told first. Estimator variables are conditions nobody controls, such as lighting, viewing distance, delay and the race of the person seen. The outcome measures differ as well. A witness may fail to describe a face, fail to pick the right man from a lineup, pick an innocent one, or import a detail from a conversation or a newspaper. Those are separate failures with separate literatures, and this page is a map of the members that have their own entries here, because that is the level at which the evidence exists. What the umbrella has of its own is field data on real lineups, an archive of wrongful convictions, and one contested claim about the first memory test.",
+  "origin": {
+    "year": 1978,
+    "who": "Gary L. Wells",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "'Applied eyewitness-testimony research: System variables and estimator variables' gave the field the vocabulary it still uses. Its metadata was verified at Crossref and its text was not read for this entry; Wixted and Mickes cite it for the term estimator variable, meaning conditions of the witnessing that investigators cannot control. No single publication founds the subject. Its policy spine is the 1998 review by Wells, Small, Penrod, Malpass, Fulero and Brimacombe, which the American Psychology-Law Society had updated by Wells, Kovera, Douglass, Brewer, Meissner and Wixted in 2020."
+  },
+  "evidence": "Real lineups produce errors that can be counted without knowing who is guilty, because a filler is known to be innocent. Smalarz and Wells, summarising the 2020 review for police readers, report a sample of 6,734 lineups from jurisdictions including Arizona, California and Texas in which nearly one witness in four identified a known-innocent filler. That figure is quoted here at one remove and the review itself was not read. The archive of wrongful convictions is the other umbrella-level record. Berkowitz, Garrett, Fenn and Loftus report that of the first 250 DNA exonerations in the United States, mistaken eyewitness identification occurred in 190, or 76%, a share inflated by DNA testing being most useful in stranger sexual assault cases. Trial records were obtained for 161 of those 190. In 64 of the 161, or 40%, the witness had identified a filler, another suspect or nobody at the identification procedure. In 15, or 9%, the witness said they never saw the face. In 34, or 21%, the witness testified to having been uncertain at the time. Ninety-one of the 161, or 57%, carried at least one of those problems. The entire identification procedure was recorded in four of the 161. The same authors report 703 eyewitness exonerations among more than 2,400 in the National Registry of Exonerations as of July 2019. Eyewitness memory was the commonest route by which the exoneree first became a suspect, in 321 cases or 46%. The confidence claim rests on two studies that were built to be compared. Wixted, Mickes, Dunn, Clark and Wells fitted a signal detection model to 348 blindly administered photo lineups run by the Houston Police Department over one year, with confidence recorded on a three-point scale. Their abstract concludes that confidence in an identification from a fair lineup is a highly reliable indicator of accuracy, and that any difference between simultaneous and sequential formats favours the simultaneous one. The model put the proportion of Houston lineups containing a guilty suspect at 35%, so 65% held an innocent suspect, and estimated high-confidence suspect identification accuracy near 97%. Ayala, Smith and Wells then ran a laboratory study of 6,230 people sharing the field study's features: both lineup formats, no stopping rule, description-matched fillers, may-or-may-not-be-present instructions, and an immediate confidence rating. Wixted and Mickes recomputed suspect identification accuracy directly from those data, which is possible in a laboratory because guilt is known, and got high-confidence accuracy of about 97% again. The same fit recovered known base rates of 0.50 and 0.61 as 0.45 and 0.60. The Houston conditions were not favourable ones: every crime was a robbery, a weapon was present in most cases, and most identifications were cross-race.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication of eyewitness memory exists, because no experiment goes by that name. The one field-level claim tested in both settings is the confidence claim, and high-confidence first identifications came out near 97% correct in the Houston lineups and in the laboratory study built to mirror them.",
+    "detail": "The members were tested apart and their verdicts do not agree, which is why an average over them would describe nothing. Weapon focus is unsettled, with three meta-analyses supporting it and five preregistered experiments finding nothing; entry 160. The cross-race effect held in a meta-analysis of 159 articles; entry 78. Memory conformity held in a ten-country replication; entry 249. Misattribution of memory held; entry 239. False memory and suggestibility both came out mixed; entries 35 and 172. The effect sizes behind those verdicts sit on those pages and were not re-read for this entry. What the field itself thinks was measured once. Seale-Carlisle, Quigley-McBride, Teitcher, Crozier, Dodson and Garrett surveyed 76 eyewitness scientists between December 2020 and June 2021. Agreement ran to 100% on post-event information and on unconscious transference, 99% on blind lineups, 97% on cross-race bias, 93% on the forgetting curve, 89% on unfair lineups, 88% on showups and 80% on weapon focus. It fell to 68% on face recognition ability, 53% on low filler similarity, 34% on simultaneous against sequential presentation and 28% on lineup rejections. The two confidence statements split by 21 points. Sixty-eight percent agreed that confidence stated in court, or at any time after the identification procedure, is a poor indicator of accuracy. Eighty-nine percent agreed that where best practices are used, confidence taken immediately after the decision can inform accuracy. The authors read that gap as a change of position: experts once held that confidence is weakly related to accuracy, and the point-biserial correlation used to measure it was often low. The confidence claim has drawn direct challenge on the estimator-variable side. Giacona, Lampinen and Anastasi sorted the Houston cases by how many of seven estimator variables were suboptimal and found that among high-confidence identifications the proportion landing on the suspect rather than a filler fell from about 0.87 with a good view to 0.71 with a poor one. Wixted and Mickes answer that this measure is not the one a court needs, and that computed directly in the Ayala data the equivalent good-view and poor-view figures are 98% and 96% correct, z = 1.08, p = 0.274. They also report, from Ayala's five simulated viewing distances, that the number of high-confidence suspect identifications collapsed from over 400 at 10 feet to 33 at 210 feet, so under 3% of participants made one at the longest distance against 33% at the shortest. Their reading is that witnesses raise the bar for confidence as conditions worsen. Lockamyeir, Carlson, Jones, Carlson and Weatherford are the case that resists it: as Wixted and Mickes describe their 20-metre condition, 1.6% of 1,194 participants confidently identified a suspect and those identifications were 63% correct."
+  },
+  "limits": "No meta-analysis, multi-site replication or registered report of eyewitness memory as a whole was located, and none could exist, because the label names a subject rather than a procedure. The search ran across Crossref, Europe PMC, PubMed Central, Semantic Scholar, Unpaywall, the National Academies Press reader and general web search. Several documents could not be obtained. Wells's 1978 paper is paywalled and only its Crossref record was read, so nothing about its argument is claimed here beyond what Wixted and Mickes attribute to it. Wixted and Wells's 2017 synthesis is paywalled; its abstract was read at Crossref and no figure from its body appears on this page. Sporer, Penrod, Read and Cutler's 1995 meta-analysis, the source of the low correlation the field worked from for two decades, could not be reached at any of Crossref, Semantic Scholar or PsycNet, and its coefficients are therefore absent. Lee and Penrod's cross-race meta-analysis is closed and its abstract gives no numbers. The 2020 policy review was read only through Smalarz and Wells's four-page summary of it, which is the source for the 6,734 lineups and the one-in-four filler rate. Giacona's and Lockamyeir's figures are quoted from Wixted and Mickes's account of them rather than from those papers, and Wixted and Mickes are parties to the dispute they are describing. The Houston estimates are model output, not counts. The 35% base rate and the 97% accuracy are parameters of an Independent Observations signal detection model fitted to 348 lineups from one department in one year, and their validity rests on the model's assumptions. Wixted and Mickes report that allowing for suspect bias did not change the fit, which is evidence against one objection rather than against all of them. The Ayala study was run online with simulated viewing distances. Whether high-confidence accuracy survives conditions degraded further than those tested is described by Wixted and Mickes themselves as unresolved.",
+  "misreadings": "The blanket reading is the commonest one. Eyewitness memory is treated as reliable or unreliable as a whole, when the unit that fails is a particular witness identifying a particular stranger under conditions that can be listed. The expert survey shows the field does not answer at one level either: agreement ran from 100% on post-event information to 28% on lineup rejections. The second error merges two moments. Courtroom confidence and confidence at the first test are different measurements, and the experts split 68% against 89% on them. The National Research Council's 2014 report makes the same distinction from the legal side, faulting the Manson v. Brathwaite test for treating witness confidence as an independent marker of reliability when confidence judgments vary over time and can be swayed by many factors, and recommending that police document confidence verbatim at the moment of first identification. Nothing in the recent work rehabilitates the certain witness on the stand. The third error drops the conditions. The 97% figure describes an initial, uncontaminated test using a fair lineup with one suspect, a blind administrator, a warning that the culprit may be absent and an immediate confidence statement. Moore, Pennekamp, Yu and Zwemer note that only 29 of the 50 states and the federal government have adopted any of those practices. They also report that 41% of one sample of real police lineups was significantly biased against the suspect. Both figures are quoted in their review from Kafadar and colleagues and from Steblay and Wells. They also list the estimator variables under which high confidence has failed to track accuracy, including a three-day delay, poor face recognition ability, and witnesses aged four to nine. The fourth error runs the DNA figure backwards. Mistaken identification in 76% of the first 250 exonerations is a share of a set selected for having testable biological evidence, and it is not the rate at which witnesses are wrong. The fifth is a claim about those cases that the record cannot support. Berkowitz and colleagues show that no reliable measure of the exonerees' initial confidence exists, because the whole procedure was recorded in four of 161 cases and what survives is retrospective testimony at trial. Assertions that no such witness was both mistaken and highly confident go beyond what Garrett's data can settle. The half of the claim nobody disputes is the low-confidence half. Wixted and Wells wrote that whereas the information value of a high-confidence identification may be questioned wherever non-pristine conditions are used, the information value of a low-confidence identification is never open to question. Berkowitz and colleagues, who dispute nearly everything else in that paper, say they do not disagree with it.",
+  "sources": [
+    {
+      "text": "Wells, G. L. (1978). Applied eyewitness-testimony research: System variables and estimator variables. Journal of Personality and Social Psychology, 36(12), 1546-1557. Paywalled; only the Crossref record was read, and no claim about the paper's contents is made here except the one Wixted and Mickes (2025) attribute to it.",
+      "doi": "10.1037/0022-3514.36.12.1546",
+      "url": "https://doi.org/10.1037/0022-3514.36.12.1546",
+      "type": "primary"
+    },
+    {
+      "text": "Wixted, J. T., & Wells, G. L. (2017). The relationship between eyewitness confidence and identification accuracy: A new synthesis. Psychological Science in the Public Interest, 18(1), 10-65. Paywalled and not read. The abstract was read at Crossref and is the source for the pristine-conditions argument and for the claim that the legal system increasingly treats confidence as uninformative.",
+      "doi": "10.1177/1529100616686966",
+      "url": "https://doi.org/10.1177/1529100616686966",
+      "type": "review"
+    },
+    {
+      "text": "Wixted, J. T., Mickes, L., Dunn, J. C., Clark, S. E., & Wells, W. (2016). Estimating the reliability of eyewitness identifications from police lineups. Proceedings of the National Academy of Sciences, 113(2), 304-309. The abstract was read twice, at Crossref and at Europe PMC; the full text is on PubMed Central but could not be retrieved, and the study's figures here come from Wixted and Mickes (2025).",
+      "doi": "10.1073/pnas.1516814112",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4720310/",
+      "type": "primary"
+    },
+    {
+      "text": "Wixted, J. T., & Mickes, L. (2025). Suspect identification accuracy from lineups, in the lab and in the field. Cognitive Research: Principles and Implications, 10, 48. Open access, read in full from the Europe PMC XML. Source for the Houston counts, the 35% base rate, the near-97% high-confidence accuracy, the comparison with Ayala and colleagues, and the descriptions of Giacona and of Lockamyeir.",
+      "doi": "10.1186/s41235-025-00670-1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12449283/",
+      "type": "replication"
+    },
+    {
+      "text": "Ayala, N. T., Smith, A. M., & Wells, G. L. (2025). Beyond the confidence-accuracy relation: A multiple-reflector-variable approach to postdicting accuracy on eyewitness lineups. Journal of Experimental Psychology: Applied, 31(3), 204-227. Not read. Metadata verified at Crossref; the design details and all figures attributed to it here are Wixted and Mickes's (2025) reanalysis of its data.",
+      "doi": "10.1037/xap0000527",
+      "url": "https://doi.org/10.1037/xap0000527",
+      "type": "primary"
+    },
+    {
+      "text": "Berkowitz, S. R., Garrett, B. L., Fenn, K. M., & Loftus, E. F. (2022). Convicting with confidence? Why we should not over-rely on eyewitness confidence. Memory, 30(1), 10-15. Read in full as the author's copy at eScholarship. Source for the DNA exoneration counts, the National Registry of Exonerations figures and the quotation from Wixted and Wells about low-confidence identifications.",
+      "doi": "10.1080/09658211.2020.1849308",
+      "url": "https://escholarship.org/content/qt2h1562k3/qt2h1562k3.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Moore, K. N., Pennekamp, P., Yu, C., & Zwemer, D. U. (2024). Eyewitness confidence does not necessarily indicate identification accuracy. Policy Insights from the Behavioral and Brain Sciences, 11(2), 149-155. Read in full. Source for the adoption figures, the 41% biased-lineup figure and the list of estimator variables under which high confidence failed; those figures are its own quotations of Kafadar and colleagues, of Steblay and Wells, and of the individual studies.",
+      "doi": "10.1177/23727322241268384",
+      "url": "https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Seale-Carlisle, T. M., Quigley-McBride, A., Teitcher, J. E. F., Crozier, W. E., Dodson, C. S., & Garrett, B. L. (2025). New insights on expert opinion about eyewitness memory research. Perspectives on Psychological Science, 20(5), 903-924. Read in full at Europe PMC. Source for the survey of 76 scientists and for every agreement percentage quoted here, including the 68% and 89% confidence statements, which were read twice.",
+      "doi": "10.1177/17456916241234837",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/",
+      "type": "primary"
+    },
+    {
+      "text": "Giacona, A. M., Lampinen, J. M., & Anastasi, J. S. (2021). Estimator variables can matter even for high-confidence lineup identifications made under pristine conditions. Law and Human Behavior, 45(3), 256-270. Paywalled and not read. Metadata verified at Crossref; the 0.87 and 0.71 figures are quoted from Wixted and Mickes's (2025) account.",
+      "doi": "10.1037/lhb0000381",
+      "url": "https://doi.org/10.1037/lhb0000381",
+      "type": "primary"
+    },
+    {
+      "text": "Lockamyeir, R. F., Carlson, C. A., Jones, A. R., Carlson, M. A., & Weatherford, D. R. (2020). The effect of viewing distance on empirical discriminability and the confidence-accuracy relationship for eyewitness identification. Applied Cognitive Psychology, 34(5), 1047-1060. Paywalled and not read. Metadata verified at Crossref; the 20-metre figures are quoted from Wixted and Mickes's (2025) account.",
+      "doi": "10.1002/acp.3683",
+      "url": "https://doi.org/10.1002/acp.3683",
+      "type": "primary"
+    },
+    {
+      "text": "Wells, G. L., Kovera, M. B., Douglass, A. B., Brewer, N., Meissner, C. A., & Wixted, J. T. (2020). Policy and procedure recommendations for the collection and preservation of eyewitness identification evidence. Law and Human Behavior, 44(1), 3-36. Paywalled and not read; metadata verified at Crossref. Its contents are taken here from Smalarz and Wells's summary.",
+      "doi": "10.1037/lhb0000359",
+      "url": "https://doi.org/10.1037/lhb0000359",
+      "type": "review"
+    },
+    {
+      "text": "Smalarz, L., & Wells, G. (2024). Recommendations for the collection and preservation of eyewitness identification evidence. Applied Police Briefings, 1, 5-8. Read in full. A four-page practitioner summary of Wells and colleagues (2020) written by two of that literature's authors, and the source for the 6,734 lineups, the one-in-four filler identification rate and the nine recommended procedures.",
+      "url": "https://appliedpolicebriefings.com/index.php/APB/article/view/4857",
+      "type": "review"
+    },
+    {
+      "text": "Wells, G. L., Small, M., Penrod, S., Malpass, R. S., Fulero, S. M., & Brimacombe, C. A. E. (1998). Eyewitness identification procedures: Recommendations for lineups and photospreads. Law and Human Behavior, 22(6), 603-647. Not read; metadata verified at Crossref and cited only as the review the 2020 paper updates.",
+      "doi": "10.1023/A:1025750605807",
+      "url": "https://doi.org/10.1023/A:1025750605807",
+      "type": "review"
+    },
+    {
+      "text": "National Research Council (2014). Identifying the Culprit: Assessing Eyewitness Identification. Washington: The National Academies Press. The summary chapter was read twice in the publisher's online reader. Source for the criticism of the Manson v. Brathwaite reliability test and for the recommendation to document witness confidence verbatim at the first identification.",
+      "doi": "10.17226/18891",
+      "url": "https://www.nationalacademies.org/read/18891/chapter/2",
+      "type": "review"
+    },
+    {
+      "text": "Sporer, S. L., Penrod, S., Read, D., & Cutler, B. (1995). Choosing, confidence, and accuracy: A meta-analysis of the confidence-accuracy relation in eyewitness identification studies. Psychological Bulletin, 118(3), 315-327. Metadata verified at Crossref. No abstract or text could be obtained from Crossref, Semantic Scholar or PsycNet, so its coefficients are not quoted; it appears here only because Seale-Carlisle and colleagues name it as the source of the low correlation the field worked from.",
+      "doi": "10.1037/0033-2909.118.3.315",
+      "url": "https://doi.org/10.1037/0033-2909.118.3.315",
+      "type": "meta-analysis"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
