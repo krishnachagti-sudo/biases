@@ -1,0 +1,92 @@
+{
+  "no": 275,
+  "slug": "psychological-inertia",
+  "name": "Psychological inertia",
+  "aliases": ["Psychological law of inertia", "Inertia account", "Decision inertia"],
+  "category": "decision",
+  "statement": "People stay with the current option unless a motive impels them to move, and Gal argues that this alone accounts for what loss aversion was introduced to explain.",
+  "meaning": "This is an explanation offered for other findings rather than a finding of its own. David Gal's argument rests on two premises. Behaviour needs a motive, and preferences are fuzzy rather than precise. Together they predict that a person with no clear preference between the current option and an alternative will stay put, because nothing pushes them to move. The status quo bias, the endowment effect and the risky bet premium each set the current state against change. Gal's claim is that one propensity covers all three, with no asymmetry between losses and gains. A second, narrower use of the word runs alongside it. Experimental economists and neuroscientists use decision inertia for the tendency to repeat a previous choice regardless of how it turned out, and they measure it trial by trial in tasks with money at stake. The two claims share a name and a metaphor from Newton. They are tested in different ways and they are not the same claim.",
+  "origin": {
+    "year": 2006,
+    "who": "David Gal",
+    "where": "Judgment and Decision Making",
+    "note": "\"A psychological law of inertia and the illusion of loss aversion\" set the argument out in that journal's first issue, pages 23 to 32. It closed by asking that the loss aversion principle be abandoned. Gal's own term is the Psychological Law of Inertia. The phrase \"psychological inertia\" is how Alós-Ferrer, Hügelschäfer and Li refer to his proposal."
+  },
+  "evidence": "Gal's paper is mostly argument, with two short experiments attached. In the first, 110 undergraduates at a large west coast university imagined owning a quarter minted in Denver or in Philadelphia. They were asked whether they would swap it for a quarter minted in the other city, with time and effort assumed away. Over 85 percent in either condition kept their own coin. Gal quotes Kahneman, and Novemsky and Kahneman, as holding that loss aversion does not apply to an exchange of essentially identical goods. Whatever holds people in place there is therefore something else. The second experiment used 133 undergraduates. Asked for the smallest X that would make a 50-50 bet of losing $100 or winning X acceptable, under 2 percent took an even bet and the median X was $500. Earlier in the same session those people split a hypothetical $100 between a sure 3 percent return and an even chance of doubling or losing the stake. Gal reports that nearly 80 percent put something into the bet, 23 percent all of it and 55 percent part of it. Those who had demanded the largest premiums put more into the safe asset, 64 percent against 46 percent, t(131) = 2.71, p < 0.01. Neither task was played for money. The repeated-choice strand is incentivised and looks nothing like this. Alós-Ferrer, Hügelschäfer and Li had 45 students at the University of Cologne make 60 two-draw urn decisions, paying 18 euro cents a winning ball. Where repeating the first draw conflicted with Bayes' rule, the mean error rate was 21.98 percent, against 10.18 percent where the two agreed, z = 3.79, p < 0.001. Second choices were also slower, 1,119 ms against 1,001 ms, z = 2.13, p = 0.033. Akaishi, Umeda, Nagase and Sakai report that in perceptual judgements without feedback a decision on an ambiguous stimulus is repeated on the next trial more often than a decision on a salient one. Biases in motor response, sensory processing and attention did not account for it. Suri, Sheppes, Schwartz and Gross built a laboratory analogue of patient inertia. People waiting for an electric shock could act to reduce their anxiety, and where doing nothing was the status quo they often did not take that option. Those last two descriptions are the abstracts'; neither full paper was obtained.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The identical-goods result has been repeated once, by Gal himself with 149 participants, and the repeated-choice work that shares the name holds up in other laboratories.",
+    "detail": "Gal and Rucker offered 149 Mechanical Turk participants a $20 bill they were due to receive in exchange for another $20 bill, in one version with an indifference option and in one without. They report a clear preference for the original in both versions and list the result in their table as Gal (2006) replicated in this article. The percentages sit in their Figure 1 rather than in the text, so no figure is quoted here. Gal is first author of both papers, which makes this an extension by the same author rather than an independent test. No preregistered or multi-site replication of the quarter experiment was located in searches of Crossref and the open web. The repeated-choice strand is on firmer ground. Study 2 of Alós-Ferrer, Hügelschäfer and Li reproduced their own Study 1 in 44 further participants with a different urn composition. Error rates ran 5.37 percent under conflict with inertia against 1.36 percent under alignment, z = 2.57, p = 0.010. Jung, Erdfelder, Bröder and Dorner, an independent group, ran their own belief-updating task. They report decision inertia driven by action orientation and decision autonomy, but not by preference for consistency. That last association is the one Alós-Ferrer and colleagues had found and read as evidence for a consistency motive. Only the Jung abstract was read for this entry.",
+    "study": {
+      "cite": "Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom larger than its gain? Journal of Consumer Psychology, 28(3), 497-516.",
+      "doi": "10.1002/jcpy.1047",
+      "year": 2018,
+      "n": 149
+    }
+  },
+  "limits": "Everything Gal published on this is hypothetical. Both experiments used undergraduates at one university, 110 and 133 of them, with no money at stake, and the allocation task differed from the single-bet task in more than the presence of a status quo. Gal raises that objection himself and answers it with the correlation between the two tasks. Inertia is also not the only account of a preference for inaction. Gal and Rucker list three others: that inaction saves processing and transaction costs, that errors of commission carry more regret than errors of omission, and that people follow an 'if it ain't broke, don't fix it' rule. They also report that Ritov and Baron found people choosing the change option when doing nothing would have produced a change, which makes the tendency a preference for inaction rather than for the status quo. Gal reports that Chapman found a majority willing to trade items for identical items, though only when she paid a nickel for the trade; that account is his, and her paper was not read here. On the repeated-choice side the effect is small and easily buried. Where reinforcement also conflicted with Bayes' rule, Alós-Ferrer and colleagues found no overall effect of inertia: 49.92 percent errors under conflict against 55.61 percent under alignment, z = -0.86, p = 0.391. An effect returned only after freely made first draws, 74.19 percent against 48.08 percent, z = 2.73, p = 0.006. They call decision inertia a subtle process.",
+  "misreadings": "The first error is counting inertia as a further finding alongside status quo bias, the default effect and loss aversion. It is a proposed explanation for the first two, in the way subjective validation is a proposed explanation for the Barnum effect, and most of the studies cited for it are the studies cited for them. The second is reporting that it disproves loss aversion. Gal writes the opposite in his own conclusion. A tendency to remain at the status quo does not disprove a loss and gain asymmetry, it makes the asymmetry unnecessary as an account of these three phenomena. He draws the comparison with the luminiferous ether. His footnote adds that the argument leaves the rest of prospect theory's value function alone, including the separate coding of losses and gains around a reference point. The third is treating the two inertia literatures as one body of evidence. Gal's inertia is a one-shot preference for the option a person already holds; decision inertia is repetition of a choice across trials of the same task, which people do after losing as much as after winning. The fourth is the word law, which comes from the analogy with Newton's first law rather than from the strength of the evidence under it. A fifth confusion comes from emergency response research, where Power and Alison use decision inertia for redundant deliberation, meaning commanders who keep weighing the consequences of acting and of not acting instead of committing. They interviewed 31 police, fire and ambulance commanders in the United Kingdom. That names a failure to settle on any option, not a pull towards the current one.",
+  "sources": [
+    {
+      "text": "Gal, D. (2006). A psychological law of inertia and the illusion of loss aversion. Judgment and Decision Making, 1(1), 23-32. Full text read for this entry from the journal's own PDF; every figure in the evidence section is read off it.",
+      "doi": "10.1017/s1930297500000322",
+      "url": "https://doi.org/10.1017/s1930297500000322",
+      "type": "primary"
+    },
+    {
+      "text": "Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom larger than its gain? Journal of Consumer Psychology, 28(3), 497-516. Full text read for this entry.",
+      "doi": "10.1002/jcpy.1047",
+      "url": "https://doi.org/10.1002/jcpy.1047",
+      "type": "replication"
+    },
+    {
+      "text": "Alós-Ferrer, C., Hügelschäfer, S., & Li, J. (2016). Inertia and decision making. Frontiers in Psychology, 7, 169. Full text read for this entry.",
+      "doi": "10.3389/fpsyg.2016.00169",
+      "url": "https://doi.org/10.3389/fpsyg.2016.00169",
+      "type": "primary"
+    },
+    {
+      "text": "Jung, D., Erdfelder, E., Bröder, A., & Dorner, V. (2019). Differentiating motivational and cognitive explanations for decision inertia. Journal of Economic Psychology, 72, 30-44. The publisher's page returned HTTP 403; the abstract was read at RePEc and at Semantic Scholar, and nothing beyond it is used here.",
+      "doi": "10.1016/j.joep.2019.01.004",
+      "url": "https://doi.org/10.1016/j.joep.2019.01.004",
+      "type": "replication"
+    },
+    {
+      "text": "Akaishi, R., Umeda, K., Nagase, A., & Sakai, K. (2014). Autonomous mechanism of internal choice estimate underlies decision inertia. Neuron, 81(1), 195-206. Abstract read at Europe PMC; the full paper was not obtained.",
+      "doi": "10.1016/j.neuron.2013.10.018",
+      "url": "https://doi.org/10.1016/j.neuron.2013.10.018",
+      "type": "primary"
+    },
+    {
+      "text": "Suri, G., Sheppes, G., Schwartz, C., & Gross, J. J. (2013). Patient inertia and the status quo bias: When an inferior option is preferred. Psychological Science, 24(9), 1763-1769. Abstract read at Europe PMC; the full paper was not obtained and no number from it appears above.",
+      "doi": "10.1177/0956797613479976",
+      "url": "https://doi.org/10.1177/0956797613479976",
+      "type": "primary"
+    },
+    {
+      "text": "Power, N., & Alison, L. (2017). Redundant deliberation about negative consequences: Decision inertia in emergency responders. Psychology, Public Policy, and Law, 23(2), 243-258. Record verified at Crossref and the abstract read at the University of Liverpool repository; the article itself was not obtained.",
+      "doi": "10.1037/law0000114",
+      "url": "https://doi.org/10.1037/law0000114",
+      "type": "commentary"
+    },
+    {
+      "text": "Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7-59. Cited as the paper whose effect Gal's account is offered to explain; not re-read for this entry.",
+      "doi": "10.1007/BF00055564",
+      "url": "https://doi.org/10.1007/BF00055564",
+      "type": "primary"
+    },
+    {
+      "text": "Chapman, G. B. (1998). Similarity and reluctance to trade. Journal of Behavioral Decision Making, 11(1), 47-58. Record verified at Crossref; the paper was not obtained, and what it found is reported here from Gal's description of it.",
+      "doi": "10.1002/(sici)1099-0771(199803)11:1<47::aid-bdm278>3.0.co;2-b",
+      "url": "https://doi.org/10.1002/(sici)1099-0771(199803)11:1<47::aid-bdm278>3.0.co;2-b",
+      "type": "commentary"
+    },
+    {
+      "text": "Ritov, I., & Baron, J. (1992). Status-quo and omission biases. Journal of Risk and Uncertainty, 5(1). Crossref carries no page range for it. Record verified at Crossref; the paper was not obtained, and what it found is reported here from Gal and Rucker's description of it.",
+      "doi": "10.1007/bf00208786",
+      "url": "https://doi.org/10.1007/bf00208786",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
