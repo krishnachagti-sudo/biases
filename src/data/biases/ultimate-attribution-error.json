@@ -3,7 +3,6 @@
   "slug": "ultimate-attribution-error",
   "name": "Ultimate attribution error",
   "aliases": [
-    "Group attribution bias",
     "Intergroup attribution bias",
     "Group-serving attribution bias",
     "Ethnocentric attribution"
@@ -29,7 +28,7 @@
     }
   },
   "limits": "No effect size for the ultimate attribution error is quoted on this page, because none was obtained from a source that could be opened. Pettigrew's 1979 paper, Hewstone's 1990 review, Taylor and Jaggi's 1974 study and the Khan and Liu, Khandelwal and Priedols articles were all reached only as abstracts, at Crossref or at the publisher's article page, and abstracts do not carry cell means or test statistics. That is why the structured fields above are empty and why the Zell figures, which come from a full text, sit in the prose with their design stated. No meta-analysis of intergroup causal attribution was located. The search covered Crossref by title and by bibliographic query, Semantic Scholar, Unpaywall, CORE and general web search, and turned up Hewstone's narrative review of 19 studies with no pooled estimate in its abstract. The Misra and Mishra article page still shows the uncorrected abstract, so a reader who stops there gets ingroup derogation where the correction gives no bias. Every direct test read here used hypothetical scenarios or written vignettes rather than observed behaviour, and all of them are single samples from India, Pakistan, Kashmir or Latvia.",
-  "misreadings": "The commonest reading treats this as the fundamental attribution error with a group swapped in for a person. It is not that. The fundamental attribution error predicts a dispositional reading of behaviour in general, while Pettigrew's second prediction is that a good act by an outgroup member gets a situational reading, which is the opposite direction. The half that keeps failing is the dispositional half, so the part of the idea that looks most like the fundamental attribution error is the part with the least support behind it. A second reading collapses it into in-group favouritism. Favouritism is counted in allocations and cooperation between groups; this is a claim about the causes people give for one act, and the two can move apart. A third drops Pettigrew's condition. His abstract restricts both predictions to prejudiced people and says they will do this more than others, which makes prejudice a moderator rather than the effect being universal. The clause about attributing outgroup faults to genetics belongs to the original statement and is usually dropped in retelling. Zell and colleagues add a caution that applies to the whole family: a group-favouring attribution is a bias in the statistical sense, and bias in that sense does not by itself mean the attribution is wrong.",
+  "misreadings": "The commonest reading treats this as the fundamental attribution error with a group swapped in for a person. It is not that. The fundamental attribution error predicts a dispositional reading of behaviour in general, while Pettigrew's second prediction is that a good act by an outgroup member gets a situational reading, which is the opposite direction. The half that keeps failing is the dispositional half, so the part of the idea that looks most like the fundamental attribution error is the part with the least support behind it. A second reading merges it with the group attribution error, which Allison and Messick named in 1985 and which is a separate claim: there the manipulation is a group's voting rule, and the inference runs from the group's decision to its members' attitudes with no role for prejudice or for the valence of the act. This page once carried group attribution bias as an alias, and that alias has been removed. A third reading collapses it into in-group favouritism. Favouritism is counted in allocations and cooperation between groups; this is a claim about the causes people give for one act, and the two can move apart. A fourth drops Pettigrew's condition. His abstract restricts both predictions to prejudiced people and says they will do this more than others, which makes prejudice a moderator rather than the effect being universal. The clause about attributing outgroup faults to genetics belongs to the original statement and is usually dropped in retelling. Zell and colleagues add a caution that applies to the whole family: a group-favouring attribution is a bias in the statistical sense, and bias in that sense does not by itself mean the attribution is wrong.",
   "sources": [
     {
       "text": "Pettigrew, T. F. (1979). The ultimate attribution error: Extending Allport's cognitive analysis of prejudice. Personality and Social Psychology Bulletin, 5(4), 461-476. Read as its abstract at Crossref; the full text was not reached.",
@@ -42,6 +41,12 @@
       "doi": "10.1177/002202217400500202",
       "url": "https://doi.org/10.1177/002202217400500202",
       "type": "primary"
+    },
+    {
+      "text": "Allison, S. T., & Messick, D. M. (1985). The group attribution error. Journal of Experimental Social Psychology, 21(6), 563-579. Cited for the separate phenomenon of that name; its bibliographic record was verified at Crossref and its text was not obtained.",
+      "doi": "10.1016/0022-1031(85)90025-3",
+      "url": "https://doi.org/10.1016/0022-1031(85)90025-3",
+      "type": "commentary"
     },
     {
       "text": "Hewstone, M. (1990). The 'ultimate attribution error'? A review of the literature on intergroup causal attribution. European Journal of Social Psychology, 20(4), 311-335. Paywalled; the count of 19 studies and the verdict of limited support are read from its abstract at Crossref.",

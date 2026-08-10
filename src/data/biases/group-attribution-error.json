@@ -1,0 +1,81 @@
+{
+  "no": 300,
+  "slug": "group-attribution-error",
+  "name": "Group attribution error",
+  "aliases": [
+    "Group correspondence bias"
+  ],
+  "category": "social",
+  "statement": "Told that a group carried a measure, people infer that its members hold matching attitudes, even when the voting rule alone decided the outcome.",
+  "meaning": "The claim is about a group decision and the members behind it. A proposal passes or fails, and observers read the result as the attitude of the people in the group. What the paradigm manipulates is the rule the vote was counted under, so that the same number of supporters produces a pass in one condition and a failure in the other. Any inference that moves with the outcome under those conditions is tracking the rule rather than the members. McHoskey and Miller name the bias the group correspondence bias and define it as correspondent attribution from a group decision that was contextually constrained. The unit of the claim is the individual member, whose attitude was never shown, and the evidence is the group's result.",
+  "origin": {
+    "year": 1985,
+    "who": "Scott T. Allison and David M. Messick",
+    "where": "Journal of Experimental Social Psychology",
+    "note": "Their paper is titled \"The group attribution error\" and runs to pages 563 to 579 of volume 21. Neither its text nor an abstract for it was obtained for this entry, so nothing on this page describes what those experiments did. The bibliographic record was verified at Crossref, and the paradigm below is described from papers that used it later."
+  },
+  "evidence": "Three later papers describe the design in abstracts that could be read. MacKie, Allison, Worth and Asuncion asked people to judge the conservatism of a political group from whether it passed a liberal measure. They manipulated the decision rule in force at the vote so that the measure passed or failed while the same number of members supported it. Their abstract reports that a measure passing made the group look more liberal than the same measure failing, and that this held when the shift ran against the stereotype of the group. McHoskey and Miller tested what the bias depends on rather than whether it occurs. Their abstract reports that whether an observer identified the constraint mediated the bias, that heuristic against systematic processing moderated that identification, that an expectancy about the group set boundary conditions, and that intragroup variability moderated the effect of the expectancy. It also reports that observers carried their attribution over to individual members of the group. Corneille, Yzerbyt, Rogier and Buidin ran the paradigm with a group of voters and a threat manipulation, telling participants the group made up either 4% or 40% of the local population. None of the three abstracts prints a sample size or an effect size.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The vote-outcome effect turned up again in two laboratories with no author in common with the original, and no source that could be opened states a size for it.",
+    "detail": "Corneille, Yzerbyt, Rogier and Buidin report in two studies that the outcome of the vote influenced what participants inferred about how extreme the voters' attitudes were, more positive attitudes after a positive outcome and more negative after a negative one. Their abstract calls this consistent with the existing literature. It adds that threat qualified the result, with more extreme and more homogeneous attitudes inferred for the group described as 40% of the local population than for the group described as 4%. McHoskey and Miller treat the bias as established and test four hypotheses about what governs it, reporting that the predictions received strong support. Neither team shares an author with Allison and Messick. The closest thing to a same-laboratory repetition is MacKie, Allison, Worth and Asuncion, whose Experiment 1 uses the decision-rule manipulation and finds the outcome effect. No test in any of these abstracts is reported with a statistic, so nothing here can be compared against the 1985 result, which was not obtained either.",
+    "study": {
+      "cite": "Corneille, O., Yzerbyt, V. Y., Rogier, A., & Buidin, G. (2001). Threat and the group attribution error: When threat elicits judgments of extremity and homogeneity. Personality and Social Psychology Bulletin, 27(4), 437-446.",
+      "doi": "10.1177/0146167201274005",
+      "year": 2001
+    }
+  },
+  "limits": "No number describing the size of this bias appears on this page, because no source carrying one was opened. Allison and Messick's 1985 paper is paywalled at Elsevier, Unpaywall records no open copy, and Crossref and Semantic Scholar hold no abstract for it. The same is true of Mackie and Allison's 1987 follow-up, of Mackie, Worth and Allison's 1990 paper in Social Cognition, and of Allison and Kerr's 1994 paper. The search covered Crossref by title and by bibliographic query, Semantic Scholar, Unpaywall, Europe PMC full-text search, arXiv and general web search, and no meta-analysis or multi-site replication of this bias was located. Every study described here used a written scenario about a vote that did not happen. No sample size, participant population or country was obtained for any of them, so the reach of the finding beyond student volunteers is not something this page can speak to. The one number quoted, the 4% against 40% threat manipulation, is a feature of a design rather than a result.",
+  "misreadings": "This is not the ultimate attribution error under another name. Pettigrew's proposal turns on the valence of the act and on the observer being prejudiced, predicting a dispositional reading of a bad outgroup act and a situational reading of a good one. The group attribution error has no prejudice condition and no valence asymmetry in its statement. What it manipulates is the counting rule, and a rule change moves the inference in whichever direction it moves the result. Nor is it the fundamental attribution error with a group in place of a person. McHoskey and Miller place it in the correspondence bias family and mark the difference in the same phrase, calling it correspondent attribution from a contextually constrained group decision. The constraint sits in the counting rule rather than in anyone's behaviour, and the attitudes inferred belong to members who were never observed acting at all. McHoskey and Miller's finding that identifying the constraint mediates the bias is the point of contact between the two, and their abstract also reports that the bias does not stay at the level of the group, since observers generalised from the decision to individual members. Every study located here runs the inference in one direction, from a group's decision to its members' attitudes.",
+  "sources": [
+    {
+      "text": "Allison, S. T., & Messick, D. M. (1985). The group attribution error. Journal of Experimental Social Psychology, 21(6), 563-579. Paywalled, with no abstract at Crossref or Semantic Scholar and no open copy recorded by Unpaywall; only its bibliographic record was read.",
+      "doi": "10.1016/0022-1031(85)90025-3",
+      "url": "https://doi.org/10.1016/0022-1031(85)90025-3",
+      "type": "primary"
+    },
+    {
+      "text": "Mackie, D. M., & Allison, S. T. (1987). Group attribution errors and the illusion of group attitude change. Journal of Experimental Social Psychology, 23(6), 460-480. Bibliographic record only; no abstract was obtained and no claim on this page comes from it.",
+      "doi": "10.1016/0022-1031(87)90016-3",
+      "url": "https://doi.org/10.1016/0022-1031(87)90016-3",
+      "type": "primary"
+    },
+    {
+      "text": "MacKie, D. M., Allison, S. T., Worth, L. T., & Asuncion, A. G. (1992). The impact of outcome biases on counterstereotypic inferences about groups. Personality and Social Psychology Bulletin, 18(1), 44-51. Described from its abstract at Crossref.",
+      "doi": "10.1177/0146167292181007",
+      "url": "https://doi.org/10.1177/0146167292181007",
+      "type": "replication"
+    },
+    {
+      "text": "McHoskey, J. W., & Miller, A. G. (1994). Effects of constraint identification, processing mode, expectancies, and intragroup variability on attributions toward group members. Personality and Social Psychology Bulletin, 20(3), 266-276. Described from its abstract at Crossref, which is also the source of the term group correspondence bias used here.",
+      "doi": "10.1177/0146167294203004",
+      "url": "https://doi.org/10.1177/0146167294203004",
+      "type": "replication"
+    },
+    {
+      "text": "Corneille, O., Yzerbyt, V. Y., Rogier, A., & Buidin, G. (2001). Threat and the group attribution error: When threat elicits judgments of extremity and homogeneity. Personality and Social Psychology Bulletin, 27(4), 437-446. Described from its abstract at Crossref.",
+      "doi": "10.1177/0146167201274005",
+      "url": "https://doi.org/10.1177/0146167201274005",
+      "type": "replication"
+    },
+    {
+      "text": "Mackie, D. M., Worth, L. T., & Allison, S. T. (1990). Outcome-biased inferences and the perception of change in groups. Social Cognition, 8(4), 325-342. Bibliographic record only; no abstract was obtained.",
+      "doi": "10.1521/soco.1990.8.4.325",
+      "url": "https://doi.org/10.1521/soco.1990.8.4.325",
+      "type": "replication"
+    },
+    {
+      "text": "Allison, S. T., & Kerr, N. L. (1994). Group correspondence biases and the provision of public goods. Journal of Personality and Social Psychology, 66(4), 688-698. Bibliographic record only; cited for the label its title carries.",
+      "doi": "10.1037/0022-3514.66.4.688",
+      "url": "https://doi.org/10.1037/0022-3514.66.4.688",
+      "type": "commentary"
+    },
+    {
+      "text": "Pettigrew, T. F. (1979). The ultimate attribution error: Extending Allport's cognitive analysis of prejudice. Personality and Social Psychology Bulletin, 5(4), 461-476. Its abstract at Crossref is the source for the contrast drawn above.",
+      "doi": "10.1177/014616727900500407",
+      "url": "https://doi.org/10.1177/014616727900500407",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
