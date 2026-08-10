@@ -1,0 +1,62 @@
+{
+  "no": 301,
+  "slug": "benjamin-franklin-effect",
+  "name": "Benjamin Franklin effect",
+  "aliases": [
+    "Ben Franklin effect",
+    "Franklin effect"
+  ],
+  "category": "social",
+  "statement": "Doing someone a favour is said to raise your liking for them, so asking a rival for a small favour wins him over faster than granting him one.",
+  "meaning": "The claim runs backwards from the obvious one. Ordinary reciprocity says the person who receives a kindness warms to the giver, and that idea has its own entry here. This one says the giver warms to the receiver. The person who changes is the one who did the work, and what changes is the rating of the person the work was done for. The usual explanation borrows from cognitive dissonance, which also has its own entry: helping someone you dislike is hard to hold alongside disliking them, and the cheaper of the two thoughts to revise is the dislike. Effort justification makes a neighbouring claim about the thing effort buys rather than the person it was spent on.",
+  "origin": {
+    "year": 1969,
+    "who": "Jon Jecker and David Landy",
+    "where": "Human Relations",
+    "note": "The name comes from an anecdote of the 1730s and the experiment is from 1969. Franklin was chosen clerk of the Pennsylvania General Assembly in 1736, and the year after a new member spoke at length against him. Franklin heard the man owned a scarce book, asked to borrow it, returned it in about a week with a warm note, and reports that the two became friends. He wrote this down in 1788, at home, in the third part of the autobiography. Who first attached his name to the laboratory effect was not traced in this search."
+  },
+  "evidence": "The 1969 paper is the whole of the experimental basis, and it could not be read for this entry. Crossref records it as Jecker and Landy, \"Liking a Person as a Function of Doing Him a Favour\", Human Relations 22(4), 371-378, dated August 1969. SAGE returned 403 to these checks, Unpaywall lists no open location and no repository copy, and Semantic Scholar records the abstract as withheld by the publisher. So this page carries no sample size, no condition means and no effect size from it. The closest scholarly description obtained is one line in a book chapter by Orehek: participants who performed a favour for someone they had previously seen negatively or neutrally came to like that person more. That sentence is his summary, not their wording. The account that circulates instead, in which 74 students win cash in a contest and are then asked to return it by the experimenter, by a secretary, or by nobody, was found only in encyclopedia entries and popular essays, none of them citing a page. It is not repeated here as fact. What can be read is Franklin. He asked for the loan of \"a certain very scarce and curious book\", the member \"sent it immediately\", and at the next sitting he spoke to Franklin \"(which he had never done before), and with great civility\". Franklin presents the episode as \"another instance of the truth of an old maxim I had learned\", and quotes the maxim: \"He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged.\"",
+  "replication": {
+    "state": "none-located",
+    "headline": "No repeat of the 1969 experiment was found. One later experiment tested the same claim by a different route and supported it.",
+    "detail": "Semantic Scholar's citation graph lists 65 works citing Jecker and Landy, and every title in that list was read. None is a replication of their procedure. Most of the citing work is on help-seeking, volunteering, negotiation, job design and social engineering, and it treats the 1969 result as a premise. The nearest test is Niiya's 2016 experiment in The Journal of Social Psychology, built around the Japanese concept of amae rather than around Franklin. Its abstract reports that Japanese and American participants who were asked for help by a confederate liked the confederate more than a baseline, and rated him as more sociable and the relationship as closer. Participants who helped without being asked showed no such rise. Only the abstract was obtained, so no sample size and no effect size from it appears here. Schopler and Compere published an adjacent experiment in 1971 on how being kind or harsh to another changes liking for that person. Its text is paywalled, it was not read, and nothing is claimed here about what it found."
+  },
+  "limits": "Both of the papers that matter are closed. Jecker and Landy is closed at SAGE with no open copy anywhere Unpaywall indexes, and Niiya is closed at Taylor and Francis with an abstract at PubMed. That means the structured effect-size fields on this page are empty, and it means nobody writing about this effect from open sources is reading the experiment they are describing. The search covered Crossref, Europe PMC, PubMed, Unpaywall, Semantic Scholar including the full citation list of the 1969 paper, and web search. It found no direct replication, no meta-analysis and no preregistered test. Niiya's design differs from the 1969 one in the request, the requester and the outcome measures, so it tests the claim rather than the study. Franklin's own evidence is one episode from the 1730s, written down in 1788 by the man it flatters, and he never names the member or the book. The mechanism is also unsettled in a way this page cannot resolve: dissonance is the usual account, and the multilab failure of the induced-compliance paradigm recorded in the cognitive dissonance entry is a reason to hold that account loosely.",
+  "misreadings": "Franklin is credited with the insight and did not claim it. He called it \"an old maxim I had learned\" and quoted it, which is a report of received folk wisdom rather than a discovery. Orehek's chapter shows how the slip travels: it introduces the maxim as something \"offered by Ben Franklin, who stated\" it. The story also grows in retelling. Franklin describes a new member who made a long speech against him in order to favour another candidate, not an enemy who hated him, and the favour asked was the loan of a book for a few days, returned in about a week with thanks. The lesson Franklin draws from it is about removing opposition rather than resenting it. Confusing the direction is the commonest error of all. Reciprocity, which has its own entry, is the claim that receiving a favour makes people well disposed to the giver, and it is a different and much better evidenced idea. Effort justification and the IKEA effect concern what effort does to the thing it produced, not to the person it was spent on. Finally, the name promises a documented bias. What sits behind it is one 1969 paper almost nobody has read, one 2016 experiment with a different design, and an anecdote.",
+  "sources": [
+    {
+      "text": "Franklin, B. The Autobiography of Benjamin Franklin, edited by Charles W. Eliot. Project Gutenberg ebook 148. The clerk of the Assembly passage and the maxim were read here in full.",
+      "url": "https://www.gutenberg.org/cache/epub/148/pg148.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Franklin, B. Autobiography of Benjamin Franklin, edited by Frank Woodworth Pine. Project Gutenberg ebook 20203. A second, independently edited text, used to confirm the passage word for word and for the editor's note dating the third part to August 1788.",
+      "url": "https://www.gutenberg.org/files/20203/20203-8.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Jecker, J., & Landy, D. (1969). Liking a Person as a Function of Doing Him a Favour. Human Relations, 22(4), 371-378. The experimental basis of the effect. Paywalled, no open copy located, and not read for this entry; the bibliographic details come from Crossref.",
+      "doi": "10.1177/001872676902200407",
+      "url": "https://doi.org/10.1177/001872676902200407",
+      "type": "primary"
+    },
+    {
+      "text": "Niiya, Y. (2016). Does a Favor Request Increase Liking Toward the Requester? The Journal of Social Psychology, 156(2), 211-221. Paywalled; the result quoted here is taken from the abstract at PubMed.",
+      "doi": "10.1080/00224545.2015.1095706",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26392141/",
+      "type": "replication"
+    },
+    {
+      "text": "Schopler, J., & Compere, J. S. (1971). Effects of being kind or harsh to another on liking. Journal of Personality and Social Psychology, 20(2), 155-159. Listed because it exists; paywalled and not read for this entry.",
+      "doi": "10.1037/h0031689",
+      "url": "https://doi.org/10.1037/h0031689",
+      "type": "primary"
+    },
+    {
+      "text": "Orehek, E. Goal Pursuit and Close Relationships: A People as Means Perspective. Chapter to appear in C. Kopetz & A. Fishbach (Eds.), The Motivation-Cognition Interface: From the Lab to the Real World. Cited for its one-line description of Jecker and Landy and for its attribution of the maxim to Franklin himself.",
+      "url": "https://edwardorehek.wordpress.com/wp-content/uploads/2017/09/orehek-in-press.pdf",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
