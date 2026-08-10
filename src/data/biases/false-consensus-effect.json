@@ -28,7 +28,7 @@
     "replicated": { "es": 1.18, "esType": "d", "ci": [1.13, 1.23], "ciLevel": 95, "weighting": "aggregate" }
   },
   "limits": "The figures above are for the supermarket scenario; the traffic-ticket scenario in the same project gave 0.95. The site and participant counts are that scenario's, not the project's 125 samples and 15,305 people, because each protocol went to about half the samples. Many Labs 2 ran the supermarket vignette in 64 of them. Many Labs 2 also misreports the study it is replicating. Its summary gives the original consensus estimates as 75.4% and 54.9%. Those two numbers are Ross and colleagues' trait ratings, printed in a different table of the same paper; the consensus estimates are 65.7% and 48.5%. The d = 0.79 is derived from the F statistic and is unaffected. There is also an old and unresolved argument about what the effect measures. Robyn Dawes argued in 1989 that the usual definition does not earn the word false, because treating one's own choice as a sample of size one is sound inference. On that reading the effect is an error only where the own choice carries more weight than a stranger's would, and the original experiments do not separate the two.",
-  "misreadings": "The effect is often stated as people believing everyone agrees with them, which is stronger than the data. In the replication, participants who chose the first option put it at 69% and those who chose the second put it at 43%: both groups are well inside plausible ranges, and the finding is the difference between them. It also gets treated as an explanation for political polarisation on its own, where the evidence is about two-way choices in vignettes with nothing at stake. And it is regularly confused with the false uniqueness effect, which points the other way and shows up most on abilities. The two are not mirror images and they are not exclusive. Campbell reports a reliable consensus effect on abilities as well, smaller than on opinions, and Monin and Norton found both errors in the same people on the same behaviour.",
+  "misreadings": "The effect is often stated as people believing everyone agrees with them, which is stronger than the data. In the replication, participants who chose the first option put it at 69% and those who chose the second put it at 43%: both groups are well inside plausible ranges, and the finding is the difference between them. It also gets treated as an explanation for political polarisation on its own, where the evidence is about two-way choices in vignettes with nothing at stake. And it is regularly confused with the false uniqueness effect, which points the other way and shows up most on abilities. The two are not mirror images and they are not exclusive. Campbell reports a reliable consensus effect on abilities as well, smaller than on opinions, and Monin and Norton found both errors in the same people on the same behaviour. It is filed alongside assumed similarity bias, entry 321, and the two are different measurements rather than two names for one finding. This effect compares the population estimates of two groups who chose differently on a two-way item, and no particular other person is being judged. Assumed similarity correlates a perceiver's self-description with their description of a named target, which is why Cronbach's 1955 analysis of that score is about components no consensus estimate contains.",
   "sources": [
     {
       "text": "Ross, L., Greene, D., & House, P. (1977). The \"false consensus effect\": An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279-301.",
@@ -65,6 +65,12 @@
       "doi": "10.1023/A:1011472501737",
       "url": "https://doi.org/10.1023/A:1011472501737",
       "type": "primary"
+    },
+    {
+      "text": "Cronbach, L. J. (1955). Processes affecting scores on \"understanding of others\" and \"assumed similarity.\" Psychological Bulletin, 52(3), 177-193. Cited for the distinction from assumed similarity; the August 1954 University of Illinois technical report of the same title is the version read.",
+      "doi": "10.1037/h0044919",
+      "url": "https://archive.org/details/processesaffecti10cron",
+      "type": "commentary"
     }
   ],
   "checkedOn": "2026-08-09"
