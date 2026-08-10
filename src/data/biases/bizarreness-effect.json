@@ -1,0 +1,85 @@
+{
+  "no": 252,
+  "slug": "bizarreness-effect",
+  "name": "Bizarreness effect",
+  "aliases": [
+    "Bizarre imagery effect"
+  ],
+  "category": "memory",
+  "statement": "Sentences describing implausible scenes are freely recalled better than ordinary ones, but only when both kinds sit in the same study list.",
+  "meaning": "The standard test uses sentences carrying three capitalised target nouns. A common sentence reads 'The DOG chased the BICYCLE down the STREET' and its bizarre counterpart reads 'The DOG rode the BICYCLE down the STREET'. Participants read and rate each sentence, work through a filler task, then write down the target nouns with no cues. Bizarre sentences win, and the conditions under which they win are narrow. Both kinds have to be studied in one list, the test has to be free recall rather than cued recall, and in at least one line of work the participant has to be unaware that memory will be tested. Scoring matters as well. The gain appears as access to a greater number of sentences, not as more nouns recovered from each sentence recalled.",
+  "origin": {
+    "year": 1986,
+    "who": "Mark A. McDaniel and Gilles O. Einstein",
+    "where": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+    "note": "The advice is far older than the finding. Besken and Mulligan trace it to the Ad Herennium of about 90 BCE, by way of Yates, and to modern memory-training manuals. Riefer and Rouder write that most early experimental work found bizarre imagery no more memorable than common imagery and sometimes worse, naming Wollen, Weber and Lowry, Cox and Wollen, and Bergfeld, Choate and Kroll. What the 1986 paper contributed was the boundary: the advantage held when imagery type varied within a list and not when it varied between lists. The paper is paywalled and was not read for this entry."
+  },
+  "evidence": "Riefer and Rouder ran three experiments on 95 students at the University of California, Irvine, 33 in the first, 32 in the second and 30 in the third. Each participant saw 12 sentences, six of them randomly assigned to bizarre form, imagined each one and rated its vividness, then took a surprise free-recall test followed by a cued-recall test. Free recall of noun pairs ran .58 bizarre against .47 common in the first experiment, t(32) = 2.37, and .62 against .51 in the third, t(29) = 2.82. The second gave .59 against .54 and was not reliable, t(31) = 1.17. Cued recall differed in none of the three. Their multinomial model put the benefit in retrieval rather than storage. Bizarre sentences were also rated less vivid than common ones in every experiment. Burns tested whether the participant has to be caught unawares, using McDaniel and Einstein's own sentences with 24 people per condition in one experiment and 16 in the other. Under incidental instructions his participants accessed 3.96 bizarre sentences against 2.42 common ones; under intentional instructions the same comparison gave 3.71 against 3.50, F < 1. Items recalled per sentence went the other way, favouring common sentences. Geraci, McDaniel, Miller and Hughes separated study from test with 192 Texas A&M students. Each person studied eight common sentences in one room under one cover story and eight bizarre sentences in another room on a different floor under another, so both lists were pure. Recall was then either of both sets together or of each set separately. Together, bizarre nouns came back at .38 and common nouns at .28. Separately, the figures were .34 and .33, with F < 1 and a posterior probability of .91 for the null.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Besken and Mulligan obtained the effect in four consecutive experiments, and their single-paper meta-analysis puts the bizarre advantage in sentence access at .31, 95% CI .21 to .42.",
+    "detail": "The four experiments were designed to attack the imagery explanation, not to test whether the effect exists, which makes them a clean check on it. Mixed lists of bizarre and common sentences were studied under a concurrent visuospatial load or without one, by 36, 60, 32 and 32 undergraduates. Every experiment produced the bizarreness effect and no experiment showed it shrinking under distraction. The single-paper meta-analysis, run by the McShane and Böckenholt procedure, gives a main effect of sentence type of .31 with a 95% interval of .21 to .42 for sentence access and .20 with an interval of .09 to .31 for noun recall, both in proportion units. The pooled interaction with distraction was not significant for sentence access, F(1, 158) = 1.22, or for noun recall, F(1, 158) = 2.31, and the Bayes factors favouring the null over the imagery prediction were 11.49 and 13.86. Any numerical trend ran opposite to the imagery account. Replication of the effect is therefore secure inside the mixed-list free-recall paradigm and is not secure outside it. Geraci and colleagues found nothing when the two sentence types were recalled separately, and Riefer and Rouder found nothing in cued recall in three experiments.",
+    "study": {
+      "cite": "Besken, M., & Mulligan, N. W. (2022). The bizarreness effect and visual imagery: No impact of concurrent visuo-spatial distractor tasks indicates little role for visual imagery. Journal of Experimental Psychology: Learning, Memory, and Cognition, 48(9), 1281-1295.",
+      "doi": "10.1037/xlm0001038",
+      "year": 2022
+    },
+    "replicated": {
+      "es": 0.31,
+      "esType": "md",
+      "unit": "proportion of sentences accessed",
+      "ci": [
+        0.21,
+        0.42
+      ],
+      "ciLevel": 95
+    }
+  },
+  "limits": "No meta-analysis of the bizarreness literature as a whole was located. Crossref bibliographic queries, PubMed and general web search were used, and what came back was single experiments, review chapters and one single-paper meta-analysis covering four experiments by the same authors. McDaniel and Einstein's 1986 paper is behind a paywall and was not read here. Its design and its effect sizes are reported as Besken and Mulligan describe them, which is average within-subject effect sizes of dz = .86 for noun recall and dz = .93 for sentence access in the mixed-list imagery conditions, and those figures are kept out of the structured fields for that reason. Burns cites Robinson-Riegler and McDaniel for a further constraint, that complex sentences shrink the effect, and that paper was not read either. Cued recall is the clearest failure: Riefer and Rouder obtained no difference in any of three experiments. Burns's own summary is that the effect needs mixed lists, free recall, low-complexity sentences and an unsuspecting participant, and that this leaves the value of bizarre imagery as a mnemonic technique open to doubt. No test of the effect in advertising or interface design was located in the same searches.",
+  "misreadings": "The mnemonists have it backwards. Burns found the advantage under incidental instructions and lost it under intentional ones, which is the condition anybody deliberately using the technique is in. Surprise is not the mechanism. McDaniel, Einstein, DeLosh, May and Brady report that manipulations built to raise or lower the surprise a bizarre sentence provokes had little effect on recall, contrary to expectation-violation theory, and their title says so. Visual imagery is not the mechanism either, on the current evidence. Three separate visuospatial distractor tasks left the effect intact in Besken and Mulligan's experiments, and bizarre sentences are rated less vivid than common ones, not more. The relation to the von Restorff effect is close and is not identity. Both need a mixed list, and Geraci and colleagues place bizarreness alongside orthographic distinctiveness as effects that vanish in pure lists. The isolation paradigm sets one item against a list of many that are alike, so rarity is built into it by definition. The bizarreness paradigm splits the list roughly in half, and McDaniel and colleagues found in their first experiment that mixing itself, rather than the small number of bizarre sentences usually used, decided whether the effect appeared. The two also fail in different places: the isolation effect holds in recall and usually not in recognition, while the bizarreness effect holds in free recall and not in cued recall. Encoding is not where the work happens. Geraci and colleagues had participants study pure lists in separate rooms and got the effect back purely by asking for both sets at once, which locates the advantage at retrieval, and Riefer and Rouder's model had already put it in retrieval rather than storage.",
+  "sources": [
+    {
+      "text": "McDaniel, M. A., & Einstein, G. O. (1986). Bizarre imagery as an effective memory aid: The importance of distinctiveness. Journal of Experimental Psychology: Learning, Memory, and Cognition, 12(1), 54-65. Paywalled, and reported here only as Besken and Mulligan, Riefer and Rouder, and Geraci and colleagues describe it.",
+      "doi": "10.1037/0278-7393.12.1.54",
+      "url": "https://doi.org/10.1037/0278-7393.12.1.54",
+      "type": "primary"
+    },
+    {
+      "text": "Riefer, D. M., & Rouder, J. N. (1992). A multinomial modeling analysis of the mnemonic benefits of bizarre imagery. Memory & Cognition, 20(6), 601-611. Full text read.",
+      "doi": "10.3758/BF03202710",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03202710.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "McDaniel, M. A., Einstein, G. O., DeLosh, E. L., May, C. P., & Brady, P. (1995). The bizarreness effect: It's not surprising, it's complex. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(2), 422-435. Read here as the abstract at PubMed.",
+      "doi": "10.1037/0278-7393.21.2.422",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7738508/",
+      "type": "primary"
+    },
+    {
+      "text": "Burns, D. J. (1996). The bizarre imagery effect and intention to learn. Psychonomic Bulletin & Review, 3(2), 254-257. Full text read.",
+      "doi": "10.3758/BF03212428",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03212428.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Geraci, L., McDaniel, M. A., Miller, T. M., & Hughes, M. L. (2013). The bizarreness effect: Evidence for the critical influence of retrieval processes. Memory & Cognition, 41(8), 1228-1237. Full text read.",
+      "doi": "10.3758/s13421-013-0335-4",
+      "url": "https://link.springer.com/content/pdf/10.3758/s13421-013-0335-4.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Besken, M., & Mulligan, N. W. (2022). The bizarreness effect and visual imagery: No impact of concurrent visuo-spatial distractor tasks indicates little role for visual imagery. Journal of Experimental Psychology: Learning, Memory, and Cognition, 48(9), 1281-1295. Full text read from the author copy in the Bilkent University repository.",
+      "doi": "10.1037/xlm0001038",
+      "url": "https://repository.bilkent.edu.tr/server/api/core/bitstreams/6b532f4a-3e4d-4412-9498-e8904993e508/content",
+      "type": "primary"
+    },
+    {
+      "text": "Einstein, G. O., McDaniel, M. A., & Lackey, S. (1989). Bizarre imagery, interference, and distinctiveness. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(1), 137-146. Named because Riefer and Rouder cite it for the reliability of the effect under some conditions. Not read.",
+      "doi": "10.1037/0278-7393.15.1.137",
+      "url": "https://doi.org/10.1037/0278-7393.15.1.137",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
