@@ -1,0 +1,78 @@
+{
+  "no": 231,
+  "slug": "subjective-validation",
+  "name": "Subjective validation",
+  "category": "belief",
+  "statement": "A description is judged accurate when it feels personally meant, so identical words are rated as a better fit once a reader is told they were derived from something about them.",
+  "meaning": "The claim is about where the sense of accuracy comes from. Subjective validation says the reader supplies the match. Given a description and a reason to think it was made for them, people search their own life for what fits and treat the search as confirmation. That makes it a claim about a process rather than a claim about any one result, and it is tested by holding the words fixed and varying only the apparent link to the person reading them. The Barnum effect is the observation that generic personality sketches are accepted as accurate. Subjective validation is the mechanism offered for that observation, and the honest reading of the work below is that the two are one literature described at two levels: what happens, and why it is said to happen.",
+  "origin": {
+    "year": 1972,
+    "who": "C. R. Snyder and G. R. Larson",
+    "where": "Journal of Consulting and Clinical Psychology",
+    "note": "Dickson and Kelly's review records Snyder and Larson as the first to test whether labelling a general personality interpretation \"specifically for them\" raises acceptance, against the same interpretation labelled \"generally true of people\". Their paper was not obtained for this entry and that description is the review's. The phrase \"subjective validation\" is usually credited to Marks and Kammann's 1980 book, whose bibliographic record Dickson and Kelly print. No source fetched for this entry uses the phrase, so the credit is recorded as unverified rather than repeated as fact."
+  },
+  "evidence": "Dickson and Kelly date empirical work on the acceptance of general profiles to Forer in 1949, and the standard procedure has hardly moved since: administer something that looks like an assessment, return the same sketch to everyone, and collect accuracy ratings. Subjective validation is tested by a narrower manipulation inside that procedure. Snyder ran the clearest version in 1974. Twenty-one female undergraduates acted as pseudo-astrologers, each recruiting three acquaintances and assigning them at random across three conditions, 21 people per condition. Everyone received the same handwritten horoscope, taken from general statements in Linda Goodman's Sun Signs. One group was told the interpretation was \"generally true of people\". A second was told it came from their birth year and month, a third from their birth year, month and day. Mean accuracy ratings on a five-point scale ran 3.24, 3.76 and 4.38 in that order, F = 7.56, df 2/60, p < .0002. A planned contrast for the predicted ordering gave F = 15.05, df 1/60, p < .0001, and the residual variance was not reliable, F = .01. The text never changed. What changed was the reader's belief about where it came from.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Labelling identical feedback as personally derived raises accuracy ratings, and a review counts six studies reproducing it against two null results whose trends run the same way.",
+    "detail": "Dickson and Kelly trace the relevance manipulation from Snyder and Larson in 1972 through Snyder in 1974, Snyder, Larsen and Bloom in 1976, Snyder and Shenkel in 1975 and 1976, Jackson in 1978, and Baillargeon and Danis in 1984. Two studies fell short. Collins, Dmitruk and Ranney found no reliable effect of relevance with the trend in the same direction, and Hinrichsen and Bradley found no reliable difference across four personality tests, with the trend matching on all of them except the Social Opinion Survey. The review's conclusion states the proposition flatly: acceptance of a Barnum profile can be raised by labelling the profile \"for you\". Snyder's 1974 study is named here as the replication because it is the one whose numbers were read in full for this entry. It shares its first author with the 1972 original, which makes it an extension by the same laboratory rather than an independent test.",
+    "study": {
+      "cite": "Snyder, C. R. (1974). Why horoscopes are true: The effects of specificity on acceptance of astrological interpretations. Journal of Clinical Psychology, 30(4), 577-580.",
+      "doi": "10.1002/1097-4679(197410)30:4<577::AID-JCLP2270300434>3.0.CO;2-8",
+      "year": 1974,
+      "n": 63
+    }
+  },
+  "limits": "No pooled effect size exists for the relevance manipulation. Searches of Crossref, OpenAlex and the open web for this entry produced no meta-analysis of it, and the tally above comes from a narrative review published in 1985. Snyder's experiment ran 21 people per cell, all of them women, with novice student experimenters, and the review notes that most of this literature used university students. The sharpest counter-evidence sits inside the same review. Greene, and later Harris and Greene, asked participants directly whether a generalised profile described them as a unique person; participants said it did not, while still rating it accurate. Dickson and Kelly leave that unresolved against the studies using the indirect \"for you\" manipulation, and it bears on the mechanism rather than on the acceptance ratings. The origin of the phrase could not be verified either. Marks and Kammann's book is held search-only at HathiTrust, which returned HTTP 403 to two attempts, the Internet Archive holds no scan, and the Google Books API was out of quota, so no text of it was read. Dutton's review of cold reading records that academic work here has been almost entirely Barnum-style testing of undergraduate classes rather than study of readings given in the field.",
+  "misreadings": "The commonest error is to treat subjective validation and the Barnum effect as two findings that support each other. They are one body of experiments. The Barnum effect names what those experiments observe, subjective validation names the process proposed to explain it, and a page citing both as evidence is counting the same studies twice. A second error is to read it as an illusion of uniqueness. Snyder's gradient shows that people accept a description more when it appears addressed to them, which is not the same as believing that nobody else would fit it, and the one study that asked the question directly got the opposite answer. A third is to read the horoscope experiments as evidence about astrology in either direction. The design fixes the text and varies only the label, so it can say nothing about whether birth data predict anything, and Snyder writes that acceptance stems from the ambiguity of the statements and their presentation as specifically derived rather than from any relationship between birth data and observed personality.",
+  "sources": [
+    {
+      "text": "Snyder, C. R. (1974). Why horoscopes are true: The effects of specificity on acceptance of astrological interpretations. Journal of Clinical Psychology, 30(4), 577-580. Scanned full text read for this entry; every number in the evidence section is read off its Method and Results.",
+      "doi": "10.1002/1097-4679(197410)30:4<577::AID-JCLP2270300434>3.0.CO;2-8",
+      "url": "https://doi.org/10.1002/1097-4679(197410)30:4<577::AID-JCLP2270300434>3.0.CO;2-8",
+      "type": "primary"
+    },
+    {
+      "text": "Dickson, D. H., & Kelly, I. W. (1985). The 'Barnum effect' in personality assessment: A review of the literature. Psychological Reports, 57(2), 367-382. Full text read for this entry; the source for the tally of relevance studies, for the Greene results, and for the bibliographic details of the papers below that could not be opened.",
+      "doi": "10.2466/pr0.1985.57.2.367",
+      "url": "https://doi.org/10.2466/pr0.1985.57.2.367",
+      "type": "review"
+    },
+    {
+      "text": "Snyder, C. R., & Larson, G. R. (1972). A further look at student acceptance of general personality interpretations. Journal of Consulting and Clinical Psychology, 38(3), 384-388. Record verified at Crossref and PubMed; no abstract or full text was obtained, and what it did is reported here from Dickson and Kelly.",
+      "doi": "10.1037/h0032899",
+      "url": "https://doi.org/10.1037/h0032899",
+      "type": "primary"
+    },
+    {
+      "text": "Snyder, C. R., & Shenkel, R. J. (1976). Effects of 'favorability,' modality, and relevance on acceptance of general personality interpretations prior to and after receiving diagnostic feedback. Journal of Consulting and Clinical Psychology, 44(1), 34-41. Record verified at Crossref; PubMed carries no abstract and the publisher's full text returned HTTP 403. Named as one of the replications counted by Dickson and Kelly, and nothing here is drawn from its own text.",
+      "doi": "10.1037/0022-006X.44.1.34",
+      "url": "https://doi.org/10.1037/0022-006X.44.1.34",
+      "type": "replication"
+    },
+    {
+      "text": "Snyder, C. R., Shenkel, R. J., & Lowery, C. R. (1977). Acceptance of personality interpretations: The 'Barnum effect' and beyond. Journal of Consulting and Clinical Psychology, 45(1), 104-114. Record verified at Crossref; no abstract or full text obtained, and nothing here is drawn from its findings.",
+      "doi": "10.1037/0022-006X.45.1.104",
+      "url": "https://doi.org/10.1037/0022-006X.45.1.104",
+      "type": "review"
+    },
+    {
+      "text": "Dutton, D. (1988). The cold reading technique. Experientia, 44(4), 326-332. Full text read from the author's own posted copy; the source for the observation about what the academic literature has and has not studied.",
+      "doi": "10.1007/BF01961271",
+      "url": "https://doi.org/10.1007/BF01961271",
+      "type": "commentary"
+    },
+    {
+      "text": "Forer, B. R. (1949). The fallacy of personal validation: A classroom demonstration of gullibility. The Journal of Abnormal and Social Psychology, 44(1), 118-123. Record verified at Crossref; the paper was not re-read for this entry and no figure from it appears above.",
+      "doi": "10.1037/h0059240",
+      "url": "https://doi.org/10.1037/h0059240",
+      "type": "primary"
+    },
+    {
+      "text": "Marks, D., & Kammann, R. (1980). The psychology of the 'psychic'. Buffalo, NY: Prometheus. Cited here only as the book the phrase is usually credited to. The catalogue record was verified and the volume is search-only, so no text of it was read and no claim above rests on it.",
+      "url": "https://catalog.hathitrust.org/Record/006241919",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
