@@ -1,0 +1,73 @@
+{
+  "no": 288,
+  "slug": "pro-innovation-bias",
+  "name": "Pro-innovation bias",
+  "aliases": [
+    "Pro-innovation bias of diffusion research"
+  ],
+  "category": "belief",
+  "statement": "Rogers's charge is that diffusion research implies every innovation should reach everyone, quickly, unaltered and unrejected, and so mostly studies the ones that did.",
+  "meaning": "The claim is about a research literature, not about a person. Rogers defines it as \"the implication of most diffusion research that an innovation should be diffused and adopted by all members of a social system, that it should be diffused more rapidly, and that the innovation should be neither re-invented nor rejected\". He adds that the bias is seldom stated outright in diffusion publications, and is instead assumed and implied, which he calls what makes it troublesome. The consequences he lists are gaps in the record. Ignorance about innovations goes unstudied, rejection and discontinuance are underweighted, re-invention is overlooked, and programmes designed to stop a harmful innovation spreading are ignored. Rogers puts it first among four criticisms of his own field, beside the individual-blame bias, the recall problem and the issue of equality. His explanation is a research habit rather than enthusiasm. A successful diffusion leaves a rate of adoption that can be reconstructed afterwards, and a failed one leaves nothing to count.",
+  "origin": {
+    "year": 1983,
+    "who": "Everett M. Rogers",
+    "where": "Diffusion of Innovations, third edition, The Free Press",
+    "note": "The section \"The Pro-Innovation Bias of Diffusion Research\" runs from page 92 to page 95 of chapter 3. The third edition carries copyright dates of 1962, 1971 and 1983, and is a revised edition of Communication of Innovations, second edition, 1971. Rogers dates the recognition earlier than the analysis: he writes that the problem \"was one of the first biases to be recognized (Rogers with Shoemaker, 1971, pp. 78-79)\". That 1971 volume could not be opened for this entry, so whether the phrase itself appears in it was not settled."
+  },
+  "evidence": "Rogers offers reasons and a tally rather than a measured effect. The tally is Table 2-3 of the third edition, a content analysis of 6,811 generalisations drawn from the 1,084 empirical diffusion publications available in 1968. Variables related to individual innovativeness account for 58% of those generalisations. Consequences of an innovation account for 0.2%. Communication channel use takes 7%, earliness of knowing 5%, opinion leadership 3%, the rate of adoption of different innovations 1%, and who interacts with whom less than 1%. Rogers reports 3,085 diffusion publications available in 1981 and gives his impression, from reading them, that the shares had not moved much since 1968. He gives three reasons for the pattern. Change agencies fund the research and are in the business of promoting innovations. A diffusion that succeeded leaves traces a researcher can go back and count. And scholars pick fast-spreading innovations because they look noteworthy and carry policy implications. He also blames the founding case. Ryan and Gross studied Iowa hybrid corn, an innovation whose relative advantage he calls overwhelming, and he argues that copying that design fixed the assumption that other innovations would be similarly beneficial. The one direct test located is Karch, Nicholson-Crotty, Woods and Bowman's analysis of interstate compacts in the United States. Compacts open to all fifty states give an entire universe of cases, with wide variation in how many states signed. Their abstract reports that limiting diffusion research to widely adopted policies affects the results of previous studies. Scholars are led to overestimate geographic diffusion pressures and policy attributes, and to underestimate professional associations and the chance to learn from earlier adopters. They conclude that the longstanding concerns seem warranted. The paper is paywalled with no open copy listed, so nothing beyond that abstract is quoted here.",
+  "replication": {
+    "state": "none-located",
+    "headline": "There is no experiment to repeat. Rogers named a habit in a research literature, and the one direct test located, on United States interstate compacts, reports that the habit changes what diffusion studies conclude.",
+    "detail": "Searches of Crossref, Europe PMC, the Internet Archive and general web search returned no study measuring a pro-innovation bias as an effect in individual judgement. Crossref's bibliographic index returns mainly humanities chapters, eleven of them in a single 2017 Edward Elgar volume, Critical Studies of Innovation. Europe PMC holds 63 records containing the phrase, almost all using it in passing in qualitative work on health technology. One is a study rather than an aside. Smith, Zhang and Colwell measured the Giant Texas SmokeScream, a school smoking curriculum, on 512 middle-grade students. Their abstract reports that the programme had no effect on students' knowledge, perceptions or behavioural intent, while remaining popular with schools. They present it as an illustration of what Rogers labelled pro-innovation bias, not as a test of it. Karch and colleagues test the consequence Rogers predicted, in one field, rather than repeating a study of his."
+  },
+  "limits": "This is a critique of a field, and it carries no rate, no magnitude and no population. Table 2-3's percentages describe what diffusion scholars chose to write about, not how wrong they were, and Rogers's own text on page 115 cites Table 2-2 for the innovativeness share that Table 2-3 actually holds. The 1968 content analysis behind those percentages is fifteen years older than the edition printing them, and Rogers extends it to 1981 on the strength of his impression from reading the later studies. Several documents were not obtained. The second edition, Communication of Innovations, is lending-restricted at the Internet Archive under four identifiers, HathiTrust returned 403, and the Google Books API was out of quota, so the 1971 pages Rogers cites were not read. Karch and colleagues' paper is closed access, Unpaywall lists no open copy, and every claim about it here comes from the publisher's abstract, which was read twice at two hosts. Rogers's 1976 Journal of Consumer Research paper, \"New Product Adoption and Diffusion\", was verified as existing but not obtained, so whether the phrase predates 1983 in his own published work is open. The fourth and fifth editions were not read, so the wording quoted here is the third edition's and later printings may differ. OpenAlex was rate-limited and no psychology-specific database such as PsycINFO was searched.",
+  "misreadings": "The bias has been rewritten as a feeling. Wikipedia's list of cognitive biases defines it as \"the tendency to have an excessive optimism towards an invention or innovation's usefulness throughout society, while often failing to identify its limitations and weaknesses\", with no citation attached. The standalone Wikipedia article adds that an innovation's champion holds the bias so strongly they cannot see its weaknesses. Rogers's definition names no person. It names an implication carried by a body of published research, and his causes are funding, sampling and the absence of data on failures. Read as individual optimism, the idea also collides with measured work pointing the other way. Mueller, Melwani and Goncalo gave 73 undergraduates an Implicit Association Test setting creativity against practicality. Those told extra pay would be decided by a lottery scored 0.15 on implicit bias against creativity, against minus 0.23 for the baseline group, F(1, 70) = 13.13, p = .001, with condition accounting for 11% of the variance. In a second experiment on 140 students, those primed that every problem has one correct solution rated a novel running shoe 5.06 on a seven-point creativity scale, against 5.76 for those primed that problems have several solutions, F(1, 137) = 15.48. That is people marking novelty down, not up. A second error is to read Rogers as saying innovations are bad. He argues that rejection, discontinuance and re-invention may be rational from the adopter's point of view, and asks for research designs that can see them. He goes as far as calling for some studies with an \"anti-innovation bias\" to correct the balance of the literature. A third is to treat the bias as settled by demonstration. Outside Karch and colleagues' compacts analysis, the searches for this entry found the phrase used as a label for a worry rather than as something anyone had quantified.",
+  "sources": [
+    {
+      "text": "Rogers, E. M. (1983). Diffusion of Innovations, third edition. New York: The Free Press. ISBN 0-02-926650-5. Chapter 3, pages 92 to 95, chapter 2 pages 46 and 80 to 81 including Table 2-3, and the chapter 3 summary on page 133, read directly in the scanned PDF below. Source for every quotation and every percentage above.",
+      "url": "https://teddykw2.wordpress.com/wp-content/uploads/2012/07/everett-m-rogers-diffusion-of-innovations.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Karch, A., Nicholson-Crotty, S. C., Woods, N. D., & Bowman, A. O'M. (2016). Policy Diffusion and the Pro-innovation Bias. Political Research Quarterly, 69(1), 83-95. Closed access; described here from the publisher's abstract, read at Crossref and at the University of Minnesota research portal.",
+      "doi": "10.1177/1065912915622289",
+      "url": "https://doi.org/10.1177/1065912915622289",
+      "type": "replication"
+    },
+    {
+      "text": "Smith, D. W., Zhang, J. J., & Colwell, B. (1996). Pro-Innovation Bias: The Case of the Giant Texas SmokeScream. Journal of School Health, 66(6), 210-213. Abstract read at Europe PMC; source for the 512 students and the null result.",
+      "doi": "10.1111/j.1746-1561.1996.tb08288.x",
+      "url": "https://doi.org/10.1111/j.1746-1561.1996.tb08288.x",
+      "type": "primary"
+    },
+    {
+      "text": "Mueller, J. S., Melwani, S., & Goncalo, J. A. (2012). The Bias Against Creativity: Why People Desire but Reject Creative Ideas. Psychological Science, 23(1), 13-17. Read in full in the authors' copy of the published article; source for every figure attributed to it.",
+      "doi": "10.1177/0956797611421018",
+      "url": "https://doi.org/10.1177/0956797611421018",
+      "type": "commentary"
+    },
+    {
+      "text": "Downs, G. W., & Mohr, L. B. (1976). Conceptual Issues in the Study of Innovation. Administrative Science Quarterly, 21(4), page 700 onward. Quoted by Rogers in the passage read above as a 1970s critic who recognised the bias; the paper itself was not obtained.",
+      "doi": "10.2307/2391725",
+      "url": "https://doi.org/10.2307/2391725",
+      "type": "commentary"
+    },
+    {
+      "text": "Rogers, E. M. (1976). New Product Adoption and Diffusion. Journal of Consumer Research, 2(4), 290. Bibliographic record verified at Crossref; the text was not obtained and nothing here is taken from it.",
+      "doi": "10.1086/208642",
+      "url": "https://doi.org/10.1086/208642",
+      "type": "primary"
+    },
+    {
+      "text": "Wikipedia, List of cognitive biases. Quoted here as the carrier of the individual-optimism definition, which the article itself leaves uncited, and not relied on for anything else.",
+      "url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+      "type": "index"
+    },
+    {
+      "text": "Wikipedia, Pro-innovation bias. Quoted here as the carrier of the innovation-champion framing, and used to find sources.",
+      "url": "https://en.wikipedia.org/wiki/Pro-innovation_bias",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
