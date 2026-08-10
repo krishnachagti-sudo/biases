@@ -1,0 +1,75 @@
+{
+  "no": 250,
+  "slug": "congruence-bias",
+  "name": "Congruence bias",
+  "aliases": [
+    "Congruence heuristic"
+  ],
+  "category": "belief",
+  "statement": "With one hypothesis in mind, people prefer the test whose likely answer fits it over the test that would tell it apart from the alternatives.",
+  "meaning": "Baron, Beattie and Hershey set out three conditions a yes-or-no question should meet before it is worth asking. A positive or negative answer should be likely given the most likely hypothesis. That same answer should be unlikely given the other hypotheses. And which hypothesis gets acted on should depend on the answer. Someone who checks only the first condition is using what they call the congruence heuristic, and the bias it produces is overattention to the probability of a yes answer assuming the favoured hypothesis is true. The second condition is the one that gets skipped, because it is the one that requires holding a rival in mind. The claim is about how a test is valued before its answer arrives, and it says nothing about how the answer is read afterwards. The same paper names two siblings. Information bias is valuing a question when no answer could change the action taken. Certainty bias is valuing a question because it might settle something outright.",
+  "origin": {
+    "year": 1988,
+    "who": "Jonathan Baron, Jane Beattie and John C. Hershey",
+    "where": "Organizational Behavior and Human Decision Processes",
+    "note": "Six experiments on the evaluation of yes-or-no questions, three of which concern congruence bias. None of the six is a rule-discovery task, and the paper's reference list carries Wason's 1968 chapter rather than his 1960 experiment. A footnote records that the phrase confirmation bias has been used for what they call congruence bias. It has also been used for two other things. One is choosing a question unlikely or unable to falsify a favoured hypothesis. The other is being unresponsive to evidence against one."
+  },
+  "evidence": "In Experiments 1 to 3 people read short scenarios, such as a child covered in red spots, and rated three questions on a scale from 0 to 100 for how much each would help find the cause. They then supplied their own prior and conditional probabilities, so a normative value could be computed from their own beliefs. Ratings were regressed on that model, and the leftover residual was correlated with two quantities. The hit rate is the probability of a yes answer if the favoured hypothesis is true. The false-alarm rate is the probability of a yes answer if it is false. The mean hit-rate correlation was 0.30 in Experiment 1, nine subjects analysed, t(8) = 7.23, and 0.33 in Experiment 2, ten subjects, t(9) = 6.74, both p < .001. The false-alarm correlations were 0.03 and -0.04, neither reliable. A separate item made the preference concrete. Given a patient with a 0.8 chance of one disease and 0.2 of another, 12 of 22 undergraduates chose the test that would come back positive for the likelier disease, although the other test was the better one. Wason's 2-4-6 task, which later summaries attach to this bias, is a different demonstration: 6 of his 29 psychology undergraduates announced the correct rule without announcing a wrong one first.",
+  "replication": {
+    "state": "replicated",
+    "headline": "An independent Italian sample 22 years later showed the same preference, choosing 375 positive questions against 105 negative ones.",
+    "detail": "Cherubini, Rusconi, Russo, Di Bari and Sacchi ran four experiments on abstract card problems where every probability was stated. In Experiment 1, 30 volunteers each picked the two most useful of four questions across eight problems. Positive questions, those asking about a feature consistent with the hypothesis, drew 375 choices and negative questions 105, p < 0.001 by exact binomial test. Symmetry of the questions made no difference, 239 against 241. Experiment 4 used 48 volunteers. The probability of the feature given the focal hypothesis correlated -0.71 with the mean rank a question received, p < 0.001. The probability given the alternative hypothesis correlated -0.18 and was not reliable. That pattern is the one Baron and colleagues reported: the hit rate drives the rating and the false-alarm rate does not. Cherubini and colleagues also found their participants tracked how diagnostic a question was, so the preference sits on top of some sensitivity to real informativeness rather than replacing it. They read the results as positive testing rather than a preference for confirming answers, since positive questions whose surprising answer would disconfirm were rated the most useful of all.",
+    "study": {
+      "cite": "Cherubini, P., Rusconi, P., Russo, S., Di Bari, S., & Sacchi, S. (2010). Preferences for different questions when testing hypotheses in an abstract task: Positivity does play a role, asymmetry does not. Acta Psychologica, 134(2), 162-174.",
+      "doi": "10.1016/j.actpsy.2010.01.007",
+      "year": 2010
+    }
+  },
+  "limits": "The bias is fragile in exactly the way its own account predicts. Baron and colleagues supplied two hypotheses instead of one in Experiment 3 and the hit-rate correlation fell to 0.19, a smaller contribution than in Experiment 2, t(20) = 2.69, p < .01. Their summary table marks congruence bias present in Experiments 1 and 2, weaker in Experiment 3, and absent in Experiments 4 to 6, where several diseases were named and the probabilities were provided. Klayman and Ha argue that the underlying habit is a positive test strategy, a tendency to test cases expected to have the property of interest, and that it is a good heuristic in most settings. Their case rests on base rates. When the phenomenon is a minority one, a positive test is the more likely of the two to turn up a falsifying case. Hunting for falsification among cases expected to be negative is a search for a needle in a haystack. They put the target rate in Wason's own task at about one in six. The Cherubini experiments used abstract problems with no content to reason from, and the authors say that is why simple strategies dominate there. Tweney and colleagues' 1980 paper could not be retrieved, so its success rate is quoted here from Gale and Ball's description of it.",
+  "misreadings": "The commonest error is to present congruence bias as the finding of Wason's 2-4-6 task. Baron and colleagues ran no rule-discovery task, and their bias is measured against a normative value computed from each person's own probabilities, which the 2-4-6 task never elicits. The second error is to read it as an aversion to disconfirming evidence. Klayman and Ha's point is the reverse. Under the conditions they describe, positive tests are the ones more likely to produce falsification. The DAX-MED version of the 2-4-6 task raised success while using fewer negative tests, because people ran two hypotheses in parallel and tested each positively. Gale and Ball put the standard task at about 20% and that dual-goal version at over 60%. The invented labels are not the working part. The same gain appeared when the two rules were called fits and does not fit. Baron and colleagues add in a footnote that a reverse heuristic, favouring questions positive under the rival hypothesis, is no more self-critical than the original. The third error is to treat the remedy as an instruction to seek disproof. What moved the numbers in both literatures was a second hypothesis to test, not an intention to falsify. The fourth is to use congruence bias and confirmation bias as synonyms. Nickerson does treat the congruence heuristic as another name for the positive test strategy. But confirmation bias in his review is an umbrella over searching, interpreting and remembering. Congruence bias names one step, the valuing of a test before its answer is known.",
+  "sources": [
+    {
+      "text": "Baron, J., Beattie, J., & Hershey, J. C. (1988). Heuristics and biases in diagnostic reasoning: II. Congruence, information, and certainty. Organizational Behavior and Human Decision Processes, 42(1), 88-110. Full text read for this entry.",
+      "doi": "10.1016/0749-5978(88)90021-0",
+      "url": "https://www.sas.upenn.edu/~baron/papers/diagreas2.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140. Full text read for this entry; the source for the 6 of 29 count and for the rule used.",
+      "doi": "10.1080/17470216008416717",
+      "url": "https://archive.org/details/FailureToEliminateHypothesisInAConceptualTask",
+      "type": "primary"
+    },
+    {
+      "text": "Klayman, J., & Ha, Y.-W. (1987). Confirmation, disconfirmation, and information in hypothesis testing. Psychological Review, 94(2), 211-228. Full text read for this entry; the source for the positive test strategy, the base-rate argument and the account of the DAX-MED result.",
+      "doi": "10.1037/0033-295X.94.2.211",
+      "url": "http://stats.org.uk/statistical-inference/KlaymanHa1987.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Cherubini, P., Rusconi, P., Russo, S., Di Bari, S., & Sacchi, S. (2010). Preferences for different questions when testing hypotheses in an abstract task: Positivity does play a role, asymmetry does not. Acta Psychologica, 134(2), 162-174. Author accepted manuscript read for this entry.",
+      "doi": "10.1016/j.actpsy.2010.01.007",
+      "url": "https://openresearch.surrey.ac.uk/view/delivery/44SUR_INST/12139790370002346/13140457140002346",
+      "type": "replication"
+    },
+    {
+      "text": "Gale, M., & Ball, L. J. (2006). Dual-goal facilitation in Wason's 2-4-6 task: What mediates successful rule discovery? Quarterly Journal of Experimental Psychology, 59(5), 873-885. Published abstract read for this entry; the full text was not retrieved. It is the source for the standard task's rate of about 20% and the dual-goal rate of over 60%, and for the finding that facilitation appeared whether the two rules were labelled Dax and Med or fits and does not fit.",
+      "doi": "10.1080/02724980543000051",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16608752/",
+      "type": "replication"
+    },
+    {
+      "text": "Tweney, R. D., Doherty, M. E., Worner, W. J., Pliske, D. B., Mynatt, C. R., Gross, K. A., & Arkkelin, D. L. (1980). Strategies of rule discovery in an inference task. Quarterly Journal of Experimental Psychology, 32(1), 109-123. The DAX-MED experiment. Behind a paywall and not retrieved; its metadata was checked at Crossref and its result is quoted here through Klayman and Ha and through Gale and Ball.",
+      "doi": "10.1080/00335558008248237",
+      "url": "https://doi.org/10.1080/00335558008248237",
+      "type": "primary"
+    },
+    {
+      "text": "Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175-220. Full text read for this entry; the source for the umbrella definition and for the sentence equating the congruence heuristic with the positive test strategy.",
+      "doi": "10.1037/1089-2680.2.2.175",
+      "url": "https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
