@@ -1,0 +1,127 @@
+{
+  "no": 285,
+  "slug": "subadditivity-effect",
+  "name": "Subadditivity effect",
+  "aliases": [
+    "Unpacking effect",
+    "Subadditivity of judged probability",
+    "Implicit subadditivity",
+    "Explicit subadditivity"
+  ],
+  "category": "belief",
+  "statement": "Fifty UK intelligence analysts gave four exclusive and exhaustive hypotheses probabilities summing to 1.54 in one condition and 1.77 in the other, where probability theory requires one.",
+  "meaning": "Probability theory is extensional. Two descriptions of the same event must carry the same probability, and the probability of an event must equal the sum of the probabilities of its disjoint parts. Judged probability does neither. Tversky and Koehler's support theory attaches probability to descriptions rather than to events, calls those descriptions hypotheses, and gives each one a support value standing for the strength of evidence behind it. The judged probability of a focal hypothesis is its support divided by the combined support of the focal and the alternative hypothesis. Support is assumed to grow as a description is broken into parts, so the support of \"homicide\" is at most that of \"homicide by an acquaintance or homicide by a stranger\", which is at most the sum of the support of the two components. Two consequences follow and are routinely confused. Implicit subadditivity is a single judgment of a detailed description coming out above the judgment of the packed description. Explicit subadditivity is components judged separately summing above the disjunction judged whole. The same equations predict that two complementary hypotheses sum to one, so this is a claim about partitions of three or more, not about probability judgment in general.",
+  "origin": {
+    "year": 1994,
+    "who": "Amos Tversky and Derek J. Koehler",
+    "where": "Psychological Review",
+    "note": "\"Support theory: A nonextensional representation of subjective probability\" set out the support function and the unpacking prediction, and gave the effect its formal treatment rather than its first sighting. Redden and Frederick report that Stanford undergraduates in that paper attributed 32% of all deaths to \"unnatural causes\" when the category was left packed and 53% when it was described as \"accidents, homicides, or other unnatural causes\"; that pair of figures is quoted here from their description. The pattern predates the theory by sixteen years. Bearden, Wallsten and Fox describe Fischhoff, Slovic and Lichtenstein's 1978 fault-tree study, in which car mechanics put the chance that a car fails to start for reasons other than the battery, fuel system or engine at 22 in 100, while a second group given that residual broken into starting system, ignition system, mischief and a smaller residual returned judgments summing to 44 in 100."
+  },
+  "evidence": "Koehler, Brenner and Tversky asked 115 Stanford students and staff to judge, for a student known to major in a social science, the probability of each of four majors against its residual. Totals came to 2.18 given a statistics course, 1.96 given Western Civilization, 1.61 given French literature and 1.42 given modern physics. Seven of the 115 had totals at or below one. The contrast between the two typical courses and the two atypical ones gave t(1701) = 9.43, p < 0.001, the enhancement effect: evidence compatible with every hypothesis raises the total. A second experiment on 170 undergraduates gave probability totals of 1.87 and 1.57 for the two courses and frequency totals of 1.61 and 1.11, so frequency wording lowered the totals without removing them. In two crime stories the totals rose from 1.67 to 1.94 and from 1.43 to 1.81 as more evidence was disclosed. Fox and Birke put the same tests to practising attorneys. Two hundred lawyers at an American Bar Association meeting, median 17 years in practice, judged how Jones v. Clinton would end. The two-way split summed to 0.95, which did not differ from one, and the five-way split to 1.49, t(115) = 6.49, p < 0.0001. Fifty-five Oregon attorneys pricing a tort claim gave four award ranges summing to 1.78, t(46) = 4.28, p < 0.0001. Asked whether to advise accepting a settlement, 52% of lawyers said yes when the risk was described as failing on \"liability\" and 74% when the same risk was described as failing on \"duty, breach, or causation\", with a chi-square of 7.22 on one degree of freedom, p < 0.01. Fox, Rogers and Tversky took the question to trading floors, recruiting 60 people at the Pacific Stock Exchange and the Chicago Board Options Exchange, 34 of them options traders and 26 support staff. Judging events defined by a stock's closing price two weeks ahead, 55 of the 60 fell below the identity line on both tests, p < 0.001 by sign test. The mean sum of judged probabilities of two disjoint events was 0.84 against 0.68 for their union, a gap of 0.16, or about 24%. Prices paid for the matching prospects gave decision weights of 0.84 against 0.65.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The pattern reproduces in students, physicians, options traders, lawyers and serving intelligence analysts, and a structured technique built to force consideration of alternatives left it in place.",
+    "detail": "Mandel, Karvetski and Dhami gave 50 UK intelligence analysts a case with four mutually exclusive and exhaustive hypotheses. The four probabilities summed to 1.54 in the control condition, bootstrapped 95% CI 1.33 to 1.76, and to 1.77 among analysts trained in and using the Analysis of Competing Hypotheses, 95% CI 1.56 to 1.97, both p < 0.001. The two implicit disjunctions were given 0.56 and 0.82 less probability than their constituents received in sum, p < 0.001 in both conditions. Training in the technique did not help, and the difference in additivity violation favoured the untrained group at p = 0.08. Binary complements behaved as support theory predicts, summing to 0.98 in the control condition and 0.95 in the other. Karvetski and Mandel repeated the comparison on 227 online panel participants and again found the technique gave no advantage on any test of coherence, with subadditivity present in both groups. The 2018 paper reports that two earlier experiments by Mandel on undergraduates produced a mean unpacking factor of 2.4, the ratio of the summed unpacked estimates to the packed estimate, for forecasts of terrorism split into acts by Al Qaeda and acts by operatives unaffiliated with it. That figure is quoted here from the 2018 paper's description rather than read from Mandel's 2005 article.",
+    "study": {
+      "cite": "Mandel, D. R., Karvetski, C. W., & Dhami, M. K. (2018). Boosting intelligence analysts' judgment accuracy: What works, what fails? Judgment and Decision Making, 13(6), 607-621.",
+      "doi": "10.1017/S1930297500006628",
+      "year": 2018,
+      "n": 50
+    }
+  },
+  "limits": "The direction of the effect reverses under two known conditions. The first is atypicality. Bearden, Wallsten and Fox report that Sloman and colleagues found a median judged probability of 0.55 that a randomly selected death is due to \"disease\", 0.60 for \"heart disease, cancer, stroke, or any other disease\", and 0.40 for \"pneumonia, diabetes, cirrhosis, or any other disease\". Those medians are quoted from that description rather than read from the 2004 paper, and the author list given there differs from the one Crossref records. The second is fluency. Redden and Frederick gave 151 undergraduates a die gamble whose winning event was described either as \"an even number\" or as \"2, 4, or 6\". The packed version was rated more likely, 4.2 against a pooled 3.9 on a seven-point scale, t(150) = 4.02, p < 0.01, and was chosen over a sure $15 more often. They argue that added detail costs processing fluency and that dysfluency reads as low likelihood, opposing the usual effect. A third limit is that part of the phenomenon may be arithmetic. Bearden, Wallsten and Fox show formally that random error in mapping a private judgment onto a bounded response scale is enough to make mean judgments subadditive even when the private judgments are additive, and their first study, on 41 participants trained on a visual frequency distribution, found unpacking ratios of 1.15 on means and 1.14 on medians. Those two figures are read from the authors' manuscript hosted at UCLA rather than from the published version in the Journal of Mathematical Psychology. This entry located no meta-analysis of the effect and no multi-laboratory replication of it; searches covered Crossref, OpenAlex, PubMed, OSF and the Many Labs and Registered Replication Report catalogues. The nearest preregistered work found is Ding and Feldman's Registered Report on partition dependence, a neighbouring effect in which the framing of a question sets the default split of the outcome space, which reran Fox and Rottenstreich on 603 Prolific participants and reported a mostly successful replication. Four papers cited here could not be opened during this check: Tversky and Koehler 1994, Rottenstreich and Tversky 1997, Sloman and colleagues 2004, and the full text of Redelmeier, Koehler, Liberman and Tversky's study of physicians, whose abstract was read at PubMed.",
+  "misreadings": "The commonest error is reading this as the conjunction fallacy under another name. The conjunction fallacy compares an event with a subset of itself, bank teller against feminist bank teller, and the mistake is rating the subset higher. Subadditivity compares an event with its own parts added up, and the mistake is rating the whole lower than the sum. The two run in opposite directions across the same axiom, and entry 75 covers the first. The second error is that judged probabilities always add to more than one. Complementary pairs come out at about one: 0.98 and 0.95 among the intelligence analysts, 0.95 among the lawyers judging Jones v. Clinton. The excess needs a partition of three or more. Third, unpacking is described as always raising judged probability. It raises it when the parts named are typical and easy to read, and lowers it when they are atypical or hard to read. Fourth, expertise is treated as a defence. Options traders selected and paid to price uncertainty, attorneys with a median of 17 years in practice, and serving intelligence analysts all showed the effect, and the technique the intelligence community recommends for weighing competing hypotheses did not remove it. Fifth, the mechanism is often given as memory alone, on the view that naming the parts reminds a judge of possibilities that were overlooked. Bearden, Wallsten and Fox argue this cannot be the whole account, because subadditivity also turns up when one numerical dimension such as a stock price is cut into intervals, where no forgotten possibility is being recovered, and because random response error alone reproduces the pattern.",
+  "sources": [
+    {
+      "text": "Tversky, A., & Koehler, D. J. (1994). Support theory: A nonextensional representation of subjective probability. Psychological Review, 101(4), 547-567. Metadata verified at Crossref; the full text was not opened during this check. The statement of the theory here is read from Koehler, Brenner and Tversky (1997) and Fox and Birke (2002), which both restate its equations, and the 32% against 53% figure is quoted from Redden and Frederick (2011).",
+      "doi": "10.1037/0033-295X.101.4.547",
+      "url": "https://doi.org/10.1037/0033-295X.101.4.547",
+      "type": "primary"
+    },
+    {
+      "text": "Koehler, D. J., Brenner, L. A., & Tversky, A. (1997). The enhancement effect in probability judgment. Journal of Behavioral Decision Making, 10(4), 293-313. Read in the copy hosted at https://bear.warrington.ufl.edu/brenner/papers/koehler-brenner-tversky-jbdm1997.pdf.",
+      "doi": "10.1002/(SICI)1099-0771(199712)10:4<293::AID-BDM256>3.0.CO;2-P",
+      "url": "https://bear.warrington.ufl.edu/brenner/papers/koehler-brenner-tversky-jbdm1997.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fox, C. R., & Birke, R. (2002). Forecasting trial outcomes: Lawyers assign higher probability to possibilities that are described in greater detail. Law and Human Behavior, 26(2), 159-173. Read in the copy hosted at http://personal.anderson.ucla.edu/policy.area/faculty/fox/lhb02.pdf.",
+      "doi": "10.1023/A:1014687809032",
+      "url": "http://personal.anderson.ucla.edu/policy.area/faculty/fox/lhb02.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fox, C. R., Rogers, B. A., & Tversky, A. (1996). Options traders exhibit subadditive decision weights. Journal of Risk and Uncertainty, 13(1), 5-17. Read as a scanned copy hosted at http://personal.anderson.ucla.edu/policy.area/faculty/fox/jru96.pdf; the figures quoted were read off the page images.",
+      "doi": "10.1007/BF00055335",
+      "url": "http://personal.anderson.ucla.edu/policy.area/faculty/fox/jru96.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Mandel, D. R., Karvetski, C. W., & Dhami, M. K. (2018). Boosting intelligence analysts' judgment accuracy: What works, what fails? Judgment and Decision Making, 13(6), 607-621.",
+      "doi": "10.1017/S1930297500006628",
+      "url": "https://doi.org/10.1017/S1930297500006628",
+      "type": "replication"
+    },
+    {
+      "text": "Karvetski, C. W., & Mandel, D. R. (2020). Coherence of probability judgments from uncertain evidence: Does ACH help? Judgment and Decision Making, 15(6), 939-958.",
+      "doi": "10.1017/S1930297500008159",
+      "url": "https://doi.org/10.1017/S1930297500008159",
+      "type": "replication"
+    },
+    {
+      "text": "Redden, J. P., & Frederick, S. (2011). Unpacking unpacking: Greater detail can reduce perceived likelihood. Journal of Experimental Psychology: General, 140(2), 159-167. Read in the copy hosted at https://cdn2.psychologytoday.com/assets/unpacking_unpacking.pdf.",
+      "doi": "10.1037/a0021491",
+      "url": "https://cdn2.psychologytoday.com/assets/unpacking_unpacking.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Bearden, J. N., Wallsten, T. S., & Fox, C. R. (2007). Contrasting stochastic and support theory accounts of subadditivity. Journal of Mathematical Psychology, 51(4), 229-241. Figures here are read from the authors' manuscript version, \"A stochastic model of subadditivity\", hosted at http://personal.anderson.ucla.edu/policy.area/faculty/fox/bearden_wallsten_fox_10-04.pdf, not from the published article.",
+      "doi": "10.1016/j.jmp.2007.04.001",
+      "url": "http://personal.anderson.ucla.edu/policy.area/faculty/fox/bearden_wallsten_fox_10-04.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Sloman, S., Rottenstreich, Y., Wisniewski, E., Hadjichristidis, C., & Fox, C. R. (2004). Typical versus atypical unpacking and superadditive probability judgment. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30(3), 573-582. Author list and metadata verified at Crossref; the full text was not opened, and the medians quoted here come from Bearden, Wallsten and Fox's description, which gives a different set of co-authors.",
+      "doi": "10.1037/0278-7393.30.3.573",
+      "url": "https://doi.org/10.1037/0278-7393.30.3.573",
+      "type": "primary"
+    },
+    {
+      "text": "Rottenstreich, Y., & Tversky, A. (1997). Unpacking, repacking, and anchoring: Advances in support theory. Psychological Review, 104(2), 406-415. Metadata verified at Crossref; the full text was not opened, and its homicide result is described here as Brenner and Rottenstreich (1999) report it.",
+      "doi": "10.1037/0033-295X.104.2.406",
+      "url": "https://doi.org/10.1037/0033-295X.104.2.406",
+      "type": "primary"
+    },
+    {
+      "text": "Brenner, L., & Rottenstreich, Y. (1999). Focus, repacking, and the judgment of grouped hypotheses. Journal of Behavioral Decision Making, 12(2), 141-148. Read in the copy hosted at https://bear.warrington.ufl.edu/brenner/papers/brenner-rottenstreich-jbdm1999.pdf.",
+      "doi": "10.1002/(SICI)1099-0771(199906)12:2<141::AID-BDM312>3.0.CO;2-C",
+      "url": "https://bear.warrington.ufl.edu/brenner/papers/brenner-rottenstreich-jbdm1999.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Redelmeier, D. A., Koehler, D. J., Liberman, V., & Tversky, A. (1995). Probability judgment in medicine: Discounting unspecified possibilities. Medical Decision Making, 15(3), 227-230. Abstract read at PubMed; the full text was not opened during this check, so no figures from it appear here. The title travels in three forms: Crossref records it without a subtitle, PubMed spells the second word \"judgement\", and Koehler, Brenner and Tversky's reference list ends it \"discounting unspecified causes\".",
+      "doi": "10.1177/0272989X9501500305",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7564936/",
+      "type": "primary"
+    },
+    {
+      "text": "Mandel, D. R. (2005). Are risk assessments of a terrorist attack coherent? Journal of Experimental Psychology: Applied, 11(4), 277-288. Metadata verified at Crossref; the full text was not opened, and the unpacking factor of 2.4 is quoted from Mandel, Karvetski and Dhami (2018).",
+      "doi": "10.1037/1076-898X.11.4.277",
+      "url": "https://doi.org/10.1037/1076-898X.11.4.277",
+      "type": "primary"
+    },
+    {
+      "text": "Fischhoff, B., Slovic, P., & Lichtenstein, S. (1978). Fault trees: Sensitivity of estimated failure probabilities to problem representation. Journal of Experimental Psychology: Human Perception and Performance, 4(2), 330-344. Metadata verified at Crossref; the full text was not opened, and the figures of 22 and 44 in 100 are quoted from Bearden, Wallsten and Fox.",
+      "doi": "10.1037/0096-1523.4.2.330",
+      "url": "https://doi.org/10.1037/0096-1523.4.2.330",
+      "type": "primary"
+    },
+    {
+      "text": "Ding, K., & Feldman, G. (2025). Revisiting partition priming in judgement under uncertainty: replication and extension Registered Report of Fox and Rottenstreich (2003). Royal Society Open Science, 12(7).",
+      "doi": "10.1098/rsos.250669",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12308232/",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
