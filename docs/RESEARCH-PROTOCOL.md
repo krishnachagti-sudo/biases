@@ -110,10 +110,13 @@ the document. This is the same failure the protocol is built against, arriving
 through the one channel that was assumed to be safe, and it does not announce
 itself: the numbers look exactly like numbers that were read.
 
-It happened twice on the same day. The second time, a fetch of Perea and
-Lupker returned a four-experiment structure the paper does not have and
-effects of "about 40 to 50 ms" that appear nowhere in it. That agent
-re-extracted every number from the document text instead.
+It happened three times on the same day. The second time, a fetch of Perea
+and Lupker returned a four-experiment structure the paper does not have and
+effects of "about 40 to 50 ms" that appear nowhere in it. The third time, a
+fetch of a belief-bias meta-analysis returned two effect sizes and a Bayes
+factor of 7.34; none of those strings exist in the document, which two
+independent raw fetches confirmed. Both agents re-extracted every number from
+the document text instead.
 
 The defence is cheap. A figure that matters gets seen twice, or it does not
 get published. A figure that appears on one fetch and not the next is treated
