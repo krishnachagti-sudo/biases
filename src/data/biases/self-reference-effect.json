@@ -1,0 +1,62 @@
+{
+  "no": 233,
+  "slug": "self-reference-effect",
+  "name": "Self-reference effect",
+  "aliases": ["SRE", "Self-referential encoding effect", "Self-reference encoding effect", "Self-referent encoding effect"],
+  "category": "memory",
+  "statement": "A word judged for whether it describes oneself is recalled better than the same word judged for its meaning.",
+  "meaning": "The paradigm is the depth-of-processing task with one question added. A learner sees a trait adjective under a question about its typeface, its sound, its meaning, or whether it describes them, and an unexpected recall test follows. Self-reference wins. Two comparisons travel under the one name and they give different numbers. Self against a semantic judgement is the large one, and self against the same judgement made about another person is the small one. The second matters because it separates two accounts. If the self is a privileged structure, reference to anybody else should lose badly. If the advantage comes from a rich, well-practised body of knowledge that organises material and elaborates it at the same time, then reference to a familiar other should close most of the gap, and the size of the effect should track how good the comparison task is. Symons and Johnson's meta-analysis was built to test that, and it comes down on the second side.",
+  "origin": {
+    "year": 1977,
+    "who": "T. B. Rogers, N. A. Kuiper and W. S. Kirker",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is \"Self-reference and the encoding of personal information\", and its abstract reports two experiments in which subjects rated adjectives under structural, phonemic, semantic and self-reference tasks, with incidental recall best for the self-reference task. Its conclusion is that the self \"appears to function as a superordinate schema that is deeply involved in the processing, interpretation, and memory of personal information\". Symons and Johnson record that the name of the effect comes from this paper, that its four tasks were the standard depth-of-processing set plus \"Does the word describe you?\", and that the \"superordinate schema\" phrase sits on its page 686. The full text was not obtained, so nothing on this page is a figure from it."
+  },
+  "evidence": "What the underlying literature looks like is documented in Symons and Johnson's meta-analysis, which read 129 studies located through PsycLIT for 1974 to 1994 and through the reference lists of retrieved articles, limited to work available as of June 1994. The median publication year was 1985. Studies tested 38.75 participants on average, 106 of the 129 drew on college undergraduates, and 126 were journal articles or book chapters against three unpublished reports. Trait words were the stimulus in 90 studies and nouns in 37. Free recall was the dependent measure in 105, recognition in 22 and cued recall in 2. Designs were within-subjects in 97 of 129, and 112 studies used an incidental paradigm in which participants did not expect a memory test. Average memory load was about 54 words. The self-reference task was self-descriptiveness in most cases, with autobiographical retrieval and imagery making up much of the rest. Bentley, Greenaway and Haslam later rebuilt the paradigm for unsupervised online testing. Their participants answered 30 questions drawn from Anderson's likeableness norms, 10 self-referential (\"Does the following word describe yourself?\"), 10 semantic and 10 structural, then had 120 seconds for a surprise recall test. Every analysis was run twice, on all recalled words and again with the first three and last three list positions dropped to control primacy and recency.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Symons and Johnson pooled 129 studies and found self-referential encoding ahead of the comparison task by d = 0.50, 95% CI 0.45 to 0.54.",
+    "detail": "The pooled figure splits cleanly by what self-reference was measured against. Self versus semantic encoding gave d = 0.65 across 60 studies, 95% CI 0.58 to 0.71. Self versus reference to another person gave d = 0.35 across 69 studies, 95% CI 0.29 to 0.42, and the two classes differed, QB = 42.70, p < .001. Effect sizes were heterogeneous, Q(128) = 451.40, p < .0001, and homogeneity was reached only after 34 of the 129 were dropped as outliers, leaving d = 0.45, 95% CI 0.39 to 0.50. The unweighted mean was 0.53, 95% CI 0.42 to 0.62. Bentley, Greenaway and Haslam ran four online studies with samples of 103, 150, 202 and 203 and pooled them. On the conservative scoring that drops primacy and recency positions, self-referential encoding beat semantic encoding by d = 0.45, z = 4.59, p < .001, 95% CI 0.257 to 0.640. On the full data the same comparison gave d = 0.63, z = 6.49, p < .001, 95% CI 0.439 to 0.819. Their Study 1 is the one that missed, with no recall advantage over semantic encoding under conservative scoring, beta = -4.84, SE = 3.67, p = .385, which the authors attribute to leaving the encoding screens self-paced. From Study 2 onward each question was held on screen for five seconds and the effect appeared in every study. No multi-site or registered replication of the effect was located; the searches covered Crossref, Unpaywall, Semantic Scholar, PubMed, Europe PMC and general web search.",
+    "study": {
+      "cite": "Symons, C. S., & Johnson, B. T. (1997). The self-reference effect in memory: A meta-analysis. Psychological Bulletin, 121(3), 371-394.",
+      "doi": "10.1037/0033-2909.121.3.371",
+      "year": 1997
+    },
+    "replicated": {
+      "es": 0.5,
+      "esType": "d",
+      "ci": [0.45, 0.54],
+      "ciLevel": 95,
+      "weighting": "weighted mean across 129 studies"
+    }
+  },
+  "limits": "The advantage shrinks as the comparison task improves, which is the finding that decides what the effect is about. Symons and Johnson coded every comparison task for whether it promoted relational processing, item-specific processing or both. Across the whole literature the three classes gave d = 0.51 over 37 studies, 0.56 over 67 and, for the class doing both, an interval of 0.19 to 0.39 over 25 studies, QB = 21.29, p < .001. Narrowing to self-versus-semantic studies in which both tasks promoted both kinds of processing leaves seven studies and d = 0.29, 95% CI 0.09 to 0.49, with heterogeneity remaining, Qwi(6) = 22.41, p < .01. Which semantic task was used matters as much. Generating a definition gave d = 1.04 over nine studies and rating desirability gave 0.16, 95% CI -0.06 to 0.37, over five. Stimuli that were related to each other gave 0.20, 95% CI -0.01 to 0.42, over nine studies, against 0.69 for unrelated stimuli. Recognition is a boundary in the self-versus-semantic class, d = 0.21, 95% CI 0.00 to 0.43, over four studies, and Bentley and colleagues reproduced it, d = 0.05, p = .904, in the conservative recognition data of their Study 3. Against another person the effect can vanish entirely. With nouns as stimuli it was 0.03, 95% CI -0.08 to 0.13, over 26 studies. With imagery as the self-reference task it was -0.01, 95% CI -0.16 to 0.13, over 13. Where participants expected a memory test it was 0.02, 95% CI -0.14 to 0.18, over 15 studies, against 0.41 where they did not. Paff, Kim, Ross, Matthews and Kritkikos tested what the self-cue needs to work on, pairing 206 participants' own names, a best friend's name and a stranger's name with trait adjectives, concrete nouns or pseudowords in a location-judgement task. Source memory favoured self-paired over friend-paired words overall, BF10 = 118.50, and adjectives and nouns behaved alike, but pseudowords produced nothing: self-paired against stranger-paired gave BF10 = 0.184. Their effect sizes are Bayesian posterior medians with credible intervals, so none is carried in the structured fields above. The evidence base is also old and small-sampled. Symons and Johnson closed their search in June 1994, and the studies in it averaged 38.75 participants. Rogers, Kuiper and Kirker's paper is paywalled and was not obtained.",
+  "misreadings": "The first error is the one built into the original framing. Rogers and colleagues added self-reference to a depth-of-processing battery, and it is still described as a level deeper than semantic, which predicts a gap that holds however good the semantic task is. The gap does the opposite. It is 0.65 against semantic tasks in general, and 0.29 in the seven studies where the semantic task organised and elaborated the material as the self-reference task did. Symons and Johnson's own reading is that the self is a well-developed and often-used construct that promotes elaboration and organisation, rather than a separate depth. A second error is quoting 0.65 as the effect size. That is the self-versus-semantic subset of 60 studies; the pooled figure across all 129 is 0.50, and the 69 studies comparing self with another person give 0.35. A third error concerns recognition. The recognition boundary in this meta-analysis belongs to the self-versus-semantic class, where four studies give 0.21. In the self-versus-other class the 18 recognition studies gave 0.50 against 0.28 for the 51 free-recall studies, so recognition raised the effect there. Bentley and colleagues describe their recognition null as replicating \"the 18 recognition studies incorporated in Symons and Johnson's (1997) meta-analysis\", and those 18 are the self-versus-other ones. A fourth error treats the incidental design as a formality. Expecting a memory test flattened the effect in the self-versus-other class, 0.02 against 0.41. Bentley and colleagues predicted the same online, told half their Study 4 participants a recall test was coming, and found no interaction between encoding level and recall paradigm, F(2, 382) = 1.38, p = .253. The last error is reading 0.50 as a description of the studies rather than of their average. Effect sizes were heterogeneous at Q(128) = 451.40, and a quarter of them had to be discarded before the set became consistent.",
+  "sources": [
+    {
+      "text": "Rogers, T. B., Kuiper, N. A., & Kirker, W. S. (1977). Self-reference and the encoding of personal information. Journal of Personality and Social Psychology, 35(9), 677-688. Paywalled and not obtained; the abstract quoted on this page is the one reproduced by PubMed, and the account of the four encoding tasks is Symons and Johnson's.",
+      "doi": "10.1037/0022-3514.35.9.677",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/909043/",
+      "type": "primary"
+    },
+    {
+      "text": "Symons, C. S., & Johnson, B. T. (1997). The self-reference effect in memory: A meta-analysis. Psychological Bulletin, 121(3), 371-394. Read as the author copy deposited at OpenCommons@UConn.",
+      "doi": "10.1037/0033-2909.121.3.371",
+      "url": "https://digitalcommons.lib.uconn.edu/chip_docs/9/",
+      "type": "replication"
+    },
+    {
+      "text": "Bentley, S. V., Greenaway, K. H., & Haslam, S. A. (2017). An online paradigm for exploring the self-reference effect. PLOS ONE, 12(5), e0176611.",
+      "doi": "10.1371/journal.pone.0176611",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176611",
+      "type": "replication"
+    },
+    {
+      "text": "Paff, H. A., Kim, K., Ross, J., Matthews, N., & Kritkikos, A. (2026). Semantic knowledge of words is necessary to produce an incidental self-reference effect. Psychonomic Bulletin & Review, 33(4), article 121.",
+      "doi": "10.3758/s13423-026-02901-y",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13021704/",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
