@@ -1,0 +1,113 @@
+{
+  "no": 302,
+  "slug": "boundary-extension",
+  "name": "Boundary extension",
+  "aliases": [
+    "Boundary transformation",
+    "Boundary contraction"
+  ],
+  "category": "memory",
+  "statement": "People remember a photographed scene as showing more of the world than it did, and the error runs the other way for wide views of distant space.",
+  "meaning": "The claim is that memory for a view is not a copy of the view. Shown a close-up photograph and asked to draw it, people draw the cropped objects whole and add ground, wall and sky that the camera never captured. Shown the identical photograph a second time, they rate it as a closer view than the one they saw. Intraub's account is that scene perception runs past the edges of the input, and that the extrapolated surround is later remembered as having been seen. The five-point rating scale from the original paper is still the standard measure, running from much closer up through the same to much farther away. Two things follow that the short version of the claim leaves out. The direction is not fixed. Views of a single close object extend in memory, and wide views of a room or a landscape contract, with a crossover point in between. The error also shows up when there is almost nothing to remember, including while a person copies a photograph that is still in front of them.",
+  "origin": {
+    "year": 1989,
+    "who": "Helene Intraub and Michael Richardson",
+    "where": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+    "note": "The paper named the effect and supplied both standard measures, the memory drawing and the five-point boundary rating. It sits behind the APA paywall and its sample sizes and statistics were not read for this entry."
+  },
+  "evidence": "The 1989 experiments are described here from Gagnier and Intraub's Scholarpedia article, which Intraub curates, because the paper itself could not be opened. Their Figure 1 shows a close-up and a wide-angle photograph of the same scene beside drawings made from memory of each, and in both cases the drawings run past all four edges of the photograph. Intraub and Bodamer then tested whether the error is an artefact of not knowing what is coming. Eighty-one subjects viewed 12 photographs of simple scenes for 15 seconds each under one of three instructions: remember the picture in detail, the same plus a warning about the tests to come, or the same plus a demonstration of boundary extension and an instruction to guard against it. A drawing task and a boundary recognition test followed. Warning sometimes reduced the distortion and never removed it. McDunn, Siddiqui and Brown stripped the scenes of meaning, building close-angle and wide-angle displays from irregular geometric shapes that independent raters found unrecognisable, on random-dot or blank backgrounds. Boundary extension appeared in every condition, which puts object recognition and scene schemas outside the list of things it requires. Hafri, Wadhwa and Bonner ran seven experiments with 1,100 adults using tilt shift, a photographic trick that makes a real place look like a scale model by cutting apparent viewing distance while leaving the rest of the image alone. Fake miniaturisation increased boundary extension for otherwise identical scenes, and the result held for a second, unrelated distance manipulation. Pullinen, Mononen, Simola and Henriksson took the effect out of the picture frame. Sixty people wearing a virtual reality headset looked freely around each of 20 rooms, then returned and walked to the spot they thought they had viewed from. They stopped too far back, so that their field of view was wider than the original, for close-up views, t = 4.29, p < 0.001, and across all conditions, t = 3.26, p = 0.001. For the far views the error did not differ from zero, t = 1.44, p = 0.156. Nothing in that display had a visible border, so borders are not what the effect needs.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Boundary extension repeats across laboratories, response measures and virtual reality, but only for close views: across 1,000 photographs judged by 2,000 people, object-centred images extended 93.2% of the time while wide scene images split evenly between extension and contraction.",
+    "detail": "Bainbridge and Baker assembled 500 object-oriented images from Google Open Images and 500 scene-oriented images from the Scene Understanding Database, and ran two rapid recognition experiments of 1,000 participants each, 200 judgments per image. On the object-oriented set, the kind used in most earlier work, 93.2% of images produced extension and 6.8% contraction, chi-squared = 746.5. On the scene-oriented set, 49.0% extended and 49.8% contracted, chi-squared = 0.06, p = 0.800. Whether a given image extends or contracts is a property of the image rather than noise: split-half reliability across observers ran from 0.71 to 0.80 by set and response format, and the two experiments correlated at rho = 0.84. Direction tracked composition. Boundary transformation correlated with the number of objects at rho = 0.58, with rated distance to the main object at rho = 0.76, and negatively with average object area at rho = -0.49. The 200 most extending images held a mean of 2.4 objects against 15.4 for the 200 most contracting. Reanalysing 728 drawings that 24 people made while looking at the photograph, 63.3% of the 60 scenes contracted and 35.0% extended, chi-squared = 9.64, p = 0.002, so the distortion survives with the stimulus in view. Park, Josephs and Konkle built virtual rooms and sampled views along a continuous approach, from object close-up to wide indoor view, testing 377 participants. Close views extended, far views contracted, and the crossover was orderly, rho = 0.66 between position and distortion. It fell at position 12.5 of the continuum, bootstrap 95% interval 11.2 to 16.2, and tracked which view people judged best-looking rather than which view was within arm's reach. Hall and Geng showed the direction can be pushed by attention alone: 36 people who studied 15 scenes while searching for a target later drew them with more contraction than 36 who simply memorised them. Intraub replied to Bainbridge and Baker in Current Biology that their two effects come from two mechanisms, scene construction producing extension only and normalisation producing errors in both directions, so finding both means the paradigm has recruited something extra. Bainbridge and Baker answered that this assumes what is in question, and that if extension and contraction are equally common in the same tasks with representative images, the link between extension and scene construction was never privileged.",
+    "study": {
+      "cite": "Bainbridge, W. A., & Baker, C. I. (2020). Boundaries extend and contract in scene memory depending on image properties. Current Biology, 30(3), 537-543.e3.",
+      "doi": "10.1016/j.cub.2019.12.004",
+      "year": 2020,
+      "n": 2000
+    }
+  },
+  "limits": "No meta-analysis of boundary extension was located. The search ran across Crossref, OpenAlex, PubMed, Europe PMC, PMC, Unpaywall and the open web, and turned up narrative reviews rather than a pooled estimate. Several papers here were reached only in part. Intraub and Richardson's 1989 article is paywalled at APA and has no abstract in Crossref, PubMed or OpenAlex, so this entry describes it from Gagnier and Intraub's Scholarpedia article and reports none of its numbers. Hubbard's 2024 review of the field, 42 pages in Psychonomic Bulletin and Review, was reachable only as an abstract. Multhaup, Munger, Yoo, Hu and Faust report in Visual Cognition that boundary extension replicates in samples from South Korea and China, and their paper returned 403 from the publisher and is indexed in neither PubMed nor Europe PMC, so its sample sizes are not quoted here. The figures for Intraub and Bodamer, McDunn and colleagues, Hafri and colleagues, Hall and Geng and both sides of the Current Biology exchange are taken from abstracts. Bainbridge and Baker's numbers, Park and colleagues' numbers and Pullinen and colleagues' numbers were read from the papers. Within the effect itself, the size depends on the retention interval, the response measure and how many pictures a person has to hold. Gagnier and Intraub note that the error can disappear with sets larger than about 24 pictures, where people lose track of the boundaries and err in both directions at random. Pullinen and colleagues' virtual reality task explained little of the variance, marginal R-squared 0.038 against conditional 0.14, most of it individual differences between people and rooms.",
+  "misreadings": "The most common retelling now inverts the finding it is trying to report. Boundary extension is said to reverse for close-up views, when close-up views are the case that extends and wide views of distant space are the case that contracts. Every result here points the same way, including the one that started the argument: on Bainbridge and Baker's object-centred close-ups, 93.2% of images extended. Bainbridge and Baker are also read as having shown the effect is not real. Their claim is about scope, that extension is one of two equally common distortions rather than a universal property of scene memory, and they proposed removing it from textbooks on that ground, not on the ground that it does not happen. Contraction is then read as ordinary forgetting of the edges. It appeared in 63.3% of drawings made by people looking at the photograph while they drew, which is not a memory failure. The effect is also filed alongside the implanted memories in the false-memory entry, and the two are not the same kind of error. Boundary extension needs no suggestion, no misinformation and no delay: it shows up within a second, in infants, and in a headset with no picture frame anywhere in the display. Knowing about it does not fix it. Intraub and Bodamer gave one group a demonstration of the phenomenon and told them to guard against it, and the distortion shrank without going away.",
+  "sources": [
+    {
+      "text": "Intraub, H., & Richardson, M. (1989). Wide-angle memories of close-up scenes. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(2), 179-187. The paper that named the effect. Metadata verified at Crossref, OpenAlex and PubMed; the text is paywalled and was not read for this entry.",
+      "doi": "10.1037/0278-7393.15.2.179",
+      "url": "https://doi.org/10.1037/0278-7393.15.2.179",
+      "type": "primary"
+    },
+    {
+      "text": "Gagnier, K. M., & Intraub, H. (2009). Boundary extension. Scholarpedia, 4(2), 3324. Read in full; the source for the description of the 1989 experiments, for the five-point rating scale, and for the loss of the effect with large picture sets. Curated by Intraub, and secondary with respect to her own 1989 paper.",
+      "doi": "10.4249/scholarpedia.3324",
+      "url": "http://www.scholarpedia.org/article/Boundary_extension",
+      "type": "review"
+    },
+    {
+      "text": "Intraub, H., & Bodamer, J. L. (1993). Boundary extension: Fundamental aspect of pictorial representation or encoding artifact? Journal of Experimental Psychology: Learning, Memory, and Cognition, 19(6), 1387-1397. Figures taken from the abstract at Europe PMC.",
+      "doi": "10.1037/0278-7393.19.6.1387",
+      "url": "https://doi.org/10.1037/0278-7393.19.6.1387",
+      "type": "primary"
+    },
+    {
+      "text": "McDunn, B. A., Siddiqui, A. P., & Brown, J. M. (2014). Seeking the boundary of boundary extension. Psychonomic Bulletin & Review, 21(2), 370-375. Abstract read.",
+      "doi": "10.3758/s13423-013-0494-0",
+      "url": "https://doi.org/10.3758/s13423-013-0494-0",
+      "type": "replication"
+    },
+    {
+      "text": "Bainbridge, W. A., & Baker, C. I. (2020). Boundaries extend and contract in scene memory depending on image properties. Current Biology, 30(3), 537-543.e3. Read in full at PMC7187786; the source for every percentage, chi-squared and correlation in the replication field.",
+      "doi": "10.1016/j.cub.2019.12.004",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7187786/",
+      "type": "replication"
+    },
+    {
+      "text": "Intraub, H. (2020). Searching for boundary extension. Current Biology, 30(24), R1463-R1464. Abstract read at Europe PMC; the full correspondence was not.",
+      "doi": "10.1016/j.cub.2020.10.031",
+      "url": "https://doi.org/10.1016/j.cub.2020.10.031",
+      "type": "commentary"
+    },
+    {
+      "text": "Bainbridge, W. A., & Baker, C. I. (2020). Reply to Intraub. Current Biology, 30(24), R1465-R1466. Abstract read at Europe PMC.",
+      "doi": "10.1016/j.cub.2020.10.032",
+      "url": "https://doi.org/10.1016/j.cub.2020.10.032",
+      "type": "commentary"
+    },
+    {
+      "text": "Park, J., Josephs, E., & Konkle, T. (2024). Systematic transition from boundary extension to contraction along an object-to-scene continuum. Journal of Vision, 24(1), 9. Read in full from the authors' copy at konklab.fas.harvard.edu.",
+      "doi": "10.1167/jov.24.1.9",
+      "url": "https://konklab.fas.harvard.edu/Papers/Park_2024_JOV.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Hafri, A., Wadhwa, S., & Bonner, M. F. (2022). Perceived distance alters memory for scene boundaries. Psychological Science, 33(12), 2040-2058. Figures taken from the abstract at Europe PMC.",
+      "doi": "10.1177/09567976221093575",
+      "url": "https://doi.org/10.1177/09567976221093575",
+      "type": "replication"
+    },
+    {
+      "text": "Hall, E. H., & Geng, J. J. (2024). Object-based attention during scene perception elicits boundary contraction in memory. Memory & Cognition, 53(1), 6-18. Figures taken from the abstract at Europe PMC.",
+      "doi": "10.3758/s13421-024-01540-9",
+      "url": "https://doi.org/10.3758/s13421-024-01540-9",
+      "type": "replication"
+    },
+    {
+      "text": "Pullinen, A., Mononen, R., Simola, J., & Henriksson, L. (2025). Boundary extension during naturalistic viewing. Journal of Vision, 25(14), 17. Read in full at PMC12716452.",
+      "doi": "10.1167/jov.25.14.17",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12716452/",
+      "type": "replication"
+    },
+    {
+      "text": "Multhaup, K. S., Munger, M. P., Yoo, S. G., Hu, S. X., & Faust, M. E. (2024). Boundary extension replicates in samples from South Korea and China. Visual Cognition, 32(7), 551-564. Named because it exists and bears on generality; the publisher returned 403 and no abstract was obtained, so nothing from it is quoted.",
+      "doi": "10.1080/13506285.2025.2451998",
+      "url": "https://doi.org/10.1080/13506285.2025.2451998",
+      "type": "replication"
+    },
+    {
+      "text": "Hubbard, T. L. (2024). Setting the scene for boundary extension: Methods, findings, connections, and theories. Psychonomic Bulletin & Review, 32(1), 97-138. Abstract read at Europe PMC; the review itself was paywalled.",
+      "doi": "10.3758/s13423-024-02545-w",
+      "url": "https://doi.org/10.3758/s13423-024-02545-w",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
