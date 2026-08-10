@@ -1,0 +1,75 @@
+{
+  "no": 236,
+  "slug": "telescoping-effect",
+  "name": "Telescoping effect",
+  "aliases": ["Telescoping bias", "Forward telescoping", "Backward telescoping", "Temporal telescoping"],
+  "category": "memory",
+  "statement": "People misdate remembered events, often placing them nearer the present, so a survey question about a fixed recent period collects events from outside it.",
+  "meaning": "An event can be remembered clearly while its date is not. Asked when something happened, or how many times it happened since a given date, a respondent has to reconstruct the timing, and the reconstruction carries a bias. Forward telescoping pulls an event towards the present, so it is counted inside a reference period it fell outside. Backward telescoping pushes it away, so a genuine event is left out. The two errors do not cancel in practice, and the survey-methods literature is mainly concerned with the forward kind, because it inflates counts of things like purchases, crimes and doctor visits. The correction Neter and Waksberg proposed is bounded recall: interview the household once to fix the start of the period, then ask at the next visit only about what has happened since, reading back what was reported before.",
+  "origin": {
+    "year": 1964,
+    "who": "John Neter and Joseph Waksberg",
+    "where": "Journal of the American Statistical Association",
+    "note": "Their article, \"A Study of Response Errors in Expenditures Data from Household Interviews\", reports a Census Bureau experiment on reported spending on alterations and repairs to dwellings. It is the source usually credited both with identifying telescoping as a survey problem and with the bounded interview that answers it."
+  },
+  "evidence": "The 1964 article sits behind a paywall and was not obtained for this entry. A 2003 National Research Council workshop summary reproduces its result in a table headed \"Ratio of Events Reported: Unbounded over Bounded\", giving 1.40 for expenditures and 1.55 for jobs. The same table lists five experiments by Loftus and Marburger from 1983, in which the start of the recall period was marked by a public event such as the eruption of Mount St Helens or New Year's Day rather than by an earlier interview. Those ratios run from 1.22 to 6.15. Both sets of figures are quoted here from the workshop summary rather than from the papers that produced them. Huttenlocher, Hedges and Bradburn tested where the forward bias comes from in 1990. They report that \"reported times are less than actual times\", and trace it to two features of how an answer is built rather than to a distorted memory of duration: respondents impose an upper limit on what counts as a reasonable answer, which truncates the distribution, and they answer in rounded values whose spacing widens as the values grow, so more estimates round down than up. Direction is not fixed. Gaskell, Wright and O'Muircheartaigh asked 2,136 respondents on a British national omnibus survey to date two events. Margaret Thatcher's resignation, 19 months earlier, drew 39.4 per cent forward telescoping against 30.6 per cent backward. The Hillsborough disaster, 37 months earlier, reversed it: 28.5 per cent forward against 42.2 per cent backward. Correct answers, meaning within one month of the true date, ran at 15.2 per cent for Thatcher and 10.2 per cent for Hillsborough.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A randomised trial in Addis Ababa in 2020 found reported weekly food consumption 16 per cent higher under unbounded recall than under bounded recall, about one extra day of food in seven.",
+    "detail": "Abate, de Brauw, Gibson, Hirvonen and Wolle randomly assigned 890 households in Addis Ababa to two ways of answering the same seven-day food consumption module. The bounded arm had a short supervisor visit seven days before the interview, and the questions then referred to consumption since that visit. The unbounded arm was asked about the last seven days in a single visit. Fieldwork ran from 24 January to 11 February 2020. With household controls and sub-city fixed effects, unbounded recall raised reported per capita weekly food consumption by 54.41 birr, standard error 14.31, against a bounded group mean of 275.3 birr, with a 95 per cent interval from 25.5 to 83.3. The semi-log version of the same comparison gives 16 per cent, 95 per cent interval 7.45 to 25.95. Reported protein intake was 16 per cent higher, 95 per cent interval 7.91 to 24.5, and reported calories 8.8 per cent higher, 95 per cent interval 3.10 to 14.7. The gap is concentrated in meat, eggs and other foods eaten rarely enough that a respondent has to count episodes rather than estimate a rate. Figures here are read from the 2020 IFPRI discussion paper, the version obtained; the study appeared in 2022 in The World Bank Economic Review.",
+    "study": {
+      "cite": "Abate, G. T., de Brauw, A., Gibson, J., Hirvonen, K., & Wolle, A. (2020). Telescoping causes overstatement in recalled food consumption: Evidence from a survey experiment in Ethiopia. IFPRI Discussion Paper 01976.",
+      "doi": "10.2499/p15738coll2.134161",
+      "year": 2020,
+      "n": 890
+    },
+    "replicated": {
+      "es": 54.41,
+      "esType": "md",
+      "unit": "birr of weekly food consumption per capita",
+      "ci": [25.5, 83.3],
+      "ciLevel": 95
+    }
+  },
+  "limits": "Bounded recall is a bundle, not a scalpel. A second visit marks the start of the period, and it also reminds the respondent that someone is checking, so the gap between the two arms is an upper bound on telescoping rather than a measurement of it. The Ethiopian experiment covers urban households, a seven-day period and food, which is the case where a short reference period makes any misdated episode loom largest. Abate and colleagues argue on that basis that telescoping matters more as reference periods shorten, and they cite a Tanzanian experiment by Beegle and colleagues in which unbounded seven-day recall gave higher consumption than fourteen-day recall. Neither test isolates recall length from the forgetting that runs the other way, and this entry found no study that varied the recall period while holding bounding constant. Direction is the other limit. The Gaskell figures come from dating two named public events, not from counting episodes inside a window, and the two events differ in kind as well as in age, so the reversal at 37 months is not a clean demonstration that distance flips the sign.",
+  "misreadings": "Telescoping is a claim about dating, not about how fast time feels. An adult saying a childhood summer felt long is describing duration; a respondent saying a burglary happened four months ago when it happened seven is telescoping, and only the second one distorts a survey estimate. The correction is also narrower than it looks. Bounding removes events that fall outside the period; it does nothing about events inside the period that the respondent has forgotten, and the two errors are separate. The 1964 numbers travel badly. The National Research Council table pairs 1.40 with expenditures and 1.55 with jobs, while the prose on the facing page pairs about 40 per cent with repairs and more than half with expenditure, so the two figures are attached to the two measures in opposite orders within one document. Anyone quoting them should say which they are quoting from.",
+  "sources": [
+    {
+      "text": "Neter, J., & Waksberg, J. (1964). A study of response errors in expenditures data from household interviews. Journal of the American Statistical Association, 59(305), 18-55.",
+      "doi": "10.1080/01621459.1964.10480699",
+      "url": "https://doi.org/10.1080/01621459.1964.10480699",
+      "type": "primary"
+    },
+    {
+      "text": "National Research Council (2003). Measurement Problems in Criminal Justice Research: Workshop Summary. Washington, DC: The National Academies Press. Chapter 2, including Table 2-1 on the impact of bounding procedures.",
+      "doi": "10.17226/10581",
+      "url": "https://www.nationalacademies.org/read/10581/chapter/3",
+      "type": "secondary"
+    },
+    {
+      "text": "Huttenlocher, J., Hedges, L. V., & Bradburn, N. M. (1990). Reports of elapsed time: Bounding and rounding processes in estimation. Journal of Experimental Psychology: Learning, Memory, and Cognition, 16(2), 196-213.",
+      "doi": "10.1037/0278-7393.16.2.196",
+      "url": "https://doi.org/10.1037/0278-7393.16.2.196",
+      "type": "primary"
+    },
+    {
+      "text": "Gaskell, G. D., Wright, D. B., & O'Muircheartaigh, C. A. (2000). Telescoping of landmark events: Implications for survey research. Public Opinion Quarterly, 64(1), 77-89.",
+      "doi": "10.1086/316761",
+      "url": "https://doi.org/10.1086/316761",
+      "type": "primary"
+    },
+    {
+      "text": "Abate, G. T., de Brauw, A., Gibson, J., Hirvonen, K., & Wolle, A. (2020). Telescoping causes overstatement in recalled food consumption: Evidence from a survey experiment in Ethiopia. IFPRI Discussion Paper 01976. Washington, DC: International Food Policy Research Institute.",
+      "doi": "10.2499/p15738coll2.134161",
+      "url": "https://doi.org/10.2499/p15738coll2.134161",
+      "type": "replication"
+    },
+    {
+      "text": "Abate, G. T., de Brauw, A., Gibson, J., Hirvonen, K., & Wolle, A. (2022). Telescoping error in recalled food consumption: Evidence from a survey experiment in Ethiopia. The World Bank Economic Review, 36(4), 889-908.",
+      "doi": "10.1093/wber/lhac015",
+      "url": "https://doi.org/10.1093/wber/lhac015",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
