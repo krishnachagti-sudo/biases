@@ -1,0 +1,91 @@
+{
+  "no": 306,
+  "slug": "perceptual-defence",
+  "name": "Perceptual defence",
+  "aliases": ["Perceptual defense"],
+  "category": "perception",
+  "statement": "Words a viewer would be embarrassed to say aloud need a longer flash before they can be read, which McGinnies took as the mind protecting itself from seeing them.",
+  "meaning": "The claim has two halves and they are usually run together. The first is that recognition thresholds for taboo words are higher than for neutral words. The second is that the body reacts to the taboo word before the viewer can report it, which McGinnies measured as a rise in palm conductance during the exposures that preceded correct recognition. Put together, the two halves say that something in the observer discriminates the word, judges it dangerous and then delays awareness of it. McGinnies called that process conditioned avoidance and placed it before conscious recognition. Everything contested about the idea sits in the second half. A viewer who has already read the word and hesitates to say it produces the same threshold gap without any defence at all, and so does a word that is simply rarer in print. Howes and Solomon put both objections in 1950, in the same journal, within a year of the original.",
+  "origin": {
+    "year": 1949,
+    "who": "Elliott McGinnies",
+    "where": "Psychological Review",
+    "note": "McGinnies was at the University of Alabama and the paper is the one that attached the phrase to the tachistoscope result. Cable's 1969 review credits the concept itself to Bruner and Postman in 1947, and McGinnies cites their work in his opening paragraph."
+  },
+  "evidence": "McGinnies showed 11 neutral and 7 taboo words to 16 undergraduates, 8 men and 8 women, on a Gerbrand's mirror tachistoscope. Each word was exposed once at .01 second, once at .02 second, and so on until the observer read it correctly. Electrodes on both palms fed a potentiometric circuit, and the experimenters noted the largest needle deflection in the six seconds after each exposure. Mean recognition thresholds were higher for the taboo words in every observer, with a mean difference of .045 second, t = 3.96 on 15 degrees of freedom, p < .01. Mean palm-current readings on the exposures before recognition were higher for the taboo words by 1.98 microamperes, t = 5.10, p < .01. Guesses offered before recognition also differed by word type, chi-square 31.26, p < .01, with more nonsense and structurally unlike guesses to the taboo words. Men had lower thresholds than women for both kinds of word, and the gap between the two kinds did not differ by sex. Two features of the procedure matter later. Observers were told to fix their guess when the word appeared and hold it until the experimenter signalled, and the 18 words were shown in the same fixed order to every observer, with a brand of sanitary towel first. McGinnies also printed the rival account and rejected it. Jerome Bruner had put it to him that taboo words are rarer in print and that the extra effort of reading a rare word would raise conductance too. McGinnies answered that the words are common in speech, and that correlations between mean conductance and mean threshold were -.002 for neutral words and +.077 for taboo words, so effort could not be the link.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The threshold gap itself repeats, and a signal-detection version of the task finds taboo words easier to see than neutral ones, F(1, 26) = 35.84, which is the opposite of a defence.",
+    "detail": "York, Mandour and Jex repeated McGinnies in 1984. Their abstract reports that threshold differences were significant, with taboo words higher than neutral words, and that no significant results were found for galvanic skin response. The physiological half of the original therefore did not come back. Tibboel, Van Bockstaele and De Houwer took the two components apart in 2011 using an attentional blink task with a closed response set, 29 Ghent University students with 2 excluded. Sensitivity to taboo targets was higher than to neutral targets, d' main effect F(1, 26) = 35.84, p < .001, and the blink was smaller for them, interaction F(1, 26) = 17.92, p < .001. Response criterion moved the other way. At the short lag observers were more biased against reporting a taboo word than a neutral one, t(26) = 2.59, p < .05. The same paper names McGinnies and reads its own result as low thresholds for taboo words held behind a conservative criterion. Earlier work disagreed with itself. Sales and Haber gave 24 male students 12 taboo words matched by length to 12 very frequent and 12 very rare neutral words, and scored the letters reported on each flash rather than the word. Letters of taboo words were the hardest to see of the three sets, below even the rare neutral words, and the gap was there on the first flash, which they read as a genuine perceptual effect. Their letter analysis combines two of the three response groups and rests on 16 observers. Cable ran 30 male students on the generalisation version, where a neutral word follows a taboo one. Neutral words after nonsense pretask words had higher thresholds than neutral words after neutral ones, means of 8.33 against 5.50 in units his table does not label, p < .01, and neutral words after taboo words did not differ from the control, 6.67 against 5.50. He read that as set rather than defence. Cable also reports that Postman and Schneider, Postman, Bronson and Gropper, and Solomon and Howes repeated several of the earlier studies with word frequency matched and found no support for the perceptual defence hypothesis. Those three papers were not obtained and that sentence is Cable's summary of them, not theirs.",
+    "study": {
+      "cite": "York, M. W., Mandour, T., & Jex, S. (1984). Perceptual defense, a replication. Perceptual and Motor Skills, 58(2), 351-355.",
+      "doi": "10.2466/pms.1984.58.2.351",
+      "year": 1984
+    }
+  },
+  "limits": "The original rests on 16 observers, one fixed word order and no effect size. The critique that decided the question is the part of the record hardest to read. Howes and Solomon's note occupies pages 229 to 234 of Psychological Review volume 57, McGinnies replies on pages 235 to 240, and Postman, Bronson and Gropper's test runs in the 1953 Journal of Abnormal and Social Psychology. Semantic Scholar reports all three as closed with no open copy, Crossref carries no abstract for any of them, PubMed carries none for the Howes and Solomon note, and OpenAlex marks that note closed with no repository full text. This entry therefore describes their arguments only as Cable's 1969 review states them. The modern subliminal literature has not revived the threshold claim. What it works on is the other half, autonomic reaction to affective material presented outside awareness. Van der Ploeg and colleagues reviewed 65 studies that presented negative affective stimuli subliminally to healthy samples while recording peripheral physiology, and report that 41 percent of the tested contrasts showed a significant increase against control stimuli, with method varying substantially between studies. None of that measures whether a threatening word takes longer to read. Searching the works citing McGinnies since 2010 through the Semantic Scholar graph turned up no study that repeats his tachistoscope procedure.",
+  "misreadings": "The common story is that perceptual defence failed to replicate. The threshold gap replicated. York and colleagues got it again in 1984, and the part that fell over was the reading of it, which is a different kind of death for an effect. Second, McGinnies is often described as blind to word frequency. His own paper prints the frequency objection under Bruner's name and answers it with two correlations, so the argument was live before publication rather than raised afterwards. Third, the modern evidence does not sit where the folklore puts it. Tibboel and colleagues found the reporting bias against taboo words that the critics predicted, and alongside it higher sensitivity to those words, so people see them better and say them less. That is closer to vigilance than to defence. Fourth, perceptual defence is not the claim that hidden messages steer behaviour. The subliminal work that continues is about skin conductance and blood pressure responding to material the viewer cannot report, not about persuasion. Fifth, the word list matters to the argument. A 2024 study of taboo words in 13 languages and 17 countries reports that they carry extremely low valence, high arousal and very low written frequency everywhere, which is the confound Howes and Solomon named holding up across languages.",
+  "sources": [
+    {
+      "text": "McGinnies, E. (1949). Emotionality and perceptual defense. Psychological Review, 56(5), 244-251. Full text read from the copy in the Max Planck Society repository.",
+      "doi": "10.1037/h0056508",
+      "url": "https://pure.mpg.de/rest/items/item_2359097_3/component/file_2359096/content",
+      "type": "primary"
+    },
+    {
+      "text": "Howes, D. H., & Solomon, R. L. (1950). A note on McGinnies' \"Emotionality and perceptual defense.\" Psychological Review, 57(4), 229-234. Closed at the publisher with no open copy located; its content is described here from Cable's 1969 account of it.",
+      "doi": "10.1037/h0060881",
+      "url": "https://doi.org/10.1037/h0060881",
+      "type": "commentary"
+    },
+    {
+      "text": "McGinnies, E. (1950). Discussion of Howes' and Solomon's note on \"Emotionality and perceptual defense.\" Psychological Review, 57(4), 235-240. Not obtained; named here because it is McGinnies' reply in the same issue.",
+      "doi": "10.1037/h0061684",
+      "url": "https://doi.org/10.1037/h0061684",
+      "type": "commentary"
+    },
+    {
+      "text": "Postman, L., Bronson, W. C., & Gropper, G. (1953). Is there a mechanism of perceptual defense? The Journal of Abnormal and Social Psychology, 48(2), 215-224. Not obtained; named here because Cable reports it as one of the frequency-controlled tests that found no support.",
+      "doi": "10.1037/h0054988",
+      "url": "https://doi.org/10.1037/h0054988",
+      "type": "replication"
+    },
+    {
+      "text": "Sales, B. D., & Haber, R. N. (1968). A different look at perceptual defense for taboo words. Perception & Psychophysics, 3(2), 156-160.",
+      "doi": "10.3758/BF03212783",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03212783.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Cable, D. G. (1969). Perceptual defense or set: A re-examination. Psychonomic Science, 16(6), 331-332.",
+      "doi": "10.3758/BF03332717",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03332717.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "York, M. W., Mandour, T., & Jex, S. (1984). Perceptual defense, a replication. Perceptual and Motor Skills, 58(2), 351-355. Abstract read from the Crossref record.",
+      "doi": "10.2466/pms.1984.58.2.351",
+      "url": "https://doi.org/10.2466/pms.1984.58.2.351",
+      "type": "replication"
+    },
+    {
+      "text": "Tibboel, H., Van Bockstaele, B., & De Houwer, J. (2011). Is the emotional modulation of the attentional blink driven by response bias? Cognition and Emotion, 25(7), 1176-1183. Read as the author copy in the Ghent University repository.",
+      "doi": "10.1080/02699931.2010.524192",
+      "url": "https://biblio.ugent.be/publication/2084142/file/6769429.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "van der Ploeg, M. M., Brosschot, J. F., Versluis, A., & Verkuil, B. (2017). Peripheral physiological responses to subliminally presented negative affective stimuli: A systematic review. Biological Psychology, 129, 131-153. Abstract read from PubMed.",
+      "doi": "10.1016/j.biopsycho.2017.08.051",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28843622/",
+      "type": "commentary"
+    },
+    {
+      "text": "Sulpizio, S., Günther, F., Badan, L., et al. (2024). Taboo language across the globe: A multi-lab study. Behavior Research Methods, 56(4), 3794-3813. Abstract read from the Crossref record.",
+      "doi": "10.3758/s13428-024-02376-6",
+      "url": "https://doi.org/10.3758/s13428-024-02376-6",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
