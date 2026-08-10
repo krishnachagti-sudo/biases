@@ -1,0 +1,100 @@
+{
+  "no": 262,
+  "slug": "duration-neglect",
+  "name": "Duration neglect",
+  "aliases": [
+    "Extension neglect for duration",
+    "Duration insensitivity"
+  ],
+  "category": "memory",
+  "statement": "Retrospective evaluations of an episode barely move with how long it lasted, so an experience of the same intensity is remembered as no worse for going on longer.",
+  "meaning": "The claim is about weight, not about awareness. People can say roughly how long something took and still give that length almost no role when asked how good or how bad the whole thing was. Duration neglect is bundled with the peak–end rule and the two are separable. The peak–end rule says which moments carry the verdict; duration neglect says the number of moments does not. Each has failed while the other held: in three studies of meals the length of exposure was neglected and the peak, the first dish and the last dish predicted nothing. Duration neglect is also the older half of the pair, named four months before the cold-pressor study that made the peak–end rule famous. Where it holds, the memory of an episode and the sum of what was lived come apart, so a person choosing by memory can pick the episode that contained more total discomfort.",
+  "origin": {
+    "year": 1993,
+    "who": "Barbara L. Fredrickson and Daniel Kahneman",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper names the phenomenon and defines it as little or no independent effect of duration on retrospective evaluations of affective episodes. The first demonstration was Varey and Kahneman in 1992, where people judged another person's discomfort from written lists of ratings. Fredrickson and Kahneman report that duration added 3% of the variance there, and that study is described here through their account of it."
+  },
+  "evidence": "Thirty-two students at the University of California, Berkeley, aged 16 to 35, watched six pleasant and six aversive film clips, each in a short or a long version, and marked a 100-mm line after each one. Aversive clips ran 28.8 seconds on average when short and 84.2 seconds when long. Mean evaluations of the aversive clips moved from 55.18 to 65.33 with length, and the mean within-subject biserial correlation between duration and evaluation was .26. Duration correlated .41 with peak affect and .32 with end affect, so length shifted the moment-by-moment experience more than it shifted the verdict. With the sum of peak and end affect held constant, the mean partial correlation between duration and the evaluation of aversive clips was -.02, t(30) = 0.18. Pleasant clips showed no reliable duration effect, and the long versions of the puppy film and the waves film were rated below the short ones. Study 2 showed the same clips to 96 students who ranked them at the end of the session. Duration correlated .24 with the rankings of aversive clips when people knew the ranking task in advance and .12 when they ranked from memory, a difference at t(94) = 1.90, p < .10. Subjects estimated the long versions at about twice the length of the short ones, so they knew what they were setting aside. One number from the colonoscopy work reached print only later. Ariely, Kahneman and Loewenstein report that the biserial correlation between patients' stated preference for a future colonoscopy and the duration of the one they had was .01, and that this result was left out of the 1996 paper by oversight.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Duration comes out near zero when episodes are rated one at a time, and carries about the weight of the ending when the same sounds are judged by a decision.",
+    "detail": "Ariely and Loewenstein put 27 annoying sounds through four evaluation methods. The sounds lasted 10, 15 or 22.5 seconds and varied in loudness and in shape. Regressing each participant's evaluations on peak, end and duration, the mean standardised weight on duration was 0.122 when sounds were rated one at a time, 0.334 when people named a price to hear a sound again, 0.266 when each sound was rated against a fixed standard, and 0.304 when they chose between a sound and that standard. Peak carried 0.437, 0.416, 0.494 and 0.357 across the same four. The rating method used in most earlier work is the one that produced neglect. Liersch and McKenzie redrew Varey and Kahneman's number lists as bar graphs and ran 113 students. Evaluations differed between every duration level for the graphs, p < .001, and between none of them for the number lists. A number list altered to show the maximum possible length changed nothing, so the graphs worked by making an adding strategy easy rather than by pointing at length. Schreiber and Kahneman report that the effects of sound duration and intensity are additive across trials. Where duration stays out of view the neglect holds. Rode, Rozin and Durlach found it across three studies of meals, with no peak, primacy or recency effect beside it. Kemp, Burt and Furneaux followed 49 students by daily text message on holidays of 4 to 14 days, and recalled overall happiness correlated .06 with length at the first recall test and -.30 at the second, neither of them significant. Alaybek and colleagues pooled 174 effect sizes and put the effect of duration at essentially nil. Weingarten, Zauberman and Diehl report seven studies that reproduce the direct neglect and find duration reaching evaluations indirectly, by changing where the peak and the end fall.",
+    "study": {
+      "cite": "Ariely, D., & Loewenstein, G. (2000). When does duration matter in judgment and decision making? Journal of Experimental Psychology: General, 129(4), 508-523.",
+      "doi": "10.1037/0096-3445.129.4.508",
+      "year": 2000
+    }
+  },
+  "limits": "No figure is quoted here for the pooled duration effect. The 2022 meta-analysis is paywalled, its abstract gives duration as essentially nil without a number, and the 2024 corrigendum to it could not be read. Ariely and Loewenstein's four experiments used undergraduates at Duke and at the Massachusetts Institute of Technology, and the sections read here print the analysis of variance degrees of freedom without stating how many people were in each experiment, so no sample size is given. Their sounds ran at most 22.5 seconds. Liersch and McKenzie are read from the authors' accepted draft dated July 2008 rather than the published version. Schreiber and Kahneman, Rode and colleagues, and Weingarten and colleagues are read from their abstracts, and no effect size is taken from any of the three. The 1996 colonoscopy paper was not obtained. Its procedures ran from 4 to 67 minutes according to Ariely and Loewenstein, while Fredrickson and Kahneman describe an earlier report of the same work with 101 patients and a range of 4 to 69 minutes. The longest episodes anyone has tested are holidays of two weeks. Searches for duration-specific work covered Crossref, PubMed and web search.",
+  "misreadings": "The most common error is to treat duration neglect and the peak–end rule as one finding, so that a failure of either is read as a failure of both. Rode and colleagues separate them cleanly: duration was neglected while peak, primacy and recency did nothing. A second error is to read neglect as not noticing. Fredrickson and Kahneman's subjects judged the long clips to be about twice as long as the short ones, and the authors describe duration as an attribute people know and consider important in the abstract. A third is to treat the size of the effect as a property of people rather than of the question. Ariely and Loewenstein moved the weight on duration by a factor of two and a half by changing nothing but the response mode. A fourth is to cite the cold-pressor choice as proof. Ariely, Kahneman and Loewenstein agree in print that the violations of dominance in that study do not by themselves demonstrate duration neglect, since heavy weight on the ending produces the same choice. Their joint statement is the shortest correction available: none of the three authors expects complete duration neglect when attention is drawn to duration, explicitly or otherwise.",
+  "sources": [
+    {
+      "text": "Fredrickson, B. L., & Kahneman, D. (1993). Duration neglect in retrospective evaluations of affective episodes. Journal of Personality and Social Psychology, 65(1), 45-55.",
+      "doi": "10.1037/0022-3514.65.1.45",
+      "url": "http://bear.warrington.ufl.edu/brenner/mar7588/Papers/fredr-kahneman-jpsp1993.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Varey, C., & Kahneman, D. (1992). Experiences extended across time: Evaluation of moments and episodes. Journal of Behavioral Decision Making, 5(3), 169-185. Not read here; described through Fredrickson and Kahneman and through Liersch and McKenzie.",
+      "doi": "10.1002/bdm.3960050303",
+      "url": "https://doi.org/10.1002/bdm.3960050303",
+      "type": "primary"
+    },
+    {
+      "text": "Ariely, D., & Loewenstein, G. (2000). When does duration matter in judgment and decision making? Journal of Experimental Psychology: General, 129(4), 508-523. Read from the scanned copy on the first author's Massachusetts Institute of Technology page.",
+      "doi": "10.1037/0096-3445.129.4.508",
+      "url": "https://web.mit.edu/ariely/www/MIT/Papers/duration1b.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Ariely, D., Kahneman, D., & Loewenstein, G. (2000). Joint comment on \"When does duration matter in judgment and decision making?\" (Ariely & Loewenstein, 2000). Journal of Experimental Psychology: General, 129(4), 524-529.",
+      "doi": "10.1037/0096-3445.129.4.524",
+      "url": "https://web.mit.edu/ariely/www/MIT/Papers/duration1c.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Liersch, M. J., & McKenzie, C. R. M. (2009). Duration neglect by numbers, and its elimination by graphs. Organizational Behavior and Human Decision Processes, 108(2), 303-314. Read from the authors' accepted draft dated July 2008.",
+      "doi": "10.1016/j.obhdp.2008.07.001",
+      "url": "https://pages.ucsd.edu/~mckenzie/Liersch&McKenzieInPressOBHDP.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Schreiber, C. A., & Kahneman, D. (2000). Determinants of the remembered utility of aversive sounds. Journal of Experimental Psychology: General, 129(1), 27-42. Read here from its PubMed abstract.",
+      "doi": "10.1037/0096-3445.129.1.27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10756485/",
+      "type": "replication"
+    },
+    {
+      "text": "Rode, E., Rozin, P., & Durlach, P. (2007). Experienced and remembered pleasure for meals: Duration neglect but minimal peak, end (recency) or primacy effects. Appetite, 49(1), 18-29. Read here from its PubMed abstract.",
+      "doi": "10.1016/j.appet.2006.09.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17459522/",
+      "type": "replication"
+    },
+    {
+      "text": "Kemp, S., Burt, C. D. B., & Furneaux, L. (2008). A test of the peak-end rule with extended autobiographical events. Memory & Cognition, 36(1), 132-138.",
+      "doi": "10.3758/MC.36.1.132",
+      "url": "https://link.springer.com/content/pdf/10.3758/MC.36.1.132.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Weingarten, E., Zauberman, G., & Diehl, K. (2021). Duration sensitivity of key moments. Cognition, 214, 104750. Read here from its PubMed abstract.",
+      "doi": "10.1016/j.cognition.2021.104750",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33965783/",
+      "type": "replication"
+    },
+    {
+      "text": "Alaybek, B., Dalal, R. S., Fyffe, S., Aitken, J. A., Zhou, Y., Qu, X., Roman, A., & Baines, J. I. (2022). All's well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect. Organizational Behavior and Human Decision Processes, 170, 104149. Paywalled; the abstract was read in full at EconPapers.",
+      "doi": "10.1016/j.obhdp.2022.104149",
+      "url": "https://econpapers.repec.org/article/eeejobhdp/v_3a170_3ay_3a2022_3ai_3ac_3as0749597822000334.htm",
+      "type": "replication"
+    },
+    {
+      "text": "Alaybek, B., Dalal, R. S., Fyffe, S., Aitken, J. A., Zhou, Y., Qu, X., Roman, A., & Baines, J. I. (2024). Corrigendum to \"All's well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect\". Organizational Behavior and Human Decision Processes, 180, 104278. Its content could not be obtained.",
+      "doi": "10.1016/j.obhdp.2023.104278",
+      "url": "https://doi.org/10.1016/j.obhdp.2023.104278",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
