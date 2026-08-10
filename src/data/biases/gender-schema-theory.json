@@ -1,0 +1,97 @@
+{
+  "no": 258,
+  "slug": "gender-schema-theory",
+  "name": "Gender schema theory",
+  "aliases": ["Gender-schematic processing", "Gender schemata theory", "GST"],
+  "category": "social",
+  "statement": "Gender schema theory holds that people who sort the world into masculine and feminine process new information through that sorting, and remember it bent towards the categories.",
+  "meaning": "The theory is about where sex typing comes from rather than what it contains. A gender schema is a readiness to sort people, traits, objects and activities into masculine and feminine, and Bem's claim is that this readiness, once the self-concept has been assimilated to it, is what produces the sex-typed person. Her abstract says two studies found sex-typed individuals readier to process information, including information about the self, in terms of the gender schema. Carol Lynn Martin and Charles Halverson published a developmental version in Child Development in December of the same year, treating sex stereotypes as schemas that organise incoming information and arguing that sex stereotyping is an ordinary cognitive process rather than a defect. Because this is a framework and not one effect, its predictions have not been tested equally. The one tested most is about memory. If a schema shapes encoding and retrieval, material that fits the schema should be recalled better, and material that contradicts it should be lost or bent until it fits.",
+  "origin": {
+    "year": 1981,
+    "who": "Sandra Lipsitz Bem",
+    "where": "Psychological Review",
+    "note": "The paper runs from page 354 to page 364 of volume 88, issue 4. Only its abstract, read at ERIC, could be obtained, and no figure from the two studies it reports is quoted here. The instrument the theory leans on to identify who ought to be schematic is seven years older: the Bem Sex Role Inventory, in the Journal of Consulting and Clinical Psychology in 1974. Martin and Halverson's schematic processing model appeared in Child Development, volume 52, issue 4, pages 1119 to 1134, in December 1981."
+  },
+  "evidence": "The founding memory study is Martin and Halverson's, in Child Development in 1983. Its abstract reports 48 children aged five and six shown pictures of males and females performing sex-consistent and sex-inconsistent activities, with recall of the activity and of the actor's sex tested a week later, and sex-consistent activities came out more memorable. The paper is closed and none of its numbers appear here. The claim it is usually cited for, that children flip the actor's sex on the inconsistent pictures and not on the consistent ones, is taken from Gülgöz, Alonso, Olson and Martin's description of it rather than from the paper. The clearest recent primary test in adults is Sebastián-Tirado, Félix-Esbrí, Forn and Sanchis-Segura's, in Sex Roles in 2023. Spanish marks occupational nouns for gender, so a job has a masculine and a feminine form differing in the last letter. Experiment 1 gave an incidental encoding task to 109 undergraduates at the Universitat Jaume I, 52 men and 57 women, with recognition tested 15 minutes later. Feminine forms of high-status professions were forgotten more often than their masculine forms, t(108) = 7.84, Bonferroni p < .001, d = 1.05, 95% CI [0.64, 1.55], while the same contrast for low-status jobs came to nothing, t(108) = 0.17, Bonferroni p = 1.00. The four error categories were not evenly distributed, chi-squared(3) = 61.90, p < .001, and the risk of failing to recognise a feminine high-status form was 2.35 times the masculine risk, 95% CI [1.89, 2.92], Z = 7.76, p < .001. Experiment 2 ran identical materials on 96 students, 49 women and 47 men, who were told a memory test was coming. The same contrast held at about a third of the size, t(95) = 2.59, Bonferroni p = .028, d = 0.38, 95% CI [0.12, 0.66]. Their abstract gives the two samples as 107 and 96 where their method section counts 109 and 96.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Repeated on 353 children, the memory advantage for stereotype-consistent pictures did not appear, and free recall ran the other way.",
+    "detail": "Gülgöz, Alonso, Olson and Martin showed 16 pictures, eight of boys and eight of girls, half of each doing a girl-typed activity and half a boy-typed one, each for 10 seconds, with no instruction to remember them. About 10 minutes of unrelated tasks followed, then free recall, then probed recall. Their abstract reports 367 children aged 6 to 11. Their own group counts are 97 transgender, 29 nonbinary and 227 cisgender, which is 353, and the degrees of freedom in the stereotype analyses, F(1,350) and F(2,350), fit 353 rather than 367. In free recall the effect of image stereotype ran against the prediction: counter-stereotypical images, M = 0.16, SD = 0.19, beat stereotype-consistent ones, M = 0.13, SD = 0.16, F(1,350) = 6.02, p = .015, partial eta squared = .02. In probed recall the authors report a group effect, F(2,350) = 6.42, p = .002, partial eta squared = .04, with cisgender children at M = 0.73 and transgender children at M = 0.65, and state that no other effect there was statistically significant. Distortion itself was rare. Where a child named the character's gender in free recall, 2.3% of those namings reversed it. Two neighbouring predictions the same study tested behaved differently. Probed recall favoured activities typed for the child's own gender, M = 0.84, SD = 0.17, over the other gender's, M = 0.81, SD = 0.19, F(1,322) = 15.65, p < .001, partial eta squared = .05, in transgender and cisgender children alike. Recall of own-gender characters did not, and transgender children recalled other-gender characters better than own-gender ones, M = 0.84, SD = 0.20 against M = 0.79, SD = 0.20, Bonferroni p = .022. Against this sits the adult result above, where schema-congruent forgetting was large under incidental encoding and shrank when people were told to memorise. The two studies differ in age, stimuli, language and delay, and nothing located here settles between them.",
+    "study": {
+      "cite": "Gülgöz, S., Alonso, D. J., Olson, K. R., & Martin, C. L. (2025). Memory biases for gender-typed images in a gender-diverse group of children. British Journal of Developmental Psychology, 43(2), 305-318.",
+      "doi": "10.1111/bjdp.12490",
+      "year": 2025,
+      "n": 353
+    }
+  },
+  "limits": "No standardised effect size is printed above for the children's study, because its stereotype results are reported as partial eta squared and coercing those into a d would invent a figure. The theory's other predictions rest on weaker ground than the memory one. Bem identified who ought to be gender-schematic with her Sex Role Inventory, and Spence and Helmreich's comment in the same 1981 issue of Psychological Review states the objection: the inventory cannot measure both a single construct, gender schema, and two independent ones, masculinity and femininity, and what it does measure is self-images of instrumental and expressive traits. That is the comment's abstract at ERIC; the comment itself was not obtained. Most of the primary literature here is closed. Bem's 1981 paper, her 1974 inventory paper, Martin and Halverson's 1981 model and 1983 experiment, Signorella, Bigler and Liben's meta-analyses of 1993 and 1997, Stangor and McMillan's 1992 review, Payne, Connor and Colletti's 1987 reevaluation, Edwards and Spence's 1987 study and Starr and Zurbriggen's review of the theory's reach were each sought through Crossref, Unpaywall, OpenAlex, Europe PMC, PubMed, ERIC, Semantic Scholar and the publishers' own sites, and none could be read in full. The 1993 meta-analysis has a green open-access deposit at Penn State's ScholarSphere, and every attempt to download it returned the repository's bot check instead of the file. Gülgöz and colleagues name their own limits. The effects were small, none of them appeared in both free and probed recall, and they ask for replication before interpretation. Their delay between viewing and recall was about 10 minutes where Martin and Halverson's was a week, which they offer as one reason the results may differ, alongside the possibility that children tested from 2017 to 2019 attend to gender stereotypes less than children tested decades earlier. Their families were unusual: 71% to 79% white across the three groups, and 28% to 47% of parents reporting income above $125,001. The transgender and nonbinary children lived in supportive families, and the cisgender children's parents had volunteered for a study of gender diversity. Sebastián-Tirado and colleagues report that their samples may have been too small for small effects and that they could not formally compare their two experiments. Their paradigm needs a language that marks nouns for gender, so it does not carry into English without redesign.",
+  "misreadings": "The Bem Sex Role Inventory is not a measure of gender-schematic processing. It records which self-descriptive adjectives a person endorses, and the theory then predicts how somebody with that profile ought to handle information, which is why Spence and Helmreich's objection to the instrument is an objection to the evidence and not only to the questionnaire. Androgyny and gender schema theory are separate ideas seven years apart, and Leaper records that Bem later wrote that androgyny, masculinity and femininity could be said to reproduce the gender polarisation they set out to undercut, citing page viii of her 1993 book; that quotation is reached here through Leaper. The girl-with-a-hammer story rests on 48 five- and six-year-olds in one 1983 study. Repeated on 353 children with pictures and a shorter delay, free recall went the other way, and children reversed a character's gender in 2.3% of the responses where they named one. Remembering your own gender's activities and remembering stereotype-consistent scenes are two predictions rather than one restated. Gülgöz and colleagues tested both, and the first held in probed recall while the second reversed in free recall. The adult result is not the children's result in another form: Sebastián-Tirado and colleagues measured recognition of Spanish job nouns, not memory for pictures of people. And the bias they found is conditional. It was large when nobody had mentioned a memory test and about a third the size when the instruction to memorise was given.",
+  "sources": [
+    {
+      "text": "Bem, S. L. (1981). Gender schema theory: A cognitive account of sex typing. Psychological Review, 88(4), 354-364. Read at abstract level via the ERIC record EJ254469; the full paper was not obtained and no figure from it is quoted.",
+      "doi": "10.1037/0033-295X.88.4.354",
+      "url": "https://eric.ed.gov/?id=EJ254469",
+      "type": "primary"
+    },
+    {
+      "text": "Bem, S. L. (1974). The measurement of psychological androgyny. Journal of Consulting and Clinical Psychology, 42(2), 155-162. Bibliographic record only. PubMed carries no abstract for it and the paper was not obtained.",
+      "doi": "10.1037/h0036215",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4823550/",
+      "type": "primary"
+    },
+    {
+      "text": "Martin, C. L., & Halverson, C. F., Jr. (1981). A schematic processing model of sex typing and stereotyping in children. Child Development, 52(4), 1119-1134. Read at abstract level via the ERIC record EJ258320.",
+      "doi": "10.2307/1129498",
+      "url": "https://eric.ed.gov/?id=EJ258320",
+      "type": "primary"
+    },
+    {
+      "text": "Martin, C. L., & Halverson, C. F., Jr. (1983). The effects of sex-typing schemas on young children's memory. Child Development, 54(3), 563-574. Read at abstract level via the ERIC record EJ284338, which is the source for the 48 children and for sex-consistent activities being more memorable. The distortion result is quoted through Gülgöz and colleagues.",
+      "doi": "10.2307/1130043",
+      "url": "https://eric.ed.gov/?id=EJ284338",
+      "type": "primary"
+    },
+    {
+      "text": "Spence, J. T., & Helmreich, R. L. (1981). Androgyny versus gender schema: A comment on Bem's gender schema theory. Psychological Review, 88(4), 365-368. Read at abstract level via the ERIC record EJ254470.",
+      "doi": "10.1037/0033-295X.88.4.365",
+      "url": "https://eric.ed.gov/?id=EJ254470",
+      "type": "commentary"
+    },
+    {
+      "text": "Gülgöz, S., Alonso, D. J., Olson, K. R., & Martin, C. L. (2025). Memory biases for gender-typed images in a gender-diverse group of children. British Journal of Developmental Psychology, 43(2), 305-318. Published online 27 April 2024. Read in full as the author manuscript in PubMed Central; the source for every figure in the replication section.",
+      "doi": "10.1111/bjdp.12490",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11512685/",
+      "type": "replication"
+    },
+    {
+      "text": "Sebastián-Tirado, A., Félix-Esbrí, S., Forn, C., & Sanchis-Segura, C. (2023). Gender stereotypes selectively affect the remembering of highly valued professions. Sex Roles, 88(7-8), 326-347. Read in full from the open-access copy in the Universitat Jaume I repository; the source for both experiments' figures.",
+      "doi": "10.1007/s11199-023-01355-z",
+      "url": "https://repositori.uji.es/handle/10234/202236",
+      "type": "primary"
+    },
+    {
+      "text": "Leaper, C. (2017). Further reflections on Sandra Lipsitz Bem's impact. Sex Roles, 76(11-12), 759-765. Read in full at eScholarship; the source for Bem's later view of androgyny, which he quotes from page viii of her 1993 book.",
+      "doi": "10.1007/s11199-017-0760-0",
+      "url": "https://escholarship.org/uc/item/66b7603w",
+      "type": "commentary"
+    },
+    {
+      "text": "Signorella, M. L., Bigler, R. S., & Liben, L. S. (1993). Developmental differences in children's gender schemata about others: A meta-analytic review. Developmental Review, 13(2), 147-183. Named because it is the meta-analysis of the childhood literature. Its deposited copy returned a bot check on every attempt and nothing is quoted from it.",
+      "doi": "10.1006/drev.1993.1007",
+      "url": "https://scholarsphere.psu.edu/resources/05878079-af0c-426b-a7d7-d1cbfb7fc3fa",
+      "type": "replication"
+    },
+    {
+      "text": "Signorella, M. L., Bigler, R. S., & Liben, L. S. (1997). A meta-analysis of children's memories for own-sex and other-sex information. Journal of Applied Developmental Psychology, 18(3), 429-445. Closed at the publisher and not obtained; named rather than quoted.",
+      "doi": "10.1016/S0193-3973(97)80009-3",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0193397397800093",
+      "type": "replication"
+    },
+    {
+      "text": "Stangor, C., & McMillan, D. (1992). Memory for expectancy-congruent and expectancy-incongruent information: A review of the social and social developmental literatures. Psychological Bulletin, 111(1), 42-61. Closed and not obtained. Gülgöz and colleagues cite it for the view that counter-stereotypical material can be the more salient at short delays.",
+      "doi": "10.1037/0033-2909.111.1.42",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
