@@ -1,0 +1,97 @@
+{
+  "no": 245,
+  "slug": "fluency-heuristic",
+  "name": "Fluency heuristic",
+  "aliases": ["Retrieval fluency heuristic", "Fluency as a cue"],
+  "category": "decision",
+  "statement": "When two familiar options are compared, the one retrieved faster is inferred to be the larger, and speed of retrieval stands in for knowledge about either.",
+  "meaning": "Two claims sit inside the name and they have different amounts of evidence behind them. The narrow one is a decision rule for paired comparisons: if both objects are recognised and one comes to mind more quickly, choose that one and consult nothing else. Schooler and Hertwig defined it that way, as the successor to the recognition heuristic for the cases the recognition heuristic cannot touch, and they operationalised fluency as recognition latency. The wide one is that ease of processing, from any source, feeds any judgment. Repetition, high contrast, rhyme and simple pronunciation all make a stimulus easier to take in, and the ease is then misread as evidence that the stimulus is true, liked, safe or big. Alter and Oppenheimer's review calls the wide version a ubiquitous metacognitive cue and groups conceptual, perceptual and linguistic fluency together on the grounds that they produce similar judgments. The narrow rule can be measured against a model. The wide claim cannot, and its parts have fared differently.",
+  "origin": {
+    "year": 2005,
+    "who": "Lael J. Schooler and Ralph Hertwig",
+    "where": "Psychological Review",
+    "note": "Their paper is \"How Forgetting Aids Heuristic Inference\", and it names and formalises the heuristic inside the ACT-R architecture rather than testing it on people. Schooler and Hertwig credit the underlying idea to earlier work by Jacoby and colleagues on false fame and on repeated assertions, which they cite as demonstrations that fluency already acts as a cue."
+  },
+  "evidence": "The 2005 paper is a simulation. Applied to all pairs of the 83 largest German cities, with ACT-R's default decay rate of -.50, the fluency heuristic answered 62.1% correctly against the recognition heuristic's 61.3%. Fluency validity, the chance of a correct answer when both cities are recognised, was .61, well below the recognition validity of .82. Performance peaked at an intermediate decay rate of -.25, and the fluency rule's own validity peaked at -.42, so forgetting helped by spreading retrieval times far enough apart to be told apart. The human evidence arrived in 2008. Hertwig, Herzog, Schooler and Reimer ran four studies. In the second, 120 students judged which of two names they had recognised faster; for gaps above 100 ms they scored a median .76, and below 100 ms accuracy sat at .53, with a 95% confidence interval from .49 to .58. In the third, 80 students at the Free University of Berlin made 156 paired comparisons. Choices matched the heuristic in .74 of applicable cases for US cities, .63 for German companies and .68 for music artists, against individual baselines that were 16, 11 and 15 percentage points lower, d = 1.03, 0.83 and 1.38. The heuristic was applicable to between 23% and 33% of inferences. In the fourth, 50 students at Basel counted syllables in a set of city names, which raised the chance of picking those cities as larger to .55, SD = .13, 95% CI [.52, .59], t(49) = 2.94, p = .005, d = .37.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The choice pattern reproduces in other laboratories at about two thirds of applicable pairs. Model-based estimates put decisions made on fluency alone at about one in five.",
+    "detail": "Pohl, Erdfelder, Michalkiewicz, Castela and Hilbig reanalysed 21 data sets to ask whether the standard procedures inflate or deflate estimates of use. Neither the order of the recognition and inference tasks nor repeated presentation of the objects mattered: 12 of 17 data sets showed no difference in estimated use across task orders, and 19 of 21 showed none across first and last presentations, in studies presenting objects up to 24 times. Their conclusion is that the low figures are unbiased. The separation that matters is between adherence and use. Adherence, the proportion of applicable pairs in which the faster-recognised object was chosen, runs at about two thirds and is reliably above chance. Use, the probability that the choice was made on fluency and nothing else, is estimated by a multinomial processing tree called the r-s model. Hilbig, Erdfelder and Pohl's own abstract calls the fluency heuristic an unlikely candidate for describing comparative judgments about recognised objects. Pohl and colleagues report the s estimates behind that: .23 in Hilbig and colleagues' 2011 study and .16 and .21 in Schwikert and Curran's two experiments, all small and all above zero. Those three figures are quoted here as Pohl and colleagues report them, not from the papers themselves. So the behaviour is there and the single-cue account of it is not.",
+    "study": {
+      "cite": "Pohl, R. F., Erdfelder, E., Michalkiewicz, M., Castela, M., & Hilbig, B. E. (2016). The limited use of the fluency heuristic: Converging evidence across different procedures. Memory & Cognition, 44(7), 1114-1126.",
+      "doi": "10.3758/s13421-016-0622-y",
+      "year": 2016
+    }
+  },
+  "limits": "Fluency is a weak cue where it applies. Across the 18 remaining data sets in Pohl and colleagues' reanalysis the mean fluency validity was .57, with a range from .44 to .67. Knowledge validity for the same pairs averaged .65, and beat fluency validity in 16 of the 21 sets. Pohl and colleagues also report a mean fluency validity of .62 across 25 data sets in Herzog and Hertwig's overview, and .55 in Volz and colleagues' study. Those two figures were not checked against their own papers. Every study of the narrow heuristic uses recognition speed as the proxy for fluency, which Pohl and colleagues name as a limitation of the whole literature. The samples are German, Swiss and American students. The objects are cities, companies, athletes, music artists and wealthy people. No direct repeat of the 2008 syllable-counting experiment was located. That search covered Crossref by title and DOI, OpenAlex, and the web under both the 'fluency heuristic' and 'retrieval fluency' names. What exists instead is reanalysis of the same paradigm by the Mannheim group.",
+  "misreadings": "The name is used for two things and only one of them has been measured this way. Within this atlas, four neighbouring entries are all sometimes called fluency effects, and their records differ. Repetition raising rated truth has survived: Ye and colleagues pooled 182 studies and 31,184 participants and, after correcting for small-study effects, put the illusory truth effect at g = 0.37, 95% CI [0.30, 0.44]. Fluency raising liking has support beyond repetition, since Reber, Winkielman and Schwarz raised liking by priming, figure-ground contrast and presentation duration, which is the two-step account behind the mere-exposure effect. Rhyme raising rated accuracy has no independent repeat, as the rhyme-as-reason entry records. Disfluency improving reasoning has failed: in Many Labs 2 the hard-to-read font produced d = -0.03, 95% CI [-0.08, 0.01], in 6,935 participants. The record outside this atlas is uneven in the same way. Song and Schwarz found ostensible food additives with hard-to-pronounce names rated more harmful, with 20 students in one study and 15 in another. Bahnik and Vranka built new names by the same recipe, recruiting 616 online workers for one preregistered study and 200 students for another. The effect held for Song and Schwarz's original items, b = -0.48, 95% CI [-0.79, -0.17], and vanished for the new ones, b = -0.11, 95% CI [-0.39, 0.16]. In their amusement-park study, with a final sample of 950, name length predicted perceived risk while pronounceability did not. A second error is to read adherence as use. Two thirds of choices agreeing with a heuristic does not mean two thirds of choices were made by it, because the faster-recognised object is usually also the better-known one. A third is to treat the 2005 result as data. It is an ACT-R simulation of German cities, and its 62.1% is a model's score, not a person's.",
+  "sources": [
+    {
+      "text": "Schooler, L. J., & Hertwig, R. (2005). How forgetting aids heuristic inference. Psychological Review, 112(3), 610-628. Full text read for this entry.",
+      "doi": "10.1037/0033-295X.112.3.610",
+      "url": "https://doi.org/10.1037/0033-295X.112.3.610",
+      "type": "primary"
+    },
+    {
+      "text": "Hertwig, R., Herzog, S. M., Schooler, L. J., & Reimer, T. (2008). Fluency heuristic: A model of how the mind exploits a by-product of information retrieval. Journal of Experimental Psychology: Learning, Memory, and Cognition, 34(5), 1191-1206. Full text read for this entry.",
+      "doi": "10.1037/a0013025",
+      "url": "https://doi.org/10.1037/a0013025",
+      "type": "primary"
+    },
+    {
+      "text": "Pohl, R. F., Erdfelder, E., Michalkiewicz, M., Castela, M., & Hilbig, B. E. (2016). The limited use of the fluency heuristic: Converging evidence across different procedures. Memory & Cognition, 44(7), 1114-1126. Full text read for this entry.",
+      "doi": "10.3758/s13421-016-0622-y",
+      "url": "https://doi.org/10.3758/s13421-016-0622-y",
+      "type": "replication"
+    },
+    {
+      "text": "Hilbig, B. E., Erdfelder, E., & Pohl, R. F. (2011). Fluent, fast, and frugal? A formal model evaluation of the interplay between memory, fluency, and comparative judgments. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37(4), 827-839. Paywalled; abstract read at PubMed, PMID 21355665. Its parameter estimates are quoted here through Pohl and colleagues (2016).",
+      "doi": "10.1037/a0022638",
+      "url": "https://doi.org/10.1037/a0022638",
+      "type": "critique"
+    },
+    {
+      "text": "Schwikert, S. R., & Curran, T. (2014). Familiarity and recollection in heuristic decision making. Journal of Experimental Psychology: General, 143(6), 2341-2365. Not read; its two parameter estimates are quoted here through Pohl and colleagues (2016).",
+      "doi": "10.1037/xge0000024",
+      "url": "https://doi.org/10.1037/xge0000024",
+      "type": "replication"
+    },
+    {
+      "text": "Alter, A. L., & Oppenheimer, D. M. (2009). Uniting the tribes of fluency to form a metacognitive nation. Personality and Social Psychology Review, 13(3), 219-235. Abstract read at Crossref.",
+      "doi": "10.1177/1088868309341564",
+      "url": "https://doi.org/10.1177/1088868309341564",
+      "type": "review"
+    },
+    {
+      "text": "Song, H., & Schwarz, N. (2009). If it's difficult to pronounce, it must be risky: Fluency, familiarity, and risk perception. Psychological Science, 20(2), 135-138. Full text read for this entry.",
+      "doi": "10.1111/j.1467-9280.2009.02267.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2009.02267.x",
+      "type": "background"
+    },
+    {
+      "text": "Bahnik, S., & Vranka, M. A. (2017). If it's difficult to pronounce, it might not be risky: The effect of fluency on judgment of risk does not generalize to new stimuli. Psychological Science, 28(4), 427-436. Full text read for this entry.",
+      "doi": "10.1177/0956797616685770",
+      "url": "https://doi.org/10.1177/0956797616685770",
+      "type": "replication"
+    },
+    {
+      "text": "Reber, R., Winkielman, P., & Schwarz, N. (1998). Effects of perceptual fluency on affective judgments. Psychological Science, 9(1), 45-48. Abstract read at Crossref.",
+      "doi": "10.1111/1467-9280.00008",
+      "url": "https://doi.org/10.1111/1467-9280.00008",
+      "type": "background"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. The disfluency figures here were read in the accepted manuscript deposited at LSE Research Online.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    },
+    {
+      "text": "Ye, S., Attali, D., Ghazi, M., Cachia, A., Cassotti, M., & Borst, G. (2026). Systematic review and meta-analysis of the evidence for an illusory truth effect and its determinants. Nature Communications, 17(1), 3270. Abstract read at Crossref.",
+      "doi": "10.1038/s41467-026-70041-x",
+      "url": "https://doi.org/10.1038/s41467-026-70041-x",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
