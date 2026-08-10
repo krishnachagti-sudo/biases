@@ -1,0 +1,120 @@
+{
+  "no": 328,
+  "slug": "common-method-bias",
+  "name": "Common method bias",
+  "aliases": [
+    "Common method variance",
+    "Common source bias",
+    "Mono-method bias",
+    "Percept-percept inflation"
+  ],
+  "category": "belief",
+  "statement": "Common method bias is the claim that two constructs measured by the same instrument, usually one self-report survey, correlate partly because of the shared method.",
+  "meaning": "This is a property of a research design rather than a habit of a mind, which it shares with selection bias and survivorship bias and with little else in this collection. A respondent who answers questions about job satisfaction and about supervisor behaviour in one sitting brings something to both answers that belongs to neither construct: an acquiescent style, a wish to look consistent, a mood, the position of the items on the page. Podsakoff, MacKenzie, Lee and Podsakoff define common method variance as \"variance that is attributable to the measurement method rather than to the constructs the measures represent\". Doty and Glick separate two things the literature runs together. Common method variance is how much of the variance in a measure the method accounts for. Common method bias is \"the divergence between observed and true relationships among constructs\", which is the quantity a reader of a results table actually cares about. The two are not the same number and can move in opposite directions. Podsakoff and colleagues also note that method effects inflate an observed relationship when the correlation between the methods exceeds the correlation between the measures with method effects removed, and deflate it when the correlation between methods is lower.",
+  "origin": {
+    "year": 2003,
+    "who": "Philip M. Podsakoff, Scott B. MacKenzie, Jeong-Yeon Lee and Nathan P. Podsakoff",
+    "where": "Journal of Applied Psychology",
+    "note": "\"Common Method Biases in Behavioral Research: A Critical Review of the Literature and Recommended Remedies\", 88(5), 879 to 903. The paper did not coin the idea and says so, opening with the observation that \"discussions of the potential impact of common method biases date back well over 40 years\" and citing Campbell and Fiske's 1959 multitrait-multimethod matrix. What 2003 established was the checklist form in which reviewers now apply the concern. The numbers it rests on are older, from Cote and Buckley's 1987 meta-analysis of 70 construct-validation datasets."
+  },
+  "evidence": "The quantitative base is a small set of meta-analyses that refit confirmatory factor models to previously published multitrait-multimethod matrices. Cote and Buckley examined 70 published datasets and report in their abstract that \"on average, traits account for less than 50% of the variance in construct measures\". The figure everyone quotes from that paper, 26.3% of the variance in a typical measure attributable to method, is read here from Podsakoff and colleagues' 2003 description of it rather than from Cote and Buckley. The same description records that the share varied by field, lowest in marketing at 15.8% and highest in education at 30.5%, and by construct, 22.5% for typical job performance measures against 40.7% for attitude measures. Podsakoff, MacKenzie and Podsakoff summarise five such meta-analyses in their 2012 review and conclude that \"18% to 32% of the total variance in the items used in these studies was due to method factors\". Doty and Glick assessed every multitrait-multimethod matrix published over 12 years in six social science journals and report that 46% of the variation in measures is attributable to the constructs, 32% to common method variance, and that this \"results in a 26% bias in the observed relationships among constructs\". Their own verdict on that figure is that it \"is cause for concern but does not invalidate many research findings\". The largest single number in the literature comes from comparing sources rather than decomposing variance. Podsakoff and colleagues pooled meta-analyses that had tested rating source as a moderator and found the average corrected correlation between leader behaviours and outcomes was 0.456 from the same source and 0.191 from different sources, 239% larger. They give six further pairings at 213%, 147%, 208%, 133%, 304% and 184%, and note that some of the gap may be raters seeing different things rather than method bias. Item placement has been manipulated directly. Weijters, Geuens and Schillewaert modelled the correlation between all pairs of 76 items, and as their result is reported in Podsakoff and colleagues' 2012 review, two items measuring unrelated constructs correlated 0.04 when six items apart and 0.09 when adjacent. The conditions are common. That review reports Bodner's finding that 76% of studies across six areas of psychology used a single measurement method.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The measurement has been repeated and agrees; the interpretation has been repeated and does not, with estimates of how much the bias distorts a correlation running from near zero to 92% for the same underlying data.",
+    "detail": "There is no experiment here to re-run, so the closest available thing is re-analysis of the same multitrait-multimethod archive by different teams. On the size of the method component they converge: Podsakoff and colleagues' 2012 table of five such meta-analyses spans 18% to 32%. On what that does to a research finding they split. Lance, Dawson, Birkelbach and Hoffman put method variance at 18%, lower than earlier reviews, and report that although common method variance does inflate observed relationships, \"this effect is almost completely offset by the attenuating effect of measurement error\". Doty and Glick, from the same kind of data, get a 26% bias they call cause for concern. Podsakoff and colleagues, applying their own decomposition to Cote and Buckley's figures, calculate inflation of about 45%, and list 38% from Buckley and colleagues, 92% from Doty and Glick and 60% from Lance and colleagues. They concede the estimates overlap and are not independent, and that the spread runs from 38% to 92%. Crampton and Wagner tested the pattern across the published record instead, analysing 42,934 correlations in 581 articles. They found general evidence of percept-percept inflation, and on a subsample of 11,710 correlations concluded it \"has not had the broad, comprehensive effects envisioned by critics\", so that \"domain-specific investigations are required\".",
+    "study": {
+      "cite": "Lance, C. E., Dawson, B., Birkelbach, D., & Hoffman, B. J. (2010). Method Effects, Measurement Error, and Substantive Conclusions. Organizational Research Methods, 13(3), 435-455.",
+      "doi": "10.1177/1094428109352528",
+      "year": 2010
+    }
+  },
+  "limits": "No replication in the ordinary sense is available, and searches of Crossref, OpenAlex, PubMed and the open web in August 2026 for a registered report or multi-site repetition of a common method bias finding returned re-analyses of shared archives and simulation studies, which is what a claim about measurement should return. The sceptical case is that the standard framing gets the mechanism wrong. Spector's paper argues that the popular position \"suggesting CMV automatically affects variables measured with the same method is a distortion and oversimplification of the true state of affairs, reaching the status of urban legend\", and proposes retiring the term in favour of \"measurement bias that is the product of the interplay of constructs and methods by which they are assessed\". His 1987 study of affective and perceptual work measures found \"little evidence for method variance as a biasing problem\" and concluded that properly built instruments of that type resist it, while adding that their validity cannot be assumed from that result. Only the abstracts of both papers were obtained. Spector, Rosen, Richardson, Williams and Johnson later set out the positive version of the argument: sources of method variance shared between two measures inflate their correlation, unshared sources attenuate it, and the net direction depends on which dominates. The remedies are weaker than the diagnosis. Richardson, Simmering and Sturman ran 691,200 simulated datasets against three post hoc corrections and doing nothing, and found that where no common method variance existed, correction usually produced less accurate estimates than no correction, and that all three techniques falsely identified bias about half the time. Across all conditions the unmeasured latent method construct approach identified the presence or absence of common method variance correctly about 41% of the time and the correlational marker approach about 69%. Their summary is that they \"cannot recommend any post hoc CMV technique as a means for correcting CMV's potential effects\". Fuller, Simmering, Atinc, Atinc and Babin note that many business researchers test for the problem and \"almost no one reports problematic findings\", and their simulation concludes that at typical reliabilities and effect sizes common method variance \"does not represent a grave threat to the validity of research findings\". Podsakoff, Podsakoff, Williams, Huang and Yang answered in 2024 with a review titled \"Common Method Bias: It's Bad, It's Complex, It's Widespread, and It's Not Easy to Fix\". Its full text returned HTTP 403 and was not obtained, so only the abstract informs this entry, and the numbers behind its claim of widespread conditions are not quoted here.",
+  "misreadings": "The first error is treating a same-source design as proof that a result is inflated. Direction is not fixed. Podsakoff and colleagues' own 2003 recommendations state that the evidence from Cote and Buckley's 70 studies \"indicates that the observed relationship between a typical predictor and criterion variable is understated by approximately 26% because of common method biases\", while their 2012 review calculates about 45% inflation from the same estimates. Both wordings are on the page in the two papers, and a reader who has met only the phrase \"inflated correlation\" will find the pair surprising. Response styles show the same two-sidedness: where the true correlation was positive and the response style components correlated negatively, the observed correlation fell by 55%. The second error is reading Harman's single-factor test as a control. Podsakoff and colleagues are blunt that the procedure \"actually does nothing to statistically control for (or partial out) method effects\", that it is at best an insensitive diagnostic, and that finding more than one factor \"is not evidence that the measures are free of common method variance\". They do not recommend it, and it remains the most reported remedy. The third error is dismissing a moderation result as method artefact. Siemsen, Roth and Oliveira show that common method variance can inflate or deflate a bivariate linear relationship depending on how symmetrically it hits the measures, and that \"quadratic and interaction effects cannot be artifacts of CMV\", though both can be severely deflated by it. An interaction found in single-source data is the one result the objection cannot touch. The fourth error is reading Spector as denying that method affects measurement. His argument is about sufficiency, that the method alone does not produce the bias and that constructs and methods interact, which is why his proposed replacement is more design work rather than less.",
+  "sources": [
+    {
+      "text": "Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method biases in behavioral research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879-903. Full text read.",
+      "doi": "10.1037/0021-9010.88.5.879",
+      "type": "primary"
+    },
+    {
+      "text": "Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of Method Bias in Social Science Research and Recommendations on How to Control It. Annual Review of Psychology, 63(1), 539-569. Full text read from a course copy at the University of British Columbia. The figures attributed here to Cote and Buckley, Bodner, Baumgartner and Steenkamp, and Weijters and colleagues are this review's reports of them.",
+      "doi": "10.1146/annurev-psych-120710-100452",
+      "url": "https://www2.psych.ubc.ca/~schaller/528Readings/Podsakoff2012.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Podsakoff, P. M., Podsakoff, N. P., Williams, L. J., Huang, C., & Yang, J. (2024). Common Method Bias: It's Bad, It's Complex, It's Widespread, and It's Not Easy to Fix. Annual Review of Organizational Psychology and Organizational Behavior, 11(1), 17-61. Abstract read at Crossref; the publisher's full text returned HTTP 403 and was not obtained.",
+      "doi": "10.1146/annurev-orgpsych-110721-040030",
+      "type": "primary"
+    },
+    {
+      "text": "Spector, P. E. (2006). Method Variance in Organizational Research: Truth or Urban Legend? Organizational Research Methods, 9(2), 221-232. Abstract read at the University of South Florida repository and at OpenAlex; full text not obtained.",
+      "doi": "10.1177/1094428105284955",
+      "url": "https://digitalcommons.usf.edu/psy_facpub/709/",
+      "type": "primary"
+    },
+    {
+      "text": "Spector, P. E. (1987). Method variance as an artifact in self-reported affect and perceptions at work: Myth or significant problem? Journal of Applied Psychology, 72(3), 438-443. Abstract read at OpenAlex; full text not obtained.",
+      "doi": "10.1037/0021-9010.72.3.438",
+      "type": "primary"
+    },
+    {
+      "text": "Doty, D. H., & Glick, W. H. (1998). Common Methods Bias: Does Common Methods Variance Really Bias Results? Organizational Research Methods, 1(4), 374-406. Abstract read at Crossref; full text not obtained.",
+      "doi": "10.1177/109442819814002",
+      "type": "primary"
+    },
+    {
+      "text": "Crampton, S. M., & Wagner, J. A. (1994). Percept-percept inflation in microorganizational research: An investigation of prevalence and effect. Journal of Applied Psychology, 79(1), 67-76. Abstract read at OpenAlex; full text not obtained.",
+      "doi": "10.1037/0021-9010.79.1.67",
+      "type": "primary"
+    },
+    {
+      "text": "Cote, J. A., & Buckley, M. R. (1987). Estimating Trait, Method, and Error Variance: Generalizing across 70 Construct Validation Studies. Journal of Marketing Research, 24(3), 315-318. Abstract read at OpenAlex. The 26.3%, 15.8%, 30.5%, 22.5% and 40.7% figures quoted in this entry are Podsakoff and colleagues' report of this paper, not read from it.",
+      "doi": "10.1177/002224378702400308",
+      "type": "secondary"
+    },
+    {
+      "text": "Lance, C. E., Dawson, B., Birkelbach, D., & Hoffman, B. J. (2010). Method Effects, Measurement Error, and Substantive Conclusions. Organizational Research Methods, 13(3), 435-455. Abstract read at OpenAlex; full text not obtained.",
+      "doi": "10.1177/1094428109352528",
+      "type": "primary"
+    },
+    {
+      "text": "Siemsen, E., Roth, A., & Oliveira, P. (2010). Common Method Bias in Regression Models With Linear, Quadratic, and Interaction Effects. Organizational Research Methods, 13(3), 456-476. Abstract read at OpenAlex; full text not obtained.",
+      "doi": "10.1177/1094428109351241",
+      "type": "primary"
+    },
+    {
+      "text": "Richardson, H. A., Simmering, M. J., & Sturman, M. C. (2009). A Tale of Three Perspectives: Examining Post Hoc Statistical Techniques for Detection and Correction of Common Method Variance. Organizational Research Methods, 12(4), 762-800. Full text read from the copy in Cornell's eCommons repository.",
+      "doi": "10.1177/1094428109332834",
+      "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/c9d30a70-8cc4-4a21-937d-4bd97ce14e63/content",
+      "type": "primary"
+    },
+    {
+      "text": "Fuller, C. M., Simmering, M. J., Atinc, G., Atinc, Y., & Babin, B. J. (2016). Common methods variance detection in business research. Journal of Business Research, 69(8), 3192-3198. Abstract read at Boise State University's research portal; full text not obtained.",
+      "doi": "10.1016/j.jbusres.2015.12.008",
+      "url": "https://experts.boisestate.edu/en/publications/common-methods-variance-detection-in-business-research-2",
+      "type": "primary"
+    },
+    {
+      "text": "Spector, P. E., Rosen, C. C., Richardson, H. A., Williams, L. J., & Johnson, R. E. (2019). A New Perspective on Method Variance: A Measure-Centric Approach. Journal of Management, 45(3), 855-880. Abstract read at OpenAlex; full text not obtained.",
+      "doi": "10.1177/0149206316687295",
+      "type": "primary"
+    },
+    {
+      "text": "Weijters, B., Geuens, M., & Schillewaert, N. (2009). The proximity effect: The role of inter-item distance on reverse-item bias. International Journal of Research in Marketing, 26(1), 2-12. Crossref confirms the record; the paper was not opened, and its correlations are quoted here as Podsakoff and colleagues report them.",
+      "doi": "10.1016/j.ijresmar.2008.09.003",
+      "type": "secondary"
+    },
+    {
+      "text": "Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. Psychological Bulletin, 56(2), 81-105. Cited here only to date the antecedent Podsakoff and colleagues name; Crossref confirms the record and the paper was not opened.",
+      "doi": "10.1037/h0046016",
+      "type": "secondary"
+    },
+    {
+      "text": "Williams, L. J., Cote, J. A., & Buckley, M. R. (1989). Lack of method variance in self-reported affect and perceptions at work: Reality or artifact? Journal of Applied Psychology, 74(3), 462-468. Crossref confirms the record. The English abstract was not obtained; OpenAlex carries only a French indexing note, so no finding is quoted from this paper.",
+      "doi": "10.1037/0021-9010.74.3.462",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
