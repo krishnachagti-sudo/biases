@@ -9,7 +9,7 @@
   ],
   "category": "belief",
   "statement": "Told that a test with a 5% false-positive rate flags a disease one person in a thousand has, most people answer 95% rather than about 2%.",
-  "meaning": "Bayes's rule says a posterior probability depends on three things: how common the condition is, how often the test catches it, and how often the test fires on people who do not have it. The complaint is that people attend to the second and third and drop the first. Two families of demonstration sit under the one name and they are not the same experiment. In the diagnosis family the numbers are all given, the answer is a calculation, and the finding is a percentage of people who get it wrong. In the personality-sketch family a description is drawn from a stated mix of two professions, and the finding is that judgments barely move when the mix is reversed. That second family is the property of the representativeness heuristic, which supplies the mechanism: a description that sounds like an engineer is treated as evidence of an engineer whatever the panel contained. This entry follows the first family, where the stakes are diagnostic tests, screening programmes and forensic evidence.",
+  "meaning": "Bayes's rule says a posterior probability depends on three things: how common the condition is, how often the test catches it, and how often the test fires on people who do not have it. The complaint is that people attend to the second and third and drop the first. Two families of demonstration sit under the one name and they are not the same experiment. In the diagnosis family the numbers are all given, the answer is a calculation, and the finding is a percentage of people who get it wrong. In the personality-sketch family a description is drawn from a stated mix of two professions, and the finding is that judgments barely move when the mix is reversed. That second family is the property of the representativeness heuristic, which supplies the mechanism: a description that sounds like an engineer is treated as evidence of an engineer whatever the panel contained. This entry follows the first family, where the stakes are diagnostic tests, screening programmes and forensic evidence. Neglecting the prior is one of two ways to miss the target, and the other has its own literature. Conservatism in belief revision is the finding that people underweight the likelihood term, so their posteriors move too little rather than too much. Benjamin lists both as separate stylized facts and argues that asking whether people update too much or too little is the wrong question. The two are not competing verdicts on one experiment, and the conservatism entry sets out how the sign of the error depends on the strength of the signal.",
   "origin": {
     "year": 1973,
     "who": "Daniel Kahneman and Amos Tversky",
@@ -124,6 +124,12 @@
       "text": "Kahneman, D., & Tversky, A. (1996). On the reality of cognitive illusions. Psychological Review, 103(3), 582-591.",
       "doi": "10.1037/0033-295X.103.3.582",
       "url": "https://doi.org/10.1037/0033-295X.103.3.582",
+      "type": "commentary"
+    },
+    {
+      "text": "Benjamin, D. J. (2019). Errors in probabilistic reasoning and judgment biases. In Handbook of Behavioral Economics: Applications and Foundations 1, Volume 2, 69-186. Read as NBER working paper 25200, October 2018; the source here for base-rate neglect and underinference being separate stylized facts.",
+      "doi": "10.3386/w25200",
+      "url": "https://www.nber.org/system/files/working_papers/w25200/w25200.pdf",
       "type": "commentary"
     }
   ],

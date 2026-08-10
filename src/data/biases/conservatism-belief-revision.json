@@ -1,0 +1,78 @@
+{
+  "no": 238,
+  "slug": "conservatism-belief-revision",
+  "name": "Conservatism (belief revision)",
+  "aliases": [
+    "Conservatism bias",
+    "Underinference",
+    "Conservatism in human information processing",
+    "Bookbag-and-poker-chip effect"
+  ],
+  "category": "belief",
+  "statement": "Shown a poker chip drawn from one of two bags, people move their probability estimate the right way but well short of the distance Bayes's rule requires.",
+  "meaning": "Bayes's rule sets how far a probability should travel when evidence arrives. Phillips and Edwards described the gap between that distance and the one people cover with a single exponent on the likelihood ratio, written c. A Bayesian has c of 1, and a value below 1 means the evidence is being discounted. The psychology literature measured the same thing as the ratio of the person's log posterior odds to the correct log posterior odds, and called it the accuracy ratio. The claim is about the size of the step rather than its direction, because in these tasks almost everyone steps the right way. Two things follow from that definition. Conservatism is defined against a benchmark assembled from numbers the experimenter asserts, so it can be attacked by attacking the benchmark. And it is a claim about the likelihood term only, which is why it does not contradict base-rate neglect, a claim about the prior term. Benjamin reserves the word conservatism for the structural model and uses underinference for the finding, a distinction this entry follows where it can.",
+  "origin": {
+    "year": 1966,
+    "who": "Lawrence D. Phillips and Ward Edwards",
+    "where": "Journal of Experimental Psychology",
+    "note": "\"Conservatism in a simple probability inference task\" introduced the exponent model and reported three experiments in which chips were drawn from bags of stated composition. The paper is paywalled and could not be opened during this check. What it contains reaches this page through Benjamin, who names it as the source of the model, and through Corner, Harris and Hahn, who quote its page 353. The name travelled on Edwards's 1968 review chapter \"Conservatism in Human Information Processing\", which was also not obtained."
+  },
+  "evidence": "Edwards illustrated the effect with two urns of poker chips, one 70% red and one 70% blue. A dozen chips are drawn from one urn and eight come up red. Benjamin quotes the passage from pages 20 and 21 of the 1968 chapter and reports that most people answer roughly 70% or 80%. The correct posterior is 97%. That chapter was not opened here, so the example arrives at one remove. Dozens of experiments ran the same structure with real bags and real chips, which is why the paradigm is named bookbag-and-poker-chips. Benjamin assembled the 16 papers he could find that pose two-state, binomial, symmetric problems and report enough to reconstruct the right answer. Regressing participants' log posterior odds on the correct log posterior odds across those problems gives a slope of 0.20, standard error 0.063. Restricting to incentivised experiments gives 0.38, standard error 0.028. Both sit far below the Bayesian value of 1. The discount grows with the difficulty of the aggregation: underinference is worse at larger sample sizes, and worse the further the diagnosticity parameter sits from a half. Even at a sample size of one it is present, with a mean problem-level estimate of 0.70, standard error 0.057, and 0.86 across the seven incentivised problems, standard error 0.078. Benjamin's summary of the literature is that underinference is by far the dominant direction of bias.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Underinference holds across the 16 papers of the classic paradigm, and the sign flips to overinference once the signal is weaker than any of those papers made it, with the crossover measured at a signal precision of 0.64.",
+    "detail": "Augenblick, Lazarus and Thaler ran the bookbag paradigm across a far wider band of signal strengths than the old literature used. In Study 1a, 500 Prolific participants played 12 rounds in March 2021, giving 6,000 predictions, 4,036 of them from a single symmetric signal. Each participant saw the suit of one card drawn from one of two decks and stated the chance it came from the green deck. Fitting perceived strength as k times true strength raised to the power beta gives k of 0.88, standard error 0.02, and beta of 0.76, standard error 0.03, with beta below 1 at p < 0.001. The implied crossover point, the signal precision at which people stop overinferring and start underinferring, is 0.64, standard error 0.01. At precision of two-thirds or above they underinfer, and the authors report that their estimates there line up with the older studies. Below 0.6 they overinfer, and for the weakest signals they behave as though the evidence were more than twice as strong as it is. Study 1b repeated the design in March 2024 with another 500 Prolific participants, over 15 rounds and priors of 1/4, 1/3 and 1/2. It gives k of 0.89, beta of 0.61 and a crossover of 0.68, each with a standard error of 0.02 or smaller. Fitting base-rate neglect in the same model put the weight on the prior at 0.94 and barely moved the rest. The classic result did not fail. Across the papers Benjamin reviews in which a person receives one symmetric binary signal, Augenblick and colleagues report that the diagnosticity is never lower than three-fifths, so the region where the sign reverses is one those studies never entered. Griffin and Tversky had found the reversal in 1992, in a study described here from Benjamin's account rather than from the original. Their participants facing rates of 0.6 and 0.25 gave median posteriors of .60, .70, .80 and .90 where a Bayesian gives .95, .98, .998 and .999. The same design with rates of 0.6 and 0.5 produced .55, .66, .75 and .85 against a Bayesian's .54, .64, .72 and .80. Coutts put 326 people through updating rounds on ego-relevant, financial and neutral events, and estimated weights of 0.588 on affirmative signals and 0.793 on negative ones, both below 1, with the weight on the prior at 0.914. His appendix locates the whole of the shortfall in the 41% of rounds where people left their stated belief untouched. Those figures come from the author's April 2018 working paper rather than the published version.",
+    "study": {
+      "cite": "Augenblick, N., Lazarus, E., & Thaler, M. (2025). Overinference from weak signals and underinference from strong signals. The Quarterly Journal of Economics, 140(1), 335-401.",
+      "doi": "10.1093/qje/qjae032",
+      "year": 2025,
+      "n": 500
+    }
+  },
+  "limits": "No multi-site or preregistered replication of the original conservatism experiments was located. Searches of Crossref, PubMed, arXiv, Semantic Scholar and the journals themselves turned up no Many Labs or Registered Replication Report entry for the bookbag-and-poker-chip paradigm. The record is therefore one meta-analysis of 16 papers, two preregistered online experiments of 500 people each, and a long tail of single-laboratory studies published mostly between 1964 and 1973. Three documents could not be opened: Phillips and Edwards's 1966 paper, which is paywalled and has no abstract at PubMed or Semantic Scholar, Edwards's 1968 book chapter, and Griffin and Tversky's 1992 paper. Their contents reach this page through Benjamin and through Corner, Harris and Hahn. Benjamin's chapter was read as NBER working paper 25200 of October 2018, so the page numbers and figures quoted are that version's. The published Quarterly Journal of Economics text of Augenblick, Lazarus and Thaler is paywalled, and its estimates were read from the authors' arXiv preprint dated July 2024; the same one-version-back caveat applies to Coutts. Benjamin's meta-analysis covers only problems with equal priors, two states and symmetric binomial signals, which leaves out the sequential and multinomial variants except where he describes them in prose. The parameter c is estimated as a slope across problems rather than within people, and Augenblick and colleagues report wide individual heterogeneity on the same task, so a population averaging to partial discounting need not contain anyone who partially discounts.",
+  "misreadings": "The first error is treating conservatism and base-rate neglect as rival verdicts on the same experiment. A posterior has two inputs. Conservatism says the likelihood is underweighted; base-rate neglect says the prior is. Benjamin sets both out as separate stylized facts and argues that whether people update too much or too little is the wrong question, the better one being when to expect each. Augenblick, Lazarus and Thaler measured both in one dataset, finding a weight of 0.94 on the prior alongside overinference from weak signals and underinference from strong ones. The history explains the confusion. Benjamin quotes Kahneman's recollection of hearing about the conservatism literature from Tversky in 1968, and thinking it did not fit the everyday observation of people jumping to conclusions. He also quotes Kahneman and Tversky's 1972 verdict from page 450, that in his evaluation of evidence man is not a conservative Bayesian and is not Bayesian at all. Fischhoff and Beyth-Marom, again quoted by Benjamin, wrote that the bookbag line of research was quietly abandoned, partly because the base-rate fallacy looked like its antithesis. The second error is reading conservatism as settled proof of irrationality. Corner, Harris and Hahn argue that participants have no reason to treat an experimenter as a perfectly reliable source, and that under Bayes a less reliable source warrants a smaller update. Setting a simulated source's hit rate and specificity to .6, and bag compositions to .6 and .7 as in Phillips and Edwards's first experiment, they reproduce accuracy ratios below 1, deeper conservatism for the 70% bag, and ratios roughly constant across draws. Those last two are the specific findings Phillips and Edwards reported on their page 353. The argument is a simulation rather than data, and its authors say so, proposing that conservatism might vanish if participants drew the chips themselves. The third error is the name. This is a claim about the arithmetic of updating, not about political temperament. Nor is it status quo bias or belief perseverance, both of which concern what people prefer or defend rather than how far a stated probability moves.",
+  "sources": [
+    {
+      "text": "Phillips, L. D., & Edwards, W. (1966). Conservatism in a simple probability inference task. Journal of Experimental Psychology, 72(3), 346-354. Source of the exponent model; paywalled and not opened during this check.",
+      "doi": "10.1037/h0023653",
+      "url": "https://doi.org/10.1037/h0023653",
+      "type": "primary"
+    },
+    {
+      "text": "Benjamin, D. J. (2019). Errors in probabilistic reasoning and judgment biases. In Handbook of Behavioral Economics: Applications and Foundations 1, Volume 2, 69-186. Read as NBER working paper 25200, October 2018; the meta-analysis figures, stylized facts and quoted passages here are from that version.",
+      "doi": "10.3386/w25200",
+      "url": "https://www.nber.org/system/files/working_papers/w25200/w25200.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Augenblick, N., Lazarus, E., & Thaler, M. (2025). Overinference from weak signals and underinference from strong signals. The Quarterly Journal of Economics, 140(1), 335-401. The published text is paywalled; the parameter estimates quoted here were read from the authors' arXiv preprint 2109.09871, version 5 of July 2024, at https://arxiv.org/abs/2109.09871.",
+      "doi": "10.1093/qje/qjae032",
+      "url": "https://doi.org/10.1093/qje/qjae032",
+      "type": "replication"
+    },
+    {
+      "text": "Corner, A., Harris, A. J. L., & Hahn, U. (2010). Conservatism in belief revision and participant skepticism. In S. Ohlsson & R. Catrambone (Eds.), Cognition in Flux: Proceedings of the 32nd Annual Meeting of the Cognitive Science Society, 1625-1630. Cognitive Science Society.",
+      "url": "https://escholarship.org/uc/item/79b7w6h3",
+      "type": "commentary"
+    },
+    {
+      "text": "Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. Experimental Economics, 22(2), 369-395. Figures quoted here were read from the author's working paper of 3 April 2018 at https://alexandercoutts.com/coutts_beliefupdating.pdf, not from the published version.",
+      "doi": "10.1007/s10683-018-9572-5",
+      "url": "https://doi.org/10.1007/s10683-018-9572-5",
+      "type": "replication"
+    },
+    {
+      "text": "Griffin, D., & Tversky, A. (1992). The weighing of evidence and the determinants of confidence. Cognitive Psychology, 24(3), 411-435. Not opened during this check; the Study 3 posteriors quoted here come from Benjamin's account of it.",
+      "doi": "10.1016/0010-0285(92)90013-r",
+      "url": "https://doi.org/10.1016/0010-0285(92)90013-R",
+      "type": "primary"
+    },
+    {
+      "text": "Grether, D. M. (1980). Bayes rule as a descriptive model: The representativeness heuristic. The Quarterly Journal of Economics, 95(3), 537. The first economics experiment on belief updating, per Benjamin; not opened during this check.",
+      "doi": "10.2307/1885092",
+      "url": "https://doi.org/10.2307/1885092",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-10"
+}
