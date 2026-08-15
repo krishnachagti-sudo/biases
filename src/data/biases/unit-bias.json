@@ -1,0 +1,77 @@
+{
+  "no": 351,
+  "slug": "unit-bias",
+  "name": "Unit bias",
+  "aliases": [
+    "Unit segmentation effect",
+    "Segmentation effect"
+  ],
+  "category": "decision",
+  "statement": "People treat one unit of a food as the right amount to take, so intake follows the size of the unit on offer rather than the amount inside it.",
+  "meaning": "Unit bias is a claim about when people stop. Geier, Rozin and Doros proposed that a single unit of an entity, within some range of acceptable sizes, feels like the appropriate and optimal amount to consume. The unit does the work, not its weight or its energy. Cut a pretzel in half and the person who takes one takes half as much food. The idea was offered as an explanation of the portion-size effect rather than another name for it. The portion-size effect is the finding that people served more eat more. Unit bias is a proposed mechanism for that finding: a served portion is read as a unit, and a unit is what gets finished. The distinction carries the whole entry, because the portion-size effect is one of the better attested findings in nutrition science and the unit account of it is not. Geier and colleagues also proposed that the heuristic runs beyond food, into pills, films and fairground rides. They present no data on those.",
+  "origin": {
+    "year": 2006,
+    "who": "Andrew B. Geier, Paul Rozin and Gheorghe Doros",
+    "where": "Psychological Science",
+    "note": "The paper names the heuristic and supplies its only evidence, three observational snack studies run in two Philadelphia buildings. It was received in May 2005 and accepted in July 2005."
+  },
+  "evidence": "The paper reports three studies, all of them free snacks left out in public and weighed at the end of the day. In the pretzel study, soft pretzels were left in an apartment lobby on Mondays, Wednesdays and Fridays, either whole at 3 oz. or cut in half at 1.5 oz., with the number offered doubled to 120 when they were halved. This ran for 12 weeks, giving 18 days for each size, with pretzels put out at 8:00 a.m. and leftovers counted at 4:00 p.m. In the Tootsie Roll study, a bowl in an office building held either 80 small 3-g sweets or 20 large 12-g ones, always 240 g in total, on alternating days for 10 working days. In the M&M's study, a 1-lb. bowl at the same apartment building carried a sign reading 'Eat Your Fill' and a chained scoop, either a tablespoon or a quarter-cup four times its size, alternating daily for 10 working days. The basic datum in each case was weight taken per day: 10 days for the sweets, 10 for the M&M's, 36 for the pretzels. The authors paired matching weekdays and ran one-tailed t tests on the ratio of large-unit to small-unit intake, against 1.00. Pretzels gave a mean ratio of 1.69, t(17) = 10.21, p < .001, d = 2.41. M&M's gave 1.67, t(4) = 7.56, p = .001, d = 3.38. Tootsie Rolls gave 2.27, t(4) = 1.92, p = .064, d = 0.86, which the authors attribute to one outlying ratio of 4.8. Every ratio in all three studies exceeded 1.00, with binomial p values of .031, .031 and less than .001. Complete control by unit size would have predicted ratios of 2.00 for pretzels and 4.00 for the two sweets, and the authors note that the observed ratios fall well short of that.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Larger units do raise intake, but the specific unit-bias claim fails: in the study that measured individuals rather than daily totals, a quarter of participants ate exactly one unit.",
+    "detail": "Kerameas, Vartanian, Herman and Polivy set out to test the mechanism and concluded against it. In study 1, 87 female undergraduates were served 30 g or 90 g of cookies, presented either as a single cookie or as three individually wrapped ones. Unit number mattered, F(1, 83) = 6.65, p = .01, partial eta-squared = .07, and portion size mattered more, F(1, 83) = 24.19, p < .001, partial eta-squared = .23, with no interaction, F(1, 83) = 0.02, p = .88. Only 25.3% of participants ate exactly one cookie, and in the single 90-g condition, the one most favourable to the hypothesis, it was 47.6%. In study 2, 42 women were served 60 g either as one cookie or as three 20-g cookies on separate plates. Those given three ate 35.24 g (SD 17.78) against 62.91 g (SD 32.45), F(1, 40) = 11.74, p = .001, partial eta-squared = .23, and half ate a single cookie. Perceived norms of appropriate intake mediated the effect in both studies. The authors relabel the result a segmentation effect: splitting a portion into pieces lowers intake, but people do not stop at one piece. Other tests of unit size disagree with each other. Marchiori, Waroquier and Klein halved candies for 33 Belgian students and report that gram intake halved, a fall of about 60 kcal. Raynor and Wing gave 28 American students take-home boxes of four snacks for three days and found a clear effect of how much food was supplied and no effect of package unit size. The Cochrane review of product size found no evidence that its pooled effect on consumption depended on whether the manipulation targeted a portion, a package, an individual unit or an item of tableware.",
+    "study": {
+      "cite": "Kerameas, K., Vartanian, L. R., Herman, C. P., & Polivy, J. (2015). The effect of portion size and unit size on food intake: Unit bias or segmentation effect? Health Psychology, 34(6), 670-676.",
+      "doi": "10.1037/hea0000160",
+      "year": 2015,
+      "n": 129
+    }
+  },
+  "limits": "The 2006 evidence has no people in it. Its unit of analysis is the day, 10 days per condition for two of the studies, and nobody was identified, counted or asked anything. What was measured was selection, not consumption, a point the authors make themselves. The tests are one-tailed, two of them rest on five paired ratios, and the Tootsie Roll result reaches significance only through the binomial sign test. The Cochrane review of portion, package and tableware size screened the paper and excluded it as not an eligible study design. The heuristic is also self-limiting by construction: the authors restrict it to units within a range of acceptable sizes, so a single pea is too small and a bucket too large, and the paper offers no way to fix that range in advance. Searches of PubMed and the open web for tests of unit bias outside food, in the pill, film and fairground cases the paper suggests, returned none. The strongest downstream evidence concerns unit size rather than one-unit stopping. The Cochrane review lists a dissertation by Bajaj, which served 313 Arizona students a bagel either quartered or whole; the review's own extraction gives a standardised mean difference of 0.23, 95% CI 0.01 to 0.45, on 301 participants, and the study awaits full assessment in that review.",
+  "misreadings": "The first misreading is treating unit bias and the portion-size effect as one finding. The portion-size effect is well supported and separately measured. The Cochrane review pooled 86 comparisons from 58 studies and 6,603 participants and found a standardised mean difference of 0.38, 95% CI 0.29 to 0.46, on consumption, rated moderate quality, with 0.46 among adults and 0.21 among children. Zlatevska, Dubelaar and Holden's meta-analysis reports in its abstract that doubling a portion raises consumption by about 35%, with the effect flattening as portions grow. Robinson and colleagues pooled 14 studies and 85 effects measuring intake over at least a day and found a standardised mean difference of -0.709, 95% CI -0.956 to -0.461, for smaller against larger portions, about 235 kcal. None of that is evidence for unit bias, which is one candidate explanation of it among several. The second misreading is that people eat one unit and stop. Geier and colleagues' own ratios show otherwise: quadrupling the sweet raised intake by a factor of 1.67 to 2.27, not 1.00, so people took several small units. The third is the claim that all three manipulations were statistically significant, which the paper states. The Tootsie Roll t test gave p = .064 one-tailed, and the significance quoted for it comes from a sign test on five ratios.",
+  "sources": [
+    {
+      "text": "Geier, A. B., Rozin, P., & Doros, G. (2006). Unit bias: A new heuristic that helps explain the effect of portion size on food intake. Psychological Science, 17(6), 521-525. Crossref and the article's own page numbers give 521-525; the reference is often printed as 523-525.",
+      "doi": "10.1111/j.1467-9280.2006.01738.x",
+      "url": "https://www.sas.upenn.edu/~rozin/students/andrewbg/unitbiasjul0805paperinpress.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Kerameas, K., Vartanian, L. R., Herman, C. P., & Polivy, J. (2015). The effect of portion size and unit size on food intake: Unit bias or segmentation effect? Health Psychology, 34(6), 670-676.",
+      "doi": "10.1037/hea0000160",
+      "url": "https://doi.org/10.1037/hea0000160",
+      "type": "replication"
+    },
+    {
+      "text": "Marchiori, D., Waroquier, L., & Klein, O. (2011). Smaller food item sizes of snack foods influence reduced portions and caloric intake in young adults. Journal of the American Dietetic Association, 111(5), 727-731. Paywalled; the sample of 33, the halving of gram intake and the 60 kcal difference are quoted from the abstract.",
+      "doi": "10.1016/j.jada.2011.02.008",
+      "url": "https://doi.org/10.1016/j.jada.2011.02.008",
+      "type": "replication"
+    },
+    {
+      "text": "Raynor, H. A., & Wing, R. R. (2007). Package unit size and amount of food: Do both influence intake? Obesity, 15(9), 2311-2319. Paywalled; the design and the null result for unit size are quoted from the abstract, whose two condition means are printed against the wrong labels.",
+      "doi": "10.1038/oby.2007.274",
+      "url": "https://doi.org/10.1038/oby.2007.274",
+      "type": "replication"
+    },
+    {
+      "text": "Hollands, G. J., Shemilt, I., Marteau, T. M., Jebb, S. A., Lewis, H. B., Wei, Y., Higgins, J. P. T., & Ogilvie, D. (2015). Portion, package or tableware size for changing selection and consumption of food, alcohol and tobacco. Cochrane Database of Systematic Reviews, 2015(9), CD011045. The full review text was read at PMC4579823.",
+      "doi": "10.1002/14651858.CD011045.pub2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4579823/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Zlatevska, N., Dubelaar, C., & Holden, S. S. (2014). Sizing up the effect of portion size on consumption: A meta-analytic review. Journal of Marketing, 78(3), 140-154. Paywalled; the 35% figure and the curvilinear pattern are quoted from the publisher's abstract.",
+      "doi": "10.1509/jm.12.0303",
+      "url": "https://doi.org/10.1509/jm.12.0303",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Robinson, E., McFarland-Lesser, I., Patel, Z., & Jones, A. (2023). Downsizing food: A systematic review and meta-analysis examining the effect of reducing served food portion sizes on daily energy intake and body weight. British Journal of Nutrition, 129(5), 888-903. Published online 7 April 2022; the pooled figures are quoted from the abstract.",
+      "doi": "10.1017/S0007114522000903",
+      "url": "https://doi.org/10.1017/S0007114522000903",
+      "type": "meta-analysis"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

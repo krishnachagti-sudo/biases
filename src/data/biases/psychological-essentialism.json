@@ -1,0 +1,104 @@
+{
+  "no": 353,
+  "slug": "psychological-essentialism",
+  "name": "Psychological essentialism",
+  "aliases": ["Essentialism", "Essentialist beliefs", "Social essentialism", "Genetic essentialism"],
+  "category": "belief",
+  "statement": "Psychological essentialism is the claim that people treat some categories as having a hidden inner nature that fixes membership and explains what members are like.",
+  "meaning": "The claim is about how people represent categories, not about whether essences exist. On this construal a category such as tiger, gold or girl is taken to have an inner nature shared by all its members, causing their visible features and holding membership steady when appearances change. Medin's version makes the essence a placeholder: people hold the belief without knowing what the essence is. Gelman's 2025 review states that the essence in this sense is not a definition and does not specify which features are necessary for membership. Because a placeholder cannot be asked about directly, essentialism is measured through tasks. Her review lists five standard ones. A porcupine is made to look like a cactus and the child is asked what it is now. A property learned about a flamingo is extended to a blackbird that looks like a bat. A newborn rabbit is raised by monkeys and the child is asked whether it will want carrots or bananas. A visitor from far away calls a cat and a dog the same kind of animal and the child is asked whether he could be right. The insides are taken out of a dog and the child is asked whether it can still bark. The tasks measure different components, and the components need not move together.",
+  "origin": {
+    "year": 1989,
+    "who": "Douglas L. Medin and Andrew Ortony",
+    "where": "Similarity and Analogical Reasoning, Cambridge University Press",
+    "note": "The piece everyone cites for the term is a commentary rather than a report of studies. Crossref titles it 'Comments on Part I: Psychological essentialism' and gives pages 179 to 196. Neither it nor Medin's American Psychologist paper of the same year, 'Concepts and conceptual structure', volume 44, issue 12, pages 1469 to 1481, could be read; both are verified here at bibliographic level only, and the placeholder formulation is attributed to Gelman's review of the field."
+  },
+  "evidence": "Gelman and Wellman's five studies are the developmental starting point. Their abstract reports 3- to 5-year-olds tested on insides, on whether insides matter more than surfaces, and on innate potential, and concludes that by age 4 children have a firm grasp of both insides and essences. The paper itself is closed and no figure from it appears here. The switched-at-birth task it introduced has the sharpest recent test. Peretz-Lange and Kaebnick preregistered an adoption task with 95 children aged 4 to 8, of whom 30 had been adopted or donor-conceived and 65 traditionally conceived, across five trials covering hair colour, spoken language, personality, interests and intelligence. Adopted and donor-conceived children gave essentialist answers on 32% of trials against 60% for traditionally conceived children, and with age, trial type and the parent's own essentialism held constant the odds of an essentialist answer were 3.18 times higher in the traditionally conceived group. Their abstract gives the group effect as partial eta squared of .07. Responses varied more by trait than by group: 85% essentialist on hair colour, then 41% on interests, 36% on intelligence, 35% on personality and 27% on spoken language, with hair colour above every other trial at p < .001 after correction. On the social side the measurement paper is Haslam, Rothschild and Ernst's. Its abstract reports 40 social categories rated on nine elements of essentialism, which formed two independent dimensions rather than one, naturalness and reification. Reification was negatively associated with a category's evaluative standing, most among categories treated as natural kinds. The correlation with prejudice is easy to reproduce. Gross, Fine, Gülgöz, Olson and Gelman measured 204 children aged 6 to 10, mean 8.35 years, and found gender essentialism correlated with prejudice against gender-nonconforming targets at r = .48, p < .0001, with both falling as age rose, r = -.32 and r = -.19.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Across 298 correlational effects essentialism and ethnoracial bias correlate at r = 0.25, and across 22 experimental effects manipulating essentialism does not move bias, g = 0.21, p = .181.",
+    "detail": "James, Bowling and Moeyaert synthesised work published between January 2000 and May 2024. The correlational side pooled 27,731 participants over 298 effects and gave r = 0.25, p < .001, attenuated once study-level and sample characteristics were accounted for, with study region, setting and gender important covariates and type of essentialism a significant moderator. The experimental side pooled 3,728 participants over 22 effects and gave g = 0.21, p = .181, which held across types of essentialism. They found publication bias in the correlational studies only, and no evidence that study quality moderated the association. Their reading is that essentialism may predict bias only under some conditions, or that bias may raise essentialism, and that the experiments may be too weak to show it. A preregistered child experiment matches the null. Gross and colleagues showed 102 children an anti-essentialist video about boys and girls and 102 a control video about climates. Essentialism did not shift, t(201.5) = -1.21, p = .227, nor did prejudice against gender nonconformity, t(200.92) = 0.98, p = .328. One registered exploratory subscale did move: discreteness, t(201.91) = -3.46, p = .001, d = 0.49, on the dimension the video's script addressed most directly. The developmental signature itself reproduces widely while varying by category and community. Xu, Wang, Moty and Rhodes tested 531 children aged 3 to 6 in the United States and China; their abstract reports that essentialist beliefs emerged in both, that beliefs about categories being fixed at birth and inflexible rose with age in the United States sample but not the Chinese one, and that Chinese children instead grew stronger on objectivity, explanatory force and homogeneity. Davoodi, Soley, Harris and Blake tested 74 children in Turkey, 73 in the United States and 223 adults across gender, nationality, religion, wealth and sports team, and their abstract reports cross-cultural parallels in how the five categories were ranked. Woods interviewed 92 children at a multicultural London school and found the opposite of the usual trajectory for ethnicity: scores for a peer's ethnicity being stable fell from 76.7% in year 2 to 51.4% in year 6, F(2,68) = 3.351, p = .041, while scores for their own ethnicity stayed above 75% at every age, F(2,68) = 1.061, p = .352. In adults, Machery and six colleagues ran three studies with 1,723 participants in 10 countries using discovery and transformation scenarios. Their abstract reports that essentialist intuitions varied across cultures, varied with gender and education, changed with the eliciting scenario, and shifted when only the wording of the question changed. Their full text could not be obtained and no figure from those studies is quoted here.",
+    "study": {
+      "cite": "James, D., Bowling, A. M., & Moeyaert, M. (2026). Essentialism and Ethnoracial Bias: A Meta-Analysis. Review of General Psychology, 30(1), 53-103.",
+      "doi": "10.1177/10892680251394610",
+      "year": 2026,
+      "n": 27731
+    },
+    "replicated": {
+      "es": 0.25,
+      "esType": "r"
+    }
+  },
+  "limits": "Essentialism is a family of beliefs and no two lists of its components agree. Gelman's review tabulates five proposals, from Gelman's own six components to Neufeld's eleven, and states there is no consensus on how many there are. Haslam and colleagues' own abstract says essentialism is not a unitary syndrome. That matters for every study cited here, because each task measures a component and a result about one is not a result about the others. In Gross and colleagues' sample only the full scale and the immutability subscale were reliable, at alpha = .81 and .84; discreteness, biological basis and informativity came in at .63, .42 and .48. The adoption task probes inheritance, which is one component, and Gelman notes the same restriction when discussing Shahbazi and colleagues' work. Peretz-Lange and Kaebnick's groups were unequal at 30 and 65 and their sample was 55 white children of 95, and they found no difference between the two sets of parents, which is why they read the effect as the children's own sense-making. Much of the founding literature could not be read. Gelman and Wellman's 1991 paper, Keil's 1989 book, Astuti, Solomon and Carey's 2004 Madagascar monograph, Medin and Ortony's chapter, Medin's 1989 article, Haslam and colleagues' 2000 paper, Davoodi and colleagues' 2020 paper, Xu and colleagues' 2025 paper, Machery and colleagues' 2023 paper and the 2026 meta-analysis were each sought through Crossref, Unpaywall, Semantic Scholar, Europe PMC, PubMed and the publishers' own sites. The meta-analysis and Machery's paper are quoted from their publisher-deposited abstracts, which were read twice through independent interfaces. Deep Blue's copy of Gelman and Wellman and Wiley's open-access copy of Machery both returned a bot challenge rather than the file. The description of the five standard tasks, of Keil's raccoon and skunk result and of the Vezo findings comes from Gelman's 2025 review, not from the studies themselves.",
+  "misreadings": "Essentialism in this literature is a claim about beliefs, not about the world. Gelman states it plainly: it is a psychological construct, not a metaphysical one, and it is counted as a cognitive bias precisely because the categories it applies to often lack the structure it imputes. The link to prejudice is the most overstated part. Haslam, Rothschild and Ernst's abstract already said essentialism is not monolithically associated with devaluation and prejudice, and the 2026 meta-analysis gives a correlation of 0.25 alongside an experimental estimate of 0.21 that does not reach significance. Reading the correlation as a cause is the error the meta-analysis and Gross and colleagues' null both warn against. Peretz-Lange's causal discounting account, as Gelman describes it, holds that essentialism can cut either way, reducing prejudice where it moves blame off the person. Nor is essentialism one thing that a child either has or lacks. In Peretz-Lange and Kaebnick's own trials the essentialist answer ran from 85% for hair colour to 27% for spoken language in the same children. And the developmental story is not a single rising line. Ethnic constancy fell with age in Woods's London sample, and Xu and colleagues report that the fixed-at-birth belief rose with age in their United States sample but not in their Chinese one.",
+  "sources": [
+    {
+      "text": "Medin, D. L., & Ortony, A. (1989). Comments on Part I: Psychological essentialism. In S. Vosniadou & A. Ortony (Eds.), Similarity and Analogical Reasoning (pp. 179-196). Cambridge University Press. Verified at Crossref for title, editors, pages and year; the chapter itself was not obtained.",
+      "doi": "10.1017/cbo9780511529863.009",
+      "type": "primary"
+    },
+    {
+      "text": "Medin, D. L. (1989). Concepts and conceptual structure. American Psychologist, 44(12), 1469-1481. Named as the source usually given for the placeholder formulation. Verified at Crossref at bibliographic level only; not obtained, and nothing is quoted from it.",
+      "doi": "10.1037/0003-066x.44.12.1469",
+      "type": "primary"
+    },
+    {
+      "text": "Gelman, S. A., & Wellman, H. M. (1991). Insides and essences: early understandings of the non-obvious. Cognition, 38(3), 213-244. Read at abstract level through Europe PMC, PMID 2060270, which is the source for the five studies and the age of 4. Deep Blue's deposited copy returned a bot challenge.",
+      "doi": "10.1016/0010-0277(91)90007-Q",
+      "url": "https://europepmc.org/abstract/MED/2060270",
+      "type": "primary"
+    },
+    {
+      "text": "Peretz-Lange, R., & Kaebnick, H. (2025). Adopted and donor-conceived children hold reduced genetic-essentialist beliefs relative to traditionally-conceived children. Developmental Psychology, 61(3), 530-539. Every figure quoted here was read in the accepted manuscript deposited at PsyArXiv.",
+      "doi": "10.1037/dev0001846",
+      "url": "https://osf.io/download/3e8rj/",
+      "type": "primary"
+    },
+    {
+      "text": "Haslam, N., Rothschild, L., & Ernst, D. (2000). Essentialist beliefs about social categories. British Journal of Social Psychology, 39(1), 113-127. Read at abstract level through Europe PMC; the source for the 40 categories, the nine elements and the two dimensions.",
+      "doi": "10.1348/014466600164363",
+      "url": "https://europepmc.org/article/MED/10774531",
+      "type": "primary"
+    },
+    {
+      "text": "Gross, E. B., Fine, R. D., Gülgöz, S., Olson, K. R., & Gelman, S. A. (2024). Children's gender essentialism and prejudice: Testing causal links via an experimental manipulation. Developmental Science, 27(5), e13532. Read in full as the author manuscript in PubMed Central, PMC12100744; the source for every figure attributed to it.",
+      "doi": "10.1111/desc.13532",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12100744/",
+      "type": "replication"
+    },
+    {
+      "text": "James, D., Bowling, A. M., & Moeyaert, M. (2026). Essentialism and Ethnoracial Bias: A Meta-Analysis. Review of General Psychology, 30(1), 53-103. Closed at the publisher. Quoted from the publisher-deposited abstract, read twice through Crossref and Semantic Scholar.",
+      "doi": "10.1177/10892680251394610",
+      "type": "replication"
+    },
+    {
+      "text": "Machery, E., Olivola, C. Y., Cheon, H., Kurniawan, I. T., Mauro, C., Struchiner, N., & Susianto, H. (2023). Is Identity Essentialism a Fundamental Feature of Human Cognition? Cognitive Science, 47(5), e13292. Closed to this search despite an open-access flag. Quoted from the publisher-deposited abstract, read twice through Crossref and Semantic Scholar.",
+      "doi": "10.1111/cogs.13292",
+      "type": "replication"
+    },
+    {
+      "text": "Woods, R. (2017). The development of non-essentialist concepts of ethnicity among children in a multicultural London community. British Journal of Developmental Psychology, 35(4), 546-567. Read in full through Europe PMC, PMC6084374; the source for the 92 children and the stability scores.",
+      "doi": "10.1111/bjdp.12194",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6084374/",
+      "type": "replication"
+    },
+    {
+      "text": "Xu, Y., Wang, M., Moty, K., & Rhodes, M. (2025). How Culture Shapes the Early Development of Essentialist Beliefs. Developmental Science, 28(1), e13586. Read at abstract level through Europe PMC; the source for the 531 children and the two developmental patterns.",
+      "doi": "10.1111/desc.13586",
+      "url": "https://europepmc.org/article/MED/39506285",
+      "type": "replication"
+    },
+    {
+      "text": "Davoodi, T., Soley, G., Harris, P. L., & Blake, P. R. (2020). Essentialization of Social Categories Across Development in Two Cultures. Child Development, 91(1), 289-306. Read at abstract level through Europe PMC, PMID 30644543; the source for the three sample sizes and the cross-cultural parallel.",
+      "doi": "10.1111/cdev.13209",
+      "url": "https://europepmc.org/article/MED/30644543",
+      "type": "replication"
+    },
+    {
+      "text": "Gelman, S. A. (2025). Childhood essentialism. Advances in Child Development and Behavior, 69, 1-38. Read in full as the author's preprint; used here as a secondary source for the standard tasks, for Keil's transformation result, for the Vezo findings and for Peretz-Lange's causal discounting account.",
+      "doi": "10.1016/bs.acdb.2025.06.001",
+      "url": "https://statmodeling.stat.columbia.edu/wp-content/uploads/2025/10/childhood_essentialism.pdf",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
