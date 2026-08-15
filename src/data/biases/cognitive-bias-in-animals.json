@@ -1,0 +1,61 @@
+{
+  "no": 343,
+  "slug": "cognitive-bias-in-animals",
+  "name": "Cognitive bias in animals",
+  "aliases": ["Judgement bias", "Judgment bias task", "Ambiguous cue interpretation task", "Optimism and pessimism in animals", "Cognitive judgement bias"],
+  "category": "decision",
+  "statement": "Animals kept in worse conditions treat ambiguous cues as predicting the worse outcome, and the size of that shift is used to measure how they feel.",
+  "meaning": "The judgement bias task trains an animal on two cues. One cue predicts a good outcome if the animal makes a particular response, the other predicts a poor or aversive outcome if it makes a different one. Once the discrimination is learnt, the animal meets cues that fall between the two. Responding as though the ambiguous cue signals the good outcome is scored as 'optimistic', responding as though it signals the bad one as 'pessimistic'. Lagisz and colleagues describe the original assay as tones of intermediate frequency dropped into a trained tone discrimination. Both labels are operational, and the field applies them without claiming that animals experience optimism the way people do. What makes this bias unusual is the direction of inference. Elsewhere a bias is the thing to be explained or corrected. Here it is the instrument, and the housing, the injury or the drug is what gets read off it, so the question that matters is whether the instrument tracks affect rather than something else.",
+  "origin": {
+    "year": 2004,
+    "who": "Emma J. Harding, Elizabeth S. Paul and Michael Mendl",
+    "where": "Nature",
+    "note": "Their one-page Brief Communication, 'Cognitive bias and affective state', ran in Nature 427(6972), page 312, and is the paper every later study cites as the source of the method. It sits behind a paywall and was not obtained for this entry, so the design described here comes from Lagisz and colleagues, who call it the seminal paper on animal judgement bias and set out the task it introduced."
+  },
+  "evidence": "Lagisz and colleagues searched Scopus and Web of Science for work published from 2004, updating the search to March 2019, and extracted 459 effect sizes from 91 experiments in 71 articles on 22 species. Mammals supplied 56 of the 71 studies, and rats, cattle and pigs supplied 15, 11 and 8. Almost all subjects were captive. Their phylogenetic multilevel model gave a pooled Hedges' g of 0.201, 95% CI 0.028 to 0.374. A model without phylogeny gave 0.204, CI 0.087 to 0.320, and a Bayesian version gave 0.206, CI 0.041 to 0.383. The authors read this as a small effect, and argue the full dataset understates matters because it includes the unambiguous training cues, where no bias is predicted. Restricted to the cue with the largest effect in the direction of the mean, they report a Hedges' g of 0.6. A second synthesis, by Neville and colleagues, tested the method rather than the animals: it asked whether drugs that alter human affect shift judgement bias as predicted. From 20 articles and 557 effect sizes, the pooled standardised mean difference across all cues was 0.239, 95% CI -0.047 to 0.525, p = 0.102. At the ambiguous cue with the largest effect in the direction of the mean it was 0.455, CI 0.061 to 0.849, p = 0.024.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Pooled over 71 studies and 22 species, animals in worse conditions do judge ambiguity more pessimistically, at Hedges' g = 0.201, 95% CI 0.028 to 0.374.",
+    "detail": "The direction predicted in 2004 holds across the literature, and the magnitude is small. Lagisz and colleagues found total heterogeneity of 76.4%, with 68.1% of the variance attributable to sampling error and 2.0% to phylogeny, which they read as a weak phylogenetic signal. Species-specific estimates showed no clear pattern. Five moderators mattered on their own. Active-choice go/go tasks gave 0.432, CI 0.151 to 0.712, against 0.154, CI 0.005 to 0.304, for the go/no-go tasks that dominate the field. Reward-reward training gave 0.488, CI 0.137 to 0.839, and reward-punishment 0.216, CI 0.036 to 0.396. Auditory cues gave 0.393, CI 0.136 to 0.651, and tactile 0.658, CI 0.136 to 1.118, against 0.067, CI -0.133 to 0.268, for visual. Male subjects gave 0.365, CI 0.155 to 0.575, and females 0.104, CI -0.063 to 0.271. Put together in one model the four leading moderators explained 7.2% of the variation and none of them stayed statistically reliable. Three publication-bias checks came back clean: the funnel plots of residuals showed no skew, Egger's regression intercept gave t = 0.017, df = 457, p = 0.986, and the slope of effect size on publication year was -0.002, CI -0.121 to 0.118, p = 0.980.",
+    "study": {
+      "cite": "Lagisz, M., Zidar, J., Nakagawa, S., Neville, V., Sorato, E., Paul, E. S., Bateson, M., Mendl, M., & Løvlie, H. (2020). Optimism, pessimism and judgement bias in animals: A systematic review and meta-analysis. Neuroscience & Biobehavioral Reviews, 118, 3-17.",
+      "doi": "10.1016/j.neubiorev.2020.07.012",
+      "year": 2020
+    },
+    "replicated": {
+      "es": 0.201,
+      "esType": "g",
+      "ci": [0.028, 0.374],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The pooled estimate is a statement about captive mammals. Lagisz and colleagues say so themselves, and list five further caveats: thin data at some moderator levels, poor reporting of blinding and automation, no common scale for the strength of the affect manipulation, outliers from severe manipulations and small samples, and response curves that often carry only one ambiguous cue. The power arithmetic is the sharpest constraint. To detect a Hedges' g of 0.4 at 80% power and alpha of 0.05 needs at least 50 animals per group, and a g of 0.8 still needs 13. Individual judgement-bias studies rarely run at that size. Roelofs and colleagues add a problem specific to the task: probe trials are usually unrewarded, so animals learn what the ambiguous cue means and it stops being ambiguous. They also report that repeatability findings disagree, citing stable individual differences across five sessions in three chimpanzees against inconsistent results in pigs tested twice five weeks apart. The two secondary sources consulted here even differ on what the 2004 rats were avoiding, Lagisz and colleagues describing white noise and Roelofs and colleagues listing the study under mild electric foot shock. The primary paper was not obtained, so this page does not resolve that.",
+  "misreadings": "A 'pessimistic' rat is a rat that took longer to approach, or declined to press. The word is a scoring convention, not a report of felt sadness, and the meta-analysts are explicit that it should be used operationally. The second misreading is treating a null result as evidence of good welfare. At the sample sizes typical of this literature a small true effect is missed more often than found, which is why Lagisz and colleagues print the power figures. The third is treating any one version of the task as the task. Go/no-go designs supplied 389 of the 459 effect sizes and returned about a third of the effect that active-choice designs did, and visual and spatial cues were the two most common while visual cues gave the weakest result of the five modalities. The drug work carries its own warning. Neville and colleagues found the pooled effect across all cues not statistically reliable, and drugs targeting the adrenergic system moved judgement bias in the direction opposite to the one predicted, which is one reason the field treats the task as needing validation rather than as already validated.",
+  "sources": [
+    {
+      "text": "Harding, E. J., Paul, E. S., & Mendl, M. (2004). Animal behaviour: cognitive bias and affective state. Nature, 427(6972), 312. Bibliographic record verified at Crossref and at PubMed (PMID 14737158); the article is paywalled and was not obtained, so its design is reported here from Lagisz and colleagues.",
+      "doi": "10.1038/427312a",
+      "url": "https://doi.org/10.1038/427312a",
+      "type": "primary"
+    },
+    {
+      "text": "Lagisz, M., Zidar, J., Nakagawa, S., Neville, V., Sorato, E., Paul, E. S., Bateson, M., Mendl, M., & Løvlie, H. (2020). Optimism, pessimism and judgement bias in animals: A systematic review and meta-analysis. Neuroscience & Biobehavioral Reviews, 118, 3-17. Read in full from the author accepted manuscript deposited in the University of Bristol repository; every figure quoted here is from its results and discussion.",
+      "doi": "10.1016/j.neubiorev.2020.07.012",
+      "url": "https://research-information.bris.ac.uk/ws/files/243557592/Lagisz_et_al_2020_NBR_preprint.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Neville, V., Nakagawa, S., Zidar, J., Paul, E. S., Lagisz, M., Bateson, M., Løvlie, H., & Mendl, M. (2020). Pharmacological manipulations of judgement bias: A systematic review and meta-analysis. Neuroscience & Biobehavioral Reviews, 108, 269-286. Read in full at PubMed Central. Its printed interval for one subset analysis is corrupted, running '-0.046-0.7270.017-0.770', and that figure is therefore not quoted on this page.",
+      "doi": "10.1016/j.neubiorev.2019.11.008",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6966323/",
+      "type": "replication"
+    },
+    {
+      "text": "Roelofs, S., Boleij, H., Nordquist, R. E., & van der Staay, F. J. (2016). Making Decisions under Ambiguity: Judgment Bias Tasks for Assessing Emotional State in Animals. Frontiers in Behavioral Neuroscience, 10, 119. Read in full; the loss-of-ambiguity problem and the conflicting repeatability results are reported there, the latter as its summary of other studies.",
+      "doi": "10.3389/fnbeh.2016.00119",
+      "url": "https://doi.org/10.3389/fnbeh.2016.00119",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
