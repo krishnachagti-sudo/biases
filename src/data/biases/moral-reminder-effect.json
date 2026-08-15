@@ -1,0 +1,126 @@
+{
+  "no": 379,
+  "slug": "moral-reminder-effect",
+  "name": "Moral reminder effect",
+  "aliases": [
+    "Ten Commandments effect",
+    "Honesty pledge effect",
+    "Signing at the top",
+    "Sign-first effect"
+  ],
+  "category": "social",
+  "statement": "Reminding people of moral standards at the moment of temptation, by recalling the Ten Commandments or signing an honesty declaration first, is said to cut cheating.",
+  "meaning": "The claim comes from a theory about how people cheat. On that account most people steal small amounts rather than everything available, because a larger theft would force them to revise their view of themselves as honest. What holds the compromise together is inattention. A person who is not thinking about honesty can take a little without the question arising. Make the standard salient at the moment of temptation and the question arises, so the cheating stops. The appeal is that the intervention costs nothing. No monitoring, no penalty, no change to the incentives, just a recall task, an honour code line, or a signature box moved from the foot of a form to its head. Two versions travel under the name. The first is a moral reminder proper, meaning a prompt about morality placed before the chance to cheat. The second is placement, meaning that the same honesty declaration works when signed before reporting and not when signed after.",
+  "origin": {
+    "year": 2008,
+    "who": "Nina Mazar, On Amir and Dan Ariely",
+    "where": "Journal of Marketing Research",
+    "note": "Their six-experiment paper set out the theory of self-concept maintenance. Experiment 1 is the Ten Commandments recall task and Experiment 2 the honour code signature. The signature-placement version arrives four years later, in a three-study paper by Shu, Mazar, Gino, Ariely and Bazerman in PNAS, which PNAS retracted in 2021."
+  },
+  "evidence": "In Experiment 1 of the 2008 paper, 229 students first wrote down either ten books read in high school or the Ten Commandments. They then had four minutes on a sheet of twenty matrices, each holding two numbers that sum to ten. Half handed in both the test and the answer sheet. Half recycled the test sheet and reported their own score, with two participants to be drawn for 10 dollars per matrix claimed. The reminder made no difference where nobody could cheat, means of 3.1 and 3.1, F(1,225) = 0.012, p = .91. Where they could, the books group claimed 4.2 and the Commandments group 2.8, F(1,225) = 5.24, p = .023. Verschuere and colleagues put that gap at 1.45 matrices and Cohen's d = 0.48. Experiment 2 used 207 students and swapped the recall task for a line above the matrices reading that the survey fell under the university's honour system, with a printed and signed name below it. The recycle groups claimed 5.5 against 3.3 in the control groups. The honour code groups claimed 3.0, indistinguishable from control at F(1,201) = 0.19, p = .66, and apart from the recycle groups at F(1,201) = 19.69, p < .001. Neither institution operated an honour system, so signing carried no threat of punishment. The 2012 PNAS paper moved to signature placement, on a mock tax return where participants reported matrix earnings and travel expenses. In its Experiment 1, 101 people, 37 per cent overclaimed income after signing at the top against 79 per cent signing at the bottom and 64 per cent signing nothing, chi-squared(2, n = 101) = 12.58, P = 0.002. Its Experiment 2, 60 people, gave 37 against 63 per cent, chi-squared(1, n = 60) = 4.27, P < 0.04, and a word-fragment task on which top-signers produced more ethics words, 1.40 against 0.87, F(1,58) = 4.22. Its Experiment 3 was a field audit at a motor insurer, 13,488 policies covering 20,741 cars. Customers signing at the top reported 26,098.4 miles driven against 23,670.6 at the bottom, F(1,13485) = 128.63, P < 0.001. The gap is 2,427.8 miles, or 10.25 per cent. That paper has been retracted and the figures in this paragraph from it are given as what it reported.",
+  "replication": {
+    "state": "failed",
+    "headline": "Twenty-five labs and 5,786 people put the Ten Commandments effect at d = -0.04, and six studies on 5,794 people found no effect of signing at the top rather than the bottom.",
+    "detail": "Verschuere and colleagues ran a registered replication of Experiment 1 with a protocol vetted by Mazar, Ariely and Amir. Twenty-five labs collected 5,786 participants. The primary meta-analysis took the 19 labs meeting every inclusion criterion, 4,674 people, and compared the two conditions where cheating was possible. Participants claimed 0.11 more matrices after the Commandments than after the books, 95% CI [-0.09, 0.31], which is Cohen's d = -0.04, 95% CI [-0.12, 0.04], numerically the wrong way round. Seven of the 19 labs pointed the original way and no lab's interval excluded zero. There was no heterogeneity, tau-squared = 0, Q(18) = 13.16, p = .78, I-squared 0. The lenient analysis over all 25 labs gave 0.17 matrices, 95% CI [-0.00, 0.35], and the strict one over 10 labs and 2,645 people agreed. A preregistered metaregression on religiousness returned a slope of 0.17, 95% CI [-0.09, 0.43], p = .20. The signature-placement line failed separately. Kristal, Whillans, Bazerman and the four surviving original authors reported five conceptual replications on 4,559 people and one preregistered direct replication of the 2012 Experiment 1 on 1,235, powered for d = 0.10. All three preregistered outcomes came back null: percentage cheating d = 0.07, 95% CI [-0.04, 0.19]; amount of cheating d = 0.04, 95% CI [-0.07, 0.15]; expenses claimed d = 0.06, 95% CI [-0.04, 0.17]. Those figures are the ones in PNAS's June 2026 correction, which fixed a software error in the intervals, a sign error, and a t value misprinted as -1.50. Bayes factors ran from 7.7 to 12.5 in favour of the null across the three outcomes, and from 6.25 to 20.00 across the four conceptual replications that tracked cheating at the individual level. The original two laboratory studies had given d = -1.05, 95% CI [-1.55, -0.53] and d = -0.53, 95% CI [-1.04, -0.01].",
+    "study": {
+      "cite": "Verschuere, B., Meijer, E. H., Jim, A., Hoogesteyn, K., Orthey, R., McCarthy, R. J., Skowronski, J. J., et al. (2018). Registered Replication Report on Mazar, Amir, and Ariely (2008). Advances in Methods and Practices in Psychological Science, 1(3), 299-317.",
+      "doi": "10.1177/2515245918781032",
+      "year": 2018,
+      "sites": 25,
+      "n": 5786
+    },
+    "original": {
+      "es": 0.48,
+      "esType": "d"
+    },
+    "replicated": {
+      "es": -0.04,
+      "esType": "d",
+      "ci": [
+        -0.12,
+        0.04
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    }
+  },
+  "limits": "Two things survive that the headline result does not cover. The first is honesty oaths in general, as opposed to the Ten Commandments and as opposed to signature placement. Zickfeld and colleagues screened 20,988 articles and retained 445 effect sizes from 121 articles and 91,683 participants. Commitment to another person or group cut honest behaviour, g = -0.17, interval -0.24 to -0.11, while commitment to an honesty norm through an oath or pledge raised it, g = 0.27, interval 0.19 to 0.36. Their abstract reports some publication bias and does not name the level of those intervals. The same group then ran a megastudy on 21,506 UK and US participants playing an incentivised tax evasion game, testing 21 oaths chosen by 44 expert researchers against a no-oath condition. Ten of the 21 raised compliance by 4.5 to 8.5 percentage points, and the wording of the oath was what separated them. Kristal and colleagues draw the same boundary themselves, writing that their paper is about placement and makes no claim about honour codes, oaths or honesty statements in general. The second qualification concerns the original record. Mazar, Amir and Ariely posted a corrigendum in September 2024, which the Journal of Marketing Research declined to publish alongside its expression of concern. In it they disclose two undisclosed drops. Experiment 1 dropped a third reminder condition of 108 people from a total of 337, and Experiment 2 dropped a 10 cent incentive level of 117 people from a total of 324. They also disclose that only 10 of the 20 matrices were ever solvable. They also report a preregistered replication of their own Experiment 1 on 270 West Coast students, 2.5 times the original 106 in the two focal conditions, whose main effect was not significant. Their claim that moderators such as religiosity rescued it rests on exploratory interactions, and the multi-lab project found no moderation by religiousness. The replicators list their own differences from 2008: a decade elapsed, the original ran at one elite university, and no record of the original filler task battery survived, so the surrounding booklet had to be reconstructed.",
+  "misreadings": "Fraud and failure to replicate are separate findings here, and merging them gets both wrong. The Ten Commandments study has never been shown to contain fabricated data, and it failed in 25 labs. The signing study has been retracted over its data, and it had already failed six replications before any of that surfaced. Kristal and colleagues published in March 2020. Data Colada's post on the field experiment appeared in August 2021, PNAS retracted the article in September 2021, and the post on the laboratory study came in June 2023. Second, the allegations are specific and they are allegations. Simonsohn, Simmons and Nelson reported that the odometer data in Experiment 3 were fabricated in two ways. Miles driven followed a uniform distribution capped at 50,000, and 6,744 baseline rows in Calibri were duplicated into 6,744 in Cambria with a small random number added. They wrote that they could not tell who did it, only that the fourth author was the only one in contact with the insurer. Ariely replied that the company collected, entered, merged and anonymised the data before sending them to him, that he did not suspect a problem, and that Duke's research integrity office reviewed the matter. In June 2023 the same bloggers reported that Experiment 1 was also tampered with, by a different person. Their evidence is eight duplicated or out-of-sequence rows and Excel's calculation-order file, and they name Gino as the only author involved in that study's data collection. Third, retraction status. PNAS retracted the whole 2012 article on 13 September 2021, so its laboratory results are withdrawn along with the field experiment. The 2008 Journal of Marketing Research paper is not retracted. It carries an expression of concern published on 20 September 2024, at volume 61, issue 6, page 1183; its text could not be obtained here, and the account of its contents on this page comes from the authors' own corrigendum. Fourth, the failures do not show that asking people to sign changes nothing. They show that moving an existing signature to the top of a form does not, which is the version governments adopted.",
+  "sources": [
+    {
+      "text": "Mazar, N., Amir, O., & Ariely, D. (2008). The Dishonesty of Honest People: A Theory of Self-Concept Maintenance. Journal of Marketing Research, 45(6), 633-644. Quoted here from the authors' accepted manuscript, which reports Experiment 1 means to one decimal place; the two-decimal cell means are read off their 2024 corrigendum.",
+      "doi": "10.1509/jmkr.45.6.633",
+      "url": "https://econweb.ucsd.edu/~jandreon/Seminar/OnAmir.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Verschuere, B., Meijer, E. H., Jim, A., Hoogesteyn, K., Orthey, R., McCarthy, R. J., Skowronski, J. J., et al. (2018). Registered Replication Report on Mazar, Amir, and Ariely (2008). Advances in Methods and Practices in Psychological Science, 1(3), 299-317.",
+      "doi": "10.1177/2515245918781032",
+      "url": "https://ppw.kuleuven.be/okp/_pdf/Verschuere2018RRROM.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Shu, L. L., Mazar, N., Gino, F., Ariely, D., & Bazerman, M. H. (2012). Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end. Proceedings of the National Academy of Sciences, 109(38), 15197-15200. Retracted.",
+      "doi": "10.1073/pnas.1209746109",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3458378/",
+      "type": "primary"
+    },
+    {
+      "text": "Retraction for Shu et al., Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end (2021). Proceedings of the National Academy of Sciences, 118(38), e2115397118.",
+      "doi": "10.1073/pnas.2115397118",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8463784/",
+      "type": "primary"
+    },
+    {
+      "text": "Kristal, A. S., Whillans, A. V., Bazerman, M. H., Gino, F., Shu, L. L., Mazar, N., & Ariely, D. (2020). Signing at the beginning versus at the end does not decrease dishonesty. Proceedings of the National Academy of Sciences, 117(13), 7103-7107.",
+      "doi": "10.1073/pnas.1911695117",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7132248/",
+      "type": "replication"
+    },
+    {
+      "text": "Correction for Kristal et al., Signing at the beginning versus at the end does not decrease dishonesty (2026). Proceedings of the National Academy of Sciences, 123(27). The source of the study 6 effect sizes and intervals quoted here.",
+      "doi": "10.1073/pnas.2610441123",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13342925/",
+      "type": "replication"
+    },
+    {
+      "text": "Simonsohn, U., Simmons, J., & Nelson, L. (2021). Evidence of Fraud in an Influential Field Experiment About Dishonesty. Data Colada, post 98, 17 August 2021. A blog post, and the document the PNAS retraction notice cites.",
+      "url": "https://datacolada.org/98",
+      "type": "secondary"
+    },
+    {
+      "text": "Simonsohn, U., Simmons, J., & Nelson, L. (2023). Data Falsificada (Part 1): Clusterfake. Data Colada, post 109, 17 June 2023. A blog post, and the source for the claims about Study 1 of the 2012 paper.",
+      "url": "https://datacolada.org/109",
+      "type": "secondary"
+    },
+    {
+      "text": "Ariely, D. (2021). Response posted with Data Colada post 98, dated 16 August 2021.",
+      "url": "https://datacolada.org/wp-content/uploads/DanBlogComment_Aug_16_2021_final.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Expression of Concern: The Dishonesty of Honest People: A Theory of Self-Concept Maintenance (2024). Journal of Marketing Research, 61(6), 1183. Its text was not obtained; the record is verified at Crossref, which dates it 20 September 2024 and links it to the 2008 article.",
+      "doi": "10.1177/00222437241285882",
+      "url": "https://journals.sagepub.com/doi/10.1177/00222437241285882",
+      "type": "secondary"
+    },
+    {
+      "text": "Mazar, N., Amir, O., & Ariely, D. (2024). Corrigendum to Mazar, Amir and Ariely (2008), dated 27 September 2024. Posted by the authors on the Open Science Framework; the Journal of Marketing Research declined to publish it.",
+      "url": "https://osf.io/kzjrs/",
+      "type": "primary"
+    },
+    {
+      "text": "Zickfeld, J. H., Scigala, K. A., Elbaek, C. T., Michael, J., Tonnesen, M. H., Levy, G., et al. (2025). Effectiveness of ex ante honesty oaths in reducing dishonesty depends on content. Nature Human Behaviour, 9(1), 169-187. Read here from the publisher's abstract; the full text is paywalled.",
+      "doi": "10.1038/s41562-024-02009-0",
+      "url": "https://www.nature.com/articles/s41562-024-02009-0",
+      "type": "secondary"
+    },
+    {
+      "text": "Zickfeld, J. H., et al. (2024). Committed (dis)honesty: A systematic meta-analytic review of the divergent effects of social commitment to individuals or honesty oaths on dishonest behavior. Psychological Bulletin, 150(5), 586-620. Read here from the PubMed abstract, which prints the intervals without naming their level.",
+      "doi": "10.1037/bul0000429",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38619478/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

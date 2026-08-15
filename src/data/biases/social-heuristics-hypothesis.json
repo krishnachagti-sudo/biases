@@ -1,0 +1,110 @@
+{
+  "no": 388,
+  "slug": "social-heuristics-hypothesis",
+  "name": "Social heuristics hypothesis",
+  "aliases": [
+    "Intuitive cooperation",
+    "Spontaneous giving and calculated greed"
+  ],
+  "category": "social",
+  "statement": "Intuition is said to favour cooperation and deliberation to favour self-interest, so forcing people to decide quickly should raise their contributions in economic games.",
+  "meaning": "The hypothesis has two halves. The first says intuitions are learned in daily life, where cooperation usually pays because interactions repeat, reputation is at stake and sanctions exist. The second says deliberation recalculates for the situation at hand, and in a one-shot anonymous game that calculation favours keeping the money. Together they predict that any push towards intuition raises contributions in the laboratory. The prediction is conditional rather than universal. Rand, Greene and Nowak expect a cooperative default only in people whose daily-life partners are themselves cooperative, and they tested that condition directly in their own paper.",
+  "origin": {
+    "year": 2012,
+    "who": "David G. Rand, Joshua D. Greene and Martin A. Nowak",
+    "where": "Nature",
+    "note": "Ten studies using one-shot public goods games, on Amazon Mechanical Turk and in a Harvard laboratory. The Social Sciences Replication Project, reading the same paper, records studies 1 to 5 as correlational and studies 6 and 7 as the time-pressure experiments. Rand's 2016 meta-analysis attributes the name 'social heuristics hypothesis' to the later Rand et al. (2014) paper in Nature Communications."
+  },
+  "evidence": "The opening study gave 212 Mechanical Turk workers 40 cents and a one-shot four-person public goods game. Contributions were higher in the faster half of decisions, rank sum P = 0.007, and a Tobit regression on decision time gave a coefficient of -15.84, P = 0.019. Four earlier laboratory datasets, re-analysed for decision time, went the same way. The causal test came next. Another 680 workers were told either to decide within 10 seconds or to wait at least 10 seconds, and the time-pressure group contributed more, rank sum P < 0.001. Study 7 repeated that with 211 Boston-area students at tenfold stakes and reached rank sum P = 0.032, with no difference in what participants predicted others would give, P = 0.360. A priming study on 343 workers, which asked for a paragraph about a time when intuition or careful reasoning had served well or badly, found higher contributions after the intuition prime, P = 0.011. Two further studies tested the conditional part. Among 256 workers the priming effect appeared only in those with no prior experience of the task, and among 341 workers faster decisions were more cooperative only among those reporting mainly cooperative daily-life partners.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Two large preregistered replications came out null, and the laboratory effect survives mainly under the exclusion rule that started the argument.",
+    "detail": "Bouwmeester and colleagues ran Study 7 again in 21 laboratories across 12 countries with 3,596 participants. Their planned analysis kept everyone randomly assigned, and the pooled difference was -0.37 percentage points, 95% CI [-2.60, 1.86], with no more variation across labs than chance predicts, Q(20) = 16.84, p = .66, I2 = 2.72%. The same intent-to-treat analysis of the original data gives 8.6 points, 95% CI [-1.84, 19.00], from means of 49.4% under time pressure and 40.8% under forced delay. Compliance with the instructions was 34.1% under time pressure and 92.5% under forced delay. Restricting the replication to compliant participants, as the original article did, produced 10.37 points against the original's 15.31. The Social Sciences Replication Project took the priming study instead, since the time-pressure study was already committed to the multi-lab report. That original effect was r = 0.141, z = 2.617, p = 0.0089, on 343 people. The replication went to 2,136 people and returned r = 0.026, z = 1.191, p = 0.234, a relative effect size of 0.183. Rand's own meta-analysis of 67 studies and 17,647 participants reports 6.1 percentage points more pure cooperation under intuition, 95% CI [3.4, 8.9], falling to 4.2 points when non-compliant participants are kept, 95% CI [1.8, 6.6]. Kvarven and colleagues pooled 82 experiments and 29,315 participants, obtained 2.19 points, p = 0.005, and saw it fall to 1 point, p = 0.076, once six emotion-induction experiments were removed.",
+    "study": {
+      "cite": "Bouwmeester, S., Verkoeijen, P. P. J. L., Aczel, B., et al. (2017). Registered Replication Report: Rand, Greene, and Nowak (2012). Perspectives on Psychological Science, 12(3), 527-542.",
+      "doi": "10.1177/1745691617693624",
+      "year": 2017,
+      "sites": 21,
+      "n": 3596
+    },
+    "original": {
+      "es": 8.6,
+      "esType": "md",
+      "unit": "percentage points of the endowment contributed",
+      "ci": [-1.84, 19.0],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": -0.37,
+      "esType": "md",
+      "unit": "percentage points of the endowment contributed",
+      "ci": [-2.6, 1.86],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The dispute is about an exclusion rule, and the pooled figures do not settle it. Two thirds of participants under time pressure miss the deadline, so dropping them strips the slow deciders out of one condition and leaves the fast ones in the other. Bouwmeester and colleagues argue that this breaks random assignment and licenses no causal claim, whatever the compliant-only difference comes to. Rand argues from his meta-analysis that if selection on decision time drove the result, the effect should grow with the baseline attractiveness of cooperating, and among time-constraint studies he finds no such relationship, b = -0.199, t(25) = -1.37, p = .18. Both readings work on the same data. The conditional part fared no better in the replication: the report's moderator table gives trust, age, horizontal and vertical individualism, horizontal and vertical collectivism, gender and prior study experience, and every one of those intervals spans zero in the no-exclusions analysis. Isler, Maule and Starmer report a positive result from a protocol that lifted compliance to 90.0% under time pressure and 92.7% under delay, 7.44 points, 95% CI [-0.22, 15.10], rank sum P = 0.025, in the brief-instructions condition of 314 people. The same experiment gives -0.49 points with longer instructions and 4.75 with a third variant, so the result moves with how the game is explained. Tinghög and colleagues' 2013 comment in Nature, which opened the exclusion dispute, was read here only through the replication report's description of it, because the article is paywalled.",
+  "misreadings": "Two claims travel under one name, and the evidence separates them. That intuition favours cooperation is a general hypothesis, testable through cognitive load, depletion, priming and emotion induction as well as time pressure. That forcing a fast response raises contributions is one operationalisation of it, and that is the one the multi-lab report failed to find. Rand's meta-analysis already put the time-constraint subset at 4.3 percentage points with non-compliant participants dropped and 1.3 points with them kept, against 8.0 and 7.2 points for the other manipulations. The headline 17.3% from that meta-analysis is quoted as an effect size and is not one: it is the 6.1-point difference expressed as a change relative to the deliberative baseline. Nor is the hypothesis a claim that everyone is intuitively generous. It predicts a cooperative default only where daily life rewards cooperation, and it expects deliberation to move everybody in the same direction, towards self-interest. Kvarven and colleagues also report that the effect they can find rests on emotion-induction manipulations, which instruct participants to rely on feeling rather than reason, and which are a different intervention from speeding a decision up.",
+  "sources": [
+    {
+      "text": "Rand, D. G., Greene, J. D., & Nowak, M. A. (2012). Spontaneous giving and calculated greed. Nature, 489(7416), 427-430.",
+      "doi": "10.1038/nature11467",
+      "url": "https://doi.org/10.1038/nature11467",
+      "type": "primary"
+    },
+    {
+      "text": "Bouwmeester, S., Verkoeijen, P. P. J. L., Aczel, B., et al. (2017). Registered Replication Report: Rand, Greene, and Nowak (2012). Perspectives on Psychological Science, 12(3), 527-542.",
+      "doi": "10.1177/1745691617693624",
+      "url": "https://doi.org/10.1177/1745691617693624",
+      "type": "replication"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Rand, D. G. (2016). Cooperation, fast and slow: Meta-analytic evidence for a theory of social heuristics and self-interested deliberation. Psychological Science, 27(9), 1192-1206.",
+      "doi": "10.1177/0956797616654455",
+      "url": "https://doi.org/10.1177/0956797616654455",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Kvarven, A., Strømland, E., Wollbrant, C., Andersson, D., Johannesson, M., Tinghög, G., Västfjäll, D., & Myrseth, K. O. R. (2020). The intuitive cooperation hypothesis revisited: A meta-analytic examination of effect size and between-study heterogeneity. Journal of the Economic Science Association, 6(1), 26-42.",
+      "doi": "10.1007/s40881-020-00084-3",
+      "url": "https://doi.org/10.1007/s40881-020-00084-3",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Isler, O., Maule, J., & Starmer, C. (2018). Is intuition really cooperative? Improved tests support the social heuristics hypothesis. PLOS ONE, 13(1), e0190560.",
+      "doi": "10.1371/journal.pone.0190560",
+      "url": "https://doi.org/10.1371/journal.pone.0190560",
+      "type": "replication"
+    },
+    {
+      "text": "Rand, D. G., Peysakhovich, A., Kraft-Todd, G. T., Newman, G. E., Wurzbacher, O., Nowak, M. A., & Greene, J. D. (2014). Social heuristics shape intuitive cooperation. Nature Communications, 5, 3677.",
+      "doi": "10.1038/ncomms4677",
+      "url": "https://doi.org/10.1038/ncomms4677",
+      "type": "primary"
+    },
+    {
+      "text": "Tinghög, G., Andersson, D., Bonn, C., Böttiger, H., Josephson, C., Lundgren, G., Västfjäll, D., Kirchler, M., & Johannesson, M. (2013). Intuition and cooperation reconsidered. Nature, 498(7452), E1-E2.",
+      "doi": "10.1038/nature12194",
+      "url": "https://doi.org/10.1038/nature12194",
+      "type": "critique"
+    },
+    {
+      "text": "Rand, D. G., Greene, J. D., & Nowak, M. A. (2013). Rand et al. reply. Nature, 498(7452), E2-E3.",
+      "doi": "10.1038/nature12195",
+      "url": "https://doi.org/10.1038/nature12195",
+      "type": "commentary"
+    },
+    {
+      "text": "Rand, D. G. (2018). Non-naïvety may reduce the effect of intuition manipulations. Nature Human Behaviour, 2(9), 602.",
+      "doi": "10.1038/s41562-018-0404-6",
+      "url": "https://doi.org/10.1038/s41562-018-0404-6",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

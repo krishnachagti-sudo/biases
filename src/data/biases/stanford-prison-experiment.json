@@ -1,0 +1,89 @@
+{
+  "no": 371,
+  "slug": "stanford-prison-experiment",
+  "name": "Stanford prison experiment",
+  "aliases": ["SPE", "Stanford prison study", "Zimbardo prison experiment"],
+  "category": "social",
+  "statement": "Assigning ordinary people to the role of prison guard is said to be enough on its own to make them cruel, as Zimbardo's 1971 mock prison showed.",
+  "meaning": "The claim is that the role does the work. Put screened, ordinary young men into a structure with guards above and prisoners below, train neither, and the guard role will produce cruelty by itself. Screening mattered to the authors for that reason: ruling out disturbed volunteers was meant to leave the situation as the only available cause of what followed. Everything since 2018 turns on whether the guards really were left untrained, because the inference collapses if the experimenters supplied the behaviour they later reported as spontaneous.",
+  "origin": {
+    "year": 1973,
+    "who": "Craig Haney, Curtis Banks and Philip Zimbardo",
+    "where": "International Journal of Criminology and Penology",
+    "note": "The study itself ran in August 1971 in a basement corridor of the Stanford psychology building, and the first academic account appeared two years later as \"Interpersonal dynamics in a simulated prison\". The same three authors published a second account in September 1973 in Naval Research Reviews, the study having been funded through the Office of Naval Research. The two 1973 papers share most of their text and disagree on their own headcount."
+  },
+  "evidence": "The prison occupied a 35-foot section of basement corridor, partitioned into cells. Seventy-five men answered a newspaper advertisement offering $15 a day for a study of prison life. Twenty-four were picked as the most stable, most mature and least involved in anti-social behaviour, then assigned at random, half to guard and half to prisoner. Two stand-by prisoners were never called and one stand-by guard withdrew just before the start, so the analysis rests on ten prisoners and eleven guards. Prisoners stayed in the mock prison around the clock. Guards worked three-man eight-hour shifts and went home between them. The contract ran for up to two weeks and the study was stopped after six days. Five prisoners were released before that: four with extreme emotional depression, crying, rage and acute anxiety, the pattern starting as early as the second day, and a fifth after treatment for a psychosomatic rash. The published abstract puts it as half the prisoners developing acute emotional disturbance severe enough to warrant early release. It adds that at least a third of the guards became far more aggressive and dehumanising than a simulation would ordinarily predict. Commands were the most frequent form of verbal behaviour throughout. Exchanges carried few references to individual identity. When prisoners' private cell conversations were monitored, 90% of what they discussed concerned immediate prison conditions rather than their lives outside. The paper advances no specific hypothesis beyond the general one that assignment to guard or prisoner would produce different reactions, and neither 1973 account prints an effect size or a significance test.",
+  "replication": {
+    "state": "failed",
+    "headline": "The nearest thing to a re-run went the other way: in the BBC prison study the guards would not take up the role, and the prisoners overturned them.",
+    "detail": "Reicher and Haslam built an institution for the BBC and ran it for eight days. They screened 332 applicants down to 27 and then to 15, matched on modern racism, authoritarianism and social dominance, and split them into five guards and ten prisoners, nine present at the start with the tenth introduced later. Daily identification scores gave a group by time interaction of F(5, 55) = 3.05, p < .05, with eta squared of .22. Prisoner identification rose linearly, t(7) = 2.46, p < .05, while the guards' declined non-significantly, t(4) = -0.77. The prisoners took the prison over, the participants ran it as a commune, the commune lost the confidence of its members, and by the end some were pressing for a harsher regime than the one they had abolished. It was stopped at noon on day 8, with the old system unworkable and the new one barred by the study's ethics rules. Reicher and Haslam say plainly that this was not an exact replication and that they do not invite comparison on the details of who did what, only on which framework explains it. Two other studies point the same way. Le Texier describes Lovibond, Mithiran and Adams running three prison regimes with 60 volunteers in 1979, with the standard custodial regime producing much hostility and the two more liberal regimes producing benign guard and prisoner relations. Carnahan and McFarland re-ran the recruitment in 2007 with a near-identical advertisement, and volunteers for the version carrying the words 'of prison life' scored higher on aggressiveness, authoritarianism, Machiavellianism, narcissism and social dominance, and lower on empathy and altruism. No exact replication of the original was found by the searches listed below, and the reckoning arrived instead through the archive.",
+    "study": {
+      "cite": "Reicher, S., & Haslam, S. A. (2006). Rethinking the psychology of tyranny: The BBC prison study. British Journal of Social Psychology, 45(1), 1-40.",
+      "doi": "10.1348/014466605X48998",
+      "year": 2006,
+      "n": 15
+    }
+  },
+  "limits": "The two 1973 accounts disagree on their own headcount. The journal version opens its Subjects section with 21 subjects, the Naval Research Reviews reprint with 22. Both then arrive at ten prisoners and eleven guards. Each figure was read off the page image as well as the text layer. Haslam, Reicher and Van Bavel write that 24 young men were recruited, which is the number selected rather than the number who served. Le Texier counts 11 prisoners. The scan of the journal article hosted at pdf.prisonexp.org is defective: pages 81 to 94 are replaced by pages of an unrelated article on source monitoring, so the results were read from the Naval Research Reviews reprint instead. Lovibond, Mithiran and Adams was not obtained. Its Crossref record was checked and its design and findings above are Le Texier's description of it rather than the paper's own words. Carnahan and McFarland was read from its published abstract. Zimbardo and Haney's 2020 comment in American Psychologist is quoted here only from its abstract, which rejects criticisms it calls ad hominem, misleading, inaccurate and unscientific; his earlier and longer response on the official SPE site was read in full. Searches covered Crossref, Unpaywall, PubMed, Semantic Scholar and open-web search, and the closest things to a repeat that they turned up are the three named above.",
+  "misreadings": "Le Texier's paper is usually reported as having debunked the study, which says less than what it produces. Working from the Stanford and Akron archives, he prints the guard orientation transcript, a sheet handwritten by Zimbardo headed 'Outline for guard orientation', and a 'Suggested Daily Schedule' handed to the guards. He prints the warden's daily notebook and the guards' own post-study reports. He prints a taped session in which the warden tells a reluctant guard that 'every guard is going to be what we call a tough guard'. He also finds that 11 of the prison's 17 rules were copied from a two-day student prison run in a Stanford dormitory in May 1971. Zimbardo's public response concedes that 'the research team asked all guards to be actively involved and firmly in control of the prisoners'. It maintains in the same document that 'we did not give any formal or detailed instructions about how to be an effective guard'. The Abu Ghraib connection is Zimbardo's own interpretive claim, made partly as an expert witness at a guard's trial, and not a finding the study produced. The BBC prison study is often called a replication, and its authors say it is not one. The study is also used as the empirical prop under deindividuation, though it manipulated no such variable and stated no hypothesis to test. The line that half the prisoners had breakdowns comes from the authors' own summary. Le Texier's reading of the archive puts the number who showed real symptoms at two. He records that one released prisoner was sweeping the corridor when told he could go. Bartels found that only two of 14 introductory psychology textbooks cited any critical article about the study.",
+  "sources": [
+    {
+      "text": "Haney, C., Banks, C., & Zimbardo, P. (1973). Interpersonal dynamics in a simulated prison. International Journal of Criminology and Penology, 1, 69-97. Read from a scan hosted by prisonexp.org; the scan carries pages 69 to 80 and page 95 only, the rest being pages of an unrelated article.",
+      "url": "http://pdf.prisonexp.org/ijcp1973.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Haney, C., Banks, C., & Zimbardo, P. (1973). A study of prisoners and guards in a simulated prison. Naval Research Reviews, September 1973 reprint. Read in full from a scan of the reprint archived from zimbardo.com; the source for the five early releases and the six-day ending.",
+      "url": "https://web.archive.org/web/2019/https://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Le Texier, T. (2019). Debunking the Stanford Prison Experiment. American Psychologist, 74(7), 823-839. Read in full; the source for every archival document described above.",
+      "doi": "10.1037/amp0000401",
+      "url": "https://gwern.net/doc/psychology/2019-letexier.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "Reicher, S., & Haslam, S. A. (2006). Rethinking the psychology of tyranny: The BBC prison study. British Journal of Social Psychology, 45(1), 1-40. Read in full from the copy hosted at bbcprisonstudy.org.",
+      "doi": "10.1348/014466605X48998",
+      "url": "http://www.bbcprisonstudy.org/pdfs/bjsp(2006)tyrannny.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Haslam, S. A., Reicher, S. D., & Van Bavel, J. J. (2019). Rethinking the nature of cruelty: The role of identity leadership in the Stanford Prison Experiment. American Psychologist, 74(7), 809-822. Accepted manuscript read in full from the St Andrews repository.",
+      "doi": "10.1037/amp0000443",
+      "url": "https://research-repository.st-andrews.ac.uk/bitstream/10023/18565/1/Haslam_American_Psychologist_Cruelty_2019_AAM.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "Zimbardo, P. G., & Haney, C. (2020). Continuing to acknowledge the power of dehumanizing environments: Comment on Haslam et al. (2019) and Le Texier (2019). American Psychologist, 75(3), 400-402. Closed access; only the published abstract was read.",
+      "doi": "10.1037/amp0000593",
+      "url": "https://doi.org/10.1037/amp0000593",
+      "type": "commentary"
+    },
+    {
+      "text": "Zimbardo, P. G. Philip Zimbardo's response to recent criticisms of the Stanford Prison Experiment. Official SPE website. Read in full; the source for both quotations attributed to him above.",
+      "url": "https://www.prisonexp.org/response",
+      "type": "commentary"
+    },
+    {
+      "text": "Carnahan, T., & McFarland, S. (2007). Revisiting the Stanford Prison Experiment: Could participant self-selection have led to the cruelty? Personality and Social Psychology Bulletin, 33(5), 603-614. Read from the published abstract.",
+      "doi": "10.1177/0146167206292689",
+      "url": "https://doi.org/10.1177/0146167206292689",
+      "type": "replication"
+    },
+    {
+      "text": "Lovibond, S. H., Mithiran, & Adams, W. G. (1979). The effects of three experimental prison environments on the behaviour of non-convict volunteer subjects. Australian Psychologist, 14(3), 273-287. Not obtained; the Crossref record was verified and the description above is Le Texier's.",
+      "doi": "10.1080/00050067908254355",
+      "url": "https://doi.org/10.1080/00050067908254355",
+      "type": "replication"
+    },
+    {
+      "text": "Bartels, J. M. (2015). The Stanford prison experiment in introductory psychology textbooks: A content analysis. Psychology Learning & Teaching, 14(1), 36-50. Read from the published abstract.",
+      "doi": "10.1177/1475725714568007",
+      "url": "https://doi.org/10.1177/1475725714568007",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

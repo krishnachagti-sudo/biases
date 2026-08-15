@@ -1,0 +1,115 @@
+{
+  "no": 383,
+  "slug": "deliberate-practice",
+  "name": "Deliberate practice",
+  "aliases": [
+    "The 10,000-hour rule",
+    "Deliberate-practice view",
+    "Deliberate practice theory"
+  ],
+  "category": "belief",
+  "statement": "Expert performance is mostly the product of accumulated hours of deliberate practice, and differences in innate ability count for little.",
+  "meaning": "Ericsson, Krampe and Tesch-Römer defined deliberate practice narrowly. It is effortful, individualised training designed by a teacher to improve a specific weakness, with a clear goal and immediate feedback, and it is not the same as playing, competing or working. Their framework makes two claims that need separate evidence. The weaker one is that reaching an expert level requires years of such practice. The stronger one is that how much of it a person has done explains why one expert is better than another, so that talent is not needed as an explanation. Their 1993 abstract puts it as \"many characteristics once believed to reflect innate talent are actually the result of intense practice extended for a minimum of 10 years\". The fight since has been about the second claim, and it turns on measurement: what counts as deliberate practice, and how accurately anyone can report hours logged twenty years ago.",
+  "origin": {
+    "year": 1993,
+    "who": "K. Anders Ericsson, Ralf Th. Krampe and Clemens Tesch-Römer",
+    "where": "Psychological Review",
+    "note": "\"The Role of Deliberate Practice in the Acquisition of Expert Performance\" reported two interview studies of German musicians and set out the framework. The figure everyone quotes is not in it. The paper's headline number is 7,410 hours by age 18, and the 10,000-hour rule is Gladwell's formulation from Outliers in 2008."
+  },
+  "evidence": "Study 1 took 30 violin students at the Music Academy of West Berlin, in three groups of 10: faculty-nominated \"best\" students with soloist potential, \"good\" students matched to them by sex and age, and a less accomplished group headed for teaching careers. Ten middle-aged professional violinists were interviewed as well. Students estimated their weekly practice alone for every year since starting, and those estimates were summed. By age 18 the best had accumulated 7,410 hours, the good 5,301 and the future music teachers 3,420. The professionals' 7,336 hours did not differ reliably from the best students. Study 2 compared 12 expert pianists from a Berlin academy with 12 amateurs of the same mean age, 24.3 years. By age 18 the experts had accumulated 7,606 hours against the amateurs' 1,606, F(1, 22) = 26.29, p < .001. From this the authors concluded on page 392 that \"individual differences in ultimate performance can largely be accounted for by differential amounts of past and current levels of practice\", and that their framework gives \"a sufficient account of the major facts about the nature and scarcity of exceptional performance\".",
+  "replication": {
+    "state": "mixed",
+    "headline": "A double-blind repeat of the violinist study did not reproduce its ordering, and the share of variance that hours of practice explain is put at 12% by one research group and 29% by the other, from the same underlying studies.",
+    "detail": "Macnamara, Hambrick and Oswald pooled 88 studies, 111 independent samples, 157 effect sizes and 11,135 participants. The average correlation was r = .35, 95% CI [.30, .39], which is 12% of the variance explained, 95% CI [9%, 15%], with heterogeneity of I2 = 84.90. By domain: 26% for games (r = .51), 21% for music (r = .46), 18% for sports (r = .42), 4% for education (r = .21) and under 1% for professions (r = .05, p = .62). How practice was measured mattered as much as the domain. Retrospective interviews of the 1993 kind gave 20% (r = .45), retrospective questionnaires 12% (r = .34), and contemporaneous logs 5% (r = .22). Their sports meta-analysis of 34 studies, 52 samples, 63 effect sizes and 2,765 participants put the overall figure at 18%, 95% CI [12%, 25%], and at 1% among elite athletes (r = .11, p = .50, from 6 effect sizes and 228 participants). Hambrick and five colleagues, reanalysing chess and music studies with a correction for measurement error, got 34% of the reliable variance for chess and about 30% for music. Ericsson's reply is that these pooled the wrong studies. With Harwell he applied three inclusion criteria to the 2014 effect sizes, keeping 14 of them (games 5, music 3, sports 5, education 1, professions 0), and got r = 0.54, 95% CI [0.44, 0.63], about 29% of the variance, rising to 61% after correcting for assumed reliabilities of 0.6 for practice estimates and 0.8 for performance. The one direct repeat of the 1993 design is Macnamara and Maitra's, with 39 violinists at the Cleveland Institute of Music, 13 per group, run double blind. Group predicted accumulated practice alone to age 18, χ2(2) = 13.90, p = 0.001, eta2 = 0.26, 95% CI [0.03, 0.44], but the ordering broke where the theory needs it: the best violinists averaged 8,224 hours and the good violinists 9,844, a difference in the wrong direction and not significant. Only the least accomplished group, at 4,558 hours, was reliably below the rest, t(16.57) = 3.26, p = 0.005, d = 1.33. Substituting teacher-designed practice for practice alone changed nothing, eta2 = 0.23, 95% CI [0.02, 0.41].",
+    "study": {
+      "cite": "Macnamara, B. N., & Maitra, M. (2019). The role of deliberate practice in expert performance: revisiting Ericsson, Krampe & Tesch-Römer (1993). Royal Society Open Science, 6(8), 190327.",
+      "doi": "10.1098/rsos.190327",
+      "year": 2019,
+      "n": 39
+    },
+    "replicated": {
+      "es": 0.26,
+      "esType": "eta2",
+      "ci": [0.03, 0.44],
+      "ciLevel": 95,
+      "weighting": "effect of skill group on accumulated practice alone to age 18, three groups of 13"
+    }
+  },
+  "limits": "The 1993 studies are correlational, and both sides agree on that. Nobody has randomly assigned children to 7,000 hours of violin. The measure is also a memory: adults reconstructing weekly hours from childhood, which is why the log studies in the 2014 meta-analysis give a fifth of the variance the interview studies give. Ericsson's objection deserves its weight, because it is about what was pooled rather than about arithmetic. He and Harwell argue that the meta-analyses counted lecture attendance, group training, competition and unsupervised study as deliberate practice, and that a study qualified for inclusion partly by citing one of his papers. On their reading the pooled figure answers a question about practice in general, not about the activity his theory names, and they call the broader construct structured practice. Macnamara, Hambrick and Moreau reply that Ericsson has himself cited several of the studies he now rejects. Their disagreement cannot be settled by adding data, since it is about which data belong. The 61% figure also rests on reliability values Ericsson and Harwell assume rather than measure. Where practice was assigned no causal role, the counter-evidence is thin in a different way: Mosing and colleagues, in 10,500 Swedish twins, found music practice 40% to 70% heritable and no ability difference within monozygotic pairs discordant for practice, a result read from the abstract deposited at Crossref rather than the full paper. Nothing here is a multi-site preregistered replication of the 1993 protocol. Searching for further direct repeats covered Crossref, Europe PMC and general web search.",
+  "misreadings": "The 10,000-hour rule is not a finding, and the number is not Ericsson's. Gladwell coined it in Outliers in 2008, citing the 1993 paper and calling ten thousand hours \"the magic number for true expertise\". Ericsson and Harwell state in print that the popular rule counted activities their criteria exclude, and that the paper's own figure for the best violinists was 7,410 hours by age 18. Macnamara and Maitra's violinists passed 10,000 hours by age 20 in both of the top two groups, which is the opposite of a threshold that sorts them. The second error is arithmetic. Variance explained is the square of the correlation, so the 18% reported for sports is r = .42, and quoting 18% as a correlation understates a real association by a wide margin. The third error is the inference people draw. A finding that practice explains less than claimed is not a finding that practice is optional, and the 2014 meta-analysis says in its own words that deliberate practice is important but not as important as has been argued. Southwick and four colleagues tracked 44,213 Chess.com players and found that deliberate-practice-aligned activities carried a 3.61 times advantage in rating gained per hour over playing games, even though games took more than 90% of player time. That is a claim about which hours pay, not about how many are needed.",
+  "sources": [
+    {
+      "text": "Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363-406. Read from the copy at https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf",
+      "doi": "10.1037/0033-295X.100.3.363",
+      "url": "https://doi.org/10.1037/0033-295X.100.3.363",
+      "type": "primary"
+    },
+    {
+      "text": "Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. Psychological Science, 25(8), 1608-1618.",
+      "doi": "10.1177/0956797614535810",
+      "url": "https://doi.org/10.1177/0956797614535810",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Macnamara, B. N., Moreau, D., & Hambrick, D. Z. (2016). The relationship between deliberate practice and performance in sports: A meta-analysis. Perspectives on Psychological Science, 11(3), 333-350.",
+      "doi": "10.1177/1745691616635591",
+      "url": "https://doi.org/10.1177/1745691616635591",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Ericsson, K. A. (2016). Summing up hours of any type of practice versus identifying optimal practice activities: Commentary on Macnamara, Moreau, and Hambrick (2016). Perspectives on Psychological Science, 11(3), 351-354. Read from the abstract deposited at Crossref.",
+      "doi": "10.1177/1745691616635600",
+      "url": "https://doi.org/10.1177/1745691616635600",
+      "type": "critique"
+    },
+    {
+      "text": "Macnamara, B. N., Hambrick, D. Z., & Moreau, D. (2016). How important is deliberate practice? Reply to Ericsson (2016). Perspectives on Psychological Science, 11(3), 355-358.",
+      "doi": "10.1177/1745691616635614",
+      "url": "https://doi.org/10.1177/1745691616635614",
+      "type": "commentary"
+    },
+    {
+      "text": "Ericsson, K. A., & Harwell, K. W. (2019). Deliberate practice and proposed limits on the effects of practice on the acquisition of expert performance: Why the original definition matters and recommendations for future research. Frontiers in Psychology, 10, 2396.",
+      "doi": "10.3389/fpsyg.2019.02396",
+      "url": "https://doi.org/10.3389/fpsyg.2019.02396",
+      "type": "critique"
+    },
+    {
+      "text": "Hambrick, D. Z., Oswald, F. L., Altmann, E. M., Meinz, E. J., Gobet, F., & Campitelli, G. (2014). Deliberate practice: Is that all it takes to become an expert? Intelligence, 45, 34-45.",
+      "doi": "10.1016/j.intell.2013.04.001",
+      "url": "https://doi.org/10.1016/j.intell.2013.04.001",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Macnamara, B. N., & Maitra, M. (2019). The role of deliberate practice in expert performance: revisiting Ericsson, Krampe & Tesch-Römer (1993). Royal Society Open Science, 6(8), 190327.",
+      "doi": "10.1098/rsos.190327",
+      "url": "https://doi.org/10.1098/rsos.190327",
+      "type": "replication"
+    },
+    {
+      "text": "Ericsson, K. A. (2020). Given that the detailed original criteria for deliberate practice have not changed, could the understanding of this complex concept have improved over time? A response to Macnamara and Hambrick (2020). Psychological Research, 85(3), 1114-1120. Read from the abstract deposited at Crossref.",
+      "doi": "10.1007/s00426-020-01368-3",
+      "url": "https://doi.org/10.1007/s00426-020-01368-3",
+      "type": "commentary"
+    },
+    {
+      "text": "Hambrick, D. Z., Macnamara, B. N., & Oswald, F. L. (2020). Is the deliberate practice view defensible? A review of evidence and discussion of issues. Frontiers in Psychology, 11, 1134.",
+      "doi": "10.3389/fpsyg.2020.01134",
+      "url": "https://doi.org/10.3389/fpsyg.2020.01134",
+      "type": "review"
+    },
+    {
+      "text": "Mosing, M. A., Madison, G., Pedersen, N. L., Kuja-Halkola, R., & Ullén, F. (2014). Practice does not make perfect: No causal effect of music practice on music ability. Psychological Science, 25(9), 1795-1803. Read from the abstract deposited at Crossref.",
+      "doi": "10.1177/0956797614541990",
+      "url": "https://doi.org/10.1177/0956797614541990",
+      "type": "context"
+    },
+    {
+      "text": "Southwick, D. A., Harwell, K. W., Wright, G., Olsen, J. A., & Ogles, B. M. (2026). Not all practice is created equal: Longitudinal evidence from over 40,000 chess players. Psychological Science, 37(7), 514-523. Read from the abstract deposited at Crossref.",
+      "doi": "10.1177/09567976261452568",
+      "url": "https://doi.org/10.1177/09567976261452568",
+      "type": "extension"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

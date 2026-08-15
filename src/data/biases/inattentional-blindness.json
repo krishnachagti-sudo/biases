@@ -1,0 +1,105 @@
+{
+  "no": 380,
+  "slug": "inattentional-blindness",
+  "name": "Inattentional blindness",
+  "aliases": ["Perceptual blindness", "Sustained inattentional blindness", "The invisible gorilla"],
+  "category": "perception",
+  "statement": "People absorbed in an attention-demanding task often fail to notice an object in plain sight, and afterwards report no awareness that it was ever there.",
+  "meaning": "The claim is about one moment and one object. A participant is given a task that occupies attention, an unexpected object appears once, and afterwards they are asked whether they saw anything unusual. Someone who says no has been inattentionally blind. Three features define the paradigm. The object has to be unexpected, so each person supplies a single usable observation and cannot be tested twice on the same object. The object has to be visible, which is checked by showing it again afterwards or by running observers who know to look for it. And the failure is one of awareness rather than of the eyes, because people who miss the object often fixate it. Change blindness is a different phenomenon. There, two views of a scene differ and the viewer fails to spot the difference; the change is the thing being looked for. In inattentional blindness the object is simply present and is never registered at all. Simons and Chabris discuss both in the same paper, which is part of why the two get merged. The evidence below covers inattentional blindness only.",
+  "origin": {
+    "year": 1998,
+    "who": "Arien Mack and Irvin Rock",
+    "where": "Inattentional Blindness (The MIT Press)",
+    "note": "Mack and Rock name the effect in the book's first chapter, reprinted in PSYCHE in 1999: 'we labeled this phenomenon inattentional blindness (IB)'. Their task flashed a cross for 200 ms and asked which arm was longer, with a small critical stimulus appearing within about 2 degrees of fixation. Across experiments on colour, location, numerosity, motion and shape, roughly 25% of observers denied seeing that stimulus, and when pressed to pick it from an array they performed at chance. The chapter records that the rate was often much higher than 25%, and that the finding redirected the research towards the working hypothesis that there is no conscious perception without attention. The dynamic version of the phenomenon is older. Neisser and Becklen published selective-looking failures in Cognitive Psychology in 1975, and Simons credits that work as the empirical start of the line."
+  },
+  "evidence": "Simons and Chabris filmed the study everyone quotes. Six actors passed basketballs, three in white shirts and three in black, and after 44 to 48 seconds either a woman with an open umbrella or a woman in a gorilla suit walked through for 5 seconds. The design crossed four factors: umbrella woman against gorilla, transparent superimposed video against opaque single-shot video, counting all passes against counting bounce and aerial passes separately, and attending to the white team against the black team. That gives sixteen conditions. Of 228 observers, 36 were dropped, leaving 192, twelve per cell. Across all of them 54% noticed and 46% missed. Every factor moved the rate. Opaque video gave 67% noticing against 42% transparent, chi-square 12.084, p < 0.001. The easy count gave 64% against 45% for the hard count, chi-square 6.797, p < 0.009. The umbrella woman was noticed 65% of the time against 44% for the gorilla, chi-square 8.392, p < 0.004. Observers watching the black team spotted the gorilla 58% of the time; those watching the white team spotted it 27%, chi-square 9.579, p < 0.002. Cell by cell, noticing ran from 8% to 100%. The video that became famous is not in that table. It was an extra opaque recording in which the gorilla stopped, faced the camera, thumped its chest and walked on, 9 seconds on screen in a 62-second tape. Twelve new observers watched it under the easy count while attending to the white team, and 50% noticed. None of the 88 non-noticers in the main study recognised the event when asked about it directly, and some refused to believe it had happened until the tape was replayed. Drew, Võ and Wolfe moved the paradigm into a working clinical task. Twenty-four radiologists searched five chest CT stacks for lung nodules, with eye tracking. A gorilla more than 48 times the volume of the average nodule was faded into five slices of the final 239-slice stack. Twenty of the 24 failed to report it, and 12 of those 20 looked directly at its location, with a mean dwell of 547 ms. All 24 saw it when shown the image afterwards. Twenty-five naive observers ran the same task and none noticed, Fisher's exact p = 0.0497, while nodule detection was 55% for the radiologists against 12% for the novices. Williams and six colleagues repeated the design with an unexpected finding that mattered. Fifty radiologists screened for lung cancer and the last case carried a 9.1 cm breast mass and lymphadenopathy. Searching for nodules, 66% missed the breast cancer and 30% missed the lymphadenopathy. In a follow-up with 30 radiologists told to look for a broader range of abnormalities, 3% and 10% missed them. Simons and Schlosser took it outside the laboratory: 100 police academy trainees and 75 serving officers ran a simulated traffic stop, and 58% of trainees and 33% of officers failed to notice a gun in full view on the passenger dashboard.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Across the 14 samples and 1,153 participants Ekelund and colleagues pooled, 62% of novices and 56% of experts missed the unexpected object.",
+    "detail": "The phenomenon reappears wherever it is looked for, and the size of it is set by the task rather than by the person. Ekelund, Fernsund, Karlsson and Mac Giolla assembled 14 samples totalling 1,153 people to test whether expertise protects against inattentional blindness. It does not do much: the weighted average log odds was 0.29, 95% CI -0.25 to 0.82, p = .295, an odds ratio of 1.33, 95% CI 0.78 to 2.28, with a 95% prediction interval of 0.26 to 6.76. Egger's test gave p = .890. Trim-and-fill imputed one study and returned an odds ratio of 1.26, and a selection model returned 1.06. Heterogeneity was high, I-squared 67.25%, and domain relevance did not explain it, Q(1) = 0.88, p = 0.348. The structured effect-size fields on this entry are left empty because that odds ratio is the expert-novice contrast, not a measure of inattentional blindness, and the meta-analysis was built to test expertise rather than to estimate a base rate. The base rates come out of it as a by-product, which is what makes them useful: 62% and 56% are the pooled proportions who missed. The closest thing to a direct repeat of the gorilla study is Simons's own. He filmed a new video against a green screen in which a gorilla entered, thumped its chest and left after 6 seconds, and tested 76 people in a university entryway. Of the 41 analysed viewers who had never heard of the original, 23 noticed, or 56%, close to the 50% in the original chest-thumping condition. All 23 viewers who already knew about the gorilla video spotted it. Knowing did not help with anything else in the same scene: across both groups only 11% noticed the backdrop curtain change colour and 16% noticed a player leave. Among those who caught the gorilla, 17% of the familiar group and 35% of the unfamiliar group caught one of the other two events, a difference Simons reports as not statistically significant. That study had 23 and 41 people in its two groups, and its author was an author of the original.",
+    "study": {
+      "cite": "Ekelund, M., Fernsund, H., Karlsson, S., & Mac Giolla, E. (2022). Does expertise reduce rates of inattentional blindness? A meta-analysis. Perception, 51(2), 131-147.",
+      "doi": "10.1177/03010066211072466",
+      "year": 2022,
+      "sites": 14,
+      "n": 1153
+    }
+  },
+  "limits": "The measure is one binary answer per person, which caps what can be asked of it. Kreitz, Furley, Memmert and Simons ran static and dynamic tasks with the unexpected object either near or away from the focus of attention, and none of their cognitive measures predicted noticing in the dynamic central task or in either spatial task. Working memory capacity predicted noticing in the static central task, weakly. Whether a person noticed in a static task was only weakly associated with their odds of noticing in a dynamic one. Their reading is that noticing is driven more by processes common to everyone than by stable differences between people. Simons, Hults and Ding searched the literature for inattentional blindness reports carrying individual-difference measures, found 38 records meeting their criteria, extracted effect sizes from 31 of them covering 74 between-groups samples, and ran separate meta-analyses for each of 14 cognitive and 19 personality measures. The pooled result gave little evidence that either kind of measure predicts noticing, and a robustness analysis excluding samples with almost no noticers or missers agreed. Their own caveat is that most of the samples and totals were small. The registered report that followed tested 1,000 people on cognitive predictors and 1,000 on personality predictors, and its abstract reports weak and inconsistent prediction from some cognitive abilities and little or no prediction from personality. The rate itself is not a constant. Williams and colleagues moved it from 66% to 3% on the same images by widening what the radiologists were told to search for. Simons and Chabris moved it from 8% noticing to 100% noticing across their sixteen cells. Ekelund's prediction interval, 0.26 to 6.76, says the expertise question is not settled by their 14 studies either way. Nothing here establishes what happens to an object that goes unnoticed. Simons and Chabris list preserved implicit representation as an open question, and note that Mack and Rock report priming from undetected stimuli in the static task.",
+  "misreadings": "The commonest error is the sentence 'half of people miss the gorilla'. Half is one cell. The 50% figure comes from twelve observers watching the chest-thumping version under the easiest task while attending to the white team, and the full study's sixteen cells ran from 0% missing to 92% missing. The overall rate across 192 observers was 46%. Quoting any single percentage as the rate of inattentional blindness states a property of a video and a set of instructions as though it were a property of people. The second error is treating inattentional blindness and change blindness as one thing. They are different phenomena with different tasks, and every number on this page is from an unexpected-object study. The third is imagining that the missers were looking somewhere else. Twelve of the twenty radiologists who failed to report the gorilla in the CT scan fixated its location. The fourth is reading the effect as evidence that people are poor observers in general. Radiologists who were told to look for a wider range of abnormalities missed the breast mass 3% of the time rather than 66%, and every viewer who already knew about the gorilla video found the gorilla. What makes an object invisible is that nobody is looking for it. The fifth concerns what the demonstration proves about self-knowledge. Simons writes that 90% of people predict they would notice the gorilla, citing Levin and Angelone's visual metacognition questionnaire; that figure is quoted here from Simons rather than from the questionnaire paper, which was not obtained.",
+  "sources": [
+    {
+      "text": "Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception, 28(9), 1059-1074.",
+      "doi": "10.1068/p281059",
+      "url": "https://www.chabris.com/Simons1999.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Mack, A., & Rock, I. (1998). Inattentional Blindness. Cambridge, MA: MIT Press. Chapter one is reprinted as an overview in PSYCHE, 5(3), May 1999, and is the text quoted here.",
+      "doi": "10.7551/mitpress/3707.001.0001",
+      "url": "http://www.thatmarcusfamily.org/philosophy/Course_Websites/Contemporary/Readings/Mack_Rock.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Neisser, U., & Becklen, R. (1975). Selective looking: Attending to visually specified events. Cognitive Psychology, 7(4), 480-494.",
+      "doi": "10.1016/0010-0285(75)90019-5",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0010028575900195",
+      "type": "primary"
+    },
+    {
+      "text": "Ekelund, M., Fernsund, H., Karlsson, S., & Mac Giolla, E. (2022). Does expertise reduce rates of inattentional blindness? A meta-analysis. Perception, 51(2), 131-147.",
+      "doi": "10.1177/03010066211072466",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8813586/",
+      "type": "review"
+    },
+    {
+      "text": "Simons, D. J. (2010). Monkeying around with the gorillas in our midst: Familiarity with an inattentional-blindness task does not improve the detection of unexpected events. i-Perception, 1(1), 3-6.",
+      "doi": "10.1068/i0386",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3563049/fullTextXML",
+      "type": "replication"
+    },
+    {
+      "text": "Drew, T., Võ, M. L.-H., & Wolfe, J. M. (2013). The invisible gorilla strikes again: Sustained inattentional blindness in expert observers. Psychological Science, 24(9), 1848-1853.",
+      "doi": "10.1177/0956797613479386",
+      "url": "https://search.bwh.harvard.edu/new/pubs/DrewVoWolfe13.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Williams, L., Carrigan, A., Auffermann, W., Mills, M., Rich, A., Elmore, J., & Drew, T. (2021). The invisible breast cancer: Experience does not protect against inattentional blindness to clinically relevant findings in radiology. Psychonomic Bulletin & Review, 28(2), 503-511. Described here from the abstract at PubMed; the full text was not obtained.",
+      "doi": "10.3758/s13423-020-01826-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33140228/",
+      "type": "replication"
+    },
+    {
+      "text": "Simons, D. J., & Schlosser, M. D. (2017). Inattentional blindness for a gun during a simulated police vehicle stop. Cognitive Research: Principles and Implications, 2, 37.",
+      "doi": "10.1186/s41235-017-0074-3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5605606/",
+      "type": "replication"
+    },
+    {
+      "text": "Kreitz, C., Furley, P., Memmert, D., & Simons, D. J. (2015). Inattentional blindness and individual differences in cognitive abilities. PLOS ONE, 10(8), e0134675. Described here from the abstract.",
+      "doi": "10.1371/journal.pone.0134675",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134675",
+      "type": "critique"
+    },
+    {
+      "text": "Simons, D. J., Hults, C. M., & Ding, Y. (2024). Individual differences in inattentional blindness. Psychonomic Bulletin & Review, 31(4), 1471-1502. Described here from the abstract at PubMed; the full text was not obtained.",
+      "doi": "10.3758/s13423-023-02431-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38182856/",
+      "type": "review"
+    },
+    {
+      "text": "Simons, D. J., Ding, Y., Hults, C. M., & Roberts, B. W. (2026). Do individual differences in cognitive ability or personality predict noticing in inattentional blindness tasks? Royal Society Open Science, 13(6), 260708. Described here from the abstract deposited at Crossref; the full text returned HTTP 403 and was not obtained.",
+      "doi": "10.1098/rsos.260708",
+      "url": "https://doi.org/10.1098/rsos.260708",
+      "type": "replication"
+    },
+    {
+      "text": "Most, S. B., Scholl, B. J., Clifford, E. R., & Simons, D. J. (2005). What you see is what you set: Sustained inattentional blindness and the capture of awareness. Psychological Review, 112(1), 217-242. Cited for the claim that a person's own attentional goals are the most influential factor affecting noticing; described here from the abstract.",
+      "doi": "10.1037/0033-295X.112.1.217",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15631594/",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

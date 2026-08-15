@@ -1,0 +1,81 @@
+{
+  "no": 381,
+  "slug": "grit",
+  "name": "Grit",
+  "aliases": ["Grit Scale", "Perseverance and passion for long-term goals"],
+  "category": "social",
+  "statement": "Perseverance and passion for long-term goals is held to predict achievement over and above talent and over and above established personality measures such as conscientiousness.",
+  "meaning": "Grit is defined as perseverance and passion for long-term goals, and is measured by a self-report questionnaire with two subscales: perseverance of effort and consistency of interest. The interesting part of the claim is not that persistent people do better, which nobody disputes. It is the incremental part. Grit is offered as a trait that adds predictive power on top of intelligence and on top of the Big Five, so that knowing someone's grit score tells you something a conscientiousness score does not. That is a claim about a new construct rather than about a new label, and it is the part the critical literature attacks.",
+  "origin": {
+    "year": 2007,
+    "who": "Angela L. Duckworth, Christopher Peterson, Michael D. Matthews and Dennis R. Kelly",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Six studies introducing the Grit Scale. Their abstract states the claim in full: grit \"did not relate positively to IQ but was highly correlated with Big Five Conscientiousness\", and \"nonetheless demonstrated incremental predictive validity of success measures over and beyond IQ and conscientiousness\"."
+  },
+  "evidence": "The 2007 paper reports that grit accounted for an average of 4% of the variance in success outcomes. Its samples were two of adults, of 1,545 and 690, and Ivy League undergraduates given as 138 in the abstract and 139 in the method section. It also covered two West Point classes of 1,218 and 1,308 cadets, and 175 finalists in the National Spelling Bee. The overlap with existing measures was visible from the start and reported plainly. In the 690-adult sample, grit correlated with Big Five Conscientiousness at r = .77, far above its correlations with neuroticism at -.38, agreeableness at .24, extraversion at .22 and openness at .14. Among the undergraduates, grit correlated with grade point average at r = .25, rising to .34 with SAT scores held constant, against an SAT to grade point average correlation of .30.",
+  "replication": {
+    "state": "failed",
+    "headline": "Grit predicts performance modestly and reliably, and adds almost nothing once conscientiousness is in the model, which is the claim that was being made.",
+    "detail": "Credé, Tynan and Harms pooled 584 effect sizes from 88 independent samples covering 66,807 people. Grit correlated with conscientiousness at an observed r of .66 across 22 samples and 18,826 people, and at a true-score value of ρ = .84 after correction for unreliability. Credé and colleagues set that against ρ = .63, which Pace and Brannick report between two different global measures of conscientiousness, and conclude that grit \"is simply a repackaging of conscientiousness or one of the facets of conscientiousness\". Prediction was modest. Overall grit correlated with academic performance at an observed .15 and a true-score .18 across 39 samples and 13,141 people, and with cognitive ability at an observed .04. The decisive analysis is hierarchical regression on the meta-analytic correlation matrix, reported in increments the paper labels ΔR. Entering overall grit after conscientiousness gave .000 for overall academic performance, .002 for high school grade point average and .004 for college grade point average. Reversing the order gave conscientiousness .180, .160 and .170. The two facets come apart. Perseverance of effort predicted academic performance at a true-score .26 and consistency of interest at .10, and entering perseverance after conscientiousness gave increments of .040, .085 and .023. The facets themselves correlate at an observed .44 and a true-score .60 across 17 samples and 22,048 people, which is weak support for treating them as one higher-order trait. Later work agrees. Lam and Zhou pooled 137 studies and 156 dependent samples covering 285,331 people. Their weighted correlations with academic achievement were .19 for overall grit, .21 for perseverance of effort and .08 for consistency of interest, with no moderation by individualism-collectivism. Morell and colleagues tested the structure directly in 1,250 US high school students, 600 US college students and 500 Korean college students. They found varying factor structures for the Short Grit Scale, and concluded that \"there is no evidence that a consistent grit factor or factors exist across age and culture\". Duckworth conceded the structural point in print. Writing with Quinn and Tsukayama in 2021, she accepted that the proposed two-factor hierarchical model \"cannot be distinguished from a model with two correlated subfactors and no higher-order factor\". She acknowledged \"the mathematical equivalence of these specifications and our error in interpretation\".",
+    "study": {
+      "cite": "Credé, M., Tynan, M. C., & Harms, P. D. (2017). Much ado about grit: A meta-analytic synthesis of the grit literature. Journal of Personality and Social Psychology, 113(3), 492-511.",
+      "doi": "10.1037/pspp0000102",
+      "year": 2017,
+      "n": 66807
+    },
+    "original": { "es": 0.77, "esType": "r" },
+    "replicated": { "es": 0.66, "esType": "r", "weighting": "sample-size weighted mean observed correlation" }
+  },
+  "limits": "The structured figures above are both observed correlations, and they are not the numbers usually quoted. Duckworth's .77 comes from one sample of 690 adults. Credé's .66 is a sample-size weighted mean across 22 samples, and the widely repeated .84 is the same relationship after correction for unreliability in both measures. The two quantities answer different questions and only the corrected one supports the strong reading that grit and conscientiousness are near-identical. Credé's own paper is not internally consistent here: Table 4 gives the perseverance to conscientiousness true-score correlation as .83, and the discussion gives .89. The confidence intervals are not printed in the correlation tables, and the notes to Tables 3 and 4 say so, directing readers to request them from the first author. What the tables carry instead are 80% credibility intervals, which describe the spread of true-score correlations across studies rather than the precision of an estimate. The incremental figures are labelled ΔR rather than ΔR squared, and are described as adjusted values based on the harmonic mean of sample sizes, which ranged from 5,540 to 18,774. None of this is a multi-laboratory preregistered replication of Duckworth's original protocol, and this entry located none. What has been repeated is the pooling of the correlational literature, twice, at scale. Whether grit responds to intervention is a separate question the meta-analysis did not test, and Credé's 2018 review reports no support for the claim that it does.",
+  "misreadings": "The finding is not that grit predicts nothing. Two meta-analyses put its correlation with academic achievement near .18 to .19, which is a real if unremarkable relationship. Duckworth told NPR Ed that she does not disagree with that characterisation, placing her own estimates in what personality psychologists would call the \"small-to-medium\" range. She has also said she would prefer to think of grit as \"a member of the conscientiousness family\", while maintaining that it has independent predictive power. Treating the two subscales as interchangeable is the second error. Perseverance of effort carries almost all of the prediction and retains a small increment over conscientiousness. Consistency of interest is the passion half, and the part that made grit distinctive, and it adds essentially nothing. Its regression coefficients for two of the three criteria are negative. The third error is reading a disattenuated correlation as an observed one. A true-score ρ of .84 is not what a researcher would see between two questionnaires, and the observed figure is .66.",
+  "sources": [
+    {
+      "text": "Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007). Grit: Perseverance and passion for long-term goals. Journal of Personality and Social Psychology, 92(6), 1087-1101.",
+      "doi": "10.1037/0022-3514.92.6.1087",
+      "url": "https://doi.org/10.1037/0022-3514.92.6.1087",
+      "type": "primary"
+    },
+    {
+      "text": "Credé, M., Tynan, M. C., & Harms, P. D. (2017). Much ado about grit: A meta-analytic synthesis of the grit literature. Journal of Personality and Social Psychology, 113(3), 492-511.",
+      "doi": "10.1037/pspp0000102",
+      "url": "https://doi.org/10.1037/pspp0000102",
+      "type": "replication"
+    },
+    {
+      "text": "Lam, K. K. L., & Zhou, M. (2022). Grit and academic achievement: A comparative cross-cultural meta-analysis. Journal of Educational Psychology, 114(3), 597-621.",
+      "doi": "10.1037/edu0000699",
+      "url": "https://doi.org/10.1037/edu0000699",
+      "type": "replication"
+    },
+    {
+      "text": "Morell, M., Yang, J. S., Gladstone, J. R., Turci Faust, L., Ponnock, A. R., Lim, H. J., & Wigfield, A. (2021). Grit: The long and short of it. Journal of Educational Psychology, 113(5), 1038-1058.",
+      "doi": "10.1037/edu0000594",
+      "url": "https://doi.org/10.1037/edu0000594",
+      "type": "replication"
+    },
+    {
+      "text": "Ponnock, A., Muenks, K., Morell, M., Yang, J. S., Gladstone, J. R., & Wigfield, A. (2020). Grit and conscientiousness: Another jangle fallacy. Journal of Research in Personality, 89, 104021.",
+      "doi": "10.1016/j.jrp.2020.104021",
+      "url": "https://doi.org/10.1016/j.jrp.2020.104021",
+      "type": "replication"
+    },
+    {
+      "text": "Duckworth, A. L., Quinn, P. D., & Tsukayama, E. (2021). Revisiting the factor structure of grit: A commentary on Duckworth and Quinn (2009). Journal of Personality Assessment, 103(5), 573-575.",
+      "doi": "10.1080/00223891.2021.1942022",
+      "url": "https://doi.org/10.1080/00223891.2021.1942022",
+      "type": "commentary"
+    },
+    {
+      "text": "Credé, M. (2018). What shall we do about grit? A critical review of what we know and what we don't know. Educational Researcher, 47(9), 606-611.",
+      "doi": "10.3102/0013189X18801322",
+      "url": "https://doi.org/10.3102/0013189X18801322",
+      "type": "commentary"
+    },
+    {
+      "text": "Kamenetz, A. (2016, 25 May). MacArthur 'genius' Angela Duckworth responds to a new critique of grit. NPR Ed. Duckworth's quoted replies to the Credé meta-analysis, given by email.",
+      "url": "https://www.npr.org/sections/ed/2016/05/25/479172868/angela-duckworth-responds-to-a-new-critique-of-grit",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

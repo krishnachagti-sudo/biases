@@ -1,0 +1,132 @@
+{
+  "no": 386,
+  "slug": "analytic-atheism",
+  "name": "Analytic atheism",
+  "aliases": [
+    "Analytic thinking and religious disbelief",
+    "The Thinker priming effect"
+  ],
+  "category": "belief",
+  "statement": "People who score higher on reflective reasoning tests report weaker religious belief, and four 2012 experiments reported that priming analytic thought lowered it too.",
+  "meaning": "Two claims travel under one name and their evidence is not the same. The correlational claim is that people who override intuitive answers on reasoning problems report lower religious belief. It concerns individual differences and needs no experiment. The causal claim is that pushing someone into analytic mode, briefly and without their noticing, lowers what they then report believing. Gervais and Norenzayan tested the first with a questionnaire and the second with four experiments, in one paper, and the two halves have had opposite fortunes since. The 2012 report speaks of religious disbelief rather than atheism. The shorter term belongs to later work, including the authors' own 2018 reply, titled 'Analytic atheism revisited'.",
+  "origin": {
+    "year": 2012,
+    "who": "Will M. Gervais and Ara Norenzayan",
+    "where": "Science",
+    "note": "Five studies in a four-page report. Study 1 correlated a three-problem reasoning task against three belief scales in Canadian undergraduates. Studies 2 to 5 manipulated analytic thinking three ways: viewing Rodin's The Thinker, unscrambling sentences seeded with words such as 'reason' and 'ponder', and printing the belief questionnaire in a hard-to-read font."
+  },
+  "evidence": "Study 1 sampled 179 Canadian undergraduates. The reasoning task correlated negatively with all three belief measures: intrinsic religiosity r = -0.22, P = 0.003; intuitive religious belief r = -0.15, P = 0.04; belief in supernatural agents r = -0.18, P = 0.02. The four experiments are summarised in the paper's Table 2. Study 2 showed 26 people four images of Rodin's The Thinker and 31 people the Discobolus of Myron, then asked belief in God on a 0 to 100 scale. Means were 41.42 and 61.55, t(55) = 2.24, P = 0.03, d = 0.59. Study 3 gave 50 undergraduates scrambled sentences carrying the words think, reason, analyze, ponder and rational, against 43 controls, t(91) = 2.11, P = 0.04, d = 0.44. Study 4 ran that prime on American adults recruited online and measured intrinsic religiosity, t(143) = 2.20, P = 0.03, d = 0.36. Study 5 printed the questionnaire in a hard-to-read font, t(177) = 2.06, P = 0.04, d = 0.31. All four P values in Table 2 fall between 0.03 and 0.04. Francis, Tanzman and Matthews later applied a test for excess significance to Science psychology articles reporting four or more studies, flagged 15 of 18, and put this paper at 0.051 against their stated criterion of 0.1. Simonsohn argues that the test cannot be read at the level of one article.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The Thinker priming failed at high power and the original authors withdrew confidence in it. The correlation the paper opened with survived a meta-analysis of 15,078 people.",
+    "detail": "Two preregistered projects took Study 2. The Social Sciences Replication Project ran it in two stages, powered to find 75% of the original effect at stage 1 and 50% in the pooled sample. Stage 1 returned r = -0.055, P = 0.416, N = 224. The pooled sample returned r = -0.035, P = 0.415, N = 531, against an original of r = 0.289, P = 0.029, N = 57. Its supplementary tables score both stages as not replicated and put the pooled estimate at -0.123 of the original. Before the data came in, that project's prediction market priced the chance of replication at 0.21 and its survey of researchers at 0.29. Sanchez, Sundermeier, Gray and Calin-Jageman ran the larger test, collecting at a community college, a Catholic university, a Lutheran university and Mechanical Turk, with materials reviewed by Gervais beforehand. Their abstract gives d = 0.07 in the wrong direction, 95% CI -0.12 to 0.25, N = 941, against an original of d = -0.59, 95% CI -1.12 to -0.06. Three sites landed near zero and the Lutheran sample ran the other way, d = 0.38, 95% CI 0.07 to 0.70. A positive control administered to the same people, the retrospective gambler's fallacy, came out at d = 0.35, 95% CI 0.23 to 0.48, so the protocol could detect an effect of that size. Gervais and Norenzayan answered in Nature Human Behaviour that they 'no longer have confidence in the finding that viewing pictures of The Thinker reduces self-reported religious belief', and called the replication record of the other experimental procedures 'shaky at best'. The correlational half fared differently. Pennycook, Ross, Koehler and Fugelsang pooled 31 studies covering 15,078 people and found r = -.18, 95% CI -.21 to -.16.",
+    "study": {
+      "cite": "Sanchez, C., Sundermeier, B., Gray, K., & Calin-Jageman, R. J. (2017). Direct replication of Gervais & Norenzayan (2012): No evidence that analytic thinking decreases religious belief. PLOS ONE, 12(2), e0172636.",
+      "doi": "10.1371/journal.pone.0172636",
+      "year": 2017,
+      "sites": 4,
+      "n": 941
+    },
+    "original": {
+      "es": -0.59,
+      "esType": "d",
+      "ci": [-1.12, -0.06],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.07,
+      "esType": "d",
+      "ci": [-0.12, 0.25],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The structured pair above covers Study 2 alone, because that is the experiment both replication projects took and the only one with a matched original and replication estimate in the same metric. Sign conventions differ between the papers: Gervais and Norenzayan print d = 0.59 in Table 2 and 0.60 in the running text, direction stated in words, while Sanchez and colleagues print the same result as -0.59 with an interval. Sanchez and colleagues report their pooled sample as N = 941 in the abstract, list 473 and 479 in the two conditions in Table 2, and give the omnibus test as F(1,944), so the figures in that paper are not all mutually consistent; the field above carries the abstract's number. The original has its own arithmetic problems. Its text gives Study 4 as 71 analytic and 77 control while Table 2 gives 70 and 75, and its text gives Study 5 as 91 and 91 while Table 2 gives 91 and 88. In both cases only the table agrees with the reported degrees of freedom.\n\nWhether the manipulations moved analytic thinking at all is a separate question, and the figures on it here are quoted from Sanchez and colleagues rather than from the papers they describe. They report that Deppe and colleagues found The Thinker changed Cognitive Reflection Test scores by d = -0.04, 95% CI -0.29 to 0.21, N = 247, and the verbal fluency prime by d = 0.03, 95% CI -0.11 to 0.16, N = 846, and that Meyer and colleagues found the disfluent font gave d = -0.01, 95% CI -0.06 to 0.04, N = 7,367. Against those, the pilot tests in the original's supplement gave d = 0.86 and d = 1.04 on samples of 40. None of those numbers were read off their own papers.\n\nThe correlation is small and does not appear everywhere. Gervais and colleagues fitted a Bayesian hierarchical model to 3,461 people in 13 countries and put the overall unstandardised slope of belief on Cognitive Reflection Test score at -1.89, 95% highest posterior density interval -4.00 to 0.22, standardised -.05. Their text reports unequivocal evidence in Australia, Singapore and the United States, near-equivocal evidence in New Zealand, the Netherlands and the Czech Republic, and moderate evidence of a sign reversal in the United Kingdom, where the slope was 2.55, interval -1.64 to 6.86. Per-country posterior probabilities are plotted in their Figure 1 and are not quoted here, because the figure's labels and values could not be aligned reliably in the extracted text.\n\nSearching covered Crossref, the published texts of the two replications, the Social Sciences Replication Project's supplementary information, and the reference lists of the 2017 and 2018 papers. Several items were not read in full. Yilmaz, Karadöller and Sofuoglu, named by Gervais and colleagues as the one known successful replication of the early experimental work, and Yonker, Edman, Cresswell and Barrett, cited by both later papers as finding little to no effect, were verified as records at Crossref only. Ghasemi and colleagues' 19-country study was read as its Crossref abstract. The Social Sciences Replication Project's main text is paywalled and every figure attributed to it here comes from its supplementary information PDF.",
+  "misreadings": "The commonest error is treating the work as evidence about religion rather than about people answering questionnaires. The authors closed the paper by cautioning that 'the present studies are silent on long-standing debates about the intrinsic value or rationality of religious beliefs', and the abstract says the findings 'do not speak directly to conversations about the inherent rationality, value, or truth of religious beliefs'. What the experiments measured was self-reported belief, minutes after a manipulation, in undergraduates and online panels. The second error lets The Thinker stand for the paper. That was Study 2, the smallest experiment, with 57 people; three further experiments used two other manipulations, and the failure of the picture prime is not by itself the failure of those. The third is reading the correlation as large. Pennycook and colleagues' pooled estimate is r = -.18 across 15,078 people, and their own summary of it is that atheists and agnostics are more reflective than believers, not that reflective people are atheists. The fourth is treating correlation and experiment as one finding because they arrived in one paper. Gervais and Norenzayan themselves split them in 2018, withdrawing the picture result while pointing to high-powered replications of the correlation. Later work keeps that split. Ghasemi and colleagues tested 7,771 students across 19 countries with a preregistered plan, found the negative link between reflective thinking and belief in God, and found no evidence that taking the reasoning test first reduced reported belief.",
+  "sources": [
+    {
+      "text": "Gervais, W. M., & Norenzayan, A. (2012). Analytic Thinking Promotes Religious Disbelief. Science, 336(6080), 493-496. Full text and Table 2 read from the author's PDF at the University of British Columbia.",
+      "doi": "10.1126/science.1215647",
+      "url": "https://doi.org/10.1126/science.1215647",
+      "type": "primary"
+    },
+    {
+      "text": "Sanchez, C., Sundermeier, B., Gray, K., & Calin-Jageman, R. J. (2017). Direct replication of Gervais & Norenzayan (2012): No evidence that analytic thinking decreases religious belief. PLOS ONE, 12(2), e0172636. Read as the publisher's manuscript XML.",
+      "doi": "10.1371/journal.pone.0172636",
+      "url": "https://doi.org/10.1371/journal.pone.0172636",
+      "type": "replication"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Figures read from Supplementary Tables 1, 3, 4 and 5 of the supplementary information PDF; the main text is paywalled.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Gervais, W. M., & Norenzayan, A. (2018). Analytic atheism revisited. Nature Human Behaviour, 2(9), 609. The original authors' reply, read from the author's PDF at the University of British Columbia.",
+      "doi": "10.1038/s41562-018-0426-0",
+      "url": "https://doi.org/10.1038/s41562-018-0426-0",
+      "type": "secondary"
+    },
+    {
+      "text": "Pennycook, G., Ross, R. M., Koehler, D. J., & Fugelsang, J. A. (2016). Atheists and Agnostics Are More Reflective than Religious Believers: Four Empirical Studies and a Meta-Analysis. PLOS ONE, 11(4), e0153039. Read as the publisher's manuscript XML.",
+      "doi": "10.1371/journal.pone.0153039",
+      "url": "https://doi.org/10.1371/journal.pone.0153039",
+      "type": "replication"
+    },
+    {
+      "text": "Gervais, W. M., van Elk, M., Xygalatas, D., et al. (2018). Analytic atheism: A cross-culturally weak and fickle phenomenon? Judgment and Decision Making, 13(3), 268-274. Read as the full-text PDF.",
+      "doi": "10.1017/S1930297500007701",
+      "url": "https://doi.org/10.1017/S1930297500007701",
+      "type": "replication"
+    },
+    {
+      "text": "Ghasemi, O., Yilmaz, O., Isler, O., Terry, S., & Ross, R. M. (2025). Reflective thinking predicts disbelief in God across 19 countries. Psychonomic Bulletin & Review, 32(5), 2220-2229. Read as its Crossref abstract only.",
+      "doi": "10.3758/s13423-025-02691-9",
+      "url": "https://doi.org/10.3758/s13423-025-02691-9",
+      "type": "replication"
+    },
+    {
+      "text": "Francis, G., Tanzman, J., & Matthews, W. J. (2014). Excess Success for Psychology Articles in the Journal Science. PLoS ONE, 9(12), e114255. Read as the publisher's manuscript XML.",
+      "doi": "10.1371/journal.pone.0114255",
+      "url": "https://doi.org/10.1371/journal.pone.0114255",
+      "type": "secondary"
+    },
+    {
+      "text": "Simonsohn, U. (2012). It Does Not Follow: Evaluating the One-Off Publication Bias Critiques by Francis. Perspectives on Psychological Science, 7(6), 597-599. Read as its Crossref abstract only.",
+      "doi": "10.1177/1745691612463399",
+      "url": "https://doi.org/10.1177/1745691612463399",
+      "type": "secondary"
+    },
+    {
+      "text": "Deppe, K. D., Gonzalez, F. J., Neiman, J. L., et al. (2015). Reflective liberals and intuitive conservatives: A look at the Cognitive Reflection Test and ideology. Judgment and Decision Making, 10(4), 314-331. Cited here for figures quoted by Sanchez and colleagues, not read directly.",
+      "doi": "10.1017/S1930297500005131",
+      "url": "https://doi.org/10.1017/S1930297500005131",
+      "type": "secondary"
+    },
+    {
+      "text": "Meyer, A., Frederick, S., Burnham, T. C., et al. (2015). Disfluent fonts don't help people solve math problems. Journal of Experimental Psychology: General, 144(2), e16-e30. Cited here for a figure quoted by Sanchez and colleagues, not read directly.",
+      "doi": "10.1037/xge0000049",
+      "url": "https://doi.org/10.1037/xge0000049",
+      "type": "secondary"
+    },
+    {
+      "text": "Yilmaz, O., Karadöller, D. Z., & Sofuoglu, G. (2016). Analytic Thinking, Religion, and Prejudice: An Experimental Test of the Dual-Process Model of Mind. The International Journal for the Psychology of Religion, 26(4), 360-369. Named by Gervais and colleagues as a successful replication; verified as a Crossref record only.",
+      "doi": "10.1080/10508619.2016.1151117",
+      "url": "https://doi.org/10.1080/10508619.2016.1151117",
+      "type": "replication"
+    },
+    {
+      "text": "Yonker, J. E., Edman, L. R. O., Cresswell, J., & Barrett, J. L. (2016). Primed analytic thought and religiosity: The importance of individual characteristics. Psychology of Religion and Spirituality, 8(4), 298-308. Cited by Sanchez and by Gervais and colleagues as finding little to no effect; verified as a Crossref record only.",
+      "doi": "10.1037/rel0000095",
+      "url": "https://doi.org/10.1037/rel0000095",
+      "type": "replication"
+    },
+    {
+      "text": "Shenhav, A., Rand, D. G., & Greene, J. D. (2012). Divine intuition: Cognitive style influences belief in God. Journal of Experimental Psychology: General, 141(3), 423-428. The independent 2012 team reporting the same association; verified as a Crossref record only.",
+      "doi": "10.1037/a0025391",
+      "url": "https://doi.org/10.1037/a0025391",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

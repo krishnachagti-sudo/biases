@@ -1,0 +1,99 @@
+{
+  "no": 378,
+  "slug": "reflection-effect",
+  "name": "Reflection effect",
+  "aliases": [
+    "Reflection hypothesis"
+  ],
+  "category": "decision",
+  "statement": "Negate every outcome in a gamble and the preference flips: those who take the sure gain over the risky one take the risky loss over the sure one.",
+  "meaning": "Kahneman and Tversky set four choices between positive prospects against the same four with the sign of every outcome reversed. Most of their respondents took 3,000 for certain over an 80 per cent chance of 4,000, and most took an 80 per cent chance of losing 4,000 over losing 3,000 for certain, although the gamble has the worse expected value. Risk aversion in the gain domain is accompanied by risk seeking in the loss domain. The claim is about the sign of the outcomes rather than the words used to describe them, which is what separates it from the framing effect. In the machinery of prospect theory it is a claim about the curvature of the value function: concave above the reference point, convex below it. Curvature is a different property from steepness, and steepness is loss aversion. A person can weight losses more heavily than gains without ever reversing, and can reverse without weighting them more heavily. Only one of the four pairs in the original table sets a sure outcome against a gamble, so the pattern is not simply the certainty effect with the numbers negated. Kahneman and Tversky used the reversal as an argument against variance aversion as an account of the certainty effect, on the grounds that the sure loss has both the higher expected value and the lower variance and was still rejected.",
+  "origin": {
+    "year": 1979,
+    "who": "Daniel Kahneman and Amos Tversky",
+    "where": "Econometrica",
+    "note": "The name and the table are from \"Prospect theory: An analysis of decision under risk\", where the reflection effect is one of the paper's demonstrations alongside the certainty effect and the isolation effect. Kahneman and Tversky do not claim the observation as new. They write that risk seeking in choices between negative prospects was noted early by Markowitz. They cite Williams for a translation of outcomes producing a shift from risk aversion to risk seeking, and a review by Fishburn and Kochenberger for its prevalence."
+  },
+  "evidence": "The demonstrations are hypothetical choices by students and university faculty, answered anonymously on questionnaires carrying at most a dozen problems each. Outcomes are in Israeli pounds against a median net monthly family income of about 3,000. Kahneman and Tversky report that some problems were also put to groups at the University of Stockholm and the University of Michigan, with results essentially identical to the Israeli ones. Their Table I holds four pairs. An 80 per cent chance of 4,000 against 3,000 for certain drew 20 per cent for the gamble. Negated, the 80 per cent chance of losing 4,000 drew 92 per cent against the certain loss of 3,000. Each was answered by 95 respondents. A 20 per cent chance of 4,000 against a 25 per cent chance of 3,000 drew 65 per cent for the first; negated, it drew 42 per cent, again with 95 respondents. A 90 per cent chance of 3,000 against a 45 per cent chance of 6,000 drew 86 per cent for the first; negated, 8 per cent, with 66 respondents. A 0.2 per cent chance of 3,000 against a 0.1 per cent chance of 6,000 drew 27 per cent for the first; negated, 70 per cent, with 66 respondents. Kahneman and Tversky mark with an asterisk each preference reliable at the .01 level. Seven of the eight problems carry one. The exception is the negated 20 versus 25 per cent problem, where the majority went the predicted way at 58 per cent and no asterisk is printed on either side. Two further problems put a bonus in front of the gamble. Given 1,000, 84 per cent of 70 respondents took 500 for certain over an even chance of 1,000. Given 2,000, 69 per cent of 68 took an even chance of losing 1,000 over losing 500 for certain. The two problems describe the same final wealth. For evidence at the level of individuals the paper points outside itself. Fishburn and Kochenberger analysed utility functions elicited from thirty decision makers in business across five earlier studies. Most were concave for gains and most convex for losses, and only three of the thirty were risk averse in both domains. That count is reported here from Kahneman and Tversky's description, not from the review itself.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The reversal survives a preregistered test in 19 countries as the weakest of the effects tested there, and counted person by person it is a minority pattern that halves again when the money is real.",
+    "detail": "Ruggeri and 31 colleagues put 17 of the 20 items from the 1979 paper to 4,098 people in 19 countries and 13 languages, converting the sums to local median household income and preregistering the plan at osf.io/wd4k5. Ten of their 13 theoretical contrasts replicated in every country. The three that did not all tested reflection: one held in 84 per cent of countries, one in 63 per cent and one in 16 per cent. Reflection had a combined replication rate of 73 per cent across items and countries, and the authors write that the evidence for it is weaker than for the other effects. The contrast that failed in the pooled data is the 20 versus 25 per cent pair, log odds 0.03, 95 per cent CI minus 0.14 to 0.20, p = 0.76. Both of its items now sit at a coin flip: 0.51 with a 95 per cent CI of 0.48 to 0.54 in the gain frame, and 0.51 with a CI of 0.48 to 0.53 in the loss frame. Ruggeri and colleagues read that as no preference left to reflect rather than as a failure. Millroth, Nilsson and Juslin ran the 1979 items on 346 people in a within-subject design and 1,287 in a single-stimuli design, recruited online in the United States. Their two reflection pairs are the ones Kahneman and Tversky numbered 13 and 14 with their negated twins. Neither reversed. In both domains the modal choice was the option that minimises the chance of the worst outcome, and the reflection pattern was not the majority pattern at any level of numeracy on the four-item Berlin Numeracy Test. Counted per person across the 346 within-subject respondents, reflection for outcomes appeared in 16 per cent and reflection for probabilities in 29 per cent. The probabilistic insurance effect appeared in 74 per cent and one of the certainty pairs in 51 per cent. Laury and Holt paid people. Their menus set a safe lottery against a risky one at ten probabilities, with no certain option anywhere, so the design tests curvature without the sure thing. Across 81 subjects facing hypothetical payoffs, 50 per cent were risk averse over gains and just over half of those were risk loving over losses, making reflection the modal pattern at 26 per cent. Across 76 subjects facing real cash, 60 per cent were risk averse over gains and about a fifth of those reversed, putting reflection at 13 per cent, and the modal pattern became risk aversion in both domains. Scaling the payoffs by 15 cut it further, to 19 per cent hypothetical and 9 per cent real among 32 subjects each. Babula and colleagues took the question out of money. Their between-subjects experiment gave 525 US adults, representative in age and sex, vignettes from six domains of the Domain-Specific Risk-Taking scale at nine probability levels. The reversal appeared in the gambling, investment, recreational and health domains, was absent in the ethical domain, where risk aversion held everywhere, and ran backwards in the social domain, with more risk taking for gains than for losses.",
+    "study": {
+      "cite": "Ruggeri, K., Alí, S., Berge, M. L., et al. (2020). Replicating patterns of prospect theory for decision under risk. Nature Human Behaviour, 4(6), 622-633.",
+      "doi": "10.1038/s41562-020-0886-x",
+      "year": 2020,
+      "sites": 19,
+      "n": 4098
+    }
+  },
+  "limits": "Apart from Laury and Holt's cash sessions and Vieider's incentivised tasks, every test cited on this page uses hypothetical money. That is the condition under which the reversal shows up most readily in the studies here. Laury and Holt caution about their own high-payoff comparison: the real sessions were preceded by a real-payoff experiment and the hypothetical ones by a hypothetical experiment, so the treatment and its history are confounded. Their figures here are read from the February 2005 Georgia State working paper titled \"Further Reflections on Prospect Theory\"; the published chapter carries a different title and was not obtained. The reflection pairs Millroth and colleagues tested are not the four pairs in Kahneman and Tversky's Table I, whose negated versions their instrument omits, so their result and Ruggeri's are not measuring the same items. Vieider and colleagues ran incentivised certainty-equivalent tasks with 2,939 students in 30 countries, taking losses from an endowment. The risk premium for risky gains correlated at 0.141 with the risk premium for risky losses, p < 0.001. People more willing to take risks over gains were more willing to take them over losses. That is a correlation across domains rather than a test of the reversal, and it is read from the WZB discussion paper rather than the journal version. Four papers named on this page were not opened. Hershey and Schoemaker's 1980 examination, which tested the reversal at the within-subject as well as the across-subject level, is behind a paywall. Neither Crossref nor OpenAlex carries an abstract for it. Its argument is described here from Babula and colleagues and from Laury and Holt's summary. Baucells and Villasís's review is likewise reported through Babula and colleagues. They give its between-subjects figures as 74 per cent risk averse for gains against 64 per cent risk seeking for losses, and its within-subject figure as reflection in 47 per cent of participants. Fagley's note on the distinction from framing was not obtained either. Tversky and Kahneman's 1992 paper is widely quoted for 88 per cent risk averse for gains and 87 per cent risk seeking for losses. That pair of figures is reported here from Babula and colleagues. Several attempts to obtain the 1992 text failed. On multi-site work, the search covered Crossref and the reference lists of the papers above. What it turned up is Ruggeri and colleagues, who describe their procedure as following the Many Labs approach while avoiding psychology student pools.",
+  "misreadings": "The reflection effect and loss aversion are treated as one idea and are two. Kahneman and Tversky list three properties of the value function: defined on deviations from a reference point, generally concave for gains and commonly convex for losses, and steeper for losses than for gains. The second is reflection and the third is loss aversion. Curvature changing sign and the two sides having different slopes are independent claims, and the evidence for them is separate. Millroth and colleagues score their reflection pairs under the value function rather than the probability weighting function, and reflection for outcomes was the least prevalent of their nine paradoxes at 16 per cent. The second confusion is with framing. Reflection compares prospects whose outcomes differ in sign, plus 200 against minus 200. Framing compares descriptions of the same outcome, 200 saved against 400 dead. The two produce similar-looking reversals from different causes, a point Babula and colleagues attribute to Fagley. The third is reading group percentages as individual behaviour. That 80 per cent choose the sure gain and 92 per cent choose the risky loss does not mean 92 per cent of people reversed; it is consistent with far fewer having done so. Kahneman and Tversky report a joint figure for one pair of problems only, the 61 per cent who made the modal choice in both of Problems 1 and 2, which are certainty problems rather than reflection problems. Where later work has counted individuals the share reversing is smaller than the group percentages suggest. It was 16 and 29 per cent in Millroth's two pairs, 26 per cent in Laury and Holt's hypothetical sessions and 13 per cent in their cash sessions. A fourth error is quoting the four pairs as though they were equally strong. One of the eight problems in the original table is unstarred, and its pair is the one Ruggeri and colleagues found sitting at chance in both domains four decades later.",
+  "sources": [
+    {
+      "text": "Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.",
+      "doi": "10.2307/1914185",
+      "url": "https://doi.org/10.2307/1914185",
+      "type": "primary"
+    },
+    {
+      "text": "Ruggeri, K., Alí, S., Berge, M. L., et al. (2020). Replicating patterns of prospect theory for decision under risk. Nature Human Behaviour, 4(6), 622-633. Figures read from the accepted manuscript.",
+      "doi": "10.1038/s41562-020-0886-x",
+      "url": "https://doi.org/10.1038/s41562-020-0886-x",
+      "type": "replication"
+    },
+    {
+      "text": "Millroth, P., Nilsson, H., & Juslin, P. (2019). The decision paradoxes motivating Prospect Theory: The prevalence of the paradoxes increases with numerical ability. Judgment and Decision Making, 14(4), 513-533.",
+      "doi": "10.1017/s1930297500006161",
+      "url": "https://doi.org/10.1017/s1930297500006161",
+      "type": "replication"
+    },
+    {
+      "text": "Laury, S. K., & Holt, C. A. Further reflections on the reflection effect. Research in Experimental Economics, 12 (Risk Aversion in Experiments), 405-440. Crossref records no issue date; the record was created in 2008. The chapter was not obtained.",
+      "doi": "10.1016/s0193-2306(08)00009-4",
+      "url": "https://doi.org/10.1016/s0193-2306(08)00009-4",
+      "type": "replication"
+    },
+    {
+      "text": "Laury, S. K., & Holt, C. A. (2005). Further Reflections on Prospect Theory. Georgia State University Experimental Economics Center working paper 2006-23. This is the document the cash and hypothetical reflection rates on this page are read from.",
+      "url": "https://excen.gsu.edu/workingpapers/GSU_EXCEN_WP_2006-23.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Babula, E., Kos, M., Mrzygłód, U., Wach, D., & Kołatka, M. (2025). Beyond monetary outcomes: the probability-range reflection effect across decision domains. Humanities and Social Sciences Communications, 12, 1250.",
+      "doi": "10.1057/s41599-025-05585-2",
+      "url": "https://doi.org/10.1057/s41599-025-05585-2",
+      "type": "replication"
+    },
+    {
+      "text": "Vieider, F. M., Lefebvre, M., Bouchouicha, R., Chmura, T., Hakimov, R., Krawczyk, M., & Martinsson, P. (2013). Common components of risk and uncertainty attitudes across contexts and domains: Evidence from 30 countries. WZB Discussion Paper SP II 2013-402. Published in the Journal of the European Economic Association, 13(3), 421-452; the journal version was not obtained and the correlation quoted here comes from this working paper.",
+      "url": "https://bibliothek.wzb.eu/pdf/2013/ii13-402.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Hershey, J. C., & Schoemaker, P. J. H. (1980). Prospect theory's reflection hypothesis: A critical examination. Organizational Behavior and Human Performance, 25(3), 395-418. Not obtained; no abstract is carried by Crossref or OpenAlex for this record, and the paper is described here through later authors.",
+      "doi": "10.1016/0030-5073(80)90037-9",
+      "url": "https://doi.org/10.1016/0030-5073(80)90037-9",
+      "type": "replication"
+    },
+    {
+      "text": "Baucells, M., & Villasís, A. (2010). Stability of risk preferences and the reflection effect of prospect theory. Theory and Decision, 68(1-2), 193-211. Not obtained; the figures attributed to it are Babula and colleagues' account of it.",
+      "doi": "10.1007/s11238-009-9153-3",
+      "url": "https://doi.org/10.1007/s11238-009-9153-3",
+      "type": "replication"
+    },
+    {
+      "text": "Fagley, N. S. (1993). A note concerning reflection effects versus framing effects. Psychological Bulletin, 113(3), 451-452. Not obtained; cited for the distinction as Babula and colleagues state it.",
+      "doi": "10.1037/0033-2909.113.3.451",
+      "url": "https://doi.org/10.1037/0033-2909.113.3.451",
+      "type": "commentary"
+    },
+    {
+      "text": "Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. Journal of Risk and Uncertainty, 5(4), 297-323. Not obtained.",
+      "doi": "10.1007/BF00122574",
+      "url": "https://doi.org/10.1007/BF00122574",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

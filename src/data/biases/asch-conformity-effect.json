@@ -1,0 +1,80 @@
+{
+  "no": 374,
+  "slug": "asch-conformity-effect",
+  "name": "Asch conformity effect",
+  "aliases": [
+    "Asch effect",
+    "Asch paradigm",
+    "Asch line judgement task",
+    "Line judgment task",
+    "Majority influence"
+  ],
+  "category": "social",
+  "statement": "Asked to say which of three lines matched a standard, people took a unanimous group's obviously wrong answer on 36.8% of the trials where it was offered.",
+  "meaning": "The claim is about one narrow situation: a clear perceptual fact, an answer given aloud, and a unanimous group of peers who are all wrong. Asch built it against a suggestion he distrusted, that opinion bends to weight of numbers on its own. His design puts the two forces in open opposition. One card carries a standard line, a second carries three comparison lines, one equal to the standard and the others off by three quarters of an inch to an inch and three quarters. Judging alone, people are right more than 99% of the time. Judging last in a room where everybody else has already named the wrong line, many are not. Two numbers describe what happens and they are not interchangeable. The first is the share of pressured judgements that went the majority's way. The second is the share of people who went that way at least once. The first is about a third and the second about three quarters, and both circulate as the Asch finding. The interest of the effect now lies less in its size than in what moves it. Group size, unanimity, whether the majority is an in-group, and the country and decade the study was run in all shift the number, some of them further than the effect itself.",
+  "origin": {
+    "year": 1956,
+    "who": "Solomon E. Asch",
+    "where": "Psychological Monographs: General and Applied",
+    "note": "The monograph is the full report of work Asch had already described in a 1951 book chapter and in Scientific American in November 1955. Bond, reviewing the same experiments in 2005, found that the reports disagree with each other about how large the majority was and about which majority sizes were run."
+  },
+  "evidence": "Asch gathered seven to nine male college students in a classroom for what he presented as an experiment in visual discrimination. All but one had been briefed beforehand. The series ran to 18 comparisons, and on 12 of them the briefed majority called out the same wrong number in unison. The uninstructed member was seated so that he answered next to last, hearing all but one of the others before speaking. Subjects were white men aged 17 to 25, mean age 20, drawn from three institutions Asch declined to name, none of them his own Swarthmore. Sessions lasted about 20 minutes. Table 3 of the monograph sets 123 experimental subjects against 37 controls who judged alone. The controls erred on 0.7% of critical estimates, and 35 of the 37 made no error at all. The experimental group erred on 36.8%. Asch's own phrasing is that the majority distorted one third of the reported estimates, and that its effect was considerable but by no means complete, or even the strongest force at work. The spread matters more than the mean. Twenty-nine of the 123, or 24%, never once agreed with the majority. About the same share, 27%, took the majority answer on eight to twelve of the twelve trials. Half the group sat between those extremes with one to seven errors, and the median was three. Among those who erred at all, more than half did so by the second critical trial, and 76% of the 123 erred at least once. Asch then varied the situation, and the number moved a long way. Against a single opponent the subject erred 3.6% of the time, against two 13.6%, against three 31.8%. Beyond three it flattened: 35.1% against four, 35.2% against six, 37.1% against seven, 31.2% against fifteen. Unanimity did more work than size. Giving the subject one truthful partner cut his errors to a quarter of their level under a unanimous majority. A partner who broke with the majority while also disagreeing with the subject, always naming the line furthest from the standard, cut errors to 9%. When an instructed partner answered correctly for six trials and then defected, errors rose to about the unanimous level; when he instead left the room, they rose by less. Widening the gap between the lines to seven inches did not free everybody. Asch interviewed each subject afterwards. Some who yielded had concluded that they were wrong and the group right, some yielded so as not to spoil the results, and all of them underestimated how often they had gone along.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Pooling 125 runs of the line task, Bond found a weighted mean effect of g = 0.89 against the no-pressure control, and a 2021 Swiss replication put the error rate at 33% against Asch's 36.8%.",
+    "detail": "Bond assembled 62 reports yielding 125 separate experiments using Asch's line task. The set is the one from Bond and Smith's 1996 meta-analysis, plus the conditions with a majority of one that the earlier review had left out. The effect size is a modified Hedges' g: the difference between experimental and control groups in mean number of errors, divided by the standard deviation in the experimental group. The unweighted mean was 1.03, the median 0.94, and the weighted mean 0.89, 95% CI [0.85, 0.93]. The set is heterogeneous, Q = 427.25, df = 124, p < .01, which is what a list of moderators predicts. It is also lopsided. Bond's Table 2 records that 78% of the studies were run in the United States, 88% took public responses, half used all men, two thirds used a majority of four or fewer, and the median study date is 1966. No study in it used a majority larger than nine apart from Asch's own. Direct replication has continued. Franzen and Mader ran 210 students on the University of Bern campus between March and April 2021, five confederates to one naive subject, ten line trials of which six were critical. In the unincentivised condition the average error rate was 33%, which they report as matching Asch's 36.8%, t(16) = 0.59, p = 0.57. Paying one Swiss franc for each correct answer cut it to 25%, a fall of 0.5 errors per subject across the six critical trials, t(208) = 2.24, p = 0.03. The same participants then answered five yes-or-no questions about Swiss politics with the confederates responding in unison, and the share saying yes shifted by 38 percentage points on average with the direction the group took. Ušto, Drače and Hadžiahmetović put 95 students in Sarajevo through 18 trials with 12 critical and five confederates. They report agreement with the majority on 35.4% of critical trials, higher when the confederates were presented as fellow Bosniaks and lower when they were presented as an out-group. The results that turn the effect from a constant into a variable belong to Bond and Smith, whose full text was not obtained. Their abstract, in the University of Sussex institutional record, says the literature search produced 133 studies drawn from 17 countries. An analysis of the United States studies found that conformity has declined since the 1950s. Measures of a country's individualism and collectivism taken from three separate surveys each showed a statistically significant relation to conformity, with collectivist countries tending to conform more. Bond's later paper works from the same set and names the moderators that review found reliable. They are the percentage of women, the date the study was carried out, the ratio of critical trials to total trials, whether the majority were an out-group, and the distance between the majority's chosen line and the standard. Capuano and Chekroun's systematic review of conformity research published since 2004 found 48 articles and reports that the paradigm continues to produce the effect across the countries it has reached.",
+    "study": {
+      "cite": "Bond, R. (2005). Group size and conformity. Group Processes & Intergroup Relations, 8(4), 331-354.",
+      "doi": "10.1177/1368430205056464",
+      "year": 2005
+    },
+    "replicated": { "es": 0.89, "esType": "g", "ci": [0.85, 0.93], "ciLevel": 95, "weighting": "inverse-variance weighted" }
+  },
+  "limits": "This entry covers the line-judgement paradigm and its direct descendants. It does not cover obedience to an instruction from an experimenter, which the authority bias entry carries, nor the movement of a group's average position through discussion, which group polarisation carries. What happens to a witness's account after talking to another witness belongs to memory conformity. The search ran across Crossref, OpenAlex, PubMed Central, Semantic Scholar, the Internet Archive, institutional repositories and the open web. Three documents were not obtained. Bond and Smith (1996) is paywalled at the publisher with no repository copy. Its study count, country count, decline result and culture results are quoted here from the abstract in the University of Sussex institutional record, and no figure from it appears in the structured fields. Asch's 1951 book chapter was not obtained, and everything said here about how it differs from the later reports comes from Bond's 2005 account. Ušto and colleagues' full text could not be downloaded past the repository's block, so their figures come from the abstract at the publisher. The paradigm bounds what it can show. Asch's subjects were male American undergraduates answering aloud, in a room, to peers they sometimes knew, about a fact that had a right answer and no consequence for getting it wrong. Franzen and Mader's incentive condition suggests the last of those matters. The effect sizes pooled by Bond compare a pressured group with an unpressured control, so they measure that the majority made a difference rather than how large a majority it takes. Nothing here establishes how long an Asch answer survives the session, or whether a person who yields about lines yields about anything that costs them.",
+  "misreadings": "The experiment is retold as proof that people are conformist. Asch's own data contradict that as often as they support it. Roughly two thirds of the critical judgements were independent, and 24% of subjects never went with the majority once. Asch opened the monograph by writing that it is not justifiable to assume in advance that a theory of social influence should be a theory of submission to social pressure. He called the striving for independence as much a fact about people as conformity is. The two headline figures get swapped. About a third is a rate per judgement: 36.8% of critical estimates in the 1956 monograph went the majority's way. About three quarters is a headcount: 76% of the 123 subjects erred at least once, which the Scientific American caption rounds to 75%. A sentence that says three quarters of people conformed and then uses it as the chance that any given answer bends has run the two together. Bond and Smith's decline result is read as a claim that people have grown less conformist. Their abstract states it as a finding about United States studies over time. Those studies differ from one another in materials, majority size, response mode and sex composition, and the median date in Bond's version of the sample is 1966. A trend across a body of published work is not the same measurement as a trend in a population. The size of the majority is the detail most often misstated, and Asch is partly the reason. Bond went back to the reports and found the main experiments described as using a majority of 7, of 8, of 6 to 8, of 6, 7 and 9, and of 7 to 9 with a few groups of only five or six. The largest majority is 16 in the 1951 chapter and 10 to 15 in the 1952 reprint. His conclusion is that Asch's findings on majority size cannot be tied to specific majority sizes at all. Yielding is also read as belief change. Asch's interviews found both things happening under one response. Some subjects decided the group was right; others went along while sure it was wrong. Table 3 counts answers, and an answer does not say which of those produced it.",
+  "sources": [
+    {
+      "text": "Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. Psychological Monographs: General and Applied, 70(9), 1-70. Read in full from a scanned copy of the monograph; source for the design, Table 3, the error distribution, the interviews and the quoted passage on submission.",
+      "doi": "10.1037/h0093718",
+      "url": "https://cynlibsoc.com/clsology/pdf/independence-and-conformity.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Asch, S. E. (1955). Opinions and social pressure. Scientific American, 193(5), 31-35. Read in full from a scan of a reprint at the Internet Archive; source for the majority-size series, the partner and dissenter conditions, the seven-inch discrepancy and the 75% caption.",
+      "doi": "10.1038/scientificamerican1155-31",
+      "url": "https://archive.org/download/solomon-asch_confirmaty/solomon_original_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis of studies using Asch's (1952b, 1956) line judgment task. Psychological Bulletin, 119(1), 111-137. Paywalled with no repository copy. The abstract was read in the University of Sussex institutional record and is the only part of this paper quoted here: the 133 studies, the 17 countries, the decline in the United States studies and the three individualism-collectivism surveys.",
+      "doi": "10.1037/0033-2909.119.1.111",
+      "url": "https://sussex.figshare.com/articles/journal_contribution/Culture_and_conformity_a_meta-analysis_of_studies_using_Asch_s_1952b_1956_line_judgement_task_/23327162",
+      "type": "review"
+    },
+    {
+      "text": "Bond, R. (2005). Group size and conformity. Group Processes & Intergroup Relations, 8(4), 331-354. Read in full from the copy deposited at HAL; source for the pooled effect sizes, the study characteristics in Table 2, the list of moderators found in Bond and Smith (1996) and the account of the inconsistencies in Asch's reports.",
+      "doi": "10.1177/1368430205056464",
+      "url": "https://hal.science/hal-00571611/document",
+      "type": "replication"
+    },
+    {
+      "text": "Franzen, A., & Mader, S. (2023). The power of social influence: A replication and extension of the Asch experiment. PLOS ONE, 18(11), e0294325. Read in full at the publisher and again in the article XML; source for the Bern replication, the incentive condition and the political-opinion extension.",
+      "doi": "10.1371/journal.pone.0294325",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294325",
+      "type": "replication"
+    },
+    {
+      "text": "Ušto, M., Drače, S., & Hadžiahmetović, N. (2019). Replication of the 'Asch effect' in Bosnia and Herzegovina: Evidence for the moderating role of group similarity in conformity. Psihologijske teme, 28(3), 589-599. The full-text download was blocked; the abstract was read at the publisher's record and is the source for the sample, the design and the 35.4%.",
+      "doi": "10.31820/pt.28.3.7",
+      "url": "https://hrcak.srce.hr/230043",
+      "type": "replication"
+    },
+    {
+      "text": "Capuano, C., & Chekroun, P. (2024). A systematic review of research on conformity. International Review of Social Psychology, 37(1), 13. Read in full at PubMed Central; used to locate the recent literature and cited for the count of 48 articles reviewed.",
+      "doi": "10.5334/irsp.874",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12372704/",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

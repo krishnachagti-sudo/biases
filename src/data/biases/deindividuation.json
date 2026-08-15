@@ -1,0 +1,89 @@
+{
+  "no": 376,
+  "slug": "deindividuation",
+  "name": "Deindividuation",
+  "aliases": [
+    "De-individuation",
+    "Loss of self in the group",
+    "Anonymity effect"
+  ],
+  "category": "social",
+  "statement": "Anonymity in a group is said to loosen self-restraint and release behaviour that ordinary social norms would otherwise hold back.",
+  "meaning": "The claim has three links. Certain conditions come first, chiefly anonymity, immersion in a group, large numbers and reduced self-awareness. These are held to produce an inner state in which a person watches and judges himself less and cares less about being judged. That state is then held to lower the threshold on behaviour that would normally be inhibited. Zimbardo defined the output as the 'release' of behaviour in violation of established norms of appropriateness, and wrote that the released acts can also be positive, though his own focus was on hostility and destruction. The theory was built to explain riots, lynch mobs and vandalism, so the norms it means are the general ones a society holds. That choice of yardstick is what later decided the question. A norm in force inside the situation can point the other way from the norm outside it, and the two predictions come apart.",
+  "origin": {
+    "year": 1952,
+    "who": "Leon Festinger, Albert Pepitone and Theodore Newcomb",
+    "where": "The Journal of Abnormal and Social Psychology",
+    "note": "They named de-individuation and described it as a state in which members are not seen or paid attention to as individuals, with a consequent reduction of inner restraints. Their paper was not obtained for this entry and its wording is quoted through Postmes and Spears. The framework people actually cite is Philip Zimbardo's 1969 Nebraska Symposium chapter, which listed the input variables and ran the experiments."
+  },
+  "evidence": "Zimbardo's chapter reports the paradigm the field copied. Thirty subjects took part, in groups of four female introductory psychology students at New York University in the Bronx. Half were put in a size 44 lab coat and a hood, with their names never used. The rest were greeted by name and given large name tags. Each shocked a supposed victim over 20 trials. Mean shock duration was .90 seconds in the deindividuated condition against .47 seconds in the identifiable one, t = 2.89, significant beyond the .01 level. The range of durations was also wider, 1.40 against .91 seconds, t = 2.21, p < .05. How often they shocked did not differ, running at a high average of 17 shocks in 20 trials in both conditions. Zimbardo then tried the design on 102 Belgian soldiers at Louvain, required to take part by the Minister of Defence, pretesting on 54 and running the final study on eight groups of six. It came out backwards. Shock duration was lower under anonymity, 1.35 seconds where subject and victim were both unidentifiable against 2.04 seconds where both were identifiable, Mann-Whitney U = 36.5, p < .05. Zimbardo wrote that the supposedly deindividuated subjects were behaving in a most individuated manner. The field study everybody remembers is Diener, Fraser, Beaman and Kelem's Halloween work. Hidden observers watched 1,352 children at 27 Seattle homes, each told to take one sweet from a bowl set beside a bowl of coins. After dropping the parent-present and crowded conditions, 1,039 remained. Among children in groups, 57.2% of 297 anonymous children took extra against 20.8% of 384 who had been asked their names and addresses. Alone, the rates were 21.4% of 42 and 7.5% of 40. The highest rate, 80.0% of 80, came where the group was anonymous and one child had been named as responsible. With a parent in the room the rate was 8.3%.",
+  "replication": {
+    "state": "failed",
+    "headline": "Postmes and Spears pooled 60 studies and found the average effect on antinormative behaviour to be r = 0.09, with no support for a deindividuated state and with anonymous participants following situational norms more closely rather than less.",
+    "detail": "Their 1998 meta-analysis in Psychological Bulletin is the only quantitative synthesis of the paradigm this entry located. Sixty independent studies met the criteria, yielding 70 effect sizes; the table reports 4,715 participants and the text 4,714. The overall weighted correlation was .09, 95% CI .03 to .15, Z = 5.41, p < .001, with the table's note recording that its intervals were computed by a random-effects approach. Variability was high, SD = 0.24, Qw = 218.25, p < .001, and the individual effects ran from -.49 to .56. The manipulation closest to the classical claim did nothing: anonymity to one's own group gave r = .03 across 15 studies, and direct manipulation of private self-awareness gave r = .01 across 12. Anonymity to the out-group gave .16 across 11 studies, public self-awareness .16 across 8, group size .11 across 11 and compound manipulations .18 across 13. How antinormative a behaviour was by general social standards explained none of the variance, beta = -.05, ns. How normative it was inside the situation explained a great deal, beta = -.40, Z = 5.90, p < .001, in the direction opposite to the theory. Only 12 studies measured the mediating state and only 7 gave enough detail to model it. Partialling the mediator left the effect where it was, beta .13 before and .12 after, and the mediator's own path to behaviour was -.08, ns. The authors' abstract records little support for the occurrence of deindividuated behaviours or for the existence of a deindividuated state, and their discussion calls the findings inconsistent with deindividuation theory.",
+    "study": {
+      "cite": "Postmes, T., & Spears, R. (1998). Deindividuation and antinormative behavior: A meta-analysis. Psychological Bulletin, 123(3), 238-259.",
+      "doi": "10.1037/0033-2909.123.3.238",
+      "year": 1998
+    },
+    "replicated": {
+      "es": 0.09,
+      "esType": "r",
+      "ci": [0.03, 0.15],
+      "ciLevel": 95,
+      "weighting": "weighted mean correlation across 60 independent studies; interval computed by a random-effects approach"
+    }
+  },
+  "limits": "The account that replaced the theory is the social identity model of deindividuation effects, SIDE, set out by Stephen Reicher, Russell Spears and Tom Postmes in the European Review of Social Psychology in 1995. Its published abstract, read here through the University of Groningen research portal rather than the paywalled article, rejects the idea that anonymity costs a person selfhood and control. It argues instead that the self can be defined at the categorical as well as the personal level. Deindividuation manipulations gain their effect by making social identity more salient, and by changing what it is strategic to express. Anonymity within a group, on this account, maximises the opportunity for members to give voice to their collective identities. Postmes and Spears endorse SIDE as fitting their results while noting that no study had then tested its proposed mechanism, the heightened salience of group identity. Their own analysis carries caveats. Coder agreement on the general social norm was fair, intraclass r = .52, against .65 for the situational norm, and the compound manipulations mix arousal, darkness, cohesion and anonymity in ways that cannot be pulled apart. Searches of Crossref, OpenAlex, Semantic Scholar, Unpaywall and the open web for later meta-analytic or multi-site work on the same question turned up no second pooled estimate for antinormative behaviour under anonymity. What they did turn up is a meta-analysis of a different outcome. Clark-Gordon, Bowman, Goodboy and Wright pooled 14 studies of online anonymity and self-disclosure and report an average correlation of .184, with substantial unexplained heterogeneity. That figure comes from the published abstract, because the article is paywalled. Kim, Ellithorpe and Burt's 2023 systematic review of anonymity in digital aggression was located and could not be obtained, so no figure from it appears here.",
+  "misreadings": "The reversal is inside the founding paper. Zimbardo's second experiment, on the Belgian soldiers, produced less aggression under anonymity than under identifiability, and he printed the result and said so. Retellings that cite him for the hooded coeds and stop there are quoting half of a two-study chapter. The costume study is misremembered in the same direction. Johnson and Downing dressed participants as nurses or in robes like those of the Ku Klux Klan. Postmes and Spears, who read that paper and whose description is the source used here, report that the Klan robes raised shocking somewhat but not reliably, while the nurses' uniform lowered it. The lineage is also often given more weight than it can carry. Postmes and Spears trace deindividuation theory largely to Gustave Le Bon's 1895 book on the crowd, and a book of observation and assertion is a theoretical ancestor rather than evidence for a laboratory claim. The meta-analytic result is not that anonymity does nothing. It is that anonymity moves behaviour towards whatever counts as normal in the setting, which will sometimes look like transgression from outside and sometimes like restraint. Deindividuation is also the mechanism usually placed under the Stanford prison experiment, which has its own entry here. Nothing above bears on that study.",
+  "sources": [
+    {
+      "text": "Postmes, T., & Spears, R. (1998). Deindividuation and antinormative behavior: A meta-analysis. Psychological Bulletin, 123(3), 238-259. Full text read for this entry.",
+      "doi": "10.1037/0033-2909.123.3.238",
+      "url": "http://www.europhd.net/sites/europhd/files/images/onda_2/07/33rd_lab/scientific_materials/gambara/postmes_spears_1998_meta-analysis.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Zimbardo, P. G. (1969). The human choice: Individuation, reason, and order versus deindividuation, impulse, and chaos. In W. J. Arnold & D. Levine (Eds.), Nebraska Symposium on Motivation, 1969 (pp. 237-307). Lincoln: University of Nebraska Press. Scan read for this entry; the definition quoted is on page 251.",
+      "url": "https://stacks.stanford.edu/file/gk002bt7757/gk002bt7757.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Festinger, L., Pepitone, A., & Newcomb, T. (1952). Some consequences of de-individuation in a group. The Journal of Abnormal and Social Psychology, 47(2, Suppl), 382-389. Named as the source of the term; not obtained for this entry, and its wording is quoted through Postmes and Spears.",
+      "doi": "10.1037/h0057906",
+      "url": "https://doi.org/10.1037/h0057906",
+      "type": "primary"
+    },
+    {
+      "text": "Diener, E., Fraser, S. C., Beaman, A. L., & Kelem, R. T. (1976). Effects of deindividuation variables on stealing among Halloween trick-or-treaters. Journal of Personality and Social Psychology, 33(2), 178-183. Full text read for this entry.",
+      "doi": "10.1037/0022-3514.33.2.178",
+      "url": "https://theotherpress.ca/wp-content/uploads/2020/10/Effects-of-Deindividuation-Variable-on-Stealing-Among-Halloween-Trick-or-Treaters.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Reicher, S. D., Spears, R., & Postmes, T. (1995). A social identity model of deindividuation phenomena. European Review of Social Psychology, 6(1), 161-198. Paywalled; described here from its published abstract at the University of Groningen research portal.",
+      "doi": "10.1080/14792779443000049",
+      "url": "https://research.rug.nl/en/publications/a-social-identity-model-of-deindividuation-phenomena/",
+      "type": "commentary"
+    },
+    {
+      "text": "Johnson, R. D., & Downing, L. L. (1979). Deindividuation and valence of cues: Effects on prosocial and antisocial behavior. Journal of Personality and Social Psychology, 37(9), 1532-1538. Not obtained; its result is reported here as Postmes and Spears describe it.",
+      "doi": "10.1037/0022-3514.37.9.1532",
+      "url": "https://doi.org/10.1037/0022-3514.37.9.1532",
+      "type": "primary"
+    },
+    {
+      "text": "Clark-Gordon, C. V., Bowman, N. D., Goodboy, A. K., & Wright, A. (2019). Anonymity and online self-disclosure: A meta-analysis. Communication Reports, 32(2), 98-111. Paywalled; the pooled correlation is taken from the published abstract, which was read in two independent renderings.",
+      "doi": "10.1080/08934215.2019.1607516",
+      "url": "https://doi.org/10.1080/08934215.2019.1607516",
+      "type": "replication"
+    },
+    {
+      "text": "Kim, M., Ellithorpe, M., & Burt, S. A. (2023). Anonymity and its role in digital aggression: A systematic review. Aggression and Violent Behavior, 72, 101856. Located and not obtained; no figure from it is quoted here.",
+      "doi": "10.1016/j.avb.2023.101856",
+      "url": "https://doi.org/10.1016/j.avb.2023.101856",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

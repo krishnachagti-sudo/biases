@@ -1,0 +1,80 @@
+{
+ "no": 387,
+ "slug": "literary-fiction-and-theory-of-mind",
+ "name": "Literary fiction and theory of mind",
+ "aliases": [
+  "Literary-fiction advantage"
+ ],
+ "category": "social",
+ "statement": "Reading a few pages of prize-winning literary fiction, rather than popular fiction or non-fiction, is said to raise scores straight afterwards on a test of reading emotions from the eyes.",
+ "meaning": "The claim is about an immediate effect of one short reading session, not about a reading habit. Participants read a single text of a few pages and were then measured on the spot. Literariness was assigned rather than measured. Kidd and Castano took their literary texts from prize lists and their popular texts from bestseller lists and a genre anthology. Their argument was that the judgement of prize juries is the best available proxy for a quality nobody can quantify. The main outcome was the Reading the Mind in the Eyes Test, in which a reader picks one of four mental-state words for each of 36 photographs of a pair of eyes. Their theory is that literary prose withholds the inner lives of its characters and so forces the reader to infer them, while popular fiction supplies characters who are consistent and predictable.",
+ "origin": {
+  "year": 2013,
+  "who": "David Comer Kidd and Emanuele Castano",
+  "where": "Science",
+  "note": "Five experiments in one four-page report, titled \"Reading Literary Fiction Improves Theory of Mind\". The paper concedes that literariness cannot be quantified precisely and substitutes the judgements of prize juries."
+ },
+ "evidence": "Five experiments, each measuring theory of mind straight after a single reading. In experiment 1, 86 participants read one of three literary texts or one of three non-fiction texts, and eyes-test scores were higher after literary fiction, F(1,82) = 6.40, p = 0.01, with adjusted means of 25.90 against 23.47. Experiment 2 gave 114 participants an excerpt from a National Book Award finalist, an excerpt from a recent Amazon.com bestseller, or nothing to read. It switched the outcome to a different affective task, the DANVA2-AF. Its omnibus effect of condition was F(2,108) = 2.57, p = 0.08, which the paper calls marginally significant, though the pairwise comparisons ran the predicted way. Experiments 3 to 5 set three stories from the 2012 PEN/O. Henry Prize collection against three from an edited anthology of popular fiction. They gave F(1,65) = 4.07, p = 0.04 at N = 69, then F(1,68) = 4.39, p = 0.04 at N = 72, then F(2,352) = 3.10, p = 0.04 at N = 356. The false-belief task used as a cognitive measure in experiments 1 and 2 produced nothing. The Author Recognition Test, a checklist measure of lifetime reading, predicted eyes-test scores in experiments 1, 4 and 5, with b of 0.36, 0.39 and 0.28. It predicted nothing in experiment 3, b = -0.01, p = 0.90. In experiment 5 the literary texts were rated better examples of literature, 4.84 against 4.43, and enjoyed less, 3.54 against 4.07.",
+ "replication": {
+  "state": "mixed",
+  "headline": "The large repeats disagree with each other, and which way one lands turns partly on which fast readers get excluded.",
+  "detail": "The Social Sciences Replication Project pre-registered a direct repeat of experiment 1, with the analysis plan reviewed by the original authors, who agreed it followed their methods closely. Its two-stage design collected 285 participants at stage 1 and 714 in the pooled sample, against 86 in the original, all through Amazon Mechanical Turk. The supplementary tables record the original as r = 0.269, p = 0.013. The replication came out at r = -0.066, p = 0.273 at stage 1, and r = -0.027, p = 0.468 pooled, with power of 0.943 to detect half the original effect. Peers polled beforehand had priced the chance of replication at 0.39 in the project's prediction market and 0.37 in its survey. Panero and colleagues ran three independent research groups and 792 participants across four conditions and found no eyes-test advantage for literary fiction. Samur, Tops and Koole ran four experiments, combined N = 1,006, one pre-registered as a direct replication, and found no effect in any. Against those, van Kuijk, Verkoeijen, Dijkstra and Zwaan repeated experiment 5, retained 393 of 558 recruits, and did find the effect, F(1,381) = 12.275, p = 0.001, with adjusted means of 27.68 against 26.22. Kidd and Castano's own three pre-registered replications yielded one hit, F(1,342) = 4.91, p = 0.027, d = 0.239, and two nulls they classify as uninformative under Simonsohn's small-telescopes test. Kidd and Castano replied to Panero et al. in the same journal, arguing that participants who never read the texts were left in and that two contributing studies failed random assignment; their 2019 paper puts the reanalysed difference at d = 0.267. Panero et al. answered that the reanalysis still did not reproduce their original pattern. On the Camerer replication they argued that experiment 1 was a poor test, because later work had better ways of dropping people who skimmed. The replication team answered that intention to treat is safer, since reading time may itself respond to the text. Van Kuijk and colleagues pooled six studies in a random-effects meta-analysis of the eyes-test difference and got 0.79 points, 95% CI -0.06 to 1.66, with I-squared of 70%. Their own earlier analysis of the same data set under a stricter reading-time cutoff had found no effect at all, which is the sharpest evidence that the result turns on that choice.",
+  "study": {
+   "cite": "Camerer, C. F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+   "doi": "10.1038/s41562-018-0399-z",
+   "year": 2018,
+   "n": 714
+  },
+  "original": { "es": 0.269, "esType": "r" },
+  "replicated": { "es": -0.027, "esType": "r" }
+ },
+ "limits": "The outcome measure carries much of the doubt. Kittel, Olderbak and Wilhelm pooled 119 effect sizes from 61 studies and 8,611 people. They put the eyes test's internal consistency at alpha = .73. It related more strongly to emotion perception, r = .33, than to other theory-of-mind measures, r = .29, and they conclude it operates as an emotion-perception test. Higgins, Ross, Langdon and Polito examined 1,181 US adults and found inadequate fit for every factor model they tried. Nearly a quarter of the items, they report, fail the inclusion criteria used in the original validation. Van Kuijk and colleagues, whose own sample gave alpha = .68, name the psychometrics of the outcome measures as a candidate explanation for the heterogeneity across replications. A near-null obtained on an instrument like that is a weaker piece of evidence than a clean null, and so is a hit. Every study here concerns one sitting with one of a handful of short texts, so none of it speaks to what a year of reading does. The Camerer replication was carried out by a single replication team, not by many laboratories, and its participants came from one online labour pool.",
+ "misreadings": "The literary and popular categories are experimenter-assigned. They come from the PEN/O. Henry Prize collection, National Book Award shortlists, Amazon.com bestseller rankings and one genre anthology, and they are not measured properties of the prose. The finding that lifetime reading tracks social ability is a separate claim, and it survived the failures rather than falling with them: Panero et al. found the Author Recognition Test predicted eyes-test scores across all conditions. Their conclusion was that the plausible link runs through a lifetime of reading, or through people with good theory of mind choosing to read, rather than through one sitting. Sliding between the two claims makes the immediate effect look better supported than it is. Dodell-Feder and Tamir's meta-analysis of 53 effect sizes from 14 studies reports g = .15 to .16 for fiction reading. Its contrast is fiction against non-fiction or no reading, not literary fiction against popular fiction, so it does not settle the question on this page. The replication record is also not a straight failure. Two direct repeats, one of them by an independent group, recovered an effect close to the original size.",
+ "sources": [
+  {
+   "text": "Kidd, D. C., & Castano, E. (2013). Reading Literary Fiction Improves Theory of Mind. Science, 342(6156), 377-380.",
+   "doi": "10.1126/science.1239918"
+  },
+  {
+   "text": "Camerer, C. F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Per-study figures read from the Supplementary Information, Supplementary Tables 1, 3, 4 and 5.",
+   "doi": "10.1038/s41562-018-0399-z"
+  },
+  {
+   "text": "Panero, M. E., Weisberg, D. S., Black, J., Goldstein, T. R., Barnes, J. L., Brownell, H., & Winner, E. (2016). Does reading a single passage of literary fiction really improve theory of mind? An attempt at replication. Journal of Personality and Social Psychology, 111(5), e46-e54.",
+   "doi": "10.1037/pspa0000064"
+  },
+  {
+   "text": "Kidd, D. C., & Castano, E. (2017). Panero et al. (2016): Failure to replicate methods caused the failure to replicate results. Journal of Personality and Social Psychology, 112(3), e1-e4.",
+   "doi": "10.1037/pspa0000072"
+  },
+  {
+   "text": "Panero, M. E., et al. (2017). No support for the claim that literary fiction uniquely and immediately improves theory of mind: A reply to Kidd and Castano's commentary on Panero et al. (2016). Journal of Personality and Social Psychology, 112(3), e5-e8.",
+   "doi": "10.1037/pspa0000079"
+  },
+  {
+   "text": "Samur, D., Tops, M., & Koole, S. L. (2018). Does a single session of reading literary fiction prime enhanced mentalising performance? Four replication experiments of Kidd and Castano (2013). Cognition and Emotion, 32(1), 130-144.",
+   "doi": "10.1080/02699931.2017.1279591"
+  },
+  {
+   "text": "van Kuijk, I., Verkoeijen, P., Dijkstra, K., & Zwaan, R. A. (2018). The Effect of Reading a Short Passage of Literary Fiction on Theory of Mind: A Replication of Kidd and Castano (2013). Collabra: Psychology, 4(1), 7.",
+   "doi": "10.1525/collabra.117"
+  },
+  {
+   "text": "Kidd, D., & Castano, E. (2019). Reading Literary Fiction and Theory of Mind: Three Preregistered Replications and Extensions of Kidd and Castano (2013). Social Psychological and Personality Science, 10(4), 522-531.",
+   "doi": "10.1177/1948550618775410"
+  },
+  {
+   "text": "Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. Journal of Experimental Psychology: General, 147(11), 1713-1727.",
+   "doi": "10.1037/xge0000395"
+  },
+  {
+   "text": "Kittel, A. F. D., Olderbak, S., & Wilhelm, O. (2022). Sty in the Mind's Eye: A Meta-Analytic Investigation of the Nomological Network and Internal Consistency of the \"Reading the Mind in the Eyes\" Test. Assessment, 29(5), 872-895.",
+   "doi": "10.1177/1073191121996469"
+  },
+  {
+   "text": "Higgins, W. C., Ross, R. M., Langdon, R., & Polito, V. (2023). The \"Reading the Mind in the Eyes\" Test Shows Poor Psychometric Properties in a Large, Demographically Representative U.S. Sample. Assessment, 30(6), 1777-1789.",
+   "doi": "10.1177/10731911221124342"
+  }
+ ],
+ "checkedOn": "2026-08-15"
+}

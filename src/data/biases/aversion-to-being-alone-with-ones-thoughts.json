@@ -1,0 +1,103 @@
+{
+  "no": 389,
+  "slug": "aversion-to-being-alone-with-ones-thoughts",
+  "name": "Aversion to being alone with one's thoughts",
+  "aliases": [
+    "Just think",
+    "Thinking for pleasure"
+  ],
+  "category": "social",
+  "statement": "Asked to sit in a bare room and entertain themselves with their own thoughts, most people rate the experience below almost any ordinary activity.",
+  "meaning": "The claim is comparative and narrower than its reputation. Participants store their phones and pens, sit in an unadorned room, and entertain themselves with their thoughts for a set number of minutes. Wilson and colleagues measured how enjoyable that was, how hard it was to concentrate, and what people did when an alternative was on offer. Deliberate thinking for pleasure came out below everyday solitary activities such as reading or watching a video, and a short spell of it was hard to sustain. The finding is about thinking on demand in an empty room, not about solitude, boredom or mind wandering in general.",
+  "origin": {
+    "year": 2014,
+    "who": "Timothy D. Wilson, David A. Reinhard, Erin C. Westgate, Daniel T. Gilbert, Nicole Ellerbeck, Cheryl Hahn, Casey L. Brown and Adi Shaked",
+    "where": "Science",
+    "note": "One three-page report holding 11 studies, with thinking periods of 6 to 15 minutes. The electric-shock study is study 10 of the 11 and occupies two paragraphs. The paper's own summary line is that people prefer doing to thinking."
+  },
+  "evidence": "Enjoyment was the mean of three nine-point items, on how enjoyable and entertaining the period was and how bored the participant felt, reverse-scored, with an alpha of 0.89. Across studies 1 to 6, run in the laboratory with 146 participants, mean enjoyment was 5.12 (SD 1.77). In those six studies 57.5% put difficulty concentrating at or above the scale midpoint, 89.0% said the same of mind wandering, and 49.3% put enjoyment at or below the midpoint. Study 7 moved the task to the homes of 44 participants, where 32% admitted cheating by using a phone or leaving their chair, and enjoyment fell to 4.35 against the laboratory figure, t(188) = 2.47, P = 0.014. The authors flag that location was not randomly assigned. Study 8 is the comparison the later work turns on. Fifteen participants thought for 12 minutes and 15 chose an external solitary activity, and enjoyment was 3.20 against 6.87, t(28) = 4.83, P < 0.001. Study 9 recruited community members aged 18 to 77 at a farmer's market and a church, with similar results. Letting participants plan their topics in advance changed nothing across studies 1 to 7, with 4.97 against 4.94, t(450) = 0.15. In study 10 participants rated a shock, said how much of $5 they would pay to avoid feeling it again, then sat for 15 minutes with a button that would deliver it. Among the 42 who had said they would pay to avoid it, 12 of 18 men and 6 of 24 women pressed at least once. The men's range was 0 to 4 shocks, mean 1.47, SD 1.46, excluding one man who gave himself 190. The women's range was 0 to 9, mean 1.00, SD 2.32.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The doing-versus-thinking comparison came back at r = 0.594 against an original of 0.674, and 2,557 people across 11 countries preferred doing in every one of them.",
+    "detail": "The Social Sciences Replication Project picked study 8, because study 1 of the paper reported no significant treatment effect and their rule took the first study that did. Its single run of 39 participants, 10 men and 29 women with a mean age of 20.3, returned r = 0.594, p < 0.001. The original was r = 0.674 on 30 participants. That is a relative effect size of 0.880, and the design had 0.930 power to detect three quarters of the original effect. The stage 1 result met the replication criterion, so no stage 2 sample was collected and the project's stage 2 table leaves the row blank. Traders in the project's prediction market had priced the chance of replication at 0.75, and a survey of researchers at 0.65. Buttrick and 28 colleagues then repeated study 8 with 2,557 participants at 12 sites in 11 countries. The sites included Belgium, Brazil, Costa Rica, Japan, South Korea, Malaysia, Portugal, Serbia, Turkey and the United Arab Emirates. Participants assigned to do something reported greater enjoyment than participants assigned to think, in every country. Five individual differences accounted for the country variation in enjoyment of thinking, among them need for cognition and reported phone usage. The shock result has its own replications. Eder and colleagues ran four experiments on 254 people in Würzburg. Each participant's shock was calibrated to be slightly painful for them. The proportion who shocked themselves was 88.6% of 70, 79.7% of 59, 88.2% of 34 and 59.3% of 91. Their point is what those people chose. Given buttons for mild, familiar and strong shocks, a majority took strong ones, and in study 3 they shocked themselves while a button that produced no shock sat available. In study 4 the rate did not differ between participants aided in generating pleasant thoughts and participants aided in generating worries, chi-squared(2, N = 91) = 1.14, p = 0.566.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "n": 39
+    },
+    "original": {
+      "es": 0.674,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": 0.594,
+      "esType": "r"
+    }
+  },
+  "limits": "What replicated at high power is one comparison from one of the 11 studies, between 15 people reading or watching something and 15 people thinking. The interpretation is contested by people who accept the numbers. Fox, Thompson, Andrews-Hanna and Christoff went to the posted data for studies 1 to 7. Across 190 participants they report means of 5.21 for enjoyment, 4.24 for entertainment and 4.60 for boredom. The midpoints of those scales read somewhat enjoyable, somewhat entertaining and somewhat boring. Their reading is that thinking was mildly pleasant and merely less appealing than the alternative. Wilson and colleagues replied that the comparison between conditions and the behaviour are the informative parts, and that participants in the thinking condition were free to choose any topic. Eder and colleagues accept that people shock themselves and reject the explanation, because escape from thinking predicts a preference for the mildest available shock and that is not what people chose. Havermans, Vancleef, Kalamatianos and Nederkoorn found that participants self-administered shocks more readily while watching a boring film, which places boredom rather than thinking at the centre. Two figures here could not be obtained at first hand. Wilson's supplementary materials are behind a 403 at Science, and the PMC copy of the article is not open access. The size of study 10 and the fate of its outliers are therefore reported below from later papers. No effect size is quoted for the cross-cultural replication, whose abstract at PubMed gives the direction and the consistency but no estimate, and whose full text is paywalled. Searches covered Crossref, PubMed, Europe PMC, PMC, the Nature and Science sites and web search.",
+  "misreadings": "The popular version is that people prefer electric shocks to their own thoughts. The paper reports that 12 of 18 men and 6 of 24 women pressed the button at least once in 15 minutes. Those 42 are a selected group. Only participants who had earlier said they would pay to avoid another shock were counted. Fox and colleagues, reading the same data, report that 57% of the study's participants never pressed at all and that 17% pressed more than twice, which they take to mean nearly everyone spent nearly all of the 15 minutes thinking. The two-thirds figure is the men's rate, and 18 men is the whole of the male sample it comes from. The man who gave himself 190 shocks is usually described as excluded. What the Science report says is narrower: the bracket excluding him covers the range, the mean and the standard deviation for men, and the text does not say whether he is inside the 12. Eder and colleagues, describing the same study, put it at 55 undergraduates in total. On their account 76% were willing to pay to avoid the shock, 25 of the 55 shocked themselves, and two outliers reached 119 and 190 shocks. Those figures come from their account of the study and not from the Science report, and their discussion section puts the original rate at 43% where their introduction gives 45%. The other common error is to treat study 10 as the paper's finding. It is one study out of 11, the replication in Nature Human Behaviour tested study 8 instead, and the claim carried by the rest of the paper is the comparison between thinking and doing. Nor is the aversion fixed. Westgate, Wilson and Gilbert gave participants a thinking aid built from topics they had listed themselves, and found that those participants enjoyed the period more and found it easier.",
+  "sources": [
+    {
+      "text": "Wilson, T. D., Reinhard, D. A., Westgate, E. C., Gilbert, D. T., Ellerbeck, N., Hahn, C., Brown, C. L., & Shaked, A. (2014). Just think: The challenges of the disengaged mind. Science, 345(6192), 75-77.",
+      "doi": "10.1126/science.1250830",
+      "url": "https://doi.org/10.1126/science.1250830",
+      "type": "primary"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Replication figures read from Supplementary Tables 3 and 4 of the supplementary information PDF.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Buttrick, N., Choi, H., Wilson, T. D., Oishi, S., Boker, S. M., Gilbert, D. T., et al. (2019). Cross-cultural consistency and relativity in the enjoyment of thinking versus doing. Journal of Personality and Social Psychology, 117(5), e71-e83. Described here from its abstract at PubMed; the full text is paywalled.",
+      "doi": "10.1037/pspp0000198",
+      "url": "https://doi.org/10.1037/pspp0000198",
+      "type": "replication"
+    },
+    {
+      "text": "Eder, A. B., Maas, F., Schubmann, A., Krishna, A., & Erle, T. M. (2022). Motivations underlying self-infliction of pain during thinking for pleasure. Scientific Reports, 12, 11247.",
+      "doi": "10.1038/s41598-022-14775-w",
+      "url": "https://doi.org/10.1038/s41598-022-14775-w",
+      "type": "replication"
+    },
+    {
+      "text": "Fox, K. C. R., Thompson, E., Andrews-Hanna, J. R., & Christoff, K. (2014). Is thinking really aversive? A commentary on Wilson et al.'s \"Just think: the challenges of the disengaged mind\". Frontiers in Psychology, 5, 1427.",
+      "doi": "10.3389/fpsyg.2014.01427",
+      "url": "https://doi.org/10.3389/fpsyg.2014.01427",
+      "type": "commentary"
+    },
+    {
+      "text": "Wilson, T. D., Gilbert, D. T., Reinhard, D. A., Westgate, E. C., & Brown, C. L. (2014). Would you fund this movie? A reply to Fox et al. (2014). Frontiers in Psychology, 5, 1428.",
+      "doi": "10.3389/fpsyg.2014.01428",
+      "url": "https://doi.org/10.3389/fpsyg.2014.01428",
+      "type": "commentary"
+    },
+    {
+      "text": "Westgate, E. C., Wilson, T. D., & Gilbert, D. T. (2017). With a little help for our thoughts: Making it easier to think for pleasure. Emotion, 17(5), 828-839. Described here from its abstract at PubMed.",
+      "doi": "10.1037/emo0000278",
+      "url": "https://doi.org/10.1037/emo0000278",
+      "type": "primary"
+    },
+    {
+      "text": "Havermans, R. C., Vancleef, L., Kalamatianos, A., & Nederkoorn, C. (2015). Eating and inflicting pain out of boredom. Appetite, 85, 52-57. Described here from its abstract at PubMed.",
+      "doi": "10.1016/j.appet.2014.11.007",
+      "url": "https://doi.org/10.1016/j.appet.2014.11.007",
+      "type": "primary"
+    },
+    {
+      "text": "Wilson, T. D., Westgate, E. C., Buttrick, N. R., & Gilbert, D. T. (2019). The mind is its own place: The difficulties and benefits of thinking for pleasure. Advances in Experimental Social Psychology, 175-221. The authors' own review of the programme, including a pooled data set of just over 10,000 participants.",
+      "doi": "10.1016/bs.aesp.2019.05.001",
+      "url": "https://doi.org/10.1016/bs.aesp.2019.05.001",
+      "type": "commentary"
+    },
+    {
+      "text": "Alahmadi, S., Buttrick, N. R., Gilbert, D. T., Hardin, A. M., Westgate, E. C., & Wilson, T. D. (2017). You can do it if you really try: The effects of motivation on thinking for pleasure. Motivation and Emotion, 41(5), 545-561. Named as part of the follow-up programme; not read for this entry.",
+      "doi": "10.1007/s11031-017-9625-7",
+      "url": "https://doi.org/10.1007/s11031-017-9625-7",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

@@ -1,0 +1,111 @@
+{
+  "no": 382,
+  "slug": "rosenhan-experiment",
+  "name": "Rosenhan experiment",
+  "aliases": [
+    "On being sane in insane places",
+    "Pseudopatient study",
+    "Thud experiment"
+  ],
+  "category": "social",
+  "statement": "Eight healthy people reported one hallucinated word, were admitted to psychiatric hospitals, and were never detected once the label was attached.",
+  "meaning": "This entry is a different shape from most on this site. The question is not whether an effect repeats but whether the study happened as its author described it. Rosenhan's claim was about labelling. A person who reports a single symptom is admitted and diagnosed, and from that point the diagnosis rather than the behaviour governs how staff read anything the person does. Normal conduct on the ward is filed as pathology, and the label survives discharge in the form \"in remission\". The finding was read for decades as evidence that psychiatric diagnosis carries information about the setting rather than the patient. Since 2019 the dispute has been about the records behind the paper, not about whether a later sample behaves the same way.",
+  "origin": {
+    "year": 1973,
+    "who": "D. L. Rosenhan",
+    "where": "Science",
+    "note": "The paper is \"On being sane in insane places\", Science 179(4070), 250 to 258, published on 19 January 1973. Rosenhan was the first pseudopatient and the only one whose presence was known to a hospital administration. Footnote 6 records a ninth pseudopatient whose data were excluded for falsifying marital status and parental relationships."
+  },
+  "evidence": "The paper reports eight pseudopatients and 12 admissions to hospitals in five states on the East and West coasts. Each telephoned for an appointment and said he heard unfamiliar voices saying \"empty\", \"hollow\" and \"thud\". Beyond the voices and a false name, vocation and employer, life histories were given as they were. Of the 12 admissions, 11 were diagnosed schizophrenic and one, at the sample's only private hospital, manic-depressive psychosis. Stays ran from 7 to 52 days and averaged 19. Rosenhan reports that every pseudopatient was discharged with the entry diagnosis qualified \"in remission\", and that no member of staff raised the possibility of simulation. Other patients did: during the first three hospitalisations, when counts were kept, 35 of 118 patients on admissions wards voiced suspicion. The paper then describes a second study at a research and teaching hospital whose staff doubted such an error could happen there. Staff were told that over the next three months one or more pseudopatients would seek admission, and were asked to rate each arrival on a 10-point scale. Judgements were obtained on 193 patients. Forty-one were called pseudopatients with high confidence by at least one staff member, 23 by at least one psychiatrist, and 19 by a psychiatrist and one other staff member. Rosenhan writes that no genuine pseudopatient from his group presented during the period.",
+  "replication": {
+    "state": "mixed",
+    "headline": "No independent repeat of the admission design was located. The one published attempt at the underlying claim, Lauren Slater's visits to nine psychiatric emergency rooms, was contradicted by a vignette study of emergency psychiatrists.",
+    "detail": "Slater described presenting at nine psychiatric emergency rooms with one symptom, hearing the word \"thud\", and reported being diagnosed with psychotic depression and given prescriptions in almost every case. Her account appeared in a trade book rather than a journal, and she was not admitted anywhere, so it tests the diagnostic leap rather than Rosenhan's hospitalisation finding. Spitzer, Lilienfeld and Miller built a case vignette from her description and sent it to all 431 psychiatrist members of the American Association of Emergency Psychiatry. Seventy-three completed it, a participation rate of 17%. Only 6%, four psychiatrists, gave psychotic depression, against the eight of nine the authors infer from Slater's book. A Fisher exact test on that comparison gave a two-tailed p of 0.000067. Eighty per cent avoided a specific DSM-IV diagnosis, 56% recording psychosis not otherwise specified and 24% saying no diagnosis could be made. Eighty-two per cent would not have admitted the patient. About a third would have prescribed, always an antipsychotic and never an antidepressant. Only three raised malingering as a diagnosis to rule out, though 48% said they knew the Rosenhan study. The nearest thing to an independent record from inside the original study is Harry Lando's 1976 supplemental report, written by the excluded ninth pseudopatient. Scull, quoting that paper, records that Lando was admitted with chronic undifferentiated schizophrenia after a 45-minute interview. That fits Rosenhan's diagnostic claim. His ward had seven full-time psychiatric nurses for fewer than 18 patients, and over an hour of daily contact with doctoral staff, which does not fit Rosenhan's picture of depersonalisation. Lando's stay was 19 days and his overall impressions, he wrote, were positive.",
+    "study": {
+      "cite": "Spitzer, R. L., Lilienfeld, S. O., & Miller, M. B. (2005). Rosenhan revisited: The scientific credibility of Lauren Slater's pseudopatient diagnosis study. The Journal of Nervous and Mental Disease, 193(11), 734-739.",
+      "doi": "10.1097/01.nmd.0000185992.16053.5c",
+      "year": 2005,
+      "n": 73
+    }
+  },
+  "limits": "The paper names neither the hospitals nor the pseudopatients. Spitzer noted in 1975 that this makes it impossible for anyone at those hospitals to corroborate or challenge Rosenhan's account, and Rosenhan's own footnote says he eliminated clues that might identify them. Spitzer also attacked the finding that reads as strongest. He examined the discharge book at the New York State Psychiatric Institute and found that of over 300 patients discharged in the previous year with a diagnosis of schizophrenia, none was recorded \"in remission\". He then telephoned 12 hospitals; 11 said the term was never used or used for a handful of patients a year, and the twelfth, a private hospital, estimated 1% of discharges. His reading is the reverse of Rosenhan's. If \"in remission\" was that rare, 11 psychiatrists reaching for it means they were responding to what they saw on the ward rather than to the admission label. The status of the second study, the one where a hospital was forewarned, could not be settled here. Rosenhan describes it in two paragraphs and identifies neither the hospital nor the dates. None of the sources read for this entry, Griggs and colleagues, Scull, Spitzer, Justman or Abbott's review in Nature, examines whether it was carried out. Searches for that question covered Crossref, PubMed, web search, the Internet Archive and the reference lists of those five papers. Cahalan's book was not obtained; what it reports is taken here from the two peer-reviewed papers that summarise it and from Abbott's review.",
+  "misreadings": "\"The study was fabricated\" is a conclusion, not a finding, and it belongs to named people. Susannah Cahalan's 2019 book reports an archival investigation. Griggs, Blyler and Jackson summarise it in a teaching journal, and four documented items stand out. Rosenhan's Haverford State Hospital record has him describing copper pots over his ears, sensitivity to radio signals, hearing other people's thoughts and suicidal feelings. None of that is in the published script. The medical record he excerpted in Science differs from the record itself, and the writs of habeas corpus promised in footnote 8 were recalled by neither lawyer named. Archival data give Bill Underwood 7 days in a hospital of 8,000, where he spent 8 days in one of 1,510. Two drafts of the paper, one with nine pseudopatients and one with eight, carry identical frequency data. Scull, in History of Psychiatry, calls the result a successful scientific fraud and adds that no admission documents or pseudopatient observations survive anywhere in Rosenhan's files. What is documented is the discrepancy; that six pseudopatients never existed is an inference from failing to find them, and Cahalan writes, in Abbott's summary, that she cannot be certain Rosenhan cheated. Helen Spandler, reviewing the book in Asylum, asks whether Cahalan is guilty of the same charge as Rosenhan, making a good story out of a conflicting reality. The influence on DSM-III is a separate claim with its own advocate: Scull argues that the publicity around the paper pushed the American Psychiatric Association to convene the task force that Robert Spitzer then chaired. The counts also get garbled. There were eight people and 12 admissions, so the 11 schizophrenia diagnoses are admissions rather than individuals, and two pseudopatients went to more than one hospital.",
+  "sources": [
+    {
+      "text": "Rosenhan, D. L. (1973). On being sane in insane places. Science, 179(4070), 250-258. Read for this entry from two independent copies of the full text.",
+      "doi": "10.1126/science.179.4070.250",
+      "url": "https://doi.org/10.1126/science.179.4070.250",
+      "type": "primary"
+    },
+    {
+      "text": "Spitzer, R. L. (1975). On pseudoscience in science, logic in remission, and psychiatric diagnosis: A critique of Rosenhan's \"On being sane in insane places\". Journal of Abnormal Psychology, 84(5), 442-452.",
+      "doi": "10.1037/h0077124",
+      "url": "https://doi.org/10.1037/h0077124",
+      "type": "commentary"
+    },
+    {
+      "text": "Lando, H. A. (1976). On being sane in insane places: A supplemental report. Professional Psychology, 7(1), 47-52. The excluded ninth pseudopatient's own account; quoted here from Scull's reading of it rather than read directly.",
+      "doi": "10.1037/0735-7028.7.1.47",
+      "url": "https://doi.org/10.1037/0735-7028.7.1.47",
+      "type": "primary"
+    },
+    {
+      "text": "Spitzer, R. L., Lilienfeld, S. O., & Miller, M. B. (2005). Rosenhan revisited: The scientific credibility of Lauren Slater's pseudopatient diagnosis study. The Journal of Nervous and Mental Disease, 193(11), 734-739.",
+      "doi": "10.1097/01.nmd.0000185992.16053.5c",
+      "url": "https://doi.org/10.1097/01.nmd.0000185992.16053.5c",
+      "type": "replication"
+    },
+    {
+      "text": "Griggs, R. A., Blyler, J., & Jackson, S. L. (2023). New revelations about Rosenhan's pseudopatient study: Scientific integrity in remission. Scholarship of Teaching and Learning in Psychology, 9(1), 80-87. Read here in the advance online version dated 2020.",
+      "doi": "10.1037/stl0000202",
+      "url": "https://doi.org/10.1037/stl0000202",
+      "type": "commentary"
+    },
+    {
+      "text": "Scull, A. (2023). Rosenhan revisited: successful scientific fraud. History of Psychiatry, 34(2), 180-195.",
+      "doi": "10.1177/0957154X221150878",
+      "url": "https://doi.org/10.1177/0957154X221150878",
+      "type": "commentary"
+    },
+    {
+      "text": "Abbott, A. (2019). On the troubling trail of psychiatry's pseudopatients stunt. Nature, 574(7780), 622-623. Review of Cahalan's book, and the source here for her own statement that she cannot be certain Rosenhan cheated.",
+      "doi": "10.1038/d41586-019-03268-y",
+      "url": "https://doi.org/10.1038/d41586-019-03268-y",
+      "type": "commentary"
+    },
+    {
+      "text": "Cahalan, S. (2019). The Great Pretender: The Undercover Mission That Changed Our Understanding of Madness. New York: Grand Central Publishing. Not obtained for this entry; its findings are reported here through Griggs and colleagues, Scull and Abbott.",
+      "url": "https://www.grandcentralpublishing.com/titles/susannah-cahalan/the-great-pretender/9781538715277/",
+      "type": "commentary"
+    },
+    {
+      "text": "Cahalan, S. (2017). In search of Insane Places. The Lancet Psychiatry, 4(5), e9. Her published appeal for help identifying the pseudopatients, which Griggs and colleagues report produced no leads.",
+      "doi": "10.1016/S2215-0366(17)30138-4",
+      "url": "https://doi.org/10.1016/S2215-0366(17)30138-4",
+      "type": "commentary"
+    },
+    {
+      "text": "Justman, S. (2021). Below the line: Misrepresented sources in the Rosenhan hoax. Global Humanities and Religions Faculty Publications 13, University of Montana.",
+      "url": "https://scholarworks.umt.edu/libstudies_pubs/13/",
+      "type": "commentary"
+    },
+    {
+      "text": "Spandler, H. (2020). The Great Pretender: book review. Asylum, 27(2). A reviewer's caution that Cahalan may be building a good story out of a conflicting reality.",
+      "url": "https://asylummagazine.org/2020/06/the-great-pretender-book-review/",
+      "type": "commentary"
+    },
+    {
+      "text": "Fleischman, P. R., and 14 others, with a reply by D. L. Rosenhan (1973). Psychiatric diagnosis. Science, 180(4084), 356-369. The letters that followed publication; named here as existing and not read for this entry.",
+      "doi": "10.1126/science.180.4084.356",
+      "url": "https://doi.org/10.1126/science.180.4084.356",
+      "type": "commentary"
+    },
+    {
+      "text": "Bartels, J. M., & Peters, D. (2017). Coverage of Rosenhan's \"On Being Sane in Insane Places\" in abnormal psychology textbooks. Teaching of Psychology, 44(2), 169-173. Cited by both Griggs and Scull on textbook coverage; not read for this entry.",
+      "doi": "10.1177/0098628317692634",
+      "url": "https://doi.org/10.1177/0098628317692634",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

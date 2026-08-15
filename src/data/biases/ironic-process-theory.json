@@ -1,0 +1,106 @@
+{
+  "no": 384,
+  "slug": "ironic-process-theory",
+  "name": "Ironic process theory",
+  "aliases": [
+    "White bear paradigm",
+    "Paradoxical effects of thought suppression",
+    "Ironic effects of thought suppression",
+    "Post-suppression rebound"
+  ],
+  "category": "memory",
+  "statement": "Trying not to think about something is claimed to make it come to mind more often, both during the attempt and after the attempt ends.",
+  "meaning": "The claim comes in two parts, and the parts are tested by different comparisons. Immediate enhancement says that someone told to keep a thought out of mind reports it more often during the attempt than someone told to concentrate on it. Post-suppression rebound says that once the instruction lifts, the thought returns more often than it would have without the earlier effort. Both are measured in the white bear procedure. One group suppresses a target thought for five minutes and then expresses it, while a control group takes the same two periods in the opposite order. Occurrences are counted by the participant, classically by talking aloud and ringing a bell. Wegner's later theory adds a precondition. Its abstract describes an operating process that searches for contents consistent with the intended state, and a monitoring process that searches for contents inconsistent with it. The operating process needs more capacity, so reducing capacity is said to let the monitor supersede it and raise sensitivity to the unwanted thought. This entry covers the white bear paradigm only. The think/no-think task, where suppressing a memory at its cue makes it harder to recall later, runs the opposite way and sits under motivated forgetting; retrieval-induced forgetting sits under memory inhibition.",
+  "origin": {
+    "year": 1987,
+    "who": "Daniel M. Wegner, David J. Schneider, Samuel R. Carter III and Teri L. White",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The 1987 paper reports the white bear experiments and calls the result paradoxical rather than ironic. It opens with the story of the young Dostoyevski being challenged not to think of a white bear. The theory that supplies the name and the cognitive-load precondition came seven years later, in Wegner's 1994 Psychological Review article."
+  },
+  "evidence": "Wegner, Schneider, Carter and White ran two experiments on undergraduates at Trinity University. Experiment 1 used 34 volunteers, 14 men and 20 women, 17 to each order. Suppression was never complete: participants signalled a white bear more than once a minute while trying not to have one. Summed thought tokens averaged 19.22 in expression periods against 6.78 in suppression periods, F(1, 32) = 41.01, p < .0001. The rebound is the interaction, F(1, 32) = 4.79, p < .05, carried by the expression period alone, F(1, 32) = 5.05, p < .05. In the suppression period the two groups did not differ, F(1, 32) < 1, so this experiment shows no immediate enhancement. Tokens in the two periods correlated at .55 for the initial expression group and at -.10 for the initial suppression group, a difference at p < .01. Bell rings per minute rose across the expression period only after suppression, a three-way trend interaction at F(1, 31) = 7.02, p < .02. Experiment 2 recruited 54 students, 16 men and 38 women, and dropped 5 for inaudible tapes, leaving 15 in one group and 17 in each of the others. Thought occurrences during expression ran 15.47 after initial expression, 34.05 after initial suppression and 21.00 in a group told to distract itself with a red Volkswagen, F(2, 46) = 4.62, p < .02. Here the suppression period did differ, 4.13 against 9.17, F(2, 46) = 4.54, p < .02, and the authors write that this did not occur in the prior study and that it is not clear why it appeared. The load version of the claim rests on Wegner and Erber's 1992 hyperaccessibility experiments, which this entry did not obtain. The team preparing a multilab replication of them reports the original immediate enhancement as d = -0.82, interval -1.36 to -0.27, under low time pressure and d = 0.54, interval 0.01 to 1.07, under high time pressure. The same protocol gives the 1987 rebound as d = 0.77, interval 0.07 to 1.47.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Three meta-analyses find a rebound after suppression, the most recent putting it at d = 0.19, and two of the three find that people report the thought less often, not more, while they are suppressing it.",
+    "detail": "Abramowitz, Tolin and Street pooled controlled studies in 2001 and reported a small to moderate rebound whose size varied with the target thought and the measure, and no larger rebound in clinical samples, while noting that few of their studies had any. Magee, Harden and Teachman repeated the exercise in 2012 on 59 studies, 52 of which supplied data. Across all samples they found an initial enhancement effect of d+ = -.36, 95% CI [-.52, -.20], from 56 samples, meaning fewer intrusions under suppression instructions than under control instructions. Their rebound was d+ = .15, CI [.04, .27], from 40 samples. They describe Abramowitz and colleagues' matching figures as -.35 and .30, and those two numbers are quoted here at one remove and kept out of the structured fields. Wang, Hagger and Chatzisarantis then asked whether the missing enhancement was a missing precondition. Their 31 studies, published between 1987 and 2015, yielded 83 effect sizes. Overall immediate enhancement was d+ = -1.10, 95% CI [-1.53, -0.67], across 42 effect sizes and 1,892 participants. Split by load it reversed: -1.38, CI [-1.84, -0.93], without load, and 0.34, CI [0.07, 0.61], with load, a difference of 1.73, CI [1.19, 2.26], t = 6.35, p < .001. The loaded estimate rests on 7 effect sizes and 355 participants. Rebound came out at 0.19, CI [0.02, 0.35], across 41 effect sizes and 1,636 participants, and load did not moderate it. Their own bias analysis complicates the rebound rather than the enhancement: the PEESE-corrected estimate for rebound was not different from zero, while the direction of the enhancement result survived correction. Niczyporuk's 2025 review reports that the rebound was numerically reversed in 18% of the cases analysed by Abramowitz and colleagues and 46% of those analysed by Wang and colleagues, and concludes that paradoxical effects have not been convincingly demonstrated. A multilab registered replication of both effects, accepted in principle at Advances in Methods and Practices in Psychological Science in November 2022, collected data between January and November 2023 with 27 labs signed up at submission across 12 countries. Searches of Crossref, PubMed and that journal's Crossref listing in August 2026 returned no results paper; its project page carries data and code folders for review dated to April 2026.",
+    "study": {
+      "cite": "Wang, D. (A.), Hagger, M. S., & Chatzisarantis, N. L. D. (2020). Ironic Effects of Thought Suppression: A Meta-Analysis. Perspectives on Psychological Science, 15(3), 778-793.",
+      "doi": "10.1177/1745691619898795",
+      "year": 2020,
+      "n": 1636
+    },
+    "original": {
+      "es": 0.77,
+      "esType": "d"
+    },
+    "replicated": {
+      "es": 0.19,
+      "esType": "d",
+      "ci": [0.02, 0.35],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The rebound figure in the structured fields is a pooled meta-analytic estimate, and the original figure beside it is the 1987 rebound as computed by the team preparing its replication, not a number Wegner's paper prints. The search ran across Crossref, DataCite, PubMed, Europe PMC, the Open Science Framework and the open web in August 2026. Wegner's 1994 Psychological Review article was read only in its PubMed abstract; the scanned copy located has no text layer and optical character recognition on it failed, so the account of the theory above comes from that abstract. Abramowitz and colleagues' meta-analysis was read in abstract at PubMed, which is why its two pooled figures are quoted through Magee and colleagues. Wegner and Erber's 1992 experiments were not obtained. Wang and colleagues' paper was read as the accepted manuscript, downloaded separately from the Open Science Framework and from Griffith University's repository, rather than as the published version. Wang and colleagues note that rebound periods in this literature generally last no longer than the suppression period, so nothing here speaks to what happens more than about ten minutes after suppression stops. Most measures are the participant's own tally, and Niczyporuk argues that what the indirect measures capture is unsettled.",
+  "misreadings": "The two claims are quoted as one finding, and the evidence separates them. Rebound is small and positive in every meta-analysis located; immediate enhancement is negative in two of them and positive only in the seven loaded effect sizes Wang and colleagues could find. Wegner's own Experiment 1 reported no group difference during suppression, and his Experiment 2, which did, says the result was unexpected. The theory is also broader than the task. It is a general account of mental control, and the white bear studies test one corner of it, so a rebound in thought counts is weak warrant for ironic effects in mood, sleep or movement. The clinical reading goes furthest beyond the data. Magee and colleagues found no overall difference in suppression difficulty between samples with and without psychopathology, and less recurrence, not more, in samples with obsessive-compulsive symptoms. Mamat and Anderson trained 120 adults from 16 countries to suppress fearful thoughts over three days and report no paradoxical increase in fears, with anxiety and negative affect falling and the depression benefit holding at three months. Mamat, Levy and Bayley argue from that work that the field's rejection of suppression as a therapeutic tool was built on the white bear instructions rather than on evidence. Their case is an argument in a perspective article, not a trial. Finally, the white bear task is not the think/no-think task, and a finding in one is not a finding in the other. Niczyporuk treats think/no-think suppression as the reliable half of this literature, which is a stronger reading of that paradigm than the motivated forgetting entry records.",
+  "sources": [
+    {
+      "text": "Wegner, D. M., Schneider, D. J., Carter, S. R., & White, T. L. (1987). Paradoxical effects of thought suppression. Journal of Personality and Social Psychology, 53(1), 5-13. Full text read from a posted PDF; the source for every figure in the evidence section's first two experiments.",
+      "doi": "10.1037/0022-3514.53.1.5",
+      "url": "http://www.communicationcache.com/uploads/1/0/8/8/10887248/paradoxical_effects_of_thought_suppression.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Wegner, D. M. (1994). Ironic processes of mental control. Psychological Review, 101(1), 34-52. Read in abstract at PubMed; the source for the operating and monitoring processes and for the capacity precondition.",
+      "doi": "10.1037/0033-295X.101.1.34",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8121959/",
+      "type": "primary"
+    },
+    {
+      "text": "Wegner, D. M., & Erber, R. (1992). The hyperaccessibility of suppressed thoughts. Journal of Personality and Social Psychology, 63(6), 903-912. Crossref record only; not read.",
+      "doi": "10.1037/0022-3514.63.6.903",
+      "url": "https://doi.org/10.1037/0022-3514.63.6.903",
+      "type": "primary"
+    },
+    {
+      "text": "Wang, D. (A.), Hagger, M. S., & Chatzisarantis, N. L. D. (2020). Ironic Effects of Thought Suppression: A Meta-Analysis. Perspectives on Psychological Science, 15(3), 778-793. Accepted manuscript read in full from two repositories; the source for the pooled estimates, the load moderation and the bias analysis.",
+      "doi": "10.1177/1745691619898795",
+      "url": "https://osf.io/preprints/psyarxiv/c64fp",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Magee, J. C., Harden, K. P., & Teachman, B. A. (2012). Psychopathology and thought suppression: A quantitative review. Clinical Psychology Review, 32(3), 189-201. Full text read at PMC; the source for the 2012 estimates, the study counts and the reported figures from Abramowitz and colleagues.",
+      "doi": "10.1016/j.cpr.2012.01.001",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3307846/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Abramowitz, J. S., Tolin, D. F., & Street, G. P. (2001). Paradoxical effects of thought suppression: a meta-analysis of controlled studies. Clinical Psychology Review, 21(5), 683-703. Read in abstract at PubMed; its pooled figures are quoted here through Magee and colleagues.",
+      "doi": "10.1016/S0272-7358(00)00057-X",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11434226/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Niczyporuk, A. (2025). The effectiveness and adaptiveness of suppressing unwanted thoughts. Psychonomic Bulletin & Review, 33(1). Full text read at PMC; the source for the reversal percentages and for the review's conclusion.",
+      "doi": "10.3758/s13423-025-02763-w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12689852/",
+      "type": "review"
+    },
+    {
+      "text": "Wang, D. (A.), Chan, K. Q., Morys-Carter, W., & Hagger, M. S. Registered Replication Report: a multilab direct replication of Wegner and Erber (1992) and Wegner, Schneider, Carter and White (1987). Pre-data accepted manuscript read in full from the project's Open Science Framework page; the source for the recomputed original effect sizes, the lab count and the collection dates.",
+      "url": "https://osf.io/u3nza/",
+      "type": "replication"
+    },
+    {
+      "text": "Mamat, Z., & Anderson, M. C. (2023). Improving mental health by training the suppression of unwanted thoughts. Science Advances, 9(38). Abstract read at Crossref; the source for the 120 participants and the reported outcomes.",
+      "doi": "10.1126/sciadv.adh5292",
+      "url": "https://doi.org/10.1126/sciadv.adh5292",
+      "type": "replication"
+    },
+    {
+      "text": "Mamat, Z., Levy, D. A., & Bayley, P. J. (2024). Reconsidering thought suppression and ironic processing: implications for clinical treatment of traumatic memories. Frontiers in Psychology, 15, 1496134. Full text read at PMC; cited for the argument against the clinical reading, not for evidence.",
+      "doi": "10.3389/fpsyg.2024.1496134",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11669253/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

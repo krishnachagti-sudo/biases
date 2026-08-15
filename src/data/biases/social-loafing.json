@@ -1,0 +1,93 @@
+{
+  "no": 377,
+  "slug": "social-loafing",
+  "name": "Social loafing",
+  "aliases": [
+    "Ringelmann effect"
+  ],
+  "category": "social",
+  "statement": "People put less effort into a task whose output is pooled than into the same task done separately, and the gap closes when their own share can be seen.",
+  "meaning": "The comparison that defines the effect is narrow. Social loafing is the difference between working coactively, next to other people but with your own output measured, and working collectively, with your output merged into a single group product. Other people are present in both conditions, so the claim is not about being watched. This site's entry on social facilitation covers that neighbouring question. Karau and Williams read the pattern as expectancy-value arithmetic and named it the Collective Effort Model. A person exerts effort when they believe it will bring about something they value, and pooling cuts the link between the two. On that reading the useful question is not whether people loaf but which conditions restore the link, and their meta-analysis is mostly an inventory of those conditions.",
+  "origin": {
+    "year": 1979,
+    "who": "Bibb Latané, Kipling Williams and Stephen Harkins",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "This is the paper that coined the term. Its own account of the antecedent is wrong. It describes Ringelmann as a German psychologist who never published, where he was a French agricultural engineer whose report appeared in 1913, covering work done between 1882 and 1887."
+  },
+  "evidence": "Latané, Williams and Harkins measured sound. In Experiment 1, groups of six male undergraduates at Ohio State, recruited on eight separate occasions, clapped and cheered for five seconds at a time. Two-person groups produced 71% of the sum of their individual capacity, four-person groups 51% and six-person groups 40%. Experiment 2 put six groups of six men in blindfolds and headsets so nobody could see or hear anyone else. Real pairs reached 66% and real sixes 36%. The same men also shouted alone while believing others were shouting with them: 82% of their solo output when they thought one other person was yelling, 74% when they thought five were. Since nothing can be mis-synchronised in that condition, the authors concluded that half the loss in real groups is faulty coordination and half is reduced effort. The quantitative record is Karau and Williams. They drew 78 studies from 59 documents, split them into 166 units and 178 once male and female subjects were separated, and computed 163 effect sizes for objective effort. The mean weighted d was 0.44, 95% CI 0.39 to 0.48, with an unweighted mean of 0.48 and a median of 0.41. Of the 163 comparisons, 128, or 79%, ran in the loafing direction. The effects were not homogeneous, Q = 964.70, p < .001. Dropping 39% of them made them so, and the weighted mean then fell to 0.24, 95% CI 0.19 to 0.29.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The pooled estimate across 163 comparisons is d = 0.44, but it is 0.76 in the studies whose authors predicted loafing and -0.01 in the studies whose authors did not.",
+    "detail": "Karau and Williams tested that split themselves. Sorting comparisons by whether the original researchers predicted loafing gave Q-between(2) = 310.86, p < .001. Where it was predicted, d = 0.76, 95% CI 0.70 to 0.81, across 89 comparisons. Where it was not, d = -0.01, 95% CI -0.08 to 0.06, across 59. Where no prediction was stated, d = 0.19, 95% CI 0.09 to 0.29, across 15. Their moderator table tells the same story about conditions rather than expectations. Where individual outputs could be evaluated in the coactive condition only, d = 0.59, 95% CI 0.55 to 0.64, across 115 comparisons. Where they could be evaluated in both conditions the effect was 0.08, 95% CI -0.01 to 0.17, and where they could be evaluated in neither it was -0.12, 95% CI -0.33 to 0.08. High task valence gave -0.10, 95% CI -0.22 to 0.02, and high group valence -0.17, 95% CI -0.41 to 0.08. Unique individual inputs gave 0.03, 95% CI -0.18 to 0.24, against 0.49 for potentially redundant and 0.44 for completely redundant ones. Complex tasks gave -0.11 across seven comparisons and organisational employees -0.19 across six, both intervals crossing zero. Eastern samples gave 0.19, 95% CI 0.06 to 0.32, against 0.46 for Western ones. Later work runs both ways. Cymek, Truckenbrodt and Onnasch had 42 people inspect circuit boards for defects, alone or after a robot had marked them. On the five defects the robot missed, those working with it found 3.30 against 4.23 alone, U = 148.5, Z = -1.83, p = .029, r = .292. Westbrook and colleagues ran 41 two-hour simulations with 82 paediatric nurses and 640 error-detection opportunities. Early career nurses detected 26.0% more errors when checking alone than when acting as first checker in an independent double check. Hüffmeier, Hertel, Torka, Nohe and Krumm review their own field and vignette work and report the opposite result. People often work harder in groups than alone, which they attribute to the literature's reliance on laboratory tasks.",
+    "study": {
+      "cite": "Karau, S. J., & Williams, K. D. (1993). Social loafing: A meta-analytic review and theoretical integration. Journal of Personality and Social Psychology, 65(4), 681-706.",
+      "doi": "10.1037/0022-3514.65.4.681",
+      "year": 1993
+    },
+    "replicated": {
+      "es": 0.44,
+      "esType": "d",
+      "ci": [0.39, 0.48],
+      "ciLevel": 95,
+      "weighting": "inverse-variance weighted across 163 effect sizes for objective effort"
+    }
+  },
+  "limits": "The base is narrower than the claim. Of the 166 units Karau and Williams coded, 142 were laboratory studies and 24 field studies. College students supplied 143 of them and organisational employees six. The median group size was three and the median study had 48 subjects. The 23 field comparisons gave d = 0.25, 95% CI 0.16 to 0.35, against 0.47 in the laboratory. Effect size also tracked publication form, running 0.50 across 118 journal articles, 0.36 across 23 meeting papers, 0.31 across 14 theses and 0.05 across eight unpublished documents. Karau and Williams make the opposite point as well, that a literature built to find conditions which abolish loafing will understate how large it is in the wild. No total participant count appears in the parts of their paper read here, so the figure of 15,000 or more that circulates with this meta-analysis is not quoted. Four documents were not obtained. Moede's 1927 summary, the route by which Ringelmann reached English-language psychology, was not read, and everything about it here comes from Kravitz and Martin. Ingham and colleagues' 1974 rope-pulling replication is described only as Latané and colleagues report it, at 91% for dyads, 82% for trios and 78% for groups of six. Hüffmeier and colleagues' review and Cymek and Manzey's double-checking experiments were read from their abstracts, so no figure is taken from either. Ringelmann's own 1913 report was obtained from Gallica and read directly for its authorship, its dates and its individual-effort tables, but its group tables are quoted here from Kravitz and Martin. Searches covered Crossref, PubMed, Semantic Scholar, Unpaywall, Gallica and web search, and turned up no later meta-analysis of the coactive-collective difference, including none on virtual or online teams.",
+  "misreadings": "The origin story is the largest error attached to this effect. Latané, Williams and Harkins open with a German psychologist named Ringelmann who did a study he never managed to publish, known only through Moede's 1927 summary. Kravitz and Martin found the report. Max Ringelmann was a French agricultural engineer, professor of rural engineering at the Institut National Agronomique and director of its machine testing station. His 1913 article in the Annales of that institute states that his trials on men ran mainly from 1882 to 1887 at Grand-Jouan. Moede printed the results in a small figure with the name in parentheses and no citation, which is how the misattribution started, and Moede was born in 1888. The numbers came through the same channel damaged. The series everyone quotes, 1.00, 0.93, 0.85 and 0.49 for one, two, three and eight workers, comes from a table on page 9 of Ringelmann's report. That table summarises work he did not describe. Kravitz and Martin note that his own seven-man rope groups ran at efficiencies of 0.63 to 0.83, against the 0.56 the table gives. Moede's attribution of those figures to rope pulling is not supported by the original, and only the values for one, two, three and eight were passed on. Reading Ringelmann's data, Kravitz and Martin put mean individual force at 85.3 kg alone, 65.0 kg in seven-man groups and 61.4 kg in the fourteen-man group. Ringelmann explained the drop as coordination loss, the lack of simultaneity in his men's efforts. The one case he read as motivational was prisoners driving a flour mill, where each man trusted his neighbour and let himself be carried along by the crank. The second misreading is the management version, that people slack off in groups. What the meta-analysis supports is narrower. Effort falls when a contribution cannot be told apart. The intervals cross zero once outputs are identifiable, the task matters to the person, the group matters to the person, or the contribution is unique. Motivation gains sit in the same table. Karau and Williams found the four comparisons combining a meaningful task with co-workers expected to perform badly at d = -0.69, 95% CI -1.11 to -0.27, effort above the solo level rather than below it.",
+  "sources": [
+    {
+      "text": "Latané, B., Williams, K., & Harkins, S. (1979). Many hands make light the work: The causes and consequences of social loafing. Journal of Personality and Social Psychology, 37(6), 822-832. Full text read from the copy hosted at MIT.",
+      "doi": "10.1037/0022-3514.37.6.822",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/required_reading/4Latane_et_al_1979_Many_hands_make_light_the_work.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Karau, S. J., & Williams, K. D. (1993). Social loafing: A meta-analytic review and theoretical integration. Journal of Personality and Social Psychology, 65(4), 681-706. Read as a page-image scan; every figure quoted here was extracted twice, once by eye and once by OCR.",
+      "doi": "10.1037/0022-3514.65.4.681",
+      "url": "http://www.psych.purdue.edu/~willia55/392F-'06/KarauWilliamsMetaAnalysisJPSP.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Kravitz, D. A., & Martin, B. (1986). Ringelmann rediscovered: The original article. Journal of Personality and Social Psychology, 50(5), 936-941. The account of Ringelmann's group data, of Moede's summary and of the 1882 to 1887 dates comes from this paper.",
+      "doi": "10.1037/0022-3514.50.5.936",
+      "url": "https://milehighpsychiatry.com/wp-content/uploads/2025/09/Ringelmann_Rediscovered_The_Original_Article.pdf",
+      "type": "provenance"
+    },
+    {
+      "text": "Ringelmann, M. (1913). Recherches sur les moteurs animés: Travail de l'homme. Annales de l'Institut National Agronomique, 2nd series, vol. 12, 1-40. Page images read at Gallica for the title, the author's posts, the 1882 to 1887 dates, the twenty student subjects and the individual-effort tables.",
+      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k54409695/f14.image",
+      "type": "primary"
+    },
+    {
+      "text": "Hüffmeier, J., Hertel, G., Torka, A.-K., Nohe, C., & Krumm, S. (2021). In field settings group members (often) show effort gains instead of social loafing. European Review of Social Psychology, 33(1), 131-170. Paywalled; described here from its abstract, and no figure is taken from it.",
+      "doi": "10.1080/10463283.2021.1959125",
+      "url": "https://doi.org/10.1080/10463283.2021.1959125",
+      "type": "review"
+    },
+    {
+      "text": "Cymek, D. H., Truckenbrodt, A., & Onnasch, L. (2023). Lean back or lean in? Exploring social loafing in human-robot teams. Frontiers in Robotics and AI, 10, 1249252. Full text read at the publisher.",
+      "doi": "10.3389/frobt.2023.1249252",
+      "url": "https://www.frontiersin.org/articles/10.3389/frobt.2023.1249252/full",
+      "type": "replication"
+    },
+    {
+      "text": "Westbrook, J. I., McMullan, R., Fitzpatrick, E., Merchant, A., Wiggins, M., Aryal, N., et al. (2026). Is independent double-checking superior to single-checking in medication administration error detection? A randomised controlled simulation trial. BMJ Quality & Safety. Described here from its abstract.",
+      "doi": "10.1136/bmjqs-2025-019743",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41825963/",
+      "type": "replication"
+    },
+    {
+      "text": "Cymek, D. H., & Manzey, D. (2022). Sequential human redundancy: Can social loafing diminish the safety of double checks? Journal of Experimental Psychology: Applied, 28(4), 931-945. Paywalled; described here from its abstract, which reports loafing by the second checker when the first checker's judgement was visible and none when it was hidden.",
+      "doi": "10.1037/xap0000439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35786941/",
+      "type": "replication"
+    },
+    {
+      "text": "Ingham, A. G., Levinger, G., Graves, J., & Peckham, V. (1974). The Ringelmann effect: Studies of group size and group performance. Journal of Experimental Social Psychology, 10(4), 371-384. Not obtained; its rope-pulling percentages are quoted here as Latané and colleagues report them.",
+      "doi": "10.1016/0022-1031(74)90033-x",
+      "url": "https://doi.org/10.1016/0022-1031(74)90033-x",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

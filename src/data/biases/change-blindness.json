@@ -1,0 +1,113 @@
+{
+  "no": 385,
+  "slug": "change-blindness",
+  "name": "Change blindness",
+  "category": "perception",
+  "statement": "People often miss large changes to a scene, including the swap of the person they are talking to, when no localised motion signal marks the moment of change.",
+  "meaning": "The claim is about comparison, not about seeing. Noticing that something has changed requires holding a representation of the scene before the change, holding one after it, and comparing the two. Any manipulation that stops the change producing a localised motion signal breaks that chain: a blank screen, an eye movement, a blink, a cut between camera positions, a passing door. Rensink, O'Regan and Clark set out the proposal in two lines. Visual perception of change in an object happens only when that object is given focused attention, and without attention the contents of visual memory are overwritten by later stimuli and cannot be compared. Jensen, Yao, Street and Simons give the rule of thumb that separates this from inattentional blindness: change blindness needs two displays and a memory linking them, while inattentional blindness needs only one, and change blindness can survive an active search for the target while inattentional blindness cannot.",
+  "origin": {
+    "year": 1997,
+    "who": "Ronald Rensink, J. Kevin O'Regan and James Clark",
+    "where": "Psychological Science",
+    "note": "The paper introduces the flicker paradigm and calls the effect induced change blindness. It treats the phenomenon as already documented in two older traditions it cites, brief-display work running back to Phillips in 1974 and saccade-contingent work running back to the 1970s, and asks whether one attentional mechanism explains both. Simons and Levin's review in Trends in Cognitive Sciences the following month carries the bare phrase as its title."
+  },
+  "evidence": "The laboratory version alternates an original image and a modified one with blank fields between them. Rensink and colleagues used 48 colour images of real-world scenes, each carrying a single change of colour, location or presence, with images shown for 240 ms and blanks for 80 ms. Ten naive observers took part in each experiment. Changes to areas that five independent describers had not mentioned took an average of 17.1 alternations, 10.9 s, to identify. Changes to areas three or more of them had mentioned took 7.3 alternations, 4.7 s. Removing the blanks dropped identification to 1.4 alternations, 0.9 s, so the changes were plainly visible. A valid verbal cue naming the changing part also sped identification sharply, which rules out poor visibility as the cause. The field version is the door study. Simons and Levin ran two experiments on the Cornell campus, in which an experimenter with a map asked a pedestrian for directions and was swapped for a second experimenter while two people carrying a door passed between them. The door blocked the view for about one second, and the two experimenters wore different clothing, differed in height by about 5 cm and had distinguishable voices. In Experiment 1, 7 of 15 pedestrians reported the change. Those who noticed were all roughly the experimenters' own age, and those who missed it were older, which the authors read after the fact as an in-group and out-group difference. Experiment 2 tested that reading by dressing the same two experimenters as construction workers and approaching 12 students from the group that had always noticed in Experiment 1. Four of the 12 reported the switch. A further 3 said they had noticed nothing unusual, then claimed the switch when asked directly, and could not name any difference between the two men.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Levin, Simons, Angelone and Chabris repeated the real-world person swap three times, and 34 of the 75 people in the closest repeat of the door scenario missed it.",
+    "detail": "Experiment 2 of that paper is the direct repeat. Of 75 participants, 45 percent, 34 of 75, neither reported the change nor claimed it when asked directly. Split by scenario, 15 of 39 missed it in the directions condition and 19 of 36 in a condition where the experimenter handed over a photograph, a difference their chi-square test did not resolve. Those who missed the change picked the first experimenter from a photographic lineup 26 percent of the time, 9 of 34, against 63 percent, 26 of 41, for those who noticed. Their Experiment 1 removed the door. An experimenter standing behind a 106 cm counter ducked below it to fetch some forms, a second man rose in his place, and 15 of 20 participants missed the swap. Nine of those 20 had heard about the door study before, six of the nine still missed the change, and four of the six had heard it described within the hour. Experiment 3 ran the photograph scenario with two pairs of female experimenters, and 19 of 67 missed the change. The effect also does not depend on a disruption at all. Simons, Franconeri and Reimer faded objects into and out of photographs over about 12 s with nothing interrupting the view, and observers located 64.3 percent of the gradual changes against 57.4 percent of the same changes across a blank screen, F(1,22) = 1.508, p = 0.232. Applied work reaches the same place. Davies and Hine showed 80 people a filmed burglary in which the burglar's identity changed halfway through, and 61 percent did not notice. Detection rates were higher among those told to remember the film's content. No standardised effect size is quoted in the structured fields below, because every one of these results is a detection proportion rather than a standardised difference.",
+    "study": {
+      "cite": "Levin, D. T., Simons, D. J., Angelone, B. L., & Chabris, C. F. (2002). Memory for centrally attended changing objects in an incidental real-world change detection paradigm. British Journal of Psychology, 93(3), 289-302.",
+      "doi": "10.1348/000712602760146224",
+      "year": 2002,
+      "n": 75
+    }
+  },
+  "limits": "The door study is a field demonstration with 15 pedestrians in Experiment 1 and 12 in Experiment 2, and its social-group reading rests on an age split noticed after the data were in. Simons and Levin say as much, describing the in-group account as a hypothesis Experiment 2 was built to test. No pooled estimate for change blindness was found in the searches run for this entry, which covered Crossref, PubMed, Semantic Scholar and web search; the numbers above are individual studies and are reported as proportions detected, which is why the structured effect-size fields are empty. The change blindness blindness figures below are quoted from a book chapter by Scholl, Simons and Levin rather than from Levin, Momen, Drivdahl and Simons themselves, whose journal article is paywalled and was not read for this entry. Nelson and colleagues' work on change blindness and mistaken identification, and Galpin, Underwood and Crundall on driving scenes, are both paywalled; they are named in the sources and no figure is taken from either.",
+  "misreadings": "The headline is usually given as half, and it belongs to one condition of one experiment on 15 people. The paper reports two experiments, and the second, with the same experimenters dressed as construction workers, had 4 of 12 pedestrians report the switch. Scholl, Simons and Levin, writing about the same pair of experiments, put detection at 46 percent for Experiment 1 and give 59 percent as the proportion missing the change averaged across conditions. The larger inference is the one the field itself disputes. Simons and Rensink argue that change blindness on its own does not establish that visual representations are sparse or absent, and set out four possibilities that would have to be excluded first: that a complete representation formed and decayed before the comparison, that it sat in a pathway the comparison cannot reach, that it was in a format the comparison cannot use, or that the comparison was simply never run. Writing in 2005 they say no change blindness study had ruled out the first of those, and that the work can speak only to the representations behind the conscious perception of change. Simons and Ambinder put the surviving claim more narrowly: conscious awareness of the visual environment is sparse even if the representations behind it might not be. The second confusion is with inattentional blindness, which is a failure to notice that a fully visible item is there at all, and which needs no memory and no second display.",
+  "sources": [
+    {
+      "text": "Rensink, R. A., O'Regan, J. K., & Clark, J. J. (1997). To see or not to see: The need for attention to perceive changes in scenes. Psychological Science, 8(5), 368-373.",
+      "doi": "10.1111/j.1467-9280.1997.tb00427.x",
+      "url": "https://www2.psych.ubc.ca/~rensink/publications/download/PsychSci97-RR.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Simons, D. J., & Levin, D. T. (1998). Failure to detect changes to people during a real-world interaction. Psychonomic Bulletin & Review, 5(4), 644-649. Full text read for this entry.",
+      "doi": "10.3758/BF03208840",
+      "url": "https://doi.org/10.3758/BF03208840",
+      "type": "primary"
+    },
+    {
+      "text": "Levin, D. T., Simons, D. J., Angelone, B. L., & Chabris, C. F. (2002). Memory for centrally attended changing objects in an incidental real-world change detection paradigm. British Journal of Psychology, 93(3), 289-302.",
+      "doi": "10.1348/000712602760146224",
+      "url": "https://www.chabris.com/Levin2002.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Simons, D. J., Franconeri, S. L., & Reimer, R. L. (2000). Change blindness in the absence of a visual disruption. Perception, 29(10), 1143-1154.",
+      "doi": "10.1068/p3104",
+      "url": "https://visionplus.psych.northwestern.edu/Papers_files/Simons_etal_gradual.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Davies, G., & Hine, S. (2007). Change blindness and eyewitness testimony. The Journal of Psychology, 141(4), 423-434. Described here from the abstract at PubMed.",
+      "doi": "10.3200/JRLP.141.4.423-434",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17725074/",
+      "type": "replication"
+    },
+    {
+      "text": "Simons, D. J., & Rensink, R. A. (2005). Change blindness: past, present, and future. Trends in Cognitive Sciences, 9(1), 16-20.",
+      "doi": "10.1016/j.tics.2004.11.006",
+      "url": "https://www.cs.ubc.ca/~rensink/publications/download/S&R-TICS-05a.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "Jensen, M. S., Yao, R., Street, W. N., & Simons, D. J. (2011). Change blindness and inattentional blindness. WIREs Cognitive Science, 2(5), 529-546.",
+      "doi": "10.1002/wcs.130",
+      "url": "https://doi.org/10.1002/wcs.130",
+      "type": "commentary"
+    },
+    {
+      "text": "Scholl, B. J., Simons, D. J., & Levin, D. T. (2004). 'Change blindness' blindness: An implicit measure of a metacognitive error. Chapter 7 of Thinking and Seeing. The change blindness blindness figures in this entry are quoted from this chapter's description of Levin and colleagues (2000), not from that paper.",
+      "url": "https://perception.yale.edu/papers/04-Scholl-EtAl-Chapter.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Levin, D. T., Momen, N., Drivdahl, S. B., & Simons, D. J. (2000). Change blindness blindness: The metacognitive error of overestimating change-detection ability. Visual Cognition, 7(1-3), 397-412. Metadata verified at Crossref; paywalled, and described here at one remove.",
+      "doi": "10.1080/135062800394865",
+      "url": "https://doi.org/10.1080/135062800394865",
+      "type": "primary"
+    },
+    {
+      "text": "Simons, D. J., & Ambinder, M. S. (2005). Change blindness: Theory and consequences. Current Directions in Psychological Science, 14(1), 44-48.",
+      "url": "https://cse.iitk.ac.in/users/se367/11/papers/simons-ambinder-05_change-blindness.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Levin, D. T., & Simons, D. J. (1997). Failure to detect changes to attended objects in motion pictures. Psychonomic Bulletin & Review, 4(4), 501-506. Cited by Simons and Levin (1998) as finding that 33% of 40 participants noticed an actor swap across a cut; not read for this entry.",
+      "doi": "10.3758/BF03214339",
+      "url": "https://doi.org/10.3758/BF03214339",
+      "type": "primary"
+    },
+    {
+      "text": "Simons, D. J., & Levin, D. T. (1997). Change blindness. Trends in Cognitive Sciences, 1(7), 261-267. The review that carries the phrase as its title; not read for this entry.",
+      "doi": "10.1016/S1364-6613(97)01080-2",
+      "url": "https://doi.org/10.1016/S1364-6613(97)01080-2",
+      "type": "commentary"
+    },
+    {
+      "text": "Galpin, A., Underwood, G., & Crundall, D. (2009). Change blindness in driving scenes. Transportation Research Part F, 12(2), 179-185. Named as applied work; paywalled, and no figure from it is quoted here.",
+      "doi": "10.1016/j.trf.2008.11.002",
+      "url": "https://doi.org/10.1016/j.trf.2008.11.002",
+      "type": "replication"
+    },
+    {
+      "text": "Nelson, K. J., Laney, C., Fowler, N. B., Knowles, E. D., Davis, D., & Loftus, E. F. (2011). Change blindness can cause mistaken eyewitness identification. Legal and Criminological Psychology, 16(1), 62-74. Named as applied work; paywalled, and no figure from it is quoted here.",
+      "doi": "10.1348/135532509X482625",
+      "url": "https://doi.org/10.1348/135532509X482625",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
