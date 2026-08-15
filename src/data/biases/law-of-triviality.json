@@ -1,0 +1,56 @@
+{
+  "no": 357,
+  "slug": "law-of-triviality",
+  "name": "Law of triviality",
+  "aliases": [
+    "Bikeshedding",
+    "Bike-shedding",
+    "Bicycle-shed effect",
+    "Parkinson's law of triviality"
+  ],
+  "category": "decision",
+  "statement": "Parkinson's satirical claim that the time a committee spends on an agenda item falls as the sum of money involved rises.",
+  "meaning": "Parkinson states the law in one line: 'the time spent on any item of the agenda will be in inverse proportion to the sum involved.' The variable is money, not importance. His explanation is comprehension. He opens the chapter by saying that the people who understand high finance are those with vast fortunes and those with nothing at all, and that finance committees are staffed by neither. A sum in the millions therefore carries no meaning to a member, while a sum in the hundreds does. Whoever cannot follow the large item keeps quiet, then makes up for the silence on the small one. Parkinson also proposed a floor to the effect. Below some sum a committee decides the matter is beneath its notice, and he called that threshold the point of vanishing interest, guessing that it sits near what a member would lose on a bet or give to a charity. He proposed establishing it by inquiry on racecourses and in Methodist chapels. The chapter is written as an open research programme, and the book's preface says in advance that the research apparatus behind the book is a joke.",
+  "origin": {
+    "year": 1957,
+    "who": "C. Northcote Parkinson",
+    "where": "Parkinson's Law, and Other Studies in Administration",
+    "note": "The law is named and stated in the third chapter, 'High Finance, or the Point of Vanishing Interest'. The copy read for this entry is the Houghton Mifflin printing copyrighted 1957, Library of Congress catalog card number 57-9981, described on its own title page as the seventeenth printing. Parkinson's preface thanks the editor of The Economist as the journal in which Parkinson's law was first revealed, and for permission to reprint the essays on 'Directors and Councils' and 'Pension Point'. This chapter is not among the three, and the preface adds only that certain other articles had appeared in Harper's Magazine and The Reporter."
+  },
+  "evidence": "Parkinson reports no data. The chapter is a scripted committee meeting written to illustrate the law, and every number in it is invented. A finance committee of eleven, the chairman included, reaches Item Nine, an atomic reactor costed at $10,000,000. Four members, one of them the chairman, do not know what a reactor is. Three more do not know what it is for. Two have some idea what it should cost, and one of those proposes different contractors and is told it is late in the day to call in new advisers. The other, Mr Brickworth, distrusts the round figure and the sum set aside for contingencies, cannot see where to begin explaining, and says 'I have no comment to make.' The item passes in two and a half minutes. Item Ten is a bicycle shed for the clerical staff at $2,350, which draws arguments about aluminium against asbestos against galvanised iron, and about whether the staff need a shed at all. In Parkinson's words, 'A sum of $2350 is well within everybody's comprehension. Everyone can visualize a bicycle shed.' The debate runs forty-five minutes and saves about $300. Item Eleven is refreshments for the Joint Welfare Committee at $4.75 a month, or $57 a year. Coffee is a subject every member commands, so that debate runs an hour and a quarter and ends with the matter held over to the next meeting. Parkinson then concedes that the bottom of the curve is unknown, and puts the time a committee needs for $10,000,000 and for $10 at somewhere between two and four and a half minutes in both cases. One measured result sits near the law without testing it. Ambroise Descamps, Sébastien Massoni and Lionel Page paid 162 students at a large Australian university to choose between two options while buying costly signals about which was better. Each did 80 rounds, in a two by three between-subject design crossing the framing of the task with the cost of a signal. From 100,000 simulations of the optimal rule, the ideal number of signals is 19.1 when a signal costs $0.10, 3.84 at $0.50 and 1 at $1. Participants stopped after about nine draws, seven draws and four draws. Median stopping times were 9.26, 7.11 and 4.82, each different from the optimum on a Wilcoxon signed-rank test at p < 0.001, and the same null was rejected for 142 of the 162 individuals. The deviations cost participants between 10 and 25% of their potential payoff. People bought too little information when it was cheap and too much when it was dear. That is a result about the price of information rather than the size of the sum at stake, and the paper does not mention Parkinson.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No measurement of the law was located: nothing found times the items of a real agenda against the sums they involve, and the two figures Parkinson gives are figures he made up."
+  },
+  "limits": "The law is a joke with a formula inside it, and nobody has turned the formula into a hypothesis. Searching for this entry covered Crossref by bibliographic query under 'law of triviality', 'bikeshedding' and 'Parkinson's law of triviality', under phrasings for time spent on agenda items in committee and board meetings, and across the meeting-science papers indexed there for Steven Rogelberg and colleagues, together with open-web searches. Those returned management columns, glossaries, practitioner advice and one IEEE Technology and Society commentary, and no study that timed agenda items against their cost. OpenAlex and Semantic Scholar refused requests during this task, so neither index was searched. Two of Parkinson's own assertions are untested by anyone, himself included. The first is the shape of the relation, drawn as an inverse proportion through three fictional points. The second is the point of vanishing interest, which he raises as a question and answers with the racecourse joke. The claim is also narrow in a way its reputation is not. It names committees, agendas and money, while the version in circulation names any group and any subject, and nothing found here bears on that wider version.",
+  "misreadings": "The figures in circulation are not the ones in the text read here. Wikipedia's article gives a £10 million reactor, a £350 bicycle shed, £21 a year for refreshments and a saving of some £50, and cites the Houghton Mifflin edition at pages 29 to 30 for its quotations. That edition, read as page images, carries dollars throughout: $10,000,000, $2,350, $4.75 a month or $57 a year, and a saving of some $300. The pound sums are not conversions of the dollar ones. No British edition was opened for this entry, so which set Parkinson first printed is not settled here. Parkinson's variable is money, and the retellings quietly substitute importance. He wrote 'in inverse proportion to the sum involved', which makes a cheap but grave item a counter-example rather than an instance of the law. The reactor is also not waved through because it matters. Two members know what it should cost, one of them objects on the record, and the other stays silent because he would have to begin by explaining what a reactor is to people who would not admit they did not know. Behavioural support is claimed for the law more often than it exists. Wikipedia's sentence that 'behavioral research has produced evidence which confirms theories proposed by the law of triviality' rests on the Descamps, Massoni and Page experiment described above, which studies individuals buying information and never mentions Parkinson. That citation also gives volume 388, issue 18, pages 3939 to 3947, where Crossref records Experimental Economics, volume 25, issue 1, pages 359 to 383. The name bike-shedding is not Parkinson's either. Poul-Henning Kamp coined it in a mail to FreeBSD committers and hackers timed 2 October 1999, under the subject 'A bike shed (any colour will do) on greener grass...'. He wrote it after weeks of argument over whether sleep(1) should accept fractional seconds. That mail places the book in 'the early 1960'ies' and calls it '35+ years old', when it was published in 1957 and was 42 years old at the time of writing.",
+  "sources": [
+    {
+      "text": "Parkinson, C. Northcote (1957). Parkinson's Law, and Other Studies in Administration. Houghton Mifflin, Boston, seventeenth printing. Chapter 3, 'High Finance, or the Point of Vanishing Interest'. Source of the law's wording, the preface's acknowledgements and every figure in the committee scene.",
+      "url": "https://archive.org/stream/pdfy-n6mqYo6d8uKz06xm/Parkinson-s-Law_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Parkinson, C. Northcote (1957). Parkinson's Law, and Other Studies in Administration. The same text as a PDF. The bicycle-shed and refreshments pages were read here as rendered page images, because this file's embedded text does not extract, and that reading is where the dollar figures above were confirmed.",
+      "url": "http://sas2.elte.hu/tg/ptorv/Parkinson-s-Law.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Descamps, A., Massoni, S., & Page, L. (2022). Learning to hesitate. Experimental Economics, 25(1), 359-383. Source of the sampling figures above; read from the PDF copy linked here, with volume, issue and pages taken from Crossref.",
+      "doi": "10.1007/s10683-021-09718-7",
+      "url": "https://gwern.net/doc/statistics/decision/2021-descamps.pdf",
+      "type": "context"
+    },
+    {
+      "text": "Kamp, Poul-Henning (2 October 1999). 'A bike shed (any colour will do) on greener grass...', reproduced in full on the author's site. Source of the coinage, its date and its wording about Parkinson.",
+      "url": "https://phk.freebsd.dk/sagas/bikeshed/",
+      "type": "primary"
+    },
+    {
+      "text": "Wikipedia, 'Law of triviality', article text as at 15 August 2026. Quoted above as the object of the misreadings and used as the route to the Descamps paper. Not a source for any fact on this page.",
+      "url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
