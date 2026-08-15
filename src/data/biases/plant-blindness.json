@@ -1,0 +1,89 @@
+{
+  "no": 338,
+  "slug": "plant-blindness",
+  "name": "Plant blindness",
+  "aliases": [
+    "Plant awareness disparity",
+    "PAD"
+  ],
+  "category": "perception",
+  "statement": "People fail to notice the plants around them and rank them below animals, a gap its coiners blamed on the limits of human visual attention.",
+  "meaning": "Wandersee and Schussler defined the term as the inability to see or notice the plants in one's own environment. Three consequences follow in their definition: failure to recognise the importance of plants in the biosphere and in human affairs, failure to appreciate the aesthetic and biological features of plants, and an anthropocentric ranking of plants as inferior to animals. Their claim was about perception rather than teaching. Earlier writers had blamed zoocentric instructors and animal-heavy textbooks, and the 2001 article argues those are secondary to the way human vision handles a static, chromatically uniform, closely spaced mass of green. The breakdown into four components, attention, attitude, knowledge and relative interest, is later, and Parsley attributes it to a personal communication from Schussler in May 2019. Much of the literature now calls the same thing plant awareness disparity. Parsley argued in 2020 that plant blindness is a disability metaphor, that equating blindness with an undesirable trait is ableist, and that the field needs a name carrying the same reasoning without the metaphor. She writes as a visually impaired scientist that living with a visual impairment and being unaware of something in one's surroundings are not the same experience. She credits the objection to McDonough MacKenzie and colleagues and to Sanders, both writing in Plants, People, Planet in 2019. She chose the word disparity to keep the comparison with animals central, and because a disparity can be closed by education. The term is not a claim that anybody sees nothing."
+,
+  "origin": {
+    "year": 1999,
+    "who": "James H. Wandersee and Elisabeth E. Schussler",
+    "where": "The American Biology Teacher",
+    "note": "The journal article is 'Preventing plant blindness', volume 61, issue 2, pages 82 to 86. The two authors introduced the term a year earlier, in a poster and paper called 'A model of plant blindness'. They gave it on 13 April 1998 at the 3rd Annual Associates Meeting of the 15 degree Laboratory at Louisiana State University, and their 2001 article cites it as the source of the definition. That 2001 reference list gives the American Biology Teacher pages as 84 to 86, where Crossref gives 82 to 86."
+  },
+  "evidence": "Balas and Momsen ran the experiment usually cited for the perceptual claim. Twenty-four undergraduates viewed 24-image sequences at about 32 ms per image and reported whether they had seen a plant or an animal, and whether they had seen water. Half looked for plants and half for animals, 640 trials each. Hit rates were 0.69 for plants against 0.90 for animals, t(22) = -3.94, p < 0.001, and false alarms ran 0.12 against 0.04, t(22) = 2.33, p = 0.029. A norming study on Mechanical Turk found only one of the 50 plant images labelled a plant by fewer than 23 of 24 raters, so ambiguous pictures do not explain the gap. Detection of the second target dipped at lag 2 (0.61, against about 0.76 at lags 5 to 8), and the shape of that dip differed between the two groups, quadratic contrast F(1,22) = 7.86, p = 0.010, η2 = 0.26. The authors read this as attention to plants arriving late rather than weak. New, Cosmides and Tooby had already put plants on the losing side of a change-detection task. Changes to animals and people were spotted 1 to 2 seconds faster than changes to plants and artifacts, r = 0.88 in Experiment 1 and 0.86 in its repeat, with hit rates 21 to 25 points higher. Guerra and colleagues asked 154 people to count briefly flashed sets of seven, eight or nine trees, animals or minerals. Trees were undercounted relative to animals by an estimated 0.21 items, t = 19.80, p < 0.001. The founding survey data are thinner than the perceptual work. Wandersee and Schussler's 2001 article describes their own unpublished 1998 study of 274 US students in grades 4 to 7. Interest in animals led plants by about two to one, and about 7% volunteered a scientific interest in plants. Schussler and Olzak's 2008 result that students recall more animal names than plant names is quoted here from Parsley's description of it, the paper itself being paywalled.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Plants lose to animals in change detection and in counting, and the gap vanishes across three dot-probe experiments.",
+    "detail": "No repeat of the Balas and Momsen procedure with plant targets turned up in the 100 citing papers Semantic Scholar lists for it, or in a PubMed search. What exists are tests of the same prediction by other means, and they disagree. Kioka and Tobita ran three online dot-probe experiments in Japan with 74, 75 and 76 participants. Attention moved away from vehicles in all three. Birds and fruits did not differ on the attentional bias index, t(147) = -0.57, p = 0.569, nor did mammals and fruits, t(149) = -0.74, p = 0.460, and human images did no better than fruit. The authors conclude that plant awareness disparity is not rooted mainly in attentional bias. Pulling the other way, the animate advantage in change detection was large in New and colleagues' Experiment 1 and held in Experiment 2, which was run as a replication of it. Guerra and colleagues' undercounting of trees appeared with colour images and again with black-and-white ones, which the authors read as ruling out green as the driver. It fell to an estimate of 0.08 items when the images were turned upside down to block recognition. The disagreement tracks the task rather than the sample size: detection and enumeration find the gap, spatial cueing does not.",
+    "study": {
+      "cite": "Kioka, C., & Tobita, K. (2025). Vehicle avoidance: The hierarchy of visual attention towards animals, plants, and vehicles. PLoS One, 20(9), e0330475.",
+      "doi": "10.1371/journal.pone.0330475",
+      "year": 2025
+    }
+  },
+  "limits": "Balas and Momsen tested 24 people, 12 per group, from one introductory psychology pool, and gave plant and animal detection to different participants rather than the same ones. They also state that they did not match the two image sets on spatial frequency, colour, luminance or texture. A low-level explanation therefore stays open, and they argue the distinction does not matter for their purpose. Kioka and Tobita's bias indices had split-half reliabilities running from -0.52 to 0.23 in Experiment 1 and -0.46 to 0.65 in Experiment 2, which is weak ground for a null. Their plants were fruit, picked to match the category level of birds and vehicles, and they note that flowers or whole landscapes might behave differently. New and colleagues pooled plants with movable and fixed artifacts as inanimate targets, so their numbers do not isolate plants. Their per-category means appear in a figure, and their sample sizes sit in supplementary material not read here. Guerra and colleagues used trees only, presented for 100 ms. Almost all of this work is North American, European or Japanese, and Parsley notes that the literature is Euro-centric and that indigenous peoples tend to have far more appreciation of plants.",
+  "misreadings": "The name overstates the claim, and Parsley says many readers took it to mean people do not see plants at all, which is part of her case for a new one. The rename is an argument rather than a result. It is a four-page brief report by a single author, and it changed the label, not the evidence behind it. The coinage is usually dated to the 1999 journal article; the term was introduced in 1998 at a laboratory meeting, and the 1999 paper is where it reached print. Balas and Momsen are cited for the claim that plants hold attention less well. Half of that is the reverse of what they wrote. The peak cost to the following target was about the same size for plants and animals, and it arrived later for plants. Their study is also read as a demonstration that plants are ignored in daily life, when it measures reports of photographs shown for about a thirtieth of a second.",
+  "sources": [
+    {
+      "text": "Wandersee, J. H., & Schussler, E. E. (1999). Preventing plant blindness. The American Biology Teacher, 61(2), 82-86.",
+      "doi": "10.2307/4450624",
+      "type": "primary"
+    },
+    {
+      "text": "Wandersee, J. H., & Schussler, E. E. (2001). Toward a theory of plant blindness. Plant Science Bulletin, 47(1), 2-9. Read in the Botanical Society of America's archive copy of the issue.",
+      "url": "https://botany.org/userdata/IssueArchive/issues/originalfile/PSB_2001_47_1.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Balas, B., & Momsen, J. L. (2014). Attention \"blinks\" differently for plants and animals. CBE-Life Sciences Education, 13(3), 437-443.",
+      "doi": "10.1187/cbe.14-05-0080",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4152205/",
+      "type": "primary"
+    },
+    {
+      "text": "New, J., Cosmides, L., & Tooby, J. (2007). Category-specific attention for animals reflects ancestral priorities, not expertise. Proceedings of the National Academy of Sciences, 104(42), 16598-16603.",
+      "doi": "10.1073/pnas.0703913104",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2034212/",
+      "type": "primary"
+    },
+    {
+      "text": "Parsley, K. M. (2020). Plant awareness disparity: A case for renaming plant blindness. Plants, People, Planet, 2(6), 598-601. Read from the open copy hosted by the American Public Gardens Association.",
+      "doi": "10.1002/ppp3.10153",
+      "url": "https://www.publicgardens.org/wp-content/uploads/2020/10/ppp310153.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "McDonough MacKenzie, C., Kuebbing, S., Barak, R. S., Bletz, M., Dudney, J., McGill, B. M., Nocco, M. A., Young, T., & Tonietto, R. K. (2019). We do not want to \"cure plant blindness\" we want to grow plant love. Plants, People, Planet, 1(3), 139-141. Cited here through Parsley's account of the ableism objection, not read directly.",
+      "doi": "10.1002/ppp3.10062",
+      "type": "commentary"
+    },
+    {
+      "text": "Sanders, D. L. (2019). Standing in the shadows of plants. Plants, People, Planet, 1(3), 130-138. Cited here through Parsley's account of the ableism objection, not read directly.",
+      "doi": "10.1002/ppp3.10059",
+      "type": "commentary"
+    },
+    {
+      "text": "Kioka, C., & Tobita, K. (2025). Vehicle avoidance: The hierarchy of visual attention towards animals, plants, and vehicles. PLoS One, 20(9), e0330475.",
+      "doi": "10.1371/journal.pone.0330475",
+      "type": "replication"
+    },
+    {
+      "text": "Guerra, S., Roccato, M., Oletto, C. M., Ghiani, A., Bertamini, M., & Battaglini, L. (2026). At the roots of Plant Awareness Disparity (PAD): Semantic processing and numerosity perception. PLoS One, 21(5), e0343890.",
+      "doi": "10.1371/journal.pone.0343890",
+      "type": "replication"
+    },
+    {
+      "text": "Parsley, K. M., Daigle, B. J., & Sabel, J. L. (2022). Initial development and validation of the Plant Awareness Disparity Index. CBE-Life Sciences Education, 21(4), ar64.",
+      "doi": "10.1187/cbe.20-12-0275",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9727616/",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
