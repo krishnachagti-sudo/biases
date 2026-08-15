@@ -1,0 +1,122 @@
+{
+  "no": 419,
+  "slug": "loaded-question",
+  "name": "Loaded question",
+  "aliases": ["Complex question", "Fallacy of many questions", "Plurium interrogationum", "Fallacy of presupposition", "Leading question", "Trick question", "Loaded question fallacy"],
+  "category": "belief",
+  "statement": "A question that presupposes something raises the rate at which people later report the presupposed thing, and by more than mentioning it does.",
+  "meaning": "Two different claims travel under this name, and they rest on different evidence. The first is a rhetorical charge. A question carries a presupposition, meaning a condition that has to hold for the question to make sense, and the answerer has not granted it, so any direct answer concedes it. 'Have you stopped beating your spouse?' is the stock illustration, because yes and no both admit the beating. That is a claim about fairness in argument, and it is settled by analysis rather than by measurement. The second claim is about what questions do to the person answering them. A presupposition slipped into a question is absorbed, and it comes back out later as something the respondent believes they saw. That claim has been tested, and the experiments are Elizabeth Loftus's. This is narrower than the misinformation effect, which entry 35 carries as an alias of false memory. The misinformation effect covers any post-event information that reaches a witness, whatever its grammar. A loaded question is the case where the information rides in the presupposition of a question rather than being asserted, and the answerer is being asked about something else. Loftus's fourth experiment separates the two directly, and finds the presupposition doing work that plain mention does not. It differs from interrogative suggestibility, entry 172, in what is being measured: suggestibility is a property of the person and is scored on a scale, while loadedness is a property of the question."
+  ,
+  "origin": {
+    "year": 1975,
+    "who": "Elizabeth F. Loftus",
+    "where": "Cognitive Psychology",
+    "note": "Loftus reported four experiments on 490 subjects showing that a presupposition in a question asked straight after an event changes the answer to a later question about that presupposition. The fallacy is far older than the experiment. Roosmaryn Pilgram and Leah Polcar trace the spouse-beating illustration through Robinson in 1936, Oesterle in 1963, Hamblin in 1970, Hintikka in 1976 and Walton in 1989. The companion study on the definite article, with Guido Zanni, appeared the same year in the Bulletin of the Psychonomic Society."
+  },
+  "evidence": "Loftus ran four experiments, 490 subjects in total, all shown films of accidents or disruptions. In the first, 150 students saw a five-car collision and 75 were asked how fast Car A was going when it ran the stop sign, while 75 were asked how fast it was going when it turned right. There was a stop sign. Asked at the end of the same questionnaire whether they had seen one, 53% of the stop-sign group said yes against 35% of the turn-right group, chi-squared(1) = 4.98, p < .05. The second experiment moved to a false presupposition about quantity. Forty students watched a classroom disruption by eight demonstrators and were asked whether the leader of the four, or of the twelve, demonstrators was male. A week later they were asked how many demonstrators they had seen: the twelve group reported 8.85 and the four group 6.40, t(38) = 2.50, p < .01. Ten percent of each group simply gave back the number they had been given, and dropping those subjects left 8.50 against 6.67, t(34) = 1.70, p < .05. The third experiment presupposed an object that was never there. One hundred and fifty students saw a videotaped accident, and half were asked how fast the white sports car was going when it passed the barn while travelling along the country road. There was no barn. A week later 17.3% of them said they had seen a barn, against 2.7% of the others, chi-squared(1) = 8.96, p < .01. The fourth experiment is the one that isolates the presupposition. One hundred and fifty subjects watched a film ending in a collision with a baby carriage. Fifty answered five direct questions about objects that were not in the film, such as whether they saw a school bus. Fifty answered five questions that presupposed the same objects, such as whether they saw the children getting on the school bus. Fifty answered only the forty filler questions. A week later everyone answered the five direct questions. The control group said yes to 8.4% of them, the direct group to 15.6%, and the false-presupposition group to 29.2%. Summed across the five items, the presupposition group differed from the control group at chi-squared(5) = 40.79, p < .001, and from the direct group at chi-squared(5) = 14.73, p < .025. The direct group did not differ from the control group, chi-squared(5) = 9.24, p > .05. Loftus and Zanni tested the smallest version of the manipulation, a single article. One hundred graduate students watched the five-car collision and answered a 22-item questionnaire holding six critical questions, three about objects in the film and three about objects that were not. Half were asked whether they saw a broken headlight, half whether they saw the broken headlight. For the absent objects, 15% of the definite-article group said yes against 7% of the indefinite-article group, and 13% said they did not know against 38%. For the objects that were present, yes ran at 17% and 20%, the wrong way round. The reported test is a Mann-Whitney on a composite score giving yes +1, don't know 0 and no -1, Z = 2.98, p < .01. A second experiment, run to check the first against a different film and a different population, used 60 people aged 14 to 20 recruited from a public library. Absent objects drew yes from 20% of the definite-article group and 6% of the indefinite-article group, and don't-know responses ran at 15.5% against 47.5% overall. Loftus's 1975 paper also reports a survey study of her own that was never published separately. Forty people were interviewed about headache products under the impression that this was market research. Asked how many other products they had tried, those offered '1? 2? 3?' claimed 3.3 and those offered '1? 5? 10?' claimed 5.2, t(38) = 3.14, p < .01. Asked whether they got headaches frequently, and if so how often, they reported 2.2 a week; asked whether they got them occasionally, 0.7, t(38) = 3.19, p < .01. The same paper describes Richard Harris's 1973 experiment. Asking how tall the basketball player was drew about 79 inches, and asking how short he was drew about 69. A movie was 130 minutes long and 100 minutes short.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Gillian Murphy and Ciara Greene rebuilt both of Loftus's manipulations in 2016, the definite article and the presupposed stop sign, and both worked; the stop-sign version produced 54.5% false reports against 15.8% in a driving simulator.",
+    "detail": "Murphy and Greene ran three experiments at University College Cork on perceptual load, and their questionnaires reproduce Loftus's designs. Experiments 1A and 1B showed an office theft and asked either whether participants saw a stapler on the desk or whether they saw the stapler on the desk, with no stapler present. In Experiment 1B, with 270 students, correct answers under low perceptual load ran at 83% for the indefinite article and 75.9% for the definite one. Under high load they ran at 58.1% against 28.2%, interaction F(1,266) = 4.19, p = 0.04, eta squared = 0.02. The authors state that neither interaction in that experiment survived correction for eight comparisons, so what 1B establishes is the gap between the two articles rather than its dependence on load. Experiment 2 put 93 adults in a driving simulator. They were asked how fast the jeep was going when it ran the stop sign and reached the intersection, or simply when it reached the intersection. Everyone was then asked whether they saw a stop sign for the jeep. False positives came to 54.5% for the presupposition against 15.8% for the plain question under low load, and 88.5% against 30.8% under high load. The paper reports a main effect of load, F(1,89) = 7.52, p < 0.001, d = 0.58, and a non-significant interaction, F(1,89) = 1.13, p = 0.29. Loftus and Zanni had already repeated their own article study on a second film and a non-student sample and recovered the pattern. Howard Weinberg, John Wadsworth and Robert Baron tested in 1983 whether the effect is compliance rather than memory. They opened by describing Loftus's materials as questions subtly loaded with implications, and put 331 Iowa undergraduates through a slide sequence containing a yellow yield sign, then a true-false item presupposing a stop sign. Half then faced a stop-versus-yield recognition test, where a subject wanting to please the questioner could do so, and half a yellow-versus-red yield test, where that route was closed. Misled subjects were less accurate overall, F(1,327) = 25.42, p < .0001, and the effect survived in the yield-yield cells where compliance had nowhere to go, Z = 2.42, p < .018. Two recent psycholinguistic studies probe the mechanism rather than the courtroom. Viviana Masia, Davide Garassino, Nicola Brocca and Louis de Saussure gave Italian speakers tweets by politicians and asked verification questions. Their abstract reports that content presupposed by definite descriptions is processed in a shallower, good-enough way than content presupposed by change-of-state verbs. Giulia Giunta, Diana Mazzarella and Filippo Domaneschi report in theirs that false presuppositions produced more errors when they were not at issue. False assertions were spotted faster, and at-issueness rather than the presupposition itself carried most of the difference."
+    ,
+    "study": {
+      "cite": "Murphy, G., & Greene, C. M. (2016). Perceptual Load Affects Eyewitness Accuracy and Susceptibility to Leading Questions. Frontiers in Psychology, 7, 1322. Experiment 2, the driving simulator, n = 93.",
+      "doi": "10.3389/fpsyg.2016.01322",
+      "year": 2016,
+      "n": 93
+    }
+  },
+  "limits": "The rhetorical fallacy is unmeasured. No experiment was located on the spouse-beating form, where the presupposition is a conjunction the answerer is trapped into conceding by any direct answer. The search covered Crossref, Semantic Scholar's citation graphs for both 1975 papers, OpenAlex, Unpaywall and general web search. What it returned was analytic work rather than data: Walton's 1999 paper in Argumentation, and Pilgram and Polcar's 2007 response to it. Neither ran a study. The measured effect is also narrower than the label. Every experiment above asks for a yes or no about an object in a short film, mostly from students, minutes or a week later. Loftus and Zanni report their statistic on a composite confidence score rather than on the false-yes percentages, which are given as descriptive figures, and their two experiments used 100 and 60 people. The headache and product figures come from a study Loftus describes in the 1975 paper as unpublished. Harris's 1973 paper was not obtained and its numbers are quoted as Loftus renders them, which is worth flagging because her rendering attaches a metric conversion that does not match the inches she gives. The survey evidence is weaker than the memory evidence. Vanja Erculj and Ajda Sulc put 613 Slovenian panel members through blocks of questions about minority groups running from neutral to strongly leading, the strongest including a presumed fact. The median answer was 3.00 for all three negatively worded blocks and 2.75 for the neutral one, so the leading wording moved the spread rather than the centre. They classified 35% of respondents as non-suggestible, 15% as strongly and 12% as mildly suggestible, and 24% as strongly and 13% as mildly contra-suggestible, meaning they moved the opposite way. Their blocks ran in fixed order and changed response format alongside wording, so the design does not isolate presupposition. Georgina Gous and Jacqueline Wheatcroft found cross-examination accuracy of 12.00 out of 20 under directive leading questions against 15.63 under non-directive ones, F(1,54) = 67.72, p < .01, partial eta squared = .56. Their manipulation was the interrogative tag rather than the presupposition, and their cells held ten people each. Murphy and Greene's Figure 3B caption gives the two stapler questions in the reverse order to their Table 1; the table is what is quoted here. Snook, Luther, Quinlan and Milne's field counts of question types in Canadian police interviews were not obtained, the publisher returning HTTP 403. The two psycholinguistic papers were read only as abstracts at Crossref.",
+  "misreadings": "The commonest error is folding this into the misinformation effect. Loftus's fourth experiment is the one that pulls them apart, and it is the one least often quoted. Asking directly about an object that was never in the film raised later yes responses from 8.4% to 15.6%, and that rise did not reach significance against the control group. Presupposing the same object raised them to 29.2%, and that did. What moves the report is the grammar of the question rather than the appearance of the word. The Loftus and Zanni figures are widely misquoted, including by the authors of the best replication of them. Murphy and Greene describe the study as raising false positives from 7 to 18%. The table gives 7% and 15% in the first experiment and 6% and 20% in the second, and neither produces 18. The original paper contains a mistake of its own. Its discussion states that the indefinite article elicited more false responses, which contradicts both its table and its abstract; the definite article did. A second error reads the fallacy label as a property of the sentence. Pilgram and Polcar's point is that a presupposition the respondent is already committed to traps nobody, and that Walton's definition turns on whether a direct answer concedes something unfavourable, which is a judgement about the situation. A third confuses two things a presupposition can achieve. Andrei Moldovan separates persuasion, which means forming a belief, from accommodation, which means accepting a proposition for the purposes of the conversation and no longer. Evidence that people accommodate is not evidence that they were persuaded. A fourth treats presupposed content as invisible to scrutiny. Edoardo Lombardi Vallauri sets out the tension: behavioural work reports low epistemic vigilance for presupposed material while neurophysiological work reports higher processing costs for it than for assertions. Giunta and colleagues report that false assertions were identified faster than false presuppositions, which is consistent with a cost, and that being at issue mattered more than being presupposed. The last error is about the law. Leading questions are often described as banned in court. Rule 611(c) of the United States Federal Rules of Evidence says they should not be used on direct examination except as needed to develop the testimony. It adds that the court should ordinarily allow them on cross-examination and with a hostile witness.",
+  "sources": [
+    {
+      "text": "Loftus, E. F. (1975). Leading questions and the eyewitness report. Cognitive Psychology, 7(4), 560-572. All four experiments, the unpublished headache survey and the description of Harris (1973) were read from the article text; every figure was extracted twice from the document.",
+      "doi": "10.1016/0010-0285(75)90023-7",
+      "url": "https://app.nova.edu/toolbox/instructionalproducts/edd8124/articles/1975-Loftus.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Loftus, E. F., & Zanni, G. (1975). Eyewitness testimony: The influence of the wording of a question. Bulletin of the Psychonomic Society, 5(1), 86-88. Table 1 and the discussion sentence contradicting it were each read twice, with two independent text extractors.",
+      "doi": "10.3758/BF03336715",
+      "url": "https://moodle.ph-ooe.at/pluginfile.php/217699/mod_resource/content/0/Loftus_Zanni_1975_Eyewitness_testimony_presuppsitions.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Murphy, G., & Greene, C. M. (2016). Perceptual Load Affects Eyewitness Accuracy and Susceptibility to Leading Questions. Frontiers in Psychology, 7, 1322. The definite-article and stop-sign designs are in Table 1 and Table 2; the caption of Figure 3B reverses the pair given in Table 1.",
+      "doi": "10.3389/fpsyg.2016.01322",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01322/pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Weinberg, H. I., Wadsworth, J., & Baron, R. S. (1983). Demand and the impact of leading questions on eyewitness testimony. Memory & Cognition, 11(1), 101-104. The test of whether the effect is compliance; Table 1 was read twice.",
+      "doi": "10.3758/BF03197667",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03197667.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Erculj, V., & Sulc, A. (2025). Swayed by leading questions. Quality & Quantity, 59(1), 191-209. Open access. The survey-methodology test, and the source of the suggestible and contra-suggestible proportions.",
+      "doi": "10.1007/s11135-024-01934-6",
+      "url": "https://link.springer.com/content/pdf/10.1007/s11135-024-01934-6.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Gous, G., & Wheatcroft, J. M. (2020). Directive Leading Questions and Preparation Technique Effects on Witness Accuracy. SAGE Open, 10(1). Read as the accepted manuscript in the University of Gloucestershire repository. Manipulates the interrogative tag rather than the presupposition.",
+      "doi": "10.1177/2158244019899053",
+      "url": "https://eprints.glos.ac.uk/7796/8/7796%20Wheatcroft%20%282019%29%20Directive%20leading%20questions%20and%20preparation%20techniques%20effects.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Giunta, G., Mazzarella, D., & Domaneschi, F. (2025). Are presuppositions really misleading? Assessing the impact of linguistic encoding, at-issueness, and source reliability on epistemic vigilance. Mind & Language, 40(4), 365-385. Abstract read at Crossref; the full text was not obtained.",
+      "doi": "10.1111/mila.12545",
+      "url": "https://doi.org/10.1111/mila.12545",
+      "type": "primary"
+    },
+    {
+      "text": "Masia, V., Garassino, D., Brocca, N., & de Saussure, L. (2023). Recalling presupposed information. Pragmatics & Cognition, 30(1), 92-119. Abstract read at Crossref; the full text was not obtained.",
+      "doi": "10.1075/pc.22011.mas",
+      "url": "https://doi.org/10.1075/pc.22011.mas",
+      "type": "primary"
+    },
+    {
+      "text": "Lombardi Vallauri, E. (2021). Manipulative Shallow Processing Induced by Presuppositions and Topics: Theoretical Perspectives and Experimental Evidence. Frontiers in Communication, 6, 610807. A hypothesis and theory paper, cited for its statement of the conflict between behavioural and neurophysiological findings.",
+      "doi": "10.3389/fcomm.2021.610807",
+      "url": "https://www.frontiersin.org/articles/10.3389/fcomm.2021.610807/pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Moldovan, A. (2023). Persuasive presuppositions. Journal of Pragmatics, 211, 96-104. The distinction between persuading and being accommodated. Abstract read at OpenAlex, an index rather than the publisher; the full text was not obtained.",
+      "doi": "10.1016/j.pragma.2023.04.004",
+      "url": "https://doi.org/10.1016/j.pragma.2023.04.004",
+      "type": "commentary"
+    },
+    {
+      "text": "Walton, D. N. (1999). The Fallacy of Many Questions: On the Notions of Complexity, Loadedness and Unfair Entrapment in Interrogative Theory. Argumentation, 13(4), 379-383. Cited for its existence and its definition as Pilgram and Polcar quote it at pages 379, 381 and 382; the paper itself was not obtained.",
+      "doi": "10.1023/A:1007727929716",
+      "url": "https://doi.org/10.1023/A:1007727929716",
+      "type": "secondary"
+    },
+    {
+      "text": "Pilgram, R., & Polcar, L. E. (2007). Questioning the fallacy of many questions. Proceedings of the Sixth Conference of the International Society for the Study of Argumentation, 1059-1063. Read in full at the University of Amsterdam repository. The source for the history of the spouse-beating example and for the argument that loadedness depends on context.",
+      "url": "https://pure.uva.nl/ws/files/4143163/102073_Questioning_the_fallacy_of_many_questions_Pilgram_Polcar_2007_.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Harris, R. J. (1973). Answering questions containing marked and unmarked adjectives and adverbs. Journal of Experimental Psychology, 97(3), 399-401. Not open access and not obtained; its figures appear here only as Loftus reports them in the 1975 paper.",
+      "doi": "10.1037/h0034165",
+      "url": "https://doi.org/10.1037/h0034165",
+      "type": "secondary"
+    },
+    {
+      "text": "Rule 611. Mode and Order of Examining Witnesses and Presenting Evidence. Federal Rules of Evidence, subsection (c) on leading questions, as amended April 2011 and effective December 2011. Read at the Legal Information Institute, Cornell Law School.",
+      "url": "https://www.law.cornell.edu/rules/fre/rule_611",
+      "type": "provenance"
+    },
+    {
+      "text": "Snook, B., Luther, K., Quinlan, H., & Milne, R. (2012). Let 'em Talk! A Field Study of Police Questioning Practices of Suspects and Accused Persons. Criminal Justice and Behavior, 39(10), 1328-1339. Named because it is the field count of question types in real interviews; the publisher returned HTTP 403 and no figure from it appears on this page.",
+      "doi": "10.1177/0093854812449216",
+      "url": "https://doi.org/10.1177/0093854812449216",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
