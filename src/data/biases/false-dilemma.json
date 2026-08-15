@@ -1,0 +1,132 @@
+{
+  "no": 411,
+  "slug": "false-dilemma",
+  "name": "False dilemma",
+  "aliases": ["False dichotomy", "Either/or fallacy", "Black-and-white fallacy", "Bifurcation", "False binary"],
+  "category": "belief",
+  "statement": "A false dilemma presents two options as though they were the only ones, and people accept that premise more readily when few alternatives come to mind.",
+  "meaning": "The fault is never that there are two options. Plenty of choices really do have two, and an argument that runs through an exhaustive pair is valid. The fault is that the pair is offered as complete when it is not, so the conclusion drawn from ruling one out does not follow. That makes the test a factual one about the premise rather than a formal one about the shape: a third option has to exist, and the argument has to treat the two named ones as covering the ground. Experimental work does not measure the accusation. It measures the reasoning step underneath it, which is what a person concludes from being told that two things cannot both hold and that one of them does not. The answer is that they conclude too much, and how much too much depends on how easily they can think of something the pair leaves out. Two neighbouring things carry similar names and are not this. Clinical splitting is a defence described in psychiatry, and dichotomous thinking is a personality trait with its own questionnaire, Oshio's Dichotomous Thinking Inventory of 2009. Neither is a claim about an argument.",
+  "origin": {
+    "year": 2018,
+    "who": "Janie Brisson, Henry Markovits, Serge Robert and Walter Schaeken",
+    "where": "Memory & Cognition",
+    "note": "The label is much older than the experiment and belongs to fallacy textbooks rather than to any founding paper. Hans Hansen's Stanford Encyclopedia survey introduces the core fallacies through the eighteen in Irving Copi's Introduction to Logic of 1961, and false dilemma is not among the ones it walks through. The systematic scholarly treatment is Taeda Tomić's paper in Argumentation in 2013. Tomić reports that Hansen and Fioret's bibliography of fallacies holds two works on 'false disjunction (dichotomy, alternatives)' against 90 on six types of ad hominem. What 2018 marks is the arrival of the fallacy in a reasoning laboratory, as inference from an incompatibility statement."
+  },
+  "evidence": "Brisson and colleagues turned the fallacy into an inference task. A premise says two things are incompatible, and the reasoner is given one of four minor premises. Affirming either side supports a valid conclusion. Denying either side does not, because both may be false, and the logically correct answer is uncertainty. Denying is the formal equivalent of the fallacy. Study 1 ran 98 college students in Montreal on paper booklets, of whom 95 were analysed, 46 given premises with many counterexamples and 49 given premises with few. Premises were sentences such as 'Drinking coffee in the evening is incompatible with falling asleep easily' against 'Drinking a lot of alcohol is incompatible with being sober'. The proportion of logically correct responses on the two invalid forms was .69 and .70 with many counterexamples, against .52 and .49 with few. On the valid forms the difference ran the other way or vanished. Study 2A repeated it with categorical premises that carry no causal direction, of the form 'For a vegetable, being a broccoli is incompatible with being a pepper'. Of 237 students, 230 were analysed across three premise types graded by how many third options exist. Correct responses on the two invalid forms fell from .80 and .80 for broad premises, to .66 and .67 for reduced, to .37 and .35 for premises close to binary. The valid forms sat between .83 and .95 and did not move with premise type. Study 2B, on 100 students, checked how the premises were being read. Incompatibility and a defective variant of it together accounted for 57% of response patterns, and an exclusive-disjunction reading for under 8%, so the effect is not participants silently importing an either/or. The older experimental root is focussing. Legrenzi, Girotto and Johnson-Laird had 16 undergraduates at University College London decide whether or not to do five things, such as see a particular film, and request any information they wanted first. The control group asked a mean of 2.8 questions about the action and none at all about alternatives to it. A group told to imagine a first visit to Rome, with the experimenter as a local expert, asked 2.1 about the action and 0.25 about alternatives. None of the 8 control participants ever asked what else there was to do; 7 of the 8 in the context group did, by a Fisher-Yates exact test at p < .003. Those 7 asked 10 such questions, and only one was followed by a decision to go. On belief rather than search, the oldest result is the fault tree. Fischhoff, Slovic and Lichtenstein gave 148 respondents to a University of Oregon student newspaper advertisement a chart of reasons a car fails to start, and asked them to divide 100 failures between the branches and a catch-all called All Other Problems. Ninety-three saw the full tree and put .078 into the catch-all. A group of 29 saw a tree with the starting, ignition and mischief branches cut out, and should have put .468 into the catch-all to match the full-tree group; they put .140. A second pruned group of 26 should have put .611 and put .227. One participant of the 55 across both pruned groups reached the figure the full tree implied. What is left out is not noticed, and the branches that remain absorb its weight. In real organisational decisions the count of options considered is low. Paul Nutt assembled 356 decisions taken by senior managers in medium to large organisations in the United States and Canada, 65% of them by chief executives or their immediate peers, and followed each for two years. He writes that managers used multiple options in less than 20 percent of their decisions, and that where multiple options were developed the success rate rose from 56 percent to 70 percent. As a label applied to real text, the fallacy has been counted once at scale. Da San Martino and colleagues had professional annotators mark eighteen propaganda techniques in 451 news articles, 372 of them from sources judged propagandistic. Their definition is presenting two alternative options as the only possibilities when more exist. Of 7,485 marked fragments, 134 were black-and-white fallacy, eleventh of the eighteen by count, against 2,547 for loaded language.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The content effect has been found again in children aged 8 to 13, with the same pattern: the more third options a premise allows, the less often reasoners treat the pair as exhaustive. The two older strands, focussing and the fault tree, have each been repeated with qualifications about what drives them.",
+    "detail": "Nys, Brisson and Schaeken built age-appropriate incompatibility premises and ran the four inference forms on 192 volunteer children aged 8 to 13. Their abstract reports no significant effect of age, main effects of premise validity and of the number of available third options, and calls the outcome a clear replication of the general effects on adults found by Brisson and colleagues. Affirm inferences were easy for children and deny inferences were harder for them than for adults. Within the original paper the pattern already repeated once, since Study 2A recovered it on categorical premises after Study 1 had used causal ones. The focussing result has a longer and more contested record. Cherubini, Mazzocco and Rumiati replicated Legrenzi's original experiment. Their three experiments then argued that explicit verbal mention of an alternative is neither sufficient nor necessary for people to consider it, and that reasoners can take up relevant alternatives the problem never states. Del Missier, Ferrante and Costantini opened by calling the evidence for the focussing effect weak and its determinants largely unknown, then reported three experiments giving stronger support and two manipulations, representational and value-related, that reduce it. The fault tree was repeated on professionals. Dubé-Rioux and Russo state in their abstract that their work replicates the underestimation of the catch-all with professional managers, that extending the tree by generating additional causes corrects it, and that the results do not differ across managers' culture, education or experience.",
+    "study": {
+      "cite": "Nys, B. L., Brisson, J., & Schaeken, W. (2022). Find extra options or reason badly: An investigation of children's reasoning with incompatibility statements. Journal of Experimental Child Psychology, 213, 105258.",
+      "doi": "10.1016/j.jecp.2021.105258",
+      "year": 2022,
+      "n": 192
+    }
+  },
+  "limits": "The Memory & Cognition article was not obtained. Every figure quoted from it here was read in Brisson's 2019 UQAM doctoral thesis, which reproduces the studies as its chapter 3 and states that the chapter was published in that journal. The wording of the two abstracts differs only in small details. The children's study was read as its abstract at PubMed, and no figure from its results is quoted. Legrenzi's experiment rests on 16 people, 8 per group, and its own report gives p = .0516 for the focussing effect while giving p < .003 for the contextual manipulation. The Fischhoff figures come from the August 1977 technical report ADA057163, scanned at the Internet Archive. The 1978 article in the Journal of Experimental Psychology: Human Perception and Performance was not obtained. The report's own text and its Table 2-1 agree on the proportions quoted. Russo and Kolzow's 1994 paper in the same journal was not obtained and nothing is claimed here about what it found. Nutt's figures are his own summary of his own two decades of case collection, and no independent repetition of them was located in searches at Crossref, Semantic Scholar, OpenAlex and general web search pairing his title and the phrase with replication terms. His 1999 paper reports its own sample as 356 in both the executive overview and Table 1. The count of 134 in the propaganda corpus is not a prevalence estimate: the articles were drawn mostly from outlets already judged propagandistic, and inter-annotator agreement on that corpus was low before consolidation, at 0.30 and 0.34 by the gamma measure for span selection. Tomić's 2013 paper in Argumentation is paywalled and was not obtained; her positions are quoted from her 2021 and 2024 papers in Informal Logic, which were read in full. No experiment testing whether an audience is persuaded by an argument labelled a false dilemma was found in searches of PubMed, Crossref, Europe PMC and general web search. Tomić writes in 2021 that her article does not attempt an empirical analysis of uses of either/or reasoning in natural English, and that such a study would be of great benefit.",
+  "misreadings": "The commonest error is to treat any pair of options as a false dilemma. The charge needs a third option to exist and needs the argument to have foreclosed it, and a speaker who names two options because there are two has done nothing wrong. Brisson's own materials make the point: the same inference form is fallacious with 'Being on a plane is incompatible with sleeping well' and close to safe with 'A displaced rail is incompatible with the train staying on track'. A second error collapses three things that argumentation theorists keep apart. Tomić holds that a false dichotomy is a false statement rather than an argument. A false dilemma, on her account, is an argument built on the schema of a constructive or destructive dilemma, and most textbook examples of the incomplete either/or are a different fallacy, false disjunctive syllogism. On her account false dilemma is always grounded in a logically valid argument, and the fault lies elsewhere in it. Whether the thing is a formal fallacy at all is under live dispute. Conces and Walters argued in Informal Logic in 2023 that comparing the given argument with a real one carrying the missing disjunct shows the structure to be invalid, and so extends the identity of formal fallacy to it. Tomić replied in the same journal that their tool assumes an ambiguous sense of formal fallacy, that on that sense any argument could be shown to be one, and that several types of false dilemma are deductively valid and sound. A third error reads the psychological results as being about persuasion. They are not. Brisson measured which conclusion people draw, Legrenzi measured which questions they ask, and Fischhoff measured what probability they leave for the unmentioned. None of the three tested whether an audience is moved by the manoeuvre. The last error treats the omission as something the listener will notice. Fischhoff's pruned groups were told in as many words that the categories probably did not cover all possibilities, and still assigned roughly a quarter to a half of the missing weight.",
+  "sources": [
+    {
+      "text": "Brisson, J., Markovits, H., Robert, S., & Schaeken, W. (2018). Reasoning from an incompatibility: False dilemma fallacies and content effects. Memory & Cognition, 46(5), 657-670. The article was not obtained; all figures were read in the author's doctoral thesis, which reproduces it as chapter 3.",
+      "doi": "10.3758/s13421-018-0804-x",
+      "url": "https://doi.org/10.3758/s13421-018-0804-x",
+      "type": "primary"
+    },
+    {
+      "text": "Brisson, J. (2019). Si, alors et plus encore: identification des competences visees et evaluation automatique du raisonnement deductif chez les adultes. Doctoral thesis, Universite du Quebec a Montreal. Chapter 3 carries the text, tables and sample descriptions of the 2018 article, and states that the chapter was published in Memory and Cognition.",
+      "url": "https://archipel.uqam.ca/13666/1/D3700.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Nys, B. L., Brisson, J., & Schaeken, W. (2022). Find extra options or reason badly: An investigation of children's reasoning with incompatibility statements. Journal of Experimental Child Psychology, 213, 105258. Read as the abstract at PubMed, PMID 34384945.",
+      "doi": "10.1016/j.jecp.2021.105258",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34384945/",
+      "type": "primary"
+    },
+    {
+      "text": "Legrenzi, P., Girotto, V., & Johnson-Laird, P. N. (1993). Focussing in reasoning and decision making. Cognition, 49(1-2), 37-66. Read in full as the PDF from the Princeton mental models archive, via the Internet Archive.",
+      "doi": "10.1016/0010-0277(93)90035-t",
+      "url": "https://web.archive.org/web/20190719120420/http://mentalmodels.princeton.edu/papers/1993reasoning%26decmaking2.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Cherubini, P., Mazzocco, K., & Rumiati, R. (2003). Rethinking the focusing effect in decision-making. Acta Psychologica, 113(1), 67-81. Abstract read at PubMed, PMID 12679044.",
+      "doi": "10.1016/s0001-6918(02)00155-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12679044/",
+      "type": "primary"
+    },
+    {
+      "text": "Del Missier, F., Ferrante, D., & Costantini, E. (2007). Focusing effects in predecisional information acquisition. Acta Psychologica, 125(2), 155-174. Abstract read at PubMed, PMID 16919591.",
+      "doi": "10.1016/j.actpsy.2006.07.005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16919591/",
+      "type": "primary"
+    },
+    {
+      "text": "Fischhoff, B., Slovic, P., & Lichtenstein, S. (1977). Fault Trees: Sensitivity of Estimated Failure Probabilities to Problem Representation. Technical report ADA057163, Decision Research, August 1977. Read as the scan at the Internet Archive; the proportions quoted appear in the Experiment 1 text and in Table 2-1.",
+      "doi": "10.21236/ada057163",
+      "url": "https://archive.org/details/bitsavers_perceptronADA057163FischhoffFaultTreesSensitivityo_2879330",
+      "type": "primary"
+    },
+    {
+      "text": "Fischhoff, B., Slovic, P., & Lichtenstein, S. (1978). Fault trees: Sensitivity of estimated failure probabilities to problem representation. Journal of Experimental Psychology: Human Perception and Performance, 4(2), 330-344. The published version of the report above; not obtained.",
+      "doi": "10.1037/0096-1523.4.2.330",
+      "url": "https://doi.org/10.1037/0096-1523.4.2.330",
+      "type": "primary"
+    },
+    {
+      "text": "Dube-Rioux, L., & Russo, J. E. (1988). An availability bias in professional judgment. Journal of Behavioral Decision Making, 1(4), 223-237. Abstract read at Crossref; source for the statement that the underestimation was replicated with professional managers.",
+      "doi": "10.1002/bdm.3960010403",
+      "url": "https://doi.org/10.1002/bdm.3960010403",
+      "type": "primary"
+    },
+    {
+      "text": "Nutt, P. C. (1999). Surprising but true: Half the decisions in organizations fail. Academy of Management Executive, 13(4), 75-90. Read in full as the PDF hosted by the Center for Evidence-Based Management. Source for the 356 cases and for the statement about multiple options.",
+      "doi": "10.5465/ame.1999.2570556",
+      "url": "https://cebma.org/assets/Uploads/Nutt-1999-gecomprimeerd.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Da San Martino, G., Yu, S., Barron-Cedeno, A., Petrov, R., & Nakov, P. (2019). Fine-Grained Analysis of Propaganda in News Articles. EMNLP-IJCNLP 2019, 5635-5645. Read as the ACL Anthology PDF. Source for the definition used by annotators and for the count of 134 black-and-white fallacy fragments in Table 5.",
+      "doi": "10.18653/v1/D19-1565",
+      "url": "https://aclanthology.org/D19-1565.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Tomic, T. (2021). The Distinction Between False Dilemma and False Disjunctive Syllogism. Informal Logic, 41(4), 607-639. Read in full. Source for the separation of false dichotomy, false dilemma and false disjunctive syllogism, and for the bibliography counts.",
+      "doi": "10.22329/il.v41i4.6233",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/download/6233/5355",
+      "type": "commentary"
+    },
+    {
+      "text": "Tomic, T. (2024). Is False Dilemma Really a Formal Fallacy? A Reply to Conces and Walters. Informal Logic, 44(4), 543-572. Read in full.",
+      "doi": "10.22329/il.v44i4.8144",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/download/8144/5928",
+      "type": "commentary"
+    },
+    {
+      "text": "Conces, R. J., & Walters, M. (2023). Something Called the 'False Dilemma Fallacy' (FDF): A Return to Formalization Just This Time. Informal Logic, 43(2), 280-289. Read in full.",
+      "doi": "10.22329/il.v43i2.7171",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/download/7171/5534",
+      "type": "commentary"
+    },
+    {
+      "text": "Tomic, T. (2013). False Dilemma: A Systematic Exposition. Argumentation, 27(4), 347-368. Paywalled and not obtained; cited for provenance of the systematic account, which is described here from her later papers.",
+      "doi": "10.1007/s10503-013-9292-0",
+      "url": "https://doi.org/10.1007/s10503-013-9292-0",
+      "type": "provenance"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Read for the list of core fallacies drawn from Copi's Introduction to Logic of 1961.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Oshio, A. (2009). Development and validation of the Dichotomous Thinking Inventory. Social Behavior and Personality, 37(6), 729-741. Cited only to name the personality measure that shares the vocabulary and is a different construct; not obtained.",
+      "doi": "10.2224/sbp.2009.37.6.729",
+      "url": "https://doi.org/10.2224/sbp.2009.37.6.729",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
