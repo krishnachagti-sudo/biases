@@ -1,0 +1,141 @@
+{
+  "no": 422,
+  "slug": "scarcity-and-cognitive-function",
+  "name": "Scarcity and cognitive function",
+  "aliases": [
+    "Poverty impedes cognitive function",
+    "Mental bandwidth",
+    "Scarcity salience induced cognitive inequality"
+  ],
+  "category": "decision",
+  "statement": "Having too little money consumes cognitive capacity, so the same person performs worse on unrelated reasoning and attention tasks while poor than while not.",
+  "meaning": "The claim is about capacity rather than about taste or motivation. Shah, Mullainathan and Shafir argue that scarcity captures attention, and that the capture leaves fewer resources for everything else a person is doing. The prediction tested is narrow. Performance on an unrelated reasoning or attention task should fall while money is short, and should recover when it is not. Mani, Mullainathan, Shafir and Zhao put it as poverty impeding cognitive function, and define poverty as the gap between a person's needs and the resources available to fill them. The same papers carry a second family of claims, about tunnelling, neglect and overborrowing, which describe what people choose rather than what they can do. Those behavioural claims rest on different experiments and are not covered here. The marketing effect by which a scarce product looks more desirable is a third subject again, and it has its own entry under Scarcity.",
+  "origin": {
+    "year": 2012,
+    "who": "Anuj K. Shah, Sendhil Mullainathan and Eldar Shafir",
+    "where": "Science",
+    "note": "Their paper, \"Some Consequences of Having Too Little\", ran five experiments on scarcity and borrowing, and its first experiment carried the cognitive claim. The field result readers remember arrived a year later in the same journal, when Mani, Mullainathan, Shafir and Zhao compared Indian sugarcane farmers with themselves before and after harvest."
+  },
+  "evidence": "Shah's experiment 1 gave participants a Wheel of Fortune word game with rationed guesses. Poor participants had 84 guesses in total, six per round, and rich participants had 280, twenty per round. Everyone then did a Dots-Mixed task, identical for both groups, as a measure of cognitive fatigue. Poor participants got fewer correct responses, mean 45.12 with a standard deviation of 15.87, against 52.93 and 12.79 for the rich, F(1, 54) = 4.16. Mani and colleagues ran four laboratory experiments on shoppers at a New Jersey mall, with 101 participants in experiment 1, 100 in experiment 3 and 96 in experiment 4. Median household income was roughly $70,000, and rich and poor were split at the median of income divided by the square root of household size. Participants read hypothetical money problems set either high or low, a car repair at $1500 or at $150, then did Raven's matrices and a spatial compatibility task. Experiment 1 gave an income by condition interaction of F(1, 97) = 5.12, P = 0.03 on Raven's and F(1, 97) = 7.86, P < 0.01 on cognitive control. The poor were unaffected in the easy condition and worse in the hard one. The authors report Cohen's d between 0.88 and 0.94 across that experiment and their own follow-ups. The field study surveyed 464 sugarcane farmers in 54 villages around Villupuram and Tiruvannamalai in Tamil Nadu, twice each over four months in 2010, before and after a harvest whose date the sugar mills stagger across farmers. Farmers scored 4.35 items correct on Raven's pre-harvest and 5.45 post-harvest out of ten, n = 460, took 146 seconds against 131 on a numerical Stroop, n = 452, and made 5.93 errors against 5.16, n = 453. The paper reports pawning at 78% pre-harvest against 4% after, and loans outstanding at 99% against 13%.",
+  "replication": {
+    "state": "failed",
+    "headline": "A high-powered preregistered replication of the founding experiment on 619 people returned r = -0.015 where the original had 0.267.",
+    "detail": "The Social Sciences Replication Project replicated 21 experiments from Nature and Science, following analysis plans reviewed by the original authors and registered in advance. Replication samples were about five times the original sizes, and the design ran in two stages, the first powered at 90% to detect 75% of the original effect and the second, pooled, at 90% to detect 50% of it. For papers reporting a series of studies the project replicated the first study that reported a significant treatment effect, which for Shah and colleagues was the Wheel of Fortune experiment. The original effect is recorded as r = 0.267, p = 0.046, n = 56. Stage 1 gave r = -0.087, p = 0.150, n = 278, and the pooled stage 2 gave r = -0.015, p = 0.710, n = 619. The sign is opposite to the original in both stages. The project's supplementary information reports that Shah and colleagues then ran their own replication of all five of their studies, replicated what they consider their most important finding, that scarcity leads to overborrowing, and also failed to replicate study 1. Two later tests of the laboratory prediction point the same way. Szecsi, Bognar and Szaszi's registered report used 4,280 Hungarian participants, scarcity-related and neutral word cues, and a sustained attention task, and found the socioeconomic status by condition interaction at d = 0.015, p = 0.782, below their preregistered smallest effect of interest of d = 0.14. Carvalho, Meier and Wang randomly assigned low-income American households to answer a survey before or after payday, 1,056 in the RAND American Life Panel and 2,496 in the GfK KnowledgePanel, and report a standardised before-after difference in Study 2 response time of 0.004 of a standard deviation, 95% interval from -0.05 to 0.05.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "n": 619
+    },
+    "original": {
+      "es": 0.267,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": -0.015,
+      "esType": "r"
+    }
+  },
+  "limits": "The failures above are all tests of the laboratory prediction, and the laboratory and the field have not shared a fate. Searches of Crossref, Europe PMC, Unpaywall and general web search found no direct re-run of the sugarcane study, so the harvest result stands unreplicated rather than overturned. What exists instead is a reanalysis and an argument about it. Wicherts and Zand Scholten's comment in Science states that a reanalysis without dichotomisation of income fails to corroborate the findings and highlights spurious interactions between income and experimental manipulation due to ceiling effects caused by short and easy tests. That sentence is quoted from the abstract carried by the Europe PMC record, because the comment itself is paywalled. Mani, Mullainathan, Shafir and Zhao reply that the comment raises three grounds, the binary income variable, ceiling effects in the cognitive control test, and retesting effects in the field study. They report that with the continuous income variable, and data collapsed across experiments 1, 3 and 4, the interaction holds at P < 0.02. They also report that Raven's item difficulty does not correlate with their interaction effect, r = 0.18, P = 0.50, and that the harvest improvement survives the learning effects they measured. Evidence in the other direction also exists at scale. Duquennois reports that disadvantaged students do worse on randomly assigned mathematics exams containing more money-themed questions, with a ten percentage point increase in monetary questions depressing performance by 0.026 standard deviations for students below the national median on socioeconomic indicators. Szecsi and Szaszi's meta-analysis of the laboratory literature is reported by Szecsi, Bognar and Szaszi as 13 experimental or quasi-experimental studies found by screening 52,162 articles, pooling to g = 0.07, interval -0.02 to 0.16, with substantial heterogeneity. That figure was read from the later paper rather than from the meta-analysis, whose publisher copy could not be retrieved, and so it does not appear in the fields above. Szecsi and colleagues note that their own cues were single words rather than the scenarios earlier studies used, and say this limits what their null result generalises to. Two further papers were not read: the self-replication published by Shah, Mullainathan and Shafir in the Journal of Economic Psychology in 2019, and Mani and colleagues' 2020 analysis of scarcity and cognitive function around payday, both paywalled.",
+    "misreadings": "The most-quoted number on this subject is a conversion, not a measurement. Mani and colleagues write that with a mean of 100 and a standard deviation of 15 the effects they observed correspond to about 13 IQ points, which rescales a standardised effect onto the IQ metric. Nobody's IQ was measured falling by 13 points, the same paper puts the field effects at three quarters the size of the laboratory ones, and the laboratory effect is the one that failed to replicate. The second error is treating the cognitive claim and the behavioural claims as one result. Shah and colleagues' own repetition of all five of their studies recovered the overborrowing finding and not the attention finding, which is what a reader should expect from evidence that is separate. Third, O'Donnell and colleagues' empirical audit is often cited as a verdict on Shah and Mani. It replicated 20 studies drawn from the papers citing Shah and colleagues, not those papers themselves. Four came out significant, effect sizes were smaller than the originals for 80% of the 20 and directionally opposite for 30%. Its conclusion is that within that set scarcity primes have a minimal influence on cognitive ability, product attitudes or well being. It is disputed. It carries a 2022 correction after Fernbach, Kan and Lynch identified discrepancies in the materials used against them. Shah, Zhao, Mullainathan and Shafir argue in PNAS that at least 10 of the 20 studies are affected by inclusion, selection, analysis or fidelity problems, and Lynch, Fernbach and Kan argue that the method itself sows confusion. O'Donnell, Nelson and Moore reply defending the selection criteria and the corrections. Fourth, the marketing scarcity effect, by which a limited edition looks more valuable, is a different claim with a different literature and a positive record. Last, the 2013 paper ends with a section on policy, and none of the results here settle any policy question."
+  ,
+  "sources": [
+    {
+      "text": "Shah, A. K., Mullainathan, S., & Shafir, E. (2012). Some Consequences of Having Too Little. Science, 338(6107), 682-685. Read from the author copy hosted at the University of Florida.",
+      "doi": "10.1126/science.1222426",
+      "url": "http://bear.warrington.ufl.edu/brenner/mar7588/Papers/shah-science2012.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Mani, A., Mullainathan, S., Shafir, E., & Zhao, J. (2013). Poverty Impedes Cognitive Function. Science, 341(6149), 976-980. Read from the author copy at Eldar Shafir's Princeton page.",
+      "doi": "10.1126/science.1238041",
+      "url": "https://shafir.scholar.princeton.edu/sites/g/files/toruqf4226/files/povertyimpedescognitivefunction.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Article read from the Erasmus University repository copy; the per-study figures come from Supplementary Tables 3 and 4 in the publisher's supplementary file.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://pure.eur.nl/ws/files/37359856/Camerer_et_al._2018_Evaluating_the_replicability_of_social_science_experiments_in_Nature_and_Science_between_2010_and_2015.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Wicherts, J. M., & Zand Scholten, A. (2013). Comment on \"Poverty Impedes Cognitive Function\". Science, 342(6163), 1169. Paywalled; quoted here from the abstract in the Europe PMC record.",
+      "doi": "10.1126/science.1246680",
+      "url": "https://europepmc.org/article/MED/24311665",
+      "type": "commentary"
+    },
+    {
+      "text": "Mani, A., Mullainathan, S., Shafir, E., & Zhao, J. (2013). Response to Comment on \"Poverty Impedes Cognitive Function\". Science, 342(6163), 1169. Read from the copy at the Zhao lab at the University of British Columbia.",
+      "doi": "10.1126/science.1246799",
+      "url": "https://zhaolab.psych.ubc.ca/pdfs/Zhao_2013_Science_response.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Carvalho, L. S., Meier, S., & Wang, S. W. (2016). Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday. American Economic Review, 106(2), 260-284. Read from the PubMed Central copy.",
+      "doi": "10.1257/aer.20140481",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5167530/",
+      "type": "replication"
+    },
+    {
+      "text": "Szecsi, P., Bognar, M., & Szaszi, B. (2025). Do scarcity-related cues affect the sustained attentional performance of the poor and the rich differently? Royal Society Open Science, 12(11), 251758. Read from the Corvinus University repository copy.",
+      "doi": "10.1098/rsos.251758",
+      "url": "https://unipub.lib.uni-corvinus.hu/12269/1/rsos.251758.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Szecsi, P., & Szaszi, B. (2024). Financial-Scarcity-Related Cues' Impact on the Cognitive Performance of the Poor: A Meta-analysis. Collabra: Psychology, 10(1), 122943. The publisher copy could not be retrieved, and its pooled estimate is quoted on this page from Szecsi, Bognar and Szaszi (2025).",
+      "doi": "10.1525/collabra.122943",
+      "url": "https://doi.org/10.1525/collabra.122943",
+      "type": "replication"
+    },
+    {
+      "text": "Duquennois, C. (2022). Fictional Money, Real Costs: Impacts of Financial Salience on Disadvantaged Students. American Economic Review, 112(3), 798-826. Described here from the abstract in the Crossref record.",
+      "doi": "10.1257/aer.20201661",
+      "url": "https://api.crossref.org/works/10.1257/aer.20201661",
+      "type": "commentary"
+    },
+    {
+      "text": "O'Donnell, M., Dev, A. S., Antonoplis, S., et al. (2021). Empirical audit and review and an assessment of evidentiary value in research on the psychological consequences of scarcity. Proceedings of the National Academy of Sciences, 118(44), e2103313118. Figures read from the corrected full text in Europe PMC.",
+      "doi": "10.1073/pnas.2103313118",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8612349/",
+      "type": "replication"
+    },
+    {
+      "text": "Correction for O'Donnell et al., Empirical audit and review and an assessment of evidentiary value in research on the psychological consequences of scarcity (2022). Proceedings of the National Academy of Sciences, 119(48), e2217321119.",
+      "doi": "10.1073/pnas.2217321119",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9860137/",
+      "type": "commentary"
+    },
+    {
+      "text": "Shah, A. K., Zhao, J., Mullainathan, S., & Shafir, E. (2023). A scarcity literature mischaracterized with an empirical audit. Proceedings of the National Academy of Sciences, 120(26), e2206054120.",
+      "doi": "10.1073/pnas.2206054120",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293841/",
+      "type": "commentary"
+    },
+    {
+      "text": "Lynch, J. G., Fernbach, P. M., & Kan, C. (2023). Auditing the value of empirical audits. Proceedings of the National Academy of Sciences, 120(26), e2213200120.",
+      "doi": "10.1073/pnas.2213200120",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293816/",
+      "type": "commentary"
+    },
+    {
+      "text": "O'Donnell, M., Nelson, L. D., & Moore, D. A. (2023). Reply to Shah et al. & Lynch et al.: In defense of replication. Proceedings of the National Academy of Sciences, 120(26), e2304251120.",
+      "doi": "10.1073/pnas.2304251120",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293803/",
+      "type": "commentary"
+    },
+    {
+      "text": "Shah, A. K., Mullainathan, S., & Shafir, E. (2019). An exercise in self-replication: Replicating Shah, Mullainathan, and Shafir (2012). Journal of Economic Psychology, 75, 102127. Paywalled and not read; its outcome is described on this page from the supplementary information to Camerer and colleagues (2018).",
+      "doi": "10.1016/j.joep.2018.12.001",
+      "url": "https://doi.org/10.1016/j.joep.2018.12.001",
+      "type": "replication"
+    },
+    {
+      "text": "Mani, A., Mullainathan, S., Shafir, E., & Zhao, J. (2020). Scarcity and Cognitive Function around Payday: A Conceptual and Empirical Analysis. Journal of the Association for Consumer Research, 5(4), 365-376. Paywalled and not read; named here because it addresses the payday setting.",
+      "doi": "10.1086/709885",
+      "url": "https://doi.org/10.1086/709885",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
