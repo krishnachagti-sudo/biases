@@ -1,0 +1,105 @@
+{
+  "no": 403,
+  "slug": "straw-man",
+  "name": "Straw man",
+  "aliases": ["Straw man fallacy", "Straw person", "Weak man", "Selectional straw man", "Hollow man"],
+  "category": "belief",
+  "statement": "The straw man is refuting a distorted version of an opponent's position and treating that refutation as though it had answered the position actually held.",
+  "meaning": "Two things have to happen together. The arguer distorts what the opponent said, and then refutes the distortion as though it had settled the original. Lewiński calls these the misrepresentational and the refutational dimensions, and Schumann's reading of that literature is that a misquotation with no attack attached does not qualify. Pragma-dialectics treats the move as a breach of the standpoint rule, which requires an attack to fall on the position the other party advanced. Talisse and Aikin add a second shape, which they call the form of selection. An arguer can misrepresent a whole debate rather than any one person, by answering only its weakest exponent while implicating that the best have been answered. Their example is an arguer who correctly recounts B's objection and refutes it, leaving unmentioned a C whose version of the same objection avoids B's extravagance. Aikin and Casey later split the family into the straw man, the weak man and the hollow man. Schumann, Aikin and Casey separate the fallacy by who is listening. In the second person the target of the distortion is also the audience for it. In the third person the target is absent, and somebody else is the one being convinced. That distinction drives most of the recent work, because the two cases predict opposite things about whether anyone is fooled.",
+  "origin": {
+    "year": 2009,
+    "who": "George Y. Bizer, Shirel M. Kozak and Leigh Ann Holterman",
+    "where": "Social Influence",
+    "note": "This is the first experiment on the fallacy, not the origin of the idea. Schumann's 2025 review of the literature reports it as the only experimental study on the straw man she found, and the 2026 paper she wrote with Aikin and Casey says the same. The concept is much older and this entry did not establish who attached the name. Two dating points were found rather than assumed. Talisse and Aikin cite Stuart Chase in 1956 as one of the theorists who treated the straw man as a sub-species of hasty generalisation. Schumann states that the fallacy does not appear in Hamblin's Fallacies of 1970, and calls it a modern addition whose independent treatment begins with Johnson and Blair's informal-logic work and with van Eemeren and Grootendorst's standpoint rule. Neither Chase nor Hamblin nor Johnson and Blair was obtained here."
+  },
+  "evidence": "A pattern of argument is not an experimental finding, so what has been put to volunteers is narrower than the fallacy itself: whether people notice a straw man, and whether it works on them. Bizer, Kozak and Holterman ran the first two studies, giving participants statements from two candidates for office where the second did or did not straw man the first. Their paper was not obtained for this entry. Two later sources that cite it by page describe the same two results, that participants in a high personal-relevance condition were less persuaded by the straw man than those in a low-relevance condition, and that participants with a high need for cognitive closure were more persuaded than those with a low need. No figure from that paper is quoted here. Jennifer Schumann's monograph reports the experimental programme that followed, using dialogues between two speakers called Barbara and Alexandre rated on a six-point scale. The first study gave 40 dialogues to 30 French speakers. Non-fallacious replies scored 3.97 on the question of whether the conclusion was proportionate to what had been said, against 3.001 for their fallacious counterparts, F1(1,29) = 56.640, p < 0.001; F2(1,39) = 139.319, p < 0.001. Where the distortion fell mattered less than whether there was one. Replies twisting the opponent's argument scored 3.59 against 3.37 for those twisting the standpoint, F1(1,29) = 7.991, p = 0.008. The same gap appeared on the question about agreement with the speaker who committed the fallacy, 4.1 against 3.19, and was absent on the control question about agreement with the speaker who did not. Later chapters ran the design with 162 French speakers drawn from Prolific and from a Fribourg psychology course, then with 123 English, 121 Spanish and 40 German speakers recruited through Prolific. A separate pair of studies, 37 and 38 French speakers, asked instead whether Alexandre seemed to agree with Barbara. Participants read the straw man as the sharper disagreement, 4.65 against 4.42 on the proposal question, F1(1,74) = 27.41, p < 0.001, and 4.65 against 4.04 on the reason question, F1(1,74) = 110.79, p < 0.001. Wording the question in terms of agreement or of disagreement changed nothing. Schumann, Aikin and Casey then tested the case the earlier work had skipped, the straw man delivered to the person whose view is being distorted. They recruited 143 English speakers on Prolific and analysed 101 after dropping 42 who placed themselves in the political middle, across 32 items on polarising United States topics and 3,232 observations. On a slider from 0 to 10, statements containing a straw man were rated at 3.13 for persuasiveness, 95% CI 2.76 to 3.49, against 5.5 for the same position stated fairly, 5.13 to 5.86, standardised beta −0.66, 95% CI −0.71 to −0.60. Participants also said they would oppose the straw man more strongly, 6.4 against 3.99, standardised beta 0.67, 95% CI 0.61 to 0.72, and were less willing to use it themselves. The authors conclude that the straw man is not persuasive in the second person or the third, and read that as evidence for what they call the agonistic account: the argument works by loading the target with the extra burden of explaining what they had actually said, rather than by convincing anyone.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The finding that has been repeated is the opposite of the folk expectation. People mark straw men down rather than fall for them, in every experiment located, across four languages, and whether they are the audience or the target.",
+    "detail": "What replicates is one effect, and it is large. Fallacious replies scored lower than fair ones on every measure in Schumann's French, English, Spanish and German samples, and the same contrast appeared on all three measures in the 2026 second-person study at a standardised beta of −0.66, 95% CI −0.71 to −0.60. The authors of that study call it robust across three complementary dimensions and place it alongside the earlier work. Two things did not carry over. The first is the linguistic machinery the programme was built to test. Causal connectives were expected to warn a reader that content was being attributed to somebody else, and the book's own summary table marks the three Spanish connectives as having no effect on any of the four questions, marks two of the three English connectives likewise, and marks only the French puisque as lowering agreement with the speaker of the straw man. Schumann's conclusion is that connective pairs are not equivalent across languages, and that the English connectives showed a much lower influence than their French translation equivalents. The second is a moderator rather than a main effect. Bizer, Kozak and Holterman found the straw man more persuasive under low personal relevance and high need for cognitive closure, which is a claim about when it works that nobody has since retested directly. The 2026 study found no main effect of participants' own politics on perceived persuasiveness, p = 0.54, and interactions instead: participants on the left rated straw men at 2.61 and those on the right at 3.65, standardised beta 0.48, p < 0.001."
+    ,
+    "study": {
+      "cite": "Schumann, J., Aikin, S., & Casey, J. (2026). Empirical evidence for the non-persuasiveness of the straw man on its target. Argumentation.",
+      "doi": "10.1007/s10503-026-09706-2",
+      "year": 2026,
+      "n": 101
+    },
+    "replicated": {
+      "es": -0.66,
+      "esType": "beta",
+      "ci": [-0.71, -0.6],
+      "ciLevel": 95
+    }
+  },
+  "limits": "Nearly all of it is one research programme. Schumann is an author on the monograph, on the two journal papers behind its chapters and on the 2026 study, and the materials are the same dialogue design carried from chapter to chapter. Bizer, Kozak and Holterman remain the only independent experiment, and their paper is behind a paywall and was not obtained; the account here comes from Schumann's summary and from the 2026 paper's, which cite it by page and agree. Two further papers were not obtained directly, and the experiments they report also appear in the monograph read here: the 2019 Journal of Pragmatics paper, and the 2022 Languages paper whose publisher blocked retrieval. Aikin and Casey's 2011 and 2016 papers were not obtained either, so the hollow man and the iron man are named on this page and not defined from their source. Van Eemeren, Garssen and Meuffels tested whether ordinary readers judge rule-breaking moves unreasonable, and the parts of that programme described in the monograph concern ad hominem rather than the straw man. The measures are ratings of acceptability, perceived persuasiveness and stated willingness to oppose, not attitude change; the 2026 authors say their design cannot settle whether perceived and actual persuasiveness are linked. All stimuli were written, all samples were crowdsourced or recruited by word of mouth, and no experiment reported here ran above 162 people, with the German sample at 40. No count of how often straw-manning occurs in real discourse was found. The search covered Crossref, Europe PMC, Semantic Scholar, OAPEN and general web search, pairing the fallacy with terms for corpora, content analysis, political debate and annotated datasets. Talisse and Aikin's claim that the selection form is among the most prevalent fallacies in popular political discourse is offered in their paper as their view, with no counting behind it. Two numbers in the 2026 paper disagree between its text and its tables. The interval on one conditional mean is printed as 3.13 to 4.12 in the text and 3.18 to 4.12 in Table 1, and one Table 1 interval is printed with its bounds crossed. Only figures that match across text and table are quoted here.",
+  "misreadings": "The commonest error is to file the straw man with the biases that show people up as gullible. The experimental record points the other way, and Schumann's summary of it is that people intuitively detect that something is going on. That has a consequence the fallacy literature is still working through, which Aikin and Casey call the effectiveness puzzle: if straw men are neither convincing to their targets nor, on the 2026 evidence, to people who already reject the position, it becomes hard to say how they ever seem good enough to work. Their answer is that seeming good was never the point, and that the move imposes a second burden of proof on the target, who must now argue about what they originally argued. A second error runs the other way, and it is the one the label invites. 'That is a straw man' is available to anyone who dislikes an accurate restatement of their view, and the boundary it claims is genuinely hard. Van Laar sets out conditions under which reformulating an opponent counts as licit, including that the arguer admits a reformulation is happening and that the rephrased position stands a real chance of being accepted. Lewiński argues that the charge can only be assessed in context, that an interpretation is reasonable when it is pragmatically plausible for what the opponent was committed to, and that where more than one reading survives, charity settles which to take. On that account, drawing out an implication somebody would rather not own is not by itself the fallacy, and a distortion nobody can trace because the original was never recorded may be unprovable rather than absent. Aikin and Casey name the mirror error, the iron man, where an arguer rebuilds an opponent's case into something stronger than was offered. Two variants also get merged. The weak man picks the feeblest of the arguments actually made and leaves the stronger ones unmentioned, which is a misrepresentation of a debate rather than of a sentence, and correcting it takes knowledge of the wider argument rather than a transcript. The last confusion is about what the experiments measure. They record how an argument is rated, not how often the tactic is used, and no study located here counts straw men in the wild.",
+  "sources": [
+    {
+      "text": "Schumann, J. (2025). The Pragmatics of Straw Man Fallacies: An Experimental Approach. Argumentation Library 46. Springer Nature Switzerland. Open access under CC BY-NC-ND. Every figure attributed to this book was read in the full text obtained from OAPEN, chapters 3 to 10.",
+      "doi": "10.1007/978-3-031-94094-1",
+      "url": "https://library.oapen.org/handle/20.500.12657/105454",
+      "type": "primary"
+    },
+    {
+      "text": "Schumann, J., Aikin, S., & Casey, J. (2026). Empirical evidence for the non-persuasiveness of the straw man on its target. Argumentation. Open access under CC BY. Full text read; every quoted figure appears in both the running text and the model tables.",
+      "doi": "10.1007/s10503-026-09706-2",
+      "url": "https://doi.org/10.1007/s10503-026-09706-2",
+      "type": "primary"
+    },
+    {
+      "text": "Bizer, G. Y., Kozak, S. M., & Holterman, L. A. (2009). The persuasiveness of the straw man rhetorical technique. Social Influence, 4(3), 216-230. Not obtained; paywalled. The two results are quoted here through Schumann (2025) and Schumann, Aikin and Casey (2026), which cite it at pp. 219-225. No figure from it is reproduced.",
+      "doi": "10.1080/15534510802598152",
+      "url": "https://doi.org/10.1080/15534510802598152",
+      "type": "primary"
+    },
+    {
+      "text": "Schumann, J., Zufferey, S., & Oswald, S. (2019). What makes a straw man acceptable? Three experiments assessing linguistic factors. Journal of Pragmatics, 141, 1-15. Not obtained; the three experiments it reports are those of chapter 5 of Schumann (2025), which was read.",
+      "doi": "10.1016/j.pragma.2018.12.009",
+      "url": "https://doi.org/10.1016/j.pragma.2018.12.009",
+      "type": "primary"
+    },
+    {
+      "text": "Schumann, J. (2022). Do People Perceive the Disagreement in Straw Man Fallacies? An Experimental Investigation. Languages, 7(2), 111. The publisher's site refused retrieval; the two experiments it reports are those of chapter 9 of Schumann (2025), which was read. The abstract was read at Crossref.",
+      "doi": "10.3390/languages7020111",
+      "url": "https://doi.org/10.3390/languages7020111",
+      "type": "primary"
+    },
+    {
+      "text": "Talisse, R., & Aikin, S. F. (2006). Two Forms of the Straw Man. Argumentation, 20(3), 345-352. Full text read. Source for the selection form, for the Chase 1956 citation, and for the prevalence claim quoted on this page as the authors' own view.",
+      "doi": "10.1007/s10503-006-9017-8",
+      "url": "https://doi.org/10.1007/s10503-006-9017-8",
+      "type": "primary"
+    },
+    {
+      "text": "Aikin, S. F., & Casey, J. (2011). Straw Men, Weak Men, and Hollow Men. Argumentation, 25(1), 87-105. Not obtained. Named here for the three-way split, with the weak man described through Schumann (2025).",
+      "doi": "10.1007/s10503-010-9199-y",
+      "url": "https://doi.org/10.1007/s10503-010-9199-y",
+      "type": "primary"
+    },
+    {
+      "text": "Aikin, S. F., & Casey, J. P. (2016). Straw Men, Iron Men, and Argumentative Virtue. Topoi, 35(2), 431-440. Not obtained. Named here for the iron man, which the 2026 paper and Schumann (2025) both attribute to it.",
+      "doi": "10.1007/s11245-015-9308-5",
+      "url": "https://doi.org/10.1007/s11245-015-9308-5",
+      "type": "primary"
+    },
+    {
+      "text": "Lewiński, M. (2011). Towards a Critique-Friendly Approach to the Straw Man Fallacy Evaluation. Argumentation, 25(4), 469-497. Not obtained; its conditions for telling a fallacious straw man from a legitimate critique are described here through Schumann (2025), chapter 3.",
+      "doi": "10.1007/s10503-011-9227-6",
+      "url": "https://doi.org/10.1007/s10503-011-9227-6",
+      "type": "primary"
+    },
+    {
+      "text": "van Laar, J. A. (2008). Room for Maneuver When Raising Critical Doubt. Philosophy and Rhetoric, 41(3), 195-211. Not obtained; the three conditions for a licit reformulation are described here through Schumann (2025), chapter 3.",
+      "doi": "10.1353/par.0.0011",
+      "url": "https://doi.org/10.1353/par.0.0011",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2009). Fallacies and Judgments of Reasonableness. Argumentation Library. Springer. Not obtained; cited here for the wider programme on whether ordinary readers judge rule-breaking moves unreasonable, as described in Schumann (2025), chapter 4.",
+      "doi": "10.1007/978-90-481-2614-9",
+      "url": "https://doi.org/10.1007/978-90-481-2614-9",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
