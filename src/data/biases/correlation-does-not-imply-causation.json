@@ -1,0 +1,105 @@
+{
+  "no": 410,
+  "slug": "correlation-does-not-imply-causation",
+  "name": "Correlation does not imply causation",
+  "aliases": ["Correlation is not causation", "Causal claims from correlational evidence"],
+  "category": "belief",
+  "statement": "Readers rate correlational findings as moderately causal, and hedged wording such as 'linked to' or 'associated with' does not reliably lower that reading.",
+  "meaning": "The logical point is not in dispute and needs no defending: an association between two variables can arise from one causing the other, from the reverse, from a third variable, or from how the sample was drawn. Three claims underneath the maxim can be measured, and they are separate. The first is about readers, and asks how causally people read a finding described as correlational. The second is about news stories, and asks how often the wording in a story is stronger than the wording in the journal article behind it. The third is about where the strengthening happens, and the answer names press offices as well as newsrooms. Studies exist for all three, mostly on health news and mostly in Britain, and the answers do not point the same way.",
+  "origin": {
+    "year": 1911,
+    "who": "Karl Pearson",
+    "where": "The Grammar of Science, third edition, Part I",
+    "note": "Chapter V is titled 'Contingency and Correlation - the Insufficiency of Causation'. Pearson's argument is not the modern prohibition. He treats correlation as the wider category that should replace causation, writing that 'nowhere can you draw a distinction and say here correlation ceases and causation begins' and that 'causation is solely the conceptual limit to correlation'. Of a scatter of 600 observations he says 'there is association but not causation'. A search of the Internet Archive's scanned text of that edition for the strings 'imply causation' and 'correlation does not' returned no match, so the slogan in its usual modern form is not attributed here to Pearson. The measurement work described below dates from 2014 onwards."
+  },
+  "evidence": "Three reader experiments give the core figures. Bleske-Rechek, Morrison and Heidtke ran three studies on community adults, of 117, 104 and 100 people, each a two-by-two in which a research vignette described the key variable as either manipulated or measured, and the association as either positive or negative. In the first study, 63% of those who read the non-experimental positive vignette selected 'playing video games causes an increase in aggressiveness', the same 63% as those who read the experimental version, a difference of .00 with a 95% interval of -.23 to .23. In the second study, readers of a non-experimental positive vignette were as ready to say self-esteem raises achievement (70%) as to say achievement raises self-esteem (74%). Formal education made little difference: among people given the experimental video-game vignette, correct causal inference ran at 38% in the lower education group and 50% in the higher, p = .339. Adams and colleagues ran four experiments on the wording of headlines. In the first, 71 participants rated sentences on a 0 to 100 causal scale; direct-cause phrasing such as 'makes' or 'increases' scored about 75 to 80, while ambiguous and correlational phrasing scored about 45 to 55, with no difference between those two and a Bayes factor of 0.21 favouring the null. Pilot work in which the causal direction was reversed drew ratings near 20, so low ratings were available to participants who wanted them. In a fourth experiment, 380 people recruited through Prolific ranked six phrasings of the same headline; 'linked to' outranked 'associated with' there, r = 0.22, reversing the first experiment. The authors' summary is that readers separate three groups, direct cause, can cause, and a moderate group holding 'might cause', 'linked' and 'associated with' together. Seifert, Harrington, Michal and Shah gave written reasoning tasks to advanced psychology students, 97 of 240 enrolled completing all three sessions. At pretest 48% rated a study with correlational evidence as supporting a causal claim, and 37% did so a week after a ten-minute worked-example intervention; the share giving more than one correct reason to reject a causal claim rose from 31% to 47%. The news chain has been measured separately. Sumner and colleagues coded 462 health-related press releases from 20 UK universities in 2011 against their journal articles and 668 news stories. Exaggerated causal claims appeared in 33% of press releases, 95% confidence interval 26% to 40%. Where the press release exaggerated, 81% of news stories did too, 70% to 93%, against 18% where it did not, 9% to 27%, an odds ratio of 20, 7.6 to 51. Adams and colleagues then reanalysed that dataset after collapsing the categories their experiments showed readers do not separate, which cut the press-release rate to 19%, 14% to 25%, and the news rate from 39% to 32%, 24% to 41%, while leaving the association at an odds ratio of 12, 4.7 to 29.7. The same group extended the work to eight journals' press offices and, pooling with the university data for 996 press releases and 1,250 news stories, found caveats on causal claims in 14% of press releases, 62 of 428, and 18% of news, 107 of 607. Outside Britain, Buhse, Rahn, Bock and Mühlhauser sampled 176 medical news reports from Deutsches Ärzteblatt published between April 2015 and May 2016; 45% of headlines were stronger than the conclusions of the journal article, and of 137 headlines coded as unconditionally causal, 52, or 38%, described randomised trials. Two intervention studies exist. Adams and colleagues randomised 312 press releases from nine press offices across control, claim alignment, causality statement and both conditions, and coded 2,257 news articles. Among press releases that actually carried the intervention, 60% of news headlines were aligned to the evidence against 32% for controls, and explicit causality caveats reached 20% of news against 0%; the intention-to-treat contrast was weaker at 56% against 52%. News uptake did not fall in any comparison. Bott and colleagues ran four experiments on caveats such as 'Further research is needed to validate the results'; the abstract reports that news reports with caveats were judged more cautious, that interest and comprehensibility were unaffected, and that in a mock newsroom neither caveats nor qualifying headline expressions changed journalism students' judgements of newsworthiness.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The press-release-to-news association for causal claims held in an independent cohort of press releases from 2014 and 2015, odds ratio 23.7 against the original 20.",
+    "detail": "Bratton, Adams, Challenger, Boivin, Bott, Chambers and Sumner repeated the 2014 coding on UK university press releases from January to June of 2014 and 2015, double-coding every article set rather than a sample. For claims about correlational research the analysis covered 154 press releases, 58 of which drew news, and 237 news articles. Causal wording was stronger than the journal article's in 27% of press releases, 21% to 35%, and in 49% of news articles, 37% to 61%. Where the press release exaggerated, 82% of the associated news exaggerated too, 68% to 91%, against 16% where it did not, 10% to 26%, an odds ratio of 23.7, 9.0 to 62.2. The original figure was 20, 7.6 to 51. The uptake null replicated as well: 57% of exaggerated press releases drew news against 56% of the rest, a difference of 1% with an interval of -18.6% to 20.6%. Not everything held. The same paper's advice category, where a press release tells readers to change behaviour, gave an odds ratio of 0.7, 0.3 to 1.5, and the authors record that association as not replicating. Human inference from animal studies replicated, at 26.5, 6.1 to 116.0. The reader-level finding is supported by different work rather than by a direct repeat. Adams and colleagues' four experiments agree that moderate expressions are read as moderately causal, and disagree internally on the ordering within that group: 'linked to' and 'associated with' were indistinguishable in the first experiment, with a Bayes factor of 0.21 for the null, and separated in the fourth.",
+    "study": {
+      "cite": "Bratton, L., Adams, R. C., Challenger, A., Boivin, J., Bott, L., Chambers, C. D., & Sumner, P. (2019). The association between exaggeration in health-related science news and academic press releases: a replication study. Wellcome Open Research, 4, 148.",
+      "doi": "10.12688/wellcomeopenres.15486.2",
+      "year": 2019,
+      "n": 154
+    },
+    "original": { "es": 20, "esType": "OR", "ci": [7.6, 51], "ciLevel": 95 },
+    "replicated": { "es": 23.7, "esType": "OR", "ci": [9.0, 62.2], "ciLevel": 95 }
+  },
+  "limits": "The reader experiments use single headlines and short vignettes, answered under instruction, and none of them followed a person reading a newspaper. Adams and colleagues' figures on this page were read from the accepted manuscript posted online, which lists seven authors; the published version lists eight, and the journal's 2016 correction records that the fourth author was omitted from the advance online version. The chain studies are observational, and both the 2014 paper and its replication say in as many words that they cannot show press release wording causes news wording. The randomised trial can, and its strongest contrasts are the as-treated ones, which its authors describe as correlational; the intention-to-treat analysis was insensitive because press offices in the control condition adopted the interventions on their own. Bott and colleagues' paper is paywalled and only the PubMed abstract was read here. That abstract reports judgements of researcher caution, interest and comprehensibility, and carries no measure of the reader's own causal inference, so whether a caveat changes what a reader concludes is not settled by it. The measurement base is narrow. It is health and lifestyle research, mostly British, with one German sample, and the exaggeration coding compares wording against the journal article rather than against the underlying design. Searches of PubMed, Europe PMC, Crossref and general web search for reader-level tests of warnings and corrections turned up the two intervention papers described above and the classroom study; the developmental literature on causal learning from covariation was set aside because the work located concerns children learning the structure of a novel device from their own interventions, which is a different question from reading a report.",
+  "misreadings": "The most expensive error is to treat cautious wording as a solution. Adams and colleagues found 'linked to' and 'associated with' rated near the middle of a causal scale, and their reanalysis of the 2014 dataset lowered the measured exaggeration rate because readers do not separate the categories the coding scheme separated. The opposite error is now documented too. Stevens, Witkow and Isbell put a question to 123 introductory psychology students about a correlational study; 63% correctly said a causal relationship was possible in either direction, 4% and 2% picked a specific causal conclusion, and 31% said no causal relationship was possible at all. The maxim taught as a slogan can leave a third of a class believing that a correlational study rules causation out. A third error is to blame journalists. Exaggerated causal claims are present in a third of press releases before a reporter sees them, and news exaggeration tracks the press release closely enough to give odds ratios of 20 and 23.7 in two cohorts. A fourth is the assumption that hype pays. Exaggerated press releases drew news no more often than accurate ones in 2014, in the 2019 replication, and in the randomised trial, where cautious headlines and explicit caveats cost no coverage. Caveats also travel: their odds of appearing in news were 7.6 times higher when the press release carried one. Attributing the maxim to Pearson is a fifth error. His chapter argues that causation should be absorbed into correlation as a limiting case, which is close to the reverse of a rule forbidding causal talk about correlated data.",
+  "sources": [
+    {
+      "text": "Adams, R. C., Sumner, P., Vivian-Griffiths, S., Barrington, A., Williams, A., Boivin, J., Chambers, C. D., & Bott, L. (2017). How readers understand causal and correlational expressions used in news headlines. Journal of Experimental Psychology: Applied, 23(1), 1-14. Figures here were read from the accepted manuscript, which is open; the published article is paywalled.",
+      "doi": "10.1037/xap0000100",
+      "url": "https://gwern.net/doc/statistics/causality/2017-adams.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bleske-Rechek, A., Morrison, K. M., & Heidtke, L. D. (2015). Causal inference from descriptions of experimental and non-experimental research: public understanding of correlation-versus-causation. The Journal of General Psychology, 142(1), 48-70.",
+      "doi": "10.1080/00221309.2014.977216",
+      "url": "http://www.bleske-rechek.com/April%20Website%20Files/Bleske-Rechek%20et%20al.%202015%20Correlation%20vs%20Causation.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Sumner, P., Vivian-Griffiths, S., Boivin, J., Williams, A., Venetis, C. A., Davies, A., Ogden, J., Whelan, L., Hughes, B., Dalton, B., Boy, F., & Chambers, C. D. (2014). The association between exaggeration in health related science news and academic press releases: retrospective observational study. BMJ, 349, g7015.",
+      "doi": "10.1136/bmj.g7015",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4262123/",
+      "type": "primary"
+    },
+    {
+      "text": "Bratton, L., Adams, R. C., Challenger, A., Boivin, J., Bott, L., Chambers, C. D., & Sumner, P. (2019). The association between exaggeration in health-related science news and academic press releases: a replication study. Wellcome Open Research, 4, 148.",
+      "doi": "10.12688/wellcomeopenres.15486.2",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6833989/",
+      "type": "replication"
+    },
+    {
+      "text": "Sumner, P., Vivian-Griffiths, S., Boivin, J., Williams, A., Bott, L., Adams, R., Venetis, C. A., Whelan, L., Hughes, B., & Chambers, C. D. (2016). Exaggerations and caveats in press releases and health-related science news. PLOS ONE, 11(12), e0168217.",
+      "doi": "10.1371/journal.pone.0168217",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168217",
+      "type": "primary"
+    },
+    {
+      "text": "Adams, R. C., Challenger, A., Bratton, L., Boivin, J., Bott, L., Powell, G., Williams, A., Chambers, C. D., & Sumner, P. (2019). Claims of causality in health news: a randomised trial. BMC Medicine, 17, 91. Trial registration ISRCTN10492618.",
+      "doi": "10.1186/s12916-019-1324-7",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6521363/",
+      "type": "primary"
+    },
+    {
+      "text": "Bott, L., Bratton, L., Diaconu, B., Adams, R. C., Challenger, A., Boivin, J., Williams, A., & Sumner, P. (2019). Caveats in science-based news stories communicate caution without lowering interest. Journal of Experimental Psychology: Applied, 25(4), 517-542. Paywalled; quoted here from the abstract at PubMed, PMID 31246056.",
+      "doi": "10.1037/xap0000232",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31246056/",
+      "type": "primary"
+    },
+    {
+      "text": "Seifert, C. M., Harrington, M., Michal, A. L., & Shah, P. (2022). Causal theory error in college students' understanding of science studies. Cognitive Research: Principles and Implications, 7, 4.",
+      "doi": "10.1186/s41235-021-00347-5",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8755867/",
+      "type": "primary"
+    },
+    {
+      "text": "Stevens, C., Witkow, M. R., & Isbell, J. (2025). Improving the teaching of 'correlation does not equal causation' in Introductory Psychology. Frontiers in Psychology, 16, 1645518.",
+      "doi": "10.3389/fpsyg.2025.1645518",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1645518/full",
+      "type": "primary"
+    },
+    {
+      "text": "Buhse, S., Rahn, A. C., Bock, M., & Mühlhauser, I. (2018). Causal interpretation of correlational studies: analysis of medical news on the website of the official journal for German physicians. PLOS ONE, 13(5), e0196833.",
+      "doi": "10.1371/journal.pone.0196833",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933791/",
+      "type": "primary"
+    },
+    {
+      "text": "Pearson, K. (1911). The Grammar of Science, third edition, Part I: Physical. London: Adam and Charles Black. Chapter V, 'Contingency and Correlation - the Insufficiency of Causation', pages 152 to 176. Read from the Internet Archive scan.",
+      "url": "https://archive.org/details/grammarofscience01pearrich",
+      "type": "primary"
+    },
+    {
+      "text": "'How readers understand causal and correlational expressions used in news headlines': Correction to Adams et al. (2016). Journal of Experimental Psychology: Applied, 23(1), 28. Records that the fourth author was omitted from the advance online version.",
+      "doi": "10.1037/xap0000115",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27936831/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
