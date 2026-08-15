@@ -5954,7 +5954,7 @@
    "design_note": "Two-stage design. Stage 1 had 90% power to detect 75% of the original effect size; if the result was not significant in the original direction, stage 2 collected more data for 90% power to detect 50% of the original effect size, and the stage 2 figures are for the pooled sample.",
    "replication_sites": null,
    "replication_sites_note": "The project ran one replication team per original study; the paper does not report a site count for each replication.",
-   "entry": null,
+   "entry": "overhead-aversion",
    "source": "Camerer et al. (2018), Social Sciences Replication Project, Nature Human Behaviour 2, 637-644, doi 10.1038/s41562-018-0399-z, Supplementary Tables 1, 3 and 4"
   },
   {

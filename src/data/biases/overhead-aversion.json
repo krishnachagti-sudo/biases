@@ -1,0 +1,86 @@
+{
+  "no": 438,
+  "slug": "overhead-aversion",
+  "name": "Overhead aversion",
+  "aliases": ["Aversion to overhead", "Overhead-free giving", "Administrative cost aversion"],
+  "category": "social",
+  "statement": "Donors give less when their own gift pays a charity's overhead, and a mailed appeal saying a lead donor had already covered it outraised the same appeal offering seed money or a match.",
+  "meaning": "Two claims travel under one name. The first is about preference. As the share of a donation spent on administrative and fundraising costs rises, willingness to give falls, and the fall goes away when a third party pays that cost. The second is a fundraising tactic built on the first. A charity holding one large early gift can announce it as seed money, use it to match later gifts at $1:$1, or spend it on overhead so that every later gift arrives overhead-free. To the charity the three uses are the same money and the same balance sheet. Gneezy, Keenan and Gneezy report that donors treat them differently, and that the third raises the most. The tactic is the part fundraisers quote and the part that has never been tested by anyone else.",
+  "origin": {
+    "year": 2014,
+    "who": "Uri Gneezy, Elizabeth A. Keenan and Ayelet Gneezy",
+    "where": "Science",
+    "note": "One paper carrying a laboratory experiment with 449 undergraduates and a field experiment of 40,000 mailed solicitations. Funding came from the John Templeton Foundation through the Science of Philanthropy Initiative. The partner foundation is unnamed: the authors record a nondisclosure agreement limiting what they could report about the field procedure."
+  },
+  "evidence": "The laboratory experiment recruited 449 undergraduates at a public university in southern California in spring 2014, 35.19% of them female, mean age 21.56. Each was asked which of two real charities should receive $100, with one participant's decision drawn and paid, so the choice was consequential. Kids Korps carried no overhead. The overhead on charity: water was set at nothing, 5% or 50%, and in two further treatments the same 5% and 50% were described as already paid by someone else. The share choosing charity: water was 73.33% at no overhead, 66.67% at 5% (z = 0.98, P = 0.33) and 49.43% at 50%, below both the no-overhead treatment (z = 3.27, P < 0.01) and the 5% treatment (z = 2.32, P = 0.02). At 50% overhead covered by a third party the share returned to 71.43%, indistinguishable from the no-overhead treatment (z = 0.29, P = 0.77) and above the uncovered 50% treatment (z = 3.00, P < 0.01). The field experiment mailed 40,000 letters on a single day in spring 2013 for a foundation that funds education projects, to people who had given to similar causes in the preceding five years, 10,000 per treatment. Every letter said each project costs $20,000 and asked for $20, $50 or $100. Three letters added a sentence about a private donor's $10,000: seed money already secured, a $1:$1 matching grant, or a grant covering all the overhead of raising the money. Donation rates were 3.36% for the control, 4.75% for seed, 4.41% for match and 8.55% for overhead, the last above all three others (z = 15.51, 10.78 and 11.89, all P < 0.001). Totals raised were $8,040, $13,220, $12,210 and $23,120, or $0.80, $1.32, $1.22 and $2.31 per solicitation. The overhead letter beat seed by 75% (t(19998) = 8.30) and match by 89% (t(19998) = 9.26), both P < 0.001. Wider evidence exists for the preference, most of it hypothetical. Caviola and colleagues paid 94 people on Mechanical Turk to state a donation between $100 and $500. Shown one charity alone, they gave more to a charity with a 5% overhead ratio saving two lives than to one with a 60% ratio saving five, $254.31 against $156.37 (t(54) = 2.38, p = .021), and the ranking reversed when both were shown together, $101.87 against $309.68 (t(52) = 5.24, p < .001). Their second study, on 201 people, found donations in isolation tracking the overhead ratio and ignoring lives saved: two charities with the same 5% ratio and different effectiveness drew statistically indistinguishable amounts (t(54) = 0.69, p = .496). Hung, Hager and Tian pooled 30 studies and 244 effect sizes and report a negative association between overhead spending and donations, stronger in experiments than in other designs, and stronger among amateur donors than professionals. Both figures come from those papers' own text and abstract respectively.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The Social Sciences Replication Project retested one laboratory comparison at 407 subjects against the original 178, and it held at 82% of the original size. The mailing has never been repeated.",
+    "detail": "The project replicated 21 experiments from Nature and Science, taking one hypothesis per paper. For this paper a lottery picked the comparison between the '50% overhead' and '50% overhead, covered' treatments, over the comparison between no overhead and 50%. Camerer, Imai, Manfredi and Nave ran it at the Wharton behavioural lab between September 2016 and September 2017, with 205 subjects in the uncovered treatment and 202 in the covered one. The share choosing charity: water was 55.12% against 72.77%, z = 3.7064, p = 0.00021, and a probit gave a marginal effect of 0.18 with a standard error of 0.05. The effect size was r = 0.182 against the original r = 0.223, a relative size of 0.818. Stage 1 had 92.17% power to detect three-quarters of the original effect, so the project's second data collection was never run. The original paid in course credit and the replication paid a $5 show-up fee. Before the data came in, the project's prediction market priced this study at 0.78 to replicate and its survey of researchers at 0.71, among the highest of the 21. Karlsson-Larsson, Moche and Västfjäll later ran two experiments comparing 0% and 50% overhead, with 1,017 and 814 participants, and report finding overhead aversion in both. Their abstract is all this entry could obtain: the publisher's site returned 403 and the Linköping repository copy would not download across four attempts.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., Kirchler, M., Nave, G., Nosek, B. A., Pfeiffer, T., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "n": 407
+    },
+    "original": { "es": 0.223, "esType": "r" },
+    "replicated": { "es": 0.182, "esType": "r" }
+  },
+  "limits": "The replication covers the laboratory half of the paper. The project's inclusion rules required students or other accessible subject pools, so the mailing was out of scope by design, and a laboratory success says nothing about whether an overhead-free appeal beats a match in the post. Searches of Crossref, Unpaywall, DOAJ and the open web for this entry found no independent field experiment putting an overhead-covered letter against seed money or matching. The field result therefore rests on one campaign: one education foundation, one cause, one list of past donors to similar causes, and a nondisclosure agreement that kept the procedure partly unreported. The lottery also matters. What was retested is that covering overhead removes the penalty, not that overhead imposes one, and the no-overhead against 50% contrast has no entry in the project. The laboratory outcome is which of two charities receives a fixed $100, not how much anybody gives. The authors name two questions their data cannot answer: whether overhead-free appeals raise total giving or move it between charities, and whether mentioning overhead at all changes behaviour compared with never raising the subject.",
+  "misreadings": "The three lead-gift treatments are three manipulations, not three labels for one. Seed announces money already raised, matching promises to double later gifts up to $10,000, and the overhead letter says the gift pays the cost of the campaign. Reports that quote 188% are quoting the overhead letter against the plain control letter. The paper's own headline is the comparison against seed and match, which is 75% and 89% on total donations and 80% and 94% on the donation rate. Second, what moved was the number of donors, not the size of a gift. Among people who gave, the average was $27.83 in the seed treatment, $27.69 in match and $27.04 in overhead, statistically indistinguishable from each other, all above the control's $23.93. Between the three lead-gift treatments the entire difference is in how many people responded. Third, low overhead is not a measure of doing good, and the charity sector says so itself. Gneezy and colleagues quote an open letter from the heads of three American charity evaluators: 'The percent of charity expenses that go to administrative and fundraising costs, commonly referred to as overhead, is a poor measure of a charity's performance.' Caviola's reversal points the same way, because people who could compare two charities directly followed lives saved rather than the overhead ratio. Lecy and Searing report in their abstract 25 years of nonprofit data showing reported overhead falling, with the cuts landing on non-executive wages and professional fees. Donors are working from bad estimates as well. The NonProfit Times, reporting a 2012 Grey Matter Research survey, said the average American thinks a charity should spend no more than 23% on overhead and that charities actually spend 36.9 cents in the dollar; the survey's sample and method are not in that report, and this entry could not obtain the survey itself. Hung, Berrett and Ma, in an experiment varying a stated ratio across 5%, 20%, 35% and 50%, report in their abstract that giving to human service charities drops once overhead reaches 35% while giving to health care charities holds until 50%.",
+  "sources": [
+    {
+      "text": "Gneezy, U., Keenan, E. A., & Gneezy, A. (2014). Avoiding overhead aversion in charity. Science, 346(6209), 632-635. Read from the authors' copy at the Rady School of Management.",
+      "doi": "10.1126/science.1253932",
+      "url": "https://rady.ucsd.edu/_files/faculty-research/uri-gneezy/Science-2014-Gneezy-632-5.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Per-study figures read off Supplementary Tables 3, 4 and 5 and the robustness section of the Supplementary Information.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Camerer, C., Imai, T., Manfredi, D., & Nave, G. Replication of Avoiding Overhead Aversion in Charity by Gneezy, Keenan and Gneezy (2014). Social Sciences Replication Project replication report, Open Science Framework.",
+      "url": "https://osf.io/7ch92/",
+      "type": "replication"
+    },
+    {
+      "text": "Caviola, L., Faulmüller, N., Everett, J. A. C., Savulescu, J., & Kahane, G. (2014). The evaluability bias in charitable giving: Saving administration costs or saving lives? Judgment and Decision Making, 9(4), 303-315.",
+      "doi": "10.1017/s1930297500006185",
+      "url": "https://doi.org/10.1017/s1930297500006185",
+      "type": "primary"
+    },
+    {
+      "text": "Hung, C., Hager, M. A., & Tian, Y. (2023). Do donors penalize nonprofits with higher non-program costs? A meta-analysis of donor overhead aversion. Nonprofit and Voluntary Sector Quarterly, 52(6), 1587-1608. Read as an abstract only; the full text is paywalled.",
+      "doi": "10.1177/08997640221138260",
+      "url": "https://doi.org/10.1177/08997640221138260",
+      "type": "replication"
+    },
+    {
+      "text": "Hung, C., Berrett, J. L., & Ma, J. (2025). How high is too high? An experimental analysis of donors' aversion to nonprofit overhead. Nonprofit and Voluntary Sector Quarterly, 54(2), 302-326. Read as an abstract only; the publisher's site returned 403.",
+      "doi": "10.1177/08997640241254079",
+      "url": "https://doi.org/10.1177/08997640241254079",
+      "type": "commentary"
+    },
+    {
+      "text": "Karlsson-Larsson, E., Moche, H., & Västfjäll, D. (2025). Reducing overhead aversion in charitable giving through information and introspection. Current Research in Behavioral Sciences, 8, 100171. Read as an abstract only, from the DOAJ record; the full text could not be downloaded.",
+      "doi": "10.1016/j.crbeha.2025.100171",
+      "url": "https://doaj.org/article/c0ed60d237684d3ca0411e06e63c0b2f",
+      "type": "replication"
+    },
+    {
+      "text": "Lecy, J. D., & Searing, E. A. M. Anatomy of the nonprofit starvation cycle. Nonprofit and Voluntary Sector Quarterly, 44(3), 539-563, dated 30 March 2014 at Crossref. Read as an abstract only.",
+      "doi": "10.1177/0899764014527175",
+      "url": "https://doi.org/10.1177/0899764014527175",
+      "type": "commentary"
+    },
+    {
+      "text": "Survey: Charities should spend 23% on overhead. The NonProfit Times, reporting Grey Matter Research & Consulting's survey 'Where'd My Money Go?'. Trade-press reporting of a commercial survey this entry could not obtain.",
+      "url": "https://thenonprofittimes.com/npt_articles/survey-charities-should-spend-23-on-overhead/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
