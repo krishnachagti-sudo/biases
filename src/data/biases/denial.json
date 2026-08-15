@@ -1,0 +1,150 @@
+{
+  "no": 393,
+  "slug": "denial",
+  "name": "Denial",
+  "aliases": [
+    "Illness denial",
+    "Denial of illness",
+    "Cardiac denial"
+  ],
+  "category": "social",
+  "statement": "Denial is claimed to make patients slow to accept a diagnosis, and in cardiac samples it predicts better outcomes in hospital and worse ones after discharge.",
+  "meaning": "One word covers three subjects and only one of them has instruments and outcome data. In psychoanalysis denial is a defence mechanism, an unconscious operation that keeps an unwelcome fact out of awareness. In neurology, anosognosia is the failure to recognise a deficit after a brain lesion, which is a consequence of damage rather than of motive. In medicine, illness denial is a pattern of behaviour in a patient who does not acknowledge the presence or severity of a disease or the need for treatment. That third sense is what has been measured, and it is what this page is about. Patierno, Fava and Carrozzino define it in those terms and treat it as a clinical condition with degrees of severity rather than as a mechanism. The claim tested in that literature is behavioural: a patient scoring high on a denial scale should be slower to seek help, less adherent afterwards, and in the acute phase less distressed. The first two halves of that claim disagree with each other about whether denial helps or harms, and the studies disagree about the first. Denial reached this atlas as a heading in a list of psychological concepts rather than as a judgement error with a paradigm attached, and the version that survives inspection is a clinical one.",
+  "origin": {
+    "year": 1974,
+    "who": "Thomas P. Hackett and Ned H. Cassem",
+    "where": "Journal of Psychosomatic Research",
+    "note": "Their paper is titled 'Development of a quantitative rating scale to assess denial', and a companion paper by Froese, Vasquez, Cassem and Hackett in the same volume reports validation of anxiety, depression and denial scales in a coronary care unit. Neither text was obtained here, and both are cited from their Crossref and PubMed records. The year is that of the first denial scale rather than of the concept: the psychoanalytic use of the word is older, and no source dating its introduction was obtained in the searches recorded below."
+  },
+  "evidence": "The instruments came first and the outcome studies followed. Carrozzino and Gostoli reviewed 72 studies and identified twelve instruments of illness denial, seven of them patient-reported and five clinician-rated, and rated 57 of the 72 studies, 79%, at the top two of their four quality grades. Two of those instruments carry most of the outcome record. The Hackett-Cassem Denial Scale is a rated interview; the Cardiac Denial of Impact Scale, published by Fowers in 1992, is eight self-report items with a cut-off of 25 or above. The acute-phase finding is the one that runs against expectation. Levenson, Mishra, Hamer and Hastillo scored 48 patients admitted for unstable angina on the Hackett-Cassem scale and split them into 25 high and 23 low deniers, matched on demographics, risk factors, cardiac history, treatment and catheterisation results. High deniers had half as many episodes of angina in hospital, 1.3 against 2.5, t = 2.2, df = 46, p < .03. More of them reached medical stabilisation, meaning 36 hours free of pain, 92% against 65%. Fewer needed intravenous nitroglycerin, 32% against 78%, p = .002. The two myocardial infarctions and the one death all occurred among low deniers. Levine and nine colleagues found the same split and then followed it out. They used the Levine Denial of Illness Scale on 45 men hospitalised for infarction or bypass surgery, and followed 30 of them for a year. High deniers spent fewer days in intensive care and had fewer signs of cardiac dysfunction. Over the following year the same men were less compliant with medical advice and needed more days of rehospitalisation. Scores were not associated with severity of illness or with risk factors. The delay literature asks the opposite question, whether denial keeps a patient away from hospital during the infarction itself. Bleeker and six colleagues interviewed 300 patients. O'Carroll, Smith, Grubb, Fox and Masterton assessed 72 patients three to five days after a confirmed infarction. Denial scores were higher among those who had waited more than four hours. The best predictor in their regression was a chance health locus of control rather than denial. Stenström and seven colleagues rated 107 first-time infarction patients on the Hackett-Cassem interview, again three to five days after admission, and report that both prolonged delay and lower attendance at cardiac rehabilitation went with greater denial. Perkins-Porras, Whitehead, Strike and Steptoe measured cardiac denial of impact in 177 patients with acute coronary syndromes. Denial scores were higher among those delaying more than 130 minutes, independent of age, gender, education, previous infarction, depression history and negative affectivity. Abed, Khalil and Moser took 166 patients whose experienced symptoms matched what they had expected and report that 77% denied the possibility of an infarction before they were admitted. Adherence after discharge has one measured estimate. Ganasegeran and Rashid surveyed 242 post-infarction survivors in Malaysia using the Havik and Maeland verbal denial questionnaire, internal consistency 0.62, and found 74% non-adherent to medication. A one-point rise in the denial-of-illness score raised the odds of non-adherence by 20%, OR 1.2, 95% CI 1.1 to 1.4, p = .003, before adjustment.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The largest sample found no association between denial and overall prehospital delay, while four smaller ones found one, and the acute-benefit result rests on 48 patients that nobody has repeated.",
+    "detail": "Fang, Albarqouni, von Eisenhart Rothe, Hoschar, Ronel and Ladwig put the question to 533 patients with ST-elevation infarction in the Munich MEDEA study. They scored the Cardiac Denial of Impact Scale at the bedside and split at the median, which classified 206 patients as deniers. Denial was not associated with overall delay time. In one window of the distribution, patients arriving between three and 24 hours after onset, deniers took about 40 minutes longer, 356 minutes against 316.5, p = .02, n = 196. The same paper reports deniers as less likely to have had major depression, p = .04, anxiety, p = .01, or poor well-being, p = .01, in the six months before the infarction. They were also less likely to report severe pain, p = .04, or a racing heart, p = .02, during it. That is the result the earlier studies predict for distress and not the one they predict for delay. Perkins-Porras and colleagues, Stenström and colleagues, O'Carroll and colleagues and Abed and colleagues all report the delay association in samples between 72 and 177, and none of the four prints an effect size in the material read here. The direction of the disagreement is not what publication bias would predict, since the null came from the largest study and the positives from the smaller ones. On the acute side, no attempt to repeat Levenson's unstable-angina comparison was located, and Levine's one-year reversal has not been repeated either. Hoschar, Albarqouni and Ladwig reviewed 18 educational campaigns aimed at cutting prehospital delay, covering 180,914 participants; ten of them produced no significant effect on delay, and the campaigns they judge most promising are those addressing psychological barriers including denial. That review measures interventions, not the denial claim, and it is cited here as context rather than as a test.",
+    "study": {
+      "cite": "Fang, X. Y., Albarqouni, L., von Eisenhart Rothe, A. F., Hoschar, S., Ronel, J., & Ladwig, K.-H. (2016). Is denial a maladaptive coping mechanism which prolongs pre-hospital delay in patients with ST-segment elevation myocardial infarction? Journal of Psychosomatic Research, 91, 68-74.",
+      "doi": "10.1016/j.jpsychores.2016.10.008",
+      "year": 2016,
+      "n": 533
+    }
+  },
+  "limits": "Nearly every figure above comes from an abstract. Fang, Perkins-Porras, O'Carroll, Stenström, Levine, Levenson, Abed and Fowers are all behind publisher paywalls. The numbers quoted are those printed in the PubMed abstracts, which for these journals are supplied by the publisher. Only Carrozzino and Gostoli and Ganasegeran and Rashid were read in full text, from Europe PMC. Patierno, Fava and Carrozzino's systematic review, which screened 14,098 articles and included 176, was read in abstract alone; Karger returned no open copy and Europe PMC records it as subscription only. One arithmetic point is left standing rather than resolved: Fang's abstract reports 533 patients included and 206 deniers described as 41.8%, and the denominator that yields that percentage is not stated in the abstract. No meta-analysis pooling denial against prehospital delay was found in PubMed or Europe PMC, so the disagreement above is a count of studies and not a synthesis. The measurement problem is structural. Denial is rated three to five days after admission in O'Carroll's and Stenström's designs. The score therefore records what a patient says afterwards about what he thought at the time. A man who has just been told he had a heart attack is not the man who decided whether to call an ambulance. All the delay studies are cross-sectional. Ganasegeran and Rashid's adjusted odds ratio for denial of illness is 1.2, 95% CI 0.9 to 1.8, alongside a reported p of .032. The authors write that the interval reflects a sample too small to determine associations confidently. Carrozzino and Gostoli nonetheless list that instrument among those with prognostic utility for adherence. The sample base is narrow: cardiac patients, mostly male, in Europe and North America, with one Malaysian and one Middle Eastern sample. Sources searched were PubMed, Europe PMC, Crossref and general web search, in English only.",
+  "misreadings": "The first error is to read this page as being about denialism. Organised rejection of a scientific consensus is a different subject with a different evidence base, and this atlas covers its best-studied case under climate change denial. Nothing in the cardiac literature transfers to it. The second is to treat anosognosia as severe denial. Orfei, Robinson, Prigatano, Starkstein and four colleagues reviewed anosognosia for hemiplegia after stroke. Incidence estimates range from 7 to 77%, a spread they attribute to inconsistent definitions and weak instruments, and they place the anatomy in the right hemisphere. Carrozzino and Gostoli exclude anosognosia from their review of illness-denial instruments by design, on the ground that it is the product of a neurological disorder rather than a distinct clinical phenomenon. The third is to treat denial as uniformly harmful. In Levenson's angina sample the deniers did better in hospital on every measure taken, and Levine's design is the one that shows why both readings circulate: the same patients did worse a year later. The fourth concerns the defence-mechanism sense. Vaillant, Bond and Vaillant rated defences in 307 men followed for 40 years. The maturity of a man's defensive style at 47 correlated with independently assessed mental health, and 131 of them took the Defense Style Questionnaire six to eight years later. That is a result about defensive style as a whole and not about denial as a single measurable disposition. Wilkinson and Ritchie tested the 40-item version of that questionnaire on 672 people, where each defence is measured by two items. Most of the item pairs failed the standard for unidimensionality and the three-factor structure was not tenable. They conclude that individual defences should be assessed from it with caution. The fifth is to lift Abed's 77%. That figure comes from a subsample selected for having symptoms that matched what they expected, which is the group in which denial is most surprising and least representative.",
+  "sources": [
+    {
+      "text": "Hackett, T. P., & Cassem, N. H. (1974). Development of a quantitative rating scale to assess denial. Journal of Psychosomatic Research, 18(2), 93-100. Crossref and PubMed records only; not obtained. Cited as the origin of the first denial scale.",
+      "doi": "10.1016/0022-3999(74)90072-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4436841/",
+      "type": "primary"
+    },
+    {
+      "text": "Froese, A., Vasquez, E., Cassem, N. H., & Hackett, T. P. (1974). Validation of anxiety depression and denial scales in a coronary care unit. Journal of Psychosomatic Research, 18(3), 137-141. Crossref and PubMed records only; PubMed carries no abstract. Cited for its existence, not its contents.",
+      "doi": "10.1016/0022-3999(74)90013-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4455859/",
+      "type": "primary"
+    },
+    {
+      "text": "Levine, J., Warrenburg, S., Kerns, R., Schwartz, G., Delaney, R., Fontana, A., Gradman, A., Smith, S., Allen, S., & Cascione, R. (1987). The role of denial in recovery from coronary heart disease. Psychosomatic Medicine, 49(2), 109-117. Abstract read at PubMed; full text paywalled. The source for the 45 patients, the 30 followed for a year, and the reversal between hospital and follow-up.",
+      "doi": "10.1097/00006842-198703000-00001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3575599/",
+      "type": "primary"
+    },
+    {
+      "text": "Levenson, J. L., Mishra, A., Hamer, R. M., & Hastillo, A. (1989). Denial and medical outcome in unstable angina. Psychosomatic Medicine, 51(1), 27-35. Abstract read at PubMed; full text paywalled. The source for every figure in the unstable-angina comparison.",
+      "doi": "10.1097/00006842-198901000-00003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2784580/",
+      "type": "primary"
+    },
+    {
+      "text": "Fowers, B. J. (1992). The cardiac denial of impact scale: a brief, self-report research measure. Journal of Psychosomatic Research, 36(5), 469-475. Abstract read at PubMed; full text paywalled. The eight items and the cut-off of 25 are taken from Carrozzino and Gostoli's description rather than from this paper.",
+      "doi": "10.1016/0022-3999(92)90007-o",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1619586/",
+      "type": "primary"
+    },
+    {
+      "text": "Havik, O. E., & Maeland, J. G. (1986). Dimensions of verbal denial in myocardial infarction: correlates to 3 denial scales. Scandinavian Journal of Psychology, 27, 326-339. Crossref and PubMed records only; not obtained. Crossref gives this as issue 1 and PubMed as issue 4.",
+      "doi": "10.1111/j.1467-9450.1986.tb01211.x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3563433/",
+      "type": "primary"
+    },
+    {
+      "text": "Bleeker, J. K., Lamers, L. M., Leenders, I. M., Kruyssen, D. C., Simoons, M. L., Trijsburg, R. W., & Erdman, R. A. (1995). Psychological and knowledge factors related to delay of help-seeking by patients with acute myocardial infarction. Psychotherapy and Psychosomatics, 63(3-4), 151-158. Abstract read at PubMed. Crossref dates the record 2010, which is the registration and not the publication.",
+      "doi": "10.1159/000288952",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7624459/",
+      "type": "primary"
+    },
+    {
+      "text": "O'Carroll, R. E., Smith, K. B., Grubb, N. R., Fox, K. A., & Masterton, G. (2001). Psychological factors associated with delay in attending hospital following a myocardial infarction. Journal of Psychosomatic Research, 51(4), 611-614. Abstract read at PubMed; full text paywalled. The source for the 72 patients and for the regression favouring health locus of control.",
+      "doi": "10.1016/s0022-3999(01)00265-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11595250/",
+      "type": "primary"
+    },
+    {
+      "text": "Stenstrom, U., Nilsson, A. K., Stridh, C., Nijm, J., Nyrinder, I., Jonsson, A., Karlsson, J. E., & Jonasson, L. (2005). Denial in patients with a first-time myocardial infarction: relations to pre-hospital delay and attendance to a cardiac rehabilitation programme. European Journal of Cardiovascular Prevention and Rehabilitation, 12(6), 568-571. Abstract read at PubMed; full text paywalled.",
+      "doi": "10.1097/00149831-200512000-00009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16319547/",
+      "type": "primary"
+    },
+    {
+      "text": "Perkins-Porras, L., Whitehead, D. L., Strike, P. C., & Steptoe, A. (2008). Causal beliefs, cardiac denial and pre-hospital delays following the onset of acute coronary syndromes. Journal of Behavioral Medicine, 31(6), 498-505. Abstract read at PubMed; full text paywalled. No effect size for the denial association appears in the abstract.",
+      "doi": "10.1007/s10865-008-9174-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18830812/",
+      "type": "primary"
+    },
+    {
+      "text": "Fang, X. Y., Albarqouni, L., von Eisenhart Rothe, A. F., Hoschar, S., Ronel, J., & Ladwig, K.-H. (2016). Is denial a maladaptive coping mechanism which prolongs pre-hospital delay in patients with ST-segment elevation myocardial infarction? Journal of Psychosomatic Research, 91, 68-74. Abstract read at PubMed; Elsevier full text paywalled. The largest sample in the delay literature and the source of the null on overall delay.",
+      "doi": "10.1016/j.jpsychores.2016.10.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27894465/",
+      "type": "replication"
+    },
+    {
+      "text": "Abed, M. A., Khalil, A. A., & Moser, D. K. (2024). Patient denial of myocardial infarction in the prehospital phase: prevalence and correlates. Journal of Cardiovascular Nursing, 39(5), 456-464. Abstract read at PubMed; full text paywalled. The source for the 166 patients and the 77% figure.",
+      "doi": "10.1097/JCN.0000000000001042",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37738318/",
+      "type": "primary"
+    },
+    {
+      "text": "Ganasegeran, K., & Rashid, A. (2017). The prevalence of medication nonadherence in post-myocardial infarction survivors and its perceived barriers and psychological correlates: a cross-sectional study in a cardiac health facility in Malaysia. Patient Preference and Adherence, 11, 1975-1985. Read in full at Europe PMC; the source for the 74% non-adherence rate, the two odds ratios, and the authors' own caution about their intervals.",
+      "doi": "10.2147/PPA.S151053",
+      "url": "https://europepmc.org/article/MED/29263654",
+      "type": "primary"
+    },
+    {
+      "text": "Carrozzino, D., & Gostoli, S. (2026). Psychological assessment of illness denial in medical settings: a critical review. Clinical Psychology and Psychotherapy, 33(1), e70240. Read in full at Europe PMC; the source for the 72 studies, the twelve instruments, the quality ratings, and the exclusion of anosognosia.",
+      "doi": "10.1002/cpp.70240",
+      "url": "https://europepmc.org/article/MED/41699979",
+      "type": "review"
+    },
+    {
+      "text": "Patierno, C., Fava, G. A., & Carrozzino, D. (2023). Illness denial in medical disorders: a systematic review. Psychotherapy and Psychosomatics, 92(4), 211-226. Abstract read at PubMed; Karger full text paywalled and Europe PMC records it as subscription only. The source for the definition of illness denial and for the screening counts.",
+      "doi": "10.1159/000531260",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37429268/",
+      "type": "review"
+    },
+    {
+      "text": "Hoschar, S., Albarqouni, L., & Ladwig, K.-H. (2020). A systematic review of educational interventions aiming to reduce prehospital delay in patients with acute coronary syndrome. Open Heart, 7(1), e001175. Abstract read at PubMed; cited for the 18 campaigns and the ten null results, as context for the delay literature.",
+      "doi": "10.1136/openhrt-2019-001175",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32201586/",
+      "type": "review"
+    },
+    {
+      "text": "Orfei, M. D., Robinson, R. G., Prigatano, G. P., Starkstein, S., Rusch, N., Bria, P., Caltagirone, C., & Spalletta, G. (2007). Anosognosia for hemiplegia after stroke is a multifaceted phenomenon: a systematic review of the literature. Brain, 130(12), 3075-3090. Abstract read at PubMed after Oxford returned 403; the source for the 7 to 77% incidence range.",
+      "doi": "10.1093/brain/awm106",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17533170/",
+      "type": "review"
+    },
+    {
+      "text": "Vaillant, G. E., Bond, M., & Vaillant, C. O. (1986). An empirically validated hierarchy of defense mechanisms. Archives of General Psychiatry, 43(8), 786-794. Abstract read at PubMed; full text paywalled. Cited for the 307 men, the 40-year follow-up and the questionnaire given to 131 of them.",
+      "doi": "10.1001/archpsyc.1986.01800080072010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3729674/",
+      "type": "primary"
+    },
+    {
+      "text": "Wilkinson, W. W., & Ritchie, T. D. (2015). The dimensionality of defense-mechanism parcels in the Defense Style Questionnaire-40. Psychological Assessment, 27(1), 326-331. Abstract read at PubMed; full text paywalled. The source for N = 672 and for the failure of unidimensionality.",
+      "doi": "10.1037/pas0000051",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25602693/",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
