@@ -1,0 +1,94 @@
+{
+  "no": 392,
+  "slug": "anthropocentrism",
+  "name": "Anthropocentrism",
+  "aliases": [
+    "Anthropocentric thinking",
+    "Human-centred reasoning",
+    "Human exceptionalism",
+    "Anthropocentric bias"
+  ],
+  "category": "belief",
+  "statement": "In its measured sense, anthropocentrism is the finding that young children project biological properties outward from humans, and it shows up in urban samples more than rural ones.",
+  "meaning": "Two things travel under this name. One is a position in ethics, that human interests are the measure of value in the natural world, and no experiment settles it. The other is a pattern in how people reason about living things, and that one is measured by a task. Susan Carey introduced the task in 1985. A child is taught that some entity has a novel property, for example that people have an omentum, and is then asked which other things have it too. Herrmann, Waxman and Medin identify two signatures of anthropocentric reasoning in Carey's results. Young children are more willing to draw an inference from a human to a non-human animal than the other way round. They are also more willing to extend the property at all when it was introduced on a human rather than on a dog. Carey read that as evidence that young children build biology out of naive psychology, and that reaching a biological framework takes a conceptual change. Adult versions of the measure ask about human exceptionalism instead: which organisms share a common ancestor with humans, and which two of three pictured species are the most biologically alike. This entry is about those markers and about which populations produce them. It carries nothing about whether human-centred ethics can be defended, and the two questions are settled by different kinds of work."
+,
+  "origin": {
+    "year": 1985,
+    "who": "Susan Carey",
+    "where": "MIT Press",
+    "note": "Conceptual Change in Childhood, 226 pages, is what everyone cites for the induction result. The book was not obtained for this entry. Its bibliographic record was checked at Open Library, and its design and results are described here from the papers that reran it. Ross, Medin, Coley and Atran report that Carey used human, dog and bee as inductive bases, with participants aged 4, 6 and 10 and adults, and they describe her proposal as an anthropocentric folkbiology."
+  },
+  "evidence": "Herrmann, Waxman and Medin gave a modified induction task to 64 three-year-olds and 64 five-year-olds recruited around Chicago. In Experiment 1 the five-year-olds projected from human to dog at 0.87 (SD 0.35) and from dog to human at 0.27 (SD 0.46), P < 0.001. The three-year-olds leaned the other way and did not differ, 0.67 from dog to human against 0.53 from human to dog, P = 0.47. The age by condition interaction was F(1, 60) = 9.625, P = 0.003. Experiment 2 added bear, squirrel, eagle, turtle, plant and pencil as targets and split the same way: five-year-olds 0.81 against 0.12, three-year-olds 0.50 against 0.62, interaction F(1, 60) = 13.272, P = 0.001. Medin, Waxman, Woodring and Washinawatok ran a version closer to Carey's own with 381 children in Chicago, in Shawano County, Wisconsin, and on the Menominee reservation, in three age bands. Urban four- and five-year-olds showed both markers. Rural European American children of that age used the dog as the stronger base for generalising to other animals, community by base F(1, 86) = 4.67, MSE = .146, p < 0.05. Menominee four- and five-year-olds generalised from human to bear at 0.86, against 0.67 urban and 0.52 rural European American, and showed no human-dog asymmetry. The authors note that the bear is a Menominee clan animal and figures in the origin story. Ross, Medin, Coley and Atran had earlier tested 242 children in Boston, Shawano and Keshena with different materials. Their youngest urban children generalised broadly and indiscriminately, with no reliable trend by biological affinity, and the asymmetries turned up in the middle and older urban groups. Waxman, Herrmann, Woodring and Medin then primed the perspective. Sixty-two urban five-year-olds read three minutes of either The Berenstain Bears' Bedtime Battle or First Animal Encyclopedia before the induction task. Those reading the Berenstain Bears projected 0.87 from human to dog and 0.25 from dog to human, p < 0.05. Those reading the encyclopedia showed no reliable asymmetry, 0.87 against 0.56. The marker survives into adulthood in American samples. Coley, Arenson, Xu and Tanner tested 211 eighth graders, non-majors and first-year biology majors, and anthropocentric responding was the modal pattern on the biological similarity task for the first two groups, with 38% of biology majors still showing it. Arenson and Coley ran four experiments with 471 participants and found anthropocentric attribution for unfamiliar properties and no increase under time pressure, which they read as a strategy used under uncertainty rather than a default. Nielson and colleagues coded open-ended explanations from 807 undergraduates at two American universities, and report that students who used construal-consistent language agreed more strongly with misconception statements, a relationship driven by the anthropocentric kind. On moral standing, Miralles, Raymond and Lecointre ran a French online survey in which raters chose between paired photographs of 52 species. Empathy scores fell with divergence time from humans, linear term F(1, 49) = 258 and quadratic term F(1, 49) = 99.8, both with P below 10 to the minus 13, and stopped falling past an estimated 611.1 million years, 95% CI 518 to 703. Compassion scores tracked them, Pearson correlation 0.868.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Carey's two markers reappeared in urban American four- and five-year-olds in both direct retests, and were absent in the rural, Menominee and urban three-year-old samples.",
+    "detail": "Medin and colleagues set out to test whether earlier cross-cultural failures were an artefact of changed procedure. They followed Carey's method closely, and with 381 children they reproduced human-centred reasoning in urban four- and five-year-olds on both markers, and again in the urban nine- and ten-year-olds. The rural comparisons ran the other way. In both rural communities at the two older ages the dog was the stronger inductive base: six- and seven-year-olds F(1, 87) = 5.21, p < 0.05, nine- and ten-year-olds F(1, 65) = 6.76, p < 0.05. Herrmann and colleagues reproduced the urban five-year-old pattern twice within one paper and found nothing like it in urban three-year-olds. The picture-book experiment moved urban five-year-olds in and out of the pattern inside a single session. Three results complicate a clean cultural story. Ross and colleagues' own youngest urban children did not show the pattern, which is why Medin and colleagues treat that study as procedurally confounded rather than as a failure. In Medin's data the asymmetry favouring humans was reliable across the pooled urban and rural four- and five-year-olds, F(1, 86) = 8.86, MSE = .213, p < 0.01, and their results section reports rural European American children at four to five and at six to seven favouring humans on that measure. Busch, Watson-Jones and Legare gave a sorting task to 106 children in the United States and on Tanna in Vanuatu. The odds of grouping a human with an animal rose with age among the American children and fell among the Ni-Vanuatu children, odds ratio 2.24, 95% CI 1.11 to 4.49, p = 0.024. The direction of departure from the urban American pattern is not the same in every community.",
+    "study": {
+      "cite": "Medin, D., Waxman, S., Woodring, J., & Washinawatok, K. (2010). Human-centeredness is not a universal feature of young children's reasoning: Culture and experience matter when reasoning about biological entities. Cognitive Development, 25(3), 197-207.",
+      "doi": "10.1016/j.cogdev.2010.02.001",
+      "year": 2010,
+      "n": 381
+    }
+  },
+  "limits": "Cells are small. Medin and colleagues' table gives between 13 and 28 children per community, age band and base, so each comparison above rests on roughly twenty children a side. Herrmann and colleagues had 16 per age and condition, and excluded 20 children, 17 of them three-year-olds, for failing training, for failing to extend the property to a target matching the base, or for not finishing. The claim that three-year-olds respond systematically therefore describes the survivors of a filter that removed a quarter of that age group. Their Experiment 1 condition effect for five-year-olds is printed as F(1, 28) = 42.41, P = 0.04, where the matching Experiment 2 analysis gives F(1, 30) = 6.13, P = 0.02. Nothing above rests on the first of those. In the picture-book study the interaction between book and base was F(1, 58) = 2.11, p = 0.152, which the authors describe as falling short of reliability. The conclusion rests on planned contrasts inside each book, with about fifteen children a cell. Medin and colleagues' discussion states that neither rural sample demonstrated Carey's two markers. Their results section reports rural European American children favouring humans in the asymmetry analysis at two ages, and Menominee four- and five-year-olds favouring the human base for generalisation. The two passages are quoted separately above for that reason. Carey's 1985 book was not obtained, so every description of her procedure and results here is at one remove. The adult work is American and the moral-standing survey is a self-selected online sample recruited in France, so the cross-population question that the developmental literature opened is untested for both. Searches of Crossref and the open web in August 2026 for a meta-analysis or a multi-site preregistered replication of the induction task returned neither.",
+  "misreadings": "The ethical position and the measured pattern share a name and little else. Arguments about whether human interests should govern conservation are not evidence about how anyone reasons, and none of the studies here bear on them. The second error is the one this literature corrected. Anthropocentrism was described for two decades as the first step in reasoning about the biological world, and the samples behind that description were urban children in industrialised countries, which is the sampling problem entry 279 covers. The third error is the mirror image of the second. Reading the cross-cultural work as showing that children outside cities treat humans as one animal among many goes past the data. Menominee four- and five-year-olds generalised from human to bear at 0.86, higher than either comparison group, and Ni-Vanuatu children grew less likely with age to group a human with an animal. Anthropocentrism is also confused with anthropomorphism, entry 40, which runs the other way and gives human minds to non-humans. The picture-book result links the two, since the anthropomorphic book produced the anthropocentric induction pattern. Ranking plants below animals is a separate finding and belongs to plant blindness, entry 338. Miralles and colleagues measured which of two photographed species a rater said they would feel for or spare, which is a stated preference and not a behaviour.",
+  "sources": [
+    {
+      "text": "Carey, S. (1985). Conceptual change in childhood. Cambridge, MA: MIT Press. Bibliographic record verified at Open Library; the book itself was not read for this entry.",
+      "url": "https://openlibrary.org/books/OL3027279M.json",
+      "type": "primary"
+    },
+    {
+      "text": "Herrmann, P., Waxman, S. R., & Medin, D. L. (2010). Anthropocentrism is not the first step in children's reasoning about the natural world. Proceedings of the National Academy of Sciences, 107(22), 9979-9984. Figures read from the PubMed Central text and confirmed against the authors' PDF.",
+      "doi": "10.1073/pnas.1004440107",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2890461/",
+      "type": "primary"
+    },
+    {
+      "text": "Medin, D., Waxman, S., Woodring, J., & Washinawatok, K. (2010). Human-centeredness is not a universal feature of young children's reasoning: Culture and experience matter when reasoning about biological entities. Cognitive Development, 25(3), 197-207. Read in the authors' accepted manuscript, which carries the title 'Human-centered Reasoning is Not a Universal Feature of Young Children's Reasoning'.",
+      "doi": "10.1016/j.cogdev.2010.02.001",
+      "url": "https://groups.psych.northwestern.edu/medin/documents/MedinWaxmanetal2010CogDev.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Ross, N., Medin, D., Coley, J. D., & Atran, S. (2003). Cultural and experiential differences in the development of folkbiological induction. Cognitive Development, 18(1), 25-47. Read in the authors' manuscript copy.",
+      "doi": "10.1016/s0885-2014(02)00142-9",
+      "url": "https://groups.psych.northwestern.edu/medin/publications/Ross,%20Medin,%20et.al.%20cultural%20&%20experiential.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Waxman, S. R., Herrmann, P., Woodring, J., & Medin, D. L. (2014). Humans (really) are animals: picture-book reading influences 5-year-old urban children's construal of the relation between humans and non-human animals. Frontiers in Psychology, 5, 172.",
+      "doi": "10.3389/fpsyg.2014.00172",
+      "type": "primary"
+    },
+    {
+      "text": "Busch, J. T. A., Watson-Jones, R. E., & Legare, C. H. (2018). Cross-cultural variation in the development of folk ecological reasoning. Evolution and Human Behavior, 39(3), 310-319. Full text read at PubMed Central, PMC10817755.",
+      "doi": "10.1016/j.evolhumbehav.2018.02.004",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10817755/",
+      "type": "primary"
+    },
+    {
+      "text": "Coley, J. D., Arenson, M., Xu, Y., & Tanner, K. D. (2017). Intuitive biological thought: Developmental changes and effects of biology education in late adolescence. Cognitive Psychology, 92, 1-21.",
+      "doi": "10.1016/j.cogpsych.2016.11.001",
+      "type": "primary"
+    },
+    {
+      "text": "Arenson, M., & Coley, J. D. (2018). Anthropocentric by default? Attribution of familiar and novel properties to living things. Cognitive Science, 42(1), 253-285. The article was behind a publisher redirect; the figures used here come from its PubMed abstract.",
+      "doi": "10.1111/cogs.12501",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28481420/",
+      "type": "primary"
+    },
+    {
+      "text": "Nielson, C., Pitt, E., Fux, M., Nesnera, K., Betz, N., Leffers, J. S., Tanner, K. D., & Coley, J. D. (2025). Spontaneous anthropocentric language use in university students' explanations of biological concepts varies by topic and predicts misconception agreement. CBE-Life Sciences Education, 24(1), ar11. Used here through its PubMed abstract; the publisher page was not reachable.",
+      "doi": "10.1187/cbe.24-07-0198",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39808720/",
+      "type": "primary"
+    },
+    {
+      "text": "Miralles, A., Raymond, M., & Lecointre, G. (2019). Empathy and compassion toward other species decrease with evolutionary divergence time. Scientific Reports, 9, 19555.",
+      "doi": "10.1038/s41598-019-56006-9",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
