@@ -1,0 +1,103 @@
+{
+  "no": 399,
+  "slug": "straight-and-crooked-thinking",
+  "name": "Straight and Crooked Thinking",
+  "aliases": [
+    "How to Think Straight",
+    "Thouless's dishonest tricks"
+  ],
+  "category": "belief",
+  "statement": "A book rather than a bias: Robert Thouless's 1930 manual lists thirty-four dishonest tricks of argument, and his 1953 revision lists thirty-eight.",
+  "meaning": "This page is about a source document. Robert Thouless published Straight and Crooked Thinking in 1930 as a practical manual for spotting bad argument, and the corpus carries it because it is one of the earliest popular catalogues of the devices the informal fallacies name. The first edition runs to twelve chapters and two appendices. Appendix I is the part that gets quoted: a numbered list of thirty-four dishonest tricks, each carrying the pages of the chapter that discusses it and a suggested reply. Appendix II is an invented after-dinner conversation between three men, in which the tricks are used and then identified by number, and the reader is told to cover the notes and mark up the passage first. Thouless is explicit about what the list is not. Textbooks of logic classify fallacies by the logical principle they violate; his aim is practical, so one of his tricks may cover several textbook fallacies, some he leaves out, and some textbook entries are missing. His image for the difference is fly-paper against the zoological classification of Musca domestica. Neither edition read here uses a Latin name. The straw man appears as 'extension of an opponent's proposition by contradiction or by misrepresentation of it', and the appeal to authority as 'the appeal to mere authority'.",
+  "origin": {
+    "year": 1930,
+    "who": "Robert H. Thouless",
+    "where": "the book Straight and Crooked Thinking (Hodder & Stoughton, London)",
+    "note": "The Hodder printing read here carries no date on its title page. The copyright page of the Pan revised and enlarged edition records 'First published 1930 by Hodder & Stoughton Ltd.' and dates its own text to 1953. The book appeared in the United States as How to Think Straight, published by Simon and Schuster in 1932, and the Society for Psychical Research's Psi Encyclopedia gives 1932 as the book's date, citing Beloff's obituary of Thouless. Later printings came from English Universities Press and from Pan."
+  },
+  "evidence": "The book reports no data of its own. Its nearest thing to a measurement is a count: Thouless writes that he once analysed part of a sermon and found the preacher had repeated a single idea thirty-one times, in different words, across thirteen sentences. He also mentions an experiment on a group of people to find how self-consistent their opinions were, gives no numbers, and reports that many of them held both that every statement in the Bible is literally true and that Jonah was not swallowed by a whale. Everything else is argument and illustration. The quoted trick count depends on the edition. In the Hodder first edition, Appendix I is titled 'Thirty-four dishonest tricks which are commonly used in argument, with the methods of overcoming them' and runs from page 247 to page 258, with the annotated conversation starting at 259. In the 1953 Pan revised and enlarged edition the same appendix is titled 'Thirty-eight dishonest tricks' and the book has grown to fourteen chapters. Comparing the two lists item by item, every trick in the 1930 list survives except 'ambiguity, vagueness, or meaninglessness in the terms used in argument', and five are added: refusing to fight an admitted evil because a worse one exists, praising the logical form of an argument whose premisses are doubtful, treating a verbal question as a factual one, offering a tautology as a factual judgment, and shifting the meaning of a term mid-argument. What Thouless called tabloid thinking in 1930 he calls predigested thinking in 1953. One device on the list has since been measured under another name. Thouless writes that nobody could have told from first principles that mere repetition of the words expressing a statement would make hearers tend to believe it, and treats this as an established fact of human suggestibility. Ye and five colleagues, in a 2026 meta-analysis of 182 studies and 366 effect sizes covering 31,184 participants and publications from 1977 to 2025, put the illusory truth effect at g = 0.37, 95% CI 0.30 to 0.44, after correcting for small-study effects. That figure belongs to the later literature. Nothing in the book measures it. Whether Thouless's list shaped later fallacy taxonomies has not, on the record found here, been traced by anybody. Two sources place him in the prehistory of the field rather than in its lineage: Hansen's 1990 informal logic bibliography lists a Pan printing, and Gunawardane, writing on Susan Stebbing in 2025, quotes Johnson and Blair naming Dewey, Thouless and Stebbing as writers who published before the Second World War in the spirit of what later became informal logic. The one item-level trace is Walton's 1996 paper on the argument of the beard. Walton searched the logic textbooks in the University of Winnipeg library and in his own collection, found the beard named as a distinct fallacy in nine of them, and gives Thouless 1930 as the earliest such mention he could find. He calls that account the clearest and most compelling of the nine, and quotes the beard passage and the capitalist example from it at length.",
+  "replication": {
+    "state": "none-located",
+    "headline": "A book has no replication record, and no study was found that tested Thouless's list, his remedies, or his claims about what the tricks do to a listener.",
+    "detail": "The searches ran on 15 August 2026 and covered Crossref, Europe PMC, the Internet Archive and general web search. Europe PMC returns fourteen records for the phrase 'straight and crooked thinking'. Their titles are clinical and editorial, the earliest being Asher's 1954 article in the British Medical Journal, and none of them names a study of the list. Crossref bibliographic queries return no experiment on it either. The devices that have been tested were tested by other researchers under other names, decades later, and those results are recorded on the entries for the effects rather than here. Thouless did later test one of his own chapters. The British Journal of Psychology published his 'Effect of prejudice on reasoning' in 1959, and Acta Psychologica carried a congress abstract with a similar title in 1961. Neither could be opened, so nothing from either is described on this page."
+  },
+  "limits": "The book was read in two scans held by the Internet Archive: an undated Hodder and Stoughton printing of the first edition, and the 1953 Pan revised and enlarged edition. The Internet Archive's copies of the 1932 Simon and Schuster edition, an English Universities Press printing and the 1974 Pan printing are restricted to lending and could not be opened, so no claim here covers them. The fourth and fifth editions, prepared by C. R. Thouless, were not obtained at all, and the trick count often quoted for them is not verified here. A modern reset of the 1930 text published by the Lutheran Library matches the scan's chapter titles and all thirty-four items in order, and is listed as a readable copy rather than as evidence. No source consulted here settles the book's copyright status, and this page asserts none. What can be said is that the two scans used are openly readable at the Internet Archive while three other printings there are restricted to lending. Thouless's own 1959 experiment on prejudice and reasoning is behind a publisher block that returned an error to every fetch, and the 1961 Acta Psychologica abstract was not obtained, so both are cited as records rather than as findings. The Oxford Dictionary of National Biography entry on him is paywalled, and Beloff's 1985 obituary was not obtained; the biographical details here come from the Who Was Who record and from the Psi Encyclopedia article, which cites Beloff. Asher's 1954 BMJ article exists only as a scan without machine-readable text, so whether it credits Thouless is unknown. The statements that the standard reference works omit him are claims about the versions of three pages fetched on 15 August 2026, each checked twice: the Stanford Encyclopedia of Philosophy entries on fallacies and on informal logic, and the Internet Encyclopedia of Philosophy entry on fallacies. None contains his name. No citation-index search was run, because the book carries no DOI and the one citation service tried refused the request.",
+  "misreadings": "The commonest error is treating the tricks as findings. They are one psychologist's judgements about how argument goes wrong, published without data, and the book claims no more than that. Thouless's remedies are in the same position: each trick carries a suggested reply, and none of those replies has been tested for whether it works. The second error is quoting a number without its edition. Thirty-four is the first edition's count and thirty-eight the 1953 revision's, and the two lists differ in content as well as in length. The third is calling it a taxonomy of fallacies. Thouless says in the appendix itself that a logician would merge some of his items, drop others and add ones he has left out, and that practical convenience is his only criterion. Two published descriptions of the book are wrong in small ways that matter to anyone chasing the source. Walton's reference list gives the 1930 edition's publisher as English Universities Press, while the copy read here is Hodder and Stoughton; his page numbers match that copy exactly. The Psi Encyclopedia dates the book to 1932, which is the year of the American edition under its American title. The last misreading is about the author's purpose. Thouless was a psychical researcher, president of the Society for Psychical Research from 1942 to 1944, and in the 1953 edition he uses his own chapter on prestige and authority to complain that psychologists condemned J. B. Rhine's experimental results by authority rather than by repeating them. The catalogue was not written as a debunker's instrument, and its author aimed it at dismissal as readily as at credulity.",
+  "sources": [
+    {
+      "text": "Thouless, R. H. (1930). Straight and Crooked Thinking. London: Hodder and Stoughton. Read in full in the Internet Archive scan of an undated Hodder printing. Twelve chapters; Appendix I, 'Thirty-four dishonest tricks which are commonly used in argument, with the methods of overcoming them', pages 247 to 258; Appendix II from page 259. Source for the thirty-four items, the beard passage on pages 182 to 184, the sermon count and the self-consistency anecdote.",
+      "url": "https://archive.org/details/straightcrookedt0000thou",
+      "type": "primary"
+    },
+    {
+      "text": "Thouless, R. H. (1953). Straight and Crooked Thinking, revised and enlarged edition. London: Pan Books. Read in full in the Internet Archive scan. Copyright page records first publication in 1930 by Hodder & Stoughton. Fourteen chapters; Appendix I, 'Thirty-eight dishonest tricks'. Source for the thirty-eight items, the preface to the Pan edition and the passage on Rhine.",
+      "url": "https://archive.org/details/straightcrookedt0000robe",
+      "type": "primary"
+    },
+    {
+      "text": "Thouless, R. H. (1930). Straight and Crooked Thinking. Lutheran Library Publishing Ministry reset of the 1930 text, dated 1930/2019 and issued under CC BY 4.0. A modern re-typesetting, not a facsimile. Read in full and used only to check that its contents list and its thirty-four items match the scanned first edition, which they do.",
+      "url": "https://www.lutheranlibrary.org/000-thouless-straight-and-crooked-thinking/",
+      "type": "secondary"
+    },
+    {
+      "text": "Walton, D. (1996). The Argument of the Beard. Informal Logic, 18(2 and 3), 235-259. Read in full as the journal's open-access PDF. Source for the survey of nine textbooks naming the beard, for Thouless 1930 as the earliest such mention Walton could find, and for the quotations he takes from it.",
+      "doi": "10.22329/il.v18i2.2382",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2382",
+      "type": "commentary"
+    },
+    {
+      "text": "Gunawardane, M. (2025). Introducing Susan Stebbing as a Forerunner of Informal Logic. Informal Logic, 45(4), 504-543. Read in full. Its single mention of Thouless is inside a quotation from Johnson and Blair (1997/2016, page 163) naming Dewey, Thouless and Stebbing as pre-war writers in the spirit of informal logic. The Johnson and Blair volume was not obtained.",
+      "doi": "10.22329/il.v45i4.8373",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/8373",
+      "type": "secondary"
+    },
+    {
+      "text": "Hansen, H. V. (1990). An Informal Logic Bibliography. Informal Logic, 12(3). Read in full; its only Thouless entry is the Pan printing of Straight and Crooked Thinking.",
+      "doi": "10.22329/il.v12i3.2611",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2611",
+      "type": "index"
+    },
+    {
+      "text": "Ye, S., Attali, D., Ghazi, M., Cachia, A., Cassotti, M., & Borst, G. (2026). Systematic review and meta-analysis of the evidence for an illusory truth effect and its determinants. Nature Communications, 17(1). Abstract read at the publisher and in the Crossref deposit, giving 182 studies, 366 effect sizes, 31,184 participants and g = 0.37, 95% CI 0.30 to 0.44.",
+      "doi": "10.1038/s41467-026-70041-x",
+      "url": "https://www.nature.com/articles/s41467-026-70041-x",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Thouless, R. H. (1931). Phenomenal regression to the real object. I. British Journal of Psychology. General Section, 21(4), 339-359. Bibliographic record verified at Crossref; the paper itself was not read, and no finding from it appears on this page.",
+      "doi": "10.1111/j.2044-8295.1931.tb00597.x",
+      "type": "background"
+    },
+    {
+      "text": "Thouless, R. H. (1942). Experiments on paranormal guessing. British Journal of Psychology. General Section, 33(1), 15-27. Bibliographic record verified at Crossref. The Psi Encyclopedia names this paper and a 1942 address as where Thouless introduced the term 'psi', crediting Bertold Wiesner with proposing it.",
+      "doi": "10.1111/j.2044-8295.1942.tb01036.x",
+      "type": "background"
+    },
+    {
+      "text": "Thouless, R. H. (1959). Effect of prejudice on reasoning. British Journal of Psychology, 50(4), 289-293. Bibliographic record verified at Crossref. The publisher refused every request for the text, so its design and results are not described here.",
+      "doi": "10.1111/j.2044-8295.1959.tb00708.x",
+      "type": "provenance"
+    },
+    {
+      "text": "Thouless, H. (1961). Experiments on the influence of prejudice on reasoning. Acta Psychologica, 19, 624-625. A congress abstract, verified at Crossref and not obtained.",
+      "doi": "10.1016/s0001-6918(61)80277-1",
+      "type": "provenance"
+    },
+    {
+      "text": "Who Was Who. Thouless, Robert Henry, (15 July 1894-25 Sept. 1984), Reader Emeritus in the University of Cambridge, since 1961; Fellow of Corpus Christi College, Cambridge, since 1945. Oxford University Press. Record read at Crossref; the entry body is paywalled.",
+      "doi": "10.1093/ww/9780199540884.013.u169805",
+      "type": "reference"
+    },
+    {
+      "text": "Psi Encyclopedia (Society for Psychical Research). Robert Thouless. Read in full. Source for his SPR presidency from 1942 to 1944, for the account of the psi terminology, and for the 1932 dating of the book, which it takes from Beloff's 1985 obituary. Beloff was not obtained.",
+      "url": "https://psi-encyclopedia.spr.ac.uk/articles/robert-thouless/",
+      "type": "secondary"
+    },
+    {
+      "text": "Asher, R. (1954). Straight and crooked thinking in medicine. British Medical Journal, 2(4885), 460-462. Located through Europe PMC, which holds it as a scan without machine-readable text. Not read, and named here only as the earliest of the fourteen records that borrow the title.",
+      "doi": "10.1136/bmj.2.4885.460",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
