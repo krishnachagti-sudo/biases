@@ -1,0 +1,79 @@
+{
+  "no": 340,
+  "slug": "social-amnesia",
+  "name": "Social amnesia",
+  "aliases": [
+    "Collective amnesia",
+    "Social forgetting"
+  ],
+  "category": "memory",
+  "statement": "Jacoby's charge is that a society represses its own past, and that psychology dropped Freud rather than answered him, so every later school arrives as discovery.",
+  "meaning": "The claim is about a society and a discipline, not about a person in a laboratory. Jacoby's definition, on page 5 of the book, is that \"Social amnesia is society's repression of remembrance\", of society's own past, and that it is \"a psychic commodity of the commodity society\". He rules out two ordinary readings on the page before. It is \"not to be explained solely psychologically\", and \"it is not simply childhood amnesia\". His mechanism is reification, which he glosses as an illusion manufactured by society that presents human and social relationships as natural and unchangeable relations between things. Forgetting the activity that made those arrangements is what leaves them looking permanent, so he calls the loss of memory \"the primal form of reification\". Applied to psychology, the argument is that the neo-Freudians and the post-Freudians did not refute Freud. They dated him. Once a thinker is placed in nineteenth-century Vienna his claims need no answer, and a successor school can present adjustment and self-actualisation as liberation. Jacoby's name for the result is conformist psychology, and his one-line version of the cost is that \"the inability or refusal to think back takes its toll in the inability to think\".",
+  "origin": {
+    "year": 1975,
+    "who": "Russell Jacoby",
+    "where": "Social Amnesia: A Critique of Conformist Psychology from Adler to Laing, Beacon Press",
+    "note": "The Open Library record for ISBN 0807029645 gives Beacon Press, Boston, 1975, and a collation of xxiii plus 191 pages. Later printings changed the subtitle: Crossref's record for the Routledge issue of 2018 carries the title Social Amnesia with the subtitle A Critique of Contemporary Psychology. The copy read for this entry is the Transaction reprint, whose added introduction Jacoby signed at Los Angeles in March 1996, and whose page numbers are cited throughout. Crossref's chapter record for the 2018 issue gives chapter I, \"Social Amnesia and the New Ideologues\", as pages 1 to 18, which matches the pagination read here. The introduction to the main text is by Christopher Lasch."
+  },
+  "evidence": "Jacoby argues from quotation. Nothing in the text read for this entry is a measurement, and it carries no sample, no count and no table. Chapter I assembles the sentences that place Freud in the past instead of answering him. Karen Horney, on page 2: \"Not even a genius can entirely step out of his time.\" Clara Thompson on the same page: \"Although a genius, Freud was in many respects limited by the thinking of his time, as even a genius must be.\" Patrick Mullahy and Betty Friedan supply two more in the same paragraph. Jacoby's reply is to date the insight. He quotes Freud in 1914 already batting away the claim that psychoanalysis was a projection of peculiar Viennese conditions, and calls that criticism \"as recent as 1914, when it was already old\". Chapter III turns on the post-Freudians. Abraham Maslow prefers \"a direct study of good, rather than bad human beings, of healthy rather than sick people\", which Jacoby reads on page 56 as a discipline losing sight of the damaged. He tracks the case material from Freud's patients, the sexually unfree with deep anxiety and phobias, to Olympic gold-medal winners, a polar explorer and a Harvard president. Viktor Frankl's \"height psychologist\", quoted on convictions strong enough to lift people clear out of themselves, turns out on page 57 to be the astronaut Lieutenant Colonel John H. Glenn Jr. Seven chapters run from Adler's break with Freud through Marxism and subjectivity to R. D. Laing and David Cooper. The finding at each stop is the same shape: the successor school kept the therapeutic promise and let the theory go. Jacoby states the general law in the first line of chapter I, borrowed from Adorno, that the history of philosophy is the history of forgetting.",
+  "replication": {
+    "state": "none-located",
+    "headline": "There is no experiment to repeat. Jacoby wrote a polemic about a discipline's memory, and no study measuring social amnesia in his sense was located.",
+    "detail": "Searches of Crossref, Europe PMC, the Internet Archive, Open Library and general web search returned no study that measures social amnesia as Jacoby defines it. Crossref's bibliographic index returns the book's own chapter records from the 2018 Routledge issue, Jacoby's 1997 article \"Revisiting Social Amnesia\", a 1986 review in Theatre Journal of the play the book inspired, and otherwise reference-work entries on clinical amnesia. Europe PMC holds 76 records containing the phrase. Almost all of them are about mice. In that literature social amnesia means a rodent failing to recognise a conspecific it has already met, and the phrase entered it through Ferguson, Young, Hearn, Matzuk, Insel and Winslow in Nature Genetics in 2000. The handful of human records use the phrase as Jacoby did, without measuring anything. The clearest is Carl Cohen's 2000 article in Psychiatric Services, \"Overcoming Social Amnesia\", which makes the same complaint one discipline over: that psychiatry's reliance on biological models has led the social realm to be dismissed or trivialised. Its abstract describes four areas of unvalidated assumption and seven correctives, and no measurement of forgetting. Two indexes could not be searched. OpenAlex refused every query with a quota error and the Semantic Scholar graph API returned 429 on repeated attempts."
+  },
+  "limits": "The claim carries no rate, no magnitude and no population, and nothing in it fixes what would count as a society remembering enough. Jacoby says so himself on page 4: the production of social amnesia \"can barely be suggested here\", and a full account would have to run through the Marxist concept of reification. The evidence is the reading of a critic who has picked the passages, and the neo-Freudians and post-Freudians are quoted in fragments rather than assessed. Several documents were not obtained. The book's endnotes and index are not in the text layer of the scan read here, which ends at page 151, so the sources behind the quotations were not checked against Jacoby's own citations. Quotations were read off that text layer and then checked against the page images for pages 2, 4, 5 and 56, which is where every quoted string above comes from. The 1975 Beacon printing itself was not opened, so the wording quoted here is the Transaction reprint's and the first edition may differ. Jacoby's \"Revisiting Social Amnesia\" was not read; Crossref carries it twice, once as Society volume 35 issue 1 and once as volume 34 issue 6, both at pages 58 to 60. The 1975 Telos review returned HTTP 503 on the attempt made here. Guy Beiner's Forgetful Remembrance, which reworks the idea as social forgetting, was not read. No psychology-specific database such as PsycINFO was searched, so the absence recorded above is a statement about the places named and not about the whole literature.",
+  "misreadings": "The commonest error is to strip the target out. Wikipedia opens its article with \"the act of collectively forgetting things or failing to perform due to shared forgetfulness\", which fits any group that mislays anything and loses both halves of Jacoby's claim: the mechanism, reification, and the subject, psychology. A second is the homonym. In biology, social amnesia names an animal's failure to recognise an individual it has met before. Ferguson and colleagues found that male mice mutant for the oxytocin gene failed to develop social memory while wild-type mice showed it intact, that olfactory detection of non-social stimuli and spatial memory looked normal in the mutants, that oxytocin but not vasopressin rescued the deficit, and that an oxytocin antagonist produced what they call a social amnesia-like effect in wild-type mice. That is memory for individuals in a mouse, and it has nothing to do with a discipline forgetting its past. Wikipedia's own citation for that paper is wrong on both counts a reader could check: it gives the authors as Francis, Champagne and Meaney and the pages as 284 to 285, where Crossref gives six authors beginning with Ferguson and pages 284 to 288. A third error is to file it as a cognitive bias. It names no individual tendency, no laboratory task and no measurable slip, and it does not appear on Wikipedia's list of cognitive biases, though the article sits in that encyclopedia's memory-biases category. Social cryptomnesia, entered separately in this atlas, borrows the same metaphor of a society forgetting, and it has experiments behind it, where this has none. Last, reading him as plain nostalgia overshoots. His formulation on page 1 is hedged: \"Today, without romanticizing the past, one could almost state the reverse: what is new is worse than what is old.\"",
+  "sources": [
+    {
+      "text": "Jacoby, R. Social Amnesia: A Critique of Contemporary Psychology from Adler to Laing. Transaction reprint, with Jacoby's introduction signed March 1996 and Christopher Lasch's introduction to the main text. The source of every quotation and page number above. Read as a scanned PDF text layer, with pages 2, 4, 5 and 56 checked against the page images; the same file is on the Internet Archive as jacoby-social-amnesia-a-critique-of-contemporary-psychology.",
+      "url": "https://cominsitu.wordpress.com/wp-content/uploads/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Jacoby, R. (2018). Social Amnesia: A Critique of Contemporary Psychology. Routledge. Bibliographic record read at Crossref; the source for the later subtitle and the publisher of the reissue.",
+      "doi": "10.4324/9781351306447",
+      "url": "https://doi.org/10.4324/9781351306447",
+      "type": "primary"
+    },
+    {
+      "text": "Jacoby, R. (2018). Social Amnesia and the New Ideologues. In Social Amnesia, pages 1 to 18. Routledge. Chapter record read at Crossref; cited for the chapter's pagination in the reissue.",
+      "doi": "10.4324/9781351306447-1",
+      "url": "https://doi.org/10.4324/9781351306447-1",
+      "type": "primary"
+    },
+    {
+      "text": "Open Library edition record for ISBN 0807029645: Social amnesia, a critique of conformist psychology from Adler to Laing, Beacon Press, Boston, 1975, xxiii plus 191 pages. The source for the original publisher, year, subtitle and collation. The 1975 printing itself was not opened.",
+      "url": "https://openlibrary.org/books/OL5054465M",
+      "type": "index"
+    },
+    {
+      "text": "Ferguson, J. N., Young, L. J., Hearn, E. F., Matzuk, M. M., Insel, T. R., & Winslow, J. T. (2000). Social amnesia in mice lacking the oxytocin gene. Nature Genetics, 25(3), 284-288. Abstract read at Europe PMC and the record verified at Crossref; the source for every claim about the mouse literature above.",
+      "doi": "10.1038/77040",
+      "url": "https://doi.org/10.1038/77040",
+      "type": "primary"
+    },
+    {
+      "text": "Cohen, C. I. (2000). Overcoming Social Amnesia: The Role for a Social Perspective in Psychiatric Research and Practice. Psychiatric Services, 51(1), 72-78. Abstract read at Europe PMC and the record verified at Crossref; cited as the clearest human use of the phrase in that index, an argument rather than a measurement.",
+      "doi": "10.1176/ps.51.1.72",
+      "url": "https://doi.org/10.1176/ps.51.1.72",
+      "type": "commentary"
+    },
+    {
+      "text": "Jacoby, R. (1997). Revisiting Social Amnesia. Society, 35(1), 58-60. Metadata verified at Crossref, which also holds the same article as volume 34, issue 6, pages 58 to 60. Not read, and nothing here is taken from it.",
+      "doi": "10.1007/s12115-997-1057-7",
+      "url": "https://doi.org/10.1007/s12115-997-1057-7",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Social amnesia. Quoted here as the carrier of the generic collective-forgetting definition and of the misattributed citation for the Nature Genetics paper, and used to find sources.",
+      "url": "https://en.wikipedia.org/wiki/Social_amnesia",
+      "type": "index"
+    },
+    {
+      "text": "Wikipedia, List of cognitive biases. Searched for the phrase, which does not appear; cited only for that.",
+      "url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
