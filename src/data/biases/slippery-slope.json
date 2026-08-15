@@ -1,0 +1,105 @@
+{
+  "no": 412,
+  "slug": "slippery-slope",
+  "name": "Slippery slope",
+  "aliases": ["Slippery slope argument", "Thin edge of the wedge", "Camel's nose", "Camel's nose in the tent", "Dam burst argument"],
+  "category": "belief",
+  "statement": "Slippery-slope arguments are rated stronger when the feared outcome is more probable and worse, which makes their strength variable rather than uniformly fallacious.",
+  "meaning": "The argument has three parts, on the account Rizzo and Whitman gave and that Walton and later writers repeat: an initial decision that looks acceptable, an outcome that does not, and a mechanism carrying the first to the second. Everything turns on the mechanism, and the mechanisms are not one thing. Walton's 1992 book separated four kinds by what drives the sequence forward: causal chains, precedent, the vagueness of the concepts involved, and a fourth type combining the others. The causal version claims that permitting one step raises the chance of the next. The conceptual version claims something different, that no principled line can be drawn once the first case is admitted, so the category itself moves. Walton's later name for whatever propels the sequence is the driver, and he lists precedent, public acceptance and vagueness among them. Hahn and Oaksford's Bayesian treatment of the informal fallacies supplies the standard against which a given instance can be graded. On the summary of it that Corner, Hahn and Oaksford give, an argument's force is a joint function of how likely the feared outcome is given the first step and how bad that outcome would be, which is ordinary decision theory rather than a special logic for slopes. That framing predicts what the fallacy textbooks cannot, which is that two arguments of identical shape differ in strength. The vagueness type shares its machinery with the sorites paradox, and the two are not the same object: the paradox is about where a heap stops being a heap, and the argument is about what to do next.",
+  "origin": {
+    "year": 2006,
+    "who": "Adam Corner, Ulrike Hahn and Mike Oaksford",
+    "where": "Proceedings of the 28th Annual Conference of the Cognitive Science Society",
+    "note": "This is the first experiment, not the origin of the idea. The paper opens by stating that there had been no empirical investigation of the slippery slope, and its own summary calls Experiment 1 the first empirical demonstration that such arguments vary predictably in acceptability. Walton's 2015 survey traces the argument much further back and gives two dating points read here. Alfred Sidgwick's The Application of Logic of 1910 defines it at page 40 under the name 'the thin edge of the wedge objection', and Walton calls Sidgwick the earliest author of an informal-logic book known to him to identify it. Monroe Beardsley's textbook of 1966 is named as the work that started filing it among the informal fallacies, while conceding in a later edition that slippery slopes can be good arguments. Neither Sidgwick nor Beardsley was obtained here."
+  },
+  "evidence": "Two things have been tested and they are different things. The first is whether people grade these arguments, and the second is whether the slides they predict happen. Corner, Hahn and Oaksford ran the first experiments on the first question. Sixty Cardiff undergraduates read four scenarios each, on identity cards, newspaper deliveries, voluntary euthanasia and postal deliveries to houses with dangerous dogs, and rated how convincing the author's view was on a scale from 0 to 10. Probability was manipulated by describing either a plausible or an implausible mechanism, and utility by making the feared outcome either very or moderately negative. Both mattered. Probability gave F(1,239) = 22.26, p < .001 and utility F(1,239) = 28.71, p < .001, with the predicted interaction failing to reach significance, which the authors put down to power. Ratings were highest under high probability with a very negative outcome and lowest under low probability with a moderately negative one, t(119) = 7.48, p < .001. A second experiment, another sixty students, tied the argument to a categorisation decision. Participants read about Finnish land being granted Outstanding Natural Beauty status if it held an unusually high number of large animal species, and judged a target location with 179 species. Where the nearest eligible location had 194 species, 11 of 15 participants called the target eligible; where it had 218, none of 15 did, p < .01. The same manipulation moved argument strength in step, 4 against 2.6 on the same scale, t(28) = 2.1, p < .05. The 2011 journal paper carrying this programme reports three experiments and states in its abstract that similarity between the two ends of a slope raises the chance they are seen as one category and strengthens the argument, that Experiments 2 and 2A found similar items classified together produce stronger arguments, and that in Experiment 3 confidence in categorisation predicted rated strength. That paper is paywalled and no figure from it is quoted here. Haigh, Wood and Stewart later ran four studies with 24 arguments rather than a handful. In Study 1, 23 Prolific participants wrote what they could infer about a speaker's attitude, and coders agreed at kappa = .85; participants read the argument as opposition to the initial proposal for 76.8% of items. In Study 2, 45 Manchester students rated the same 24 arguments on a 0 to 100 scale. Outcomes were rated highly undesirable at a mean of 81.6, implied rejection at 77.6, and the two correlated at r = .847, p < .001. The arguments raised the subjective probability of the feared consequence from 0.18 to 0.25, t1(44) = 7.7, p < .001, d = 1.2, and t2(23) = 4.3, p < .001, d = .92, leaving it low in absolute terms. Study 3 tracked the eye movements of 24 readers and Study 4 collected agreement ratings from 45. Motsenok, Steiner, Netzer, Feldman and Sulitzeanu-Kenan tested a mechanism rather than a rating. Their three experiments, run on an Israeli online panel in 2016, asked respondents to approve a policy permitting physical means of interrogation. In Experiment 1, with 1,206 respondents, 59.2% approved a new policy against 74.8% who approved extending one already in force, chi-square(1, n = 1206) = 23.30, p < .001, and the four past durations from six months to five years did not differ from each other. Labelling a new policy temporary did not by itself raise approval. On the second question, whether predicted slides occur, the assisted-dying literature is the case with repeated national data. Van der Heide and colleagues surveyed physicians attending 6,860 Dutch deaths and found euthanasia at 1.7% of all deaths in 2005 against 2.6% in 2001, assisted suicide at 0.1% against 0.2%, and ending life without an explicit request at 0.4%. Battin, van der Heide, Ganzini, van der Wal and Onwuteaka-Philipsen went through the Oregon reports for 1998 to 2006 and the four Dutch national studies, looking for disproportionate impact on ten groups. They report none for the elderly, women, the uninsured, the poorly educated, the poor, the physically disabled or chronically ill, minors, people with psychiatric illness including depression, or racial and ethnic minorities. People with AIDS were the one group at raised risk. Dierickx, Deliens, Cohen and Chambaere then counted Belgian cases where a psychiatric disorder or dementia was the sole diagnosis, and found 179 of them between 2002 and 2013, rising from 0.5% of all reported euthanasia cases in 2002 to 2007 to 3.0% in 2013.",
+  "replication": {
+    "state": "replicated",
+    "headline": "That these arguments vary in rated strength with the probability and the badness of the outcome has held up in a second, larger and independent set of studies. Whether the slides they predict actually occur is a separate question with contested answers.",
+    "detail": "Corner, Hahn and Oaksford manipulated probability and utility in 60 undergraduates and found main effects of both. Haigh, Wood and Stewart, at Northumbria and Manchester, used 24 arguments rather than four and no shared materials, and recovered the same relationship: the more undesirable the predicted consequence, the more strongly the argument was read as a case against the proposal, r = .847, p < .001. Their arguments also shifted the perceived probability of the feared outcome upward, from 0.18 to 0.25, d = 1.2 by subjects and .92 by items. The 2011 journal version of the Cardiff programme reports an internal repetition of the categorisation experiment, labelled 2A, though its numbers were not obtained here. What has not been repeated is the exemplar experiment by an unconnected group. It rests on 15 participants per cell in the version read here, and 11 of 15 against 0 of 15 is a large gap on a small base. The real-world record does not resolve into one answer. Dutch euthanasia rates fell between 2001 and 2005 after the practice was legalised, and Battin and colleagues report that of the ten groups they examined, only people with AIDS were at raised risk. Finlay and George dispute that reading, arguing that vulnerability cannot be captured by race, gender or socioeconomic status, that Oregon reports from 2008 onwards show the highest resort to assisted suicide among the elderly, and that some patients cleared for it had depression at assessment. Belgian euthanasia for psychiatric disorders or dementia alone rose from 0.5% of reported cases across 2002 to 2007 to 3.0% in 2013, which is the shape a slope predicts, though the authors of that count treat it as rising demand and note that the committee judged every case to have met the legal requirements.",
+    "study": {
+      "cite": "Haigh, M., Wood, J. S., & Stewart, A. J. (2016). Slippery slope arguments imply opposition to change. Memory & Cognition, 44(5), 819-836.",
+      "doi": "10.3758/s13421-016-0596-9",
+      "year": 2016,
+      "n": 45
+    }
+  },
+  "limits": "The experiments measure ratings of written arguments, and a rating is not a slide. Nothing in the Cardiff or the Northumbria studies tells a reader whether legalising one thing makes another more likely, and the authors of the 2006 paper say as much when they ask separately whether slippage occurs in the real world. Sample sizes are small by current standards. The first two experiments used 60 Cardiff psychology undergraduates each, the exemplar comparison had 15 people per cell, and the four later studies ran on 23, 45, 24 and 45 participants. The theoretical claim that vagueness is what makes a slope slippery was not the variable manipulated in anything read here. What was manipulated was the numerical distance between a target case and the nearest already-classified one, which is similarity to a category boundary. Corner, Hahn and Oaksford's 2011 paper in the Journal of Memory and Language is paywalled and was not obtained; its abstract was read at the Birkbeck repository, and the six figures quoted on this page from that programme all come from the 2006 conference version, whose full text was read. Hahn and Oaksford's 2007 Psychological Review paper was not obtained either, so the Bayesian account is described here through Corner and colleagues' summaries of it. Walton's 1992 book was not obtained; its four-way division is quoted through his own 2015 restatement of it, which cites Corner et al. at page 134 for the same reading. Volokh's catalogue of mechanisms is named through the 2006 paper's description rather than read. On the real-world side, the evidence located concerns assisted dying, one policy area with unusually good national statistics, and it comes from jurisdictions that already legalised the practice, so it speaks to what followed legalisation rather than to slopes in general. Finlay and George's critique was read only as its abstract at PubMed. The Motsenok experiments used hypothetical policy vignettes on a panel close to representative of Jewish Israelis, on one charged topic, and the status-quo effect they report is one of Volokh's proposed mechanisms rather than a slide observed in legislation. Walton notes that no serious attempt has been made to settle whether the alternative names for this argument, the thin edge of the wedge, the dam burst and the camel's nose in the tent, pick out the same thing or species of it, so the aliases on this page carry that uncertainty.",
+  "misreadings": "The commonest error is the one the textbooks teach, that a slippery-slope argument is fallacious by its shape. The experimental literature was built to test the opposite, and Walton records that even Beardsley, who put the argument into the fallacy chapter, allowed that slippery slopes can be good arguments in some instances. Corner, Hahn and Oaksford conclude from their first experiment that the argument cannot be maintained to be universally weak, because the two things people respond to, probability and the cost of the outcome, are exactly the two quantities decision theory says a chooser should weigh. Calling an instance fallacious therefore takes an argument about its content. The second error runs the other way, and it is the one this page is most at risk of inviting. Showing that people rate some of these arguments highly says nothing about whether any predicted slide happens, and the two literatures answer different questions with different methods. Ratings come from students and online panels reading vignettes; the assisted-dying evidence comes from death certificates and national surveys, and it disagrees with itself. A third confusion merges the causal and the conceptual versions. The causal claim is that one step raises the probability of the next, which is a claim about the world and can be checked against it. The conceptual claim is that no principled line survives the first case, which is a claim about the category and is checked by asking where the line would go. Walton's taxonomy keeps them apart, and the evidence for each is of a different kind. Related to that, the sorites paradox is not this. It shares the machinery of vague predicates and it is a paradox about classification, while the slippery slope is an argument for not doing something. Last, the argument carries an inference about the speaker. Haigh, Wood and Stewart found that people read a slippery slope as opposition to the initial proposal for 76.8% of the arguments they saw, which means uttering one commits the speaker whether or not the speaker intended it.",
+  "sources": [
+    {
+      "text": "Corner, A., Hahn, U., & Oaksford, M. (2006). The Slippery Slope Argument: Probability, Utility & Category Reappraisal. Proceedings of the Annual Meeting of the Cognitive Science Society, 28, 1145-1151. Full text read from the PDF at eScholarship. Every figure attributed to this programme on this page was read in that document.",
+      "url": "https://escholarship.org/uc/item/4m59x3cq",
+      "type": "primary"
+    },
+    {
+      "text": "Corner, A., Hahn, U., & Oaksford, M. (2011). The psychological mechanism of the slippery slope argument. Journal of Memory and Language, 64(2), 133-152. Not obtained; paywalled. The abstract was read at the Birkbeck Institutional Research Online record, and only claims stated in that abstract are attributed to it here. No figure from it is reproduced.",
+      "doi": "10.1016/j.jml.2010.10.002",
+      "url": "https://eprints.bbk.ac.uk/id/eprint/3000/",
+      "type": "primary"
+    },
+    {
+      "text": "Haigh, M., Wood, J. S., & Stewart, A. J. (2016). Slippery slope arguments imply opposition to change. Memory & Cognition, 44(5), 819-836. Accepted manuscript read in full at Birmingham City University's open-access repository.",
+      "doi": "10.3758/s13421-016-0596-9",
+      "url": "https://www.open-access.bcu.ac.uk/4723/",
+      "type": "primary"
+    },
+    {
+      "text": "Hahn, U., & Oaksford, M. (2007). The rationality of informal argumentation: A Bayesian approach to reasoning fallacies. Psychological Review, 114(3), 704-732. Not obtained. Named here for the Bayesian account of argument strength, which is described on this page through Corner, Hahn and Oaksford's summaries of it.",
+      "doi": "10.1037/0033-295X.114.3.704",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D. (2015). The Basic Slippery Slope Argument. Informal Logic, 35(3), 273-311. Full text read. Source for the four-way taxonomy as its author restates it, for Sidgwick 1910 and Beardsley 1966, for the drivers, and for the alternative names.",
+      "doi": "10.22329/il.v35i3.4286",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/4286",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D. (1992). The Causal Slippery Slope Argument. In Slippery Slope Arguments, pp. 69-114. Oxford University Press. Not obtained; listed to show that the causal type has its own treatment in the book, with the pagination taken from the Crossref record.",
+      "doi": "10.1093/oso/9780198239253.003.0003",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D. (1992). The Sorites Slippery Slope Argument. In Slippery Slope Arguments, pp. 37-68. Oxford University Press. Not obtained; listed to show that the vagueness type is treated separately from the causal one, with the pagination taken from the Crossref record.",
+      "doi": "10.1093/oso/9780198239253.003.0002",
+      "type": "primary"
+    },
+    {
+      "text": "Motsenok, M., Steiner, T., Netzer, L., Feldman, Y., & Sulitzeanu-Kenan, R. (2025). The slippery slope of rights-restricting temporary measures: an experimental analysis. Behavioural Public Policy, 9(1), 155-175. Open access under CC BY. Full text read.",
+      "doi": "10.1017/bpp.2020.35",
+      "type": "primary"
+    },
+    {
+      "text": "van der Heide, A., Onwuteaka-Philipsen, B. D., Rurup, M. L., et al. (2007). End-of-Life Practices in the Netherlands under the Euthanasia Act. New England Journal of Medicine, 356(19), 1957-1965. Abstract read at PubMed; full text not obtained. Source for the 2001 and 2005 rates quoted here.",
+      "doi": "10.1056/NEJMsa071143",
+      "type": "primary"
+    },
+    {
+      "text": "Battin, M. P., van der Heide, A., Ganzini, L., van der Wal, G., & Onwuteaka-Philipsen, B. D. (2007). Legal physician-assisted dying in Oregon and the Netherlands: evidence concerning the impact on patients in 'vulnerable' groups. Journal of Medical Ethics, 33(10), 591-597. Full text read from the Europe PMC PDF.",
+      "doi": "10.1136/jme.2007.022335",
+      "type": "primary"
+    },
+    {
+      "text": "Finlay, I. G., & George, R. (2011). Legal physician-assisted suicide in Oregon and The Netherlands: evidence concerning the impact on patients in vulnerable groups, another perspective on Oregon's data. Journal of Medical Ethics, 37(3), 171-174. Abstract read at PubMed; full text not obtained.",
+      "doi": "10.1136/jme.2010.037044",
+      "type": "primary"
+    },
+    {
+      "text": "Dierickx, S., Deliens, L., Cohen, J., & Chambaere, K. (2017). Euthanasia for people with psychiatric disorders or dementia in Belgium: analysis of officially reported cases. BMC Psychiatry, 17, 203. Abstract read at PubMed; full text not obtained.",
+      "doi": "10.1186/s12888-017-1369-0",
+      "type": "primary"
+    },
+    {
+      "text": "Volokh, E. (2003). The Mechanisms of the Slippery Slope. Harvard Law Review, 116(4), 1026-1137. Not obtained. Named here for the catalogue of mechanisms, as described in Corner, Hahn and Oaksford (2006).",
+      "doi": "10.2307/1342743",
+      "type": "commentary"
+    },
+    {
+      "text": "Lillo-Unglaube, M., Canales-Johnson, A., Navarrete, G., & Bravo, C. F. (2014). Toward an experimental account of argumentation: the case of the slippery slope and the ad hominem arguments. Frontiers in Psychology, 5, 1420. Full text read at PubMed Central. A review rather than a new experiment, and the source here for the three-part structure attributed to Rizzo and Whitman.",
+      "doi": "10.3389/fpsyg.2014.01420",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
