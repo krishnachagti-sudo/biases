@@ -1,0 +1,101 @@
+{
+  "no": 355,
+  "slug": "list-length-effect",
+  "name": "List-length effect",
+  "aliases": [
+    "List length effect",
+    "Length effect"
+  ],
+  "category": "memory",
+  "statement": "Memory for a studied item is worse when it came from a long list than a short one, though in recognition the effect can vanish once the confounds are controlled.",
+  "meaning": "Two different claims travel under one name, and they have different evidence behind them. In free recall the claim is that the proportion of a list a person can produce falls as the list gets longer, which nobody in the literature disputes. In recognition the claim is that a studied word is harder to tell from a new word when it sat in a list of eighty rather than a list of twenty. That second version is a test of where interference comes from. Item noise models say the other studied items are what gets in the way, so adding items must hurt. Context noise models say the interference comes from the other contexts in which the test word has been met before, so adding items to this list should change nothing. The size of the recognition effect is therefore a measurement that theories of memory are built on.",
+  "origin": {
+    "year": 1912,
+    "who": "Edward K. Strong, Jr.",
+    "where": "Psychological Review",
+    "note": "Strong showed Columbia students six series of magazine advertisements, of 5, 10, 25, 50, 100 and 150 items, at one a second, then handed them a set twice as large and asked which ones they had just seen. His summary score fell from 86.2 per cent at five advertisements to 46.8 per cent at 150. Each series was tested immediately after it ended, so the longer series also carried the longer average delay, which is the confound the modern argument turns on."
+  },
+  "evidence": "The free recall version is not in dispute. Ward ran overt rehearsal free recall with lists of 10, 20 and 30 words and obtained what he calls the standard list length effects: as the list grew, the number of words recalled rose and the proportion recalled fell. His own reading of that is not item competition. He replotted recall against when each word was last rehearsed, and the curves for the three list lengths lay on top of one another. Ward takes that as evidence that length works through how recently unrehearsed words were last thought about. The recognition version is where the argument sits. Dennis and Humphreys named four ways a length effect could appear with no interference from the studied items. They are unequal retention interval, lapses of attention across a long list, rehearsal displaced into the filler task, and failure to reinstate the study context. They then built the controls in. Their first experiment set short lists of 24 words against a long list of three 24-word blocks, separated by three minutes of a sliding tile puzzle. There were 30, 30 and 42 subjects in the three conditions, study was incidental, and every word carried a pleasantness rating. The largest difference in hit or false alarm rates was 0.025 in the retroactive design and 0.023 in the proactive design, and neither was significant. Their second experiment ran short, long and mixed conditions within subjects, at two blocks of 20 words against four. Differences ran from 0.019 to 0.028 and none was significant, in a design powerful enough to show a low frequency advantage in hits minus false alarms at p = .028.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The recognition effect appears or disappears depending on which controls are used, and the two camps have swapped positions since 2015.",
+    "detail": "Cary and Reder ran the direct rebuttal. Their third experiment took 40 Carnegie Mellon students through four study-test cycles, setting short lists of 20 words against long lists of 80. All four of Dennis and Humphreys's controls were in place, with a pleasantness rating at study and both the retroactive and proactive designs. Recognition was worse after the long list: d-prime 2.57 against 2.34, F(1, 39) = 7.96, MSE = .25, p < .01. False alarms rose from .10 to .14, F(1, 39) = 6.78, p < .05, while the drop in hits from .87 to .84 was not reliable. Dennis, Lee and Kinnell answered with 48 Adelaide students on the same 20 against 80 lists, adding a condition in which eight minutes of puzzle activity followed both lists to force contextual reinstatement. With that filler the effect on d-prime was absent, F(1, 47) = 1.65, p = .21. Without it the effect was there, F(1, 47) = 4.44, p = .04, partial eta squared .09. They reported that dropping the single most extreme subject took the same F to 2.81 and p to .10, and dropping four took it to 0.83 and p to .37. Their Bayesian hierarchical model assigned both list-length comparisons to an error-only account. Annis and colleagues reanalysed that dataset and found the evidence thin in both directions. A Bayesian t-test put the 95 per cent highest density interval for the no-filler difference at about .01 to .49, excluding zero, and the interval for the filler condition spanning zero. The Bayes factors were BF01 = .43 for the no-filler condition, meaning the data were about 2.33 times more likely under a positive effect, and 1.6 times more likely under the null for the filler condition. On Jeffreys's scale, they note, a Bayes factor between 1 and 3 is worth no more than a bare mention. Kinnell and Dennis kept the null side going, concluding from two experiments on attention and the remember-know task that there is no list length effect once confounds are controlled and that the attention control is the one that matters most. Then Yim, Dennis and Osth reversed it. Their 2025 reexamination controlled the reported confounds, varied list length, study time, delay and stimulus type, and tested a large sample. Its abstract reports evidence for a list-length effect across the conditions, best described by a square root function, alongside a model showing that most recognition interference still comes from other sources such as previous contexts.",
+    "study": {
+      "cite": "Cary, M., & Reder, L. M. (2003). A dual-process account of the list-length and strength-based mirror effects in recognition. Journal of Memory and Language, 49(2), 231-248.",
+      "doi": "10.1016/S0749-596X(03)00061-5",
+      "year": 2003,
+      "n": 40
+    }
+  },
+  "limits": "No effect size appears in the structured fields above, because none of the recognition papers read here reports one that both sides state. Dennis and Humphreys give differences in raw hit and false alarm proportions, and Cary and Reder give d-prime means with F ratios. The only variance figure on offer is Dennis, Lee and Kinnell's partial eta squared of .09, for the condition they treat as confounded. Converting between them would be arithmetic rather than reading. The stimulus matters and the picture there is unfinished. Kinnell and Dennis tested word pairs, faces, fractals and photographs of scenes. They report a significant effect for faces and fractals and a non-significant one for word pairs and scenes, which they put down to how similar the items are to each other. Baumann and colleagues later found that studying more members of a visual scene category lowered accuracy for the other members, a category-length effect rather than a whole-list one. Recall has its own edges: Ensor and colleagues applied the Dennis and Humphreys controls to cued recall and found a robust effect when start-of-study items from the long list were tested but none in two experiments testing end-of-study items. Three papers could not be read in full. Kinnell and Dennis's two Memory and Cognition articles and Yim, Dennis and Osth's 2025 article are paywalled. What appears here about them is read from their PubMed abstracts and attributed as such. The 2025 sample size and effect estimates are not stated in that abstract, so they are omitted. Crossref and OpenAlex both list Melanie Cary as the sole author of the 2003 paper, which the paper's own title page contradicts, so Lynne M. Reder's authorship here is read off the article. Searching covered Crossref, PubMed, OpenAlex, Semantic Scholar and web search, and turned up no meta-analysis and no multi-laboratory replication of any of these designs.",
+  "misreadings": "The commonest error is to quote a null result from recognition as though it were a fact about memory in general. Dennis and Humphreys are making a narrow claim about single-word recognition, and their own argument depends on recall behaving differently, because a model that made recognition and recall equally sensitive to length would not explain anything. Reading the null as \"list length does not matter\" inverts the paper. The second error is to treat the 2008 experiment as strong support for the null. Its authors framed it that way, and Annis and colleagues showed the evidence in that dataset is anecdotal on the published guidelines, in both directions, with the effect appearing in one of the two conditions. The third is to assume the question is closed on the side that first got the headlines. Simon Dennis is an author of the 2025 paper that reports a list-length effect across conditions, so the current state is not one camp holding out against the other.",
+  "sources": [
+    {
+      "text": "Strong, E. K., Jr. (1912). The effect of length of series upon recognition memory. Psychological Review, 19(6), 447-462.",
+      "doi": "10.1037/h0069812",
+      "url": "https://archive.org/stream/sim_psychological-review_1912-11_19_6/sim_psychological-review_1912-11_19_6_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Dennis, S., & Humphreys, M. S. (2001). A context noise model of episodic word recognition. Psychological Review, 108(2), 452-478.",
+      "doi": "10.1037/0033-295X.108.2.452",
+      "url": "https://cseweb.ucsd.edu/~gary/PAPER-SUGGESTIONS/dennis-humphreys-psych-rev-2001.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Cary, M., & Reder, L. M. (2003). A dual-process account of the list-length and strength-based mirror effects in recognition. Journal of Memory and Language, 49(2), 231-248.",
+      "doi": "10.1016/S0749-596X(03)00061-5",
+      "url": "https://www.cmu.edu/dietrich/psychology/memorylab/publications/03_mc_lmr.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Dennis, S., Lee, M. D., & Kinnell, A. (2008). Bayesian analysis of recognition memory: The case of the list-length effect. Journal of Memory and Language, 59(3), 361-376.",
+      "doi": "10.1016/j.jml.2008.06.007",
+      "url": "https://sites.socsci.uci.edu/~mdlee/DennisLeeKinnellJML.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Annis, J., Lenes, J. G., Westfall, H. A., Criss, A. H., & Malmberg, K. J. (2015). The list-length effect does not discriminate between models of recognition memory. Journal of Memory and Language, 85, 27-41.",
+      "doi": "10.1016/j.jml.2015.06.001",
+      "url": "https://doi.org/10.1016/j.jml.2015.06.001",
+      "type": "commentary"
+    },
+    {
+      "text": "Yim, H., Dennis, S. J., & Osth, A. F. (2025). A systematic reexamination of the list-length effect in recognition memory. Journal of Experimental Psychology: General, 154(10), 2772-2799. Read as its PubMed abstract; the full text is paywalled.",
+      "doi": "10.1037/xge0001802",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40689921/",
+      "type": "replication"
+    },
+    {
+      "text": "Kinnell, A., & Dennis, S. (2011). The list length effect in recognition memory: an analysis of potential confounds. Memory & Cognition, 39(2), 348-363. Read as its PubMed abstract; the full text is paywalled.",
+      "doi": "10.3758/s13421-010-0007-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21264573/",
+      "type": "replication"
+    },
+    {
+      "text": "Kinnell, A., & Dennis, S. (2012). The role of stimulus type in list length effects in recognition memory. Memory & Cognition, 40(3), 311-325. Read as its PubMed abstract; the full text is paywalled.",
+      "doi": "10.3758/s13421-011-0164-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22161208/",
+      "type": "replication"
+    },
+    {
+      "text": "Ward, G. (2002). A recency-based account of the list length effect in free recall. Memory & Cognition, 30(6), 885-892. Read as its PubMed abstract; the full text is paywalled.",
+      "doi": "10.3758/BF03195774",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12450092/",
+      "type": "primary"
+    },
+    {
+      "text": "Ensor, T. M., Guitard, D., Bireta, T. J., Hockley, W. E., & Surprenant, A. M. (2020). The list-length effect occurs in cued recall with the retroactive design but not the proactive design. Canadian Journal of Experimental Psychology, 74(1), 12-24. Read as its PubMed abstract; the full text is paywalled.",
+      "doi": "10.1037/cep0000187",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31589069/",
+      "type": "commentary"
+    },
+    {
+      "text": "Baumann, O., Vromen, J. M. G., Boddy, A. C., Crawshaw, E., & Humphreys, M. S. (2018). Category-length and category-strength effects using images of scenes. Memory & Cognition, 46(8), 1234-1247. Read as its PubMed abstract; the full text is paywalled.",
+      "doi": "10.3758/s13421-018-0833-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29931621/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
