@@ -1,0 +1,88 @@
+{
+  "no": 354,
+  "slug": "part-list-cueing-effect",
+  "name": "Part-list cueing effect",
+  "aliases": [
+    "Part-set cueing effect",
+    "Part-list cuing impairment",
+    "Part-set cuing inhibition",
+    "Retrieval inhibition from part-set cuing"
+  ],
+  "category": "memory",
+  "statement": "Handing people some of the items they studied as hints at test lowers their recall of the remaining items, compared with people given no hints.",
+  "meaning": "The paradigm is plain. Participants study a list of words and then take a recall test. One group is handed a subset of the studied words as cues and asked to produce the rest. The control group is handed nothing and recalls what it can. Only the items nobody received as cues are scored, so both groups are marked on the same material. The cued group does worse. Pepe, Moyer, Peña and Rajaram call these unscored items the cues and the scored ones the targets, and that vocabulary is used here. The literature spells the effect cuing as often as cueing, and part-set as often as part-list, so all four combinations name the same finding. What makes it worth an entry is that the manipulation looks like help. The finding sits next to retrieval-induced forgetting, covered in this atlas under memory inhibition, and the two differ in what the participant does with the subset. There, people retrieve half the material. Here, people only read it.",
+  "origin": {
+    "year": 1968,
+    "who": "Norman J. Slamecka",
+    "where": "Journal of Experimental Psychology",
+    "note": "Slamecka set out to confirm the associationist doctrine that learning a list forms direct bonds between its words, and expected the cued group to do better. Writing about the paper sixteen years later he said the first experiment failed to show any advantage for the cued group and revealed a small but reliable inhibitory effect, that he ran six experiments in all, and that each told the same story: provision of free words did not aid memory performance."
+  },
+  "evidence": "Slamecka's six experiments were not read for this entry and are described here through Nickerson's 1984 review. Participants heard 30-item lists read twice and then recalled them. The cued group received a written subset and was asked for the remainder, and the number of cue words ranged from 5 to 29. Rarity of the words and the strength of associations between them were varied. Cued participants recalled a smaller proportion of the non-cue items than controls whatever the composition of the list and whatever the number of cues. The last two experiments matter and are rarely quoted. Slamecka suspected the cued group was penalised by having to scan the cue sheet while controls began recalling at once, so he equalised the head start, and the inhibiting effect disappeared. He put the earlier result down to what he called a tangential procedural artifact affecting short-term memory, and rested his conclusion on the absence of facilitation rather than on the presence of harm. Nickerson reviewed the two decades of work that followed and found no explanation adequate and compelling. Bäuml and Aslan later separated the instruction from the exposure. They tested 108 students at Regensburg University in three groups of 36, on six twelve-item categorised lists holding eight target and four non-target items. The four non-target items were shown again as retrieval cues, shown again for relearning, or retrieved from word stems. Every condition was tested with category-plus-first-letter probes in a random order, which forces the same recall sequence on cued and control participants. Cuing dropped target recall from a control level of 77.3% to 70.8% and 70.7%, differences of 6.5 and 6.6 points, F(1, 35) = 7.2 and F(1, 35) = 10.5. Relearning moved it from 74.0% to 73.6% and 72.9%, differences of 0.4 and 1.1 points, both F < 1. Retrieving the same four items dropped it from 75.2% to 67.9% and 67.2%, differences of 7.3 and 8.0 points, F(1, 35) = 14.2 and F(1, 35) = 10.7. Cuing and relearning differed, F(1, 70) = 4.6, p = .035, while cuing and retrieval did not, F(1, 70) < 1. Reading the words as hints cost as much as retrieving them; reading the same words to learn them cost nothing.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Pooled across 96 samples the impairment is medium sized, g = -0.55 between subjects and -0.45 within, and it survives most changes to the procedure.",
+    "detail": "Pepe, Moyer, Peña and Rajaram searched PsycINFO, PsycARTICLES, PubMed and ProQuest under twelve spellings of the term, identified 651 records, kept 75 reports and drew effect sizes from 39 of them. Their headline analyses cover 47 between-subjects samples with 2,574 participants and 49 within-subject samples with 2,102, and the abstract's total of 109 samples and 5,605 participants includes the unpublished work added in a sensitivity analysis. Negative signs mean impairment throughout. Between subjects the weighted mean was g = -0.55, interval -0.67 to -0.43, z = -8.76. Within subjects it was g = -0.45, interval -0.53 to -0.38, z = -11.99. The paper does not state the level of those intervals, so they are quoted here and kept out of the structured fields. Of the between-subjects effects 85.11% were negative, 8.51% null and 6.38% positive; within subjects 85.71% were negative and the rest null. Heterogeneity was Q(46) = 108.59, I-squared 57.64, and Q(48) = 123.89, I-squared 61.26. The fail-safe N was 2,170 studies between subjects and 4,665 within. Trim and fill imputed no missing studies between subjects and 11 within, which lowers the within-subject estimate to g = -0.36, interval -0.44 to -0.28. Adding 13 unpublished within-subject samples from dissertations gives g = -0.39, interval -0.45 to -0.32. Against an alpha of .01 the impairment was unmoved by list length, by whether the studied items were related, by the number of cues, by presentation modality, by study time per item, by recall time allowed and by whether unique first letters were supplied as probes. One moderator held. Longer distractor tasks between study and test produced smaller impairments, Q(1) = 40.18 between subjects and Q(1) = 21.93 within.",
+    "study": {
+      "cite": "Pepe, N. W., Moyer, A., Peña, T., & Rajaram, S. (2023). Deceitful hints: A meta-analytic review of the part-list cuing impairment in recall. Psychonomic Bulletin & Review, 30(4), 1243-1272.",
+      "doi": "10.3758/s13423-023-02263-9",
+      "year": 2023,
+      "n": 5605
+    },
+    "replicated": {
+      "es": -0.55,
+      "esType": "g"
+    }
+  },
+  "limits": "The meta-analysis covers recall only, and its authors excluded 15 reports for using a non-explicit recall task. Recognition is a separate and thinner record. Liu, Xing and Bai list Slamecka 1975, Todres and Watkins 1981 and Oswald and colleagues 2006 as the whole of the earlier recognition work, none of which separated recollection from familiarity. Their own experiment did separate the two, in 17 students after one exclusion, and found that cues lowered familiarity, t(16) = -3.271, p < 0.01, Cohen's d = 0.796, while leaving recollection untouched, t(16) = 0.040. Set size is a second boundary. Nickerson reports that with target sets of 165 to about 350 items, cued with 20, no inhibition appeared, and he warns that the explanations on offer should be read as covering the small sets almost every experiment has used. Cues can also help. Lehmer and Bäuml name three studies in which part-list cues raised recall: after an instruction to forget the list, after a task that changed the participant's internal context, and after a 48-hour delay. All three used low associative encoding. The primary sources for the origin were not obtained. Slamecka's 1968 paper is described through Nickerson's review and through Slamecka's own Citation Classic commentary, so no recall percentage from it is quoted here. Basden and Basden's 1995 work on strategy disruption and Bäuml and Aslan's 2006 work on persistence were likewise read only through Lehmer and Bäuml's summary of them and through the meta-analysis, and their figures are absent for that reason. No multi-laboratory or registered replication of the paradigm was located in searches of Crossref, PubMed, Semantic Scholar and the open web in August 2026, which is unsurprising for an effect with a meta-analysis this size behind it.",
+  "misreadings": "The commonest error is what the 1968 paper is taken to have shown. Slamecka is cited as the discoverer of part-list cueing inhibition, and by his own account he thought the inhibition in his first four experiments was a procedural artefact, showed it was absent once the artifact was removed, and drew his conclusion from the failure of the cues to help. The claim he defended was the absence of facilitation. The second error is treating a settled effect as a settled mechanism. Nickerson's 1984 title called it a persisting enigma, and the 2023 meta-analysis still reports three live accounts. Strategy disruption says the cues break the order the rememberer had planned. Inhibition says reading the cues triggers covert retrieval of them, which suppresses the rest. Context reactivation says the cues can restore the study context, which is why cues sometimes help. Pepe and colleagues read their own results as support for a multiple-mechanism account rather than for any one of the three. The third error is inferring that more cues do more damage. The number of cues did not predict the size of the impairment in either design, and the impairment has been reported with as few as four cues and with as many as 42. The fourth is merging this with retrieval-induced forgetting. Bäuml and Aslan's relearning group read the same words for the same time and lost nothing, so the harm follows the instruction to use words as hints, not the exposure to them. The fifth is the practical inversion, that a partial list is always worse than none. The direction depends on the delay, and on whether the rememberer can still reach the context in which the material was learned.",
+  "sources": [
+    {
+      "text": "Slamecka, N. J. (1968). An examination of trace storage in free recall. Journal of Experimental Psychology, 76(4, Pt.1), 504-513. Crossref record only; not read. Its design and results are described here through Nickerson (1984) and through Slamecka's own 1984 commentary on it.",
+      "doi": "10.1037/h0025695",
+      "url": "https://doi.org/10.1037/h0025695",
+      "type": "primary"
+    },
+    {
+      "text": "Slamecka, N. J. (1984). Citation Classic commentary on 'An examination of trace storage in free recall'. Current Contents, number 25, 18 June 1984, page 96. Read in full as the scan held by the Garfield Library; the source for his account of what he expected, what he found and how many experiments he ran.",
+      "url": "https://garfield.library.upenn.edu/classics1984/A1984SU44700001.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Nickerson, R. S. (1984). Retrieval inhibition from part-set cuing: A persisting enigma in memory research. Memory & Cognition, 12(6), 531-552. Read in full from the publisher's open PDF; the source for the description of Slamecka's six experiments, for the large-set exception and for the verdict on the competing explanations.",
+      "doi": "10.3758/BF03213342",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03213342.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Pepe, N. W., Moyer, A., Peña, T., & Rajaram, S. (2023). Deceitful hints: A meta-analytic review of the part-list cuing impairment in recall. Psychonomic Bulletin & Review, 30(4), 1243-1272. Read in full from the copy posted by the Rajaram Memory Lab; the source for every pooled estimate and moderator quoted.",
+      "doi": "10.3758/s13423-023-02263-9",
+      "url": "https://rajarammemorylab.com/wp-content/uploads/2023/03/Pepe-et-al.-2023.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Bäuml, K.-H., & Aslan, A. (2004). Part-list cuing as instructed retrieval inhibition. Memory & Cognition, 32(4), 610-617. Read in full from the copy posted by the author at Regensburg University; the source for the cuing, relearning and retrieval comparison.",
+      "doi": "10.3758/BF03195852",
+      "url": "https://baeuml.app.uni-regensburg.de/paper/papers_open/Part-List%20Cuing%20as%20instructed.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Lehmer, E.-M., & Bäuml, K.-H. T. (2018). The many faces of part-list cuing: Evidence for the interplay between detrimental and beneficial mechanisms. Frontiers in Psychology, 9, 701. Read in full; the source for the three studies in which cues raised recall and for the two-factor account of encoding.",
+      "doi": "10.3389/fpsyg.2018.00701",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00701/pdf",
+      "type": "review"
+    },
+    {
+      "text": "Liu, T., Xing, M., & Bai, X. (2020). Part-list cues hinder familiarity but not recollection in item recognition: Behavioral and event-related potential evidence. Frontiers in Psychology, 11, 561899. Read in full; the source for the recognition results and for the count of earlier recognition studies.",
+      "doi": "10.3389/fpsyg.2020.561899",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.561899/pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bäuml, K.-H. T., & Aslan, A. (2006). Part-list cuing can be transient and lasting: The role of encoding. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32(1), 33-43. Crossref record only; not read. Its persistence result is described here through Lehmer and Bäuml (2018).",
+      "doi": "10.1037/0278-7393.32.1.33",
+      "url": "https://doi.org/10.1037/0278-7393.32.1.33",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
