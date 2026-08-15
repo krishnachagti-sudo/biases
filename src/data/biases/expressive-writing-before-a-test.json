@@ -1,0 +1,73 @@
+{
+  "no": 436,
+  "slug": "expressive-writing-before-a-test",
+  "name": "Expressive writing before a test",
+  "aliases": [
+    "Writing about testing worries",
+    "Pre-exam expressive writing",
+    "Single-session expressive writing for test anxiety"
+  ],
+  "category": "social",
+  "statement": "Writing for ten minutes about one's worries immediately before an exam is said to raise exam scores, most of all for students who are habitually anxious about tests.",
+  "meaning": "The claim is narrower than its retellings. One session, about ten minutes long, sitting immediately before the test. The subject is the test itself, the thoughts and feelings a student has about the paper they are minutes from opening. The benefit claimed is conditional rather than general: Ramirez and Beilock predicted gains for students high in habitual test anxiety and none for the rest, and that is the pattern they report. Their proposed mechanism is working memory. Worries occupy a store the test also needs, and putting the worries on paper is meant to free it. They distinguish their design from the older writing literature in the paper itself, where people write about a past event across sessions spanning weeks. One bout should suffice, they argue, when the threatening situation is immediately forthcoming and its details are already salient.",
+  "origin": {
+    "year": 2011,
+    "who": "Gerardo Ramirez and Sian L. Beilock",
+    "where": "Science",
+    "note": "Their paper is titled 'Writing About Testing Worries Boosts Exam Performance in the Classroom' and reports two laboratory studies and two randomised field experiments. Its closing line is that simply writing about one's worries before a high-stakes exam can boost test scores."
+  },
+  "evidence": "Four experiments, two in a laboratory and two in a school. In study 1, 20 college students took two short tests of modular arithmetic. After the first they were given a high-pressure scenario built from a cash reward, a partner whose share depended on them, and videotaping for teachers and students to watch. They then spent ten minutes either sitting quietly or writing about their thoughts and feelings on the problems ahead. Pretest accuracy did not differ, t(18) = 1.14, P = 0.27. On the posttest the writing group beat the control group, t(18) = 5.55, P < 0.01, Cohen's d = 2.48. Controls dropped 12% from pretest to posttest, t(9) = 4.87, P < 0.01, d = 1.14, while writers gained 5%, t(9) = 2.74, P < 0.03, d = 0.58. A further 20 students who skipped the pressure scenario showed no drop and no writing effect. Study 2 ran 47 students in three groups, adding one that wrote about an unrelated, unemotional event. Posttest accuracy differed by group, F(2,44) = 5.56, P < 0.01. The control and unrelated writing groups lost 7%, t(30) = 3.35, P < 0.01, d = 1.17, and the expressive writing group gained 4%, t(15) = 2.09, P = 0.05, d = 0.47. Studies 3 and 4 ran in one school on separate ninth-grade cohorts a year apart, 51 students then 55, all sitting the first biology final of their high-school career. Test anxiety was measured six weeks earlier. Immediately before the exam students opened an envelope telling them either to write about their thoughts on the exam or to think about a topic the exam would not cover. In the control condition, the more test-anxious a student was, the lower the final exam score, combined r(56) = -0.51, P < 0.01. In the writing condition that relationship was absent, combined r(50) = -0.14, P = 0.33, and the two correlations differed, Z = -2.09, P < 0.04. Splitting at the median, higher-test-anxious writers beat higher-test-anxious controls by 6% on the final, t(52) = 2.08, P < 0.05, d = 0.57, while lower-test-anxious students showed no difference, t(50) = 0.09, P = 0.93.",
+  "replication": {
+    "state": "failed",
+    "headline": "Pooling 21 studies and 1,457 participants, single-session expressive writing shifts test performance by r = .09, which falls to a non-significant .06 once one outlier is removed.",
+    "detail": "O'Meara and Lovett published the pooled estimate in 2025. Their search returned 15 documents containing 21 studies, 1,457 participants and 30 effect sizes across anxiety and test performance. Expressive writing moved anxiety by r = -.05, p = .57, and by r = -.10, p = .08 with an extreme outlier removed. It moved test performance by r = .09, p = .02, falling to r = .06, p = .06 with an outlier removed. They report very little evidence of publication bias, substantial heterogeneity across studies, and no moderator with a robust effect. Their stated conclusion is that the available literature fails to support single sessions of expressive writing as a treatment for test anxiety. The Social Sciences Replication Project had already repeated study 1, the laboratory experiment, as one of 21 findings drawn from Nature and Science between 2010 and 2015. The hypothesis it registered was the one this page is about: under high pressure, those who write for ten minutes improve more than those who sit quietly. Its design ran in two stages, with stage 1 powered at 90% to detect 75% of the original effect, and a second collection triggered by a non-significant result and powered at 90% to detect half of it. Stage 1 gave r = -0.075, p = 0.716, on 26 observations from 52 participants. The pooled stage 2 sample of 79 observations from 131 participants gave r = -0.098, p = 0.394, against an original r of 0.793, a relative effect size of -0.124. Thirteen of the project's 21 replications succeeded and this was not among them. The closest classroom test located is Myers, Davis and Chan, who followed 195 undergraduates in a cognitive psychology course at Iowa State University over three semesters, 173 of them entering the analysis. Students alternated between the writing task and a control task before four real course exams. Expressive writing left state test anxiety unchanged, t(172) = 0.06, p = 0.95, d < 0.01, with a Bayes factor of 11.77 favouring the null. Exam scores were 73% after expressive writing and 74% after control writing, t(172) = 0.37, p = 0.72, d = 0.03, Bayes factor 11.04 for the null. Among the more test-anxious half, 87 students, both conditions averaged 72%, t(86) = 0.15, p = 0.89, d = 0.02, Bayes factor 8.36 for the null. The correlation between test anxiety and exam score was the same in both conditions, -0.07 and -0.06, z = -0.13, p = 0.90.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., Kirchler, M., Nave, G., Nosek, B. A., Pfeiffer, T., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "n": 131
+    },
+    "original": {
+      "es": 0.793,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": -0.098,
+      "esType": "r"
+    }
+  },
+  "limits": "The replication above tested study 1 alone. No direct repeat of the two ninth-grade field experiments was found in searches of PubMed, Europe PMC, Crossref and the open web for this check, so the classroom result still rests on the original 51 and 55 students. Nothing on the scale of a national schools trial turned up either, and the meta-analysis pools 1,457 participants in total, which is the size the whole literature reaches. The meta-analysis itself was read from its abstract at PubMed and from the publisher's abstract, because Taylor and Francis blocks automated access to the full text. Which studies it pooled, and which effect supplied the extreme outlier, are not stated here for that reason, and the abstract carries no confidence intervals. The original paper's own effect sizes are not comparable across its four studies: study 1 gives a between-group posttest d of 2.48 on 20 students, the field studies give correlations between test anxiety and exam score. The two figures in the fields above are both correlations, and the original r of 0.793 is the replication project's recalculation of study 1, not a number the Science paper prints. The project also records an imbalance in its own sampling: it targeted 33 per cell across four conditions and ended with 25, 27, 45 and 34, oversampling the high-pressure conditions that carry the focal test.",
+  "misreadings": "The first error is to confuse this with the other expressive writing. In the older and much larger paradigm people write about past events, often distressing ones, across sessions spanning weeks, and the outcomes measured are health and mood. Ramirez and Beilock separate themselves from it explicitly, arguing that one bout is enough when the threatening event is minutes away. Evidence about the multi-session paradigm carries no weight here in either direction, and the same two words cover both. The second error is to state the claim as a general one. Ramirez and Beilock predicted a benefit only for students high in test anxiety and report none for the others, t(50) = 0.09, P = 0.93. A study that pools anxious and calm students is not testing what they claimed, which is why the subgroup analysis matters. Myers, Davis and Chan ran it on their more test-anxious half and found the two conditions identical at 72%. The third error is to treat the replication failure as agreed by all parties. Ramirez and Beilock told the replication team it had failed to create a high-pressure situation, because performance did not differ between the high-pressure and low-pressure conditions, and that the intervention could not be tested without one. The project's authors disagree, and record that the anxiety manipulation checks they preregistered at the original authors' suggestion did succeed. They also record that the original authors, after seeing the results, said they had not approved the replication report. The supplementary information sets out the dispute and points to the original authors' comment and the email correspondence at the project's Open Science Framework pages. A fourth error is the grade. The 6% in studies 3 and 4 is a gap between the mean final exam scores of higher-test-anxious students in the two conditions, which the authors describe as a B+ on a standard grading scale against a B minus. It is not an improvement each student made on their own earlier work.",
+  "sources": [
+    {
+      "text": "Ramirez, G., & Beilock, S. L. (2011). Writing about testing worries boosts exam performance in the classroom. Science, 331(6014), 211-213.",
+      "doi": "10.1126/science.1199427",
+      "url": "https://doi.org/10.1126/science.1199427",
+      "type": "primary"
+    },
+    {
+      "text": "O'Meara, P., & Lovett, B. J. (2026). Single-session expressive writing interventions for test anxiety: a meta-analysis. Anxiety, Stress, & Coping, 39(1), 21-34. Published online 19 September 2025. Read here from the abstract at PubMed, PMID 40968670, because the publisher blocks automated access to the full text.",
+      "doi": "10.1080/10615806.2025.2552857",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40968670/",
+      "type": "secondary"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., Kirchler, M., Nave, G., Nosek, B. A., Pfeiffer, T., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Supplementary information to Camerer et al. (2018), which carries the per-study replication tables, the sampling notes and the exchange with the original authors. Supplementary Tables 3 and 4 hold the stage 1 and stage 2 figures quoted above.",
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41562-018-0399-z/MediaObjects/41562_2018_399_MOESM1_ESM.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Myers, S. J., Davis, S. D., & Chan, J. C. K. (2021). Does expressive writing or an instructional intervention reduce the impacts of test anxiety in a college classroom? Cognitive Research: Principles and Implications, 6, article 44.",
+      "doi": "10.1186/s41235-021-00309-x",
+      "url": "https://doi.org/10.1186/s41235-021-00309-x",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
