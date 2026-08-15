@@ -1,0 +1,105 @@
+{
+  "no": 417,
+  "slug": "argument-from-authority",
+  "name": "Argument from authority",
+  "aliases": ["Argumentum ad verecundiam", "Appeal to authority", "Appeal to expert opinion", "Ad verecundiam"],
+  "category": "belief",
+  "statement": "Citing an expert is a weak argument or a strong one depending on the expert's field, honesty and agreement with other experts, and people's ratings move with all three.",
+  "meaning": "This is a form of argument rather than a mental slip. Its premise is that a qualified person asserts something; its conclusion is that the thing is probably true. Textbook lists file it under the fallacies as argumentum ad verecundiam. Argumentation theory files it instead as a defeasible inference, legitimate in itself, whose strength varies with the case. Two neighbouring entries in this atlas take the parts this one leaves out. Authority bias covers behavioural compliance with an instruction and states that it does not cover the argument form. Source bias covers how naming a communicator changes the persuasive force of a message. What is left here is the narrower question of whether deferring to an expert is good reasoning, and what people actually do when an expert is cited at them.",
+  "origin": {
+    "year": 1690,
+    "who": "John Locke",
+    "where": "An Essay Concerning Human Understanding",
+    "note": "Book IV, chapter XVII, section 19 lists four sorts of argument that men use 'to prevail on their assent; or at least so to awe them as to silence their opposition'. The first is to allege the opinions of men whose 'parts, learning, eminency, power, or some other cause' has gained them a reputation, and Locke named it argumentum ad verecundiam. He did not call it a fallacy, and reserved that judgement for the contrast case, argumentum ad judicium. Read in the Project Gutenberg transcription, which states it follows the second edition. Hansen's Stanford Encyclopedia survey reads Locke's vocabulary of eminency, dignity and breach of modesty as pointing at social standing rather than at expertise, and translates the name literally as appeal to modesty."
+  },
+  "evidence": "Walton's scheme treats the appeal to expert opinion as a presumptive argument, and sets six questions that decide how strong a given instance is. They ask how credible the source is as an expert, whether the field fits the issue, what the source asserted, whether the source is personally reliable, whether other experts agree, and whether the assertion rests on evidence. Harris, Hahn, Madsen and Hsu built that scheme into a Bayesian network and tested its predictions. Participants read dialogues about fictional drugs. The cited expert was either a doctor or a musician, and either a friend or an enemy of the man citing him, with other experts said to agree, to disagree, or not mentioned. Experiment 1 ran on 84 online volunteers aged 18 to 80. Convincingness moved with every factor: expertise, F(1, 81) = 34.38, p < .001, partial eta squared .298; trustworthiness, F(1, 81) = 11.14, p = .001, .121; and other experts' opinions, F(2, 81) = 32.53, p < .001, .45. Trustworthiness stopped mattering when other experts disagreed, F(2, 81) = 3.27, p = .043. The network was fed participants' own ratings of expertise and trust, with one free parameter per level of the others-opinion variable. It accounted for 89% of variance across conditions, and 89% across all 36 condition means, r(34) = .94, p < .001. Experiment 2 removed the free parameters by eliciting prior belief as well. On 57 further participants the model took 94% of the variance in convincingness across conditions and 90% across the 36 means, r(34) = .95, with nothing fitted. Individual-level fit was far worse in both experiments, 38% of variance, and the correlation reached significance for 55 of the 84 people in Experiment 1. Hahn, Harris and Corner had earlier shown that people combine the source with the content instead of substituting one for the other. Ninety-seven sixth-form students in South Wales rated arguments from the absence of evidence attributed either to the journal Science or to a circular email. Ratings rose with the source, F(1, 384) = 247.72, p < .001, rose with the evidence, F(1, 384) = 101.71, p < .001, and the two interacted, F(1, 384) = 7.91, p < .01. A second experiment on 120 Cardiff undergraduates found the same pattern and one boundary. Where the evidence was strong, a consumer watchdog and a spam email shifted belief by amounts that did not differ, F(1, 114) = 1.87, p > .05. Whether people defer too readily is answered in the opposite direction by the advice-taking literature. Bailey, Leon, Ebner, Moustafa and Weidemann pooled 346 effect sizes from 129 datasets covering 17,296 people in the judge-advisor paradigm. Somebody estimates a quantity, sees an adviser's estimate, then revises. Simple averaging is close to optimal, which puts the benchmark near 50%. The pooled weight of advice was 39%, 95% CI 37 to 42, t(345) = 31.57, p < .001. How the adviser was described was the only unique predictor: 32% where the description suggested poor advice, 37% where it said nothing, and 48% where the adviser was cast as expert or accurate. The applied case with the most data is climate consensus messaging, the appeal to expert agreement run at scale. Van der Linden, Leiserowitz, Feinberg and Maibach pooled eleven message treatments against a control in a US quota sample of 1,104. Treatment raised the estimated level of scientific agreement by 12.8 percentage points, SE 2.13, 95% bias-corrected bootstrap interval 8.60 to 17.0. The effect on support for public action ran entirely through the intervening beliefs.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Telling people that experts agree reliably changes what they think experts believe, and moves their own beliefs by a little. Pooled over 43 experiments the effect on perceived consensus is g = 0.55 and on personal belief g = 0.12, but among the eight preregistered experiments the belief effect was g = 0.08, 95% CI -0.02 to 0.18, p = .088.",
+    "detail": "The Bayesian result replicated inside its own paper. Harris and colleagues' Experiment 2 fitted no parameters at all and still recovered 94% of the variance in convincingness across conditions, against 89% in Experiment 1 with three free parameters. Expertise and trustworthiness both stayed reliable, F(1, 54) = 6.42, p = .014, and F(1, 54) = 20.94, p < .001. The consensus-messaging literature is where the disagreement sits. Van der Linden, Leiserowitz and Maibach ran a confirmatory replication on a US quota sample of 6,301, split 3,150 and 3,151. Perceived consensus rose 16.81 points, d = 0.88, 95% CI 0.83 to 0.93. Downstream effects were small and all positive. Belief that global warming is happening gave d = 0.14, CI 0.09 to 0.19, and human causation d = 0.23, CI 0.18 to 0.28. Worry gave d = 0.11, CI 0.06 to 0.16, and support for public action d = 0.09, CI 0.04 to 0.14. Kerr and Wilson tested the same idea on 696 New Zealand psychology students and got a split result. A 97% message raised mean estimated agreement among climate scientists from about 79% to 92%, t(141) = 8.74, d = .92, and a 63% message lowered it to about 67%, t(150) = 8.44, d = .92. Belief in climate change did not differ across conditions, F(2, 412) = 0.26, p > .1, while the indirect path through perceived consensus was reliable, ab = .16, 95% CI .05 to .27. For genetically modified food the message moved belief directly, t(251) = -2.31, p = .02, and indirectly, ab = 0.39, CI 0.18 to 0.62. Van Stekelenburg, Schaap, Veling, van 't Riet and Buijzen ran a preregistered meta-analysis of 43 experiments on climate change, genetically modified food and vaccination. Perceived consensus gave g = 0.55, 95% CI 0.42 to 0.68, k = 37, N = 32,398, with heterogeneity high enough, I-squared 95.2%, that the 95% prediction interval runs from -0.22 to 1.32. Belief in the underlying facts gave g = 0.12, 95% CI 0.09 to 0.15, k = 40, N = 33,985, I-squared 19.9%, prediction interval 0.04 to 0.20. Splitting by preregistration is what makes the verdict mixed rather than positive. The 29 non-preregistered experiments gave g = 0.60 on perceived consensus and 0.13 on belief; the eight preregistered ones gave 0.36, CI 0.09 to 0.64, and for belief 0.08, CI -0.02 to 0.18, p = .088 across seven experiments. Conservatism moderated neither outcome, p = .870 and p = .943. Većkalov, Geiger and 44 co-authors then ran a preregistered 27-country test on 10,527 people from online convenience samples. The classic 97% message cut misperceptions of the consensus by d = 0.47, 95% CI 0.41 to 0.52. It raised belief in human causation by d = 0.10, CI 0.04 to 0.15, and belief in the reality of climate change by d = 0.06. Worry moved by d = 0.05, CI -0.01 to 0.10, Bayes factor 5.03. Support for public action did not move, d = 0.02, CI -0.03 to 0.08, with a Bayes factor of 0.62 counting weakly against any effect. The message worked better, not worse, on right-leaning participants and on those who trusted climate scientists least, both groups starting from larger misperceptions.",
+    "study": {
+      "cite": "Većkalov, B., Geiger, S. J., Bartoš, F., et al. (2024). A 27-country test of communicating the scientific consensus on climate change. Nature Human Behaviour, 8(10), 1892-1905. Preregistered; n = 10,527 across 27 countries.",
+      "doi": "10.1038/s41562-024-01928-2",
+      "year": 2024,
+      "n": 10527,
+      "sites": 27
+    },
+    "original": { "es": 0.23, "esType": "d", "ci": [0.18, 0.28], "ciLevel": 95 },
+    "replicated": { "es": 0.10, "esType": "d", "ci": [0.04, 0.15], "ciLevel": 95 }
+  },
+  "limits": "The two effect sizes in the structured fields are both for belief that climate change is human-caused, under a 97% consensus message against a control. The figure labelled original comes from van der Linden, Leiserowitz and Maibach's 2019 study, which is itself billed as a replication. The 2015 paper that named the gateway belief model reports unstandardised path coefficients and no effect size, so nothing here is a comparison against the 2015 result. The 27-country paper's own numbers disagree by one digit on one outcome. Its abstract gives belief in the reality of climate change as d = 0.06, 95% CI 0.01 to 0.11, and its results section gives the same d with 0.01 to 0.12. That outcome is quoted on this page without an interval for that reason. Three documents were not obtained. Kerr and Wilson's cross-lagged panel paper, the one arguing that perceived consensus does not predict later climate beliefs, is paywalled at Elsevier, as is van der Linden, Leiserowitz and Maibach's published reply to it in the following volume. Both DOIs resolve to the right papers and both are cited below, and no figure from either appears anywhere on this page. Walton's 1997 book is likewise not obtained; his scheme, his six critical questions and his definition of when the appeal becomes a fallacy are quoted here as Harris and colleagues report them, quoting his pages. Searches for those three ran over Crossref, Europe PMC, PubMed, OpenAlex, the Cambridge and Radboud institutional repositories, OSF, PLOS, PMC and general web search. The advice-taking figures are a different paradigm and do not transfer without argument. A judge-advisor task gives a numerical estimate and an adviser's estimate, with no argument attached, and the 50% benchmark holds for averaging two estimates of comparable quality rather than for deferring to a genuine expert. The Bayesian experiments used fictional drugs and a musician as the low-expertise source, which is a wider gap between conditions than most real disputes offer. All the consensus-messaging effects are from single exposures measured minutes later.",
+  "misreadings": "The commonest error is treating every appeal to an expert as the fallacy. Walton reserves the label for the case where the appeal is used to shut down questioning, so that the opponent cannot ask the six questions at all, and he treats weak-but-honest appeals as weak arguments rather than fallacies. Hansen's survey puts the fallacy at accepting the word of someone who is no authority at all, or no authority in the relevant field, or is one of a divided set. On both accounts most citations of expertise are outside the fallacy. A second error runs the other way, reading the modern literature as licensing deference. Harris and colleagues' participants were sensitive to expertise, honesty and expert disagreement at once, and the trustworthiness of the cited expert stopped mattering entirely once other experts were said to disagree with him. Locke is misread as the man who called the appeal to authority a fallacy. He listed it as one of four ways of pressing an opponent, never used the word fallacy of it, and the wording he chose points at social eminence rather than at knowing more. Consensus messaging is quoted as though one finding covered it. What replicates strongly is the correction of a factual misperception about what scientists think, g = 0.55 pooled and d = 0.47 across 27 countries. What follows is much smaller, g = 0.12 for personal belief, and in the 27-country test support for public action did not move at all. The claim that consensus messages backfire on conservatives is not what the pooled data show. Conservatism moderated neither outcome in the meta-analysis, and both the 6,301-person US replication and the 27-country test found larger updating on the political right, which both papers attribute to those participants starting further from the mark.",
+  "sources": [
+    {
+      "text": "Harris, A. J. L., Hahn, U., Madsen, J. K., & Hsu, A. S. (2016). The Appeal to Expert Opinion: Quantitative Support for a Bayesian Network Approach. Cognitive Science, 40(6), 1496-1533. Read as the author manuscript in UCL Discovery; all statistics re-extracted from the PDF text. Also the source for Walton's six critical questions and for his account of when the appeal becomes the ad verecundiam fallacy.",
+      "doi": "10.1111/cogs.12276",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/1468674/1/Harris_Hahn_Madsen_Hsu_2015.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hahn, U., Harris, A. J. L., & Corner, A. (2009). Argument Content and Argument Source: An Exploration. Informal Logic, 29(4), 337. Read as the journal PDF.",
+      "doi": "10.22329/il.v29i4.2903",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2903",
+      "type": "primary"
+    },
+    {
+      "text": "Bailey, P. E., Leon, T., Ebner, N. C., Moustafa, A. A., & Weidemann, G. (2023). A meta-analysis of the weight of advice in decision-making. Current Psychology, 42(28), 24516-24541. Read as the PubMed Central full text.",
+      "doi": "10.1007/s12144-022-03573-2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11661855/",
+      "type": "primary"
+    },
+    {
+      "text": "van der Linden, S. L., Leiserowitz, A. A., Feinberg, G. D., & Maibach, E. W. (2015). The Scientific Consensus on Climate Change as a Gateway Belief: Experimental Evidence. PLOS ONE, 10(2), e0118489. Read as the article XML.",
+      "doi": "10.1371/journal.pone.0118489",
+      "url": "https://doi.org/10.1371/journal.pone.0118489",
+      "type": "primary"
+    },
+    {
+      "text": "van der Linden, S., Leiserowitz, A., & Maibach, E. (2019). The gateway belief model: A large-scale replication. Journal of Environmental Psychology, 62, 49-58. Read as the accepted manuscript in the Cambridge repository; Table 1 supplies every effect size quoted.",
+      "doi": "10.1016/j.jenvp.2019.01.009",
+      "url": "https://www.repository.cam.ac.uk/bitstream/1810/289506/1/GBM_accepted.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Kerr, J. R., & Wilson, M. S. (2018). Changes in perceived scientific consensus shift beliefs about climate change and GM food safety. PLOS ONE, 13(7), e0200295. Read as the article XML.",
+      "doi": "10.1371/journal.pone.0200295",
+      "url": "https://doi.org/10.1371/journal.pone.0200295",
+      "type": "primary"
+    },
+    {
+      "text": "van Stekelenburg, A., Schaap, G., Veling, H., van 't Riet, J., & Buijzen, M. (2022). Scientific-Consensus Communication About Contested Science: A Preregistered Meta-Analysis. Psychological Science, 33(12), 1989-2008. Read as the typeset article deposited at OSF; the pooled figures were also checked against the abstract at Europe PMC.",
+      "doi": "10.1177/09567976221083219",
+      "url": "https://osf.io/download/g3yhp/",
+      "type": "primary"
+    },
+    {
+      "text": "Većkalov, B., Geiger, S. J., Bartoš, F., et al. (2024). A 27-country test of communicating the scientific consensus on climate change. Nature Human Behaviour, 8(10), 1892-1905. Read as the PubMed Central full text.",
+      "doi": "10.1038/s41562-024-01928-2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11493676/",
+      "type": "primary"
+    },
+    {
+      "text": "Kerr, J. R., & Wilson, M. S. (2018). Perceptions of scientific consensus do not predict later beliefs about the reality of climate change: A test of the gateway belief model using cross-lagged panel analysis. Journal of Environmental Psychology, 59, 107-110. Paywalled and not obtained; no figure from it appears on this page.",
+      "doi": "10.1016/j.jenvp.2018.08.012",
+      "url": "https://doi.org/10.1016/j.jenvp.2018.08.012",
+      "type": "primary"
+    },
+    {
+      "text": "van der Linden, S., Leiserowitz, A., & Maibach, E. (2018). Perceptions of scientific consensus predict later beliefs about the reality of climate change using cross-lagged panel analysis: A response to Kerr and Wilson (2018). Journal of Environmental Psychology, 60, 110-111. Paywalled and not obtained; cited to record that the dispute has two published sides.",
+      "doi": "10.1016/j.jenvp.2018.10.002",
+      "url": "https://doi.org/10.1016/j.jenvp.2018.10.002",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Source for the textbook statement of the ad verecundiam fallacy, for Locke's not calling his ad-arguments fallacies, and for the reading of ad verecundiam as an appeal to modesty.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Locke, J. An Essay Concerning Humane Understanding, Volume 2, Book IV, Chapter XVII, sections 19-22. Project Gutenberg transcription, stated to follow the second edition. The naming of argumentum ad verecundiam was read here.",
+      "url": "https://www.gutenberg.org/cache/epub/10616/pg10616.txt",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
