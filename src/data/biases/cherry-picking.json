@@ -1,0 +1,116 @@
+{
+  "no": 418,
+  "slug": "cherry-picking",
+  "name": "Cherry picking",
+  "aliases": ["Cherry-picking", "Cherry picking (fallacy)", "Suppressed evidence", "Fallacy of incomplete evidence", "Selectivity"],
+  "category": "belief",
+  "statement": "Cherry picking is showing the part of the evidence that suits an argument, chosen by someone who has seen the rest, so that every statement is true and the impression is false.",
+  "meaning": "The peer-reviewed definition this entry works from is the one Zanartu, Cook, Wagner and García print in their table of climate misinformation fallacies: \"Selecting data that appear to confirm one position while ignoring other data that contradicts that position\". Two features separate it from its neighbours in this collection. It is an act rather than a property, performed by a speaker on an audience, and it needs no false sentence. Selection bias, entry 82, is a fact about how a dataset came to exist, and Heckman's 1979 treatment covers self selection by the people studied as well as choices by analysts. Survivorship bias, entry 8, names one filter. Confirmation bias, entry 5, is about what a person seeks and remembers for themselves. The Texas sharpshooter fallacy, entry 52, draws the hypothesis around the data after the fact rather than trimming the data. Cherry picking sits closest to the last of those, and differs in what is hidden: the arguer keeps the target and discards the shots. The same team distinguishes it from slothful induction, which reaches a conclusion while citing no evidence, on the ground that cherry picking works by commission, \"citing a narrow piece of evidence that conflicts with the full body of evidence\". The name also carries a second sense, the selective reporting of results inside a research paper, and this page does not cover it. That sense is a research malpractice rather than a judgement error, which is the boundary `docs/BUILD-ORDER.md` draws when it excludes data dredging and p-hacking from this corpus. It is measured, and the measurements are given below under their own name.",
+  "origin": {
+    "year": 1965,
+    "who": "Merriam-Webster",
+    "where": "Merriam-Webster.com Dictionary",
+    "note": "The dictionary dates the verb to 1965 and defines it only as selecting the best or most desirable, with no argumentative sense attached. No founding paper for the fallacy was located. The nearest scholarly anchor found here is the FLICC taxonomy of denial techniques, in which cherry picking is the C. Zanartu and colleagues trace that taxonomy to Diethelm and McKee's 2009 account of denialism in the European Journal of Public Health. That paper is behind a paywall at Oxford Academic and was not obtained, so its wording and its list of characteristics are not quoted on this page."
+  },
+  "evidence": "Nothing has been run on cherry picking under that name. What exists is a set of measurements around it, and the closest is paltering, defined by Todd Rogers, Richard Zeckhauser, Francesca Gino, Michael Norton and Maurice Schweitzer as \"the active use of truthful statements to convey a misleading impression\". That is the same mechanism in speech rather than in data, and their paper is about negotiation, not about presenting evidence. All 184 executives on an advanced negotiation course at Harvard Business School answered their second pilot study. Of those, 52% said they paltered in some or most of their negotiations, against 57% for lying by omission and 21% for lying by commission. Their Study 2 paired 80 students with confederates in a face-to-face property negotiation. Sellers facing a palterer accepted $46.46 million against $53.64 million from sellers told the truth, Cohen's d = 1.41, which was not distinguishable from the $45.23 million accepted by sellers who were lied to outright. Beliefs moved as far as the lie moved them: 8% of the palter group thought the buyer meant to develop the site commercially, against 92% of the truth group and 3% of the lie group. Before the deception was revealed the targets did not notice. Trust in the counterpart was 5.05 in the palter condition and 4.67 in the truth condition, a difference in the wrong direction and not significant, p = .23. After full disclosure the palterers were rated as dishonest as the liars, 2.98 against 5.99 for truth-tellers on the same measure and not significantly different from the 2.32 of the liars, p = .12. The question of whether one-sided presentation persuades has a meta-analysis. Daniel O'Keefe pooled 107 persuasion effect sizes from 20,111 respondents comparing messages that argue only one side with messages that also raise the opposing arguments. The mean effect was r = −.001, no dependable difference either way. What moved was the form of the two-sided message. Refutational versions, which raise the other side and answer it, beat one-sided messages at mean r = .077, while nonrefutational versions, which mention the other side and leave it standing, did worse than one-sided messages at mean r = −.049. Credibility behaved differently from persuasion. Across 56 effect sizes and 6,937 respondents the two-sided message enjoyed a mean advantage of r = .091 in perceived credibility. Audiences penalise one-sidedness when asked how much they trust the source and not when their opinion is measured. Ginger Zhe Jin, Michael Luca and Daniel Martin tested the related case of what an audience infers from silence. In their sender-receiver game, \"senders disclose favorable information, but withhold unfavorable information\", and receivers' \"actions and beliefs suggest that many are insufficiently skeptical about nondisclosed information in the absence of repeated feedback\". Counts in real reporting exist for citation and for news. Bram Duyx and colleagues meta-analysed 52 studies of citation bias. Articles with statistically significant results were cited 1.6 times as often as articles without, 95% CI 1.3 to 1.8. Articles whose authors said the hypothesis was supported were cited 2.7 times as often, 95% CI 2.0 to 3.7. Estelle Dumas-Mallet, Andy Smith, Thomas Boraud and François Gonon matched 4,723 primary studies from 306 meta-analyses against newspaper coverage in Factiva. Newspapers ran 234 articles on 35 initial findings that meta-analysis later disconfirmed. Four articles reported a later null result and said an earlier claim had been refuted. Of the 156 studies the papers covered, 48.7% were confirmed by the corresponding meta-analysis. Ruby Flack and colleagues applied a deconstruction method to a taxonomy of contrarian climate claims. They report cherry picking as one of the three commonest fallacies, with slothful induction and oversimplification. The research-misconduct sense has the sharpest numbers. An-Wen Chan, Asbjørn Hróbjartsson, Mette Haahr, Peter Gøtzsche and Douglas Altman compared the protocols of 102 randomised trials with their 122 published articles, covering 3,736 outcomes. Half of efficacy outcomes and 65% of harm outcomes per trial were incompletely reported. Statistically significant outcomes had 2.4 times the odds of being fully reported for efficacy, 95% CI 1.4 to 4.0, and 4.7 times for harm, 95% CI 1.8 to 12.0. In 62% of trials a primary outcome had been changed, added or dropped. Asked about it, 42 of 49 trialists who responded denied that any outcome had gone unreported.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication attempt was found, because no experiment establishes cherry picking as an effect; the numbers on this page come from meta-analyses and from counts of published material.",
+    "detail": "Searches of Crossref, PubMed, Europe PMC and the open web in August 2026 for an experiment on cherry picking as a named fallacy returned nothing. A search for replications of the paltering studies returned one Stanford course pre-registration of Study 3, posted in October 2019 with empty results and discussion sections, and no published attempt. The two meta-analyses on this page are pooled measurements rather than repetitions. O'Keefe's covers a question Mike Allen had meta-analysed before him, in 1991. O'Keefe reports that Allen's two reviews rest on 26 and 70 primary studies, against his own 107 effect sizes, so the later analysis supersedes rather than replicates. Stephan Lewandowsky, Timothy Ballard, Klaus Oberauer and Rasmus Benestad ran the nearest thing to a test of the move itself. They gave expert economists and statisticians contrarian claims about climate variables, such as the claim that Arctic ice is recovering, translated into an economic or demographic setting so the judges could not tell what they were looking at. Their abstract reports that the contrarian readings were found to be misleading while mainstream readings of the same data were judged accurate. The full text sits behind a paywall and only the abstract on the University of Bristol research record was read, so no figure from that study is quoted here."
+  },
+  "limits": "The label makes a claim about a person that the measurements cannot make. Cherry picking says the arguer had seen the rest of the evidence and chose, and a citation count, a news count or a protocol comparison shows a pattern in the output. Chan and colleagues come closest to catching intent, and what they have is that 42 of 49 respondents denied the omissions. Each measurement is also narrower than the idea. Paltering is spoken deception in a negotiation over one number, not the presentation of a dataset. The disclosure game gives the sender one number to reveal or withhold, so it models silence rather than a chosen subset. Message sidedness is about whether opposing arguments are mentioned, which is a coarser thing than which data are shown. The citation-bias figures describe a literature rather than any one author, and the same mechanism drives the woozle effect, entry 89, where the counts of Greenberg's citation network are set out. Two sources on this page were not read in full. Flack and colleagues' paper returned HTTP 403 at Taylor and Francis and its abstract was read at OpenAlex, which is an index rather than the document. Lewandowsky and colleagues' paper was read only as the abstract on an institutional record. The scientific-misconduct sense is measured, well, and elsewhere, and this corpus excludes it by design rather than for want of evidence.",
+  "misreadings": "The commonest error is treating cherry picking and selection bias as the same thing. Selection bias is a property of a sample, it is often nobody's doing, and it distorts an estimate whether or not anyone is arguing. Cherry picking is a move in an argument, it requires an audience, and it survives a perfectly clean dataset because the distortion is in what was shown rather than in what was collected. A researcher who never sees the missing cases has a selection problem; an arguer who sees them and leaves them out has done something else. The second error is reading the credibility penalty as protection. Audiences do rate a source that ignores the other side as less credible, at mean r = .091 in O'Keefe's pooling, and that rating buys them nothing: the same review finds no dependable persuasion difference across 107 effect sizes. Worse for the intuition that balance is safer, a message that raises the opposing argument without answering it did worse than the one-sided version. The third error is citing the eLife paper on active information sampling as a test of this fallacy. Paula Kaanders, Pradyumna Sepulveda, Tomas Folke, Pietro Ortoleva and Benedetto De Martino found that people sample more evidence from an option they have already chosen, which is confirmation bias in the gathering rather than selection in the telling. The preprint was titled \"Cherry-picking information\" and the published paper is not, which is a fair summary of how far the label travels in the experimental literature. The fourth error is assuming the word always means the fallacy. In clinical trials it names selective recruitment of patients, in health economics the selection of profitable customers, and in phylogenetics an algorithm. Those are different objects that share a verb."
+  ,
+  "sources": [
+    {
+      "text": "Rogers, T., Zeckhauser, R., Gino, F., Norton, M. I., & Schweitzer, M. E. (2017). Artful paltering: The risks and rewards of using truthful statements to mislead others. Journal of Personality and Social Psychology, 112(3), 456-473. Full text read from the copy posted at Harvard Business School; all figures taken from the pilot studies and Study 2.",
+      "doi": "10.1037/pspi0000081",
+      "url": "https://www.hbs.edu/ris/Publication%20Files/rogers%20zeckhauser%20gino%20norton%20schweitzer_33bcc35b-1eeb-45d4-ba24-908c660172c9.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "O'Keefe, D. J. (1999). How to Handle Opposing Arguments in Persuasive Messages: A Meta-Analytic Review of the Effects of One-Sided and Two-Sided Messages. Annals of the International Communication Association, 22(1), 209-249. Scanned copy read from the author's own site; the persuasion and credibility figures were read twice from the page images.",
+      "doi": "10.1080/23808985.1999.11678963",
+      "url": "https://dokeefe.net/pub/okeefe99cy.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Allen, M. (1991). Meta-analysis comparing the persuasiveness of one-sided and two-sided messages. Western Journal of Speech Communication, 55(4), 390-404. Cited here only for its existence and date; the publisher's page returned HTTP 403 and the paper was not obtained. Its size is quoted as O'Keefe describes it.",
+      "doi": "10.1080/10570319109374395",
+      "type": "secondary"
+    },
+    {
+      "text": "Jin, G. Z., Luca, M., & Martin, D. (2021). Is No News (Perceived As) Bad News? An Experimental Investigation of Information Disclosure. American Economic Journal: Microeconomics, 13(2), 141-173. Abstract read at the American Economic Association; the quotations come from it. An earlier Harvard Business School working paper carries different wording and its figures are not used here.",
+      "doi": "10.1257/mic.20180217",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/mic.20180217",
+      "type": "primary"
+    },
+    {
+      "text": "Duyx, B., Urlings, M. J. E., Swaen, G. M. H., Bouter, L. M., & Zeegers, M. P. (2017). Scientific citations favor positive results: a systematic review and meta-analysis. Journal of Clinical Epidemiology, 88, 92-101. Abstract read at Europe PMC; the publisher's full text was not obtained. See entry 89 for the citation-network work this figure sits alongside.",
+      "doi": "10.1016/j.jclinepi.2017.06.002",
+      "url": "https://europepmc.org/article/MED/28603008",
+      "type": "primary"
+    },
+    {
+      "text": "Dumas-Mallet, E., Smith, A., Boraud, T., & Gonon, F. (2017). Poor replication validity of biomedical association studies reported by newspapers. PLOS ONE, 12(2), e0172650. Full text read at the publisher.",
+      "doi": "10.1371/journal.pone.0172650",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172650",
+      "type": "primary"
+    },
+    {
+      "text": "Chan, A.-W., Hróbjartsson, A., Haahr, M. T., Gøtzsche, P. C., & Altman, D. G. (2004). Empirical Evidence for Selective Reporting of Outcomes in Randomized Trials. JAMA, 291(20), 2457-2465. Abstract read at Europe PMC; full text not obtained. Cited for the research-reporting sense, which this page does not otherwise cover.",
+      "doi": "10.1001/jama.291.20.2457",
+      "url": "https://europepmc.org/article/MED/15161896",
+      "type": "primary"
+    },
+    {
+      "text": "Zanartu, F., Cook, J., Wagner, M., & García, J. (2024). A technocognitive approach to detecting fallacies in climate misinformation. Scientific Reports, 14, 27647. Full text read from the JATS XML at Europe PMC. Source of the definition quoted above, of the commission and omission contrast with slothful induction, and of the FLICC framework's attribution.",
+      "doi": "10.1038/s41598-024-76139-w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11557567/",
+      "type": "primary"
+    },
+    {
+      "text": "Flack, R., Cook, J., Ellerton, P., Kinkead, D., Coan, T., Boussalis, C., Nanko, M. O., Gallant, A., & Dargaville, R. (2026). Identifying Flawed Reasoning in Contrarian Claims about Climate Change. Environmental Communication, 1-22. The publisher's page returned HTTP 403 and the abstract was read at OpenAlex, which is an index. The claim about which fallacies were commonest is quoted from that abstract and no count is given here.",
+      "doi": "10.1080/17524032.2026.2663476",
+      "type": "secondary"
+    },
+    {
+      "text": "Lewandowsky, S., Ballard, T., Oberauer, K., & Benestad, R. (2016). A blind expert test of contrarian claims about climate data. Global Environmental Change, 39, 91-97. Abstract read on the University of Bristol research record; the deposited full text sits behind a Cloudflare challenge and was not obtained.",
+      "doi": "10.1016/j.gloenvcha.2016.04.013",
+      "url": "https://research-information.bris.ac.uk/en/publications/a-blind-expert-test-of-contrarian-claims-about-climate-data/",
+      "type": "primary"
+    },
+    {
+      "text": "Kaanders, P., Sepulveda, P., Folke, T., Ortoleva, P., & De Martino, B. (2022). Humans actively sample evidence to support prior beliefs. eLife, 11, e71768. Abstract read at Europe PMC.",
+      "doi": "10.7554/eLife.71768",
+      "url": "https://europepmc.org/article/MED/35404233",
+      "type": "primary"
+    },
+    {
+      "text": "Kaanders, P., Sepulveda, P., Folke, T., Ortoleva, P., & De Martino, B. (2021). Cherry-picking information: humans actively sample evidence to support prior beliefs. bioRxiv. Cited for its title, which the published version drops. Record confirmed at Crossref, posted 30 June 2021.",
+      "doi": "10.1101/2021.06.29.450332",
+      "type": "secondary"
+    },
+    {
+      "text": "Merriam-Webster. cherry-pick. Merriam-Webster.com Dictionary. Read 15 August 2026. Gives 1965 as the first known use, in the intransitive sense of selecting the best or most desirable.",
+      "url": "https://www.merriam-webster.com/dictionary/cherry-pick",
+      "type": "secondary"
+    },
+    {
+      "text": "Diethelm, P., & McKee, M. (2009). Denialism: what is it and how should scientists respond? The European Journal of Public Health, 19(1), 2-4. Named here as the source Zanartu and colleagues give for the five techniques of science denial. Oxford Academic returned HTTP 403 and the paper was not obtained, so nothing is quoted from it.",
+      "doi": "10.1093/eurpub/ckn139",
+      "type": "secondary"
+    },
+    {
+      "text": "Heckman, J. J. (1979). Sample Selection Bias as a Specification Error. Econometrica, 47(1), 153-161. Cited here only to fix what selection bias covers; see entry 82 for its own sources.",
+      "doi": "10.2307/1912352",
+      "type": "secondary"
+    },
+    {
+      "text": "Good, K. (2019). Replication of Study 3 in Artful Paltering by Rogers et al. (2017). Stanford University course project, posted 5 October 2019. Read in full: the results and discussion sections are empty templates and no replication was completed.",
+      "url": "https://rstudio-pubs-static.s3.amazonaws.com/536039_390716b4a572452d8eaf7697c0a36406.html",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

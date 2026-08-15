@@ -1,0 +1,77 @@
+{
+  "no": 427,
+  "slug": "trolley-problem",
+  "name": "Trolley problem",
+  "aliases": ["Principle of double effect", "Doctrine of double effect", "Footbridge dilemma", "Switch and footbridge cases"],
+  "category": "social",
+  "statement": "People judge harm caused as a means to a good end more harshly than the same harm caused as a foreseen side effect.",
+  "meaning": "The doctrine of double effect is a rule from moral philosophy: harm may be permissible as a foreseen side effect of a good outcome even when the same harm would be forbidden as the means to it. The psychological claim is narrower and testable. Ordinary people, with no training in ethics and no ability to state the rule, judge two otherwise matched cases differently in exactly the way the rule predicts. The standard demonstration pairs a switch case, where a runaway train is redirected onto one person instead of five, with a footbridge case, where a man is pushed onto the tracks to stop the train. A second and stricter pair, known as Ned and Oscar, holds the act, the numbers and the physical contact constant and varies only whether the one man's body is needed to stop the train.",
+  "origin": {
+    "year": 1967,
+    "who": "Philippa Foot",
+    "where": "Oxford Review",
+    "note": "Foot's essay on abortion introduced the runaway tram case as an argument about the doctrine of double effect, not as a stimulus. Judith Jarvis Thomson's 1976 paper in The Monist carries the trolley problem in its title, and her 1985 paper in the Yale Law Journal bears it alone. The 1967 essay has no DOI; the source listed here is its reprint in Virtues and Vices, and its journal details are as cited by Hauser and colleagues and by Bauman and colleagues."
+  },
+  "evidence": "Hauser, Cushman, Young, Jin and Mikhail put four scenarios on the Moral Sense Test website between September 2003 and January 2004, drawing some 5,000 respondents from 120 countries with a strong bias toward English-speaking nationalities. Analyses used first-trial responses only, so the comparisons are between subjects. In the first pair, Denise turning the train was judged permissible by 89% and Frank shoving the man by 11%, N = 2,646, w = 0.78. In the second pair, which varies only whether the harm is the means, Ned throwing the switch was judged permissible by 56% and Oscar by 72%, N = 2,612, w = 0.17. The split held in every subpopulation with the power to detect it: 33 subsets defined by nationality, ethnicity, religion, education, age, gender and exposure to moral philosophy for the first pair, and 11 for the second. Justifications were then coded. Of 597 subjects who judged the first pair differently, 267 were discounted for blank or embellished answers, and of those left 70% gave a justification that identified no factual difference between the cases.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Many Labs 2 repeated both dilemma pairs and both held, at d = 1.35 and d = 0.25 against originals of 2.50 and 0.34.",
+    "detail": "Many Labs 2 ran 125 samples and 15,305 participants across 36 countries and territories, splitting the work into two slates of effects. The switch and footbridge pair ran on Slate 1, which 64 samples completed. In an aggregate sample of 6,842, 71% judged the side-effect case permissible against 17% for the means case. That gives d = 1.35, 95% interval 1.28 to 1.41, against an original of 2.50, interval 2.22 to 2.86. The Ned and Oscar pair ran on Slate 2, which 61 samples completed. In an aggregate sample of 7,923, 64% judged the side-effect case permissible against 53% for the means case. That gives d = 0.25, interval 0.20 to 0.30, against an original of 0.34, interval 0.26 to 0.42. Both replications point the same way as the original and both are smaller. Familiarity with the task moderated the first pair, d = 1.47 among 3,069 participants who said they did not know it against d = 1.20 among 4,107 who did, and did not moderate the second, 0.27 against 0.24. The structured figures below are the Ned and Oscar pair, which is the contrast that isolates the principle.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 61,
+      "n": 7923
+    },
+    "original": { "es": 0.34, "esType": "d", "ci": [0.26, 0.42], "ciLevel": 95 },
+    "replicated": { "es": 0.25, "esType": "d", "ci": [0.20, 0.30], "ciLevel": 95, "weighting": "aggregate" }
+  },
+  "limits": "The famous contrast is the confounded one. Hauser and colleagues say so themselves: the gap between Denise and Frank fits the double effect, but it also fits redirecting an existing threat rather than introducing a new one, and it fits physical contact rather than a lever. Only the Ned and Oscar pair varies the means alone, and that gap is the small one. Bago and colleagues took the intention factor to 45 countries, collecting 27,502 participants and excluding 80.6% of them under preregistered criteria. On the trolley wording, the interaction of intention with personal force was strong in the Western cluster, at a Bayes factor of 1.5 x 10 to the 11th. It was moderate and inconclusive in the Southern cluster at 9.4, and weak and inconclusive in the Eastern cluster at 0.6. They found no strong association between collectivism and dilemma judgements. Hauser's own sample was self-selected web traffic answering in English, which the authors flag. Its printed Table 1 is also unreliable in places: it gives 9,183 white non-Hispanic respondents where the whole comparison has 2,646, and it prints 0.90 for men on scenario 2 where the text reports 11% overall.",
+  "misreadings": "The huge effect and the clean design belong to different comparisons, and quoting d = 2.50 as the size of the double-effect intuition merges them. The trolley problem is also a philosophical argument before it is a paradigm. Foot and Thomson were testing what a principle implies, not what a population answers, and a replicated response rate settles nothing they were arguing about. Whether the answers describe anything outside the laboratory is disputed. Bostyn, Sevenhant and Roets had 192 students choose whether to shock one mouse or five. Preference for the consequentialist option on a battery of hypothetical dilemmas did not predict that choice, odds ratio 1.35, p = 0.406. It did predict the choice on a hypothetical version of the same dilemma, odds ratio 2.14, p = 0.030. Participants were more than twice as likely to refuse the sacrifice when the dilemma was hypothetical, 34% against 16%. Bauman, McGraw, Bartels and Warren argue the scenarios are too artificial to test general theories of morality. Of their undergraduates 63% found the footbridge case at least a little humorous. On a seven-point realism scale their respondents rated footbridge 3.5 and the switch case 3.9, against 6.5 for a scenario about abortion.",
+  "sources": [
+    {
+      "text": "Hauser, M., Cushman, F., Young, L., Kang-Xing Jin, R., & Mikhail, J. (2007). A dissociation between moral judgments and justifications. Mind & Language, 22(1), 1-21.",
+      "doi": "10.1111/j.1468-0017.2006.00297.x",
+      "url": "https://doi.org/10.1111/j.1468-0017.2006.00297.x",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    },
+    {
+      "text": "Bago, B., Kovacs, M., Protzko, J., et al. (2022). Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour, 6(6), 880-895.",
+      "doi": "10.1038/s41562-022-01319-5",
+      "url": "https://doi.org/10.1038/s41562-022-01319-5",
+      "type": "replication"
+    },
+    {
+      "text": "Bostyn, D. H., Sevenhant, S., & Roets, A. (2018). Of mice, men, and trolleys: Hypothetical judgment versus real-life behavior in trolley-style moral dilemmas. Psychological Science, 29(7), 1084-1093.",
+      "doi": "10.1177/0956797617752640",
+      "url": "https://doi.org/10.1177/0956797617752640",
+      "type": "critique"
+    },
+    {
+      "text": "Bauman, C. W., McGraw, A. P., Bartels, D. M., & Warren, C. (2014). Revisiting external validity: Concerns about trolley problems and other sacrificial dilemmas in moral psychology. Social and Personality Psychology Compass, 8(9), 536-554.",
+      "doi": "10.1111/spc3.12131",
+      "url": "https://doi.org/10.1111/spc3.12131",
+      "type": "critique"
+    },
+    {
+      "text": "Foot, P. (2002). The problem of abortion and the doctrine of the double effect. In Virtues and Vices and Other Essays in Moral Philosophy (pp. 19-32). Oxford University Press. First published in Oxford Review, 5, 5-15 (1967).",
+      "doi": "10.1093/0199252866.003.0002",
+      "url": "https://doi.org/10.1093/0199252866.003.0002",
+      "type": "background"
+    },
+    {
+      "text": "Thomson, J. J. (1985). The trolley problem. The Yale Law Journal, 94(6), 1395-1415.",
+      "doi": "10.2307/796133",
+      "url": "https://doi.org/10.2307/796133",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
