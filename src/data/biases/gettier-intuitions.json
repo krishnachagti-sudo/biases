@@ -1,0 +1,116 @@
+{
+  "no": 430,
+  "slug": "gettier-intuitions",
+  "name": "Gettier intuitions",
+  "aliases": [
+    "Gettier intuition",
+    "Gettier effect",
+    "Epistemic intuitions about luck",
+    "Knowledge attribution in Gettier cases"
+  ],
+  "category": "belief",
+  "statement": "In a Gettier case, where a belief is justified and true only by luck, people are said to withhold the word knows that they would grant in a matched ordinary case.",
+  "meaning": "Gettier's cases have a fixed shape. Someone has good evidence for a belief, the belief is true, and the evidence is not what makes it true, so the truth arrives by luck. Philosophers report that such a person does not know, and treat that reaction as data about the concept of knowledge. Experimental philosophy asks a narrower question: put the story to people who have never read the literature, ask whether the protagonist knows or only believes, and count the answers. Everything on this page is about what respondents say. Whether a lucky true belief counts as knowledge is a question no survey settles, and no result here bears on it. The second question, which drew far more attention, is whether the answers differ by culture.",
+  "origin": {
+    "year": 2001,
+    "who": "Jonathan M. Weinberg, Shaun Nichols and Stephen Stich",
+    "where": "Philosophical Topics",
+    "note": "Gettier's three-page 1963 paper in Analysis supplied the cases and made no empirical claim. Weinberg, Nichols and Stich put one of them to students in lower-division classes and large lectures at Rutgers, sorted the answers by ethnicity and by years of education, and reported that the answers came apart. Their paper is the one the later cross-cultural literature answers."
+  },
+  "evidence": "The 2001 probe was a car case. Bob thinks his friend Jill drives an American car because she has driven a Buick for years, unaware that the Buick was stolen and that she has replaced it with a Pontiac. Western respondents split 17 for really knows against 49 for only believes. East Asian respondents split 13 against 10, Fisher's exact p = 0.006414, and respondents from the Indian subcontinent 14 against 9, p = 0.002407. Each non-Western group was 23 people. Weinberg and colleagues describe their East Asian subjects as Chinese, Japanese and Korean, some tested in Asia and others students or immigrants in the United States. Their two socioeconomic comparisons used different stories, a zebra-in-the-zoo case and a cancer conspiracy case, on adults approached near shops in downtown New Brunswick.\n\nTurri, Buckwalter and Blouw ran a different family of case in 2015. Darrel, an ecologist, sees a small creature with red markings and records a red speckled ground squirrel in Zone 3. In the Gettier version an almost identical prairie dog has invaded the park, and the animal Darrel is looking at is a squirrel anyway. 135 participants on Mechanical Turk each read one of three versions. Knowledge was attributed by 81% in the no-threat control, 67% in the Gettier version and 16% where the threat succeeded and Darrel was looking at a prairie dog, χ²(2, N = 135) = 39.63, p < .001, Cramér's V = .542. The Gettier version did not differ from the control, Fisher's exact p = .164, and the authors concluded that a salient but failed threat to the truth of a judgement leaves knowledge attribution unchanged. Their Experiment 2 swapped the threat for an unnoticed replacement, and there the gap opened: 88% against 66%, N = 141, Fisher's p = .017, Cramér's V = .254.\n\nMachery and colleagues took the opposite approach in 2017, running one case in many places. Their protagonist Paul rushes to the wrong hospital after a caller confirms that a Mary Jones has been admitted, while his wife Mary is being treated elsewhere. They collected 2,838 participants at 24 sites in 23 countries and 17 languages. Asked to choose between knew and thought he knew but did not actually know, a majority denied knowledge at 23 of the 24 sites, at rates between 70 and 90%, the exception being a small Bedouin sample in Israel. Asked the plainer question, did he know, answers differed from an even split at only 11 of the 24 sites. With more than 2,000 participants they found no difference between men and women.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A 37-site replication found the effect Turri's experiment had missed, an odds ratio of 1.86, and then split over whether an effect that size counts as people denying knowledge.",
+    "detail": "Hall and 100-odd colleagues replicated and extended Turri et al.'s Experiment 1 as a registered report, run through the Collaborative Replications and Education Project with the Psychological Science Accelerator. Data came from 45 student-led teams at 37 data-collection sites across 19 geopolitical regions, between January 2019 and June 2021. Of 9,440 people who completed the survey, 48.88% were excluded, most of them for missing one of three comprehension questions. The abstract gives the analysed sample as N = 4,724 and the participants section gives 4,826.\n\nThe design was within-participants, with three counterfeit-object vignettes rather than one, each seen in a Gettier, knowledge or ignorance version. Pooled across them, participants attributed knowledge in 56.59% of clear cases, 42.71% of Gettier cases and 17.94% of ignorance cases. That is an odds ratio of 1.86, 95% CI [1.78, 1.94]. Turri's null result did not hold, but the size was close to it: Hall and colleagues estimated an odds ratio of 2.00, 95% CI [0.77, 5.21], from the original data, an interval wide enough to contain effects in both directions.\n\nThe vignette mattered more than the region. Darrel, the original story, produced the smallest gap, 71.27% against 60.01%, Cramér's V = .12, 95% CI [.08, .15]. A fake-barn story about Gerald gave 63.17% against 50.36%, and a diamond story about Emma gave 34.84% against 17.90%, with few people crediting Emma with knowledge in any version. Site variance did not improve model fit, which the authors read as results holding across collection sites. Their own summary is guarded. Some 43.41% of participants denied knowledge even in the clear cases, and Gettier protagonists were credited 75.47% as often as clear ones. The paper says Gettier intuitions were by no means common, and that the theoretical significance of an effect this small is debatable.\n\nThe interpretation is contested in print. Buckwalter and Friedman published a comment in the same issue arguing that the replication should have been read as a success and that the two results were, in the words the reply quotes, basically the same. Twelve of the original authors replied that a preregistered test produced a difference where the original found none, that reading percentage gaps instead of the planned analysis is a post-hoc reframing, and that the original's interval was too wide to conclude anything. Both sides agree the effect is small and that the original study was underpowered.",
+    "study": {
+      "cite": "Hall, B., Schmidt, K., Wagge, J., Lewis, S. C., et al. (2024). Registered Replication Report: A large multilab cross-cultural conceptual replication of Turri et al. (2015). Advances in Methods and Practices in Psychological Science, 7(4).",
+      "doi": "10.1177/25152459241267902",
+      "year": 2024,
+      "sites": 37,
+      "n": 4724
+    },
+    "original": {
+      "es": 2.0,
+      "esType": "OR",
+      "ci": [0.77, 5.21],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 1.86,
+      "esType": "OR",
+      "ci": [1.78, 1.94],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The odds ratio for the original is not a figure Turri, Buckwalter and Blouw published. They reported percentages and a non-significant Fisher's test, and Hall and colleagues estimated the ratio and its interval from that data for comparison. The reply by Schmidt and colleagues argues that interpreting it at all strains the logic of the test it came from.\n\nThe replication covers one family of Gettier case, where the protagonist perceives a genuine object among indistinguishable fakes. Hall and colleagues say their findings may not generalise to other categories, naming reliabilist and apparent-evidence cases, and their own three vignettes produced effects of different sizes. Turri's Experiment 2 makes the same point inside the original paper: swapping a failed threat for an unnoticed replacement moved the gap from nothing to 22 percentage points.\n\nThe question wording moves the answers too. Machery and colleagues' respondents denied knowledge at 70 to 90% when offered the contrast between knowing and thinking one knows, and were close to an even split at most sites on the plain did he know. Their discussion also gives site counts that do not add up to the 11 of 24 reported from their own table, and the discrepancy is theirs rather than a reading of it.\n\nSeveral documents could not be opened. The Buckwalter and Friedman comment is blocked at the publisher and unreachable at every repository copy located, so its argument appears here only as the reply quotes it. Machery, Stich, Rose, Chatterjee and colleagues' Noûs paper on Brazil, India, Japan and the United States was read as its Crossref abstract, so no sample size from it is on this page. Kim and Yuan's replication and Seyedsayamdost's were read as their Crossref abstracts. Nagel, San Juan and Mar's Cognition paper was located but not read, and nothing here rests on it. Turri et al.'s article is closed at Springer and was read as the authors' accepted manuscript on OSF, where the page numbers differ from the published version. Searching ran across Crossref, OpenAlex, Unpaywall, PubMed, PMC, DOAJ, Semantic Scholar and institutional repositories at Jagiellonian, Greenwich, Milan, Utrecht and Singapore Management.",
+  "misreadings": "The first error is treating any of this as epistemology. A count of how many people pick knows over only believes is a fact about usage. It leaves untouched the question of whether a justified true belief acquired by luck is knowledge, and Weinberg, Nichols and Stich raised it against a method of doing philosophy rather than against an answer.\n\nThe second is collapsing 2001 into 2017. The variation claim and the convergence findings rest on different samples and different materials. Weinberg and colleagues ran a car case on 23 East Asian and 23 South Asian respondents at one American university. Machery and colleagues ran a hospital case on 2,838 people in 23 countries, and Hall and colleagues ran three counterfeit-object cases in 19 regions. The later work does not overturn the earlier numbers, it fails to find the difference again, and Seyedsayamdost and Kim and Yuan report the same failure. Note also that the 2001 socioeconomic result was never about the Gettier case: the two probes that split by education were the zebra and cancer conspiracy stories.\n\nThe third is reading the multilab result as people denying knowledge to lucky agents. In the vignette Turri used, 60% of participants said the protagonist knew, and in one of the other two the figure was 50%. What the study found is a gap between conditions, not a majority verdict, and the authors say so.\n\nThe fourth is talking about the Gettier intuition as one effect. The size depends on which case is told, which two conditions are compared, and how the question is put, and those three sources of variation are larger in this literature than any difference between countries yet measured in it.",
+  "sources": [
+    {
+      "text": "Gettier, E. L. (1963). Is justified true belief knowledge? Analysis, 23(6), 121-123. The cases everything here uses. Verified as a Crossref record; no empirical claim in it.",
+      "doi": "10.1093/analys/23.6.121",
+      "url": "https://doi.org/10.1093/analys/23.6.121",
+      "type": "primary"
+    },
+    {
+      "text": "Weinberg, J. M., Nichols, S., & Stich, S. (2001). Normativity and epistemic intuitions. Philosophical Topics, 29(1), 429-460. Read as a scanned copy hosted on a University of Alberta course page; the counts and Fisher's exact p values are from its appendix.",
+      "doi": "10.5840/philtopics2001291/217",
+      "url": "https://sites.ualberta.ca/~francisp/Phil488/WeinbergNicholsStichEpistemicIntn01.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Turri, J., Buckwalter, W., & Blouw, P. (2015). Knowledge and luck. Psychonomic Bulletin & Review, 22(2), 378-390. The study the multilab project replicated. Closed at the publisher; read as the accepted manuscript deposited at OSF.",
+      "doi": "10.3758/s13423-014-0683-5",
+      "url": "https://osf.io/zhb7j/download",
+      "type": "primary"
+    },
+    {
+      "text": "Hall, B., Schmidt, K., Wagge, J., Lewis, S. C., et al. (2024). Registered Replication Report: A large multilab cross-cultural conceptual replication of Turri et al. (2015). Advances in Methods and Practices in Psychological Science, 7(4). Read as the open-access publisher version deposited at the University of Greenwich.",
+      "doi": "10.1177/25152459241267902",
+      "url": "https://gala.gre.ac.uk/id/eprint/45362/",
+      "type": "replication"
+    },
+    {
+      "text": "Buckwalter, W., & Friedman, O. (2024). Robust evidence for knowledge attribution and luck: A comment on Hall et al. (2024). Advances in Methods and Practices in Psychological Science, 7(4). Blocked at the publisher and at every repository copy located; its position is reported here only as the reply quotes it.",
+      "doi": "10.1177/25152459241268220",
+      "url": "https://doi.org/10.1177/25152459241268220",
+      "type": "commentary"
+    },
+    {
+      "text": "Schmidt, K., Haeffel, G. J., Levy, N., Moreau, D., et al. (2024). A response to a comment on Hall et al. (2024). Advances in Methods and Practices in Psychological Science, 7(4). Read as the open-access version deposited at Jagiellonian University.",
+      "doi": "10.1177/25152459241268249",
+      "url": "https://ruj.uj.edu.pl/handle/item/542098",
+      "type": "commentary"
+    },
+    {
+      "text": "Machery, E., Stich, S., Rose, D., Alai, M., Angelucci, A., Berniūnas, R., et al. (2017). The Gettier intuition from South America to Asia. Journal of Indian Council of Philosophical Research, 34(3), 517-541. The 24-site study. Read as the author manuscript deposited at the University of Milan.",
+      "doi": "10.1007/s40961-017-0113-y",
+      "url": "https://air.unimi.it/handle/2434/857026",
+      "type": "replication"
+    },
+    {
+      "text": "Machery, E., Stich, S., Rose, D., Chatterjee, A., Karasawa, K., Struchiner, N., Sirker, S., Usui, N., & Hashimoto, T. (2017). Gettier across cultures. Noûs, 51(3), 645-664. The four-country study the 24-site one extends. Read as its Crossref abstract only.",
+      "doi": "10.1111/nous.12110",
+      "url": "https://doi.org/10.1111/nous.12110",
+      "type": "replication"
+    },
+    {
+      "text": "Seyedsayamdost, H. (2015). On normativity and epistemic intuitions: Failure of replication. Episteme, 12(1), 95-116. Four data sets, two online and two in person. Read as its Crossref abstract only.",
+      "doi": "10.1017/epi.2014.27",
+      "url": "https://doi.org/10.1017/epi.2014.27",
+      "type": "replication"
+    },
+    {
+      "text": "Kim, M., & Yuan, Y. (2015). No cross-cultural differences in the Gettier car case intuition: A replication study of Weinberg et al. 2001. Episteme, 12(3), 355-361. Sampled an East Asian group about 2.5 times the size of the original's 23. Read as its Crossref abstract only.",
+      "doi": "10.1017/epi.2015.17",
+      "url": "https://doi.org/10.1017/epi.2015.17",
+      "type": "replication"
+    },
+    {
+      "text": "Nagel, J., San Juan, V., & Mar, R. A. (2013). Lay denial of knowledge for justified true beliefs. Cognition, 129(3), 652-661. Cited by both the original and the replication on counterfeit-object cases. Located as a Crossref record and not read; no claim here rests on it.",
+      "doi": "10.1016/j.cognition.2013.02.008",
+      "url": "https://doi.org/10.1016/j.cognition.2013.02.008",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
