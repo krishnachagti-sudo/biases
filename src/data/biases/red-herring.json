@@ -1,0 +1,103 @@
+{
+  "no": 405,
+  "slug": "red-herring",
+  "name": "Red herring",
+  "aliases": ["Red herring fallacy", "Ignoratio elenchi", "Irrelevant conclusion", "Missing the point", "Fallacy of relevance"],
+  "category": "belief",
+  "statement": "The red herring is diverting an argument onto an irrelevant topic and treating the diversion as though it had answered the original point.",
+  "meaning": "Two things happen at once. Something is raised that the audience will follow, and the question that was asked is left standing. Textbooks file the move among the fallacies of relevance, beside the appeal to pity, the appeal to force and the appeal to popularity. Douglas Walton treated it in 1984 under the older name ignoratio elenchi, and his paper is mostly about why the category is hard to use. Calling a failure of relevance a fallacy helps nobody until relevance has a definition, and by his account the label has become 'a rag-bag category to cover any argument where the author is uncertain why it is fallacious'. Walton tests the obvious repair. If the fault were that premisses and conclusion share no subject matter, then the standard textbook example would not qualify, because its premisses and conclusion all concern the same city. He concludes that subject-matter overlap is neither the test nor a guarantee, since William of Sherwood's thirteenth-century examples overlap and are still bad. The name travels in a second sense as well, the planted clue in detective fiction, where the same device is a courtesy to the reader rather than a fault.",
+  "origin": {
+    "year": 1807,
+    "who": "William Cobbett",
+    "where": "Cobbett's Weekly Political Register",
+    "note": "The article 'Continental war' of 14 February 1807 mocks the London daily press for repeating a false report that the French had been beaten and Buonaparte mortally wounded. Cobbett writes that as a boy he dragged a red herring on a string to pull the harriers off a hare, then casts the newspapers as the pack and the false report as 'the political red-herring'. The boyhood story is a metaphor, and no evidence has been found that anyone laid red herrings to spoil a scent. This is the origin of the modern telling rather than of the phrase, which is in print figuratively in 1682 and again in 1782."
+  },
+  "evidence": "There are no experiments. The evidence is a set of documents, and most of the work done on this term has been done by etymologists rather than psychologists. The usual account has hunters or escaping criminals dragging smoked herring to throw hounds off a scent. Michael Quinion quotes it from Robert Hendrickson's Facts on File Encyclopedia of Word and Phrase Origins, which states that 'escaping criminals in the 17th century would drag strong-smelling red herring across a trail to make pursuing blood-hounds lose the scent'. Quinion reports searching half a dozen books on the history of fox hunting and finding no reference to the practice. He attributes the correction not to himself but to a pair of articles in the October 2008 issue of Comments on Etymology. That journal is edited by Gerald Cohen at the Missouri University of Science and Technology, and the two pieces are Cohen's reprinted notes of 2000 and an article by Robert Scott Ross. Quinion reports that the Oxford English Dictionary's revised entry followed them. On that account the passage in Nicholas Cox's Gentleman's Recreation of about 1697 has been misread for two centuries. It comes from a treatise on horsemanship by Langbaine, bound into a later edition without attribution. It describes dragging a dead cat or fox so that horses grow used to following hounds, with a red herring named only as a substitute. The scent there is laid to lead animals along a trail, not to pull them off one. Cobbett's article can be read in the scanned eleventh volume of the Political Register. It runs: 'When I was a boy, we used, in order to draw off the harriers from the trail of a hare that we had set down as our own private property, get to her haunt early in the morning, and drag a red-herring, tied to a string, four or five miles over hedges and ditches, across fields and through coppices'. The Morning Chronicle is 'the leader of the pack', and the collapse of the story is 'a mere transitory effect of the political red-herring; for, on the Saturday, the scent became as cold as a stone'. Quinion's conclusion is that this piece, with Cobbett's repetition of it in 1833, 'was enough to get the figurative sense of red herring into the minds of his readers, unfortunately also with the false idea that it came from some real practice of huntsmen'. Two earlier figurative uses survive in print and were read here in transcription. A pamphlet of 1682 defending the Earl of Shaftesbury accuses an opponent of manufacturing an issue: 'your Lordships business is, to keep your Hounds in full cry, against the pretended Association, for since you cannot find one really in being; a red-herring from your own Kitching, must be hunted and trail'd through the Kingdom, to make a noise'. A speech attributed to Mr Courtenay on 20 March 1782, printed in The Beauties of the British Senate in 1786, describes country gentlemen 'who have so long run on the red-herring scent of American taxation, before they found out there was no game on foot'. Both are false-trail metaphors. Neither describes drawing hounds off a real trail, which is the part Cobbett added and the part that later hardened into a claim about hunting. The nearest experimental literature is about something else and carries its own name. The dilution effect, named by Richard Nisbett, Henry Zukier and Ronald Lemley in 1981, is the finding that adding non-diagnostic information to diagnostic information makes judgements less extreme. Cillian McHugh and Eric Igou extended it to moral character in four studies of 801, 820, 814 and 100 people. Descriptions of bad actors were rated less harshly when padded with irrelevant detail, with a within-subjects effect of d = 0.23 in the third study, where mean ratings moved from 2.14 to 2.33. Good actors moved the other way by d = 0.12, from 6.31 to 6.21. The second study, on good actors alone, found nothing at all, F(1, 838.12) = 0.24, p = .624, d = 0.00 on one measure and p = .267, d = 0.02 on the other. The authors report that the effect is moderated by valence and is more robust for bad actors. Their paper does not use the words 'red herring' or 'fallacy' anywhere, which is the plainest available statement that these are two literatures rather than one.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment testing whether a red herring works, or whether people notice one, was found. The dilution effect is a separate phenomenon with its own name, and it is about irrelevant detail weakening a judgement rather than about an irrelevant argument replacing a question.",
+    "detail": "The two claims differ in what they predict. Dilution moves a judgement toward the middle, because padding a description with facts that carry no diagnostic weight makes the target look less like a typical member of the category. A red herring is supposed to move a dispute sideways, so that one question is answered and a different one goes unaddressed. Nothing in the dilution literature measures the second thing. The dilution effect also has an unsettled record of its own. Scott Highhouse and five colleagues ran a preregistered replication of the basic effect on 796 participants, asking them to predict a student's grade point average from diagnostic information with or without an added non-diagnostic sentence. Their abstract reports that despite an unusually large sample, a strong manipulation and the use of stimulus sampling, results showed no evidence for dilution in grade point average predictions. That is the same prediction task as the classic demonstration. McHugh and Igou found the effect on moral judgements at the same time, at effect sizes between d = 0.12 and d = 0.23, with one of their four studies null. So the neighbouring effect is contested even within its own domain, and it would not settle the question about the fallacy if it were secure."
+  },
+  "limits": "The search for an experiment on the fallacy covered Europe PMC, Crossref and general web search, and it came up empty. Europe PMC holds six records for the phrase 'red herring fallacy', all of them clinical or public-health commentary using the term in passing, and none an experiment. The pragma-dialectical programme is the place such a study would sit, because it puts rule-breaking argumentative moves to ordinary readers and asks them to rate reasonableness. Its book-length report, van Eemeren, Garssen and Meuffels in 2009, has nine chapters running to page 224, covering the freedom rule, the obligation to defend, the argument scheme rule and the concluding rule. None covers the relevance rule, which is the rule a red herring breaks. That is a claim about the chapter list deposited at Crossref, checked chapter by chapter, not about every study those authors have run. The book itself was not obtained. A separate literature on distraction and persuasion exists and was not pursued far; Festinger and Maccoby's 'On resistance to persuasive communications' of 1964 was not obtained and nothing is claimed here about what it found. On the origin, the two 2008 articles in Comments on Etymology were not obtained, and the account of what Cohen and Ross established rests on Quinion's report of them. The Oxford English Dictionary entry is paywalled and was not read, so its treatment is described only as Quinion and Wikipedia describe it. The 1697 horsemanship treatise was not obtained, and the sources disagree about its author. Quinion, following Ross, prints Gerland Langbaine. Pascal Tréguer instead attributes the train-scent passage to Nicholas Cox's own text in the sixth edition of 1721, and reserves the name Gerard Langbaine for a different anecdote. Cobbett's 1833 restatement was read only in Tréguer's transcription of a letter to John Stuart Wortley of 28 August 1833. The 1682 pamphlet was found through Wikipedia's citation and read in the Text Creation Partnership transcription. The 1782 speech was found through a blog and read in the Internet Archive's optical transcription of the 1786 printing, where the long s is modernised here. Neither is claimed to be the earliest such use, only to be earlier than 1807. The Nisbett, Zukier and Lemley paper of 1981 is behind Cloudflare at its repository and was not obtained, so the dilution effect is described through McHugh and Igou, who cite it. The Highhouse replication was read as the publisher's abstract at Crossref, not in full. McHugh and Igou were read as the accepted manuscript on PsyArXiv rather than the journal version. Two things in it do not hold together. The preprint's abstract gives a total of 2,585 where the published abstract gives 2,535, which is the sum of the four samples. Several confidence intervals are also printed on scales that do not match the effect sizes they are attached to, so no interval from that paper is quoted here.",
+  "misreadings": "The commonest error is the hunting story, and it is repeated by dictionaries. Brewer's Dictionary of Phrase and Fable and the Facts on File encyclopedia both describe a herring dragged across a trail to spoil a scent, and neither names who was supposed to be doing it or why. On the etymologists' account no such practice is attested, the only seventeenth-century instruction to drag a herring is about leading animals along a trail rather than away from one, and the whole picture comes from a journalist's metaphor about newspapers. A second error runs in the opposite direction and is worth resisting too. Showing that Cobbett invented the hunting story does not show that he invented the phrase. It was already being used figuratively in 1682 and in 1782, in both cases for a false scent followed to no purpose, so the correction is narrower than 'Cobbett coined it'. The third error is to treat the dilution effect as a demonstration of the fallacy. It is a separately named phenomenon about the weakening of diagnostic information, its own replication record is unsettled, and the researchers who study it do not describe it as a fallacy. Irrelevant detail making an estimate less extreme and an irrelevant argument taking over a dispute are different claims, and evidence for one is not evidence for the other. The last error is to treat the accusation as self-applying. Walton's point is that relevance has no agreed criterion, and that the requirement most people reach for, that the premisses be about the same thing as the conclusion, gets the textbook cases wrong. In his example a senator answers a charge that his city is grimy by praising its flower parks, its schools and its people. Every premiss is about the city, so subject-matter overlap is satisfied, and the argument still fails, because tolerant citizens do not imply a clean city. Naming a remark irrelevant is a judgement about what the dispute was for, which is exactly what the parties to it tend to disagree about.",
+  "sources": [
+    {
+      "text": "Cobbett, W. (1807). Continental war. Cobbett's Weekly Political Register, volume 11, 14 February 1807, columns 231 to 234. Read in the Internet Archive's optical transcription of the bound volume; every phrase quoted here was located in that text. The transcription garbles some figures in the surrounding passage, and none of those is quoted.",
+      "url": "https://archive.org/details/cobbettspolitica11cobb",
+      "type": "primary"
+    },
+    {
+      "text": "Quinion, M. (2008). Red Herring Origin. World Wide Words, page created 25 October 2008. Read in full. Source for the Hendrickson quotation, for the fox-hunting search that found nothing, for the attribution of the correction to Cohen and Ross in Comments on Etymology, and for the conclusion about Cobbett quoted on this page.",
+      "url": "https://www.worldwidewords.org/articles/herring.htm",
+      "type": "commentary"
+    },
+    {
+      "text": "Cohen, G. (ed.) (2008). Comments on Etymology, October 2008, containing Cohen's reprinted notes of 2000 and an article by Robert Scott Ross. Not obtained. Named here as the underlying publication; what it establishes is reported through Quinion (2008).",
+      "url": "https://www.worldwidewords.org/articles/herring.htm",
+      "type": "provenance"
+    },
+    {
+      "text": "A modest account of the present posture of affairs in England, with particular reference to the Earl of Shaftsbury's case (1682), page 2. Read in the Text Creation Partnership transcription of the Early English Books Online text A51081. Source for the 1682 figurative use quoted here.",
+      "url": "https://raw.githubusercontent.com/textcreationpartnership/A51081/master/A51081.xml",
+      "type": "primary"
+    },
+    {
+      "text": "The Beauties of the British Senate (1786), volume 2, pages 299 to 300. Speech attributed in the text to 'Mr. Courtenay, March 20, 1782'. Read in the Internet Archive's optical transcription; the long s is modernised in the quotation on this page.",
+      "url": "https://archive.org/details/beautiesofbritis02greaiala",
+      "type": "primary"
+    },
+    {
+      "text": "Tréguer, P. (2017, 6 July). The authentic origin of 'red herring'. Word Histories. Read in full. Source for the Cox text of 1721, for Thomas Nashe's 1599 remark that a red herring's skin draws hounds to a scent, and for the letter to John Stuart Wortley of 28 August 1833.",
+      "url": "https://wordhistories.net/2017/07/06/red-herring-origin/",
+      "type": "commentary"
+    },
+    {
+      "text": "Walton, D. N. (1984). Ignoratio Elenchi: The Red Herring Fallacy. Informal Logic, 2(3). Five-page article read in full as the journal's open-access PDF. The issue is labelled 1979 on the journal's own archive page while Crossref records publication in 1984. Source for the rag-bag quotation, the subject-matter overlap argument and the Windsor example, which Walton takes from Johnson and Blair (1977, p. 54).",
+      "doi": "10.22329/il.v2i3.2823",
+      "url": "https://doi.org/10.22329/il.v2i3.2823",
+      "type": "primary"
+    },
+    {
+      "text": "McHugh, C., & Igou, E. R. (2025). The Moral Dilution Effect: Irrelevant Information Influences Judgments of Moral Character. Journal of Behavioral Decision Making, 38(4). Open access under CC BY. Read in full as the accepted manuscript on PsyArXiv, version 3. Every figure quoted here was read in that text; the abstract was also read at Crossref, and the two disagree on the total sample.",
+      "doi": "10.1002/bdm.70034",
+      "url": "https://osf.io/preprints/psyarxiv/z5ug6_v3/",
+      "type": "primary"
+    },
+    {
+      "text": "Highhouse, S., Freier, L. M., Stevenor, B. A., Shea, M. A., Childers, M., & Melick, S. R. (2022). Failure to replicate the basic dilution effect in performance prediction. International Journal of Selection and Assessment, 30(2), 195-201. Read as the publisher's abstract at Crossref, which is the source of the sample size and of the statement that no evidence for dilution was found.",
+      "doi": "10.1111/ijsa.12344",
+      "url": "https://doi.org/10.1111/ijsa.12344",
+      "type": "primary"
+    },
+    {
+      "text": "Nisbett, R. E., Zukier, H., & Lemley, R. E. (1981). The dilution effect: Nondiagnostic information weakens the implications of diagnostic information. Cognitive Psychology, 13(2), 248-277. Not obtained; the repository copy sits behind a bot challenge. Named here for the effect and its definition, which are described through McHugh and Igou (2025).",
+      "doi": "10.1016/0010-0285(81)90010-4",
+      "url": "https://doi.org/10.1016/0010-0285(81)90010-4",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2009). Fallacies and Judgments of Reasonableness. Argumentation Library. Springer. Not obtained. Cited for the absence of a relevance-rule chapter, established by resolving each of its nine chapter DOIs at Crossref, which run continuously to page 224.",
+      "doi": "10.1007/978-90-481-2614-9",
+      "url": "https://doi.org/10.1007/978-90-481-2614-9",
+      "type": "commentary"
+    },
+    {
+      "text": "Festinger, L., & Maccoby, N. (1964). On resistance to persuasive communications. The Journal of Abnormal and Social Psychology, 68(4), 359-366. Not obtained. Named only to mark the separate distraction-and-persuasion literature; nothing is claimed here about its findings.",
+      "doi": "10.1037/h0049073",
+      "url": "https://doi.org/10.1037/h0049073",
+      "type": "commentary"
+    },
+    {
+      "text": "red herring, n. Oxford English Dictionary. The revised entry Quinion reports as following Cohen and Ross. Paywalled and not read; cited for its existence and for the record that it was revised.",
+      "doi": "10.1093/oed/9018013925",
+      "url": "https://doi.org/10.1093/oed/9018013925",
+      "type": "provenance"
+    },
+    {
+      "text": "Red herring. English Wikipedia. Used as an index rather than a source: it supplied the pointer to the 1682 pamphlet and to the scanned volume of the Political Register, both of which were then read directly.",
+      "url": "https://en.wikipedia.org/wiki/Red_herring",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
