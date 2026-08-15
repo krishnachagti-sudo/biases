@@ -1,0 +1,60 @@
+{
+  "no": 347,
+  "slug": "context-neglect-bias",
+  "name": "Context neglect bias",
+  "aliases": [
+    "Context neglect"
+  ],
+  "category": "decision",
+  "statement": "Undergraduates asked to solve data science questions work from the data alone, and leave out the context the data came from.",
+  "meaning": "The name and the claim come from different places, and the gap between them is the point. Avital Binah-Pollak and three colleagues studied ethics teaching in data science and reported that students leave the context out when they answer data questions. Their abstract calls this the context neglect. It does not use the word bias. The paper's framing is pedagogical rather than psychological: it proposes anthropological thinking as a way to teach against the habit. The bias name is a Wikipedia coinage. It reached the List of cognitive biases in February 2024, added by one of the paper's own authors, and the article it links to has never existed.",
+  "origin": {
+    "year": 2024,
+    "who": "Avital Binah-Pollak, Orit Hazzan, Koby Mike and Ronit Lis Hacohen",
+    "where": "Education and Information Technologies",
+    "note": "The article was published online on 5 January 2024 and ran in volume 29, issue 11, pages 14245 to 14260. The bias name is not the article's. It entered the English Wikipedia List of cognitive biases on 25 February 2024 in revision 1210165483, made by the account K.mike.1111, whose user page identifies Koby Mike, the article's third author. The edit summary reads 'The context neglect bias was added to the biases list.' The same account had added the domain neglect line in December 2022, and has twelve edits in total."
+  },
+  "evidence": "What the study did cannot be reported in detail, because the article is closed at Springer and was not obtained. The publisher's abstract, read from ERIC, carries this much. The authors collected data from questionnaires distributed to undergraduate science and engineering students. They report that students tend to neglect the context when attempting to solve data science questions, and they set this beside earlier work finding that students neglect ethical concerns in their data analysis. Their argument is that gaps in understanding the context of the data produce gaps in the analysis and in the interpretation. The conclusion is a teaching proposal, anthropological thinking, offered to overcome the context neglect. No sample size, no response counts, no conditions and no statistics appear in the abstract, so none are quoted here. Whether the full article reports any is unknown.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No repeat of the study by anyone was found. OpenAlex records four works citing the article, and the three Semantic Scholar lists are not replications by title.",
+    "detail": "The claim has been stated once, in one closed article, on the strength of questionnaires whose size the abstract does not give. Nothing that could be called a replication was located, and no second measurement of the effect by any team was located. This is an absence of evidence about a two-year-old education paper, not evidence that students do attend to context."
+  },
+  "limits": "Searches on 15 August 2026 covered four places. Europe PMC returned no hits for the exact phrase 'context neglect bias' and none for 'context-neglect bias'; its 28 hits for 'context neglect' are about spatial neglect after stroke, child neglect and unrelated uses of the two words. PubMed reported both quoted phrases as not found in its index. Crossref returned no work whose title carries the phrase. English Wikipedia holds exactly one page containing it, the List of cognitive biases, where it is a red link; the deletion and creation log for 'Context neglect bias' is empty, so no article was ever written or removed. Koby Mike's 2022 Technion doctoral thesis, 178 pages read as extracted text, uses domain neglect 23 times and context neglect not once, which places the term after it. The article itself is closed at Springer, OpenAlex records no repository copy, and it was not obtained, so every statement above rests on its abstract and on the Wikipedia record.",
+  "misreadings": "The Wikipedia gloss is the sentence most likely to be repeated, and it does not match the paper it cites. It reads that context neglect bias is the tendency to neglect the human context of technological challenges. The abstract argues the other way round. It says context is preferred to the commoner term human concerns, because context takes in considerations that human concerns does not, which makes the gloss a narrowing of the thing the authors chose the word to avoid. The word technological does not appear in the abstract, and neither does the word bias. A second error is to file this with the fundamental attribution error. That effect concerns an observer reading a situation-driven act as character, rests on experiments running back to Jones and Harris in 1967, and has no bearing on students omitting background when they analyse data. A third is to merge context neglect with domain neglect. Domain neglect was defined in Mike's 2022 thesis and in an IEEE article, from a two-question experiment about machine learning classifiers, and the thesis does not contain the phrase context neglect. The two names share authors and a subject, and they rest on different studies.",
+  "sources": [
+    {
+      "text": "Binah-Pollak, A., Hazzan, O., Mike, K., & Lis Hacohen, R. (2024). Anthropological thinking in data science education: Thinking within context. Education and Information Technologies, 29(11), 14245-14260. The article the Wikipedia line cites. Closed at Springer and not obtained; only its abstract was read, from the ERIC record below.",
+      "doi": "10.1007/s10639-023-12444-7",
+      "url": "https://doi.org/10.1007/s10639-023-12444-7",
+      "type": "primary"
+    },
+    {
+      "text": "ERIC record EJ1437347, 'Anthropological Thinking in Data Science Education: Thinking within Context'. The publisher's abstract, and the source of every statement above about what the study reports. Fetched twice and compared before use.",
+      "url": "https://eric.ed.gov/?id=EJ1437347",
+      "type": "primary"
+    },
+    {
+      "text": "Wikipedia, 'List of cognitive biases'. Carries one line, 'Context neglect bias, the tendency to neglect the human context of technological challenges', citing Binah-Pollak and colleagues. The link is red. Used here as an index and as the source of the gloss discussed above.",
+      "url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+      "type": "index"
+    },
+    {
+      "text": "Wikipedia, 'List of cognitive biases', revision 1210165483 of 25 February 2024 by K.mike.1111. The edit that created the name, with the summary 'The context neglect bias was added to the biases list.' Cited for the provenance chain, not for the claim.",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_cognitive_biases&oldid=1210165483",
+      "type": "index"
+    },
+    {
+      "text": "Mike, J. (2022). The Birth of a New Discipline: Data Science Education. Doctoral thesis, Technion, Israel Institute of Technology, supervised by Orit Hazzan. Downloaded and read as extracted text. Cited here for what it lacks: it defines domain neglect and never uses the phrase context neglect.",
+      "url": "https://orithazzan.net.technion.ac.il/files/2022/07/The-Birth-of-a-New-Discipline-Data-Science-Education.pdf",
+      "type": "reference"
+    },
+    {
+      "text": "Mike, K., & Hazzan, O. (2023). What Is Common to Transportation and Health in Machine Learning Education? The Domain Neglect Bias. IEEE Transactions on Education, 66(3), 226-233. The sibling coinage by overlapping authors, added to the same Wikipedia list by the same account. Named, not read.",
+      "doi": "10.1109/TE.2022.3218013",
+      "url": "https://doi.org/10.1109/TE.2022.3218013",
+      "type": "reference"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
