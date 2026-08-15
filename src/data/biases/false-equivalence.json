@@ -1,0 +1,141 @@
+{
+  "no": 416,
+  "slug": "false-equivalence",
+  "name": "False equivalence",
+  "aliases": ["False balance", "Balance as bias", "Bothsiderism", "Both-sidesism", "Fake debate"],
+  "category": "belief",
+  "statement": "Presenting two positions as comparably supported when the evidence behind them is not, which lowers readers' sense of expert agreement even where the true consensus is printed alongside.",
+  "meaning": "Three separate things travel under this heading, and the literature keeps them further apart than everyday use does. The first is a fallacy of comparison. Zanartu, Cook, Wagner and García define it in their table of climate misinformation fallacies as \"Incorrectly claiming that two things are equivalent, despite the fact that there are notable differences between them\". They give the structure as \"A and B both share characteristic C. Therefore, A and B share some other characteristic D\". Their worked example is a newspaper column arguing that the climate change movement is a religion because it shares some traits with one. The second is an editorial practice, and it is the one with the measurements. Giulia Terzian defines false balance as \"the portrayal of a disagreement as if the parties involved, and the positions they endorse, had equal or comparable epistemic standing when in fact they do not\". The third is the inference a reader draws from the second. Scott Aikin and John Casey name it bothsiderism, \"to mistake disagreement on an issue for evidence that either a compromise on, suspension of judgment regarding, or continued discussion of the issue is in order\". They call it a fallacy of meta-argumentation rather than of the argument being reported. Terzian follows them in locating the error at the receiving end: \"Technically, then, it is audiences who commit the fallacy of bothsiderism\". None of the three can be spotted from the shape of the text alone. Aikin and Casey's own division of labour ends with \"the audience who infers from the fact of disagreement that the issue is not closed by the evidence\", and whether that inference is wrong depends on how the evidence actually stands. Terzian's illustration makes the point. Two art historians disagreeing about a painting's authorship is a good reason for a layman to suspend judgement. The same structure becomes a mistake only once one of the two is known to be using a method the field rejects.",
+  "origin": {
+    "year": 2004,
+    "who": "Maxwell T. Boykoff and Jules M. Boykoff",
+    "where": "Global Environmental Change",
+    "note": "Their paper 'Balance as bias' is where the practice acquired a count and a name that stuck in research. No founding source for the phrase 'false equivalence' was located. The one peer-reviewed definition of it found here is Zanartu and colleagues' 2024 fallacy table, which names the comparison fallacy rather than the journalistic practice. The audience-side fallacy was named separately by Aikin and Casey in 2022, who describe it as previously untheorised."
+  },
+  "evidence": "Two literatures answer two different questions, and the counts of coverage do not measure anything about readers. On the counting side, Boykoff and Boykoff took the New York Times, the Washington Post, the Los Angeles Times and the Wall Street Journal from 1988 to 2002. Of 3,543 articles they sampled every sixth from a random start in January 1988, giving 636 articles, 18.4% of the population, with an intercoder reliability of 93%. Of the 340 articles bearing on whether humans contribute to global warming, 52.65% gave what the coders called a balanced account. Another 35.29% presented both sides while emphasising the anthropogenic view, 6.18% emphasised doubt, and 5.88% carried the anthropogenic view alone. Of the 367 articles on what should be done, 78.20% were balanced, 11.17% favoured cautious or voluntary action and 10.63% favoured immediate or mandatory action. Later counts run the other way. Michael Brüggemann and Sven Engesser coded 936 articles from 25 outlets across 2011 and 2012, in Germany, India, the United Kingdom, the United States and Switzerland. They matched 747 of them to their authors, 62 of 170 identified climate journalists having answered a survey. The four statements making up the scientific consensus were challenged in 2 to 4% of articles. Contrarians were still mentioned or quoted in almost every fifth article, and more than 69% of the articles quoting them also framed them negatively. Eric Merkley collected nearly 300,000 articles and transcripts across ten issues where experts agree, drawn from six newspapers, broadcast and cable networks, and the Associated Press. He hand-coded a stratified sample of 3,147. Across all ten, 56% of articles emphasised arguments supporting the expert position and 23% emphasised arguments against. False balance, defined as citing contrarian experts to offset expert sources, appeared in 21% of coverage carrying an expert message, and it fell in climate coverage from 28% in the 1980s to 10% after 2010. It was 19% for climate and 13% for vaccines across the whole period, against 40% for genetically modified organisms and 38% for nuclear safety. Citing a polarising political opponent instead was commoner, at 42% overall. The experiments measure readers. Graham Dixon and Christopher Clarke ran the autism and vaccine case twice. In Health Education Research they assigned 320 undergraduates to one of four articles: claims for and against a link, link claims only, no-link claims only, or unrelated material. They report that the balanced article left readers less certain that vaccines are safe, and less likely to say they would vaccinate their future children. In Science Communication they assigned 327 participants to the same four conditions. Readers of the balanced article were less certain vaccines did not cause autism, and the effect on certainty ran through the belief that medical experts are divided. Derek Koehler tested the sharper version. He gave participants a complete count of how many experts on a panel took each side, then added conflicting comments from two of them. Against a control given only the count, the balance condition discriminated less clearly between issues with and without strong consensus, perceived less agreement in general, and was less likely to say agreement was sufficient to guide government policy. His conclusion is that false balance distorts \"even when participants would seem to have all the information needed to correct for its influence\". Tianshuang Han, Brent Snook and Martin Day repeated that design three times in criminal psychology. With 254 participants reading about an interrogation tactic, balanced messages lowered perceived expert consensus, most where the true consensus was high, and lowered support for experts testifying. With 360 participants and four conditions, comments split 3:3, 5:1 towards consensus, 1:5 towards the contrarian, or absent, balanced comments distorted perceived consensus and the 5:1 split debiased it best. With 307 participants told that nearly 90% of experts hold non-verbal lie detection to be unreliable, balanced comments still lowered perceived consensus and reduced policy support. Brendan Nyhan, Ethan Porter and Thomas Wood tested the sequential version on 2,898 Mechanical Turk respondents who completed four waves, with a median of 14 days from randomisation to the end. Science coverage raised belief that climate change has a human cause immediately, by 0.089 on their scale, and support for government action by 0.195. Skeptical opinion content shown afterwards cut the human-cause belief by 0.064 in the next wave and 0.071 in the one after, and cut support for government action by 0.297. Coverage of partisan conflict over climate did no such damage.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Balanced presentation lowers perceived expert agreement, and the result has been produced by three independent groups, including in designs where participants were shown the true consensus figure first.",
+    "detail": "Koehler's paradigm gives participants the count of experts on each side and then adds two duelling quotations. Han, Snook and Day rebuilt it in a field with no connection to climate or vaccines, and got the same result three times. The samples were 254 participants on an interrogation tactic in 2024, 360 on false evidence ploys in 2025, and 307 on non-verbal lie detection in 2026. In the last of these the report itself stated that nearly 90% of experts reject non-verbal lie detection, and balanced comments still lowered perceived consensus and reduced support for policy following the consensus. Dixon and Clarke's two vaccine experiments, 320 and 327 participants, are an internal repetition by the same pair using the same four conditions, and both report lower certainty after the balanced article. What corrects it is less settled. Philipp Schmid, Marius Schwarzer and Cornelia Betsch ran three preregistered experiments, 887 participants in total, on mock television discussions in which a vaccine denier spoke. Inviting five advocates against one denier rather than three each did nothing, in all three experiments and on every outcome. It failed whether the extra advocates sat silent as a social cue or all spoke. On attitude the interaction was F(1, 97) = 0.11, p = .737 in Experiment 1, F(1, 382) = 0.27, p = .605 in Experiment 2, and F(1, 388) = 2.10, p = .148 in Experiment 3. A short text warning readers about false balance beforehand did work. In Experiment 2 it moved attitude, F(1, 382) = 7.52, p = .006, intention, F(1, 382) = 14.75, p < .001, and confidence, F(1, 382) = 10.44, p = .001. In Experiment 3 it moved intention, F(1, 388) = 6.92, p = .009, and confidence, F(1, 388) = 8.76, p = .003, but not attitude, F(1, 388) = 1.11, p = .293. Han, Snook and Day's 2026 experiment tested a forewarning about the same 'fake debate' strategy and reports that it \"had minimal effect\". Their 2025 experiment found the opposite lever worked: comments split five to one in favour of the consensus \"had the largest impact on debiasing perceived expert consensus\".",
+    "study": {
+      "cite": "Han, T., Snook, B., & Day, M. V. (2025). The False Balance Effect: Exploring Partition Dependence as a Potential Explanation. Applied Cognitive Psychology, 39(1). N = 360.",
+      "doi": "10.1002/acp.70025",
+      "year": 2025,
+      "n": 360
+    }
+  },
+  "limits": "No standardised effect size is quoted on this page, because none was obtained from a document. The coefficients from Nyhan and colleagues are ordinary least squares estimates on that study's own scales, not standardised differences. Several of the papers cited here sit behind publisher paywalls that returned HTTP 403 to direct requests. What is reported above from Dixon and Clarke, Koehler, Han, Snook and Day, and Kohl and colleagues comes from their abstracts at Crossref and Europe PMC. Imundo and Rapp's paper carries no abstract at Crossref and nothing from it is described here beyond its existence. The structured effect-size fields are therefore empty rather than filled from a summary. Boykoff's 2007 follow-up was not obtained either. Its abstract at Crossref reports a divergence from scientific consensus in the United States in 2003 to 2004, a decline in 2005 to 2006, and no major divergence in the United Kingdom. The figures usually attached to it, a fall from more than a third of articles in 2003 to about three percent in 2006, are quoted here as Brüggemann and Engesser describe them. Merkley's study was read as the preprint deposited at the Open Science Framework, not as the version published in Political Communication, and the two may differ. The counts are not comparable with one another. Boykoff and Boykoff's 52.65% is a share of articles bearing on the existence of anthropogenic warming. Merkley's 21% is a share of articles carrying a message from an expert about an area of agreement, a narrower denominator. His climate figure also covers a different period and a wider set of outlets. Neither is a measurement of any reader. On the experimental side the samples are mostly students and online panels, the materials are single articles or short mock broadcasts, and the outcomes are ratings taken minutes later. Nyhan and colleagues are the exception on duration and size, and their design pairs science coverage with opinion in successive weeks rather than balancing two voices inside one article, so it tests a sequence rather than a balanced report. Schmid and colleagues' design has no one-sided control either: a denier speaks in every condition, so what they measure is whether adding advocates or a warning reduces the damage, not what balance does against accurate coverage. Their Experiment 3 text gives the sample as 369 while their tables and degrees of freedom give 396. The deeper limit is definitional. Deciding that a particular pairing is false requires knowing how the evidence stands on the underlying question, which no feature of the report itself supplies, and the coding schemes above all import that judgement from outside. Zanartu and colleagues' classifier shows the cost. False equivalence was the hardest of their twelve fallacies to detect, with an F1 of 0.46 on validation and 0.43 on test, against 0.96 and 1.00 for fake experts. It had 74 labelled examples out of 2,509.",
+  "misreadings": "The commonest error is treating false equivalence and false balance as one claim. The fallacy, as Zanartu and colleagues define it, is an abuse of comparison and needs no journalist and no second speaker. The editorial practice is a choice about whom to quote, and it can be committed with two accurate quotations and no false sentence anywhere. The second error is reading a content analysis as an effect. Boykoff and Boykoff counted articles and Merkley counted articles, and neither asked anybody what they believed afterwards. The slippery slope entry in this collection draws the same line, between ratings of arguments and events in the world. The third error is treating the fallacy as identifiable from form. Terzian's two art historians disagreeing about a painting are structurally identical to two experts disagreeing about the climate, and only the state of the underlying evidence separates prudent suspension of judgement from the mistake. The fourth is announcing that the problem has been fixed. Merkley's counts do show climate false balance falling from 28% in the 1980s to 10% after 2010. In the same data it stood at 40% for genetically modified organisms, 38% for nuclear safety and 34% in cable news. Brüggemann and Engesser found contrarians still quoted in almost every fifth article, with the quotation usually there to dismiss them. The fifth is assuming that printing the consensus figure protects the reader. It did not in Koehler's experiments, where participants held the full count of experts on each side, and it did not for Han, Snook and Day, whose participants were told nearly 90% of experts agreed and still moved. The sixth is expecting a forewarning to settle the matter: it helped in Schmid and colleagues' second and third experiments and had minimal effect in Han, Snook and Day's."
+  ,
+  "sources": [
+    {
+      "text": "Boykoff, M. T., & Boykoff, J. M. (2004). Balance as bias: global warming and the US prestige press. Global Environmental Change, 14(2), 125-136. Full text read as the PDF hosted by the University of Colorado's Center for Science and Technology Policy Research; every figure quoted was re-extracted with a second tool.",
+      "doi": "10.1016/j.gloenvcha.2003.10.001",
+      "url": "https://sciencepolicy.colorado.edu/admin/publication_files/2004.33.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Boykoff, M. T. (2007). Flogging a dead norm? Newspaper coverage of anthropogenic climate change in the United States and United Kingdom from 2003 to 2006. Area, 39(4), 470-481. Not obtained; the publisher returned HTTP 403 and only the abstract at Crossref was read. The percentages usually attributed to it are quoted on this page through Brüggemann and Engesser.",
+      "doi": "10.1111/j.1475-4762.2007.00769.x",
+      "url": "https://doi.org/10.1111/j.1475-4762.2007.00769.x",
+      "type": "primary"
+    },
+    {
+      "text": "Brüggemann, M., & Engesser, S. (2017). Beyond false balance: How interpretive journalism shapes media coverage of climate change. Global Environmental Change, 42, 58-67. Read as the final accepted manuscript posted by the authors at the University of Hamburg.",
+      "doi": "10.1016/j.gloenvcha.2016.11.004",
+      "url": "https://climatematters.blogs.uni-hamburg.de/wp-content/uploads/2018/09/Beyond-false-Balance.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Merkley, E. (2020). Are Experts (News)Worthy? Balance, Conflict, and Mass Media Coverage of Expert Consensus. Political Communication, 37(4), 530-549. The published version was not obtained. Every figure quoted here was read from the author's preprint of the same title at the Open Science Framework and checked twice.",
+      "doi": "10.1080/10584609.2020.1713269",
+      "url": "https://osf.io/download/s2ap8/",
+      "type": "primary"
+    },
+    {
+      "text": "Merkley, E. Are Experts (News)Worthy? Balance, Conflict, and Mass Media Coverage of Expert Consensus. Open Science Framework preprint. The document actually read for the counts above.",
+      "doi": "10.31219/osf.io/s2ap8",
+      "url": "https://osf.io/s2ap8/",
+      "type": "primary"
+    },
+    {
+      "text": "Dixon, G. N., & Clarke, C. E. (2013). The effect of falsely balanced reporting of the autism-vaccine controversy on vaccine safety perceptions and behavioral intentions. Health Education Research, 28(2), 352-359. Not obtained; the publisher returned HTTP 403 and the abstract was read at Europe PMC.",
+      "doi": "10.1093/her/cys110",
+      "url": "https://europepmc.org/article/MED/23193194",
+      "type": "primary"
+    },
+    {
+      "text": "Dixon, G. N., & Clarke, C. E. (2013). Heightening Uncertainty Around Certain Science. Science Communication, 35(3), 358-382. Not obtained; the abstract was read at Crossref, which is the source of the sample size of 327 and of the mediation result.",
+      "doi": "10.1177/1075547012458290",
+      "url": "https://doi.org/10.1177/1075547012458290",
+      "type": "primary"
+    },
+    {
+      "text": "Koehler, D. J. (2016). Can journalistic \"false balance\" distort public perception of consensus in expert opinion? Journal of Experimental Psychology: Applied, 22(1), 24-38. Not obtained; the abstract was read at Europe PMC and is the source of every claim about this study, including the quoted sentence. No sample size is given on this page for that reason.",
+      "doi": "10.1037/xap0000073",
+      "url": "https://europepmc.org/article/MED/26752513",
+      "type": "primary"
+    },
+    {
+      "text": "Han, T., Snook, B., & Day, M. V. (2024). Not every story has two sides: the effect of false balance on perceived scientific consensus about interrogation practices. Journal of Criminal Psychology, published online 26 November 2024. Not obtained; the abstract was read at Crossref.",
+      "doi": "10.1108/jcp-09-2024-0091",
+      "url": "https://doi.org/10.1108/jcp-09-2024-0091",
+      "type": "primary"
+    },
+    {
+      "text": "Han, T., Snook, B., & Day, M. V. (2025). The False Balance Effect: Exploring Partition Dependence as a Potential Explanation. Applied Cognitive Psychology, 39(1). Not obtained; the abstract was read at Crossref and is the source of the four conditions, the sample of 360 and the debiasing result.",
+      "doi": "10.1002/acp.70025",
+      "url": "https://doi.org/10.1002/acp.70025",
+      "type": "primary"
+    },
+    {
+      "text": "Han, T., Snook, B., & Day, M. V. (2026). Fore! Does forewarning inoculate people against the false balance effect? Legal and Criminological Psychology, 31(1), 102-120. Not obtained; the abstract was read at Crossref and is the source of the five conditions, the sample of 307 and the quoted verdict on forewarning.",
+      "doi": "10.1111/lcrp.70004",
+      "url": "https://doi.org/10.1111/lcrp.70004",
+      "type": "primary"
+    },
+    {
+      "text": "Schmid, P., Schwarzer, M., & Betsch, C. (2020). Weight-of-Evidence Strategies to Mitigate the Influence of Messages of Science Denialism in Public Discussions. Journal of Cognition, 3(1), 36. Full text read from the JATS XML at Europe PMC, fetched twice with identical results.",
+      "doi": "10.5334/joc.125",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/",
+      "type": "primary"
+    },
+    {
+      "text": "Nyhan, B., Porter, E., & Wood, T. J. (2022). Time and skeptical opinion content erode the effects of science coverage on climate beliefs and attitudes. Proceedings of the National Academy of Sciences, 119(26), e2122069119. Full text read from the JATS XML at Europe PMC, fetched twice with identical results.",
+      "doi": "10.1073/pnas.2122069119",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9245713/",
+      "type": "primary"
+    },
+    {
+      "text": "Terzian, G. (2025). The epistemic dangers of journalistic balance. Episteme, 22(4), 931-951. Full text read as the open-access PDF at Cambridge University Press. Source of the definition of false balance quoted above and of the art-historian illustration.",
+      "doi": "10.1017/epi.2024.45",
+      "url": "https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE",
+      "type": "commentary"
+    },
+    {
+      "text": "Aikin, S. F., & Casey, J. P. (2022). Bothsiderism. Argumentation, 36(2), 249-268. Full text read from the JATS XML at Europe PMC. Source of the definition of the audience-side fallacy and of the division of roles quoted above.",
+      "doi": "10.1007/s10503-021-09563-1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8742682/",
+      "type": "commentary"
+    },
+    {
+      "text": "Zanartu, F., Cook, J., Wagner, M., & García, J. (2024). A technocognitive approach to detecting fallacies in climate misinformation. Scientific Reports, 14, 27647. Full text read from the JATS XML at Europe PMC, fetched twice. Source of the definition of false equivalence as a fallacy, of the religion example, of the label counts and of the classifier scores.",
+      "doi": "10.1038/s41598-024-76139-w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11557567/",
+      "type": "primary"
+    },
+    {
+      "text": "Kohl, P. A., Kim, S. Y., Peng, Y., Akin, H., Koh, E. J., Howell, A., & Dunwoody, S. (2016). The influence of weight-of-evidence strategies on audience perceptions of (un)certainty when media cover contested science. Public Understanding of Science, 25(8), 976-991. Not obtained; the abstract at Crossref names the weight-of-evidence strategy and reports that it can reduce perceived uncertainty, and no figure from it is quoted here.",
+      "doi": "10.1177/0963662515615087",
+      "url": "https://doi.org/10.1177/0963662515615087",
+      "type": "primary"
+    },
+    {
+      "text": "Imundo, M. N., & Rapp, D. N. (2022). When fairness is flawed: Effects of false balance reporting and weight-of-evidence statements on beliefs and perceptions of climate change. Journal of Applied Research in Memory and Cognition, 11(2), 258-271. Located but not obtained, and Crossref carries no abstract for it, so nothing from it is described on this page.",
+      "doi": "10.1016/j.jarmac.2021.10.002",
+      "url": "https://doi.org/10.1016/j.jarmac.2021.10.002",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
