@@ -1,0 +1,102 @@
+{
+  "no": 408,
+  "slug": "whataboutism",
+  "name": "Whataboutism",
+  "aliases": ["Whataboutery", "Whatabouts", "Appeal to hypocrisy", "Whataboutist argument"],
+  "category": "belief",
+  "statement": "Answering criticism by naming a comparable fault in the critic reduces support for that criticism, and it cut approval of US policy by eighteen points in a survey experiment.",
+  "meaning": "Whataboutism answers a charge by pointing at a charge the accuser has to answer. It is a second move rather than a first. The speaker is already under criticism, and the counter-charge arrives in place of a defence. Chow and Levin define it as countering an attack on one's behaviour or stated position by accusing the attacker of standing where the target of the attack stands. They separate it from naming and shaming, which moves first and sorts good actors from bad. Argumentation theory files the move under tu quoque, and the fit is loose. Bowell shows that a what-about move can allege unfair treatment of two third parties, or appeal to relative privation by naming a worse problem, or charge an arguer with not following their own prescription. Only the last is tu quoque in the textbook sense. Phi and colleagues, annotating social media, found commenters deflecting to parties absent from the exchange, so the one addressed is often not the one accused. The word names the tactic rather than the fault in it. What decides whether a given instance is a fallacy is what the inconsistency is offered to prove.",
+  "origin": {
+    "year": 1974,
+    "who": "Sean O'Conaill and John Healy",
+    "where": "The Irish Times",
+    "note": "The name is Irish and the practice is older than the name. On 30 January 1974 The Irish Times printed a letter from Sean O'Conaill of Coleraine attacking 'the Whatabouts', the people who met every condemnation of the Provisional IRA with 'What about Bloody Sunday, internment, torture, force feeding, army intimidation?'. Three days later the journalist John Healy, writing as 'Backbencher', took up the letter and wrote of a bellyful of 'Whataboutery'. The form in -ism appears four years later and in another argument. A letter from Lionel Bloch of London in The Guardian of 23 May 1978 used 'whataboutism' and 'whataboutist' against Western apologists for communist rule. Michael Barnard's column in The Age of Melbourne borrowed both on 17 June 1978. Neither coinage was made by a practitioner. All four items are quoted here from Pascal Treguer's word histories site, which reproduces them from newspaper archives, except the Age column, which Merriam-Webster also quotes and attributes to a Michael Bernard. None was read in the original archive. Chow and Levin, who call whataboutism a much older practice than its Cold War reputation suggests, date official government use to the nineteenth century and offer John 8:7 as an ancestor."
+  },
+  "evidence": "The experiment that measures the tactic itself is Chow and Levin's, run twice on American adults recruited through Lucid. The main survey, fielded between August and September 2021, used 2,452 respondents. Each read two vignettes in random order, one about a country mistreating refugees and one about a country funding a candidate in a French election, with the country randomly Russia, Turkey or Germany. A US spokesperson criticised the country and threatened punishment. Respondents were then randomly assigned one of five replies: no comment, a flat denial, or a whataboutist charge that the US had done something unrelated, something similar in the distant past, or something similar and current. Each whataboutist charge was stated to have been confirmed by independent factcheckers. Approval of US behaviour and support for sanctions were rated on five-point scales and coded as approving or not. Approval fell from 56% after no comment to 38% after the recent and similar charge, a drop of eighteen points, and support for sanctions fell from 59% to 49%. The past and similar charge cost thirteen and nine points. The unrelated charge cost seven points of approval and left sanctions where they were. The denial did nothing, at 54% and 55%. The identity of the accuser made no difference the authors could detect. Approval fell 21 points when Russia made the charge and 22 when Germany did. Only Turkey, the country rated neutrally, gave an inconsistent pattern, which the authors attribute to what respondents already knew about the Syrian refugee crisis. A mediation analysis put most of the effect through the credibility of the US criticism. The average causal mediation effect through credibility was -0.053, p < 0.001, against -0.02 for US legitimacy and -0.01 for moral equivalence. The three accounted for about 32%, 12.1% and 5.1% of the lost approval. Open-ended answers moved the same way, with hypocrisy topics rising and defence-of-democracy topics falling. The follow-up, fielded in January 2022 with 3,200 respondents, let the US answer back. It reproduced the main result at nineteen points of approval and eleven of sanctions. Dismissing the charge as a distraction changed nothing. In the refugee vignette, and only there, admitting fault and citing reform, or citing the wider US record, cut the effect on approval by eleven and eight points. A second literature asks the same question of individuals, by testing whether an advocate's own conduct changes what their advice is worth. Attari, Krantz and Weber gave 3,646 participants on Mechanical Turk in May 2017 one of twelve vignettes about a climate researcher who recommends a policy and is then asked from the floor about the energy he uses at home. On a credibility index running from -1 to +1, he scored +0.51 when his own use was low and +0.07 when it was high. Support for the policy he advocated fell with him, by about 0.2 points on a five-point scale for five of the six policies, with standard errors on those differences near 0.07 and about 300 responses per vignette. The exception was investment in renewable energy, where the gap of 0.07 points was not distinguishable from zero. A second study gave 1,772 participants in March 2016 vignettes in which the researcher had reformed his flying or his home energy use. Partial and complete reform both restored credibility to roughly the level of a researcher whose footprint had always been low. The authors call their manipulation an ad hominem argument based on the advocate's carbon footprint and read the results as marking a vulnerability in anyone who argues for cutting emissions. Two counts of how often the move occurs exist, and neither is a rate for discourse at large. Da San Martino and colleagues had professional annotators mark eighteen propaganda techniques in 451 news articles, 372 of them from sources judged propagandistic. Of 7,485 marked fragments, 76 were whataboutism, thirteenth of the eighteen, ahead of red herring at 48 and straw man at 15. Phi and colleagues built the larger set, choosing six divisive topics on YouTube and eight on Twitter because whataboutism was likely to appear there. Three annotators labelled 1,642 YouTube comments, of which 202 were whataboutism, and 1,202 tweet and reply pairs, of which 508 were, with Fleiss's kappa at 0.65 and 0.75. Their thematic reading reports that the phrase 'what about' does not mark the move and that the move often arrives without it. Kendall reports an experiment on British respondents confronted with the harms of empire. That paper was not obtained; his own summary of it says deflective comparison with worse harms raised prejudice against the harmed out-group where the threat to group identity was salient.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The eighteen-point result was repeated four months later on a fresh sample of 3,200 and came out at nineteen. Both runs are the same two authors, the same survey firm and the same vignettes, and no independent replication was located.",
+    "detail": "Chow and Levin fielded the follow-up in January 2022, between the two waves of public feeling about Russia that the invasion of Ukraine divides. Recent and similar whataboutism moved approval of US behaviour nineteen points against the no-comment baseline, and support for sanctions eleven points, where the main survey had given eighteen and ten. Taking the election vignette alone, the drop in approval was eighteen points in the main survey and twenty in the follow-up. What did not carry over is smaller. The unrelated charge reduced approval but not sanctions, so the weakest version of the tactic reached only one of the two outcomes. Turkey, the country respondents viewed neutrally, produced smaller and patchier declines than Russia or Germany in the refugee vignette, which the authors put down to what respondents already knew about Turkey and refugees. The individual-level result has its own internal replication. Attari, Krantz and Weber's 2019 study repeated the credibility effect they had reported in 2016 with the same three authors, and added policy support as a new outcome that moved in the same direction."
+    ,
+    "study": {
+      "cite": "Chow, W. M., & Levin, D. H. (2024). The Diplomacy of Whataboutism and US Foreign Policy Attitudes. International Organization, 78(1), 103-133. Follow-up survey experiment, n = 3,200.",
+      "doi": "10.1017/S002081832400002X",
+      "year": 2024,
+      "n": 3200
+    },
+    "original": {
+      "es": -18,
+      "esType": "md",
+      "unit": "percentage points approving of US behaviour, recent whataboutism minus no comment"
+    },
+    "replicated": {
+      "es": -19,
+      "esType": "md",
+      "unit": "percentage points approving of US behaviour, recent whataboutism minus no comment"
+    }
+  },
+  "limits": "Everything experimental here rests on two research teams. No independent replication of Chow and Levin was located in searches at Crossref, Semantic Scholar, Europe PMC and general web search, pairing the title and the authors with replication terms and pairing whataboutism with terms for survey experiments. Their appendix, which holds the attentiveness checks, the power analysis and the split-by-issue results, was not obtained, so figures reported here come only from the article. The article prints the confidence intervals on its condition means as error bars in its figures rather than as numbers, and the means quoted here are the panel labels in Figures 3, 4, 7 and 8. Both experiments state that the whataboutist charge had been verified by factcheckers, so what was tested is a true counter-accusation and not a false one. Both measure stated approval minutes after reading a vignette, on scales collapsed to two categories, among Americans only, and the authors say the effect on other publics is untested. The Attari results are stated intentions and ratings from Mechanical Turk, and the 2016 study behind them was not obtained; no number from it is quoted here. Neither corpus count is a prevalence estimate. Da San Martino's articles were drawn mostly from outlets already judged propagandistic, and Phi's topics were chosen because whataboutism was expected in them, with comments lacking discursive content filtered out first. No count of how often the move occurs in unselected discourse was found in the same searches. Kendall's 2026 paper in Political Behavior and Aikin and Casey's 2024 paper in Social Epistemology were both located and neither was obtained; the publishers refused retrieval. The origin evidence is at one remove throughout. The 1974 Irish Times letter and column and the 1978 Guardian and Age items were read as quotations on a word-history site. Merriam-Webster quotes the Age column too, and gives the columnist's surname as Bernard where the other source gives Barnard. No newspaper archive was consulted directly.",
+  "misreadings": "The commonest error is that the Soviet Union invented it. The practice is old, and Chow and Levin place official government use in the nineteenth century, but the words are Irish and British and were coined by people attacking the tactic. O'Conaill and Healy were writing about the Troubles, and Lionel Bloch, the first known user of 'whataboutism', aimed it at Westerners who would not criticise Moscow without a matching complaint about South Africa or Pakistan. The second error is treating the move as identical with tu quoque. Bowell separates several forms, of which the classical one, rejecting advice because the adviser does not take it, is only the most familiar. Phi's annotators kept finding comments that deflect towards parties who are not in the conversation at all. The third error reads 'fallacy' as 'ineffective', which the numbers contradict. The tactic also does not need a hostile speaker: the same charge from Germany worked as well as from Russia. What separates the fallacy from a fair objection is what the inconsistency is asked to do. Bowell's account is that a what-about move challenges an apparently unjustified exclusion and demands a reason why this case is treated differently, and that the challenge is legitimate when the differential treatment is itself in question. Her example is an argument that governments opened their borders to Ukrainians while leaving Afghans and Rohingya where they were, which uses the comparison to press for wider obligations rather than to escape them. The move goes wrong when the inconsistency is offered as sufficient reason to drop the original demand, which leaves the first charge unanswered while the argument moves elsewhere. Evidence about an advocate's own conduct is not irrelevant either, since Attari's participants adjusted their view of a climate researcher's advice by the size of his own footprint and adjusted it back when he reformed. Chow and Levin's rejoinder results point the same way: dismissing the counter-charge as a distraction did nothing, and admitting the fault and citing the repair worked, in one of their two issue areas."
+  ,
+  "sources": [
+    {
+      "text": "Chow, W. M., & Levin, D. H. (2024). The Diplomacy of Whataboutism and US Foreign Policy Attitudes. International Organization, 78(1), 103-133. Open access under CC BY. Full text read from the publisher's PDF; every figure quoted here appears in the running text or in the labels of Figures 3, 4, 7 and 8.",
+      "doi": "10.1017/S002081832400002X",
+      "url": "https://doi.org/10.1017/S002081832400002X",
+      "type": "primary"
+    },
+    {
+      "text": "Attari, S. Z., Krantz, D. H., & Weber, E. U. (2019). Climate change communicators' carbon footprints affect their audience's policy support. Climatic Change, 154(3-4), 529-545. Full text read as the authors' offprint. Source for the credibility, policy-support and reform figures.",
+      "doi": "10.1007/s10584-019-02463-0",
+      "url": "https://elke-u-weber.com/media/2019_climaticchange_attari.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Attari, S. Z., Krantz, D. H., & Weber, E. U. (2016). Statements about climate researchers' carbon footprints affect their credibility and the impact of their advice. Climatic Change, 138(1-2), 325-338. Not obtained. Named here as the earlier study the 2019 paper repeats; no figure from it is quoted.",
+      "doi": "10.1007/s10584-016-1713-2",
+      "url": "https://doi.org/10.1007/s10584-016-1713-2",
+      "type": "primary"
+    },
+    {
+      "text": "Da San Martino, G., Yu, S., Barron-Cedeno, A., Petrov, R., & Nakov, P. (2019). Fine-Grained Analysis of Propaganda in News Articles. EMNLP-IJCNLP 2019, 5635-5645. Read as the ACL Anthology PDF. Source for the definition used by annotators and for the count of 76 whataboutism fragments in Table 5.",
+      "doi": "10.18653/v1/D19-1565",
+      "url": "https://aclanthology.org/D19-1565.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Phi, K., Salek Faramarzi, N., Wang, C., & Banerjee, R. (2024). Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online Discourse. Findings of the ACL 2024, 12628-12643. Read as the arXiv preprint 2402.09934, including the datasheet in Appendix A, which gives the label counts.",
+      "doi": "10.18653/v1/2024.findings-acl.750",
+      "url": "https://arxiv.org/abs/2402.09934",
+      "type": "primary"
+    },
+    {
+      "text": "Bowell, T. (2023). Whataboutisms: The Good, the Bad and the Ugly. Informal Logic, 43(1), 91-112. Open access. Full text read. Source for the varieties of the move and for the account of when it is legitimate.",
+      "doi": "10.22329/il.v43i1.7304",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/7304",
+      "type": "primary"
+    },
+    {
+      "text": "Kendall, J. (2026). We Could Have Been Worse: 'Whataboutism' and Defensive Memory Among Perpetrator Groups. Political Behavior. Not obtained; the publisher refused retrieval. The result described on this page is the author's own summary on his research page, read at joe-kendall.com. No number from the paper is quoted.",
+      "doi": "10.1007/s11109-026-10133-y",
+      "url": "https://joe-kendall.com/research.html",
+      "type": "primary"
+    },
+    {
+      "text": "Aikin, S., & Casey, J. (2024). What about Whataboutism? Social Epistemology, 40(3), 329-338. Not obtained; the publisher refused retrieval. Named here because it argues the move is not reducible to tu quoque, a claim this page rests on Bowell and on Phi and colleagues instead.",
+      "doi": "10.1080/02691728.2024.2343729",
+      "url": "https://doi.org/10.1080/02691728.2024.2343729",
+      "type": "commentary"
+    },
+    {
+      "text": "Treguer, P. The coinage of an Irish political term: 'whataboutery' (24 December 2018) and The emergence of the political term 'whataboutism' in 1978 (25 December 2018). word histories. Quotes the Irish Times of 30 January and 2 February 1974, The Guardian of 23 and 25 May 1978, and The Age of 17 June 1978 from newspaper archives. The archives themselves were not consulted.",
+      "url": "https://wordhistories.net/2018/12/24/whataboutery-origin/",
+      "type": "provenance"
+    },
+    {
+      "text": "Merriam-Webster. What about 'whataboutism'? Words We're Watching, with a note that the word entered the dictionary in October 2021. Quotes the same 17 June 1978 column in The Age, attributing it to Michael Bernard.",
+      "url": "https://www.merriam-webster.com/wordplay/whataboutism-origin-meaning",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
