@@ -2,6 +2,7 @@
  "generated": "2026-08-08",
  "sources": {
   "list_article": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+  "fallacy_list_article": "https://en.wikipedia.org/wiki/List_of_fallacies",
   "categories": [
    "Category:Cognitive biases",
    "Category:Memory biases"
@@ -6244,6 +6245,1862 @@
    "note": "Ten of the RP:P findings, the ones whose original authors had flagged problems with the replication design before data collection, were re-replicated by Many Labs 5, and those ten do carry per-study numbers in this file.",
    "entry": null,
    "source": "Open Science Collaboration (2015), Estimating the reproducibility of psychological science, Science 349, aac4716, doi 10.1126/science.aac4716, and its supplementary materials"
+  }
+ ],
+ "fallacies": [
+  {
+   "title": "Survivorship bias",
+   "views_per_month": 53600,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Survivorship bias"
+   ],
+   "redirects_here": [],
+   "entry": "survivorship-bias"
+  },
+  {
+   "title": "Red herring",
+   "views_per_month": 25797,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Red herring"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Straw man",
+   "views_per_month": 23705,
+   "sections": [
+    "Informal fallacies > Faulty generalizations",
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Nut-picking",
+    "Straw man"
+   ],
+   "redirects_here": [
+    "Nut-picking"
+   ],
+   "entry": "straw-man"
+  },
+  {
+   "title": "Ad hominem",
+   "views_per_month": 21318,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Ad hominem",
+    "Circumstantial ad hominem"
+   ],
+   "redirects_here": [],
+   "entry": "ad-hominem"
+  },
+  {
+   "title": "Whataboutism",
+   "views_per_month": 17967,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Whataboutism"
+   ],
+   "listed_as_alias_of": "Tu quoque",
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Sunk cost",
+   "views_per_month": 16446,
+   "sections": [
+    "Informal fallacies > Questionable cause > Statistical fallacies"
+   ],
+   "listed_as": [
+    "Sunk costs fallacy"
+   ],
+   "redirects_here": [
+    "Sunk costs fallacy"
+   ],
+   "entry": "sunk-cost",
+   "note": "listed as the sunk costs fallacy; the canonical article is about the economic concept"
+  },
+  {
+   "title": "Thought-terminating cliché",
+   "views_per_month": 16132,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Thought-terminating cliché"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Motte-and-bailey fallacy",
+   "views_per_month": 15984,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Motte-and-bailey fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "motte-and-bailey-fallacy"
+  },
+  {
+   "title": "No true Scotsman",
+   "views_per_month": 15547,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "No true Scotsman"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Begging the question",
+   "views_per_month": 12337,
+   "sections": [
+    "Informal fallacies > Improper premise"
+   ],
+   "listed_as": [
+    "Begging the question"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Gambler's fallacy",
+   "views_per_month": 11980,
+   "sections": [
+    "Informal fallacies > Questionable cause > Statistical fallacies"
+   ],
+   "listed_as": [
+    "Gambler's fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "gamblers-fallacy"
+  },
+  {
+   "title": "Correlation does not imply causation",
+   "views_per_month": 10955,
+   "sections": [
+    "Informal fallacies > Questionable cause"
+   ],
+   "listed_as": [
+    "Cum hoc ergo propter hoc",
+    "Wrong direction",
+    "Ignoring a common cause"
+   ],
+   "redirects_here": [
+    "Cum hoc ergo propter hoc",
+    "Ignoring a common cause",
+    "Wrong direction"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Is–ought problem",
+   "views_per_month": 9785,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Is–ought fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null,
+   "note": "listed as the is–ought fallacy; the canonical article is about Hume's problem"
+  },
+  {
+   "title": "Magical thinking",
+   "views_per_month": 8439,
+   "sections": [
+    "Informal fallacies > Questionable cause"
+   ],
+   "listed_as": [
+    "Magical thinking"
+   ],
+   "redirects_here": [],
+   "entry": "magical-thinking"
+  },
+  {
+   "title": "Base rate fallacy",
+   "views_per_month": 7720,
+   "sections": [
+    "Formal fallacies",
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Base rate fallacy",
+    "Prosecutor's fallacy"
+   ],
+   "redirects_here": [
+    "Prosecutor's fallacy"
+   ],
+   "entry": "base-rate-fallacy"
+  },
+  {
+   "title": "Tu quoque",
+   "views_per_month": 7525,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Tu quoque"
+   ],
+   "redirects_here": [],
+   "entry": "ad-hominem"
+  },
+  {
+   "title": "False dilemma",
+   "views_per_month": 7343,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "False dilemma"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Sorites paradox",
+   "views_per_month": 6974,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Continuum fallacy"
+   ],
+   "redirects_here": [
+    "Continuum fallacy"
+   ],
+   "entry": null,
+   "note": "listed as the continuum fallacy; the canonical article is about the paradox"
+  },
+  {
+   "title": "Slippery slope",
+   "views_per_month": 6691,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Slippery slope"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Vacuous truth",
+   "views_per_month": 6455,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Vacuous truth"
+   ],
+   "redirects_here": [],
+   "entry": null,
+   "excluded": "a form of true statement in logic; the article describes no error in reasoning"
+  },
+  {
+   "title": "Data dredging",
+   "views_per_month": 6107,
+   "sections": [
+    "Informal fallacies > Questionable cause > Statistical fallacies"
+   ],
+   "listed_as": [
+    "p-hacking"
+   ],
+   "redirects_here": [
+    "p-hacking"
+   ],
+   "entry": null,
+   "excluded": "a research malpractice rather than a judgement error; excluded on the same grounds in the candidates array"
+  },
+  {
+   "title": "Circular reasoning",
+   "views_per_month": 6019,
+   "sections": [
+    "Informal fallacies > Improper premise"
+   ],
+   "listed_as": [
+    "Circular reasoning"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Post hoc ergo propter hoc",
+   "views_per_month": 5947,
+   "sections": [
+    "Informal fallacies > Questionable cause"
+   ],
+   "listed_as": [
+    "Post hoc ergo propter hoc"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Texas sharpshooter fallacy",
+   "views_per_month": 5832,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Texas sharpshooter fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "texas-sharpshooter-fallacy"
+  },
+  {
+   "title": "False equivalence",
+   "views_per_month": 5817,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "False equivalence"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argument from authority",
+   "views_per_month": 5798,
+   "sections": [
+    "Informal fallacies",
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "False authority",
+    "Appeal to authority"
+   ],
+   "redirects_here": [
+    "Appeal to authority",
+    "False authority"
+   ],
+   "entry": null
+  },
+  {
+   "title": "McNamara fallacy",
+   "views_per_month": 5713,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "McNamara fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "quantification-bias"
+  },
+  {
+   "title": "Cherry picking",
+   "views_per_month": 5393,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Cherry picking"
+   ],
+   "redirects_here": [
+    "Cherry picking (fallacy)"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Reification (fallacy)",
+   "views_per_month": 4602,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Reification"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Loaded question",
+   "views_per_month": 4494,
+   "sections": [
+    "Informal fallacies > Improper premise"
+   ],
+   "listed_as": [
+    "Fallacy of many questions"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Lump of labour fallacy",
+   "views_per_month": 4346,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Lump of labour fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Affirming the consequent",
+   "views_per_month": 4303,
+   "sections": [
+    "Formal fallacies > Propositional fallacies"
+   ],
+   "listed_as": [
+    "Affirming the consequent"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argument from ignorance",
+   "views_per_month": 4252,
+   "sections": [
+    "Informal fallacies > Relevance fallacies"
+   ],
+   "listed_as": [
+    "Argument from ignorance"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Anecdotal evidence",
+   "views_per_month": 4242,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Misleading vividness"
+   ],
+   "redirects_here": [
+    "Misleading vividness"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Argumentum ad populum",
+   "views_per_month": 4238,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Argumentum ad populum"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Poisoning the well",
+   "views_per_month": 4146,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Poisoning the well"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Association fallacy",
+   "views_per_month": 4061,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to spite",
+    "Association fallacy"
+   ],
+   "redirects_here": [
+    "Appeal to spite"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Moving the goalposts",
+   "views_per_month": 3844,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Moving the goalposts"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Ad nauseam",
+   "views_per_month": 3318,
+   "sections": [
+    "Informal fallacies > Relevance fallacies"
+   ],
+   "listed_as": [
+    "Argument from repetition"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Naturalistic fallacy",
+   "views_per_month": 3273,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Naturalistic fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Conjunction fallacy",
+   "views_per_month": 3240,
+   "sections": [
+    "Formal fallacies"
+   ],
+   "listed_as": [
+    "Conjunction fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "conjunction-fallacy"
+  },
+  {
+   "title": "Equivocation",
+   "views_per_month": 3053,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Equivocation"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to nature",
+   "views_per_month": 2975,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to nature"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of composition",
+   "views_per_month": 2877,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of composition"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Nirvana fallacy",
+   "views_per_month": 2810,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Nirvana fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Wishful thinking",
+   "views_per_month": 2790,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Wishful thinking"
+   ],
+   "redirects_here": [],
+   "entry": "wishful-thinking"
+  },
+  {
+   "title": "Ecological fallacy",
+   "views_per_month": 2593,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Ecological fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argument from fallacy",
+   "views_per_month": 2563,
+   "sections": [
+    "Formal fallacies"
+   ],
+   "listed_as": [
+    "Argument from fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Denying the antecedent",
+   "views_per_month": 2544,
+   "sections": [
+    "Formal fallacies > Propositional fallacies"
+   ],
+   "listed_as": [
+    "Denying the antecedent"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Genetic fallacy",
+   "views_per_month": 2492,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Genetic fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to emotion",
+   "views_per_month": 2455,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to emotion"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argument to moderation",
+   "views_per_month": 2404,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Argument to moderation"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argument from incredulity",
+   "views_per_month": 2384,
+   "sections": [
+    "Informal fallacies",
+    "Informal fallacies > Relevance fallacies"
+   ],
+   "listed_as": [
+    "Argument from incredulity",
+    "Divine fallacy"
+   ],
+   "redirects_here": [
+    "Divine fallacy"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Special pleading",
+   "views_per_month": 2356,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Special pleading"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Faulty generalization",
+   "views_per_month": 2128,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Faulty generalization",
+    "Hasty generalization",
+    "Inductive fallacy"
+   ],
+   "redirects_here": [
+    "Hasty generalization",
+    "Inductive fallacy"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Tone policing",
+   "views_per_month": 2071,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Tone policing"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Homunculus argument",
+   "views_per_month": 2054,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Homunculus fallacy"
+   ],
+   "redirects_here": [
+    "Homunculus fallacy"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Ipse dixit",
+   "views_per_month": 1910,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Ipse dixit"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Nitpicking",
+   "views_per_month": 1893,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Nit-picking"
+   ],
+   "listed_as_alias_of": "Logic chopping fallacy",
+   "redirects_here": [],
+   "entry": null,
+   "excluded": "a term for excessive attention to detail, not an error in reasoning"
+  },
+  {
+   "title": "Masked-man fallacy",
+   "views_per_month": 1821,
+   "sections": [
+    "Formal fallacies"
+   ],
+   "listed_as": [
+    "Masked-man fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Kettle logic",
+   "views_per_month": 1741,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Kettle logic"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Camel's nose",
+   "views_per_month": 1585,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Camel's nose"
+   ],
+   "listed_as_alias_of": "Slippery slope",
+   "redirects_here": [],
+   "entry": null,
+   "excluded": "a metaphor for the slippery slope, which has its own row"
+  },
+  {
+   "title": "Appeal to the stone",
+   "views_per_month": 1584,
+   "sections": [
+    "Informal fallacies > Relevance fallacies"
+   ],
+   "listed_as": [
+    "Appeal to the stone"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Etymological fallacy",
+   "views_per_month": 1540,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Etymological fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Authorial intent",
+   "views_per_month": 1531,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Intentionality fallacy"
+   ],
+   "redirects_here": [
+    "Intentional Fallacy"
+   ],
+   "entry": null,
+   "note": "listed as the intentionality fallacy; the canonical article is about the concept in literary theory"
+  },
+  {
+   "title": "Bulverism",
+   "views_per_month": 1441,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Bulverism"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argument from silence",
+   "views_per_month": 1409,
+   "sections": [
+    "Informal fallacies > Relevance fallacies"
+   ],
+   "listed_as": [
+    "Argument from silence"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Two wrongs don't make a right",
+   "views_per_month": 1358,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Two wrongs make a right"
+   ],
+   "redirects_here": [
+    "Two wrongs make a right"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Argumentum ad baculum",
+   "views_per_month": 1330,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Argumentum ad baculum"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to tradition",
+   "views_per_month": 1329,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to tradition"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to probability",
+   "views_per_month": 1318,
+   "sections": [
+    "Formal fallacies"
+   ],
+   "listed_as": [
+    "Appeal to probability"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Ludic fallacy",
+   "views_per_month": 1286,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Ludic fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "ludic-fallacy"
+  },
+  {
+   "title": "Irrelevant conclusion",
+   "views_per_month": 1225,
+   "sections": [
+    "Informal fallacies > Relevance fallacies"
+   ],
+   "listed_as": [
+    "Ignoratio elenchi"
+   ],
+   "redirects_here": [
+    "Ignoratio elenchi"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Noah S. Sweat",
+   "views_per_month": 1169,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "If-by-whiskey"
+   ],
+   "redirects_here": [
+    "If-by-whiskey"
+   ],
+   "entry": null,
+   "excluded": "not a fallacy article; the if-by-whiskey link resolves to the biography of the legislator who gave the 1952 speech"
+  },
+  {
+   "title": "Politician's syllogism",
+   "views_per_month": 1120,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Politician's syllogism"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Pooh-pooh",
+   "views_per_month": 1088,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Pooh-pooh"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "I'm entitled to my opinion",
+   "views_per_month": 1067,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "I'm entitled to my opinion"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Chronological snobbery",
+   "views_per_month": 1038,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Chronological snobbery"
+   ],
+   "redirects_here": [],
+   "entry": "chronological-snobbery"
+  },
+  {
+   "title": "Fallacy of division",
+   "views_per_month": 1035,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of division"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of the single cause",
+   "views_per_month": 977,
+   "sections": [
+    "Informal fallacies > Questionable cause"
+   ],
+   "listed_as": [
+    "Fallacy of the single cause"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Persuasive definition",
+   "views_per_month": 965,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Persuasive definition"
+   ],
+   "redirects_here": [],
+   "entry": "persuasive-definition"
+  },
+  {
+   "title": "Quoting out of context",
+   "views_per_month": 949,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of quoting out of context"
+   ],
+   "redirects_here": [
+    "Fallacy of quoting out of context"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Argument from analogy",
+   "views_per_month": 897,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "False analogy"
+   ],
+   "redirects_here": [
+    "False analogy"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Appeal to consequences",
+   "views_per_month": 896,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to consequences"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Existential fallacy",
+   "views_per_month": 891,
+   "sections": [
+    "Formal fallacies > Quantification fallacies"
+   ],
+   "listed_as": [
+    "Existential fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to ridicule",
+   "views_per_month": 874,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to ridicule"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to fear",
+   "views_per_month": 873,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to fear"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Inverse gambler's fallacy",
+   "views_per_month": 858,
+   "sections": [
+    "Informal fallacies > Questionable cause > Statistical fallacies"
+   ],
+   "listed_as": [
+    "Inverse gambler's fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "False attribution",
+   "views_per_month": 832,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "False attribution"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of the undistributed middle",
+   "views_per_month": 826,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of the undistributed middle"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to novelty",
+   "views_per_month": 798,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to novelty"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Historian's fallacy",
+   "views_per_month": 792,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Historian's fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Proof by assertion",
+   "views_per_month": 788,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Proof by assertion"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Jumping to conclusions",
+   "views_per_month": 788,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Jumping to conclusions"
+   ],
+   "listed_as_alias_of": "Faulty generalization",
+   "redirects_here": [],
+   "entry": "jumping-to-conclusions"
+  },
+  {
+   "title": "Questionable cause",
+   "views_per_month": 780,
+   "sections": [
+    "Informal fallacies > Questionable cause"
+   ],
+   "listed_as": [
+    "Questionable cause"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Moralistic fallacy",
+   "views_per_month": 756,
+   "sections": [
+    "Informal fallacies",
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Moralistic fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of four terms",
+   "views_per_month": 691,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies",
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of four terms",
+    "Ambiguous middle term"
+   ],
+   "redirects_here": [
+    "Ambiguous middle term"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Invincible ignorance fallacy",
+   "views_per_month": 651,
+   "sections": [
+    "Informal fallacies > Relevance fallacies"
+   ],
+   "listed_as": [
+    "Invincible ignorance"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Affirming a disjunct",
+   "views_per_month": 629,
+   "sections": [
+    "Formal fallacies > Propositional fallacies"
+   ],
+   "listed_as": [
+    "Affirming a disjunct"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Mind projection fallacy",
+   "views_per_month": 607,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Mind projection fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Modal fallacy",
+   "views_per_month": 600,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Modal fallacy",
+    "Modal scope fallacy"
+   ],
+   "redirects_here": [
+    "Modal scope fallacy"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Appeal to pity",
+   "views_per_month": 563,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to pity"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Direct reference theory",
+   "views_per_month": 521,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Referential fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null,
+   "excluded": "a theory in the philosophy of language, not an error in reasoning"
+  },
+  {
+   "title": "Courtier's reply",
+   "views_per_month": 494,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Courtier's reply"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Furtive fallacy",
+   "views_per_month": 490,
+   "sections": [
+    "Informal fallacies > Questionable cause"
+   ],
+   "listed_as": [
+    "Furtive fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Affirmative conclusion from a negative premise",
+   "views_per_month": 481,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Affirmative conclusion from a negative premise"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Trivial objections",
+   "views_per_month": 475,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Trivial objections"
+   ],
+   "listed_as_alias_of": "Logic chopping fallacy",
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Accident (fallacy)",
+   "views_per_month": 454,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Accident"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to motive",
+   "views_per_month": 452,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to motive"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Proving too much",
+   "views_per_month": 399,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Proving too much"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Ergo decedo",
+   "views_per_month": 398,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Traitorous critic fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Illicit major",
+   "views_per_month": 383,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Illicit major"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of exclusive premises",
+   "views_per_month": 370,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of exclusive premises"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Package-deal fallacy",
+   "views_per_month": 364,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Package deal"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Regression fallacy",
+   "views_per_month": 361,
+   "sections": [
+    "Informal fallacies > Questionable cause > Statistical fallacies"
+   ],
+   "listed_as": [
+    "Regression fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "regression-fallacy"
+  },
+  {
+   "title": "Psychologist's fallacy",
+   "views_per_month": 360,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Psychologist's fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Forking paths problem",
+   "views_per_month": 321,
+   "sections": [
+    "Informal fallacies > Questionable cause > Statistical fallacies"
+   ],
+   "listed_as": [
+    "Garden of forking paths fallacy"
+   ],
+   "redirects_here": [
+    "Garden of forking paths fallacy"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Double counting (fallacy)",
+   "views_per_month": 307,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Double counting"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argumentum ad crumenam",
+   "views_per_month": 292,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to wealth"
+   ],
+   "redirects_here": [
+    "Appeal to wealth"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Illicit minor",
+   "views_per_month": 291,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Illicit minor"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Negative conclusion from affirmative premises",
+   "views_per_month": 282,
+   "sections": [
+    "Formal fallacies > Syllogistic fallacies"
+   ],
+   "listed_as": [
+    "Negative conclusion from affirmative premises"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Suppressed correlative",
+   "views_per_month": 270,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Suppressed correlative"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to flattery",
+   "views_per_month": 267,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to flattery"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Appeal to accomplishment",
+   "views_per_month": 257,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to accomplishment"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Observational interpretation fallacy",
+   "views_per_month": 247,
+   "sections": [
+    "Informal fallacies > Questionable cause > Statistical fallacies"
+   ],
+   "listed_as": [
+    "Observational interpretation fallacy"
+   ],
+   "redirects_here": [],
+   "entry": "observational-interpretation-fallacy"
+  },
+  {
+   "title": "Argumentum ad lazarum",
+   "views_per_month": 237,
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Appeal to poverty"
+   ],
+   "redirects_here": [
+    "Appeal to poverty"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Correlative-based fallacies",
+   "views_per_month": 221,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Correlative-based fallacies"
+   ],
+   "redirects_here": [],
+   "entry": null,
+   "excluded": "a class of fallacies rather than one of them"
+  },
+  {
+   "title": "Historical fallacy",
+   "views_per_month": 215,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Historical fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Overwhelming exception",
+   "views_per_month": 205,
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Overwhelming exception"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Retrospective determinism",
+   "views_per_month": 204,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Retrospective determinism"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of accent",
+   "views_per_month": 185,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of accent"
+   ],
+   "redirects_here": [
+    "Accent (fallacy)"
+   ],
+   "entry": null
+  },
+  {
+   "title": "Incomplete comparison",
+   "views_per_month": 117,
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Incomplete comparison"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Doorman fallacy",
+   "views_per_month": null,
+   "views_not_obtained": "the article was created inside the window; the API returned 2 of the 12 months",
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Doorman fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Definitional retreat",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Definitional retreat"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Feedback fallacy",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Feedback fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Muhammad Wang fallacy",
+   "views_per_month": null,
+   "views_not_obtained": "the article was created inside the window; the API returned 1 of the 12 months",
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Muhammad Wang fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Baconian fallacy",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Baconian fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Inflation of conflict",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies"
+   ],
+   "listed_as": [
+    "Inflation of conflict"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Loaded label",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Improper premise"
+   ],
+   "listed_as": [
+    "Loaded label"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Argument from anecdote or anecdotal fallacy",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Argument from anecdote or anecdotal fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of exhaustive effort",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Faulty generalizations"
+   ],
+   "listed_as": [
+    "Fallacy of exhaustive effort"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Judgmental language",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Judgmental language"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Style over substance",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Style over substance"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Logic chopping fallacy",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Logic chopping fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Fallacy of relative privation",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Fallacy of relative privation"
+   ],
+   "redirects_here": [],
+   "entry": null
+  },
+  {
+   "title": "Naturalistic fallacy fallacy",
+   "views_per_month": null,
+   "views_not_obtained": "no en.wikipedia article under this name",
+   "sections": [
+    "Informal fallacies > Relevance fallacies > Red herring fallacies"
+   ],
+   "listed_as": [
+    "Naturalistic fallacy fallacy"
+   ],
+   "redirects_here": [],
+   "entry": null
   }
  ]
 }

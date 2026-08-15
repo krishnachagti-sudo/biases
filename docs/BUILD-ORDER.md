@@ -101,6 +101,75 @@ from the statistic. Neither error is Many Labs 2 being careless with its own
 data, which is not in question; it is what happens when a description of
 someone else's table is quoted instead of the table.
 
+## The third source, and the family that was only reachable by accident
+
+Six informal fallacies are already in the corpus: the Texas sharpshooter
+fallacy, the ludic fallacy, chronological snobbery, the regression fallacy,
+persuasive definition and the observational interpretation fallacy. Not one of
+them was chosen. Each is here because the List of cognitive biases happens to
+carry it, and the fallacy family itself was never a source. Reachable by
+accident is not the same as collected.
+
+The gap has the shape of the one the supplement fixes. A sweep of fallacy names
+outside the set found roughly 200,000 monthly pageviews sitting there. Red
+herring is 25,797 a month, straw man 23,705, ad hominem 21,318, whataboutism
+17,967, motte-and-bailey 15,984 and no true Scotsman 15,547. Behind them come
+begging the question, tu quoque, false dilemma, slippery slope, circular
+reasoning, post hoc ergo propter hoc, false equivalence and the argument from
+authority. Those names are missing from a list of biases for a reason rather
+than by oversight. A fallacy is a fault in an argument, a bias is a named error
+of judgement, and nobody files the first under the second.
+
+So the set carries a third source, the
+**[List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)**. It is
+the same kind of article as the list of biases: curated upstream, one row per
+named fallacy, each with a one-line description, grouped by the taxonomy the
+article itself uses. Formal fallacies divide into propositional, quantification
+and syllogistic; the informal ones into improper premise, faulty generalisation,
+questionable cause with its statistical subgroup, and relevance with red
+herrings under it. Membership is treated as sufficient for a candidate, on the
+terms already set for the first source.
+
+The article names 155 fallacies, which resolve to 141 canonical titles. Five
+more names appear only inside another row's line, given there as other names for
+the fallacy that row is about. Whataboutism is one of the five, and it holds its
+own article and its own readers, so all five are carried as rows that record the
+row they were named under. **146 rows, 19 of them already written, 7 excluded by
+hand, 120 to write.** The exclusions are a class rather than a member
+(correlative-based fallacies), a metaphor (the camel's nose), a term for a habit
+(nitpicking), a form of true statement (vacuous truth), a theory in the
+philosophy of language that the referential fallacy links to, the biography that
+if-by-whiskey links to, and data dredging, which the candidates array already
+excludes on the same grounds.
+
+The source has its own edge. Gish gallop turned up in the sweep and is not in
+the article, so it stays out until there is an argument for a fourth source.
+Membership decides what enters, and a name the curated list omits is a name this
+file does not have.
+
+Redirects were resolved before deduplication, as with the first source, and the
+collapse does real work here. Hasty generalization, the inductive fallacy and
+faulty generalization are one article. So are cum hoc ergo propter hoc, wrong
+direction and ignoring a common cause. The list article gives each of them its
+own line, and carrying them as separate candidates would have meant several
+entries competing for one page.
+
+Pageviews were collected serially by the method below, and a title that could
+not return a full twelve months carries the reason in place of a number. Three
+of the names are red links, nine more are named in the article with no link at
+all, and two articles were created inside the window and returned two months and
+one. A row that says it has no figure is worth more than a row with a figure
+nobody read.
+
+The laws-and-razors family was weighed at the same time and left alone. Demand
+is not the objection: Occam's razor, Hanlon's razor and Murphy's law are looked
+up more than most of the fallacies now in the file. Eight of that family's
+thirteen highest-demand members already have entries on The Law Tome. The
+overlap section below records 66 names in the same position and calls the
+duplicate-content question unresolved rather than settled. Taking on a family
+that arrives two-thirds duplicated would deepen a problem this project has not
+yet decided how to fix.
+
 ## Demand
 
 Twelve-month mean of monthly Wikipedia pageviews, August 2025 to July 2026,
