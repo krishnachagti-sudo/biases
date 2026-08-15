@@ -1,0 +1,130 @@
+{
+  "no": 434,
+  "slug": "appeal-to-nature",
+  "name": "Appeal to nature",
+  "aliases": ["Naturalness bias", "Natural-is-better bias", "Preference for natural", "Naturalness preference"],
+  "category": "belief",
+  "statement": "Calling something natural raises how good people judge it, and the judgement follows the process a thing has been through rather than what it now contains.",
+  "meaning": "Three separate ideas share this territory and the page covers one of them. The first is the everyday inference that a natural thing is therefore better, safer or more right. Psychologists who measure it call it the naturalness bias or the natural-is-better bias, and Ji and colleagues define it as preferring natural things even when they are chemically identical to synthetic alternatives. That is what this entry is about. Meier, Dillard and Lappas's review lists drugs, vaccines, food, cigarettes, human talent and lighting among the things people say they would rather have in a natural version. The second is Moore's naturalistic fallacy, a technical claim in ethics about defining 'good'. The Stanford Encyclopedia of Philosophy states that Moore accused anyone who infers that X is good from any proposition about X's natural properties of committing it. It also reports Frankena's 1939 article in Mind, which argued that the label robs the word fallacy of its useful meaning. Frankena added that the move cannot be assumed at the outset to be a mistake of any kind. The third is Hume's is-ought passage at Treatise 3.1.1.27, on the unremarked transition from premises linked by 'is' to conclusions linked by 'ought'. The Stanford Encyclopedia notes that few passages in Hume have generated more interpretive controversy, and that the reading which turns it into a law of logic is one interpretation among several. The measured preference is not any of the philosophical claims. It is a preference people hold and act on, and it survives being told the two options are the same substance.",
+  "origin": {
+    "year": 2004,
+    "who": "Paul Rozin, Mark Spranca, Zeev Krieger, Ruth Neuhaus, Darlene Surillo, Amy Swerdlin and Katherine Wood",
+    "where": "Appetite",
+    "note": "The paper that set the design the field still uses: stipulate that the natural and the manufactured option are equally healthy, equally effective and finally chemically identical, then see who still prefers the natural one. Ji and colleagues name Baron, Holzman and Schulkin's 1998 survey of obstetricians as the first formal examination of the preference, and that paper was not read here. Moore's Principia Ethica of 1903, which supplies the phrase naturalistic fallacy, is about a different claim and is discussed above."
+  },
+  "evidence": "Rozin and colleagues ran two questionnaire studies. In the first, 173 University of Pennsylvania undergraduates rated 19 foods and medicines, with 166 giving a complete set. Preference for the natural version fell steadily across categories: 75% for four raw foods, 32% for three processed foods, 28% for six food-medicines and 18% for six medicines. Across the 19 substances, rated healthiness or effectiveness correlated with natural preference at 0.86. A twentieth item described two pure drugs stipulated to be chemically identical, one extracted from a plant leaf and one synthesised in a laboratory. Of the respondents, 63% preferred the natural one, 19% were indifferent and 18% preferred the synthesised one, chi-square(2) = 63.987, p < .001. Study 2 compared 144 undergraduates with 144 adults drawn from the Philadelphia County jury pool. Jurors chose natural in 63% of cases against 9% commercial; students gave 47% and 18%. Stipulating chemical identity moved the jurors to 57% and the students to 32%, so a majority of those preferring natural held the preference after being told the two things were the same. Ideational reasons outnumbered instrumental ones when participants were asked why natural is a good thing, 34% against 30% for jurors and 45% against 19% for students, with the rest unclassifiable. The process finding comes from a second study by Rozin, run on 196 adults waiting at Philadelphia's 30th Street station, 97 on a water form and 99 on a tomato paste form. Each form presented triads: a natural starting entity, the same entity after one transformation adding or removing a natural component, and then the reverse transformation, which restores the original composition. Naturalness was rated from 0 to 100. Across the four triads the twice-transformed entity was rated 29.0, 31.3, 19.5 and 21.2 points less natural than the chemically identical original, t values 8.669, 8.980, 6.666 and 7.192, all p < .001. The twice-transformed entity was also rated less natural than the once-transformed entity, which differs in composition, by 2.1, 7.0, 6.6 and 5.3 points; two of those four met the paper's p < .01 criterion. Naturalness and acceptability correlated at a mean Pearson r of .56 across 11 exemplars, range .48 to .70. The PubMed abstract of Rozin's 2005 Psychological Science paper reports the same ordering on a wider set of transformations. Insertion of a gene from another species produced the biggest drop in naturalness. Domestication, which changes genotype and phenotype far more, was considered much less damaging.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Told that a natural and a synthetic drug were equally effective and had identical side-effect rates, 90.4% of 260 Americans and 85.5% of 249 Chinese chose the natural one.",
+    "detail": "Ji, Lappas, Wang and Meier ran three studies with 1,927 participants in the United States, Canada and China. In study 1A both drugs were described as studied for 20 years, effective in 85% of users, with serious side effects in 0.5%. Both national ratios sat far above chance, chi-square values above 125, p < 0.001, and the difference between countries was not significant, chi-square(1) = 2.83, p = 0.093. Perceived safety predicted the choice for Americans, natural-drug safety Wald = 14.54, p < 0.001, and did not predict it for Chinese participants, Wald = 1.27, p = 0.260. Study 1B asked for ratings rather than a choice and the drug effect was weaker, F(1, 731) = 11.44, p < 0.001, omega squared = 0.01, with the Chinese comparison not significant. Study 2 switched to vaccines for a hypothetical rash-causing virus and reversed the cultural ordering. Likelihood of taking the natural against the synthetic vaccine was 7.27 against 4.65 for 359 Americans and 7.80 against 4.29 for 322 Chinese. The vaccine effect was F(1, 679) = 791.36, p < 0.001, omega squared = 0.53, and the country by vaccine interaction F(1, 679) = 16.95, p < 0.001. The preference also shows up in behaviour rather than ratings. Meier, Noreen, Ji, Fellman and Lappas ran four studies with 492 participants who chose between options labelled natural and synthetic and then went through with the choice. Of 173, 84% drank the version of a performance drink called natural, chi-square(1, N = 173) = 79.13, p < .001. Of 52, 73% picked the natural blood-clotting drug for a finger-prick they believed was real, chi-square(1, N = 52) = 11.08, p < .001. Of 98, 84% ate the chocolate said to contain natural cocoa that might cause stomach discomfort, chi-square(1, N = 98) = 44.45, p < .001. In a field study, 118 of 180 people, 66%, took the sticker described as made with natural ink. An earlier set by Meier, Dillard, Osorio and Lappas offered a natural or synthetic pain reliever as a thank-you gift, and 86% of 109 and 93% of 100 participants took the natural one. Wilks and Bloom's two preregistered studies with 374 American children and adults found the preference across fruit and juice on tastiness, safety and desire to consume, present in children as young as 5.",
+    "study": {
+      "cite": "Ji, L.-J., Lappas, C. M., Wang, X.-Q., & Meier, B. P. (2023). The Naturalness Bias Influences Drug and Vaccine Decisions across Cultures. Medical Decision Making, 43(2), 252-262.",
+      "doi": "10.1177/0272989X221140803",
+      "year": 2023,
+      "n": 1927
+    }
+  },
+  "limits": "The preference is measured mostly on Western samples and mostly on food. Rozin, Fischler and Shields-Argelès surveyed France, Germany, Italy, Switzerland, the United Kingdom and the United States. Their third phase reached about 900 adults per European country and 1,500 in the United States. Free associations to 'natural' were almost uniformly positive, with a mean valence of 2.40 on a scale running from minus 3 to plus 3, and a median at the ceiling. Every country in that survey is Western and industrialised. The authors close by asking for work in non-industrial cultures and in Japan. The Chinese comparisons in Ji and colleagues are the main test outside that group, and they do not point one way. The choice-based bias matched the American one. The rating-based version did not reach significance in the Chinese sample, and the vaccine version was larger in China than in the United States. Rozin's own two studies disagree on comparable items. Natural preference for antacid was 16% in study 1 and 50% in study 2, and for thyroid hormone 24% and 44%, on samples from the same student population, and the paper states that it has no account for the difference. The process-over-content result is the weaker half of its own paper. All four tests ran in the predicted direction and two met the p < .01 criterion. The acceptability ratings followed the same pattern without reaching significance, and the similarity judgements went the other way for tomato paste. The behavioural studies did not stipulate that the two options were equivalent, so instrumental beliefs about safety are not ruled out there, and they were not preregistered; three of the four ran at a single American college. Rozin's 2005 Psychological Science paper is closed at the publisher and was sought through Crossref, Semantic Scholar, Unpaywall and the author's own publication list, whose deposited copy returns a 404. It is quoted here only from its PubMed abstract and from the 2006 paper's description of it. DiBonaventura and Chapman's study of whether the bias predicts real vaccination was also read at abstract level only. That abstract reports that participants showing the naturalness and omission biases were less likely to accept a free workplace influenza vaccine. No coefficient or percentage from it is quoted here. Crossref and PubMed disagree on the pagination of Meier and colleagues' 2019 paper, giving 360-370 and 359-369.",
+  "misreadings": "The finding is not that natural things are worse. Scott and Rozin's comment in Nature Human Behaviour argues that nature was not evolved to be good or bad for humans and that risks and benefits have to be judged case by case, which is their position and not a measurement. Nor is the preference purely non-instrumental. People rate natural options safer and more effective as well as preferring them, and in Ji and colleagues' study 1A safety ratings predicted the choice among Americans while failing to predict it among Chinese participants. What the equivalence stipulations show is that a large share of the preference remains after the instrumental reasons are removed, not that the instrumental reasons were absent. The applied debates are where the evidence is thinnest and the assertions loudest. On genetically modified food, Scott, Inbar and Rozin surveyed 859 Americans matched to the population on age, gender and income. They found 64% opposed, with 71% of opponents agreeing that it should be prohibited whatever the risks and benefits. Their abstract puts that at 45% of the sample and their text at 46%. Royzman, Cusimano, Metas and Leeman answered with five studies and report that most presumed absolutists either misunderstand the key question or cannot answer it validly, and that screening for comprehension cuts absolutism to near zero. On vaccines, a naturalness framing has been used to raise uptake rather than lower it. Yuan, Xu and Liao randomised 631 Hong Kong parents to a control message, a vaccine-as-medical-technology narrative or a vaccine-as-immune-trainer narrative. At six months, 60.24% of the immune-trainer group reported childhood influenza vaccination against 46.34% of controls, adjusted odds ratio 2.33, 95% CI 1.12 to 4.82, P = 0.023. There was no effect on COVID-19 uptake. In the same sample, parents with a stronger preference for naturalness had 7.84 times the odds of being highly vaccine hesitant. This entry reports what has been measured and takes no position on any policy question. Finally, the three ideas named at the top are not interchangeable. Moore's naturalistic fallacy is about whether 'good' can be defined by natural properties, Hume's is-ought passage is about inference from factual premises, and the naturalness bias is a preference that people display in choices about drinks, drugs and stickers.",
+  "sources": [
+    {
+      "text": "Rozin, P., Spranca, M., Krieger, Z., Neuhaus, R., Surillo, D., Swerdlin, A., & Wood, K. (2004). Preference for natural: instrumental and ideational/moral motivations, and the contrast between foods and medicines. Appetite, 43(2), 147-154. Read in full as the PDF deposited on the author's site; the source for every figure attributed to it.",
+      "doi": "10.1016/j.appet.2004.03.005",
+      "url": "https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/7/206/files/2016/09/natcinapp221App2004-10wrba4.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Rozin, P. (2006). Naturalness judgments by lay Americans: Process dominates content in judgments of food or water acceptability and naturalness. Judgment and Decision Making, 1(2), 91-97. Read in full as the publisher's open PDF; the source for the triad design and every naturalness figure quoted from it.",
+      "doi": "10.1017/S1930297500002308",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0ECE51793F73F27A39FC4C253AF5B6A1/S1930297500002308a.pdf/naturalness-judgments-by-lay-americans-process-dominates-content-in-judgments-of-food-or-water-acceptability-and-naturalness.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Rozin, P. (2005). The meaning of 'natural': process more important than content. Psychological Science, 16(8), 652-658. Closed at the publisher and not obtained. Quoted here from its PubMed abstract, PMID 16102069, and from the 2006 paper's account of it.",
+      "doi": "10.1111/j.1467-9280.2005.01589.x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16102069/",
+      "type": "primary"
+    },
+    {
+      "text": "Rozin, P., Fischler, C., & Shields-Argelès, C. (2012). European and American perspectives on the meaning of natural. Appetite, 59(2), 448-455. Read in full as the PDF deposited on the author's site; the source for the six-country design, the valence score and the call for non-industrial samples.",
+      "doi": "10.1016/j.appet.2012.06.001",
+      "url": "https://web.sas.upenn.edu/rozin/files/2016/09/NaturalMeaningEurAmerican_Appetite2012-2605u0q.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Ji, L.-J., Lappas, C. M., Wang, X.-Q., & Meier, B. P. (2023). The Naturalness Bias Influences Drug and Vaccine Decisions across Cultures. Medical Decision Making, 43(2), 252-262. Read in full through Europe PMC, PMC9827494; the source for every cross-cultural figure here.",
+      "doi": "10.1177/0272989X221140803",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9827494/",
+      "type": "replication"
+    },
+    {
+      "text": "Meier, B. P., Noreen, E. E., Ji, L.-J., Fellman, M. B., & Lappas, C. M. (2025). Perceived naturalness biases objective behavior in both trivial and meaningful contexts. Social Psychological and Personality Science, 16(1), 105-112. Read in full as the accepted manuscript in Gettysburg College's repository; the source for the four behavioural studies.",
+      "doi": "10.1177/19485506241276027",
+      "url": "https://cupola.gettysburg.edu/psyfac/125/",
+      "type": "replication"
+    },
+    {
+      "text": "Meier, B. P., Dillard, A. J., Osorio, E., & Lappas, C. M. (2019). A Behavioral Confirmation and Reduction of the Natural versus Synthetic Drug Bias. Medical Decision Making, 39(4), 360-370. Read at abstract level through PubMed, PMID 30896330; the source for the 86% and 93% gift-choice figures.",
+      "doi": "10.1177/0272989X19838527",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30896330/",
+      "type": "replication"
+    },
+    {
+      "text": "Wilks, M., & Bloom, P. (2022). Children prefer natural food, too. Developmental Psychology, 58(9), 1747-1758. Read at abstract level through PubMed, PMID 35666929; the source for the two preregistered studies and the age of 5.",
+      "doi": "10.1037/dev0001387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35666929/",
+      "type": "replication"
+    },
+    {
+      "text": "DiBonaventura, M. d., & Chapman, G. B. (2008). Do Decision Biases Predict Bad Decisions? Omission Bias, Naturalness Bias, and Influenza Vaccination. Medical Decision Making, 28(4), 532-539. Read at abstract level through PubMed, PMID 18319507. No figure from it is quoted here.",
+      "doi": "10.1177/0272989X07312723",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18319507/",
+      "type": "replication"
+    },
+    {
+      "text": "Scott, S. E., Inbar, Y., & Rozin, P. (2016). Evidence for Absolute Moral Opposition to Genetically Modified Food in the United States. Perspectives on Psychological Science, 11(3), 315-324. Read in full as the author's deposited PDF; the source for the 64% and 71% figures and for the 45% and 46% discrepancy between its abstract and its text.",
+      "doi": "10.1177/1745691615621275",
+      "url": "https://yoelinbar.net/papers/gmo_absolute.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Royzman, E. B., Cusimano, C., Metas, S., & Leeman, R. F. (2020). Is Opposition to Genetically Modified Food 'Morally Absolutist'? A Consequence-Based Perspective. Perspectives on Psychological Science, 15(2), 250-272. Read at abstract level through the publisher-deposited abstract at Crossref; the source for the comprehension-screening result.",
+      "doi": "10.1177/1745691619873550",
+      "type": "commentary"
+    },
+    {
+      "text": "Yuan, J., Xu, Y., & Liao, Q. (2026). Effectiveness of 'naturalness' value-based narrative intervention on vaccination acceptance in two randomized controlled trials. npj Vaccines, 11(1), 33. Read in full at the publisher; the source for the Hong Kong uptake and hesitancy figures.",
+      "doi": "10.1038/s41541-025-01357-w",
+      "url": "https://www.nature.com/articles/s41541-025-01357-w",
+      "type": "replication"
+    },
+    {
+      "text": "Scott, S. E., & Rozin, P. (2020). Actually, natural is neutral. Nature Human Behaviour, 4(10), 989-990. Read in full as the PDF deposited on Rozin's site. A comment piece, used here for the position it argues rather than for any measurement.",
+      "doi": "10.1038/s41562-020-0891-0",
+      "url": "https://web.sas.upenn.edu/rozin/files/2022/06/339-NatureNeutral-NatirHumBehav-2020-Rozin.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Meier, B. P., Dillard, A. J., & Lappas, C. M. (2026). The naturalness bias. Current Opinion in Psychology, 67, 102143. Read at abstract level through PubMed, PMID 41038740; a review, cited for the range of items the preference has been reported over.",
+      "doi": "10.1016/j.copsyc.2025.102143",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41038740/",
+      "type": "commentary"
+    },
+    {
+      "text": "Ridge, M. Moral Non-Naturalism. Stanford Encyclopedia of Philosophy, first published 1 February 2003, substantive revision 14 June 2025. Read in full; the secondary source for Moore's charge, for Frankena's objection to the label, and cited alongside the entry on Hume's moral philosophy for the is-ought passage at Treatise 3.1.1.27.",
+      "url": "https://plato.stanford.edu/entries/moral-non-naturalism/",
+      "type": "commentary"
+    },
+    {
+      "text": "Cohon, R. Hume's Moral Philosophy. Stanford Encyclopedia of Philosophy, first published 29 October 2004, substantive revision 20 August 2018. Read in full; the secondary source for the is-ought paragraph, its location at T3.1.1.27, and the competing interpretations of it.",
+      "url": "https://plato.stanford.edu/entries/hume-moral/",
+      "type": "commentary"
+    },
+    {
+      "text": "Frankena, W. K. (1939). The Naturalistic Fallacy. Mind, XLVIII(192), 464-477. Verified at Crossref for title, author, volume, issue, pages and year; the article itself was not obtained, and it is described here only as the Stanford Encyclopedia describes it.",
+      "doi": "10.1093/mind/XLVIII.192.464",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
