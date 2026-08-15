@@ -4073,7 +4073,7 @@
     0.42
    ],
    "proportion_of_36_samples_significant_same_direction": 0.47,
-   "entry": null,
+   "entry": "source-bias",
    "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
   },
   {
@@ -4141,7 +4141,7 @@
     0.08
    ],
    "proportion_of_36_samples_significant_same_direction": 0.0,
-   "entry": null,
+   "entry": "social-priming",
    "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
   },
   {
@@ -4158,7 +4158,7 @@
     0.09
    ],
    "proportion_of_36_samples_significant_same_direction": 0.03,
-   "entry": null,
+   "entry": "system-justification",
    "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
   },
   {
@@ -4430,7 +4430,7 @@
    "replication_slate": 2,
    "replication_samples_in_slate": 61,
    "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
-   "entry": null,
+   "entry": "less-is-better-effect",
    "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
   },
   {
@@ -4589,7 +4589,7 @@
    "replication_slate": 1,
    "replication_samples_in_slate": 64,
    "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
-   "entry": null,
+   "entry": "social-priming",
    "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
   },
   {
@@ -4748,7 +4748,7 @@
    "replication_slate": 2,
    "replication_samples_in_slate": 61,
    "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
-   "entry": null,
+   "entry": "social-priming",
    "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
   },
   {
@@ -4909,7 +4909,7 @@
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
    "note": "Table 3's note says the original Stroop effect size is taken not from Stroop (1935) but from a meta-analysis comparing Stroop performance of young adults with older adults (Verhaeghen & De Meersman, 1998), the younger-adult aggregate being the figure reported.",
-   "entry": null,
+   "entry": "stroop-effect",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {
@@ -5116,7 +5116,7 @@
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
    "note": "Table 3's note says the interaction effect size was estimated as 1.28e-6 and the weighted upper bound of the 95% CI was too small for the software to compute.",
-   "entry": null,
+   "entry": "self-licensing",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {
@@ -5221,7 +5221,7 @@
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
    "note": "Listed in Table 3 under ‘Added effects’.",
-   "entry": null,
+   "entry": "self-licensing",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {
@@ -5674,7 +5674,7 @@
    "replication_n": null,
    "replication_sites": 31,
    "numbers_not_obtained": "Total participant N for RRR1 is not stated as a single figure in the report's results section, only lab by lab.",
-   "entry": null,
+   "entry": "verbal-overshadowing",
    "source": "Alogna et al. (2014), Registered Replication Report: Schooler and Engstler-Schooler (1990), Perspectives on Psychological Science 9(5), 556-578, doi 10.1177/1745691614545653"
   },
   {
@@ -5693,7 +5693,7 @@
    "replication_sites": 22,
    "note": "A later passage of the same report gives a second RRR2 meta-analytic difference of -15.49%, 95% CI [-22.91, -8.06], from a further analysis; the -16.31% figure is the one matching the abstract's headline.",
    "numbers_not_obtained": "Total participant N for RRR2 is not stated as a single figure in the report's results section, only lab by lab.",
-   "entry": null,
+   "entry": "verbal-overshadowing",
    "source": "Alogna et al. (2014), Registered Replication Report: Schooler and Engstler-Schooler (1990), Perspectives on Psychological Science 9(5), 556-578, doi 10.1177/1745691614545653"
   },
   {
@@ -5792,7 +5792,7 @@
    "replication_n": 4493,
    "replication_sites": 23,
    "replication_n_note": "40 laboratories collected data; 23 met all inclusion criteria (N = 4,493). Supplementary analyses of all 40 labs cover N = 6,454.",
-   "entry": null,
+   "entry": "social-priming",
    "source": "O'Donnell et al. (2018), Registered Replication Report: Dijksterhuis and van Knippenberg (1998), Perspectives on Psychological Science 13(2), 268-294, doi 10.1177/1745691618755704, abstract via Crossref"
   },
   {
@@ -5878,7 +5878,7 @@
    "replication_sites": 22,
    "replication_sites_note": "22 labs in 11 countries.",
    "numbers_not_obtained": "The abstract gives no effect sizes for the original or the replication.",
-   "entry": null,
+   "entry": "mortality-salience",
    "source": "Rife et al. (2025), Registered Replication Report: Study 3 From Trafimow and Hughes (2012), Advances in Methods and Practices in Psychological Science 8, doi 10.1177/25152459251328334, abstract via Crossref"
   },
   {
@@ -5975,7 +5975,7 @@
    "design_note": "Two-stage design. Stage 1 had 90% power to detect 75% of the original effect size; if the result was not significant in the original direction, stage 2 collected more data for 90% power to detect 50% of the original effect size, and the stage 2 figures are for the pooled sample.",
    "replication_sites": null,
    "replication_sites_note": "The project ran one replication team per original study; the paper does not report a site count for each replication.",
-   "entry": null,
+   "entry": "testing-effect",
    "source": "Camerer et al. (2018), Social Sciences Replication Project, Nature Human Behaviour 2, 637-644, doi 10.1038/s41562-018-0399-z, Supplementary Tables 1, 3 and 4"
   },
   {
@@ -6203,7 +6203,7 @@
    "replication_sites": null,
    "replication_sites_note": "The project ran one replication team per original study; the paper does not report a site count for each replication.",
    "note": "The only replication in the project not designed with the collaboration of the original authors, who did not respond to the replicators' queries.",
-   "entry": null,
+   "entry": "google-effect",
    "source": "Camerer et al. (2018), Social Sciences Replication Project, Nature Human Behaviour 2, 637-644, doi 10.1038/s41562-018-0399-z, Supplementary Tables 1, 3 and 4"
   },
   {
