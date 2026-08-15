@@ -1,0 +1,105 @@
+{
+  "no": 415,
+  "slug": "post-hoc-ergo-propter-hoc",
+  "name": "Post hoc ergo propter hoc",
+  "aliases": [
+    "Post hoc fallacy",
+    "After this, therefore because of this",
+    "False cause"
+  ],
+  "category": "belief",
+  "statement": "Temporal order drives causal judgement, it outweighs the statistical evidence when the two conflict, and its pull tracks what a person expects the delay to be.",
+  "meaning": "The Latin tag names a form of argument. B followed A, therefore A caused B. As logic that is invalid, and it has been listed among the fallacies since Aristotle. The empirical question is a different one, and it is the interesting one. It asks how much work temporal succession does in ordinary causal judgement, and the answer is that it does most of the work. People treat order and delay as evidence about causal structure, and in experiments that set the temporal cue against the statistical cue, the temporal cue wins. That is not the claim made about covariation, which asks whether two things going together licenses a causal reading. Covariation is symmetric between the two variables and silent on direction. Order is asymmetric, it rules out one of the two directions, and effects cannot precede their causes. Succession is therefore a real cue rather than a mistake, which is what makes the label misleading and the error hard to catch. Three neighbouring entries cover different ground: the clustering illusion is about pattern in chance sequences, illusory correlation about associations that were never in the data, and the regression fallacy about crediting an intervention for a return towards the mean.",
+  "origin": {
+    "year": 1989,
+    "who": "David R. Shanks, Susan M. Pearson and Anthony Dickinson",
+    "where": "Quarterly Journal of Experimental Psychology Section B",
+    "note": "\"Temporal contiguity and the judgment of causality by human subjects\" is the experiment that turned the fallacy into a measured effect, by varying the delay between a keypress and an outcome and recording what it did to causal ratings. The logical form is far older. Aristotle names it in the Rhetoric, Book 2, Chapter 24, and the Latin tag is not his. Who coined the Latin was not chased here, and no claim about it is made on this page. The 1989 paper was not obtained: its usual DOI, 10.1080/14640748908401189, returns 404 at doi.org and is absent from Crossref, and everything reported here about it is read off Buehner and May, who cite it as 41B(2), 139-159."
+  },
+  "evidence": "Aristotle files the error among spurious enthymemes. Freese's translation reads: \"Another fallacy consists of taking what is not the cause for the cause, as when a thing has happened at the same time as, or after, another; for it is believed that what happens after is produced by the other, especially by politicians.\" The example is Demades, who called the policy of Demosthenes the cause of all the evils that happened, since it was followed by the war. The laboratory version began with free-operant tasks in which participants pressed a key and rated how strongly the press made a triangle light up on a screen. Buehner and May's account is that a contingency of .75 went undetected once the delay passed two seconds, and that Reed and they themselves repeated the result. Shanks and Dickinson read it associatively, in a passage Buehner and May quote from their 1987 chapter at page 231: \"the size of the increment in associative strength accruing from a pairing decreases as the contiguity is degraded\". The 1989 paper offered a second reading, quoted from its page 155, that subjects \"assume that the word 'causes' in the experimental instructions means 'causes immediately'\". Lagnado and Sloman's abstract reports two studies on the interplay of temporal order, intervention and covariation. In the first, order overrode covariation and produced spurious causal inferences where the temporal cues were misleading. In the second, order and intervention together beat what covariational data alone could deliver. Bramley, Gerstenberg, Mayrhofer and Lagnado stripped the statistical information out entirely. Their 31 participants in Experiment 1 watched a single clip of three components lighting up in sequence and split 100 points across seven candidate structures. A Bayesian model using only the order of events correlated with those allocations at a mean r of .90 and matched the modal choice on 78% of problems. It fitted 22 of the 31 people better than any rival. A baseline model blind to time correlated at 0 and matched the mode on 14%. The applied numbers come from three places. Black and colleagues calculate that in a cohort of 10 million people vaccinated in the UK, 21.5 cases of Guillain-Barré syndrome and 5.75 sudden deaths would be expected within six weeks as coincident background cases. Among female vaccinees in the USA they put optic neuritis at 86.3 cases per 10 million over the same window. They also predict that 397 per 1 million vaccinated pregnant women would miscarry within one day of vaccination. Haas and colleagues pooled 12 trials covering 45,380 participants, 22,578 of them on placebo. Systemic adverse events within seven days of the first injection were reported by 35.2% of placebo recipients, 95% CI 26.7% to 43.7%, with headache at 19.3% and fatigue at 16.7%. From the ratio of the placebo and vaccine proportions the authors conclude that nocebo responses accounted for 76.0% of systemic adverse events after the first dose and 51.8% after the second. Hróbjartsson and Gøtzsche took the other half of the problem, comparing placebo against no treatment in 114 trials with usable data. On binary outcomes the pooled relative risk was 0.95, 95% CI 0.88 to 1.02. On continuous outcomes the standardised mean difference was -0.28, 95% CI -0.38 to -0.19, and for the 27 pain trials -0.27, 95% CI -0.40 to -0.15, which they translate as 6.5 mm on a 100 mm visual analogue scale.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Order and timing cues drive causal structure judgements across labs, samples and paradigms, and one paper repeated its own effect at r = .98 between an in-person sample of 104 and an online sample of 60.",
+    "detail": "Bramley and colleagues ran four experiments. Experiments 3 and 4 hold the order of events constant and vary only how reliable the intervals are, so a judgement can rest on interval variability alone. Experiment 3 used 104 University College London undergraduates in the laboratory, who allocated 100 points between a chain and a fork after six tests of a device, after twelve, and after a visual summary of the timings. They assigned 10.2% more points to the chain diagram when the device was a chain after six clips, 22.2% after twelve, and 33.8% after the summary. Experiment 4 repeated the design with 60 people recruited from Amazon Mechanical Turk and four extra devices. Across the three judgements and five shared device types the averaged judgements of the two experiments correlated at r = .98. The same planned contrasts came out significant, apart from three that did not. There was a global shift of 4.3 percentage points towards the chain, SD 3, t(14) = -5.8, p < .001. Experiment 2 had 40 Mechanical Turk participants integrate evidence across repeated clips of one device. In its likelihood-judgment phase the order-only model correlated with their allocations at a mean r of .92, and a model that also expects consistent delays at .98, against 0 for the baseline. Matching posterior judgments against each person's own priors and experienced timings gave .78 for the delay model, SD .58, and .70 for the order model, SD .59. The delay half of the literature repeats too, and then breaks. Buehner and May's 2004 abstract states that participants in Shanks, Pearson and Dickinson failed to discover causal relations involving delays of more than two seconds. Their own earlier work reduced that penalty by making reasoners aware of possible delays. A change to the instructions then abolished it completely, so \"temporal contiguity is thus not essential for human causal learning\". Bechlivanidis and Lagnado show the cue running in reverse. Their 59 participants watched three squares in which C began moving 350 ms before B, so the objective order was A, C, B while a causal reading implies A, B, C. With object A present, 82.76% reported the causal order rather than the one they saw; with A removed and the behaviour of B and C unchanged, 83.33% reported the objective order, chi-square(1, N = 59) = 25.77, p < .001. Mean confidence in the reported order was 78.76 out of 100 in the first condition. In their second experiment, with 58 participants asked to pick the clip they had just seen out of two, 37.93% chose correctly with A present against 72.41% without it, chi-square(1, N = 58) = 6.97, p = .008.",
+    "study": {
+      "cite": "Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880-1910.",
+      "doi": "10.1037/xlm0000548",
+      "year": 2018
+    }
+  },
+  "limits": "The strongest finding here is that the inference is often correct, which the fallacy label hides. Bramley and colleagues put the normative case plainly. The temporal order of events places hard constraints on what could have caused what, because effects cannot precede their causes. Within those constraints the exact timings distinguish between the structures that order alone leaves open. They also note the justification for discounting long delays, that the longer the gap the more likely some other event occurred in between and caused the outcome. So a delay penalty is not by itself an error. Nor is it fixed. Buehner and May's 2003 abstract predicts that delays hinder reasoning generally, and that the hindrance is alleviated when reasoners know about the delay. Their two experiments found that the impact of delay depends on expectations about the timeframe. They also found that the free-operant procedures of the earlier studies confound delay with weaker evidence for the relation. Greville and Buehner's abstract adds that fixed intervals are judged stronger than variable ones, and that judgements decline as temporal uncertainty rises. Predictability matters as well as length. The samples are small and mostly online. Bramley's four experiments used 31, 40, 104 and 60 people, and Bechlivanidis and Lagnado's 59 and 58. Only the 104 were tested in a laboratory. No meta-analysis and no multi-laboratory replication of the temporal-order effect was located. The searches ran in August 2026 across Crossref, OpenAlex, Europe PMC, PubMed and general web search, pairing terms for temporal contiguity, temporal order and causal judgement with terms for meta-analysis and replication. Several papers stayed shut. Shanks, Pearson and Dickinson's paper was not obtained and its DOI does not resolve. Buehner and May's 2003 and 2004 papers, Greville and Buehner's 2010 paper and Lagnado and Sloman's 2006 paper were read only as their PubMed abstracts, so no figure here comes from any of them. Buehner and May's own open-access paper of 2009, which was read in full, reports samples of about 20 per experiment and analyses split by counterbalancing order, and its authors describe the resulting pattern as complex. The applied figures measure different things. Black and colleagues' numbers are expected background events, not observed reports, and their paper is a review of selected conditions rather than a systematic one. Haas and colleagues' study carries a published erratum correcting an error in Figure 1, its flow diagram. Its 76.0% is a ratio between arm proportions rather than a count of misattributed symptoms, and it says nothing about what any individual believed caused a headache.",
+  "misreadings": "The commonest error is to read the Latin tag as a verdict on the behaviour. It is a statement about an argument form, and the argument form is invalid whatever people do. The experimental record says something else: succession is one of the most informative cues available, and people weight it accordingly. Bramley and colleagues eliminated statistical information from their task on purpose and participants still recovered the structure. Calling that a fallacy gets the psychology backwards. The second error is treating contiguity as a fixed gradient in which sooner always means more causal. Buehner and May abolished the two-second penalty by changing the instructions, and Greville and Buehner report that judgements fall with temporal uncertainty rather than with delay alone. The third is treating perceived order as raw input. Bechlivanidis and Lagnado's participants watched C move before B and four in five reported the reverse, confidently, and then failed to pick their own clip out of a lineup of two. A causal reading can rewrite the order it was supposed to be built from. The fourth error is the one that costs most. At scale, succession is guaranteed. Black and colleagues describe the interruption of a 2006 seasonal influenza campaign in Israel after four deaths within 24 hours of immunisation. In that population deaths ran at more than 1 per 1,000 per week, so about 20 coincidental deaths would be expected by chance within the same window. The last error is to read the placebo-arm figures as proof that nothing happens after an injection. Haas and colleagues found more adverse events in the vaccine arms than the placebo arms, at odds ratios of -0.47 after the first dose and -1.36 after the second, both p < .001. The claim is about how much of what follows is caused by what preceded it, not about whether anything follows.",
+  "sources": [
+    {
+      "text": "Aristotle, Rhetoric, Book 2, Chapter 24, in Aristotle in 23 Volumes, Vol. 22, translated by J. H. Freese. Cambridge and London: Harvard University Press and William Heinemann, 1926. Read at the Perseus Digital Library; the source for the false-cause passage and the Demades example.",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Rh.+2.24&fromdoc=Perseus%3Atext%3A1999.01.0060",
+      "type": "primary"
+    },
+    {
+      "text": "Shanks, D. R., Pearson, S. M., & Dickinson, A. (1989). Temporal contiguity and the judgment of causality by human subjects. Quarterly Journal of Experimental Psychology, 41B(2), 139-159. Not obtained. The DOI usually attached to it, 10.1080/14640748908401189, returns 404 at doi.org and is not in Crossref; the citation details are taken from Buehner and May's reference list and the publisher's abstract page is linked here.",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/14640748908401189",
+      "type": "primary"
+    },
+    {
+      "text": "Buehner, M. J., & May, J. (2009). Causal induction from continuous event streams: Evidence for delay-induced attribution shifts. The Journal of Problem Solving, 2(2), 42-73. Full text read from the Purdue e-Pubs copy; the source for the account of Shanks and Dickinson's designs and for the two quotations from their 1987 and 1989 papers.",
+      "doi": "10.7771/1932-6246.1057",
+      "url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1057&context=jps",
+      "type": "secondary"
+    },
+    {
+      "text": "Buehner, M. J., & May, J. (2003). Rethinking temporal contiguity and the judgement of causality: Effects of prior knowledge, experience, and reinforcement procedure. Quarterly Journal of Experimental Psychology Section A, 56(5), 865-890. Read as its PubMed abstract only.",
+      "doi": "10.1080/02724980244000675",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12850993/",
+      "type": "primary"
+    },
+    {
+      "text": "Buehner, M. J., & May, J. (2004). Abolishing the effect of reinforcement delay on human causal learning. Quarterly Journal of Experimental Psychology Section B, 57(2), 179-191. Read as its PubMed abstract only; the source for the claim that the delay penalty can be removed by a change of instructions.",
+      "doi": "10.1080/02724990344000123",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15204115/",
+      "type": "primary"
+    },
+    {
+      "text": "Greville, W. J., & Buehner, M. J. (2010). Temporal predictability facilitates causal learning. Journal of Experimental Psychology: General, 139(4), 756-771. Read as its PubMed abstract only.",
+      "doi": "10.1037/a0020976",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21038987/",
+      "type": "primary"
+    },
+    {
+      "text": "Lagnado, D. A., & Sloman, S. A. (2006). Time as a guide to cause. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32(3), 451-460. Read as its PubMed abstract only; no figure in this entry comes from it.",
+      "doi": "10.1037/0278-7393.32.3.451",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16719658/",
+      "type": "primary"
+    },
+    {
+      "text": "Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880-1910. Full text read from the author's posted copy; all four experiments' figures are taken from it.",
+      "doi": "10.1037/xlm0000548",
+      "url": "https://www.bramleylab.ppls.ed.ac.uk/pdfs/bramley2018time.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bechlivanidis, C., & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58-66. Full text read from the accepted manuscript in UCL Discovery.",
+      "doi": "10.1016/j.cognition.2015.09.001",
+      "url": "https://discovery.ucl.ac.uk/1483383/1/Lagnado_time%20reordered.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Black, S., Eskola, J., Siegrist, C.-A., Halsey, N., MacDonald, N., Law, B., et al. (2009). Importance of background rates of disease in assessment of vaccine safety during mass immunisation with pandemic H1N1 influenza vaccines. The Lancet, 374(9707), 2115-2122. Full text read from the PubMed Central copy.",
+      "doi": "10.1016/s0140-6736(09)61877-8",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2861912/",
+      "type": "primary"
+    },
+    {
+      "text": "Haas, J. W., Bender, F. L., Ballou, S., Kelley, J. M., Wilhelm, M., Miller, F. G., Rief, W., & Kaptchuk, T. J. (2022). Frequency of adverse events in the placebo arms of COVID-19 vaccine trials: A systematic review and meta-analysis. JAMA Network Open, 5(1), e2143955. Full text read from the Europe PMC XML.",
+      "doi": "10.1001/jamanetworkopen.2021.43955",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8767431/",
+      "type": "primary"
+    },
+    {
+      "text": "Hróbjartsson, A., & Gøtzsche, P. C. (2001). Is the placebo powerless? An analysis of clinical trials comparing placebo with no treatment. New England Journal of Medicine, 344(21), 1594-1602. Read as its PubMed abstract only.",
+      "doi": "10.1056/NEJM200105243442106",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11372012/",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
