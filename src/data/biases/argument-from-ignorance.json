@@ -1,0 +1,92 @@
+{
+  "no": 413,
+  "slug": "argument-from-ignorance",
+  "name": "Argument from ignorance",
+  "aliases": ["Appeal to ignorance", "Argumentum ad ignorantiam", "Ad ignorantiam", "Argument from negative evidence"],
+  "category": "belief",
+  "statement": "The argument from ignorance infers a claim from the absence of evidence against it, and people rate it as weaker than positive evidence but well clear of worthless.",
+  "meaning": "Three different moves travel under one name. Oaksford and Hahn rephrase Walton's trio as shifting the burden of proof, epistemic closure and negative evidence, a wording Hinton quotes from page 76 of their paper and calls sensible. The negative-evidence version is the one the psychology is about. A drug is called safe because a test found no toxic effect, which the Bayesian account treats as a question about the test rather than about logical form. Hahn, Oaksford and Bayindir set out the arithmetic. Sensitivity is the probability of seeing an effect if the drug is toxic, selectivity the probability of seeing nothing if it is not, and negative test validity is the probability that the drug is safe given a clean test. Positive test validity exceeds negative test validity when h squared times n minus n squared is greater than one minus h, squared, times l minus l squared, with h the prior probability of toxicity. Set the prior at 0.5 and this reduces to selectivity above sensitivity with the two summing above one, conditions the authors say are often met in clinical and psychological tests. The second version turns on epistemic closure, meaning the degree to which a record would have listed the thing had it existed. A train timetable is nearly closed and a newspaper archive is not, and the same silence is worth different amounts in the two.",
+  "origin": {
+    "year": 2004,
+    "who": "Mike Oaksford and Ulrike Hahn",
+    "where": "Canadian Journal of Experimental Psychology",
+    "note": "The argument is far older than the paper. Hahn, Oaksford and Bayindir date it to John Locke and note that it still appears in logic textbooks as an example of incorrect reasoning. What 2004 marks is the Bayesian treatment and the first experiment. Stephens credits Oaksford and Hahn in 2004 and Hahn and Oaksford in 2006 as the first to apply a Bayesian approach to arguments from ignorance. The 2004 paper is paywalled and was not obtained here; its abstract was read at Birkbeck's repository, and it states that the textbook examples are inductive arguments that are not unsound but simply weak."
+  },
+  "evidence": "The experimental record is small and it is mostly one group. The 2004 experiment is described by its own authors in their 2005 conference paper: positive arguments were viewed as more convincing than their negative counterparts, participants were sensitive to whether one or 50 studies had failed to find an effect, and they were sensitive to how strongly a character in the dialogue already believed the conclusion. That experiment used two topics, and no figure from it is quoted here. Hahn, Oaksford and Bayindir then ran two studies. The first gave 73 Cardiff University students and staff dialogues on four topics, privatising public transport, clone technology, international environmental law, and nature versus nurture in language acquisition, rated 0 to 10 for how convinced the listener should be. Positive arguments scored 4.53, SE 0.08, against 4.27, SE 0.08, for negative ones, F(1,72) = 11.58, p = .001, MSE = 40.35. Source reliability mattered far more than polarity: a non-governmental research body scored 5.58, SE 0.07, against 3.21, SE 0.07, for a television street interview, F(1,72) = 198.63, p < .0001. Prior belief moved ratings from 4.32 to 4.47, F(1,72) = 5.96, p = .017. The second study, with 72 undergraduates and a Latin square design, varied epistemic closure across a library catalogue, hospital notes, a newspaper archive and a train timetable, crossed with four structural variants. Topic and structural variant both mattered, F(3,217) = 35.55 and F(3,217) = 19.05, both p < .0001, and they interacted, F(9,217) = 3.71, p < .0001, MSE = 5.59. Both negative-evidence variants scored below plain positive evidence. The ghost-shaped variant, where absent denial is offered as reason to believe something exists, still scored 3.36, SE 0.37, significantly above zero, t(71) = 9.16, p < .0001. For the library topic it beat the ordinary negative form, 6.16, SE 0.65, against 4.0, SE 0.64, t(34) = 2.39, p < .05, so structure alone does not order the two. The one independent test located comes at the question sideways. Marin, Lindeman and Svedholm-Häkkinen gave 1,325 Finns ten fallacies and four strong arguments on five contested topics, rated 1 to 5 for how well justified they were. Appeals to ignorance drew 2.61, SD 0.47, the highest of the five fallacy types apart from slippery slopes at 2.67, SD 0.52, and far above ad hominem at 1.71, SD 0.59. Ratings tracked the reader's own position: fallacies aligned with a participant's attitude scored 2.63, SD 0.55, against 1.98, SD 0.41, for those opposing it, F(1,1155) = 1295.15, p < .001.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The pattern the Bayesian account predicts has been found again, though almost all of the direct tests come from the group that proposed it.",
+    "detail": "Hahn, Oaksford and Bayindir report that their first study replicated all three main findings of the 2004 experiment using different topics, a different evidence manipulation and a different wording for prior belief. Polarity, source reliability and prior belief each produced a main effect in the predicted direction, the largest of them being reliability at F(1,72) = 198.63, p < .0001, and the smallest being prior belief at F(1,72) = 5.96, p = .017. Their second study extended the account to epistemic closure and found that closure ordered the topics, with the same structural variant scoring differently across a library catalogue, hospital notes, a newspaper archive and a train timetable. The independent finding points the same way without testing the same manipulations. Marin, Lindeman and Svedholm-Häkkinen, working in Finland with 1,325 participants and no connection to the Bayesian programme, found appeals to ignorance the hardest of five fallacy types to mark down, at 2.61 on a five-point scale where 3 is the midpoint. They read this as consistent with Hahn and Oaksford's point that the strength of such an appeal depends on how much searching has been done. No attempt to repeat the Cardiff experiments and fail was located; where that search looked is set out under limits."
+    ,
+    "study": {
+      "cite": "Hahn, U., Oaksford, M., & Bayindir, H. (2005). How convinced should we be by negative evidence? Proceedings of the Annual Meeting of the Cognitive Science Society, 887-892.",
+      "url": "https://escholarship.org/content/qt9p43b3xm/qt9p43b3xm_noSplash_76730a85c8ba13c9e11592927e461c2f.pdf",
+      "year": 2005,
+      "n": 73
+    }
+  },
+  "limits": "Two central papers were not obtained. Oaksford and Hahn's 2004 article and Hahn and Oaksford's 2007 Psychological Review paper are both closed; Unpaywall returns no open location for either, and the Birkbeck and Cardiff repositories hold metadata without full text. Every figure attributed to the 2004 experiment on this page is therefore reported as the authors' own later summary of it, and no number from it is reproduced. The search for further experimental work covered Crossref, OpenAlex, Semantic Scholar, Unpaywall, PubMed Central, eScholarship's Cognitive Science Society proceedings, the open archive of Informal Logic, and general web search, pairing the fallacy and its Latin name with terms for replication, experiment, persuasion and argument strength. The direct tests it turned up were run by the authors of the account, on Cardiff samples of 73 and 72, using written dialogues and a rating scale rather than any measure of belief change or behaviour. Marin, Lindeman and Svedholm-Häkkinen manipulated neither closure nor the amount of evidence, and their ignorance items are political claims about unknown consequences rather than reports of a search that came up empty, so the two literatures line up only loosely. Hinton disputes a premise of the account rather than a result. He quotes Oaksford and Hahn's claim at page 77 that the closed world assumption is rarely justified in the real world, calls it an unsupported empirical claim, and offers attendance lists and televised team line-ups as everyday cases where absence from a record does mean absence. He also denies that fully closed databases are arguments from ignorance at all, since nothing relevant is unknown. Bondy, writing on epistemic coverage, treats the closure premise as the weak point in a different way, since an epistemic bubble can leave a person confident that they would have heard about something when their sources were never going to carry it. Neither author reports data. No count of how often the argument appears in real discourse was found.",
+  "misreadings": "The slogan attached to this fallacy is the part most often got wrong. Stephens works through 'the absence of evidence is not evidence of absence' in Bayesian terms and concludes that it is false under three assumptions: the hypothesis is not already certain, the evidence sought is genuinely more likely if the hypothesis is true than if it is false, and all known background evidence is taken into account. Given those, a failed search lowers the probability of the hypothesis, which is what evidence of absence means. He attaches three caveats. The result says the probability moves, not how far; it does not say what to believe once other evidence is counted; and it applies only where somebody actually looked, because a search never conducted breaks the second assumption. That last caveat is the honest core of the slogan. A second confusion runs between the fallacy and the statistical warning that borrows its wording. Altman and Bland's note is about non-significant trials, not about arguments, and their complaint is that calling such a trial negative implies a difference was ruled out when only evidence of one is missing. Their examples are concrete. Freiman and colleagues found that only 30% of 71 trials published in the New England Journal of Medicine in 1978-9 with P greater than 0.1 were large enough for a 90% chance of detecting even a 50% difference in effectiveness. An overview of fibrinolytic treatment after myocardial infarction found a 22% mortality reduction, while only five of the 24 individual trials had reached P below 0.05. Third, the burden of proof is a separate question and the sources disagree about it. Copi and Cohen restrict the fallacy to illegitimate attempts to shift that burden, and Walton treats the dialectical form as one of three. Hahn, Oaksford and Bayindir argue that the label presupposes the weakness rather than explaining it, since negative evidence can be a good reason and there are combinations of sensitivity, specificity and prior under which it beats positive evidence. That is a normative argument about what makes an argument bad, and no experiment on this page settles it. Last, the Bayesian rehabilitation is not a finding that people are gullible about such arguments, and it is not a settled position. Its own authors present it as a computational-level account that leaves the psychology open, and Hinton rejects its reading of epistemic closure outright.",
+  "sources": [
+    {
+      "text": "Hahn, U., Oaksford, M., & Bayindir, H. (2005). How convinced should we be by negative evidence? Proceedings of the Annual Meeting of the Cognitive Science Society, 887-892. Full text read from the PDF at eScholarship; every figure quoted here was extracted twice from the document. Source for both experiments, for the sensitivity and selectivity conditions, and for the burden-of-proof argument.",
+      "url": "https://escholarship.org/content/qt9p43b3xm/qt9p43b3xm_noSplash_76730a85c8ba13c9e11592927e461c2f.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Oaksford, M., & Hahn, U. (2004). A Bayesian approach to the argument from ignorance. Canadian Journal of Experimental Psychology, 58(2), 75-85. Not obtained; paywalled. The abstract was read at Birkbeck Institutional Research Online. Its experiment is described here through Hahn, Oaksford and Bayindir (2005), and two of its sentences are quoted through Hinton (2018), which cites them at pp. 76-77. No figure from it appears on this page.",
+      "doi": "10.1037/h0085798",
+      "url": "https://eprints.bbk.ac.uk/id/eprint/16121/",
+      "type": "primary"
+    },
+    {
+      "text": "Marin, P., Lindeman, M., & Svedholm-Häkkinen, A. M. (2024). Susceptibility to poor arguments: The interplay of cognitive sophistication and attitudes. Memory & Cognition, 52(7), 1579-1596. Open access. Full text read at PubMed Central, including the appendix listing the appeal-to-ignorance items.",
+      "doi": "10.3758/s13421-024-01564-1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/",
+      "type": "primary"
+    },
+    {
+      "text": "Stephens, C. (2011). A Bayesian approach to absent evidence reasoning. Informal Logic, 31(1), 56-65. Full text read. Source for the three assumptions, for the conclusion that the slogan is false, and for the three caveats.",
+      "doi": "10.22329/il.v31i1.2967",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2967/2516",
+      "type": "primary"
+    },
+    {
+      "text": "Hinton, M. (2018). On arguments from ignorance. Informal Logic, 38(2), 184-212. Full text read. Source for the criticism of Oaksford and Hahn on the closed world assumption, and for their rephrasing of Walton's three types.",
+      "doi": "10.22329/il.v38i2.4697",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/4697",
+      "type": "primary"
+    },
+    {
+      "text": "Altman, D. G., & Bland, J. M. (1995). Statistics notes: Absence of evidence is not evidence of absence. BMJ, 311(7003), 485. Full text read from a copy hosted at the University at Buffalo; the bibliographic record was verified at Crossref. Source for the trial-power figures, which Altman and Bland quote from Freiman and colleagues and from the fibrinolytic overview rather than reporting themselves.",
+      "doi": "10.1136/bmj.311.7003.485",
+      "url": "https://www.acsu.buffalo.edu/~wdmccall/os512d/EvidAbs.html",
+      "type": "primary"
+    },
+    {
+      "text": "Bondy, P. (2026). Arguments from ignorance, coverage, and bubbles. Informal Logic, 46(1), 101-115. Full text read. Cited for the epistemic bubble as a failure of the coverage claim that arguments from ignorance rely on.",
+      "doi": "10.22329/il.v46i1.9706",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/9706",
+      "type": "commentary"
+    },
+    {
+      "text": "Hahn, U., & Oaksford, M. (2006). A Bayesian approach to informal argument fallacies. Synthese, 152(2), 207-236. Not obtained; the record was verified at Crossref. Named here because Stephens and Marin and colleagues both cite it for the claim that the strength of an appeal to ignorance depends on how much searching has been done.",
+      "doi": "10.1007/s11229-005-5233-2",
+      "url": "https://doi.org/10.1007/s11229-005-5233-2",
+      "type": "primary"
+    },
+    {
+      "text": "Hahn, U., & Oaksford, M. (2007). The rationality of informal argumentation: A Bayesian approach to reasoning fallacies. Psychological Review, 114(3), 704-732. Not obtained; closed, with no open location listed by Unpaywall. Named here as the full statement of the account. No claim on this page rests on it.",
+      "doi": "10.1037/0033-295X.114.3.704",
+      "url": "https://doi.org/10.1037/0033-295X.114.3.704",
+      "type": "primary"
+    },
+    {
+      "text": "Sober, E. Absence of evidence and evidence of absence: evidential transitivity in connection with fossils, fishing, fine-tuning, and firing squads. Philosophical Studies, 143(1), 63-90; Crossref dates the record 13 December 2008. Not obtained. Named because Stephens describes it as examining absent evidence reasoning in a probabilistic framework, in the context of fossils and fine-tuning.",
+      "doi": "10.1007/s11098-008-9315-0",
+      "url": "https://doi.org/10.1007/s11098-008-9315-0",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
