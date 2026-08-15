@@ -1,0 +1,66 @@
+{
+  "no": 344,
+  "slug": "domain-neglect",
+  "name": "Domain neglect",
+  "aliases": [
+    "Domain neglect bias"
+  ],
+  "category": "decision",
+  "statement": "Students comparing two machine learning classifiers rank them on error rate alone, ignoring what the errors cost in the application domain.",
+  "meaning": "Data science joins mathematics, statistics and computing to an application domain, and Koby Mike and Orit Hazzan argue that the last of the four is the part learners drop. The bias is not ignorance of the domain. It is a failure to bring domain knowledge to bear on a question whose arithmetic the learner has already grasped. Their test case is a choice between two classifiers, one of which errs more often while the other errs in the direction that hurts someone. A learner who ranks the pair by error rate has answered a mathematics question nobody asked. Mike's thesis stretches the term over two cases: neglecting knowledge the learner holds, and neglecting the possibility that knowledge the learner lacks would change the answer. The claim was written for machine learning teaching and has not been carried outside it.",
+  "origin": {
+    "year": 2022,
+    "who": "Koby Mike and Orit Hazzan",
+    "where": "IEEE Transactions on Education",
+    "note": "The article carries a 2022 DOI and ran in the June 2023 issue, volume 66, issue 3, pages 226-233; Crossref created its record on 7 November 2022. The name is older than the article. It is defined, and the experiment reported, in Jacob Mike's Technion doctoral thesis of May 2022, which lists the article as under revision. Koby and Jacob are the same person. Every figure below is read from that thesis, because the article is closed at IEEE and was not obtained."
+  },
+  "evidence": "The bias was noticed in a project course before it was tested. Mike worked with Shira Nemirovsky-Rotman on fourth-year electrical engineering students building biomedical signal processing projects at the Technion. Students from earlier years judged processed medical images by mathematical fidelity criteria, and learned only after the algorithm ran that radiologists look for something else. Eight students who took an intervention programme built around radiologist meetings rated cooperation with radiologists 4.62 on a five-point scale as a project success factor; four students from earlier years rated it 2.5. The experiment that followed put two multiple-choice questions to learners in introduction to machine learning courses. The traffic light question describes two classifiers for red and green lights. Machine A is always right on red and wrong on green with probability 0.001. Machine B is always right on green and wrong on red with probability 0.0001. Machine B makes a tenth of the errors, and the error it makes is calling a red light green. Of 222 answers, 46% picked Machine A, 26% picked Machine B, 4% called them equal, 20% said data was missing and 4% did not know. Of 197 written explanations, 62% reasoned from the domain, 30% from the arithmetic alone and 8% weighed the two without settling. The carcinoma question holds the arithmetic fixed. Two classifiers confuse basal cell and squamous cell carcinoma in opposite directions, each with probability 0.001, and the two cancers differ in severity. Of 205 answers, 41% said data was missing, 17% did not know, 37% called the machines equal and a few picked one of them. Domain explanations fell to 48% and mathematical ones rose to 45%, which Mike puts down to students not knowing medicine. Among 170 participants who explained both answers, 41 of the 47 who reasoned mathematically about traffic lights did so again about carcinomas, while 28 of the 109 who reasoned from the domain about traffic lights switched to arithmetic for the carcinomas. The journal abstract, which is the only part of the article read here, sums the result up as one third of students failing to recognise the outperforming algorithm.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No repeat of the traffic light or carcinoma questions by anyone was found: the experiment has been reported once, in a 2022 doctoral thesis and a closed 2023 article by the same two authors."
+  },
+  "limits": "The experiment reports counts and no statistics. There is no significance test, no effect size, no control condition and no mention of preregistration or of a sample-size rule. Participants came from three convenience populations at one institution, undergraduates in data science, computer science and electrical engineering, computer science teachers, and social science and digital humanities researchers, and the thesis does not break the percentages down by population. The traffic light question has no answer that is correct in the way an arithmetic answer is correct. Choosing Machine A is scored as domain reasoning, and the relative cost of the two errors is never priced, so a participant who thought a tenfold lower error rate outweighed the asymmetry cannot be distinguished from one who never considered the asymmetry. The thesis also disagrees with itself on the sample: the text says 226 people answered the traffic light question, while the table sums to 222 and the figure is labelled N=222. The published article was not obtained. It is closed at IEEE, Unpaywall records no repository copy, and its abstract was read from the publisher-deposited record served by OpenAlex and Semantic Scholar, so whether its numbers match the thesis was not checked. On provenance, searches on 15 August 2026 covered a Crossref bibliographic query for the phrase, an OpenAlex title and abstract search returning 142 records, and a Wikipedia insource search. In the cognitive sense the term appears in one place, Mike and Hazzan's article, and one Wikipedia list line citing it. OpenAlex records six works citing the article, one of them a book chapter by the same authors, and none of the six is a replication by title or venue.",
+  "misreadings": "The name invites the transfer literature, where someone who has solved one problem fails to see a second with the same structure. Mike's thesis cites none of that work. His account runs through Hertwig and colleagues on decisions from description against decisions from experience, and through the two-system model he credits to Tversky and Kahneman, which he offers as a hypothesis needing further research rather than a result. A second error is to take the definition circulating on a design award site, which calls domain neglect bias a focus on one domain that ignores the effect of a decision on related domains. That page credits two designer profiles, cites no research and states a different claim. The term has one source. A third error is to confuse this with base rate neglect. The same two authors ran a separate study on that bias, using a lion photo question and a tomato disease question, and both studies report about a third of students going wrong, which makes the two easy to merge and they are not the same experiment. A fourth concerns the one third itself. The abstract's one third, the thesis's 38% who gave no domain explanation for the traffic light question, and its 37% who called the two carcinoma classifiers equal are three different quantities. The last is the Wikipedia gloss, which describes neglecting domain knowledge while solving interdisciplinary problems. What was measured is a multiple-choice comparison of two error profiles, not a problem being solved.",
+  "sources": [
+    {
+      "text": "Mike, K., & Hazzan, O. (2023). What Is Common to Transportation and Health in Machine Learning Education? The Domain Neglect Bias. IEEE Transactions on Education, 66(3), 226-233. The article that put the term into the literature. Closed at IEEE and not obtained; the abstract was read from the publisher-deposited record served by OpenAlex and Semantic Scholar, and the one-third summary above is quoted from it.",
+      "doi": "10.1109/TE.2022.3218013",
+      "url": "https://doi.org/10.1109/TE.2022.3218013",
+      "type": "primary"
+    },
+    {
+      "text": "Mike, J. (2022). The Birth of a New Discipline: Data Science Education. Research thesis submitted for the degree of Doctor of Philosophy, Technion, Israel Institute of Technology, May 2022, supervised by Orit Hazzan. Section 4.1 defines the domain neglect bias and reports the biomedical projects case study and the two-question experiment. Source of every figure above; the PDF was downloaded from Hazzan's Technion site and read.",
+      "url": "https://orithazzan.net.technion.ac.il/files/2022/07/The-Birth-of-a-New-Discipline-Data-Science-Education.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Mike, K., Nemirovsky-Rotman, S., & Hazzan, O. (2020). Interdisciplinary Education - The Case of Biomedical Signal Processing. 2020 IEEE Global Engineering Education Conference (EDUCON), 339-343. The paper the thesis names as the basis of its first case study. Not read; the case study is quoted from the thesis.",
+      "doi": "10.1109/EDUCON45650.2020.9125200",
+      "url": "https://doi.org/10.1109/EDUCON45650.2020.9125200",
+      "type": "primary"
+    },
+    {
+      "text": "Mike, K., & Hazzan, O. (2022). Base rate neglect in computer science education. arXiv preprint. The companion study, with the lion photo and tomato disease questions and 251 participants tabulated across the same three populations. Read in full as a PDF from arXiv; it does not use the term domain neglect.",
+      "doi": "10.48550/arXiv.2209.08312",
+      "url": "https://arxiv.org/abs/2209.08312",
+      "type": "primary"
+    },
+    {
+      "text": "Hazzan, O., & Mike, K. (2023). Data Science Thinking. In Guide to Teaching Data Science: An Interdisciplinary Approach, 35-57. Springer. One of the six works OpenAlex records as citing the article. Named, not read.",
+      "doi": "10.1007/978-3-031-24758-3_3",
+      "url": "https://doi.org/10.1007/978-3-031-24758-3_3",
+      "type": "reference"
+    },
+    {
+      "text": "Wikipedia, 'List of cognitive biases'. The wikitext carries one line, 'Domain neglect bias, the tendency to neglect relevant domain knowledge while solving interdisciplinary problems', citing Mike and Hazzan. Used here only as an index, and as the source of the gloss discussed above. No standalone Wikipedia article exists.",
+      "url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+      "type": "index"
+    },
+    {
+      "text": "A' Design Award and Competition, Design Encyclopedia, entry 'Domain Neglect Bias'. A crowd-sourced page credited to two designer profiles, citing no research, defining the term differently from Mike and Hazzan. Recorded here as the source of a competing definition, not as evidence.",
+      "url": "https://competition.adesignaward.com/design-encyclopedia.php?e=213727",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
