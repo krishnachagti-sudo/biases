@@ -1,0 +1,76 @@
+{
+  "no": 420,
+  "slug": "thought-terminating-cliche",
+  "name": "Thought-terminating cliché",
+  "aliases": [
+    "Loading the language",
+    "Thought-stopping cliché"
+  ],
+  "category": "social",
+  "statement": "Lifton's name for the language of a totalist environment, offered as one feature of one of eight themes, and never tested as a claim about what a phrase does to a listener.",
+  "meaning": "The subject of the claim is an environment. Chapter 22 of Lifton's book sets out eight psychological themes that mark a milieu he called ideologically totalist. They are milieu control, mystical manipulation, the demand for purity, the cult of confession, the sacred science, loading the language, doctrine over person, and the dispensing of existence. The cliché belongs to the sixth. Lifton writes that the language of the totalist environment is characterised by the thought-terminating cliché, and that the most far-reaching and complex of human problems are compressed into brief, highly reductive, definitive-sounding phrases, easily memorised and easily expressed. Those phrases become the start and finish of any ideological analysis. His worked example is the phrase 'bourgeois mentality', used in thought reform to dismiss the quest for individual expression and the search for balance in political judgments. The effect he names for the individual is constriction of vocabulary, and through it of what can be thought and felt. Nothing in the chapter says that one phrase, heard once, halts thinking in the person who hears it."
+  ,
+  "origin": {
+    "year": 1961,
+    "who": "Robert Jay Lifton",
+    "where": "the book Thought Reform and the Psychology of Totalism: A Study of \"Brainwashing\" in China (W. W. Norton)",
+    "note": "The research was conducted in Hong Kong in 1954-55 and covered 25 Western and 15 Chinese subjects, all of whom had been through thought reform. The copyright page of the 1989 University of North Carolina Press edition, in which the book was read here, records the original Norton publication of 1961. The phrase appears once in the whole book, on page 429, in the first line of the section 'Loading the Language'. Two of the ideas around it are borrowed and credited by Lifton: 'ultimate terms', 'god terms' and 'devil terms' are Richard Weaver's, and 'the language of nonthought' is Lionel Trilling's."
+  },
+  "evidence": "The eight themes are a distillation of interviews, not a measurement. Lifton introduces them as criteria against which any environment may be judged, answering the question 'Isn't this just like brainwashing?', and he says each theme requires rather than causes the others. No participant's thinking was measured before or after exposure to any phrase. Later instruments have picked up the language theme in passing. The Group Psychological Abuse scale, built from a factor analysis of 308 former members rating their groups on 112 items, reduced to 28 items and four subscales named Compliance, Exploitation, Mind Control and Anxious Dependency, with an alpha of .81 for the summary scale and .81, .75, .70 and .72 for the subscales, and four factors accounting for 42% of the variance. Its published account carries no subscale for language. The newer Psychological Abuse Experienced in Groups Scale does. Its item 12 reads 'I had to use a special group jargon that altered the normal meaning of words', and it sits in the component called control and manipulation of information. In the development sample of 138 former members of groups they called abusive, the scale came out one-dimensional, with the retained factor accounting for 45.7% of the variance and an alpha of .94. Item 12 has a mean of 3.00 on a 0 to 4 scale, 95% CI 2.72 to 3.28, a factor loading of .49 against a range of .46 to .80, and a corrected item-total correlation of .38, the second lowest of the 31 items. Its component, the only one below the .70 criterion, has an alpha of .67. The other operationalisation is textual. The propaganda technique corpus of Da San Martino and colleagues annotates news articles for 18 techniques, one of them named thought-terminating cliché, defined from a 2015 thesis on large group awareness training rather than from Lifton. Across 21,230 sentences the annotators marked 7,485 technique instances, of which 95 were thought-terminating clichés, averaging 34.85 characters; loaded language, the most common technique, was marked 2,547 times. Inter-annotator agreement for span selection was low, at gamma 0.30 and 0.34 for the two teams, and slightly lower when the label was included. In the SemEval-2020 shared task built on that corpus, the best of 32 systems reached an F1 of 62.07 overall and 42.55 on the thought-terminating cliché class, against 77.17 on loaded language.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment was found testing whether a cliché reduces thinking, and the original claim was never framed as one.",
+    "detail": "PubMed holds no record matching 'thought-terminating' and one matching 'ideological totalism'. Europe PMC returns seven full-text hits for 'thought-terminating', all of them propaganda-annotation datasets, detection systems or commentary. Crossref bibliographic queries for the term return no empirical study of it. The nearest evidence is about something else and is labelled here as neighbouring. Clinical thought stopping is a technique a person applies to their own unwanted thoughts, and Simons and Herpertz-Dahlmann's review of psychotherapy for obsessive-compulsive disorder in children and adolescents concludes that thought stopping cannot be recommended as an effective therapy for obsessions. Magee, Harden and Teachman's meta-analytic review of thought suppression found no overall difference in the recurrence of thoughts during suppression attempts between groups with and without psychopathology, with differences by diagnosis that were typically small. Neither line of work involves a phrase supplied by a group to a listener, which is what Lifton described."
+  },
+  "limits": "The searches ran on 15 August 2026 and covered PubMed, Europe PMC, Crossref and general web search. Two neighbouring literatures named in advance were dropped because their primary sources could not be read. Petty and Cacioppo's 1984 paper on involvement, argument quantity and argument quality was obtained only as a scanned PDF from which no text could be extracted, so nothing from the elaboration literature is quoted here. Webster and Kruglanski's 1994 need for cognitive closure paper resolved at Crossref but could not be opened at the publisher or in any full-text copy, so no figure on cognitive closure appears on this page. Table 1 of the group psychological abuse taxonomy, which lists the 26 strategies behind the scale's six components, is an image in both renders that were fetched, so the wording of the individual strategies was not read. The Group Psychological Abuse scale was read from the second author's copy of the article rather than from Cultic Studies Journal, which has no DOI. The book was read in the 1989 reprint, and the page numbers here are that edition's. Lifton's later book Losing Reality (2019) was not obtained, so the only comment of his on later uses of the framework used here is the 1989 preface.",
+  "misreadings": "The cliché is not one of the eight criteria. Loading the language is the criterion, and the cliché is what Lifton says that language is characterised by. Presence is not a diagnosis either. Lifton writes that this kind of language exists to some degree within any cultural or organisational group, that all systems of belief depend upon it, and that the loading is more extreme under totalism, which makes his claim one of degree rather than of kind. He also warns in the same chapter that facile comparisons can be misleading, that no milieu ever achieves complete totalism, and that many relatively moderate environments show some signs of it. The reading that Lifton meant this for prisons alone is wrong in the other direction. He states in the chapter that he intends a set of criteria against which any environment may be judged, and in the 1989 preface that the book was meant from the beginning to provide principles of a general kind. That preface also records what the framework was already being used for, in both directions: chapter 22 was being applied to the deprogramming of recruits, and studied by group leaders wanting to distance themselves from the patterns it described. What the record does not support is the term's use as an instrument for judging an opponent. The one validated scale carrying a language item gives that item the second lowest item-total correlation of its 31, and trained annotators marking the technique in news text agreed at gamma 0.34 or less. The phrase 'the language of nonthought', often attached to Lifton, is Trilling's, and Lifton quotes it as such.",
+  "sources": [
+    {
+      "text": "Lifton, R. J. (1961). Thought Reform and the Psychology of Totalism: A Study of \"Brainwashing\" in China. New York: W. W. Norton. Read in the 1989 University of North Carolina Press edition; chapter 22, 'Ideological Totalism', pages 419-437, with 'Loading the Language' beginning on page 429.",
+      "url": "https://archive.org/details/ThoughtReformAndThePsychologyOfTotalism",
+      "type": "primary"
+    },
+    {
+      "text": "Chambers, W. V., Langone, M. D., Dole, A. A., & Grice, J. W. (1994). The Group Psychological Abuse Scale: A measure of the varieties of cultic abuse. Cultic Studies Journal, 11(1), 88-117. Read from the copy hosted by the second author.",
+      "url": "https://sites.google.com/site/michaellangonephd/article-mdl/the-group-psychological-abuse-scale-a-measure-of-the-varieties-of-cultic-abuse",
+      "type": "primary"
+    },
+    {
+      "text": "Saldaña, O., Rodríguez-Carballeira, Á., Almendros, C., & Escartín, J. (2017). Development and validation of the Psychological Abuse Experienced in Groups Scale. The European Journal of Psychology Applied to Legal Context, 9(2), 57-64.",
+      "doi": "10.1016/j.ejpal.2017.01.002",
+      "url": "https://journals.copmadrid.org/ejpalc/art/j.ejpal.2017.01.002",
+      "type": "primary"
+    },
+    {
+      "text": "Rodríguez-Carballeira, Á., Saldaña, O., Almendros, C., Martín-Peña, J., Escartín, J., & Porrúa-García, C. (2015). Group psychological abuse: Taxonomy and severity of its components. The European Journal of Psychology Applied to Legal Context, 7(1), 31-39.",
+      "doi": "10.1016/j.ejpal.2014.11.001",
+      "url": "https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1889-18612015000100004",
+      "type": "secondary"
+    },
+    {
+      "text": "Da San Martino, G., Yu, S., Barrón-Cedeño, A., Petrov, R., & Nakov, P. (2019). Fine-Grained Analysis of Propaganda in News Articles. Proceedings of EMNLP-IJCNLP 2019, 5635-5645. Corpus counts and agreement figures read from the arXiv full text.",
+      "doi": "10.18653/v1/D19-1565",
+      "url": "https://arxiv.org/abs/1910.02517",
+      "type": "primary"
+    },
+    {
+      "text": "Da San Martino, G., Barrón-Cedeño, A., Wachsmuth, H., Petrov, R., & Nakov, P. (2020). SemEval-2020 Task 11: Detection of Propaganda Techniques in News Articles. Proceedings of the Fourteenth Workshop on Semantic Evaluation, 1377-1414. Per-class F1 read from Table 6 of the arXiv full text; the organisers report a corrected table in their appendix.",
+      "doi": "10.18653/v1/2020.semeval-1.186",
+      "url": "https://arxiv.org/abs/2009.02696",
+      "type": "replication"
+    },
+    {
+      "text": "Magee, J. C., Harden, K. P., & Teachman, B. A. (2012). Psychopathology and thought suppression: A quantitative review. Clinical Psychology Review, 32(3), 189-201. Abstract read at PubMed.",
+      "doi": "10.1016/j.cpr.2012.01.001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22388007/",
+      "type": "review"
+    },
+    {
+      "text": "Simons, M., & Herpertz-Dahlmann, B. (2003). Psychotherapie der Zwangsstörung bei Kindern und Jugendlichen: eine Übersicht. Zeitschrift für Kinder- und Jugendpsychiatrie und Psychotherapie, 31(3), 213-221. English abstract read at PubMed, which dates the record to 2004.",
+      "doi": "10.1024/1422-4917.31.3.213",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12942793/",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
