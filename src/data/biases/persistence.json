@@ -1,0 +1,110 @@
+{
+  "no": 367,
+  "slug": "persistence",
+  "name": "Persistence",
+  "aliases": [
+    "Intrusive memories",
+    "Intrusive recollection",
+    "Involuntary memory intrusions",
+    "Seventh sin of memory"
+  ],
+  "category": "memory",
+  "statement": "Distressing memories are claimed to return unbidden and resist being set aside, the one sin of memory in which recall works too well rather than too little.",
+  "meaning": "Persistence is the seventh of the seven sins of memory, the scheme Daniel Schacter proposed for classifying the ways memory goes wrong. Six of the sins are failures to retrieve, or failures to retrieve accurately. Persistence runs the other way. Schacter's abstract describes the last sin as intrusive recollections that are difficult to forget. The category is a label rather than an experimental effect, so there is nothing in it to replicate on its own terms. What can be measured is the thing the label points at: involuntary, image-based memories of an unpleasant event that arrive without being called for. Clinical research counts them by diary and by questionnaire in people with post-traumatic stress disorder and with depression. Laboratory research induces them with the trauma film paradigm, in which healthy volunteers watch footage of injury and death and then log the intrusions they get over the following week. Nearly all the quantitative work sits in one of those two places, and the second is where the replication argument is.",
+  "origin": {
+    "year": 1999,
+    "who": "Daniel L. Schacter",
+    "where": "American Psychologist",
+    "note": "Schacter's article names the seven sins as transience, absentmindedness, blocking, misattribution, suggestibility, bias and persistence. Its abstract says the first three are kinds of forgetting, the next three kinds of distortion, and the last concerns intrusive recollections that are difficult to forget. It also argues the sins are by-products of otherwise adaptive features of memory rather than flaws in system design. That abstract was read at PubMed and the full text was not obtained. Schacter revisited the taxonomy in Memory in 2022, and that update covers the six forgetting and distortion sins, leaving persistence aside."
+  },
+  "evidence": "The clinical measurements come first. Payne, Kralj, Young and Meiser-Stedman pooled seven studies of the point prevalence of intrusive memories in adult depression and put it at 76.0%, 95% CI [59.4, 89.4], falling to 66.0%, CI [51.0, 79.5], when restricted to memories experienced in the week before assessment. Heterogeneity was high. Their between-groups analyses found adults with depression as likely to report intrusive memories as adults with PTSD, and more likely than healthy controls, risk ratio 2.94, CI [1.53, 5.67]. They name the small number of studies as the limit on how far this can be pushed. Mihailova and Jobson ran a separate meta-analysis of 23 studies, N = 2,582, giving 59 effect sizes. Depression was moderately and positively associated with intrusion frequency, memory distress, maladaptive appraisals, avoidance and rumination. Vividness was not associated with depression. An exploratory analysis of three studies, N = 257, found intrusive memories more frequent in PTSD than in depression. The laboratory work uses the trauma film paradigm, which James, Lau-Zhu, Clark, Visser, Hagenaars and Holmes reviewed across 74 articles published between the previous review and July 2014. Holmes, James, Coode-Bate and Deeprose ran the study the field is built on. Forty people, 20 per group, watched a film of real injury and death, took a 30-minute break, got a reminder, then either played Tetris for 10 minutes or sat quietly. Flashbacks during that 10 minutes were fewer in the Tetris group, t(38) = 2.50, p < 0.05, as were flashbacks logged over the following week, t(38) = 2.87, and Impact of Event Scale scores at one week, t(38) = 2.47. Recognition memory for the film was equal, t(38) = 0.10. The paper prints no effect size and no confidence interval for any of those tests. Iyadurai and seven colleagues took the procedure to a hospital emergency department. Seventy-one patients were randomised within six hours of a motor vehicle accident, 37 to a memory reminder cue plus about 20 minutes of Tetris and 34 to a written activity log. Intrusive memories in the following week were the primary outcome: mean 8.73 against 23.26, t(69) = 2.80, P = 0.005, d = 0.67, 95% CI [0.18, 1.14]. The Impact of Event Scale-Revised intrusion subscale at one week gave d = 0.54, CI [0.06, 1.01]. Every other subscale, and every measure at one month, was small to negligible, and PTSD criteria at one month were met by 4 patients (12.9%) in the intervention arm and 3 (9.7%) in the control arm, odds ratio 1.4, CI [0.28, 7.09]. Two meta-analyses cover the analogue literature. Asselbergs, van Bentum, Riper, Cuijpers, Holmes and Sijbrandij found 41 experiments; 52 comparisons of cognitive interventions against no-intervention controls gave g = -0.46, CI [-0.61, -0.32], and 16 comparisons on PTSD symptoms gave g = -0.31, CI [-0.46, -0.17]. Visuospatial interference and imagery rescripting beat controls; verbal interference and meta-cognitive processing did not. No experiment had a low risk of bias, 37 had some concerns and 4 had high risk. Varma, Zeng, Singh, Holmes, Huang, Chiu and Hu ran the larger one: 134 articles, 131 techniques, 606 effect sizes and 12,074 non-clinical participants. Across everything, techniques reduced intrusion frequency by g = 0.16, CI [0.09, 0.23]. A trauma reminder followed by Tetris, compared with the reminder alone and given immediately after the film, gave g = 0.80, CI [0.66, 0.93], Z = 11.59, P < 0.001, from 11 studies and 21 effect sizes.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A preregistered six-site replication of 433 people found Tetris cut intrusions during the task and not over the following week, where the count model gave p = .702.",
+    "detail": "Wessel, Krans, Albers and twelve colleagues ran a preregistered multilab replication of Holmes and colleagues at six universities in the United Kingdom, Australia, the Netherlands and Germany. Experiment 1, N = 141, established a new trauma film. Experiment 2 randomised 433 undergraduates, 209 to Tetris and 224 to a perceptual vigilance control. Their power analysis targeted d = 0.91, the figure they attribute to Holmes and colleagues, at 95% power with a one-tailed alpha of 0.0167, giving 72 per site; the sensitivity analysis put the detectable effect at d = 0.36. Intrusions recorded during the task itself were fewer under Tetris, Welch t(335.46) = -7.8, p < .001, and the authors decline to convert that to an effect size because a Welch test assumes no single pooled standard deviation. The one-week diary count gave nothing: negative binomial coefficient 0.04, SE 0.11, z = 0.38, p = .702, and neither excluding 36 flagged outliers nor adding test site changed it. The Impact of Movie Scale at one week gave t(431) = 0.04, p = .969, Cohen's d < 0.01, 95% CI [-0.18, 0.19]. Two procedural differences matter: the control condition was an active task where Holmes and colleagues used no task, and the film was new. The wider evidence disagrees rather than converging. Varma and colleagues' meta-analysis puts the immediate reminder-plus-Tetris contrast at g = 0.80, CI [0.66, 0.93], and the same technique given after a delay against a no-task control at g = 0.77, CI [0.07, 1.48], Z = 2.14, P = 0.032, from three studies. Their pooled figure across all 131 techniques is much smaller, g = 0.16, and Egger's test was borderline at Z = 1.88, P = 0.060, while trim-and-fill imputed 17 effect sizes and returned g = 0.07, CI [-0.01, 0.14], Z = 1.81, P = 0.070. In real trauma, Iyadurai and colleagues found d = 0.67 at one week and nothing at one month. Asselbergs and colleagues found no experiment in the analogue literature with a low risk of bias.",
+    "study": {
+      "cite": "Wessel, I., Krans, J., Albers, C. J., Chauhan, N., Ferreira de Sá, D. S., Hauck, A., Jaswetz, L., Michael, T., Nixon, R. D. V., Pearson, D. G., Slattery, I., Smeets, T., Takarangi, M. K. T., Willems, T. R. A., & van Schie, K. (2025). Evidence That Tetris Reduces Immediate but Not Subsequent Daily Intrusions of a Trauma Film: A Multilab Replication Study. Collabra: Psychology, 11(1), article 130791.",
+      "doi": "10.1525/collabra.130791",
+      "year": 2025,
+      "sites": 6,
+      "n": 433
+    }
+  },
+  "limits": "This entry covers Schacter's category, intrusive memories in depression and PTSD, and the trauma film paradigm with the visuospatial interference work built on it. It does not cover imagery rescripting trials in their own right, EMDR, pharmacological consolidation agents, neuroimaging, intrusive imagery in psychosis or obsessive-compulsive disorder, or children. Schacter's 1999 full text was not obtained. Searches ran at Crossref, PubMed, Semantic Scholar, Unpaywall, Schacter's Harvard pages and ResearchGate, and the copies found were paywalled or returned errors. Its abstract was read at PubMed and his 2022 update in Memory was read in full, and every claim about the taxonomy here comes from one of those two. The published Collabra text was blocked at the publisher and at the Groningen and Radboud repositories, so the figures above were read from the authors' preprint, which carries the same title and author list; figures may have moved between preprint and print. Varma and colleagues describe Astill Wright, Horstmann, Holmes and Bisson's clinical meta-analysis as giving g = 0.49, CI [0.18, 0.80], for reminder plus Tetris against real-world trauma. That meta-analysis was read and its running text does not carry the figure, which sits in a table, so the number is reported here at one remove and kept out of the structured fields. No structured effect sizes are given for the replication either. Its preregistered primary outcome is a negative binomial count model whose coefficient is not a standardised effect size, and its one standardised intrusion figure is printed as d < 0.01 rather than as a number. The depression prevalence estimate rests on seven studies with high heterogeneity, which the authors say limits it. The trauma film paradigm shows consenting volunteers film footage, and how far that models what happens after a car crash is the question the paradigm's own reviewers raise.",
+  "misreadings": "The commonest error is treating persistence as an effect with a replication record. It is a category in a classification scheme, and a search for replications of it returns the clinical intrusion literature and the trauma film literature instead. The second error concerns a number. Holmes and colleagues' 2009 paper reports t values and no effect sizes at all, so a reader who quotes d = 0.91 as the original finding is quoting Wessel and colleagues' power analysis, which attributes that figure to the original. Third, the 2009 title proposes a cognitive vaccine against flashbacks, and the study behind it had 20 people per group and a no-task control. Post-retrieval Tetris has since been tested against active controls, in an emergency department and across six laboratories, and the results split by outcome and by follow-up length. Fourth, intrusive memories get read as a PTSD-only symptom. Payne and colleagues put the pooled point prevalence in adult depression at 76% and found adults with depression no less likely to report them than adults with PTSD. Fifth, the trauma film paradigm gets described as trauma. It is film footage shown to volunteers who consented and can stop. Persistence is also the mirror of this atlas's entries on motivated forgetting and memory inhibition, which ask whether unwanted material can be pushed out of reach. Both of those literatures are contested, and a null result in either is not evidence that intrusive memories are unstoppable.",
+  "sources": [
+    {
+      "text": "Schacter, D. L. (1999). The seven sins of memory: Insights from psychology and cognitive neuroscience. American Psychologist, 54(3), 182-203. Abstract read at PubMed (PMID 10199218); full text not obtained. The source for the names of the seven sins and for the description of the seventh.",
+      "doi": "10.1037/0003-066X.54.3.182",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10199218/",
+      "type": "primary"
+    },
+    {
+      "text": "Schacter, D. L. (2022). The seven sins of memory: an update. Memory, 30(1), 37-42. PDF read in full; the source for the restatement of the taxonomy and for the update's coverage of six sins rather than seven.",
+      "doi": "10.1080/09658211.2021.1873391",
+      "url": "https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/3/137/files/2022/10/The-seven-sins-of-memory-an-update.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Holmes, E. A., James, E. L., Coode-Bate, T., & Deeprose, C. (2009). Can playing the computer game 'Tetris' reduce the build-up of flashbacks for trauma? A proposal from cognitive science. PLoS ONE, 4(1), e4153. Full text read from the publisher's article XML; the source for the sample, the four t tests and the absence of effect sizes.",
+      "doi": "10.1371/journal.pone.0004153",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004153",
+      "type": "primary"
+    },
+    {
+      "text": "Wessel, I., Krans, J., Albers, C. J., Chauhan, N., Ferreira de Sá, D. S., Hauck, A., Jaswetz, L., Michael, T., Nixon, R. D. V., Pearson, D. G., Slattery, I., Smeets, T., Takarangi, M. K. T., Willems, T. R. A., & van Schie, K. (2025). Evidence That Tetris Reduces Immediate but Not Subsequent Daily Intrusions of a Trauma Film: A Multilab Replication Study. Collabra: Psychology, 11(1), article 130791. Publisher and repository copies returned 403; the record was verified at Crossref and the figures were read from the authors' preprint.",
+      "doi": "10.1525/collabra.130791",
+      "url": "https://doi.org/10.1525/collabra.130791",
+      "type": "replication"
+    },
+    {
+      "text": "Wessel, I., Krans, J., Albers, C. J., Chauhan, N., Ferreira de Sá, D. S., Hauck, A., Jaswetz, L., Michael, T., Nixon, R. D. V., Pearson, D. G., Slattery, I., Smeets, T., Takarangi, M. K. T., Willems, T. R. A., & van Schie, K. (2024). Evidence that Tetris Reduces Immediate but Not Subsequent Daily Intrusions of a Trauma Film: A Multilab Replication Study [Preprint]. PsyArXiv. Read in full; the source for every figure quoted from the multilab study.",
+      "doi": "10.31234/osf.io/j9trf",
+      "url": "https://osf.io/j9trf/download",
+      "type": "replication"
+    },
+    {
+      "text": "Varma, M. M., Zeng, S., Singh, L., Holmes, E. A., Huang, J., Chiu, M. H., & Hu, X. (2024). A systematic review and meta-analysis of experimental methods for modulating intrusive memories following lab-analogue trauma exposure in non-clinical populations. Nature Human Behaviour, 8(10), 1968-1987. Full text read at the publisher and every quoted figure confirmed on a second independent fetch.",
+      "doi": "10.1038/s41562-024-01956-y",
+      "url": "https://www.nature.com/articles/s41562-024-01956-y",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Asselbergs, J., van Bentum, J., Riper, H., Cuijpers, P., Holmes, E., & Sijbrandij, M. (2023). A systematic review and meta-analysis of the effect of cognitive interventions to prevent intrusive memories using the trauma film paradigm. Journal of Psychiatric Research, 159, 116-129. Abstract read at Europe PMC.",
+      "doi": "10.1016/j.jpsychires.2023.01.028",
+      "url": "https://doi.org/10.1016/j.jpsychires.2023.01.028",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Iyadurai, L., Blackwell, S. E., Meiser-Stedman, R., Watson, P. C., Bonsall, M. B., Geddes, J. R., Nobre, A. C., & Holmes, E. A. (2018). Preventing intrusive memories after trauma via a brief intervention involving Tetris computer game play in the emergency department: a proof-of-concept randomized controlled trial. Molecular Psychiatry, 23(3), 674-682. Full text read at Europe PMC (PMC5822451); the source for the trial's arms, primary outcome and one-month figures.",
+      "doi": "10.1038/mp.2017.23",
+      "url": "https://europepmc.org/article/PMC/PMC5822451",
+      "type": "primary"
+    },
+    {
+      "text": "Payne, A., Kralj, A., Young, J., & Meiser-Stedman, R. (2019). The prevalence of intrusive memories in adult depression: A meta-analysis. Journal of Affective Disorders, 253, 193-202. Abstract read at Europe PMC; the source for the prevalence estimates and the risk ratio.",
+      "doi": "10.1016/j.jad.2019.04.055",
+      "url": "https://doi.org/10.1016/j.jad.2019.04.055",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Mihailova, S., & Jobson, L. (2018). Association between intrusive negative autobiographical memories and depression: A meta-analytic investigation. Clinical Psychology & Psychotherapy, 25(4), 509-524. Abstract read at Europe PMC.",
+      "doi": "10.1002/cpp.2184",
+      "url": "https://doi.org/10.1002/cpp.2184",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "James, E. L., Lau-Zhu, A., Clark, I. A., Visser, R. M., Hagenaars, M. A., & Holmes, E. A. (2016). The trauma film paradigm as an experimental psychopathology model of psychological trauma: intrusive memories and beyond. Clinical Psychology Review, 47, 106-142. Abstract read at Europe PMC; the source for the count of 74 articles and the cut-off date.",
+      "doi": "10.1016/j.cpr.2016.04.010",
+      "url": "https://doi.org/10.1016/j.cpr.2016.04.010",
+      "type": "review"
+    },
+    {
+      "text": "Astill Wright, L., Horstmann, L., Holmes, E. A., & Bisson, J. I. (2021). Consolidation/reconsolidation therapies for the prevention and treatment of PTSD and re-experiencing: a systematic review and meta-analysis. Translational Psychiatry, 11, article 453. Full text read; the g = 0.49 figure attributed to it in the limits section is quoted from Varma and colleagues, because it does not appear in this paper's running text.",
+      "doi": "10.1038/s41398-021-01570-w",
+      "url": "https://www.nature.com/articles/s41398-021-01570-w",
+      "type": "meta-analysis"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

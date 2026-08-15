@@ -1,0 +1,96 @@
+{
+  "no": 368,
+  "slug": "feeling-the-future",
+  "name": "Feeling the future",
+  "aliases": ["Bem's precognition experiments", "Retroactive facilitation of recall", "Psi (Bem 2011)"],
+  "category": "belief",
+  "statement": "Daryl Bem reported nine experiments in which people's responses were shaped by pictures and words a computer had not yet chosen, and eight reached statistical significance.",
+  "meaning": "The claim is precognition, stated in the vocabulary of experimental social psychology. Bem took nine well-known laboratory effects and ran them backwards, so that the stimulus arrived after the response it was supposed to cause. If the ordinary effect still showed up, the causal arrow had run from the future to the past. The reason this entry sits in an atlas about replication is not the claim itself. It is that the paper used the standard tools of the field, was reviewed by that field's flagship journal, and passed. What the episode tests is the method, not the mind.",
+  "origin": {
+    "year": 2011,
+    "who": "Daryl J. Bem",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The article reports 9 experiments involving more than 1,000 participants, testing for retroactive influence by time-reversing established psychological effects. Bem's own abstract states that the mean effect size across the nine was d = 0.22 and that all but one yielded statistically significant results. The journal's editors, Charles Judd and Bertram Gawronski, published a one-page editorial comment alongside it."
+  },
+  "evidence": "Four time-reversed effects across nine experiments: precognitive approach to erotic images and avoidance of negative ones, retroactive priming, retroactive habituation, and retroactive facilitation of recall. In Experiment 1, 100 Cornell undergraduates guessed which of two curtains hid a picture, and on erotic trials they were right 53.1% of the time against a chance rate of 50%, t(99) = 2.51, p = .01, d = 0.25. Their hit rate on nonerotic trials was 49.8%. Experiment 2 gave 51.7% across 150 participants, t(149) = 2.39, p = .009, d = 0.20. The strongest result was Experiment 9, retroactive facilitation of recall: 50 undergraduates saw 48 words, tried to recall them, and only afterwards did the computer randomly pick 24 of the words to be rehearsed. Recall favoured the words that would later be rehearsed, mean differential recall 4.21%, t(49) = 2.96, p = .002, d = 0.42. The one experiment that missed was the retroactive induction of boredom, p = .096, d = 0.09. Bem's Table 7 gives a mean d of 0.22 across the nine and 0.43 for participants scoring above the midpoint on a two-item stimulus-seeking scale. Significance levels are one-tailed throughout. A section headed The File Drawer names three sets of pilot findings omitted from the report, including individual-difference measures that failed to predict psi performance."
+  ,
+  "replication": {
+    "state": "failed",
+    "headline": "Three preregistered close replications and seven larger ones found nothing, and across seventeen independent experiments the pooled effect is 0.02.",
+    "detail": "Ritchie, Wiseman and French ran three preregistered replications of Experiment 9 at Edinburgh, Goldsmiths and Hertfordshire, each with 50 participants, using the computer program and 48-word list Bem supplied. Five words were changed for British participants. The mean differential recall scores were .19%, -2.72% and -.58%, one-tailed p = .46, .94 and .61, combined n = 150 and combined p = .83. They calculate 99.92% power across the three to detect Bem's d = .42. Galak, LeBoeuf, Nelson and Simmons then ran seven experiments with 3,289 participants, predetermining each sample and stopping before looking at results. Pooled across all seven, mean differential recall was -0.04%, t(3287) = -0.20, p = .58, with a Bayes factor of 70.48 favouring the null. Their meta-analysis of every replication attempt they could retrieve covers 19 experiments and 4,091 participants: fixed-effect d = 0.04, 95% CI -0.00 to 0.09, random-effects d = 0.05, 95% CI -0.02 to 0.12. Splitting that database by who ran the experiment is the striking part, and both figures in the fields above are read off their Table 3. Bem's own two experiments give d = 0.29, 95% CI 0.13 to 0.45. The seventeen run by anyone else, 3,941 participants, give d = 0.02, 95% CI -0.02 to 0.07. Galak's Experiment 6 included a forward condition in which practice came before the test, and that condition produced d = 1.99, so the apparatus detects the ordinary memory effect it is built from. Three reanalyses attacked the original numbers rather than collecting new ones. Wagenmakers, Wetzels, Borsboom and van der Maas applied a default Bayesian t test to the 10 critical tests in Bem's paper. One gave substantial evidence for psi, Experiment 9 at BF01 = 0.17. Three gave substantial evidence for the null, and the remaining six were anecdotal. Rouder and Morey built a meta-analytic Bayes factor across Bem's experiments. They got 3.23 for neutral stimuli, 1.57 for erotic stimuli and about 40 for emotionally valenced nonerotic stimuli. That last figure, they write, is orders of magnitude short of what should overcome skepticism about extrasensory perception. Francis pooled the nine experiments to g* = .186, calculated that their power predicts 6.27 rejections of the null out of 10 tests, and put the probability of the nine reported rejections at .058. Where the null results were published matters here. Ritchie and colleagues' paper appeared in PLoS ONE. Lakens, reviewing the period, quotes the journal's editor Eliot Smith desk-rejecting failed replications of Bem. Smith's words, as Lakens gives them, are 'This journal does not publish replication studies, whether successful or unsuccessful' and 'We don't want to be the Journal of Bem Replication'. Those quotations reach this page through Lakens rather than from an editorial statement it could open.",
+    "study": {
+      "cite": "Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012). Correcting the past: Failures to replicate psi. Journal of Personality and Social Psychology, 103(6), 933-948.",
+      "doi": "10.1037/a0029709",
+      "year": 2012,
+      "n": 3289
+    },
+    "original": { "es": 0.29, "esType": "d", "ci": [0.13, 0.45], "ciLevel": 95 },
+    "replicated": { "es": 0.02, "esType": "d", "ci": [-0.02, 0.07], "ciLevel": 95, "weighting": "fixed effect, inverse variance" }
+  },
+  "limits": "Almost all of the replication effort landed on one of the nine experiments. Retroactive facilitation of recall was the protocol Bem said would be among the easiest to repeat, and it is the one Ritchie and Galak chose. The other paradigms have thinner records, and this entry did not verify their component studies one by one. Bem's own 2015 meta-analysis with Tressoldi, Rabeyron and Duggan is the strongest counterweight and should be read as what it is rather than waved away: 90 experiments from 33 laboratories in 14 countries, 12,406 participants, Hedges' g = 0.09, 95% CI 0.06 to 0.11, z = 6.33, p = 1.2 x 10-10, and a Bayes factor of 5.1 x 10 to the 9th. Excluding Bem's own experiments leaves 69 replications and 10,082 participants at g = 0.06, 95% CI 0.03 to 0.09, z = 4.16. Three things qualify it. Its own Table 2 reports that the retroactive facilitation of recall protocol, 27 experiments and 4,601 participants, comes out at g = 0.04, 95% CI -0.01 to 0.09, p = .10, so the paper agrees with Galak about the one protocol that was tested hardest and rests its positive result on the faster paradigms. Its abstract prints z = 6.40 where its table and body print 6.33. And 34 of the 69 independent replications it pools had not been peer reviewed. The article was published in F1000Research under open peer review, and the two referees who approved version 1 were Paul Grigoriev of the medical physics and informatics department at Crimea State Medical University and Ina Vitalevna Vasileva of the general and social psychology department at Tyumen State University.",
+  "misreadings": "The paper was not retracted, and no finding of fraud has attached to it. That is what makes it useful: everything that went wrong was ordinary. Eight of the nine experiments were statistically significant, not all nine, and the ninth is often lost in the retelling. Bem did not conceal his exploration either. His File Drawer section lists pilot measures that failed, and Wagenmakers and colleagues built their critique partly out of what that section admits. The second common error runs the other way. Bem's 2015 meta-analysis is not a null result and does not concede the point; it reports a positive pooled effect and Bayes factors its authors call decisive. The disagreement is about whether a database assembled by soliciting unpublished attempts through parapsychology societies and mailing lists can support that reading, and about what it means that the effect concentrates in the protocols with the least replication data. It is also worth being careful about the word trigger. Bem's paper appeared in 2011 alongside Simmons, Nelson and Simonsohn's false-positive demonstration and the Stapel fraud case, and the claim that any one of them caused what followed is a claim about attention rather than a measured one."
+  ,
+  "sources": [
+    {
+      "text": "Bem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. Journal of Personality and Social Psychology, 100(3), 407-425.",
+      "doi": "10.1037/a0021524",
+      "url": "https://doi.org/10.1037/a0021524",
+      "type": "primary"
+    },
+    {
+      "text": "Judd, C. M., & Gawronski, B. (2011). Editorial comment. Journal of Personality and Social Psychology, 100(3), 406.",
+      "doi": "10.1037/0022789",
+      "url": "https://doi.org/10.1037/0022789",
+      "type": "commentary"
+    },
+    {
+      "text": "Ritchie, S. J., Wiseman, R., & French, C. C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem's 'retroactive facilitation of recall' effect. PLoS ONE, 7(3), e33423.",
+      "doi": "10.1371/journal.pone.0033423",
+      "url": "https://doi.org/10.1371/journal.pone.0033423",
+      "type": "replication"
+    },
+    {
+      "text": "Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012). Correcting the past: Failures to replicate psi. Journal of Personality and Social Psychology, 103(6), 933-948.",
+      "doi": "10.1037/a0029709",
+      "url": "https://doi.org/10.1037/a0029709",
+      "type": "replication"
+    },
+    {
+      "text": "Wagenmakers, E.-J., Wetzels, R., Borsboom, D., & van der Maas, H. L. J. (2011). Why psychologists must change the way they analyze their data: The case of psi: Comment on Bem (2011). Journal of Personality and Social Psychology, 100(3), 426-432.",
+      "doi": "10.1037/a0022790",
+      "url": "https://doi.org/10.1037/a0022790",
+      "type": "commentary"
+    },
+    {
+      "text": "Bem, D. J., Utts, J., & Johnson, W. O. (2011). Must psychologists change the way they analyze their data? Journal of Personality and Social Psychology, 101(4), 716-719.",
+      "doi": "10.1037/a0024777",
+      "url": "https://doi.org/10.1037/a0024777",
+      "type": "commentary"
+    },
+    {
+      "text": "Rouder, J. N., & Morey, R. D. (2011). A Bayes factor meta-analysis of Bem's ESP claim. Psychonomic Bulletin & Review, 18(4), 682-689.",
+      "doi": "10.3758/s13423-011-0088-7",
+      "url": "https://doi.org/10.3758/s13423-011-0088-7",
+      "type": "commentary"
+    },
+    {
+      "text": "Francis, G. (2012). Too good to be true: Publication bias in two prominent studies from experimental psychology. Psychonomic Bulletin & Review, 19(2), 151-156.",
+      "doi": "10.3758/s13423-012-0227-9",
+      "url": "https://doi.org/10.3758/s13423-012-0227-9",
+      "type": "commentary"
+    },
+    {
+      "text": "Bem, D., Tressoldi, P., Rabeyron, T., & Duggan, M. (2016). Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events (version 2). F1000Research, 4, 1188.",
+      "doi": "10.12688/f1000research.7177.2",
+      "url": "https://doi.org/10.12688/f1000research.7177.2",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Lakens, D. (2025). Concerns about replicability across two crises in social psychology. International Review of Social Psychology, 38(1).",
+      "doi": "10.5334/irsp.1036",
+      "url": "https://doi.org/10.5334/irsp.1036",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
