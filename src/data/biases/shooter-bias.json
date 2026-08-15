@@ -2,7 +2,12 @@
   "no": 299,
   "slug": "shooter-bias",
   "name": "Shooter bias",
-  "aliases": ["The police officer's dilemma", "First-person shooter task bias", "Shooter task bias"],
+  "aliases": [
+    "The police officer's dilemma",
+    "First-person shooter task bias",
+    "Shooter task bias",
+    "Shooting bias"
+  ],
   "category": "social",
   "statement": "In a videogame that rewards shooting armed targets and sparing unarmed ones, a target's race shifts how fast the decision arrives and where the threshold to fire sits.",
   "meaning": "Shooter bias is the name for an interaction, not a body count. Participants see men holding guns or holding wallets, cameras, cans and phones, and press one of two buttons under a deadline. The score of interest is the difference between two differences: how much faster or more accurate the response is when the target is armed and Black or unarmed and white, against the reverse pairing. Four measures come out of the same trials and they behave differently. Reaction times on correct trials move under a loose deadline. Error rates move under a tight one. Signal detection splits those errors into sensitivity, the ability to tell a gun from a wallet, and criterion, the amount of certainty demanded before firing. The measure that carries the effect in Correll's data is criterion, which is a threshold rather than an ability. What the task measures is knowledge of a stereotype rather than agreement with it, a distinction covered in the entry on implicit stereotypes, which treats the same task as one line of evidence among several.",
@@ -22,7 +27,15 @@
       "doi": "10.1016/j.jesp.2015.08.002",
       "year": 2015
     },
-    "replicated": { "es": -0.13, "esType": "d", "ci": [-0.19, -0.06], "ciLevel": 95 }
+    "replicated": {
+      "es": -0.13,
+      "esType": "d",
+      "ci": [
+        -0.19,
+        -0.06
+      ],
+      "ciLevel": 95
+    }
   },
   "limits": "Nothing in the task counts a shooting. It is a button press under a deadline, and the number it yields is a contrast between four cell means. The field literature on real shootings answers a different question and does not settle it. Fryer assembled 1,399 officer-involved shootings from 16 locations between 2000 and 2015, with Houston supplying 36% of them, and built a comparison set by hand-coding 290 variables from a random sample of Houston arrest records in categories where lethal force might have been justified. On non-lethal force, Black and Hispanic civilians were more than 50% more likely to have force used on them. On shootings, controlling for suspect and officer demographics, encounter characteristics, weapon and year, Black suspects were 27.4% less likely to be shot at than non-Black, non-Hispanic suspects, an estimate Fryer describes as measured with considerable error and not statistically significant. Knox, Lowe and Mummolo argue that this class of estimate cannot be read as a race effect at all, because the records only contain people the police already chose to stop. Where Fryer's approach gives a statistically insignificant 2.4 instances per 1,000 encounters of pushing Hispanic suspects to a wall because of race, their bias-corrected figure is at least 26, eleven times larger. The retraction of Johnson and colleagues' 2019 paper on officer characteristics shows how easily this literature is misread: the authors asked PNAS to withdraw it after it was repeatedly cited as evidence of no racial bias in fatal shootings, writing that their data were 'inadequate to address racial disparities in the probability of being shot'. Higher-fidelity laboratory work points the other way from the videogame. James, James and Vila tested 80 police patrol officers in deadly force simulators and report that officers were slower to shoot armed Black suspects than armed white ones and less likely to shoot unarmed Black suspects, a result they call a reverse racism effect. Only their abstract was obtained for this entry.",
   "misreadings": "The sentence the task is usually cited for is that people shoot unarmed Black men more often, and that is the false alarm rate. Mekawi and Bresin list false alarms as one of their five measures, and the pooled estimates their abstract reports are the two reaction times and the shooting threshold. What the meta-analysis supports is a threshold that sits lower, meaning less certainty is demanded before firing, which is a claim about what it takes to pull the trigger rather than about how often the trigger is pulled. The signs are read backwards as often as the measures are. A dav of -.13 for reaction time is a bias, because it means faster shooting of armed Black targets, and the negative number invites the opposite reading. Prejudice does not predict the effect. In Correll's Study 3 the Modern Racism Scale gave .15 and personal endorsement of the stereotype gave .05, neither significant, while knowing what the culture believes gave .37. Contact with African Americans gave .38, in the direction of more contact and more bias. African American and white participants in Study 4 showed the same effect at the same size. The task is named for police officers and was not run on any until five years later, and when it was, officers showed the speed effect and not the criterion shift. Shooter bias is also not a synonym for an Implicit Association Test score. The two have separate entries here, they use different tasks, and the shooter measure is a behavioural threshold rather than an association strength.",

@@ -7,7 +7,8 @@
     "Out-group homogeneity bias",
     "Out-group homogeneity principle",
     "Relative heterogeneity effect",
-    "They all look alike to me"
+    "They all look alike to me",
+    "Out-group homogeneity"
   ],
   "category": "social",
   "statement": "People judge the members of another group to be more alike one another than the members of their own group.",
@@ -33,7 +34,10 @@
     "replicated": {
       "es": -0.2,
       "esType": "d",
-      "ci": [-0.26, -0.13],
+      "ci": [
+        -0.26,
+        -0.13
+      ],
       "ciLevel": 95,
       "weighting": "random effects, one effect size per sample, negative favours out-group homogeneity"
     }
