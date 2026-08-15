@@ -1,0 +1,98 @@
+{
+  "no": 339,
+  "slug": "climate-change-denial",
+  "name": "Climate change denial",
+  "aliases": ["Psychology of climate change denial", "Climate scepticism", "Climate change scepticism", "Global warming denial"],
+  "category": "belief",
+  "statement": "Climate change denial is a topic rather than one effect, and its largest measured correlate is political affiliation at r = .30, ahead of education at r = .12.",
+  "meaning": "The phrase names a research area, not a laboratory result. Three questions get run together under it. The first is who disbelieves, which is answered by surveys correlating stated belief with demographics and values. The second is why, which is answered by experiments that manipulate something and watch stated belief move. The third is what changes it, which is answered by message tests with belief, policy support or behaviour as the outcome. The measures differ across all three. Some studies ask whether warming is happening, some whether humans cause it, some how serious the risk is, and Hornsey and colleagues found that the choice between a general and a causal wording moderated six of their twenty-seven correlations. This page maps the claims that carry numbers rather than defining a single effect, because that is the level at which the evidence exists.",
+  "origin": {
+    "year": 2001,
+    "who": "Susanne Stoll-Kleemann, Tim O'Riordan and Carlo C. Jaeger",
+    "where": "Global Environmental Change",
+    "note": "Their paper analysed 14 integrated-assessment focus groups run in German-speaking Switzerland between 1997 and 1999, with about six to eight people each, drawn by stratified random dialling and made heterogeneous for gender, age, education and environmental attitudes. Participants were alarmed by high-energy futures and still built what the authors call socio-psychological denial mechanisms to justify not acting. The denial they recorded was of mitigation measures rather than of the science, which is the distinction the later experimental work turns on. No single publication defines the topic, and the phrase is older than this paper."
+  },
+  "evidence": "The correlates have been counted once. Hornsey, Harris, Bain and Fielding meta-analysed 27 variables across 25 polls and 171 academic studies in 56 nations. Political affiliation was the largest demographic correlate of belief at r = .301 over 20 datasets, against political ideology at .149, education at .117, income at .057, race at .032 and sex at .029. Among the psychological antecedents, endorsement of the new ecological paradigm reached .493, trust in scientists .365, perceived scientific consensus .349, free-market ideology -.296, objective knowledge .253 and subjective knowledge .182. Experience of extreme weather sat at .052. Kahan and colleagues surveyed 1,540 US adults and found the deficit prediction reversed: science literacy correlated with climate-risk concern at r = -0.05 and numeracy at r = -0.09. Splitting by cultural worldview, the composite science literacy and numeracy scale correlated with concern at 0.08 among egalitarian communitarians and -0.12 among hierarchical individualists, so the gap widened as comprehension rose. Campbell and Kay ran four studies on the idea that the aversion is to the solution rather than the problem. In their Study 2, 121 Mechanical Turk workers read the same IPCC figure attached either to emissions regulation or to profiting from green technology. Self-identified Republicans agreed with the science at 55% under the free-market framing and 22% under the regulatory one, while Democrats sat at 68% under both. Study 4 reversed the politics, with gun-control supporters rating intruder violence more severe when the proposed remedy was gun control, F(1, 174) = 16.42.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The deficit account has failed repeatedly in United States samples. The cultural-cognition account that replaced it explains little outside them.",
+    "detail": "Drummond and Fischhoff reproduced the widening gap in General Social Survey data. Political conservatism interacted with science literacy on climate belief at -0.095, standard error 0.03, partial eta-squared .096, and with science education at -0.353. Their climate regressions rest on 141 observations, against 2,058 for the Big Bang and human evolution, and general education showed no significant interaction on climate. Propper, Geiger, Blanken and Brick then tested cultural cognition across 21 European countries, Russia and Israel with 44,378 respondents. Concern correlated with left identification at .04 to .13, egalitarianism at .04 to .13 and communitarianism at .01 to .07, and on a broad definition cultural cognition predicted 3.82% of the variance in beliefs, 2.09% in policy preferences and 0.62% in actions. Polarisation was not greatest among the highly educated, and education tracked belief at .07 to .17 regardless of political affiliation. Those figures were read from the authors' preprint, which is titled 'Identity over truth?' rather than the published title. Information is not inert either. Ranney and Clark report seven experiments in which two to 45 minutes of instruction in the physical-chemical mechanism durably raised both understanding and acceptance across the liberal-conservative spectrum, and write that their studies evidenced no polarisations. What message tests find is small movement. Vlasceanu and colleagues ran 11 crowdsourced interventions on 59,440 people in 63 countries: beliefs rose most under reduced psychological distance, by 2.3%, policy support most under a letter to a future generation, by 2.6%, and no intervention raised the effortful tree-planting task, with several lowering it. Voelkel and colleagues tested the ten most-cited climate messages on 13,544 Americans in a registered report, after five replication studies on 3,216 people found limited evidence for three highly cited strategies. Six messages moved multiple preregistered attitudes by one to four percentage points, no message raised donations, and persuasiveness varied little across party lines.",
+    "study": {
+      "cite": "Propper, R., Geiger, S. J., Blanken, I., & Brick, C. (2022). Truth over identity? Cultural cognition weakly replicates across 23 countries. Journal of Environmental Psychology, 83, 101865.",
+      "doi": "10.1016/j.jenvp.2022.101865",
+      "year": 2022,
+      "n": 44378
+    }
+  },
+  "limits": "Solution aversion rests on small cells. The 55% against 22% comparison is drawn from 40 Republicans, 20 per condition, and Campbell and Kay report that the overall interaction term on that measure did not reach significance, b = 1.41, Wald chi-square(1) = 2.70, p = .10. They argue from the simple effects instead, and say so. Their Study 3 prints an interaction as b = .02, t(116) = 1.20, p = .048, and a t of 1.20 on 116 degrees of freedom does not produce that p value; the paper does not reconcile the two. No direct replication of any of the four studies was located. The search covered Crossref by bibliographic query on the paper's title and terms, and general web search, and returned commentary and the supplemental materials rather than a repeat. Whether solution framing shifts belief for longer than one survey session, or shifts anything a person does, has not been tested in work found here. The Hornsey correlations come from the authors' accepted manuscript, which states that it differs in minor details from the published version, and their consequences rows show why belief is a weak lever anyway: private pro-environmental behaviour at .173, public behaviour at .188 and support for carbon pricing at .207, against .384 for the abstract willingness to prioritise the environment over the economy. Czarnek and colleagues report a 64-nation test of education and ideology in Nature Climate Change, and no readable copy was obtainable here, so it is named rather than quoted. Stoll-Kleemann and colleagues' focus-group work is qualitative and carries no effect size.",
+  "misreadings": "The Campbell and Kay percentages travel without their sample. Duke's own release and the reporting that followed quote 22% and 55% as the finding, and 40 people supplied both. The Kahan result is reported as showing that scientific literacy makes people worse at judging climate risk, and the correlations behind it are -0.05 and -0.09 in a single correlational survey, small enough that the authors call them small in the paper. What the study rules out is the deficit prediction of a positive slope, not the usefulness of knowledge. The stronger reading, that facts cannot move anyone, is contradicted by Ranney and Clark's experiments and by Hornsey's objective knowledge correlation of .253, which exceeds education, sex, income, race and experience of extreme weather. Denial is also treated as the same claim as motivated reasoning, entry 59, and it is not: motivated reasoning names a mechanism that would have to be shown to operate here, while denial names an outcome that several mechanisms could produce. Hornsey's data undercut the demographic shorthand as well. Across polls from five research organisations the conservative half of the conservative-white-male profile did the work, with race at .032 and sex at .029. Finally, results from United States samples are quoted as findings about people. Polarisation by comprehension is a United States pattern in the work located here, and in 23 European and neighbouring countries education tracked acceptance in the same direction across the political spectrum.",
+  "sources": [
+    {
+      "text": "Stoll-Kleemann, S., O'Riordan, T., & Jaeger, C. C. (2001). The psychology of denial concerning climate mitigation measures: evidence from Swiss focus groups. Global Environmental Change, 11(2), 107-117.",
+      "doi": "10.1016/s0959-3780(00)00061-3",
+      "url": "https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Stoll-Kleemann-et-al.-2001.-Swiss-Psychology-of-Denial-Concerning-CC.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hornsey, M. J., Harris, E. A., Bain, P. G., & Fielding, K. S. (2016). Meta-analyses of the determinants and outcomes of belief in climate change. Nature Climate Change, 6(6), 622-626. Figures here were read from the authors' accepted manuscript, which notes that it differs in minor details from the published version.",
+      "doi": "10.1038/nclimate2943",
+      "url": "https://eprints.qut.edu.au/93213/1/93213.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Kahan, D. M., Peters, E., Wittlin, M., Slovic, P., Ouellette, L. L., Braman, D., & Mandel, G. (2012). The polarizing impact of science literacy and numeracy on perceived climate change risks. Nature Climate Change, 2(10), 732-735. Read as the authors' copy deposited at George Washington University.",
+      "doi": "10.1038/nclimate1547",
+      "url": "https://scholarship.law.gwu.edu/faculty_publications/265/",
+      "type": "primary"
+    },
+    {
+      "text": "Campbell, T. H., & Kay, A. C. (2014). Solution aversion: On the relation between ideology and motivated disbelief. Journal of Personality and Social Psychology, 107(5), 809-824.",
+      "doi": "10.1037/a0037963",
+      "url": "https://doi.org/10.1037/a0037963",
+      "type": "primary"
+    },
+    {
+      "text": "Drummond, C., & Fischhoff, B. (2017). Individuals with greater science literacy and education have more polarized beliefs on controversial science topics. Proceedings of the National Academy of Sciences, 114(36), 9587-9592.",
+      "doi": "10.1073/pnas.1704882114",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5594657/",
+      "type": "replication"
+    },
+    {
+      "text": "Propper, R., Geiger, S. J., Blanken, I., & Brick, C. (2022). Truth over identity? Cultural cognition weakly replicates across 23 countries. Journal of Environmental Psychology, 83, 101865. The published text could not be opened here; the figures quoted come from the authors' preprint, listed next.",
+      "doi": "10.1016/j.jenvp.2022.101865",
+      "url": "https://doi.org/10.1016/j.jenvp.2022.101865",
+      "type": "replication"
+    },
+    {
+      "text": "Propper, R., Blanken, I., Geiger, S. J., & Brick, C. (2022). Identity over truth? Cultural cognition weakly replicates across 23 countries. Preprint.",
+      "doi": "10.31234/osf.io/86rk5",
+      "url": "https://osf.io/preprints/psyarxiv/86rk5",
+      "type": "replication"
+    },
+    {
+      "text": "Ranney, M. A., & Clark, D. (2016). Climate change conceptual change: Scientific information can transform attitudes. Topics in Cognitive Science, 8(1), 49-75. Read as its abstract at PubMed.",
+      "doi": "10.1111/tops.12187",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26804198/",
+      "type": "replication"
+    },
+    {
+      "text": "Vlasceanu, M., Doell, K. C., Bak-Coleman, J. B., et al. (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. Science Advances, 10(6), eadj5778.",
+      "doi": "10.1126/sciadv.adj5778",
+      "url": "https://europepmc.org/articles/PMC10849597",
+      "type": "replication"
+    },
+    {
+      "text": "Voelkel, J. G., Ashokkumar, A., Abeles, A., et al. (2026). A registered report megastudy on the persuasiveness of the most-cited climate messages. Nature Climate Change, 16(2), 214-225. The figures quoted were read from the abstract of the authors' preprint at OSF.",
+      "doi": "10.1038/s41558-025-02536-2",
+      "url": "https://osf.io/preprints/socarxiv/xwceg",
+      "type": "replication"
+    },
+    {
+      "text": "Czarnek, G., Kossowska, M., & Szwed, P. (2021). Right-wing ideology reduces the effects of education on climate change beliefs in more developed countries. Nature Climate Change, 11(1), 9-13. Named on this page from its Crossref record; no readable copy was obtainable, and nothing is quoted from it.",
+      "doi": "10.1038/s41558-020-00930-6",
+      "url": "https://doi.org/10.1038/s41558-020-00930-6",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
