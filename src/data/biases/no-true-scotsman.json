@@ -1,0 +1,81 @@
+{
+  "no": 407,
+  "slug": "no-true-scotsman",
+  "name": "No true Scotsman",
+  "aliases": ["No true Scotsman fallacy", "No-true-Scotsman Move", "Appeal to purity"],
+  "category": "belief",
+  "statement": "The no true Scotsman fallacy rescues a beaten generalisation by narrowing the category it is about, so that the counterexample stops counting.",
+  "meaning": "A claim is made about every member of a class. Someone produces a member who breaks it. Instead of withdrawing or qualifying the claim, the speaker inserts the word true and the offending member is defined out of the class. The sentence survives, and it survives by no longer saying anything. It was a claim about Scotsmen that could have been shown false. It is now a rule about what the speaker will call a Scotsman, and no fact can touch it. Antony Flew, who named the move, described the result as an impotent tautology. The important qualification is that narrowing a category after a hard case is often the right thing to do. Definitions of species, of murder, of planet and of pain have all been sharpened by awkward instances, and that is how they improved. What separates good sharpening from the fallacy is whether the revision has any support beyond the need to save the sentence, and whether the speaker admits the claim has changed. A revision that is adopted only because the evidence arrived, and that is then presented as though the original claim had been vindicated, is the fallacy. This entry sits next to persuasive definition, which is about smuggling a verdict into a word, and next to the Texas sharpshooter fallacy, which moves the target rather than the category.",
+  "origin": {
+    "year": 1966,
+    "who": "Antony Flew",
+    "where": "God and Philosophy",
+    "note": "Flew names the No-true-Scotsman Move in a single parenthesis on page 104, attached to an argument about Berkeley and Newman on causes. The usual citation is instead to Thinking About Thinking, published by Fontana in 1975, and that book carries the Scotsman anecdote everyone repeats but not the name's first use. Flew had already used the Scotsman in An Introduction to Western Philosophy, published by Thames and Hudson in 1971. The 1966 wording was read twice, once in a scan of the first American edition, Harcourt, Brace and World, and once through Internet Archive full-text search, which returns it from five separate scanned editions."
+  },
+  "evidence": "There is no experimental record here, and the primary material is three passages by one philosopher. The 1966 parenthesis reads: 'In this ungracious move a brash generalization, such as No Scotsmen put sugar on their porridge, when faced with falsifying facts, is transformed while you wait into an impotent tautology: if ostensible Scotsmen put sugar on their porridge, then this is by itself sufficient to prove them not true Scotsmen.' That is the whole of it. There is no anecdote, no newspaper and no named Scotsman, and the porridge appears only as a specimen sentence inside a chapter on natural theology. The story arrives five years later. An Introduction to Western Philosophy has a generalisation about someone being beaten 'with a blunt instrument', met by 'a falsifying instance: \"Mr Angus McSporran did just that\"', and then 'Instead of withdrawing, or at least qualifying' the claim. Thinking About Thinking gives the version that spread. Its American edition, published as Thinking Straight in 1977, opens the passage: 'Imagine some Scottish chauvinist settled down one Sunday morning with his customary copy of' his paper. He 'reads the story under the headline, \"Sidcup Sex Maniac Strikes Again\"', and is 'agreeably shocked: \"No Scot would do such a thing!\"'. The next Sunday brings McSporran in Aberdeen, and 'what in fact he says is: \"No true Scotsman would do such a thing!\"'. The next paragraph offers what Flew calls a simple but actual example of the move, taken from the Black Power leader Stokely Carmichael, and turning on who counts as truly white. Flew then writes that if all examples of the move were as simple and straightforward as those two, the fallacy would be easier to handle than it is. So the porridge and the sex maniac are different examples in different books, ten years apart, and the popular retelling fuses them. Whether the move is always a fallacy is contested. Robert Anderson argues in a 2017 conference paper that context can explain why it may not always be fallacious, working through the speaker's meaning, the syntactic position of the inserted word true, and dialogues whose subject is classification itself. His abstract was read at his university's repository; the chapter behind it was not obtained.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment testing whether people commit this fallacy, or how often, was found. Two nearby literatures measure related things, and neither is a test of it.",
+    "detail": "The first neighbour concerns the phrase itself. Joshua Knobe, Sandeep Prasada and George Newman report five experiments on what they call dual character concepts, words such as scientist and artist that name both a set of concrete features and an abstract value those features are meant to serve. Their finding is that when someone has the features but not the value, participants judge them a category member in one sense and not in another, which is the ordinary grammar of the true Scotsman construction rather than an error people fall into. Guillermo Del Pinal and Kevin Reuter took the same construction further, reporting that the normative half of a social role concept represents a commitment to the role's idealised basic function, and that background information changes which function is at stake. Both papers were read as their PubMed abstracts and neither full text was obtained. The second neighbour concerns what groups do to a member who breaks a group norm. José Marques, Vincent Yzerbyt and Jacques-Philippe Leyens named the black sheep effect in 1988, the pattern in which an unlikeable member of one's own group is judged more harshly than an equally unlikeable outsider. That paper's text was not obtained and only its bibliographic record was checked. Marika Rullo, Fabio Presaghi and Stefano Livi tested it away from written scenarios, putting 52 students in a minimal group setting through a competitive reaction time task with a partner who played unfairly. The evaluation result held: the deviant was rated more negatively than the two norm-following partners, F(2, 46) = 4.46, p = 0.02, partial eta squared 0.17, and the ingroup deviant was derogated more than the outgroup one, F(1, 46) = 6.0, p = 0.02, partial eta squared 0.12, with means of 7.7 against 6.8. The behavioural measure did not follow. Noise levels aimed at the deviant did not differ by group membership, F(1, 46) = 0.16, p = 0.69. Group identification predicted nothing in either analysis. This is a finding about how members judge a deviant, not about whether they redefine the group to exclude him, and it is reported here as a neighbouring result rather than as evidence for the fallacy."
+  },
+  "limits": "Nothing here measures a person committing the fallacy. The search for an experiment covered Europe PMC, Crossref, Semantic Scholar and general web search, pairing the fallacy's name with terms for experiments, participants and ad hoc redefinition. Europe PMC returns 17 records for the phrase, all of them using it rhetorically inside papers about something else, and Crossref returns philosophical and lexicographic items only. Two document searches were rate-limited before they could be completed, at OpenAlex and at Semantic Scholar, so the sweep is not exhaustive. The first edition of Thinking About Thinking, Fontana 1975, was not seen. Its passage is quoted here from the 1977 Prometheus edition, Thinking Straight, and from the 1998 revision, How to Think Straight, both read as strings returned by Internet Archive full-text search rather than as continuous pages. The page number usually attached to that passage, 47, was not verified. The 1971 sentences were read the same way and their page is unknown. Only the 1966 passage was read whole. Anderson's chapter, Marques and colleagues' 1988 paper, and both dual character concept papers were read as abstracts and not as full texts, so nothing in this entry describes their methods beyond what those abstracts state. Rullo and colleagues report 52 participants and analyse 49 across the two membership conditions; the entry quotes their figures as printed. No effect size for the black sheep effect across studies was located.",
+  "misreadings": "The commonest error is chronological. Pages that explain the fallacy routinely date the coinage to Flew's 1975 book while illustrating it with the porridge, and the porridge is from 1966. Bachelorprint states that the fallacy 'was coined by the philosopher Anthony Flew in his 1975 book' and then gives the porridge; Logicalfallacies.org says it was 'identified and named by philosopher Antony Flew in 1975' and Practical Psychology repeats the date. Internet Archive full-text search returns the porridge sentence from five scanned editions of God and Philosophy and from none of Flew's later books, and returns the Sidcup story from the later books and not from God and Philosophy. The second error treats every retreat to a narrower definition as the fallacy. Flew's target is narrower than that: the move is a fallacy because the revised sentence is defended as though it were still the original claim, and because the revision has nothing behind it except the counterexample it was built to exclude. A biologist who tightens a species boundary after an awkward specimen has done something else, and says so. Anderson's paper argues that even the bare move is not always fallacious once the conversation's subject is taken into account. The third error is to read work on group deviants as a demonstration of the fallacy. The black sheep effect is about how harshly a norm-breaking member is judged. It says nothing about whether anyone rewrote the definition of the group, and the two should not be reported as one finding.",
+  "sources": [
+    {
+      "text": "Flew, A. (1966). God and Philosophy. Harcourt, Brace and World, first American edition, page 104. The passage naming the No-true-Scotsman Move was read in a full-text scan of this edition and confirmed independently through Internet Archive full-text search, which returns the same wording from five scanned editions including the 1984 revision, God: A Critical Enquiry. The linked search reproduces the sentence.",
+      "url": "https://openlibrary.org/search/inside?q=%22No+Scotsmen+put+sugar+on+their+porridge%22",
+      "type": "primary"
+    },
+    {
+      "text": "Flew, A. (1971). An Introduction to Western Philosophy: Ideas and Argument from Plato to Sartre. Thames and Hudson. The Angus McSporran sentences were read as strings returned by Internet Archive full-text search; the page was not established. Year and publisher taken from the Open Library record.",
+      "url": "https://openlibrary.org/search/inside?q=%22McSporran+did+just+that%22",
+      "type": "primary"
+    },
+    {
+      "text": "Flew, A. (1977). Thinking Straight. Prometheus Books, Buffalo. The American edition of Thinking About Thinking (Fontana, 1975). The Sidcup passage and the Stokely Carmichael example were read as strings returned by Internet Archive full-text search across this edition and the 1998 revision, How to Think Straight. The 1975 Fontana printing was not seen.",
+      "url": "https://archive.org/details/thinkingstraight00flew",
+      "type": "primary"
+    },
+    {
+      "text": "Anderson, R. I. (2017). Is Flew's No True Scotsman Fallacy a True Fallacy? A Contextual Analysis. In Modeling and Using Context, Lecture Notes in Computer Science, pages 243-253. Springer. Abstract read at the University of Notre Dame Australia repository; the chapter was not obtained.",
+      "doi": "10.1007/978-3-319-57837-8_19",
+      "url": "https://researchonline.nd.edu.au/phil_conference/48/",
+      "type": "commentary"
+    },
+    {
+      "text": "Knobe, J., Prasada, S., & Newman, G. E. (2013). Dual character concepts and the normative dimension of conceptual representation. Cognition, 127(2), 242-257. Read as the PubMed abstract, PMID 23454798.",
+      "doi": "10.1016/j.cognition.2013.01.005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23454798/",
+      "type": "primary"
+    },
+    {
+      "text": "Del Pinal, G., & Reuter, K. (2017). Dual Character Concepts in Social Cognition: Commitments and the Normative Dimension of Conceptual Representation. Cognitive Science, 41(S3), 477-501. Read as the PubMed abstract, PMID 27859536.",
+      "doi": "10.1111/cogs.12456",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27859536/",
+      "type": "primary"
+    },
+    {
+      "text": "Marques, J. M., Yzerbyt, V. Y., & Leyens, J.-P. (1988). The 'Black Sheep Effect': Extremity of judgments towards ingroup members as a function of group identification. European Journal of Social Psychology, 18(1), 1-16. Not obtained; cited for naming the effect. Journal, volume, issue, pages and year confirmed at Crossref.",
+      "doi": "10.1002/ejsp.2420180102",
+      "url": "https://doi.org/10.1002/ejsp.2420180102",
+      "type": "primary"
+    },
+    {
+      "text": "Rullo, M., Presaghi, F., & Livi, S. (2015). Reactions to Ingroup and Outgroup Deviants: An Experimental Group Paradigm for Black Sheep Effect. PLOS ONE, 10(5), e0125605. All figures read from the article XML at the publisher.",
+      "doi": "10.1371/journal.pone.0125605",
+      "url": "https://doi.org/10.1371/journal.pone.0125605",
+      "type": "primary"
+    },
+    {
+      "text": "Bachelorprint. No True Scotsman Fallacy: Definition and Examples. Cited as an instance of the dating error, giving the 1975 book as the coinage and the 1966 porridge example as its illustration.",
+      "url": "https://www.bachelorprint.com/au/fallacies/no-true-scotsman-fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Logicalfallacies.org. No True Scotsman. Cited as a second instance of the dating error, stating that the fallacy was identified and named by Flew in 1975.",
+      "url": "https://www.logicalfallacies.org/no-true-scotsman.html",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
