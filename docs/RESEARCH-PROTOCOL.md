@@ -58,22 +58,34 @@ the figure appears in no source, which is the only test that matters here.
 The brief names leads and warns about traps, and it is written from memory by
 someone who has not read the papers yet. That makes it exactly the kind of
 confident secondary source the protocol exists to distrust, and agents have now
-corrected it four times.
+corrected it more times than are worth counting.
 
-Twice on facts: the Baader-Meinhof name came from a printed newspaper reader
-column making a narrower claim than the online comment board the brief
-described, and the brief's assertion that strong embodiment is "alive and well"
-in cognitive science had no source behind it. Once on numbers: a brief asserted
-that attribute and goal framing have much smaller effects than risky-choice
-framing, and Piñon and Gambara's 51 studies give risky 0.437, attribute 0.260
-and goal 0.444, so the largest of the three was the one called weak. And twice
-on entry numbers, where the brief assigned a new `no` to a bias that already had
-a published entry.
+On facts: the Baader-Meinhof name came from a printed newspaper reader column
+making a narrower claim than the online comment board the brief described, and
+the brief's assertion that strong embodiment is "alive and well" in cognitive
+science had no source behind it. On numbers: a brief asserted that attribute and
+goal framing have much smaller effects than risky-choice framing, and Piñon and
+Gambara's 51 studies give risky 0.437, attribute 0.260 and goal 0.444, so the
+largest of the three was the one called weak. And twice on entry numbers, where
+the brief assigned a new `no` to a bias that already had a published entry.
+
+Two later cases show the failure has a second source. A brief told an agent that
+Dennis argues against the list-length effect, and Yim, Dennis and Osth reported
+evidence for it in 2025, so the brief was describing a controversy as it stood
+before its most recent turn. Another gave Many Labs 4 as 21 labs and 2,220
+participants, which is a reanalysis paper's description of the 2019 preprint;
+the published paper reports 21 labs collecting 2,281 before exclusions and 17
+labs contributing 1,550 to the confirmatory test. Both briefs were written from
+a research sweep rather than from the writer's memory, which means a sweep is a
+secondary source in exactly the way this section describes, and passing one
+through into a brief launders it.
 
 An agent that follows the brief where the brief is wrong has fabricated
-something, and the fabrication traces back here. So the instruction is explicit:
-the brief is a starting point for searching and has no authority over what the
-sources say. Contradicting it is the job working correctly.
+something, and the fabrication traces back here.
+
+So the instruction is explicit: the brief is a starting point for searching and
+has no authority over what the sources say. Contradicting it is the job working
+correctly.
 
 ## Two sentence shapes that no gate can check
 
@@ -118,11 +130,36 @@ factor of 7.34; none of those strings exist in the document, which two
 independent raw fetches confirmed. Both agents re-extracted every number from
 the document text instead.
 
+It has since happened on the entry this site could least afford to get wrong.
+The first fetch of the PLOS ONE replication of Bem returned three replication
+means with t values, 1.76% and t = 0.65, 0.35% and t = 0.11, −0.13% and
+t = −0.04. None of them are in the article. Every figure on that page was
+re-extracted from the JATS XML.
+
 The defence is cheap. A figure that matters gets seen twice, or it does not
 get published. A figure that appears on one fetch and not the next is treated
 as not obtained, not as a retrieval glitch to work around. Where a PDF's text
 can be read directly, read it, and treat any summarised rendering of it as a
-secondary source in the sense this protocol already defines.
+secondary source in the sense this protocol already defines. The XML or the
+raw text of a document beats any rendering of it.
+
+## A search result can invent the whole paper
+
+The failure above corrupts figures inside a document that exists. The worse
+version invents the document.
+
+An agent checking whether anyone has tested the law of triviality was told by a
+search that a 2012 paper in the Journal of Organizational Behavior confirmed
+it, with effect claims and recommended interventions attached. No such paper is
+in Crossref. Three earlier cases produced figures of the same kind: "52% versus
+around 50%", "20-30% higher", a count of 1,043 Bundesliga penalty kicks, and
+F statistics, none of them in any document that was fetched.
+
+This is why the protocol's first rule is written the way it is. The test is not
+whether a claim came from a reputable-sounding place. It is whether the agent
+opened a document and saw the string. A citation that cannot be resolved at
+Crossref or DataCite does not go on the page, and `npm run sources` exists to
+make that mechanical rather than a matter of diligence.
 
 ## What the agent must not do
 

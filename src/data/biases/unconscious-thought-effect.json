@@ -1,0 +1,75 @@
+{
+  "no": 370,
+  "slug": "unconscious-thought-effect",
+  "name": "Unconscious thought effect",
+  "aliases": ["Deliberation-without-attention effect", "Unconscious thought advantage", "Unconscious thought theory"],
+  "category": "decision",
+  "statement": "Complex choices are said to come out better when the chooser is distracted by an unrelated task than when the chooser deliberates.",
+  "meaning": "The claim is about a specific laboratory task. Participants read a long list of attributes describing several options, typically four cars or four apartments, one of which carries more desirable attributes than the rest. They are then either given a few minutes to think about the options or made to do an unrelated task such as a word-search puzzle, and only afterwards are they asked to choose. The prediction is that the distracted group picks the best option more often, because attention was directed elsewhere while the choice was being settled. Dijksterhuis and Nordgren set this inside a wider theory of unconscious thought with six principles, of which the capacity principle and the weighting principle are the ones that generate the choice prediction. The capacity principle says consciousness can hold too little to handle many attributes at once. The weighting principle says the unconscious weights attributes by importance and that conscious thought disturbs that weighting.",
+  "origin": {
+    "year": 2006,
+    "who": "Ap Dijksterhuis, Maarten W. Bos, Loran F. Nordgren and Rick B. van Baaren",
+    "where": "Science",
+    "note": "The paper reports four studies and gives the effect its \"deliberation-without-attention\" name. The paradigm itself is older, introduced by Dijksterhuis in the Journal of Personality and Social Psychology in 2004, and the theory behind it was set out separately by Dijksterhuis and Nordgren in Perspectives on Psychological Science in 2006."
+  },
+  "evidence": "Studies 1 and 2 were laboratory tasks about four hypothetical cars, described by four attributes each in the simple condition and twelve in the complex condition. Study 1 asked for a choice and reported the crucial interaction as F(1,76) = 4.85, P < 0.04, with 18 to 22 participants per cell. Study 2 asked instead for attitudes and used the gap between ratings of the best and worst car, F(1,47) = 5.63, P < 0.03, with 12 to 14 per cell. Study 3 asked 49 students about a product they had recently bought, and found that self-reported amount of thought correlated with satisfaction at r(15) = 0.57, P < 0.03 for simple products and at r(16) = -0.56, P < 0.03 for complex ones. Study 4 stopped shoppers leaving two Amsterdam shops, IKEA for furniture and the Bijenkorf for clothes and accessories. Each was asked how much thought the purchase had taken, then telephoned weeks later about satisfaction. Splitting each sample of 27 at the median gave F(1,25) = 6.52, P < 0.02 for the Bijenkorf, where more thought went with more satisfaction, and F(1,25) = 6.12, P < 0.02 for IKEA, where the relation ran the other way. The paper reports no effect sizes for its own studies.",
+  "replication": {
+    "state": "failed",
+    "headline": "A 399-person study built to the proponents' own list of optimal conditions found no advantage, and the pooled estimate from earlier work falls to almost nothing once small-study bias is corrected.",
+    "detail": "Nieuwenstein and colleagues ran both halves of the test in one paper. The replication used 399 participants at the University of Amsterdam, a within-subjects design, and every condition that a 2011 meta-analysis by proponents had identified as favourable, including four options by twelve attributes, 2.5-second presentation, a word-search distractor and a three-minute deliberation phase. Choice accuracy was 58.2% after deliberation and 61.9% after distraction, Wald chi-square(1) = 1.09, p = .30. A Bayes factor built from six experiments by proponents of the effect moved belief towards the null by a factor of 7.83. Their meta-analysis of multi-attribute choice studies pooled 61 effect sizes with a random-effects model and produced Hedges' g = 0.15, interval 0.03 to 0.26, Z = 2.54, p = 0.01. Of those 61, 45 were not significant, 12 were significant in favour of distraction and 4 in favour of deliberation, and the significant ones sat among the least precise studies. A regression test found funnel-plot asymmetry, Z = 2.11, p = .04, and trim and fill imputed 10 missing effect sizes, after which the pooled figure was g = 0.018, interval -0.10 to 0.14, Z = 0.30, p = 0.77. The proponents' meta-analysis, which pooled 92 studies including unpublished data, had reported g = .224 with a 95% interval of .145 to .303 and attributed about 66% of the variance in effect sizes to differences between studies. Two other meta-analyses point the same way on significance and disagree on cause. Acker pooled 17 experiments with 888 participants and found g = .251 with an interval that includes zero, heterogeneity Q(16) = 54.994, I-squared = 70.906, and noted that the five significant experiments all favoured distraction and all had the smallest samples. Vadillo, Kostopoulou and Shanks pooled 17 conditions from four medical diagnosis studies, found z = 0.35, p = 0.73, and on independent effect sizes d = 0.14, 95% CI [-0.16, 0.43], z = 0.92, p = 0.36. Their funnel plot was symmetrical, with an asymmetry test of t(15) = 0.10, p = 0.92, and trim and fill imputed nothing.",
+    "study": {
+      "cite": "Nieuwenstein, M. R., Wierenga, T., Morey, R. D., Wicherts, J. M., Blom, T. N., Wagenmakers, E.-J., & van Rijn, H. (2015). On making the right choice: A meta-analysis and large-scale replication attempt of the unconscious thought advantage. Judgment and Decision Making, 10(1), 1-17.",
+      "doi": "10.1017/S1930297500003144",
+      "year": 2015,
+      "n": 399
+    },
+    "replicated": { "es": 0.15, "esType": "g", "weighting": "random-effects, 61 effect sizes" }
+  },
+  "limits": "The failure is a failure of one claim, in one paradigm. All three meta-analyses restrict themselves to studies where the outcome is picking the normatively best option from a set described by many attributes. Acker excluded incubation studies and studies scored by post-choice satisfaction. Nieuwenstein and colleagues excluded studies whose choice problems used fewer than 30 attributes in total. They also excluded studies that told participants to memorise the information rather than form an impression. Twelve studies were dropped on those grounds. Vadillo and colleagues covered medical diagnosis only. Nothing in this record tests the capacity or weighting principles directly, or the creativity claims that unconscious thought theory also makes. The correction that turns the pooled estimate to nothing is trim and fill, a method whose behaviour depends on the shape of the missing data, and Nieuwenstein and colleagues argue it suits their data set because most of the effects in it are not significant. The two 2006 laboratory studies carry no effect sizes of their own: the values of g = 0.968 and g = 1.247 sometimes quoted for them were computed by Acker for his meta-analysis, and Acker gives the second of those as the top of the range across his 17 experiments. Failures elsewhere in the same research programme are not evidence about this effect, and none are counted here.",
+  "misreadings": "The result is not that deliberation wins. In the large replication the distracted group was three percentage points ahead and the difference did not reach significance, and the honest reading of the corrected meta-analytic estimate is that nothing much happens either way. The advice to sleep on a decision is also a different claim: the distraction period in these studies is minutes, not nights, and the theory defines unconscious thought by where attention is pointed rather than by elapsed time or by sleep. The shopping study is the weakest link in the original chain and the most quoted. Its shoppers were not assigned to think or not think, they were sorted afterwards by their own reports of how much they had thought, and the paper says plainly that IKEA and Bijenkorf attract a different clientele. Where publication bias is concerned, the evidence is not uniform. Nieuwenstein and colleagues found significant funnel-plot asymmetry in the multi-attribute choice literature and read it as bias against small studies favouring deliberation. Vadillo and colleagues found no asymmetry at all in the medical subset and said so.",
+  "sources": [
+    {
+      "text": "Dijksterhuis, A., Bos, M. W., Nordgren, L. F., & van Baaren, R. B. (2006). On making the right choice: The deliberation-without-attention effect. Science, 311(5763), 1005-1007.",
+      "doi": "10.1126/science.1121629",
+      "url": "https://doi.org/10.1126/science.1121629",
+      "type": "primary"
+    },
+    {
+      "text": "Dijksterhuis, A. (2004). Think different: The merits of unconscious thought in preference development and decision making. Journal of Personality and Social Psychology, 87(5), 586-598.",
+      "doi": "10.1037/0022-3514.87.5.586",
+      "url": "https://doi.org/10.1037/0022-3514.87.5.586",
+      "type": "primary"
+    },
+    {
+      "text": "Dijksterhuis, A., & Nordgren, L. F. (2006). A theory of unconscious thought. Perspectives on Psychological Science, 1(2), 95-109.",
+      "doi": "10.1111/j.1745-6916.2006.00007.x",
+      "url": "https://doi.org/10.1111/j.1745-6916.2006.00007.x",
+      "type": "primary"
+    },
+    {
+      "text": "Nieuwenstein, M. R., Wierenga, T., Morey, R. D., Wicherts, J. M., Blom, T. N., Wagenmakers, E.-J., & van Rijn, H. (2015). On making the right choice: A meta-analysis and large-scale replication attempt of the unconscious thought advantage. Judgment and Decision Making, 10(1), 1-17.",
+      "doi": "10.1017/S1930297500003144",
+      "url": "https://doi.org/10.1017/S1930297500003144",
+      "type": "replication"
+    },
+    {
+      "text": "Acker, F. (2008). New findings on unconscious versus conscious thought in decision making: Additional empirical data and meta-analysis. Judgment and Decision Making, 3(4), 292-303.",
+      "doi": "10.1017/S1930297500000863",
+      "url": "https://doi.org/10.1017/S1930297500000863",
+      "type": "replication"
+    },
+    {
+      "text": "Vadillo, M. A., Kostopoulou, O., & Shanks, D. R. (2015). A critical review and meta-analysis of the unconscious thought effect in medical decision making. Frontiers in Psychology, 6, 636.",
+      "doi": "10.3389/fpsyg.2015.00636",
+      "url": "https://doi.org/10.3389/fpsyg.2015.00636",
+      "type": "replication"
+    },
+    {
+      "text": "Strick, M., Dijksterhuis, A., Bos, M. W., Sjoerdsma, A., van Baaren, R. B., & Nordgren, L. F. (2011). A meta-analysis on unconscious thought effects. Social Cognition, 29(6), 738-762.",
+      "doi": "10.1521/soco.2011.29.6.738",
+      "url": "https://doi.org/10.1521/soco.2011.29.6.738",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

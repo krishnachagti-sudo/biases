@@ -1,0 +1,98 @@
+{
+  "no": 350,
+  "slug": "self-consistency-bias",
+  "name": "Self-consistency bias",
+  "aliases": ["Consistency bias", "Consistency of attitudes bias", "Cognitive autobiography revision"],
+  "category": "memory",
+  "statement": "People recall their earlier opinions as closer to their current ones than the record shows, so a mind that changed is remembered as a mind that held steady.",
+  "meaning": "Testing this needs three numbers and not two. An attitude is measured, time passes, it is measured again, and then the person is asked what they used to think. The bias is the gap between that third number and the first one, and its direction is the point: the recollection sits nearer the present position than the past one did. Ordinary forgetting would scatter recollections around the truth. Michael Ross's account, published in Psychological Review in 1989, is that people reconstruct the past from their current state plus a belief about whether that sort of attribute stays put. Where the belief says opinions are stable, recall shows stability. Where it says a person has improved, the same machinery makes the past look worse than it was, which is why the general claim is about theory-guided reconstruction and the narrower one about consistency. Daniel Schacter calls the narrower version consistency bias and defines it as rewriting the past to fit current knowledge, beliefs and feelings.",
+  "origin": {
+    "year": 1970,
+    "who": "Daryl J. Bem and H. Keith McConnell",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The recall question was a side-test inside a forced-compliance dissonance experiment. Attitudes were collected a week before the session in what participants took to be an unrelated survey, then measured again after they wrote a counterattitudinal essay, then asked for from memory. Bem and McConnell's paper was not obtained in this search, and everything stated about it here is taken from Markus's 1986 description of it, including his quotation of their conclusion on page 28 that premanipulation attitudes 'are recalled as identical to postmanipulation attitudes'. Ross's 1989 review supplied the general theoretical account and Schacter's label of consistency bias came later still."
+  },
+  "evidence": "The strongest design puts the earlier measurement years out of anybody's reach. Gregory Markus used the Jennings-Niemi political socialisation panel, which began in 1965 with 1,669 American high school seniors and at least one parent in nearly every case. Complete three-wave data existed for 898 parents and 1,135 offspring. Positions on six seven-point scales were recorded in 1973, recorded again in 1982, and in 1982 respondents were also asked where they had stood nine years earlier. Nobody in 1973 knew the recall question was coming. Recollections matched the 1973 self-placements poorly. Correlations between recalled and actual 1973 positions ran from .29 to .56 for parents and .33 to .60 for offspring, and on average only about a third of recollections coincided with what had been said. Correlations between those same recollections and the respondent's current 1982 position ran from .69 to .83 for parents and .45 to .69 for offspring. Across the six items an average of 73% of parents said their 1973 position had been no different from their present one, against 48% of offspring, while Markus's Table 2 shows the two cohorts about equally stable in fact. Regressing recalled change on observed change, a one-position shift on a seven-point scale produced a recalled shift of one-tenth to two-tenths of a position among parents and about a third of a position among offspring. Asked to explain changes they believed they had undergone, no more than 5% to 10% of respondents failed to supply a story, even where the change they described ran opposite to the change on record.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Panel studies with a blind baseline keep finding recollections pulled towards the present position, but the pull is not always towards consistency, and one preregistered test found a measure where it ran the other way.",
+    "detail": "Boeltzig, Schubotz, Cole and Rathbone ran three preregistered longitudinal surveys around the 2024 elections in Germany, the United Kingdom and the United States, measuring people before the vote and again a week after. In the American study, 243 recruited and 230 analysed, participants recalled having predicted a fairer election than they had, 5.25 against 4.86 on a seven-point scale, beta 0.13, 95% CI 0.03 to 0.22, p = 0.007. Harris supporters recalled having felt more positive beforehand than they had, beta -0.15, 95% CI -0.28 to -0.02, p = 0.021. Two results cut against a simple consistency account. Memory for who they had hoped would win showed no distortion at all, beta -0.002, 95% CI -0.09 to 0.09, p = 0.961. Memory for who they had expected to win moved against the outcome they now knew: the sample recalled having predicted a Harris win more confidently than it had, 3.60 against 4.03, beta -0.12, 95% CI -0.21 to -0.03, p = 0.009. Older work points the same way about direction. Levine, Lench and Safer report that Levine's study of Ross Perot's supporters, who were surveyed after his withdrawal from the race in July 1992 and again after the November election, found recalled emotion tracking current appraisals in both directions, with people who still backed Perot in November overestimating the hope they had felt in July and underestimating the anger, and people who had turned against him underestimating the hope. Markus reports two laboratory precedents with the same structure: Bem and McConnell's essay-writing experiment, and Goethals and Reckman's study in which participants were told their earlier statements had been kept and would be checked, and misremembered anyway.",
+    "study": {
+      "cite": "Boeltzig, M., Schubotz, R. I., Cole, S., & Rathbone, C. J. (2026). Self-serving biases shape the relationship between future thinking and remembering of elections. Communications Psychology, 4, 47.",
+      "doi": "10.1038/s44271-026-00423-w",
+      "year": 2026,
+      "n": 230
+    }
+  },
+  "limits": "Ross's 1989 review is closed at the publisher, and Crossref, Unpaywall, OpenAlex and Semantic Scholar list no open copy, so nothing is quoted from it here beyond its title, journal and year. Four further papers named above were read only through the sources that describe them: Bem and McConnell 1970 and Goethals and Reckman 1973 through Markus, and Levine 1997 through Levine, Lench and Safer's 2009 review. Conway and Ross's 1984 study-skills experiment, the standard citation for recall bent the other way by a belief in self-improvement, was likewise not obtained. Keating, Van Boven and Judd's 2016 group-discussion experiments were located and could not be read: the publisher returned 403 to every route tried. No meta-analysis and no multi-laboratory replication was found in a search covering Crossref, OpenAlex, Semantic Scholar, Europe PMC, Unpaywall and web search. Markus names the obvious alternative to memory himself, that respondents may know they changed and dislike admitting it, and answers it by pointing out that the effect was far stronger among parents than among their offspring while the two cohorts were about equally stable in fact. His own data also show the bias is not uniform: respondents who felt warmest towards the women's liberation movement recalled their 1973 position on gender roles accurately 56% of the time among offspring against 33% of those with no feeling about it, chi-square 10.13, p < .01, and 44% against 28% among parents, chi-square 5.87, p = .05. Recall of a policy position on a seven-point scale is also a narrow test, and none of the studies here measures a belief the person holds with much conviction.",
+  "misreadings": "The first error is to read the bias as a claim that people always deny changing. Graham and Coppock put the question to respondents directly, asking whether a piece of information had made them more or less supportive, and compared the answers against a randomised experiment run on the same material. The self-reported direction of change had the opposite sign to the experimental estimate in 12 of 20 comparisons. Asked how they changed, people report change that did not happen; asked what they used to think, they report a past that looks like the present. These are different questions and they fail differently. The second error is treating the pull towards the present as fixed in direction. Ross's account predicts the reverse wherever a person believes they have got better, and Boeltzig and colleagues found one election measure moving away from what respondents now knew. The third is folding in neighbouring effects. Choice-supportive bias is a source error about which of two options a remembered feature belonged to. Rosy retrospection is about an event being rated more warmly afterwards than during. Hindsight bias is about the recalled probability of an outcome. This entry is about the recalled content of one's own earlier opinion, which is a fourth thing.",
+  "sources": [
+    {
+      "text": "Markus, G. B. (1986). Stability and change in political attitudes: Observed, recalled, and 'explained'. Political Behavior, 8(1), 21-44. Source for every number in the evidence section and for the descriptions of Bem and McConnell 1970 and Goethals and Reckman 1973; read in full from a scanned copy.",
+      "doi": "10.1007/BF00987591",
+      "url": "https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/b6798de6-4727-478c-a94d-b8357ed5d790/content",
+      "type": "primary"
+    },
+    {
+      "text": "Boeltzig, M., Schubotz, R. I., Cole, S., & Rathbone, C. J. (2026). Self-serving biases shape the relationship between future thinking and remembering of elections. Communications Psychology, 4, 47. Preregistered three-country longitudinal study; read in full.",
+      "doi": "10.1038/s44271-026-00423-w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13000295/",
+      "type": "replication"
+    },
+    {
+      "text": "Bem, D. J., & McConnell, H. K. (1970). Testing the self-perception explanation of dissonance phenomena: On the salience of premanipulation attitudes. Journal of Personality and Social Psychology, 14(1), 23-31. Not obtained; described here as Markus describes it.",
+      "doi": "10.1037/h0020916",
+      "url": "https://doi.org/10.1037/h0020916",
+      "type": "primary"
+    },
+    {
+      "text": "Goethals, G. R., & Reckman, R. F. (1973). The perception of consistency in attitudes. Journal of Experimental Social Psychology, 9(6), 491-501. Not obtained; described here as Markus describes it.",
+      "doi": "10.1016/0022-1031(73)90030-9",
+      "url": "https://doi.org/10.1016/0022-1031(73)90030-9",
+      "type": "primary"
+    },
+    {
+      "text": "Ross, M. (1989). Relation of implicit theories to the construction of personal histories. Psychological Review, 96(2), 341-357. The theoretical account. Closed at the publisher and not obtained, so no claim about its contents is made here.",
+      "doi": "10.1037/0033-295X.96.2.341",
+      "url": "https://doi.org/10.1037/0033-295X.96.2.341",
+      "type": "review"
+    },
+    {
+      "text": "Schacter, D. L. (2021). The seven sins of memory: an update. Memory, 30(1), 37-42. Source for the definition of consistency bias, which it attributes to Ross and Wilson's 1999 chapter; read in full.",
+      "doi": "10.1080/09658211.2021.1873391",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8285452/",
+      "type": "review"
+    },
+    {
+      "text": "Levine, L. J., Lench, H. C., & Safer, M. A. (2009). Functions of remembering and misremembering emotion. Applied Cognitive Psychology, 23(8), 1059-1075. Source for the description of Levine's Perot study; read in full.",
+      "doi": "10.1002/acp.1610",
+      "url": "https://ucconsortiumssl.wordpress.com/wp-content/uploads/2015/08/levine-levine-lench-safer-2009.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Levine, L. J. (1997). Reconstructing memory for emotions. Journal of Experimental Psychology: General, 126(2), 165-177. Not obtained; described here as Levine, Lench and Safer describe it.",
+      "doi": "10.1037/0096-3445.126.2.165",
+      "url": "https://doi.org/10.1037/0096-3445.126.2.165",
+      "type": "primary"
+    },
+    {
+      "text": "Graham, M. H., & Coppock, A. (2021). Asking about attitude change. Public Opinion Quarterly, 85(1), 28-53. The comparison of self-reported change against a randomised benchmark; read in full.",
+      "doi": "10.1093/poq/nfab009",
+      "url": "https://alexandercoppock.com/graham_coppock_2021.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "Conway, M., & Ross, M. (1984). Getting what you want by revising what you had. Journal of Personality and Social Psychology, 47(4), 738-748. The standard citation for recall biased away from the present by a belief in improvement; located and not obtained.",
+      "doi": "10.1037/0022-3514.47.4.738",
+      "url": "https://doi.org/10.1037/0022-3514.47.4.738",
+      "type": "primary"
+    },
+    {
+      "text": "Keating, J., Van Boven, L., & Judd, C. M. (2016). Partisan underestimation of the polarizing influence of group discussion. Journal of Experimental Social Psychology, 65, 52-58. Located and not read; the publisher returned 403 to every route tried, so no finding of it is stated here.",
+      "doi": "10.1016/j.jesp.2016.03.002",
+      "url": "https://doi.org/10.1016/j.jesp.2016.03.002",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

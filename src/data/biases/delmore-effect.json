@@ -1,0 +1,103 @@
+{
+  "no": 356,
+  "slug": "delmore-effect",
+  "name": "Delmore effect",
+  "aliases": ["Delmore Effect"],
+  "category": "decision",
+  "statement": "People write down more goals for the life domain they rank fourth in importance than for the one they rank first.",
+  "meaning": "The claim is about how goals are stated, not about whether they are reached. Paul Whitmore operationalised it as a count. Participants ranked nine life domains, then listed goals for their top-ranked and fourth-ranked domain, and the two counts were compared. The proposed mechanism is self-protective. A domain that matters more is also more daunting, so writing explicit plans for it exposes the self to a standard it may fail to meet. Naming an ambition that matters less costs less. The name is literary rather than technical. It comes from the poet Delmore Schwartz, and Whitmore took it from an editorial gloss in a 1970 collection of Schwartz's essays, which guessed that Schwartz never wrote his book on James Joyce 'precisely because he thought of it as crucial'. Everything written under the name traces to Whitmore's dissertation, which was never turned into a journal article.",
+  "origin": {
+    "year": 2000,
+    "who": "Paul Whitmore",
+    "where": "Stanford University doctoral dissertation",
+    "note": "'The Maieutics of Goal Articulation: Motivating the Choices of Highest Import', submitted to the Department of Psychology in March 2000, with Mark Lepper as advisor and James March as committee chair. It reports three experiments. The abstract labels the pattern found in Experiment I 'the Delmore Effect' and calls it robust. The document read here is the copy Whitmore posted on his Stanford page as PhDraft.pdf, recovered from the Internet Archive."
+  },
+  "evidence": "Experiment I drew 67 Stanford undergraduates from Introductory Psychology, aged 17 to 22, of whom 20 were female, 44 male and 3 unstated. Each ranked their top four domains from a list of nine, including career preparation, friendships, academic success, romantic relationship, family contact, physical fitness and spiritual life, then listed and elaborated goals for the first-ranked and fourth-ranked domain. In the control group of 43, who wrote no affirmation essay first, the mean goal count for the fourth-ranked domain was 2.60 with SD 1.21 against 2.17 with SD 0.99 for the top-ranked domain, t(40) = 1.81, p = .077. Pooling both conditions gave 2.94 with SD 1.33 against 2.50 with SD 1.40, t(64) = 1.91, p = .061. Whitmore checked that goal counts did not differ across which domain a participant chose, F(7, 104) = 1.58 for top domains and F(8, 104) = 1.20 for fourth domains, both p > .05. The second aim failed. Writing an essay about a supportive family member raised goal counts in both domains, F(1, 63) = 14.16, p < .001, without narrowing the gap, and only 9 of those 24 participants had ranked family first. Experiment II ran 47 students from the same course, all of whom wrote a self-affirmation essay about a personal accomplishment. No control condition was run, on the grounds that Experiment I had already shown the effect. The fourth-ranked domain drew 3.45 goals with SD 1.80 against 2.55 with SD 1.38 for the top-ranked domain, t(46) = 3.15, p < .05, and again the affirmation did not interact with the effect. Experiment III emailed all 114 earlier participants with an offer of $10, and 39 took part, 22 female and 17 male, up to six months later. Counts were 2.64 with SD 1.46 against 2.21 with SD 1.42, t(38) = 1.73, p = .092. Rankings had moved in the interval: 54% kept the same top priority, 82% kept the original top domain somewhere in their top four, and the originally fourth-ranked domain reappeared in the top four only 49% of the time. Splitting on that, the 19 participants whose affirmed domain was still in their top four listed 2.89 goals with SD 1.59 for their top domain and 2.89 with SD 1.82 for their fourth, while the other 20 listed 1.53 with SD 0.77 against 2.40 with SD 0.99, F(1, 36) = 3.37, p = .083. That contrast is the basis for the advice that oblique affirmation defeats the effect. No effect size is reported for any of these comparisons, so the structured fields here are empty.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No independent test was found. The founding experiment's own control condition gave p = .077, and the term returns no record in Crossref, PubMed, Europe PMC or DOAJ.",
+    "detail": "The three experiments sit in one dissertation by one author, on one subject pool, using one questionnaire, so they are internal repeats rather than replications. Two of the three comparisons fell short of conventional significance. Searches for the term as an exact phrase were run at Crossref, PubMed, Europe PMC, DOAJ, OpenAIRE and Semantic Scholar, and returned nothing carrying it. Crossref returns no record for a journal version of the dissertation. The route by which the name spread runs through indexes rather than through the literature. An English Wikipedia article titled 'Delmore effect' was created and patrolled on 1 April 2009 and deleted on 1 September 2011 by the administrator JohnCD as an expired proposed deletion. The log records the nominator's concern, truncated by the log's own field length: 'The so-called \"Delmore effect\" is not a widely used term. It is a term of highly questionable accuracy that was created by a Stanford PhD student, Paul Whitmore, for his dissertation in 2000. But Whitmore's term has'. Five years after that deletion, Buster Benson's 'Cognitive bias cheat sheet' of 1 September 2016 listed the Delmore effect under 'Problem 3: Need to act fast', in the group 'We favor options that appear simple or that have more complete information over more complex, ambiguous options'. Benson describes starting from Wikipedia's list of cognitive biases, and links every neighbour in that group to a Wikipedia article. The Delmore effect is linked instead to Whitmore's own Stanford page, because by then no Wikipedia article existed to point at. The published dataset of Benson's 2016 list carries the same row and the same link. Eleven dated revisions of Wikipedia's 'List of cognitive biases', from May 2009 to December 2025, contain no occurrence of the word Delmore, and the English Cognitive Bias Codex diagram held at Wikimedia Commons does not carry it either."
+  },
+  "limits": "The verdict covers the goal-count comparison Whitmore measured. It says nothing about goal-setting research in general, or about self-affirmation, both of which rest on far larger literatures. The evidence base is 67, 47 and 39 Stanford undergraduates, recruited from one course, writing on one ten-page questionnaire, with goal counts standing in for explicitness. The search for a replication ran across Crossref by bibliographic and by title query, PubMed, Europe PMC, DOAJ, OpenAIRE, Semantic Scholar and general web search. It did not cover PsycINFO, ProQuest Dissertations and Theses, or OpenAlex, whose API refused the request for want of quota. Semantic Scholar answered one query and returned rate-limit errors on the rest, and scholar.archive.org returned rate-limit errors on every attempt. Absence of a study is a statement about those places. The dissertation was read from two separate Internet Archive captures of the same posted PDF, taken in 2004 and 2006, and every figure quoted here was extracted from both. Whether that posted file matches the copy deposited with Stanford was not established, and no library catalogue record for it was obtained. The text of the deleted Wikipedia article was not recovered: the Internet Archive holds only 404 and redirect responses for that address. The deletion nominator's reasoning stops mid-sentence in the log and the rest of it was not found.",
+  "misreadings": "The strongest reading of the dissertation is weaker than its own abstract. That abstract calls the phenomenon robust, and Experiment I, the study that names it, reports the control comparison at p = .077 and the pooled comparison at p = .061. The one comparison below .05 is Experiment II, which had no control group. The follow-up result now sold as the cure, that affirming a related but lesser value lets people articulate top-priority goals, is a between-groups split of 19 against 20 people at p = .083. Whitmore's own page describes this as the way people 'finally managed to overcome the Delmore Effect'. The second error is a change of subject. Benson's 2016 grouping files the effect under a preference for simple, complete options over complex, ambiguous ones, which is not what the dissertation measured. Sites downstream of that grouping have taken the label at face value. A page at cognition.vsxlabs.com defines the Delmore effect as 'a cognitive bias where people prefer simple, complete solutions over complex ones' and lists as its first supporting reference 'Del.more, S. (2012)', 'The Pull of Simplicity: Why Minds Prefer the Straightforward', in a 'Journal of Cognitive Sciences'. Crossref returns no work by that title. The name of a dead poet has been read as the surname of an author who does not exist. A page at biascodex.com keeps Whitmore's definition and attaches two real papers, Locke and Latham's 2002 review of goal setting and Klinger's 1975 paper on commitment to incentives. Neither studies the effect, and Klinger's predates the coinage by 25 years. The third error is treating the term as sourced. A 2025 LessWrong post citing the effect gives one attribution, to a page at bias.transhumanity.net that carries an empty references section.",
+  "sources": [
+    {
+      "text": "Whitmore, P. (2000). The Maieutics of Goal Articulation: Motivating the Choices of Highest Import. Doctoral dissertation, Department of Psychology, Stanford University. Read in full from the Internet Archive's 2004 capture of the PDF the author posted at www-psych.stanford.edu/~wit/PhDraft.pdf, and every figure re-extracted from the archive's separate 2006 capture of the same file. The source for all three experiments and for the naming.",
+      "url": "https://web.archive.org/web/20040405055453/http://www-psych.stanford.edu/~wit/PhDraft.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Whitmore, P. 'Defeating Delmore', the dissertation abstract page at www-psych.stanford.edu/~wit/abstract.html, read from the Internet Archive's capture of 3 December 2000. The page the Cognitive Bias Codex dataset and Buster Benson's cheat sheet both link to.",
+      "url": "https://web.archive.org/web/20001203013300/http://www-psych.stanford.edu/~wit/abstract.html",
+      "type": "primary"
+    },
+    {
+      "text": "English Wikipedia, page log for 'Delmore effect'. Read through the MediaWiki API and at Special:Log. The source for the patrol entry of 1 April 2009, the deletion of 1 September 2011 by JohnCD, and the quoted proposed-deletion concern.",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:Log&page=Delmore+effect",
+      "type": "secondary"
+    },
+    {
+      "text": "English Wikipedia, 'Talk:List of effects'. Lists [[Delmore effect]] among pages created in April 2009, in a survey of new effect articles posted by the editor Wavelength on 5 August 2009.",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_effects",
+      "type": "secondary"
+    },
+    {
+      "text": "Benson, B. 'Cognitive bias cheat sheet', 1 September 2016. Read at Medium. The source for the grouping under 'Problem 3: Need to act fast', for the link from the Delmore effect to Whitmore's Stanford page, and for the Wikipedia links on the neighbouring entries.",
+      "url": "https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18",
+      "type": "secondary"
+    },
+    {
+      "text": "cognitive-bias-codex, bias.csv, the published dataset of Benson's 2016 list used to render the Cognitive Bias Codex. Row 'bias.Need for speed.Simple complete over complex ambiguous.Delmore effect' carries the Stanford URL where its neighbours carry Wikipedia URLs.",
+      "url": "https://raw.githubusercontent.com/scottleedavis/cognitive-bias-codex/master/bias.csv",
+      "type": "secondary"
+    },
+    {
+      "text": "Wikimedia Commons, 'Cognitive bias codex en.svg'. All text nodes extracted and searched; the file contains no occurrence of the word Delmore.",
+      "url": "https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg",
+      "type": "secondary"
+    },
+    {
+      "text": "English Wikipedia, 'List of cognitive biases'. Eleven revisions dated between 25 May 2009 and 20 December 2025 were fetched as raw wikitext and searched; none contains the word Delmore. The revision of 25 August 2016 is linked here as an example.",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=736071955",
+      "type": "secondary"
+    },
+    {
+      "text": "Sas, P. W. 'The Trouble with Goals', 23 August 2016. Read at Medium. Whitmore's own later account, which links the phrase to his Stanford abstract page and states that his dissertation 'studied the tendency of Stanford undergrads to avoid setting goals for the things that mattered most to them'.",
+      "url": "https://medium.com/@hormetic/the-trouble-with-goals-1519ec23f878",
+      "type": "secondary"
+    },
+    {
+      "text": "'Delmore effect', cognition.vsxlabs.com. Read twice at the publisher. The source for the changed definition and for the reference attributed to 'Del.more, S. (2012)'.",
+      "url": "https://cognition.vsxlabs.com/bias/delmore-effect",
+      "type": "secondary"
+    },
+    {
+      "text": "'Delmore effect', biascodex.com. Read at the publisher. Keeps Whitmore's definition and cites Locke and Latham (2002) and Klinger (1975).",
+      "url": "https://biascodex.com/delmore-effect",
+      "type": "secondary"
+    },
+    {
+      "text": "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. American Psychologist, 57(9), 705-717. Verified as a Crossref record; cited here only because biascodex.com names it.",
+      "doi": "10.1037/0003-066X.57.9.705",
+      "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+      "type": "review"
+    },
+    {
+      "text": "Klinger, E. (1975). Consequences of commitment to and disengagement from incentives. Psychological Review, 82(1), 1-25. Verified as a Crossref record; cited here only because biascodex.com names it, 25 years before the term was coined.",
+      "doi": "10.1037/h0076171",
+      "url": "https://doi.org/10.1037/h0076171",
+      "type": "primary"
+    },
+    {
+      "text": "Nottingham, L. 'Beware the Delmore Effect', LessWrong, 9 June 2025. Read at the publisher; its one attribution is to the Cognitive Bias Foundation page.",
+      "url": "https://www.lesswrong.com/posts/bbPHnmGybEcqEiPKs/beware-the-delmore-effect",
+      "type": "secondary"
+    },
+    {
+      "text": "'Delmore Effect', Cognitive Bias Foundation at bias.transhumanity.net. Read at the publisher; gives Whitmore's definition under an empty references heading.",
+      "url": "https://bias.transhumanity.net/delmore-effect/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
