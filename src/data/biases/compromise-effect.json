@@ -1,0 +1,80 @@
+{
+  "no": 360,
+  "slug": "compromise-effect",
+  "name": "Compromise effect",
+  "aliases": [
+    "Extremeness aversion"
+  ],
+  "category": "decision",
+  "statement": "An option gains share when a change to the choice set turns it into the middle alternative rather than an extreme one.",
+  "meaning": "Three options ranked on two attributes, each better on one and worse on the other. The middle option has only small disadvantages against either neighbour, while each extreme has one large one. Simonson and Tversky call this extremeness aversion: the pull of an option rises when it sits in the middle and falls when it sits at an end. The claim is about a shift, not a ranking. It says the same option is chosen more often when the set makes it a compromise than when the set makes it extreme, so the test is a comparison between choice sets rather than a count of middle options in one set. Nothing needs to be dominated, which is what separates this from the attraction effect. The added option is a plausible purchase and often takes a large share itself.",
+  "origin": {
+    "year": 1989,
+    "who": "Itamar Simonson",
+    "where": "Journal of Consumer Research",
+    "note": "Simonson predicted the effect from an account of choice as a search for reasons, and reported it alongside a replication of the attraction effect. The paper's abstract states that brands tend to gain share when they become compromise alternatives, and that both effects are stronger among subjects who expect to justify their decisions to others. Simonson and Tversky supplied the extremeness aversion framing three years later, and reanalysed some of Simonson's own choice sets."
+  },
+  "evidence": "Simonson's pilot put choice sets to 147 marketing students and found a compromise effect at t = 4.27, p < 0.001. Study 1 used 372 business students at three southeastern universities, choosing among apartments, calculators, calculator batteries, mouthwash and televisions. Shares were on average 17.5 percent larger when a brand was the compromise, and nine of the 11 comparisons were statistically significant. One apartment went from 50% to 66% when an added option made it the middle choice. A multinomial logit with estimated utility, a compromise dummy and an interaction gave the compromise dummy a coefficient of 0.63 with a standard error of 0.08, t = 7.9, p < 0.001. Simonson and Tversky ran 22 experiments with 100 to 220 participants each, students at three West Coast universities, with several problems repeated on business executives. Their cleanest case used real catalogue cameras. A Minolta X-370 at $169.99 and a Maxxum 3000i at $239.99 split 50-50 among 106 respondents. Adding a Maxxum 7000i at $469.99 for 115 further respondents lifted the 3000i's share against the X-370 from 50% to 72%, a difference of .22 with a standard error of .068, t = 3.2, p < .01. Portable grills gave the same pattern across three overlapping sets, with relative shares of .58 against .38 and .62 against .36, both p < .05.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A meta-analysis of 142 experimental observations reports that middle options are chosen more often than others, and field data from 88,113 restaurant orders put the gain at about five percentage points.",
+    "detail": "Neumann, Böckenholt and Sinha aggregated 142 experimental observations and describe extremeness aversion as robust, with middle options selected more often than other options. Their abstract is all that could be read for this entry, so no pooled effect size is quoted here and none is recorded in the structured fields. It reports that strength varies by up to three times the average magnitude across methodological choices, and that the three measurement paradigms in use, absolute share changes, relative share shifts and middle option proportions, can give different magnitudes and contradictory conclusions about moderators. Pinger, Ruhmer-Krell and Schumacher took the effect out of the laboratory. They used 88,113 individual main-course choices from a German specialities restaurant between 5 January 2002 and 29 May 2009, across 21 menus of 24 to 30 dishes. A dish that became a compromise after a menu change gained about five percentage points of market share, with strength ranging from zero to over one hundred percent across food categories. Those figures were read from the IZA discussion paper version rather than the published article. Trueblood, Brown, Heathcote and Busemeyer report similarity, attraction and compromise effects together in a perceptual decision task, which places the effect outside consumer choice. No multi-site replication was located in the Many Labs series.",
+    "study": {
+      "cite": "Neumann, N., Böckenholt, U., & Sinha, A. (2016). A meta-analysis of extremeness aversion. Journal of Consumer Psychology, 26(2), 193-212.",
+      "doi": "10.1016/j.jcps.2015.05.005",
+      "year": 2016
+    }
+  },
+  "limits": "Extremeness aversion is not symmetric across attributes. Simonson and Tversky found that the low quality, low price option usually lost share when a third option was added while the high quality, high price option did not, a pattern they call polarization. In their AM/FM cassette data the middle option gained .29 against the cheap extreme, t = 3.2, p < .01, while the cheap extreme lost .34, t = -3.6, p < .01, and the gain against the expensive extreme was .13 and not significant. The field data split the same way. Pinger and colleagues found the effect strongest in categories of expensive high quality food and weakest in cheap familiar items, and statistically insignificant for customers eating alone. Lichters, Brunnlieb, Nave, Sarstedt and Vogt reduced brain serotonin pharmaceutically in four studies with binding purchases and report that the compromise effect fell, which they read as evidence that it depends on deliberate thought. Müller, in a working paper that has not been peer reviewed, ran binding choices between real branded goods with a no-buy option and reports a significant compromise effect overall, driven by quality-conscious subjects and weak and insignificant among price-conscious ones. Most published tests remain hypothetical forced choices by students.",
+  "misreadings": "The compromise effect is not the decoy effect. The attraction effect needs an option that is dominated and that nobody is meant to buy; the compromise effect needs neither, and the option added to create the middle is an ordinary product that often sells. The distinction matters because the two have different track records. Frederick, Lee and Baskin's 38 studies, the paper that broke the attraction effect's reputation, tested attraction; the word compromise appears in their text only where they note that their orange juice decoy also made the target a middle option. Second, the claim is not that the middle option wins. Simonson and Tversky's cameras were equally popular in the pair, and the third camera moved the split rather than crowning a favourite. Third, Simonson's own prediction that the effect would be stronger among people expecting to justify their choices held in his pilot, t = 2.19, p < 0.05, but not in Study 1, where the interaction term was 0.05 with a standard error of 0.11 and the gap between conditions averaged 2.6 percent. Fourth, the pricing-page version of the story promises more than the field data deliver. In a real restaurant the shift was about five percentage points, and it vanished for solo diners.",
+  "sources": [
+    {
+      "text": "Simonson, I. (1989). Choice based on reasons: The case of attraction and compromise effects. Journal of Consumer Research, 16(2), 158-174. Full text read from a scanned JSTOR copy hosted by the University of Klagenfurt.",
+      "doi": "10.1086/209205",
+      "url": "https://cognition.aau.at/bg/BA/Simonson%20(1989).pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Simonson, I., & Tversky, A. (1992). Choice in context: Tradeoff contrast and extremeness aversion. Journal of Marketing Research, 29(3), 281-295. Full text read from a scanned copy hosted by the University of Klagenfurt.",
+      "doi": "10.1177/002224379202900301",
+      "url": "https://cognition.aau.at/bg/BA/Simon%20&%20tversky,%201992.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Neumann, N., Böckenholt, U., & Sinha, A. (2016). A meta-analysis of extremeness aversion. Journal of Consumer Psychology, 26(2), 193-212. Read from the abstract deposited at Crossref; the full text is paywalled and no open copy was located.",
+      "doi": "10.1016/j.jcps.2015.05.005",
+      "url": "https://doi.org/10.1016/j.jcps.2015.05.005",
+      "type": "replication"
+    },
+    {
+      "text": "Pinger, P., Ruhmer-Krell, I., & Schumacher, H. (2016). The compromise effect in action: Lessons from a restaurant's menu. Journal of Economic Behavior & Organization, 128, 14-34. The restaurant figures were read from the IZA discussion paper version, IZA DP 9648, whose text is linked here.",
+      "doi": "10.1016/j.jebo.2016.04.017",
+      "url": "https://docs.iza.org/dp9648.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Trueblood, J. S., Brown, S. D., Heathcote, A., & Busemeyer, J. R. (2013). Not just for consumers: Context effects are fundamental to decision making. Psychological Science, 24(6), 901-908. Read from the abstract deposited at Crossref.",
+      "doi": "10.1177/0956797612464241",
+      "url": "https://doi.org/10.1177/0956797612464241",
+      "type": "replication"
+    },
+    {
+      "text": "Lichters, M., Brunnlieb, C., Nave, G., Sarstedt, M., & Vogt, B. (2016). The influence of serotonin deficiency on choice deferral and the compromise effect. Journal of Marketing Research, 53(2), 183-198. Read from the abstract deposited at Crossref.",
+      "doi": "10.1509/jmr.14.0482",
+      "url": "https://doi.org/10.1509/jmr.14.0482",
+      "type": "primary"
+    },
+    {
+      "text": "Müller, H. (2011). To be or not to be price-conscious: A segment-based analysis of compromise effects in market-like framings. FEMM Working Paper 02/2011, Otto von Guericke University Magdeburg. Not peer reviewed.",
+      "url": "https://www.fww.ovgu.de/fww_media/femm/femm_2011/2011_02.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. Journal of Marketing Research, 51(4), 487-507. Cited here for what its 38 studies tested, read from the author copy hosted by NUS Business School.",
+      "doi": "10.1509/jmr.12.0061",
+      "url": "https://web2-bschool.nus.edu.sg/wp-content/uploads/media_rp/publications/tF83O1430805722.pdf",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

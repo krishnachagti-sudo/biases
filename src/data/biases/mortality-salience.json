@@ -1,0 +1,102 @@
+{
+  "no": 369,
+  "slug": "mortality-salience",
+  "name": "Mortality salience",
+  "aliases": [
+    "Terror management theory",
+    "Worldview defence effect",
+    "Mortality salience hypothesis"
+  ],
+  "category": "social",
+  "statement": "Reminding people of their own death makes them defend their cultural worldview, warming to those who praise it and turning against those who attack it.",
+  "meaning": "Terror management theory starts from a conflict: humans want to go on living and know they will not. The proposal is that cultural worldviews and self-esteem hold the resulting anxiety at bay, because belonging to something that outlasts the body borrows some of its permanence. The testable part is the mortality salience hypothesis. Make death briefly accessible, then measure attachment to the worldview, and the attachment should rise. The standard manipulation asks participants to write about what will happen to them as they physically die, against a control topic such as watching television. The standard outcome asks them to rate an essayist who praises their country and one who attacks it. A larger gap between those two ratings after the death prompt is the effect.",
+  "origin": {
+    "year": 1994,
+    "who": "Jeff Greenberg, Tom Pyszczynski, Sheldon Solomon, Linda Simon and Michael Breus",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their paper, \"Role of consciousness and accessibility of death-related thoughts in mortality salience effects\", ran four studies. Study 1 is the one later chosen for large-scale replication. The theory itself is older: Many Labs 4 traces it to a 1986 chapter by Greenberg, Pyszczynski and Solomon in Baumeister's Public Self and Private Self, which is a book chapter rather than a journal article and is cited here from that description rather than read."
+  },
+  "evidence": "The 1994 abstract says subtle mortality salience inductions raise prejudice, nationalism and intergroup bias, and reports that Study 1 reproduced the increased preference for a pro-US author over an anti-US author. It also reports that the effect weakened when participants were led to think more deeply about mortality, and that later studies found the effect appears only once attention has been drawn away from death. Study 1 assigned 59 introductory psychology students in the United States across five conditions. Many Labs 4 describes the two conditions it targeted, subtle own-death salience against a television control, and prints the comparison as a mean difference of 12.25 against 1.64, t(53) = 4.87, p < .001, Cohen's d = 1.34. That d is quoted from Many Labs 4, not read off the 1994 paper. The literature that grew from this is large. Burke, Martens and Faucher pooled 164 articles and 277 experiments in 2010 and reported r = .35, which their own abstract calls moderate, across worldview and self-esteem outcomes. They also report that effects were larger for American participants, for students, and when a longer delay separated the death prompt from the measure. Writing about one's own death was the manipulation in 79.8% of the field's studies, a figure Many Labs 4 attributes to that meta-analysis.",
+  "replication": {
+    "state": "failed",
+    "headline": "Seventeen laboratories pooled 1,550 participants and found a worldview-defence effect of g = 0.07, with an interval running from -0.03 to 0.17.",
+    "detail": "Many Labs 4 was built to test a question about method rather than about death. Teams were randomly assigned either to run an Author Advised protocol, designed with Jeff Greenberg, Tom Pyszczynski and Sheldon Solomon, or to build an In House protocol using only the published paper, forbidden from contacting the original authors, the other teams or any expert. Twenty-one labs from 18 universities collected 2,281 participants. Four labs were dropped for collecting fewer than 60 people, removing 158 participants, and a further 545 were removed because some In House sites started before the analysis plan was preregistered. That left 17 labs and 1,578 participants, and 1,550 after the participant-level exclusions. A random-effects meta-analysis across all sites and both protocols gave Hedges' g = 0.07, 95% CI [-0.03, 0.17], Z = 1.32, p = .187. Two stricter exclusion sets recommended by the original authors, restricting to White participants born in the United States and then to those who rated their American identity highly, gave g = 0.09, 95% CI [-0.03, 0.21] and g = 0.09, 95% CI [-0.04, 0.22]. Site-to-site variation did not exceed chance, Q(16) = 19.35, p = .251 under the first exclusion set. Restricting to the Author Advised labs alone gave g = 0.08, 95% CI [-0.07, 0.23]. Restricting to the five sites whose principal investigators reported knowing a lot about the theory gave g = 0.02, 95% CI [-0.18, 0.23]. The design question came back unanswerable, because neither protocol produced the effect for the comparison to be run on. The authors state the sample gave 95% power to detect d = 0.18.",
+    "study": {
+      "cite": "Klein, R. A., Cook, C. L., Ebersole, C. R., et al. (2022). Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement. Collabra: Psychology, 8(1), 35271.",
+      "doi": "10.1525/collabra.35271",
+      "year": 2022,
+      "sites": 17,
+      "n": 1550
+    },
+    "replicated": {
+      "es": 0.07,
+      "esType": "g",
+      "ci": [
+        -0.03,
+        0.17
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    }
+  },
+  "limits": "No `original` effect size sits in the structured fields above. The 1994 paper's own text was not obtained, only its abstract at PubMed, which carries no effect size, so d = 1.34 stays in prose attributed to Many Labs 4. Burke, Martens and Faucher's meta-analysis is paywalled and Unpaywall lists no free copy, so r = .35 is quoted from its publisher abstract at Crossref and its treatment of publication bias could not be read. The reconciliation between that pooled estimate and the null is therefore partial. Three things about it can be said from the sources: the meta-analysis pools 277 published experiments across many manipulations and outcomes rather than the one paradigm Many Labs 4 ran, it draws on a literature published before preregistration was normal, and Many Labs 4 lists publication bias and analytic flexibility in original research among the standard contributors to failed replication. Chatard, Hirschberger and Pyszczynski disputed the analysis in 2020. Their argument is that Many Labs 4 preregistered a minimum of 40 participants per cell and then included labs that fell short, and that only 13 of 21 studies met the threshold. They report that the 13 qualifying studies averaged g = 0.10 against g = -0.06 for the 8 that did not, U = 24.0, p = .046. Reanalysing the 13 with one-tailed tests and 90% intervals, they get g = 0.06, 90% CI [-0.03, 0.15], p = 0.13 under the first exclusion set, g = 0.13, 90% CI [0.01, 0.26], p = 0.045 under the second, and g = 0.10, 90% CI [-0.02, 0.22], p = 0.09 under the third. Restricted to the six expert-advised labs under the second exclusion set they get g = 0.27, 90% CI [0.06, 0.48], p = 0.02. Hoogeveen, Berkhout, Gronau, Wagenmakers and Haaf ran a Bayesian multiverse over the same data in 2023, covering 72 constellations of exclusion criteria, and report that the data provide evidence against a mortality-salience effect across the majority of their analyses. Reanalysing Chatard and colleagues' own selections hierarchically, they report estimates of 0.08, 95% CI [-0.12, 0.28], 0.14, 95% CI [-0.11, 0.39] and 0.18, 95% CI [-0.12, 0.49] across the three exclusion criteria, with every credible interval covering zero. Two further preregistered attempts outside this dataset also came up short. Sætrevik and Sjåstad ran 101 Norwegian laboratory participants and 784 US online participants and report that neither experiment replicated the effect on national patriotism. Schindler, Reinhardt and Reinhard ran three preregistered studies, the third with 1,356 participants, and their internal meta-analysis gives Hedges' g = .09, p = .058; those figures are read from their preprint rather than the published article.",
+  "misreadings": "The commonest error is to read the null as showing that death reminders do nothing to the mind. Rife and colleagues ran a registered replication across 22 labs in 11 countries with 3,447 participants and report that they successfully replicated Trafimow and Hughes, that priming death-related thoughts is possible, and that priming works better with no delay before the outcome measure. The prompt reaches the thoughts. What has not survived testing is the step from those thoughts to defending the worldview. The second error runs the other way, treating one multi-site null as the end of a theory. Many Labs 4's own discussion refuses that reading, noting that the literature is a network of procedures and claims and that a single precise failure does not overturn it. The third error is arithmetic. The project is often described as 21 labs and 2,220 participants, a description Chatard and colleagues use of the 2019 preprint, and the published article reports 21 labs collecting 2,281 people before exclusions and 17 labs with 1,550 in the confirmatory analysis. A fourth error is to treat Chatard and colleagues' reanalysis as a successful replication of the original. Their largest reported figure is g = 0.27 in six labs under a restriction to strongly identified White Americans. The original is reported at d = 1.34."
+  ,
+  "sources": [
+    {
+      "text": "Greenberg, J., Pyszczynski, T., Solomon, S., Simon, L., & Breus, M. (1994). Role of consciousness and accessibility of death-related thoughts in mortality salience effects. Journal of Personality and Social Psychology, 67(4), 627-637. Abstract read at PubMed (PMID 7965609); the full text was not obtained.",
+      "doi": "10.1037/0022-3514.67.4.627",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7965609/",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Cook, C. L., Ebersole, C. R., et al. (2022). Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement. Collabra: Psychology, 8(1), 35271. The publisher's site returned 403 to every route tried; the text quoted here is the authors' own manuscript at OSF, which carries the same title and reports citation counts checked in January 2022.",
+      "doi": "10.1525/collabra.35271",
+      "url": "https://doi.org/10.1525/collabra.35271",
+      "type": "replication"
+    },
+    {
+      "text": "Klein, R. A., Cook, C. L., Ebersole, C. R., et al. Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement. PsyArXiv preprint. This is the fetched document behind the Many Labs 4 figures quoted above.",
+      "doi": "10.31234/osf.io/vef2c",
+      "url": "https://osf.io/vef2c/download",
+      "type": "replication"
+    },
+    {
+      "text": "Burke, B. L., Martens, A., & Faucher, E. H. (2010). Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research. Personality and Social Psychology Review, 14(2), 155-195. Paywalled; r = .35 and the study counts are read from the publisher abstract supplied to Crossref.",
+      "doi": "10.1177/1088868309352321",
+      "url": "https://doi.org/10.1177/1088868309352321",
+      "type": "secondary"
+    },
+    {
+      "text": "Chatard, A., Hirschberger, G., & Pyszczynski, T. (2020). A Word of Caution about Many Labs 4: If You Fail to Follow Your Preregistered Plan, You May Fail to Find a Real Effect. PsyArXiv preprint, 7 February 2020.",
+      "doi": "10.31234/osf.io/ejubn",
+      "url": "https://osf.io/ejubn/download",
+      "type": "secondary"
+    },
+    {
+      "text": "Hoogeveen, S., Berkhout, S. W., Gronau, Q. F., Wagenmakers, E.-J., & Haaf, J. M. (2023). Improving Statistical Analysis in Team Science: The Case of a Bayesian Multiverse of Many Labs 4. Advances in Methods and Practices in Psychological Science, 6(3).",
+      "doi": "10.1177/25152459231182318",
+      "url": "https://doi.org/10.1177/25152459231182318",
+      "type": "secondary"
+    },
+    {
+      "text": "Sætrevik, B., & Sjåstad, H. (2022). Mortality salience effects fail to replicate in traditional and novel measures. Meta-Psychology, 6. Many Labs 4 cites this work by its 2019 preprint date.",
+      "doi": "10.15626/mp.2020.2628",
+      "url": "https://doi.org/10.15626/mp.2020.2628",
+      "type": "replication"
+    },
+    {
+      "text": "Schindler, S., Reinhardt, N., & Reinhard, M.-A. (2021). Defending one's worldview under mortality salience: Testing the validity of an established idea. Journal of Experimental Social Psychology, 93, 104087. The g = .09 figure is read from the authors' preprint abstract at OSF, not from the published article.",
+      "doi": "10.1016/j.jesp.2020.104087",
+      "url": "https://doi.org/10.1016/j.jesp.2020.104087",
+      "type": "replication"
+    },
+    {
+      "text": "Rife, S. C., Lambert, Q., Calin-Jageman, R., et al. (2025). Registered Replication Report: Study 3 From Trafimow and Hughes (2012). Advances in Methods and Practices in Psychological Science, 8. Abstract read at Crossref.",
+      "doi": "10.1177/25152459251328334",
+      "url": "https://doi.org/10.1177/25152459251328334",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

@@ -5243,7 +5243,7 @@
    "replication_n_note": "The abstract gives N = 17 labs and N = 1,550 participants after exclusions (n = 699 Author Advised, n = 851 In House) under Exclusion Set 1. The body of the same document says the replication ran 'in 17 labs with 1,578 participants (after exclusions)'; the two figures are not reconciled in the text.",
    "design_note": "The project's own question was whether involving the original authors in the design improved replicability. Neither the Author Advised nor the In House protocol produced the effect, so the comparison was non-diagnostic.",
    "source_note": "Read from the authors' own PsyArXiv preprint, not from the published Collabra article: the University of California Press PDF is behind a Cloudflare challenge that returned 403 to every route tried.",
-   "entry": null,
+   "entry": "mortality-salience",
    "source": "Klein et al., Many Labs 4, PsyArXiv preprint doi 10.31234/osf.io/vef2c (the version of record is Collabra: Psychology 8(1), 35271, doi 10.1525/collabra.35271, whose publisher PDF could not be fetched)"
   },
   {
