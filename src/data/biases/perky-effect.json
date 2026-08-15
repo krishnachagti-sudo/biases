@@ -1,0 +1,99 @@
+{
+  "no": 390,
+  "slug": "perky-effect",
+  "name": "Perky effect",
+  "aliases": [
+    "Perky experiment"
+  ],
+  "category": "perception",
+  "statement": "People told to imagine an object while a faint picture of it is projected in front of them take the picture for their own mental image.",
+  "meaning": "Two claims travel under one name. Perky's claim is about source: a real stimulus, faint but above threshold, gets absorbed into an imagery experience and is reported as imagined. Reeves writes that Sydney Segal later introduced the term Perky effect for something narrower, the loss of visual sensitivity that follows from holding an image in mind, and that is what most psychophysics papers now mean by it. The two claims come apart. Imagery can depress detection without anybody mistaking an image for a percept, and it can also raise the chance that a faint stimulus is called real. The interest for philosophy sits with the first claim, that vividness on its own cannot separate imagination from reality.",
+  "origin": {
+    "year": 1910,
+    "who": "Cheves West Perky",
+    "where": "The American Journal of Psychology",
+    "note": "A doctoral study run in Edward Titchener's laboratory at Cornell. The imagery-and-projection work is the first of ten experiments in a paper that also covers auditory and olfactory images and the affective side of memory."
+  },
+  "evidence": "Observers sat in a lit room about 8 m from a ground-glass window set into the wall of a dark room, fixated a white point at its centre, and were asked to imagine a coloured object there. Behind the glass a projection lantern raised a faint patch of colour from below threshold to a moderately supraliminal value, shaped into a familiar form by cut cloth screens with gauze-softened edges. Six objects went in a fixed order: a tomato, a book, a banana, an orange, a leaf and a lemon. Three experimenters ran it, one of them sitting with the observer to give instructions and take reports, signalling to the dark room on concealed wiring. No blank trials were included, because Perky feared they would reveal that the images were really percepts. Experiment I used three children, two girls of 13 and 14 and a boy of 10. Experiment II used 27 observers, 19 of them sophomores and 8 graduate students. Three undergraduates were ruled out early by an error of technique, which they reported at once, and the remaining 24 invariably mistook the perceptual for the imaginative consciousness, in Perky's phrase. Asked afterwards whether they were sure they had imagined it all, they showed surprise and at times indignation. Every observer noticed that the banana stood on end rather than lying flat as they had been trying for, and none of them drew any conclusion from it. Experiment III repeated the work a year later with five graduate students. The paper reports no statistics, and states that the stimuli could not be expressed in quantitative terms.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A preregistered study of 272 people found that imagining a stimulus made a faint real one more likely to be judged real, which is the opposite of the mechanism Perky is credited with.",
+    "detail": "Segal's work in the 1960s measured detection rather than source. Reeves, reviewing it, reports that imagery lowered sensitivity, d', against no-imagery trials in every study she ran. That loss reverses at low performance. Reeves, Grayhem and Craver-Lemley found that imagery hinders acuity when performance is good and aids it when performance is poor, which Reeves calls the reverse Perky. His 2026 experiment on 54 Northeastern undergraduates put the changeover at a no-imagery d' of 0.69, with a regression slope of 0.90 and r = .97 across nine bins. He reads the much-noted decline of the Perky effect across the decades as an artefact of psychophysical methods that hold no-imagery accuracy near 71% rather than the 90% Segal used. On source judgements the direction goes the other way. Dijkstra, Mazor, Kok and Fleming had people imagine gratings while detecting the same gratings at threshold, and imagery made the criterion more liberal, c = 0.320 with imagery against 0.529 without, in a second experiment on 98 participants, F(92,1) = 29.578, p < 0.0001, eta squared = 0.243. Dijkstra and Fleming then built the control Perky's design lacks. Each participant got one critical trial, so nobody could learn that real stimuli were in play. Among the 272 in their first experiment, a stimulus congruent with what they had been imagining was judged real on 41% of critical trials, against 25% when it was incongruent, p = 0.002. Their formal model of the Perky effect predicts the reverse, and they rejected it in favour of a model in which imagined and perceived signals are mixed and judged on strength. In both conditions the real stimulus was still called imagined more often than not.",
+    "study": {
+      "cite": "Dijkstra, N., & Fleming, S. M. (2023). Subjective signal strength distinguishes reality from imagination. Nature Communications, 14, 1627.",
+      "doi": "10.1038/s41467-023-37322-1",
+      "year": 2023,
+      "n": 272
+    }
+  },
+  "limits": "Perky's design cannot separate her claim from her explanation. There were no blank trials, no measure beyond what observers said, and, as she writes, no way to state the stimuli in quantitative terms, so no effect size can be quoted from the paper and the structured fields here are left empty. Observers who did detect the stimulus were treated as failures of apparatus. The boy of 10 caught a flash of light from the dark room and decided he was seeing shadows. The three undergraduates in Experiment II were ruled out on those grounds before the 24 were counted. In Experiment III, S judged the display a perception after the fourth form, which Perky puts down to a signal that failed and left the stimulus showing at rest, and C took it for an image until a mistake of technique with the fourth form revealed what it was. The modern effect has its own boundaries. Craver-Lemley, Bornstein, Alexander and Barrett found imagery interference in younger adults, mean age 19.0, and not in older adults, mean age 73.6, then the same pattern at 18.7 against 66.7 in a second experiment. Segal's own follow-up work is described here from Nigel Thomas's account in the Stanford Encyclopedia of Philosophy, which reports that her first attempts to repeat Perky failed because subjects noticed the projected patches, and that she had to relax them first to get the effect. The Segal papers sit behind paywalls these checks did not pass, and no figure is taken from them. Searches covered Crossref, PubMed, Europe PMC, PMC full text and web search; none of them returned a study of the Perky effect in people with aphantasia.",
+  "misreadings": "The story is told as though nobody noticed the picture. Dijkstra and Fleming write that all participants failed to notice the presence of the real stimuli, and the paper does not say that. Perky's own account has a ten-year-old spotting a stray flash, three undergraduates reporting the fault that gave it away, and two of the five graduate students in Experiment III working out that the display was real. The line everybody quotes, that if she had not known she was imagining she would have thought it real, comes from one observer in that last group of five. The tomato projected while somebody imagines the New York skyline is Segal's experiment, not Perky's. The effect also gets run together with imagination inflation, where imagining an event later raises confidence that it happened; the Perky effect concerns a stimulus present at the moment of the report. And the name has moved. In the psychophysics literature the Perky effect means the drop in visual sensitivity caused by holding an image, which Reeves notes can be produced by images that could not be confused with the target at all.",
+  "sources": [
+    {
+      "text": "Perky, C. W. (1910). An experimental study of imagination. The American Journal of Psychology, 21(3), 422-452. Read for this entry from the JSTOR Early Journal Content scan at the Internet Archive.",
+      "doi": "10.2307/1413350",
+      "url": "https://archive.org/details/jstor-1413350",
+      "type": "primary"
+    },
+    {
+      "text": "Dijkstra, N., & Fleming, S. M. (2023). Subjective signal strength distinguishes reality from imagination. Nature Communications, 14, 1627. Design and initial analyses preregistered on the Open Science Framework.",
+      "doi": "10.1038/s41467-023-37322-1",
+      "url": "https://doi.org/10.1038/s41467-023-37322-1",
+      "type": "replication"
+    },
+    {
+      "text": "Dijkstra, N., Mazor, M., Kok, P., & Fleming, S. (2021). Mistaking imagination for reality: Congruent mental imagery leads to more liberal perceptual detection. Cognition, 212, 104719.",
+      "doi": "10.1016/j.cognition.2021.104719",
+      "url": "https://doi.org/10.1016/j.cognition.2021.104719",
+      "type": "replication"
+    },
+    {
+      "text": "Reeves, A., Grayhem, R., & Craver-Lemley, C. (2020). The Perky effect revisited: Imagery hinders perception at high levels, but aids it at low. Vision Research, 167, 8-14. Described here from its abstract.",
+      "doi": "10.1016/j.visres.2019.12.004",
+      "url": "https://doi.org/10.1016/j.visres.2019.12.004",
+      "type": "replication"
+    },
+    {
+      "text": "Reeves, A. (2026). Imagery: Interference, facilitation, and theory. Attention, Perception, & Psychophysics, 88(5), 112.",
+      "doi": "10.3758/s13414-026-03251-6",
+      "url": "https://doi.org/10.3758/s13414-026-03251-6",
+      "type": "replication"
+    },
+    {
+      "text": "Craver-Lemley, C., Bornstein, R. F., Alexander, D. N., & Barrett, A. M. Imagery interference diminishes in older adults: Age-related differences in the magnitude of the Perky effect. Imagination, Cognition and Personality, 29(4), 307-322. Described here from its abstract.",
+      "doi": "10.2190/ic.29.4.c",
+      "url": "https://doi.org/10.2190/ic.29.4.c",
+      "type": "replication"
+    },
+    {
+      "text": "Segal, S. J., & Nathan, S. (1964). The Perky effect: Incorporation of an external stimulus into an imagery experience under placebo and control conditions. Perceptual and Motor Skills, 18(2), 385-395. Named as existing; paywalled, and no figure from it is quoted here.",
+      "doi": "10.2466/pms.1964.18.2.385",
+      "url": "https://doi.org/10.2466/pms.1964.18.2.385",
+      "type": "replication"
+    },
+    {
+      "text": "Segal, S. J. (1968). The Perky effect: Changes in reality judgments with changing methods of inquiry. Psychonomic Science, 12(8), 393-394. Located by title at Crossref; the text could not be retrieved, and nothing in this entry is taken from it.",
+      "doi": "10.3758/bf03331370",
+      "url": "https://doi.org/10.3758/bf03331370",
+      "type": "replication"
+    },
+    {
+      "text": "Segal, S. J., & Gordon, P. E. (1969). The Perky effect revisited: Blocking of visual signals by imagery. Perceptual and Motor Skills, 28(3), 791-797. Named as existing; paywalled, and no figure from it is quoted here.",
+      "doi": "10.2466/pms.1969.28.3.791",
+      "url": "https://doi.org/10.2466/pms.1969.28.3.791",
+      "type": "replication"
+    },
+    {
+      "text": "Thomas, N. J. T. The Perky experiment. Supplement to 'Mental imagery', Stanford Encyclopedia of Philosophy, Fall 2021 archived edition. The source for Segal's need to relax her subjects and for the New York skyline study.",
+      "url": "https://plato.stanford.edu/archives/fall2021/entries/mental-imagery/perky-experiment.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Keogh, R. (2024). Reality check: how do we know what's real? Trends in Cognitive Sciences, 28(4), 279-280. A commentary on Dijkstra and Fleming; described here from its abstract.",
+      "doi": "10.1016/j.tics.2023.06.001",
+      "url": "https://doi.org/10.1016/j.tics.2023.06.001",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
