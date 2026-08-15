@@ -1,0 +1,132 @@
+{
+  "no": 423,
+  "slug": "ecological-fallacy",
+  "name": "Ecological fallacy",
+  "aliases": ["Ecologic fallacy", "Aggregative fallacy", "Ecological bias"],
+  "category": "belief",
+  "statement": "In the 1930 US census the correlation between foreign birth and illiteracy is 0.118 across people and -0.526 across the 48 states, positive at one level and negative at the other.",
+  "meaning": "An individual correlation describes people. An ecological correlation describes areas, and its two variables are percentages of a population rather than properties of a person. Robinson showed that the second does not stand in for the first, because the two are computed from different parts of the same tables. The individual correlation depends on the cell counts inside each area, and the ecological correlation depends only on the row and column totals of those cells. A set of marginal totals is consistent with many different sets of interior counts, so the two quantities can take almost any pair of values, including values of opposite sign. The fallacy is reading an area-level number as a statement about the people in those areas. It is a property of what the data measure rather than a habit of a mind, which it shares with Berkson's paradox and with selection bias. It differs from the group attribution error, where people infer individual attitudes from a group's decision in a laboratory task.",
+  "origin": {
+    "year": 1950,
+    "who": "W. S. Robinson",
+    "where": "American Sociological Review",
+    "note": "\"Ecological correlations and the behavior of individuals\", American Sociological Review 15(3), 351 to 357, reprinted in the International Journal of Epidemiology in 2009. Robinson gave the mathematics and the census figures and did not use the phrase 'ecological fallacy'. Subramanian, Jones, Kaddour and Krieger attribute the term to Selvin's 1958 paper on Durkheim, where it names the invalid transfer of aggregate results to individuals."
+  },
+  "evidence": "Robinson worked the 1930 US Census for the population 10 years old and over, 97,272,000 people in his Table 1. Colour and illiteracy give an individual fourfold-point correlation of 0.203. The ecological correlation on the Census Bureau's nine geographic divisions is 0.946 weighted and 0.944 unweighted, and 0.773 when the areas are the 48 states. Those agree in sign. His second pair does not. Nativity and illiteracy give an individual correlation of 0.118 across 13,217,000 foreign-born and 84,055,000 native-born people, against an ecological correlation of -0.619 on divisions and -0.526 on states. Robinson also showed why the coefficient grows as areas are consolidated, a pattern Gehlke and Biehl had noted in 1934. He concluded that ecological correlations cannot validly be used as substitutes for individual correlations. Freedman repeated the exercise on data where both levels were known. Using the March 1995 Current Population Survey for people aged 25 and over, and counting family income of $50,000 or more in 1994 as high, the correlation across the 50 states between the fraction foreign-born and the fraction with high incomes is 0.52. The individual correlation is -0.05. About 35% of the native-born had high incomes against 28% of the foreign-born, so the ecological figure points the wrong way. Subramanian, Jones, Kaddour and Krieger returned to Robinson's own census tables with multilevel logistic models. Adding state laws mandating racially segregated education, they found an odds ratio of 1.92 for being illiterate, 95% CI 1.81 to 2.03, controlling for individual race and nativity. Predicted probability of illiteracy for blacks was 0.04 outside those states, 95% CI 0.033 to 0.049, and 0.132 inside them, 95% CI 0.123 to 0.141. State variation fell by 70% for native whites and for blacks once the laws were in the model. Their appendix reports individual correlations running from near zero in Nevada and Connecticut to 0.31 in Alabama, against the national 0.20 Robinson published.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The reversal Robinson found in 1930 census data appears again in 1995 survey data where the individual-level answer is known.",
+    "detail": "Freedman built the test case Robinson could not: a dataset holding both levels, so the aggregate estimate can be scored against the truth. Across the 50 states the ecological correlation between fraction foreign-born and fraction with high incomes is 0.52, and the individual correlation is -0.05. Fitting the standard ecological regression to those state points gives y = 0.29 + 0.56x, which reads as 29% of the native-born and 85% of the foreign-born having high incomes. The true figures are 35% and 28%. King's random-coefficients model, run in his EZIDOS software version 1.31, returned 30% and 72%. The neighbourhood model, which assumes behaviour follows geography rather than demography, returned 34% and 36% and was closest to the truth. Freedman writes that across a number of such test applications the track record tends to favour the neighbourhood model. Robinson's own second pair survives restatement: Freedman gives the same 1930 state-level relation as 0.53 between foreign birth and literacy against an individual correlation of -0.11.",
+    "study": {
+      "cite": "Freedman, D. A. (1999). Ecological Inference and the Ecological Fallacy. Technical Report No. 549, Department of Statistics, University of California, Berkeley. Published as 'Ecological Inference' in the International Encyclopedia of the Social and Behavioral Sciences 6, 4027-4030 (2001).",
+      "url": "https://www.stat.berkeley.edu/~census/549.pdf",
+      "year": 1999
+    }
+  },
+  "limits": "There is no experiment here and no effect size that would settle anything. Given marginal totals that do not fix the interior counts, the two correlations can differ, and that follows from arithmetic. What is open is whether the individual answer can be recovered from aggregate data anyway, and the methodological literature says sometimes. Goodman's ecological regression, and King's later random-coefficients model, both rest on what Freedman calls the constancy assumption: that a demographic group's behaviour does not depend systematically on where its members live. Where that holds, the inference goes through. Freedman's test case is one where it fails, because immigration to the United States concentrates in richer states. Duncan and Davis, and Goodman, offered a weaker device that assumes nothing, the method of bounds, which pins each unknown fraction inside an interval implied by the known totals. In 1995 Washington state, with 7.9% foreign-born and 34.4% on high incomes, the fraction of native-born on high incomes is trapped between 28.8% and 37.4%. Freedman notes that in many applications those bounds are too broad to be informative. Princeton University Press describes King's 1997 book as reporting over 16,000 comparisons of his estimates against known individual-level answers, and says the method works in practice. Freedman, Klein, Ostland and Roberts reviewed it in the Journal of the American Statistical Association in 1998 and King replied in the same journal in 1999. The dispute is live and is about assumptions that the aggregate data cannot check. In epidemiology the condition is stated differently. Lubin argues that average dose determines average risk only for models that are linear in all covariates, and that ecological analyses are valid in that case. Greenland and Robins had already set out why ecological confounder control fails when individual risks follow a nonlinear model. Aggregate data are frequently all there is, which is why the question is how to use them rather than whether to.",
+  "misreadings": "The commonest error is treating the entry as a verdict on aggregate data. Robinson's conclusion was about substitution, that an ecological correlation should not be read as an individual one, and Subramanian and colleagues argue he went further than his own mathematics warranted by calling group-level relationships meaningless. Their 1930 reanalysis found a state law with a strong association with individual illiteracy, which is a group-level fact that no individual-level analysis would recover. Susser preferred the term aggregative fallacy on the grounds that pairing 'ecological' with 'fallacy' brought the approach into disrepute. The reverse error has its own names. Alker called it the individualistic fallacy in 1969, for generalising from individual behaviour to collective relationships, and Susser called it the atomistic fallacy in 1973. The second confusion is with Simpson's paradox, which this collection does not yet cover. Freedman describes Robinson's reversal as Simpson's paradox for the correlation coefficient, and the difference is what the analyst has. Simpson's paradox is a reversal visible inside one dataset when a table is split or collapsed on a third variable. The ecological fallacy is an inference drawn when only the aggregate table exists and the individual one cannot be seen. The third is sign confusion in retelling. Robinson tabulated illiteracy, so his nativity pair runs 0.118 at the individual level and -0.526 across states. Freedman restates the same relation using literacy, which flips both signs to -0.11 and 0.53. Neither is wrong and quoting one number with the other's variable is. Te Grotenhuis, Eisinga and Subramanian published methodological corrections to Robinson in 2011, arguing that he computed his individual correlation from the interior cells of an aggregated table where the row margins were the right source. Only the article's opening was readable here and their corrected figure was not obtained, so the 0.203 above is Robinson's own. Real cases exist in both directions. Cohen analysed lung cancer mortality against mean radon concentration in 1,601 US counties and found rates falling as radon rose, a discrepancy in slope he put at about 20 standard deviations from the linear-no-threshold prediction. Darby and colleagues pooled individual data from 13 European case-control studies, 7,148 people with lung cancer and 14,208 controls, and found risk rising by 8.4% per 100 Bq per cubic metre of measured radon, 95% CI 3.0% to 15.8%, P = 0.0007. Lubin argues the negative county-level trend is consistent with that positive individual-level association. Freedman gives dietary fat and breast cancer as a second case, where the cross-country ecological association is not matched at the individual level: Holmes and colleagues followed 88,795 women in the Nurses' Health Study for 14 years, recorded 2,956 breast cancers, and found no evidence that lower fat intake lowered risk.",
+  "sources": [
+    {
+      "text": "Robinson, W. S. (1950). Ecological correlations and the behavior of individuals. American Sociological Review, 15(3), 351-357. Full text read from a scanned copy of the JSTOR PDF; Tables 1 to 3 and Figures 1 to 3 carry the 0.203, 0.946, 0.944, 0.773, 0.118, -0.619 and -0.526 figures. Every figure was re-extracted twice from the PDF text.",
+      "doi": "10.2307/2087176",
+      "url": "https://www.stats.uwo.ca/faculty/aim/2015/9938/articles/Robinson1950AmericanSociologicalReview.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Robinson, W. S. (2009). Ecological correlations and the behavior of individuals. International Journal of Epidemiology, 38(2), 337-341. The 2009 reprint; an erratum at doi 10.1093/ije/dyr082 records typographical errors in its equations.",
+      "doi": "10.1093/ije/dyn357",
+      "url": "https://doi.org/10.1093/ije/dyn357",
+      "type": "primary"
+    },
+    {
+      "text": "Freedman, D. A. (1999). Ecological Inference and the Ecological Fallacy. Technical Report No. 549, Department of Statistics, University of California, Berkeley. Full text read; Section 1 carries the Current Population Survey correlations, Table 1 the Washington bounds and Table 2 the comparison of methods. Published in 2001 as 'Ecological Inference' in the International Encyclopedia of the Social and Behavioral Sciences 6, 4027-4030.",
+      "doi": "10.1016/b0-08-043076-7/00410-1",
+      "url": "https://www.stat.berkeley.edu/~census/549.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Freedman, D. A. (2002). The Ecological Fallacy. Department of Statistics, University of California, Berkeley. Two-page note read in full; the source for the description of Robinson's reversal as Simpson's paradox for the correlation coefficient.",
+      "url": "https://www.stat.berkeley.edu/~census/ecofall.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Subramanian, S. V., Jones, K., Kaddour, A., & Krieger, N. (2009). Revisiting Robinson: the perils of individualistic and ecologic fallacy. International Journal of Epidemiology, 38(2), 342-360. Full text read at PubMed Central; the source for the Jim Crow odds ratio, the predicted probabilities, the state-by-state correlations, and the attributions to Selvin, Alker and Susser.",
+      "doi": "10.1093/ije/dyn359",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2663721/",
+      "type": "primary"
+    },
+    {
+      "text": "Te Grotenhuis, M., Eisinga, R., & Subramanian, S. V. (2011). Robinson's Ecological Correlations and the Behavior of Individuals: methodological corrections. International Journal of Epidemiology, 40(4), 1123-1125. Only the free opening extract was readable; it states that Robinson used the interior cells of an aggregated table where the row margins were called for. The corrected coefficient was not obtained.",
+      "doi": "10.1093/ije/dyr081",
+      "url": "https://academic.oup.com/ije/article/40/4/1123/745248",
+      "type": "primary"
+    },
+    {
+      "text": "Selvin, H. C. (1958). Durkheim's Suicide and problems of empirical research. American Journal of Sociology, 63(6), 607-619. Crossref confirms author, journal, volume, issue, pages and year. Full text not obtained; the coinage of 'ecological fallacy' is quoted here from Subramanian and colleagues.",
+      "doi": "10.1086/222356",
+      "url": "https://doi.org/10.1086/222356",
+      "type": "secondary"
+    },
+    {
+      "text": "Goodman, L. A. (1953). Ecological regressions and behavior of individuals. American Sociological Review, 18(6), 663-664. Crossref record verified. Full text not obtained; the constancy assumption is quoted here from Freedman's account.",
+      "doi": "10.2307/2088121",
+      "url": "https://doi.org/10.2307/2088121",
+      "type": "secondary"
+    },
+    {
+      "text": "Goodman, L. A. (1959). Some alternatives to ecological correlation. American Journal of Sociology, 64(6), 610-625. Crossref record verified. Full text not obtained.",
+      "doi": "10.1086/222597",
+      "url": "https://doi.org/10.1086/222597",
+      "type": "secondary"
+    },
+    {
+      "text": "Duncan, O. D., & Davis, B. (1953). An alternative to ecological correlation. American Sociological Review, 18(6), 665-666. Crossref record verified. Full text not obtained; the method of bounds is described here from Freedman.",
+      "doi": "10.2307/2088122",
+      "url": "https://doi.org/10.2307/2088122",
+      "type": "secondary"
+    },
+    {
+      "text": "Freedman, D. A., Klein, S. P., Ostland, M., & Roberts, M. R. (1998). Review of 'A Solution to the Ecological Inference Problem'. Journal of the American Statistical Association, 93(444), 1518-1522. Crossref record verified. Full text not obtained; cited here as the venue of the dispute.",
+      "doi": "10.2307/2670067",
+      "url": "https://doi.org/10.2307/2670067",
+      "type": "secondary"
+    },
+    {
+      "text": "King, G. (1999). The future of ecological inference research: a comment on Freedman et al. Journal of the American Statistical Association, 94(445), 352-355. Crossref record verified. Full text not obtained. The description of King's 1997 book is quoted from the Princeton University Press catalogue page, not from the book.",
+      "doi": "10.2307/2669734",
+      "url": "https://press.princeton.edu/books/paperback/9780691012407/a-solution-to-the-ecological-inference-problem",
+      "type": "secondary"
+    },
+    {
+      "text": "Cohen, B. L. (1995). Test of the linear-no threshold theory of radiation carcinogenesis for inhaled radon decay products. Health Physics, 68(2), 157-174. Abstract read at PubMed; it carries the 1,601 counties, the decreasing trend and the 20 standard deviations.",
+      "doi": "10.1097/00004032-199502000-00002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7814250/",
+      "type": "primary"
+    },
+    {
+      "text": "Lubin, J. H. (2002). The potential for bias in Cohen's ecological analysis of lung cancer and residential radon. Journal of Radiological Protection, 22(2), 141-148. Abstract read at PubMed; the source for the linearity condition and for the claim that the negative county trend is consistent with the individual-level association.",
+      "doi": "10.1088/0952-4746/22/2/302",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12148789/",
+      "type": "primary"
+    },
+    {
+      "text": "Darby, S., Hill, D., Auvinen, A., et al. (2005). Radon in homes and risk of lung cancer: collaborative analysis of individual data from 13 European case-control studies. BMJ, 330(7485), 223. Full text read at PubMed Central; the results section carries the 7,148 cases, 14,208 controls and 8.4% per 100 Bq per cubic metre.",
+      "doi": "10.1136/bmj.38308.477650.63",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC546066/",
+      "type": "primary"
+    },
+    {
+      "text": "Holmes, M. D., Hunter, D. J., Colditz, G. A., et al. (1999). Association of dietary intake of fat and fatty acids with risk of breast cancer. JAMA, 281(10), 914-920. Abstract read at PubMed; it carries the 88,795 women, 14 years of follow-up and 2,956 cases.",
+      "doi": "10.1001/jama.281.10.914",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10078488/",
+      "type": "primary"
+    },
+    {
+      "text": "Greenland, S., & Robins, J. (1994). Invited commentary: ecologic studies, biases, misconceptions, and counterexamples. American Journal of Epidemiology, 139(8), 747-760. Abstract read at PubMed; full text not obtained.",
+      "doi": "10.1093/oxfordjournals.aje.a117069",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8178788/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
