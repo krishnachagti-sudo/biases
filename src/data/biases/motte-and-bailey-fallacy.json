@@ -1,0 +1,98 @@
+{
+  "no": 406,
+  "slug": "motte-and-bailey-fallacy",
+  "name": "Motte-and-bailey fallacy",
+  "aliases": ["Motte and bailey doctrine", "Motte-and-bailey argument", "Motte and baileying"],
+  "category": "belief",
+  "statement": "The motte-and-bailey fallacy is advancing a bold claim, retreating to a modest claim that shares its wording when challenged, then returning to the bold claim.",
+  "meaning": "Two claims travel under one name. One is exciting and hard to defend, the other is dull and hard to attack, and the arguer occupies the first while falling back on the second whenever a critic arrives. Nicholas Shackel named the structure in 2005 after the Norman castle, where a mound with a tower stands beside an enclosure of usable land. His name for it was the Motte and Bailey Doctrine, and he later denied that it is a fallacy at all, on the ground that a doctrine is a body of propositions rather than an argument. The internet took the term up nine years later and made it a fallacy, an accusation levelled at a single speaker in a single exchange. Both versions describe a real manoeuvre. Neither supplies a test for distinguishing it from a speaker who holds a strong claim and a weak one, and who is clarifying rather than fleeing.",
+  "origin": {
+    "year": 2005,
+    "who": "Nicholas Shackel",
+    "where": "Metaphilosophy",
+    "note": "Named in 'The Vacuity of Postmodernist Methodology', one of five rhetorical manoeuvres catalogued there alongside Troll's Truisms, Equivocating Fulcra, the Postmodernist Fox-trot and Rankly Relativising Fields. An earlier version was read at the fifth conference of the Ontario Society for the Study of Argumentation in Windsor, 14 to 17 May 2003, under the title 'Two Rhetorical Manoeuvres', where Randy Harris's published commentary responded to it. Shackel called the thing a doctrine, not a fallacy, and the paper's target was postmodernism rather than argument in general."
+  },
+  "evidence": "There are no studies. The evidence is a paper, its reception, and a record of the term being used in disputes. Shackel's definition is short: the Bailey 'represents a philosophical doctrine or position with similar properties: desirable to its proponent but only lightly defensible', and 'the Motte is the defensible but undesired position to which one retreats when hard pressed'. His castle is a stone tower on a mound, surrounded by an area of land, which in turn is encompassed by a ditch. He argues that diagnosis of a doctrine as motte and bailey 'is invariably fatal', because the doctrine's survival is then seen to require systematic vacillation. The examples are textual. Stanley Fish, defending postmodernism after the Sokal affair, is quoted retreating from the claim that reality is socially constructed to the claim that vocabularies are. Shackel reads Michel Foucault, David Bloor, Jean-François Lyotard and Richard Rorty as building mottes by arbitrary redefinition, a move he calls Humpty Dumptying after Lewis Carroll. He also notes that Berger and Luckmann's The Social Construction of Reality remarks early on that what is meant is the construction of belief. The first published response was hostile. Harris, commenting at the 2003 conference, wrote that the manoeuvres 'are clearly just clubs with which to beat postmodernism', and that Shackel, in accusing postmodernists of withdrawing to their Mottes, 'is just as guilty of avoiding a true fight, systematically retreating to his siege engine, or whatever the offensive corollary of the defensive Motte is'. Harris's charge is a failure of charity, and it is the objection the concept has attracted ever since. The term reached a general audience through Scott Alexander's post of 3 November 2014 at Slate Star Codex, which opens by saying that one of the better things he had done with the blog was help popularise Shackel's concept. It works through six examples, on God, hell, feminism, quackery, the rationalist community and the technological singularity, and it treats the manoeuvre as a fallacy throughout. It also garbles the source twice, attributing the paper to 'the writers' when Crossref lists Shackel as sole author, and placing the motte as a tower in the middle of the bailey from which defenders rain arrows. Shackel had restated the concept two months earlier, in a post at the Practical Ethics blog on 5 September 2014, and used it to reject two readings of his own term. A motte and bailey doctrine 'cannot be a fallacy' since a doctrine is a body of propositions, and shifting from the Bailey to the Motte 'is not in general effected by giving different meanings to the same words'. He allows that fallacies can be built on the doctrine once it is in place, the crudest having the form 'Motte, therefore Bailey'. He also answers the objection that different people advance the two claims. That defence would work against a charge of fallacy, which needs a single argument in front of it, and does not work against a charge about a doctrine, because adherents can be criticised for holding it jointly. Academic uptake followed a separate path. Grosz, Rohrer and Thoemmes described psychologists who publish a causal reading of a correlation and retreat under criticism, calling it a motte-and-bailey strategy in which researchers 'profit from the more interesting but difficult-to-defend causal interpretation of their effect (the bailey), but once challenged, they retreat to the almost trivial yet difficult to attack descriptive finding (the motte)'. Frankenhuis, Panchanathan and Smaldino make the harder point in the abstract of their paper on strategic ambiguity: selection for ambiguous theory can occur even when scientists act in good faith. The clearest record of what the accusation does in practice is an exchange in Behavioral and Brain Sciences. Zietsch, Abdellaoui and Verweij titled their commentary on Callie Burt's target article 'Burt uses a fallacious motte-and-bailey argument to dispute the value of genetics for social science', and their abstract states that she aims to argue against the value of genetics for social science while instead arguing against certain interpretations of polygenic scores. Burt's reply names the charge and rejects it, writing that her article does not reflect 'a fallacious motte-and-bailey argument' and that her focus on polygenic scores 'was not a stand-in or 'motte' for general opposition to genetics in social science'. She also concedes that she should have worded a few sentences better. Nothing in the exchange settles which claim she was making, and the two parties disagree about that rather than about any fact.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment on whether people commit this manoeuvre, or can detect it, was found. The nearest empirical work tests something adjacent, whether hedged wording changes how readers rate a study, and it found that hedging raised ratings.",
+    "detail": "Alvarez-Vargas and colleagues ran a preregistered experiment on 142 psychology faculty, postdoctoral researchers and doctoral students, 54% female, aged 22 to 67, with a mean age of 33.20 and a standard deviation of 8.96. Each read two hypothetical study abstracts, one worded in explicit causal language and one in causally ambiguous statistical language. Ratings of the quality of the design and analysis were higher for the statistical wording in all four models, by 0.34 to 0.53 points on a five-point scale, which the paper expresses as 0.48 to 0.80 standard deviations. The abstract gives the quality range as 0.34 to 0.80 standard deviations and reports that the statistical wording was similarly or more supportive of the paper's policy conclusion, by 0.16 to 0.27 standard deviations. The preregistered model rests on 55 participants, because 55% of the sample failed a manipulation check asking how many of the two abstracts used explicitly causal language. The authors suspect that many of those participants read 'predict' as implying causation. This tests reader response to the motte wording. It does not test whether any author retreated to it, which is the part of the charge that is contested."
+  },
+  "limits": "The search for an empirical study covered Europe PMC, Crossref, the OSF SHARE index and general web search. Europe PMC returns 10 records for the phrase 'motte-and-bailey', listed above or concerned with medieval moats and an Anglo-Saxon burial ground, and none is an experiment on the manoeuvre. SHARE returns 39 records for 'motte and bailey', almost all of them archaeology. Semantic Scholar lists 46 papers citing Shackel's article, none of which is such an experiment, and that is a claim about what the index holds rather than about the whole literature. Shackel's 2003 conference paper is marked Restricted Access in the Windsor archive and was not obtained. The priority of the coinage rests on the archive's record of its title and date, and on Harris's commentary, which was read in full. The 2005 paper was read as the Internet Archive's optical transcription of the author's own preprint, which carries the journal, volume, month, pages and DOI on its first page; the Cardiff repository copy and the publisher's copy were both unreachable. Boudry and Braeckman's 2011 article, an early academic use of the term, was not obtained and nothing is claimed here about its contents. The Zietsch commentary and the Frankenhuis paper were read as their abstracts. Burt's reply was read as its full text at PubMed Central. The Wikipedia figure below measures traffic to an encyclopedia article, not use of the term in argument, and no source was found that counts how often the accusation is made. Historic England's monument class description contradicts both Shackel's and Alexander's geography, and the entry follows it on the castle while following Shackel on the concept.",
+  "misreadings": "The commonest error is to attribute the word fallacy to Shackel. He rejects it in as many words, and rejects equivocation as a general description too, allowing only that fallacies such as 'Motte, therefore Bailey' can be built on a doctrine once the doctrine exists. English Wikipedia's article, which drew 187,757 views in 2025 by the Wikimedia pageviews API, opens by calling it a form of argument and an informal fallacy. The castle is the second error. Historic England's description of the monument class says the motte is a large conical mound of earth or rubble, surmounted by a palisade and a stone or timber tower, and that in a majority of examples the bailey adjoined it. Shackel has the bailey surrounding the motte, Alexander has the motte standing in the middle of the bailey, and defenders did not retreat to a keep in order to shoot at people. A third error treats the charge as self-proving. It rests on a claim about what someone meant earlier, which the accused can deny and usually does, as Burt did in Behavioral and Brain Sciences. A speaker who holds a strong claim and a weak one is not thereby equivocating between them, and stating the weak one under pressure is what clarification looks like. Alexander's own post concedes the point at the end: if working out who is doing it is difficult, the discussion went wrong several steps earlier. The last error is to think the accusation needs one speaker. Shackel argues the opposite for the doctrine, because a body of propositions can be held by a group whose members defend different parts of it. The objection that different people said the two things answers a charge of fallacy and not a charge about a doctrine.",
+  "sources": [
+    {
+      "text": "Shackel, N. (2005). The Vacuity of Postmodernist Methodology. Metaphilosophy, 36(3), 295-320. Read as the Internet Archive's transcription of the author's preprint, which states the journal, volume, month, pages and DOI on its first page. All quotations of the paper come from that text.",
+      "doi": "10.1111/j.1467-9973.2005.00370.x",
+      "url": "https://archive.org/details/VacuityOfPostmodernistMethodology",
+      "type": "primary"
+    },
+    {
+      "text": "Harris, R. (2003). Commentary on Shackel. OSSA Conference Archive, fifth conference of the Ontario Society for the Study of Argumentation, University of Windsor, 14 to 17 May 2003. Six-page commentary read in full from the archived PDF.",
+      "url": "https://web.archive.org/web/2019id_/https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=1563&context=ossaarchive",
+      "type": "commentary"
+    },
+    {
+      "text": "Shackel, N. (2003). Two Rhetorical Manoeuvres. OSSA Conference Archive, item 79. Listed as Restricted Access and not obtained; cited for the date and title of the earlier version.",
+      "url": "https://web.archive.org/web/20190718214827/https://scholar.uwindsor.ca/ossaarchive/OSSA5/papersandcommentaries/79/",
+      "type": "provenance"
+    },
+    {
+      "text": "Shackel, N. (2014, 5 September). Motte and Bailey Doctrines. Practical Ethics blog, University of Oxford. The author's own statement that the doctrine is not a fallacy and not in general equivocation.",
+      "url": "https://blog.practicalethics.ox.ac.uk/2014/09/motte-and-bailey-doctrines/",
+      "type": "primary"
+    },
+    {
+      "text": "Alexander, S. (2014, 3 November). All In All, Another Brick In The Motte. Slate Star Codex. The post that carried the term into general internet use, read in full including its castle description.",
+      "url": "https://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/",
+      "type": "provenance"
+    },
+    {
+      "text": "Alvarez-Vargas, D., Braithwaite, D., Lortie-Forgues, H., Moore, M., Wan, S., Martin, E., & Bailey, D. H. (2023). Hedges, mottes, and baileys: Causally ambiguous statistical language can increase perceived study quality and policy relevance. PLOS ONE, 18(10), e0286403. All figures read from the article XML.",
+      "doi": "10.1371/journal.pone.0286403",
+      "url": "https://doi.org/10.1371/journal.pone.0286403",
+      "type": "primary"
+    },
+    {
+      "text": "Grosz, M. P., Rohrer, J. M., & Thoemmes, F. (2020). The Taboo Against Explicit Causal Inference in Nonexperimental Psychology. Perspectives on Psychological Science, 15(5), 1243-1255. The motte-and-bailey passage read from the full text at Europe PMC.",
+      "doi": "10.1177/1745691620921521",
+      "url": "https://doi.org/10.1177/1745691620921521",
+      "type": "primary"
+    },
+    {
+      "text": "Frankenhuis, W. E., Panchanathan, K., & Smaldino, P. E. (2023). Strategic ambiguity in the social sciences. Social Psychological Bulletin, 18. Abstract read at Crossref.",
+      "doi": "10.32872/spb.9923",
+      "url": "https://doi.org/10.32872/spb.9923",
+      "type": "primary"
+    },
+    {
+      "text": "Zietsch, B. P., Abdellaoui, A., & Verweij, K. J. H. (2023). Burt uses a fallacious motte-and-bailey argument to dispute the value of genetics for social science. Behavioral and Brain Sciences, 46. Abstract read at Crossref.",
+      "doi": "10.1017/s0140525x22002394",
+      "url": "https://doi.org/10.1017/s0140525x22002394",
+      "type": "commentary"
+    },
+    {
+      "text": "Burt, C. H. (2023). Polygenic scores for social science: Clarification, consensus, and controversy. Behavioral and Brain Sciences, 46. Read as the full text at PubMed Central, PMC10723835, for the passage rejecting the motte-and-bailey charge.",
+      "doi": "10.1017/s0140525x23000845",
+      "url": "https://doi.org/10.1017/s0140525x23000845",
+      "type": "primary"
+    },
+    {
+      "text": "Burt, C. H. (2023). Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology. Behavioral and Brain Sciences, 46. The target article the charge was made against; not obtained.",
+      "doi": "10.1017/s0140525x22001145",
+      "url": "https://doi.org/10.1017/s0140525x22001145",
+      "type": "primary"
+    },
+    {
+      "text": "Historic England monument class description for motte and bailey castles, as reproduced in the scheduling entry for Castle Hill motte and bailey castle, Castle Carlton, list entry 1016783. Source for the mound, the palisade, the stone or timber tower and the adjoining bailey.",
+      "url": "https://heritage-explorer.lincolnshire.gov.uk/Designation/DLI1572",
+      "type": "provenance"
+    },
+    {
+      "text": "Motte-and-bailey fallacy. English Wikipedia. Cited only as evidence of the term's current general-reference definition, and for its traffic; 187,757 page views in 2025 by the Wikimedia pageviews API.",
+      "url": "https://en.wikipedia.org/wiki/Motte-and-bailey_fallacy",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
