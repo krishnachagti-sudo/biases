@@ -5,11 +5,13 @@
   "aliases": [
     "Unrealistic optimism",
     "Comparative optimism",
-    "Optimistic belief updating"
+    "Optimistic belief updating",
+    "Pessimism bias",
+    "Unrealistic pessimism"
   ],
   "category": "belief",
   "statement": "Asked to compare themselves with their peers, people rate their own chances as above average for good events and below average for bad ones.",
-  "meaning": "Two separate literatures travel under the name. The older one asks for a comparative judgement: how do your chances of divorce, or of owning a home, compare with the average student's? Since everyone cannot be below average on the same risk, a group whose answers skew one way is making a collective error, and that is what makes the bias testable at all. The newer literature asks how people revise a personal risk estimate after being told the population base rate. Its claim is about asymmetry: good news moves the estimate more than bad news does. Both are claims about a mechanism, and both rest on the assumption that an unbiased person would produce a symmetric pattern in the measure being used. That assumption is what the last fifteen years have been arguing about.",
+  "meaning": "Two separate literatures travel under the name. The older one asks for a comparative judgement: how do your chances of divorce, or of owning a home, compare with the average student's? Since everyone cannot be below average on the same risk, a group whose answers skew one way is making a collective error, and that is what makes the bias testable at all. The newer literature asks how people revise a personal risk estimate after being told the population base rate. Its claim is about asymmetry: good news moves the estimate more than bad news does. Both are claims about a mechanism, and both rest on the assumption that an unbiased person would produce a symmetric pattern in the measure being used. That assumption is what the last fifteen years have been arguing about. Pessimism bias is the same claim inverted, and it has no paradigm of its own. It is what these two instruments report when a group's scores fall on the other side of the same benchmark, and most of the groups that do so are clinical.",
   "origin": {
     "year": 1980,
     "who": "Neil D. Weinstein",
@@ -27,8 +29,8 @@
       "year": 2016
     }
   },
-  "limits": "Nobody has run a multi-site registered replication of either paradigm, so the core dispute is a series of small studies by two research groups who disagree about method. Sample sizes on both sides are modest: 19 in the original scanning study, 13 in the experiment that reversed it, 142 in the reply. The critique is narrower than it is often taken to be. Harris and Hahn attack the inference from comparative and updating measures, not the proposition that people hold rosy beliefs, and they say the magnitude and mechanism are unknown rather than that the bias is absent. Where optimism is measured some other way, by comparing a stated expectation against a later outcome, none of this argument applies. Kube, Huhn and Menzel's small effect in 604 participants suggests any residual asymmetry is far below what the early papers implied.",
-  "misreadings": "The famous claim is not that people expect good things. It is that they expect better things than their own circumstances warrant, which requires a benchmark, and the benchmark is where the trouble lives. The figure of 80% of people being optimistically biased belongs to no study cited here. Weinstein's own data are not uniform: two of his 24 negative events, being a burglary victim and being injured in a car accident, came out in the pessimistic direction. The reversal Shah and colleagues found for positive events is also not a demonstration of pessimism about life. It is a demonstration that the measure produces whatever the base rates make it produce. Neither is the debate settled by the neuroimaging. Sharot, Korn and Dolan located prefrontal tracking of estimation errors, and a neural correlate of a behavioural measure inherits every question hanging over that measure.",
+  "limits": "Nobody has run a multi-site registered replication of either paradigm, so the core dispute is a series of small studies by two research groups who disagree about method. Sample sizes on both sides are modest: 19 in the original scanning study, 13 in the experiment that reversed it, 142 in the reply. The critique is narrower than it is often taken to be. Harris and Hahn attack the inference from comparative and updating measures, not the proposition that people hold rosy beliefs, and they say the magnitude and mechanism are unknown rather than that the bias is absent. Where optimism is measured some other way, by comparing a stated expectation against a later outcome, none of this argument applies. Strunk, Lopez and DeRubeis did that. They had 153 people recruited through internet announcements estimate the probability of 40 events over the next 30 days, then report which had happened. Low scorers on depressive symptoms showed an optimistic bias that did not reach significance, and high scorers showed a significant pessimistic bias. That paper is paywalled and the figures behind those two statements were not obtained. Kube, Huhn and Menzel's small effect in 604 participants suggests any residual asymmetry is far below what the early papers implied. The optimistic pattern is also not general to everyone. Korn, Sharot, Walter, Heekeren and Dolan ran the updating task on 18 patients with major depressive disorder and 19 controls, across 70 adverse events. Controls updated more on desirable news, t(18) = 3.0, p = 0.008, and the patients showed no asymmetry, t(17) = -0.11, p > 0.9. Within the patient group, Beck Depression Inventory scores correlated with the update bias at r = -0.50, p = 0.036, so the more symptomatic patients updated in the pessimistic direction. Patients also started higher, with a mean first estimate of 39.9 against 31.5 for controls, t(35) = 3.3, p = 0.002. Hobbs, Vozarova, Sabharwal, Shah and Button repeated this as a registered report, with 54 depressed and 56 healthy participants screened on the PHQ-9 and recruited through Prolific. The group difference held for negative events, beta = 0.71, 95% CI 0.24 to 1.18, and the same test on positive events was inconclusive, beta = -0.51, 95% CI -1.16 to 0.15. Zabag, Vander Zwalmen, Kube, Hoorelbeke, Koster and Joormann pooled 29 papers and 3,130 people across several updating paradigms. Depressive symptoms tracked reduced updating to positive information, r = -0.11, 95% CI -0.16 to -0.07, over 33 effect sizes, and tracked nothing for updating to negative information, r = -0.05, 95% CI -0.12 to 0.02, over 17. All of these studies use the paradigm Shah and colleagues object to.",
+  "misreadings": "The famous claim is not that people expect good things. It is that they expect better things than their own circumstances warrant, which requires a benchmark, and the benchmark is where the trouble lives. The figure of 80% of people being optimistically biased belongs to no study cited here. Weinstein's own data are not uniform: two of his 24 negative events, being a burglary victim and being injured in a car accident, came out in the pessimistic direction. The reversal Shah and colleagues found for positive events is also not a demonstration of pessimism about life. It is a demonstration that the measure produces whatever the base rates make it produce. Neither is the debate settled by the neuroimaging. Sharot, Korn and Dolan located prefrontal tracking of estimation errors, and a neural correlate of a behavioural measure inherits every question hanging over that measure. Pessimism bias is not a separate finding with a literature behind it. It is what these measures give when the scores fall the other way, and the bulk of that evidence comes from depressed samples rather than from a general human tendency to expect the worst. The clinical strands also differ. MacLeod and Byrne's anxious participants anticipated more future negative experiences than controls and did not differ on positive ones, while their mixed anxious-depressed participants did both. The judgement-bias task run on animals travels under optimism and pessimism as well, and it scores how an animal responds to an ambiguous cue rather than what it expects of its own future.",
   "sources": [
     {
       "text": "Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806-820.",
@@ -83,7 +85,37 @@
       "doi": "10.1111/bjso.12905",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12095902/",
       "type": "replication"
+    },
+    {
+      "text": "Strunk, D. R., Lopez, H., & DeRubeis, R. J. (2006). Depressive symptoms are associated with unrealistic negative predictions of future life events. Behaviour Research and Therapy, 44(6), 861-882.",
+      "doi": "10.1016/j.brat.2005.07.001",
+      "url": "https://doi.org/10.1016/j.brat.2005.07.001",
+      "type": "primary"
+    },
+    {
+      "text": "Korn, C. W., Sharot, T., Walter, H., Heekeren, H. R., & Dolan, R. J. (2014). Depression is related to an absence of optimistically biased belief updating about future life events. Psychological Medicine, 44(3), 579-592.",
+      "doi": "10.1017/S0033291713001074",
+      "url": "https://doi.org/10.1017/S0033291713001074",
+      "type": "primary"
+    },
+    {
+      "text": "Hobbs, C., Vozarova, P., Sabharwal, A., Shah, P., & Button, K. S. (2022). Is depression associated with reduced optimistic belief updating? Royal Society Open Science, 9(2), 190814.",
+      "doi": "10.1098/rsos.190814",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8808098/",
+      "type": "replication"
+    },
+    {
+      "text": "Zabag, R., Vander Zwalmen, Y., Kube, T., Hoorelbeke, K., Koster, E. H. W., & Joormann, J. (2025). Belief updating deficits in depression: A systematic review and meta-analysis. Clinical Psychology Review, 121, 102649.",
+      "doi": "10.1016/j.cpr.2025.102649",
+      "url": "https://doi.org/10.1016/j.cpr.2025.102649",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "MacLeod, A. K., & Byrne, A. (1996). Anxiety, depression, and the anticipation of future positive and negative experiences. Journal of Abnormal Psychology, 105(2), 286-289.",
+      "doi": "10.1037/0021-843X.105.2.286",
+      "url": "https://doi.org/10.1037/0021-843X.105.2.286",
+      "type": "primary"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-15"
 }
