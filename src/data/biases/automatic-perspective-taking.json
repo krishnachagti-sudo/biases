@@ -1,0 +1,97 @@
+{
+  "no": 437,
+  "slug": "automatic-perspective-taking",
+  "name": "Automatic perspective taking",
+  "aliases": [
+    "Spontaneous theory of mind",
+    "Implicit belief tracking",
+    "Automatic theory of mind"
+  ],
+  "category": "social",
+  "statement": "People detect a ball faster when a bystanding agent believes it is there, which is offered as evidence that belief tracking runs automatically.",
+  "meaning": "The claim is that another mind leaves a mark on your reaction times without being asked to. Participants watch a short animation in which an agent, a ball and an occluder sit on a table, then press a button as soon as the ball appears when the occluder drops. Four conditions cross what the participant last saw with what the agent last saw, labelled P and A with a plus for believing the ball present. The comparison that carries the claim is P-A+ against the baseline P-A-, where neither the participant nor the agent has reason to expect a ball. Faster responses when only the agent expects one are read as the agent's belief reaching into the participant's own detection, computed with no instruction to do so and no use for the task.",
+  "origin": {
+    "year": 2010,
+    "who": "Ágnes Melinda Kovács, Ernő Téglás and Ansgar Denis Endress",
+    "where": "Science",
+    "note": "The paper reports three reaction-time experiments on adults and four looking-time experiments on 7-month-olds, and argues that beliefs about others are held in a format close enough to representations of the environment that both can move behaviour."
+  },
+  "evidence": "Experiment 1 put 24 adults through 40 animated movies. Against the P-A- baseline, detection was faster when both parties expected the ball, t(23) = 3.47, P = 0.002, and when only the participant did, t(23) = 3.43, P = 0.002. The critical comparison was P-A+, where only the agent expected it, t(23) = 2.42, P = 0.02. Responses in that condition did not differ from responses when only the participant expected the ball, t(23) = 0.99, P = 0.33, which the authors read as the two kinds of belief carrying similar weight. Experiment 2 replaced the returning agent with a pile of boxes for a fresh 24 people, and the agent-only advantage held at t(23) = 2.1, P = 0.04. Experiment 3 removed the agent from the movies entirely for another 24, leaving the ball's motion unchanged; the two conditions that had been P-A- and P-A+ now differed by t(23) = 0.76, P = 0.45, with a likelihood ratio the paper puts at about three to one for the null. Four looking-time experiments followed on 56 seven-month-olds, 14 in each. Infants looked longer at an empty occluder when only the agent expected a ball, F(1,13) = 7.29, P = 0.01, and showed no difference when the occluder was never lowered, F(1,13) = 0.05, P = 0.81. The running text of the original gives test statistics rather than condition means in milliseconds.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Run as published, the effect repeats every time: 95 people gave r = 0.586 against 0.450 in the original. Experiments that strip out a timing confound disagree about whether anything is left.",
+    "detail": "The Social Sciences Replication Project repeated Experiment 1 with a team at the National University of Singapore, using the movies the original authors supplied. Across 95 participants, mean detection latency was 423.86 ms in the P-A- baseline and 378.43 ms in P-A+, t(94) = 7.0152, exact p = 3.497e-10. The replication report standardises the original t(23) = 2.42 as r = 0.450 and its own result as r = 0.586, a relative effect size of 130.22%. Phillips and colleagues had already repeated the same contrast three times, twice online and once in the laboratory, at d = 0.594, 0.473 and 0.422, and call the pattern highly replicable. Their thirteen experiments then dismantle the reading of it. The original ran an attention check, a separate button press when the agent left the scene, and the agent left at different times in different conditions. In the movies the replication used, the agent leaves at 14 s in P-A- and at 8 s in P-A+ and returns at 16 s in both, so the condition with the shorter gap between the two presses is the slower one. Blocking the agent's view with a wall left the pattern intact, interaction 109 ms, 95% CI [49, 169], p < .001. Deleting the agent and cueing the button press with a lightbulb at the same times left it intact, 86 ms, 95% CI [32, 140], p = .002. Removing the attention check flattened it, 22 ms, 95% CI [-47, 91], p = .53, as did moving the check to the agent's return, which happens at 19.2 s in every condition, 12 ms, 95% CI [-35, 59], p = .62. With the agent present and the cue timing decoupled from belief, the residual effect tracked the cue: 9.7 ms of slowing per second of delay in one experiment, 12.1 ms in the other. El Kaddouri and colleagues answered by equalising the timing of every event in the paradigm while keeping the attention check where it was. Of 60 participants, 57 were analysed, and the P-A- against P-A+ difference came out at 12.09 ms, 95% CI [1.38, 22.80], p = 0.028, with a main effect of the agent's belief the original had not found, F(1,56) = 6.50, p = 0.01. Their conclusion is that the attention-check account does not explain the result. Cutting the other way, the original first author's own fMRI study dropped the attention check and used a two-key response with 15 participants; its reaction times showed a main effect of the outcome, F(1,13) = 28.32, p = .0001, and no other effects or interactions, though the authors note the response type and an added jitter make those latencies hard to compare.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Kovács et al. (2010) is one of its 21 studies; the figures here are from the project's replication report for that study.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "n": 95
+    },
+    "original": {
+      "es": 0.45,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": 0.586,
+      "esType": "r"
+    }
+  },
+  "limits": "The two sides of the dispute have never run the same experiment. Phillips and colleagues removed the attention check or moved it; El Kaddouri and colleagues kept it in place and equalised every other timing instead, and each treats the other's design as answering the wrong question. Both routes are open to the same objection, that changing the film changes what participants attend to. Nothing here settles what the paradigm measures in the conditions the original used. The replication that produced r = 0.586 ran the original movies with the original attention check, so it inherits whatever the confound contributes. Condition means in milliseconds for the original are quoted here from the replication report rather than from Kovács and colleagues, whose running text reports test statistics. Heyes's submentalizing article, cited by Phillips and colleagues as raising related concerns, sits behind a paywall these checks did not pass, and nothing is quoted from it. Searches of Crossref, Europe PMC, PLOS, OSF, Unpaywall and web search turned up no repeat of the four infant looking-time experiments.",
+  "misreadings": "The adult result is often reported as a failed replication. It is the opposite: the reaction-time difference comes back at full strength every time the original design is run, and what is contested is what produces it. An agent whose view is walled off, and a lightbulb where the agent used to be, both reproduce the pattern, which is why a confound rather than a mind is the live explanation. The finding is also read as showing that infants have a theory of mind. Kovács and colleagues tested 7-month-olds with looking times in four separate experiments, and Phillips and colleagues say plainly that their own work does not bear on those; belief tracking being automatic in adults and infants representing beliefs are different claims resting on different data. The anticipatory-looking false-belief literature belongs to a third paradigm again. Kulke and colleagues repeated four of its tasks, found one that held, and found that the one stopped holding once its confounds were removed. That record says nothing about the ball-detection task and should not be borrowed for it.",
+  "sources": [
+    {
+      "text": "Kovács, Á. M., Téglás, E., & Endress, A. D. (2010). The social sense: Susceptibility to others' beliefs in human infants and adults. Science, 330(6012), 1830-1834.",
+      "doi": "10.1126/science.1190792",
+      "url": "http://endress.org/publications/puffo.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Phillips, J., Ong, D. C., Surtees, A. D. R., Xin, Y., Williams, S., Saxe, R., & Frank, M. C. (2015). A second look at automatic theory of mind: Reconsidering Kovács, Téglás, and Endress (2010). Psychological Science, 26(9), 1353-1367.",
+      "doi": "10.1177/0956797614558717",
+      "url": "https://langcog.stanford.edu/papers_new/phillips-2015-psychsci.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Ho, T.-H., & Wu, H. Replication of Kovacs et al (2010). Social Sciences Replication Project replication report, hosted on the Open Science Framework. The sample size, condition means, t value and correlations quoted in this entry were read from this document.",
+      "url": "https://osf.io/fgbj8/",
+      "type": "replication"
+    },
+    {
+      "text": "El Kaddouri, R., Bardi, L., De Bremaeker, D., Brass, M., & Wiersema, J. R. (2020). Measuring spontaneous mentalizing with a ball detection task: Putting the attention-check hypothesis by Phillips and colleagues (2015) to the test. Psychological Research, 84(6), 1749-1757. Figures read from the author copy in the Ghent University repository.",
+      "doi": "10.1007/s00426-019-01181-7",
+      "url": "https://biblio.ugent.be/publication/8642772",
+      "type": "replication"
+    },
+    {
+      "text": "Kovács, Á. M., Kühn, S., Gergely, G., Csibra, G., & Brass, M. (2014). Are all beliefs equal? Implicit belief attributions recruiting core brain regions of theory of mind. PLoS ONE, 9(9), e106558. The reaction-time analysis is in its supporting file Additional analysis S1.",
+      "doi": "10.1371/journal.pone.0106558",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106558",
+      "type": "primary"
+    },
+    {
+      "text": "Kulke, L., von Duhn, B., Schneider, D., & Rakoczy, H. (2018). Is implicit theory of mind a real and robust phenomenon? Results from a systematic replication study. Psychological Science, 29(6), 888-900. A different paradigm, anticipatory looking; described here from its abstract.",
+      "doi": "10.1177/0956797617747090",
+      "url": "https://doi.org/10.1177/0956797617747090",
+      "type": "replication"
+    },
+    {
+      "text": "Kulke, L., Johannsen, J., & Rakoczy, H. (2019). Why can some implicit theory of mind tasks be replicated and others cannot? A test of mentalizing versus submentalizing accounts. PLoS ONE, 14(3), e0213772.",
+      "doi": "10.1371/journal.pone.0213772",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213772",
+      "type": "replication"
+    },
+    {
+      "text": "Heyes, C. (2014). Submentalizing: I am not really reading your mind. Perspectives on Psychological Science, 9(2), 131-143. Named by Phillips and colleagues as raising related concerns; paywalled, and nothing in this entry is taken from it.",
+      "doi": "10.1177/1745691613518076",
+      "url": "https://doi.org/10.1177/1745691613518076",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
