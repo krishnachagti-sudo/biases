@@ -1,0 +1,85 @@
+{
+  "no": 358,
+  "slug": "verbal-overshadowing",
+  "name": "Verbal overshadowing",
+  "aliases": [
+    "Verbal overshadowing effect",
+    "Recoding interference"
+  ],
+  "category": "memory",
+  "statement": "Describing a face from memory makes a person worse at picking that face out of a lineup afterwards.",
+  "meaning": "The claim is about interference rather than forgetting. A witness who watches a crime and then writes down what the culprit looked like is said to build a verbal record that competes with the visual memory at the moment of identification. Schooler and Engstler-Schooler named the result verbal overshadowing and explained it as recoding interference: the description is easier to retrieve than the face, and it is a poor guide to what the face looked like. The prediction is narrow and testable. Accuracy on a later recognition test should fall in the group that described the face, measured against a control group given an unrelated verbal task such as listing states and capitals.",
+  "origin": {
+    "year": 1990,
+    "who": "Jonathan W. Schooler and Tonya Y. Engstler-Schooler",
+    "where": "Cognitive Psychology",
+    "note": "Six experiments across faces, colours and a spoken statement. The paper's own footnote records that Experiments 1 to 5 came from Schooler's doctoral dissertation at the University of Washington and Experiment 6 from Engstler-Schooler's undergraduate honours thesis."
+  },
+  "evidence": "Experiment 1 showed 88 undergraduates a 30-second bank robbery video, gave them a 20-minute filler task, then five minutes either to write a detailed description of the robber's face or to do an unrelated activity. Asked to pick the robber from a slide of eight similar faces, 38% of the describers were correct against 64% of controls. Experiment 2 repeated that with 104 people and added a group who visualised the face instead: 27% correct after describing, 58% after visualising, 60.6% for controls. Experiment 3 ran the same logic on colour with 30 people, at 33%, 64% and 73%. Experiment 4 moved the description to just after the video and put the 10-minute filler afterwards, with 117 people, and found 49% against 71%; the same experiment had a third group recall the robber's spoken words, and their memory for the statement ran the other way, 46% against 32% for controls, which did not reach significance. Meissner and Brigham later pooled 29 effect-size comparisons covering 2,018 people and reported a small negative effect, Fisher's Zr of -0.12, with the impairment larger when the identification followed the description without delay.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Thirty-one laboratories reran the study and found the effect, at 4 percentage points; the 22 that reran it again in the original task order found 16.",
+    "detail": "The first Registered Replication Report published by Perspectives on Psychological Science covers this effect, and it contains two collections of preregistered replications. RRR1 ran at 31 laboratories in 10 countries. Its protocol carried an ordering error found only after data collection began: participants described the robber straight after the video and did the 20-minute filler afterwards, which is the arrangement of the original Experiment 4 rather than Experiment 1. Pooled by random-effects meta-analysis across the 31 laboratory studies, describers were 4.01 percentage points less likely to pick the robber, with a 95% interval from -7.15 to -0.87, and heterogeneity at what chance would predict (Tau = 0, I-squared = 0%). Twenty-two of those laboratories then ran RRR2 with the filler task first, matching the original Experiment 1, a decision taken before the RRR1 data were complete or analysed. The pooled difference there was 16.31 percentage points, 95% interval -20.47 to -12.14. Every one of the 22 studies pointed the same way. A single online study on Amazon Mechanical Turk ran both orders and is reported alongside the pooled figures rather than inside them. The authors' summary is that the effect is robust and that its size depends on when the description happens relative to the lineup.",
+    "study": {
+      "cite": "Alogna, V. K., Attaya, M. K., Aucoin, P., et al. (2014). Registered Replication Report: Schooler and Engstler-Schooler (1990). Perspectives on Psychological Science, 9(5), 556-578.",
+      "doi": "10.1177/1745691614545653",
+      "year": 2014,
+      "sites": 31
+    },
+    "original": {
+      "es": -25.0,
+      "esType": "md",
+      "unit": "percentage points of correct lineup identification",
+      "ci": [
+        -45.0,
+        -5.0
+      ],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": -16.31,
+      "esType": "md",
+      "unit": "percentage points of correct lineup identification",
+      "ci": [
+        -20.47,
+        -12.14
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    }
+  },
+  "limits": "The figures above are RRR2 against the original Experiment 1, which it was built to match. The other pairing is starker: the report gives Experiment 4 as -22 percentage points with a 95% interval from -44 to -0.79, against 4.01 in RRR1, and it notes that the original estimate sits outside the replication interval while being too imprecise to say whether the effect shrank or was mismeasured. The replication record covers one paradigm, a described face and a photo lineup. Verbal overshadowing has also been claimed for colours, wine, voices and insight problems, and a search of the multi-laboratory literature and of the Registered Replication Report series found no comparable multi-site test of any of those. No total participant count is given in the report's text, and the pooled estimates and forest-plot values here were read from the manuscript deposited at White Rose Research Online because the published version is paywalled; the headline percentages match the published abstract at Crossref. Mickes and Wixted argue the applied lesson is unsettled, because every lineup in this work contained the culprit, so the rate at which a described-then-identified witness picks an innocent suspect is unknown.",
+  "misreadings": "RRR1 is often filed as a failed replication. The report says the opposite of that reading in as many words: all of the individual confidence intervals in RRR1 included zero, so counting laboratories would have produced a verdict of robust failure, which the authors call misleading. The pooled estimate excluded zero in both collections. A second error is to treat RRR1 and RRR2 as independent projects. Twenty-two of the 31 RRR1 laboratories ran RRR2, on the same protocol with two tasks swapped. The widely quoted 25% comes from the report, which gives the original Experiment 1 as 38.6% against 63.6%; the 1990 article itself prints 38% and 64%, and the report notes that some original counts came from Schooler's dissertation rather than the journal paper. Last, the finding is about a lineup decision made after describing a face, not about talking in general: in Experiment 4 the participants asked to recall spoken words remembered those words better than controls, not worse.",
+  "sources": [
+    {
+      "text": "Schooler, J. W., & Engstler-Schooler, T. Y. (1990). Verbal overshadowing of visual memories: Some things are better left unsaid. Cognitive Psychology, 22(1), 36-71.",
+      "doi": "10.1016/0010-0285(90)90003-M",
+      "url": "http://wixtedlab.ucsd.edu/publications/Psych%20272/Schooler_Engstler-Schooler_1990.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Alogna, V. K., Attaya, M. K., Aucoin, P., et al. (2014). Registered Replication Report: Schooler and Engstler-Schooler (1990). Perspectives on Psychological Science, 9(5), 556-578.",
+      "doi": "10.1177/1745691614545653",
+      "url": "https://doi.org/10.1177/1745691614545653",
+      "type": "replication"
+    },
+    {
+      "text": "Alogna, V. K., et al. (2014), author manuscript deposited at White Rose Research Online. The pooled estimates, confidence intervals and forest-plot values quoted here were read from this copy.",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/81917/1/Delvenne2014_PPS.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Meissner, C. A., & Brigham, J. C. (2001). A meta-analysis of the verbal overshadowing effect in face identification. Applied Cognitive Psychology, 15(6), 603-616. Its figures are quoted here from the publisher's abstract.",
+      "doi": "10.1002/acp.728",
+      "url": "https://doi.org/10.1002/acp.728",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Mickes, L., & Wixted, J. T. (2015). On the applied implications of the \"verbal overshadowing effect\". Perspectives on Psychological Science, 10(3), 400-403.",
+      "doi": "10.1177/1745691615576762",
+      "url": "https://doi.org/10.1177/1745691615576762",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
