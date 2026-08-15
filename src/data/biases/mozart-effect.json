@@ -1,0 +1,106 @@
+{
+  "no": 373,
+  "slug": "mozart-effect",
+  "name": "Mozart effect",
+  "aliases": [
+    "Mozart sonata effect",
+    "KV 448 effect",
+    "K. 448 effect"
+  ],
+  "category": "perception",
+  "statement": "Listening to ten minutes of Mozart's sonata for two pianos KV 448 is said to raise intelligence, though the report behind the claim measured one kind of spatial task.",
+  "meaning": "Two different claims travel under one name, and they have different fates. The narrow one is that a brief passage of a particular Mozart sonata lifts scores on spatial tasks for a quarter of an hour. The broad one is that classical music makes people, and especially babies, cleverer. The narrow claim is what was published in 1993. The broad one was built by the press, the recording trade and at least one state governor on top of it. A third body of work, on music lessons rather than music listening, is often folded in as well, and Rauscher and Hinton asked in 2006 that it not be, because it has nothing to do with Mozart. What survives the meta-analyses is smaller than any of the three: a short arousal boost that other music produces about as well.",
+  "origin": {
+    "year": 1993,
+    "who": "Frances H. Rauscher, Gordon L. Shaw and Catherine N. Ky",
+    "where": "Nature",
+    "note": "Their paper is a one-page letter titled \"Music and spatial task performance\", Nature 365, page 611. Rauscher and Hinton wrote in 2006 that the popular media coined the term \"Mozart effect\" after it, citing a 1993 piece by Knox. The letter itself sits behind a paywall and was not read for this entry."
+  },
+  "evidence": "Rauscher and colleagues described their own 1993 study the following year, in a paper given to the American Psychological Association and deposited with ERIC. Thirty-six undergraduates from the psychology department at the University of California, Irvine scored 8 to 9 points higher on the spatial reasoning subtest of the Stanford-Binet Intelligence Scale after listening to 10 minutes of Mozart's Sonata for Two Pianos in D major, K. 448, than after taped self-hypnosis instructions or silence. In their words the facilitation lasted only ten to fifteen minutes. The same 1994 paper reports a follow-up on 84 college students, 79 of whom finished, using paper folding and cutting items. A two by two analysis of variance gave a main effect for day, F(1, 51) = 28.211, p < .001, and an interaction between listening condition and day, F(1, 51) = 11.17, p < .01. Chabris later recomputed the original comparisons for his meta-analysis and put the paper folding and cutting effect against silence at d = 1.389, with N = 8 and P = 0.140. Against relaxation instructions he gives d = 1.622, N = 8, P = 0.094. Those two figures are Chabris's arithmetic on the original data, not numbers printed in the 1993 letter.",
+  "replication": {
+    "state": "failed",
+    "headline": "The largest meta-analysis puts Mozart ahead of other music by d = 0.15, and reports that studies from Rauscher's own lab return the highest effects of all.",
+    "detail": "Chabris ran the first meta-analysis in 1999, in Nature. Pooling the 20 published Mozart-to-silence comparisons from 16 studies, 714 subjects in all, he obtained d = 0.09, or 1.4 IQ points, combined Z = 1.14, P = 0.26. Split by task, abstract reasoning gave d = -0.04 and spatial-temporal processing gave d = 0.14, which he called 2.1 IQ points. Eight comparisons against auditory relaxation instructions, 201 subjects, gave d = 0.20 overall and d = 0.56 for spatial-temporal tasks, which he read as relaxation lowering arousal rather than Mozart raising it. Alongside him in the same issue, Steele and eight co-authors reported three fresh experiments at Appalachian State University, the University of Montreal and the University of Western Ontario. Converting scores to IQ equivalents, Mozart beat silence by 3 points at one site and lost to it by 4 at another, mean d = 0.003, and they wrote that a requiem may therefore be in order. Pietschnig, Voracek and Formann published the largest synthesis in Intelligence in 2010, covering nearly 40 studies and over 3000 subjects including unpublished work. Three numbers from it have to be read together. Mozart against a non-musical stimulus or none gave d = 0.37, 95% confidence interval 0.23 to 0.52. Any other musical stimulus against a non-musical stimulus or none gave d = 0.38, 95% confidence interval 0.13 to 0.63. Mozart against other music gave d = 0.15, 95% confidence interval 0.02 to 0.28. The first figure is the one usually quoted and the third is the one that tests the claim, because a Mozart effect that other music produces equally well is not a Mozart effect. On top of that the authors report evidence of publication bias requiring downward correction, and call their central finding the noticeably higher overall effect in studies performed by Rauscher and colleagues than in studies performed by other researchers. Their own summary is that there is little evidence left for a specific, performance-enhancing Mozart effect.",
+    "study": {
+      "cite": "Pietschnig, J., Voracek, M., & Formann, A. K. (2010). Mozart effect-Shmozart effect: A meta-analysis. Intelligence, 38(3), 314-323.",
+      "doi": "10.1016/j.intell.2010.03.001",
+      "year": 2010
+    },
+    "replicated": {
+      "es": 0.15,
+      "esType": "d",
+      "ci": [0.02, 0.28],
+      "ciLevel": 95,
+      "weighting": "Mozart versus any other musical stimulus"
+    }
+  },
+  "limits": "No original effect size sits in the field above. The 1993 letter is paywalled, the 8 to 9 points quoted in `evidence` come from the authors' own later description of it, and an IQ-point difference is not a standardised mean difference that can be set beside a pooled d. The Pietschnig figures are read from the author-provided abstract carried by ERIC, because the article itself is behind Elsevier's paywall and ScienceDirect refused automated access. That has a cost this page has to state: the abstract gives the lab-affiliation moderator as a direction and not as a number, so how much higher the Rauscher-lab studies run was not obtained. Hetland's 2000 meta-analysis of 36 studies and 2,465 subjects reached a different conclusion, calling the effect moderate and robust while limited to spatial tasks requiring mental rotation without a physical model. That paper is also paywalled, and both its counts and its quoted wording are taken here from Rauscher and Hinton's 2006 description of it. Rauscher's own reply to a meta-analytic critique is the 1999 one, printed in Nature under Chabris and Steele. A published response by her to the 2010 meta-analysis was searched for in Crossref, by author and by bibliographic query, and in general web search, and none was found. A second literature uses the same name for a claimed effect of K. 448 on epilepsy, and nothing on this page turns on it. Rauscher invoked it in her 1999 reply, citing a report that the sonata reversed the epileptic state in comatose patients. Oberleiter and Pietschnig meta-analysed it in 2023 and could formally synthesise 8 studies totalling 207 participants, because other eligible studies reported too little and their authors did not answer requests for data. Mozart against silence in independent-groups designs gave g = 0.431, p = 0.52, k = 3, and the sign reversed when a single premature-infant pain study was dropped. Mozart against silence in one-group designs gave g = 0.158, p = 0.127, k = 6. Other music against silence gave g = 0.088, p = 0.581, k = 5. Their confidence interval for the second of those is printed one way in the text, -0.04 to 0.36, and another way in Table 3, -0.45 to 0.35, so no interval for it is quoted here. Their conclusion is that listening to music, let alone a specific kind of sonata, does not appear to have any beneficial effect on epilepsy.",
+  "misreadings": "The first error is the famous one: that Mozart makes babies cleverer. The 1993 study tested undergraduates, measured one spatial subtest, and reported a gain that ran out inside a quarter of an hour. Rauscher told NPR in 2010 that they did not find effects for general intelligence, just for this one aspect of intelligence, and that generalising the results to children is one of the first things that went wrong. Rauscher and Hinton wrote in 2006 that the legend led to Georgia Governor Zell Miller's proposal to send every newborn baby home from the hospital with a classical music CD. Whether that proposal was carried out is not established by any source read for this entry. The second error is quoting d = 0.37 as the pooled Mozart effect and stopping. The same abstract gives other music d = 0.38 and Mozart over other music d = 0.15, and reports publication bias and lab affiliation as moderators. The 0.37 without those is a number that means the opposite of what it appears to mean. The third error is treating the music-lesson research as the same finding. Rauscher and Hinton asked for the two to be kept apart, on the ground that the instruction studies have nothing at all to do with Mozart. The fourth is reading Rauscher's 1999 reply as a retreat. It was not. She wrote that the comments echoed the most common misconception, that listening to Mozart enhances intelligence, and that they made no such claim, the effect being limited to spatial-temporal tasks involving mental imagery and temporal ordering. She closed by noting that because some people cannot get bread to rise does not negate the existence of a yeast effect. Her concession came later. In 2006 she and Hinton agreed that educational practice should not be influenced by this area of research, on the grounds that few studies used child participants, that the effect may be limited to certain types of tasks, and that the outcome is exceedingly brief. A fifth error is importing the verdict from the epilepsy literature, which is a separate question and is set out under limits.",
+  "sources": [
+    {
+      "text": "Rauscher, F. H., Shaw, G. L., & Ky, K. N. (1993). Music and spatial task performance. Nature, 365(6447), 611. The record was verified at Crossref; the letter itself is paywalled and was not read.",
+      "doi": "10.1038/365611a0",
+      "url": "https://doi.org/10.1038/365611a0",
+      "type": "primary"
+    },
+    {
+      "text": "Rauscher, F. H., Shaw, G. L., Levine, L. J., Ky, K. N., & Wright, E. L. (1994). Music and spatial task performance: A causal relationship. Paper presented at the 102nd Annual Convention of the American Psychological Association, Los Angeles, 12-16 August 1994. ERIC document ED390733. The authors' own account of what the 1993 study did and found.",
+      "url": "https://files.eric.ed.gov/fulltext/ED390733.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Chabris, C. F. (1999). Prelude or requiem for the 'Mozart effect'? Nature, 400(6747), 826-827. Read from the author's copy at https://www.chabris.com/Chabris1999a.pdf, which carries all three items of the exchange.",
+      "doi": "10.1038/23608",
+      "url": "https://doi.org/10.1038/23608",
+      "type": "secondary"
+    },
+    {
+      "text": "Steele, K. M., Dalla Bella, S., Peretz, I., Dunlop, T., Dawe, L. A., Humphrey, G. K., Shannon, R. A., Kirby, J. L., & Olmstead, C. G. (1999). Prelude or requiem for the 'Mozart effect'? Nature, 400(6747), 827.",
+      "doi": "10.1038/23611",
+      "url": "https://doi.org/10.1038/23611",
+      "type": "replication"
+    },
+    {
+      "text": "Rauscher, F. H. (1999). Prelude or requiem for the 'Mozart effect'? Rauscher replies. Nature, 400(6747), 827-828.",
+      "doi": "10.1038/23614",
+      "url": "https://doi.org/10.1038/23614",
+      "type": "primary"
+    },
+    {
+      "text": "Steele, K. M., Bass, K. E., & Crook, M. D. (1999). The mystery of the Mozart effect: Failure to replicate. Psychological Science, 10(4), 366-369. Cited for the record; the article is paywalled and was not read.",
+      "doi": "10.1111/1467-9280.00169",
+      "url": "https://doi.org/10.1111/1467-9280.00169",
+      "type": "replication"
+    },
+    {
+      "text": "Hetland, L. (2000). Listening to music enhances spatial-temporal reasoning: Evidence for the \"Mozart effect\". Journal of Aesthetic Education, 34(3/4), 105-148. Paywalled; its counts and quoted conclusion are taken from Rauscher and Hinton (2006).",
+      "doi": "10.2307/3333640",
+      "url": "https://doi.org/10.2307/3333640",
+      "type": "secondary"
+    },
+    {
+      "text": "Rauscher, F. H., & Hinton, S. C. (2006). The Mozart effect: Music listening is not music instruction. Educational Psychologist, 41(4), 233-238. Read from the copy at https://www.uwosh.edu/psychology/wp-content/uploads/sites/203/2020/11/Rauscher-Hinton_2006.pdf",
+      "doi": "10.1207/s15326985ep4104_3",
+      "url": "https://doi.org/10.1207/s15326985ep4104_3",
+      "type": "primary"
+    },
+    {
+      "text": "Pietschnig, J., Voracek, M., & Formann, A. K. (2010). Mozart effect-Shmozart effect: A meta-analysis. Intelligence, 38(3), 314-323. Figures here are from the author-provided abstract at https://eric.ed.gov/?id=EJ882611, ERIC record EJ882611, because the article is paywalled.",
+      "doi": "10.1016/j.intell.2010.03.001",
+      "url": "https://doi.org/10.1016/j.intell.2010.03.001",
+      "type": "replication"
+    },
+    {
+      "text": "Oberleiter, S., & Pietschnig, J. (2023). Unfounded authority, underpowered studies, and non-transparent reporting perpetuate the Mozart effect myth: A multiverse meta-analysis. Scientific Reports, 13, article 3175. Covers the epilepsy literature, not spatial task performance.",
+      "doi": "10.1038/s41598-023-30206-w",
+      "url": "https://doi.org/10.1038/s41598-023-30206-w",
+      "type": "secondary"
+    },
+    {
+      "text": "Spiegel, A. (28 June 2010). 'Mozart effect' was just what we wanted to hear. NPR. The source for Rauscher's remarks quoted on this page, read there on 15 August 2026.",
+      "url": "https://www.npr.org/2010/06/28/128104580/mozart-effect-was-just-what-we-wanted-to-hear",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

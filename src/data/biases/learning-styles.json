@@ -1,0 +1,84 @@
+{
+  "no": 372,
+  "slug": "learning-styles",
+  "name": "Learning styles",
+  "aliases": ["Meshing hypothesis", "Matching hypothesis", "Learning-styles hypothesis", "Modality matching", "VAK", "VARK"],
+  "category": "memory",
+  "statement": "Teaching matched to a learner's preferred modality is said to beat mismatched teaching, and the interaction that would show it is rarely found.",
+  "meaning": "Two claims travel under one name and only the second is at stake here. The first is that people, asked how they like information presented, will answer, and will answer roughly the same way next week. Pashler, McDaniel, Rohrer and Bjork call that the existence of study preferences and write that it is not in dispute. The second is the meshing hypothesis, which they define as the view that instruction is best provided in a format that matches the preferences of the learner. That is a claim about what a teacher should do, and it does not follow from the first. A visual learner might exist and still learn no better from pictures than from words. The distinction matters because the practical apparatus, the questionnaires, the workshops and the tailored lesson plans, rests entirely on the second claim while the first is what gets offered as evidence for it.",
+  "origin": {
+    "year": 2008,
+    "who": "Harold Pashler, Mark McDaniel, Doug Rohrer and Robert Bjork",
+    "where": "Psychological Science in the Public Interest",
+    "note": "The idea is much older than the paper. Coffield, Moseley, Hall and Ecclestone report that Rita and Kenneth Dunn began their work in the 1960s. What Pashler and colleagues supplied in 2008 was the name meshing hypothesis and a stated test for it, which is why the entry dates from their review rather than from the practice it examines."
+  },
+  "evidence": "Pashler and colleagues set out what would count. Students are sorted into groups by learning style, randomly assigned to one of several instructional methods, and then given the same final test. The result has to be a crossover interaction: the method that works best for one style group is not the method that works best for the other. Plot the style groups on the horizontal axis and, in their words, a crossover interaction is both sufficient and necessary. They then searched. Their finding was not that nobody had run the design. It was that they found only one study that could be described as even potentially meeting the criteria, Sternberg, Grigorenko, Ferrari and Clinkenbeard, who gave 324 gifted high school students a triarchic abilities test, selected 112 of them, and reported that matched students outscored mismatched students on two of three assessments after the data were screened for deviant scores. Pashler and colleagues call that tenuous, note that the interaction appeared only in derived measures and only after unexplained exclusions, and add a second candidate in a footnote, Bostrom, Olfman and Sein on end-user training. Against that they set three studies they judged methodologically strong and negative. Massa and Mayer built a 31-frame computer lesson on electronics with help screens in either text or pictures, sorted learners with 14 cognitive measures across three experiments, and report that verbalisers and visualisers did not differ on the learning test and that almost all the measures failed to produce significant interactions. Cook, Thompson, Thomas and Thomas randomised 123 internal medicine residents across four web modules in problem-first and information-first formats: knowledge scores were 83.0 against 82.3, p = .42, and the interaction with format gave p = .59. Constantinidou and Baker found no relationship between visualiser-verbaliser scores and free recall of words presented in different modalities.",
+  "replication": {
+    "state": "failed",
+    "headline": "Later studies built to Pashler's specification keep missing the crossover. Rogowsky, Calhoun and Tallal ran it twice, and in the school version only 34 of 107 children could be sorted into a distinct style at all.",
+    "detail": "Rogowsky, Calhoun and Tallal tested college-educated adults with digital audiobooks against e-text and report no statistically significant relationship between learning style preference and instructional method for either immediate or delayed comprehension. Aslaksen and Loras, screening more than a thousand records across six databases, call that the only study located that was totally aligned with Pashler's criteria. Their own pooled estimates from 10 publications and 13 experiments run the wrong way and miss significance: visual matching g = -0.09, 95% CI [-0.74, 0.58], p = 0.80, n = 484, and auditory matching g = -0.27, 95% CI [-0.87, 0.32], p = 0.37, n = 356. Rogowsky and colleagues then repeated the design with fifth graders. Visual learners beat auditory learners at both listening and reading, F(1, 32) = 12.92, p = 0.001, and the instruction by style interaction did not appear, p = 0.29. Clinton-Lisell and Litzinger's meta-analysis is the case that has to be handled carefully. Across 21 studies, 101 effect sizes and 1,712 participants, matched instruction beat unmatched instruction, g = 0.32, SE = 0.12, 95% CI [0.07, 0.57], p = 0.01, with I-squared of 91.17. That is a main effect and not the test. When the same authors counted crossovers, 11 of 42 learning outcome measures showed matched instruction helping at least two style groups, 26.19%, and among 12 further studies too thinly reported for pooling the figure was 25%. They note that most of the studies producing a crossover did not meet What Works Clearinghouse standards, and conclude that the benefits are too small and too infrequent to warrant widespread adoption.",
+    "study": {
+      "cite": "Clinton-Lisell, V., & Litzinger, C. (2024). Is it really a neuromyth? A meta-analysis of the learning styles matching hypothesis. Frontiers in Psychology, 15, 1428732.",
+      "doi": "10.3389/fpsyg.2024.1428732",
+      "year": 2024,
+      "n": 1712
+    }
+  },
+  "limits": "The structured effect-size fields are empty because the number that would fill them does not exist. Pashler and colleagues wrote a review, not an experiment, so there is no original estimate, and the two later syntheses measure different things: Aslaksen and Loras pooled matched against mismatched scores within modality-specific studies and got negative estimates, while Clinton-Lisell and Litzinger pooled a broader set and got 0.32. Neither pooled the crossover itself. Clinton-Lisell and Litzinger's own crossover tally also uses a loose rule, which their methods state plainly: an outcome counts if Hedges' g exceeds zero for at least two styles, with no significance requirement. Their abstract and their results section disagree by a hundredth, giving g = 0.31, 95% CI [0.05, 0.57], p = 0.02 in one place and g = 0.32, 95% CI [0.07, 0.57], p = 0.01 in the other; the figures above are the results section's. Sorting learners is itself a limit. In the Rogowsky school study 73 of 107 children, 68%, scored close to identically on the auditory and visual scales, leaving 12 strong auditory and 22 strong visual children to carry the crossover test, and the interaction F is printed with 38 denominator degrees of freedom where the two main effects in the same analysis carry 32. Clinton-Lisell and Litzinger report that 85% of their included studies dropped participants whose scores did not allow confident categorisation. Pashler and colleagues set their own boundary and it still holds: they write that it would be an error to conclude that all possible versions of learning styles have been tested and found wanting, because many have simply not been tested at all. The instruments have their own record. Leite, Svinicki and Shi found the correlated trait-correlated method model fitted VARK scores best and describe the estimated reliability coefficients as adequate, offering preliminary support for validity while raising cautions about item wording and the scoring algorithm; their per-scale coefficients were not obtained for this entry. For the Dunn and Dunn instruments the figures here are quoted at one remove, from Coffield and colleagues rather than from the studies themselves. They report that the LSI manual gave test-retest reliabilities above 0.60 for 21 of 22 factors on 817 people, that Murray-Harvey found 13 of 20 PEPS variables below 0.51 on retest after a year, and that LaMothe and colleagues found only 11 of 20 PEPS scales reaching alpha 0.70 in 470 nursing students. Coffield's own verdict on the threshold is that 0.60 is lax, because at that level misclassification is more likely than accuracy.",
+  "misreadings": "The commonest error is to report that no study has ever used the required design. Pashler and colleagues name one candidate in the text and another in a footnote, and they name three more that used an appropriate method and came out negative. Their claim is about how few such studies exist in a literature they call enormous, not about there being none. The second error runs the other way, from the fact that preferences are real to the conclusion that they should be accommodated. Pashler and colleagues grant the first in as many words and then write that the implications for educational practice are minimal. A preference is not an aptitude either: they cite Massa and Mayer for the finding that preference for visual against verbal intake shows hardly any relationship to measured aptitude profile. The third error is to read a matched-against-unmatched difference as support. A single method can be better for everybody, which produces exactly that difference and no crossover, and it is why the interaction is the test. Lehmann and Seufert show the shape. With 42 learners they found a significant interaction and titled the result accordingly, but their visual group benefited from visual text while their auditive-ambiguous group performed almost equally under both, and their own summary is that the results partly support the hypothesis. Fourth, the number of models in circulation is usually given as 71, and that is Coffield, Moseley, Hall and Ecclestone's figure read in their report: they identified 71 models, treated 13 as major and listed the other 58 in an appendix without analysing them. Fifth, the evidence has not changed practice. Newton and Salvi pooled 37 surveys covering 15,405 educators in 18 countries between 2009 and early 2020 and found weighted agreement of 89.1% that matching instruction to learning styles is effective, ranging from 58% to 97.6%, with 95.4% among trainee teachers and no sign of decline. They also caution that most of those surveys used convenience samples and that it is unclear whether respondents understood they were being asked about matching rather than about learning styles in general.",
+  "sources": [
+    {
+      "text": "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105-119.",
+      "doi": "10.1111/j.1539-6053.2009.01038.x"
+    },
+    {
+      "text": "Massa, L. J., & Mayer, R. E. (2006). Testing the ATI hypothesis: Should multimedia instruction accommodate verbalizer-visualizer cognitive style? Learning and Individual Differences, 16(4), 321-335.",
+      "doi": "10.1016/j.lindif.2006.10.001"
+    },
+    {
+      "text": "Cook, D. A., Thompson, W. G., Thomas, K. G., & Thomas, M. R. (2009). Lack of interaction between sensing-intuitive learning styles and problem-first versus information-first instruction: A randomized crossover trial. Advances in Health Sciences Education, 14(1), 79-90.",
+      "doi": "10.1007/s10459-007-9089-8"
+    },
+    {
+      "text": "Constantinidou, F., & Baker, S. (2002). Stimulus modality and verbal learning performance in normal aging. Brain and Language, 82(3), 296-311.",
+      "doi": "10.1016/S0093-934X(02)00018-4"
+    },
+    {
+      "text": "Sternberg, R. J., Grigorenko, E. L., Ferrari, M., & Clinkenbeard, P. (1999). A triarchic analysis of an aptitude-treatment interaction. European Journal of Psychological Assessment, 15(1), 3-13.",
+      "doi": "10.1027//1015-5759.15.1.3"
+    },
+    {
+      "text": "Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2015). Matching learning style to instructional method: Effects on comprehension. Journal of Educational Psychology, 107(1), 64-78.",
+      "doi": "10.1037/a0037478"
+    },
+    {
+      "text": "Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2020). Providing instruction based on students' learning style preferences does not improve learning. Frontiers in Psychology, 11, 164.",
+      "doi": "10.3389/fpsyg.2020.00164"
+    },
+    {
+      "text": "Aslaksen, K., & Loras, H. (2018). The modality-specific learning style hypothesis: A mini-review. Frontiers in Psychology, 9, 1538.",
+      "doi": "10.3389/fpsyg.2018.01538"
+    },
+    {
+      "text": "Clinton-Lisell, V., & Litzinger, C. (2024). Is it really a neuromyth? A meta-analysis of the learning styles matching hypothesis. Frontiers in Psychology, 15, 1428732.",
+      "doi": "10.3389/fpsyg.2024.1428732"
+    },
+    {
+      "text": "Lehmann, J., & Seufert, T. (2019). The interaction between text modality and the learner's modality preference influences comprehension and cognitive load. Frontiers in Psychology, 10, 2820.",
+      "doi": "10.3389/fpsyg.2019.02820"
+    },
+    {
+      "text": "Newton, P. M., & Salvi, A. (2020). How common is belief in the learning styles neuromyth, and does it matter? A pragmatic systematic review. Frontiers in Education, 5, 602451.",
+      "doi": "10.3389/feduc.2020.602451"
+    },
+    {
+      "text": "Leite, W. L., Svinicki, M., & Shi, Y. (2010). Attempted validation of the scores of the VARK: Learning styles inventory with multitrait-multimethod confirmatory factor analysis models. Educational and Psychological Measurement, 70(2), 323-339.",
+      "doi": "10.1177/0013164409344507"
+    },
+    {
+      "text": "Coffield, F., Moseley, D., Hall, E., & Ecclestone, K. (2004). Learning styles and pedagogy in post-16 learning: A systematic and critical review. London: Learning and Skills Research Centre.",
+      "url": "https://web.archive.org/web/20190214191542/http://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

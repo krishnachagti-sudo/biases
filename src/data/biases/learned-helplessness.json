@@ -1,0 +1,103 @@
+{
+  "no": 375,
+  "slug": "learned-helplessness",
+  "name": "Learned helplessness",
+  "aliases": ["Helplessness effect", "Learned helplessness effect", "Escape deficit"],
+  "category": "belief",
+  "statement": "After aversive events they cannot control, animals and people stop trying to escape events they could escape, a passivity the originators now say is unlearned.",
+  "meaning": "Two claims travel under the name and they are separated here because their evidence differs. The first is a behavioural finding. Give an animal shock it cannot turn off, then put it somewhere the shock can be turned off, and it often sits there. An animal given exactly the same shock but able to end it escapes normally. The only difference between the two is control, which is why the experiment needs three groups rather than two. The second claim is an explanation of the first. Seligman and Maier held that the animal learns that outcomes are independent of its responses, and that this expectancy stops it trying. That explanation was withdrawn by its own authors in 2016, who argue the finding is real and the reasoning behind it was inverted. A third body of work extends the idea to human depression through the causes people give for their failures. It rests on a different literature and is treated separately below.",
+  "origin": {
+    "year": 1967,
+    "who": "Martin E. P. Seligman and Steven F. Maier",
+    "where": "Journal of Experimental Psychology",
+    "note": "Overmier and Seligman had reported the escape failure earlier the same year in the Journal of Comparative and Physiological Psychology, but without isolating control as the cause. The 1967 Seligman and Maier paper added the escapable-shock group that made the isolation possible, and it is the paper that puts learned \"helplessness\" in quotation marks in its own abstract."
+  },
+  "evidence": "Experiment I used 30 mongrel dogs, of which six were discarded and 24 remained, eight per group. Dogs in the Escape group got 64 unsignalled 6.0 mA shocks in a hammock at a mean interval of 90 seconds, and could end each one by pressing a panel with the head. Each dog in the Yoked group was paired to one in the Escape group and got shocks of the same duration that its own pressing did not affect, totalling 226 seconds. A Normal control group got no shock in the hammock. All three then had ten escape-avoidance trials in a shuttle box the next day. Mean latency to jump the barrier was 27.00 seconds in the Escape group, 25.93 in the Normal control group and 48.22 in the Yoked group. Mean failures to escape out of ten trials ran 2.63, 2.25 and 7.25. The proportion failing on nine or more of the ten trials was 0% in the Escape group, 12.5% in the Normal control group and 75% in the Yoked group. Yoked dogs differed from both other groups on latency and on failures at p < .05 by Duncan's multiple-range test, and the Escape and Normal groups did not differ. Six yoked dogs failed on nine or more trials, and seven days later five of those six still failed on every trial.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The escape deficit holds and is a standard laboratory model, while the explanation attached to it was withdrawn by Maier and Seligman in 2016.",
+    "detail": "None of the four state values fits this entry cleanly, because the usual failure mode is absent. No replication overturned the finding. Vollmayr and Gass, writing independently of the originators, describe learned helplessness as a model with excellent face, construct and predictive validity that can be produced in a broad variety of mammals and also in fish and Drosophila. What changed is the account of why it happens. Maier and Seligman argue in Psychological Review that the original theory got it backwards. Their words are that passivity in response to shock is not learned, that it is the default, unlearned response to prolonged aversive events, and that it is mediated by the serotonergic activity of the dorsal raphe nucleus. On their account what is learned is the opposite: detecting control activates a circuit running between the prelimbic cortex and the dorsomedial striatum, which in turn drives a projection from the prelimbic cortex to the dorsal raphe nucleus and shuts the default passivity down. They also report the finding that pushed them there. Escapable and inescapable shock produce the same rise in corticosterone and in adrenocorticotrophic hormone in the rat, which a theory about learning uncontrollability does not predict, and which follows from a circuit whose control-detecting arm does not reach the hypothalamus. They hold that the original theory was right that organisms are sensitive to control and wrong about which side of it is detected. These are neuroscientific claims and this page cannot weigh them; they are reported as the authors' position. The authors are not fully confident either. Their own summary is that the existing neural evidence, although strong, is not conclusive, because the experiments that activated or inhibited prelimbic neurons did so non-selectively by microinjecting drugs that act on all of them. They name the genetic tools that would settle it and say those experiments were underway in the Maier laboratory. Baratta, Seligman and Maier restated the same position in 2023. The reversal has not displaced the older framing downstream. Tafet and Ortiz Alonso, reviewing the field in 2025, cite the 2016 paper and still write that helplessness may result from a learning process.",
+    "study": {
+      "cite": "Vollmayr, B., & Gass, P. (2013). Learned helplessness: unique features and translational value of a cognitive depression model. Cell and Tissue Research, 354(1), 171-178.",
+      "doi": "10.1007/s00441-013-1654-2",
+      "year": 2013
+    }
+  },
+  "limits": "The `replicated` verdict covers the escape deficit in animals and nothing else. Vollmayr and Gass is a review rather than a single replication, and it is used here because no multi-site or preregistered replication of the triadic design was located. That search covered Crossref, PubMed, Europe PMC, Semantic Scholar, Unpaywall and general web search. Boundary conditions are well documented. Zhukov ran the shuttle box on two rat strains selected for divergent avoidance learning and found inescapable shock raised escape failures only in the high-avoidance strain, while escapable shock produced a deficit only in the low-avoidance strain. He reads the second result as coping rather than helplessness. The human depression extension is a separate claim with a separate record. Abramson, Seligman and Teasdale reformulated the theory in 1978 around the causes people assign to their own failure, and the evidence for it is mostly correlational. Sweeney, Anderson and Bailey pooled 104 studies covering nearly 15,000 subjects and report that attributing negative events to internal, stable and global causes has a reliable association with depression, though their abstract gives no effect size and the full text is paywalled and was not read. Valentine and colleagues pooled 153 studies and 177 independent samples of young people in 2024 and report a relationship in the predicted direction, large enough to be meaningful and heterogeneous across studies; that paper is paywalled and its abstract was read at Semantic Scholar, so no correlation is quoted here. The strongest prospective test located is the Temple-Wisconsin project. Alloy and colleagues followed 347 college freshmen with no initial psychiatric disorder for 2.5 years and report that those at high cognitive risk had odds of major, minor and hopelessness depression 3.5 to 6.8 times those of the low-risk group. That is one project, not a replication of it. Huang's 2015 meta-analysis of longitudinal studies in Cognitive Therapy and Research is named as existing only, because it is paywalled at Springer and nothing here is taken from it. Related constructs are covered elsewhere on this site and are not restated here: see `locus-of-control` for generalised expectancies about contingency, and `attribution-bias` for the family the reformulation's attributional style belongs to.",
+  "misreadings": "The commonest error is to file this under failed replications. It does not belong there. The 2016 paper is not a failure to reproduce the finding and does not claim to be one, and the animals still stop trying. What its authors withdrew was their own explanation. Calling it debunked reverses the correction, because the correction says the passivity is more automatic than they thought rather than less real. The second error is to run the animal work and the depression model together as one body of evidence. The shuttle box result rests on within-experiment comparison of yoked groups, the attributional model rests on questionnaires and longitudinal correlations, and a finding in one does not carry to the other. The third is the phrase itself. On the 2016 account the helplessness is not what gets learned, so the name describes the phenomenon and misdescribes its cause. The fourth is treating the neuroscience as settled because the originators endorse it. They say in the same paper that the evidence is not conclusive and name the experiments still to be done.",
+  "sources": [
+    {
+      "text": "Seligman, M. E. P., & Maier, S. F. (1967). Failure to escape traumatic shock. Journal of Experimental Psychology, 74(1), 1-9. Full text read for this entry; every figure in `evidence` is taken from it.",
+      "doi": "10.1037/h0024514",
+      "url": "http://psych.hanover.edu/Classes/Learning/papers/seligman%20maier%201967.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Overmier, J. B., & Seligman, M. E. P. (1967). Effects of inescapable shock upon subsequent escape and avoidance responding. Journal of Comparative and Physiological Psychology, 63(1), 28-33. Read from its abstract; the full text was not obtained.",
+      "doi": "10.1037/h0024166",
+      "url": "https://doi.org/10.1037/h0024166",
+      "type": "primary"
+    },
+    {
+      "text": "Maier, S. F., & Seligman, M. E. P. (2016). Learned helplessness at fifty: Insights from neuroscience. Psychological Review, 123(4), 349-367. Full text read for this entry at PubMed Central; the quoted wording was checked against the raw document.",
+      "doi": "10.1037/rev0000033",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/",
+      "type": "commentary"
+    },
+    {
+      "text": "Vollmayr, B., & Gass, P. (2013). Learned helplessness: unique features and translational value of a cognitive depression model. Cell and Tissue Research, 354(1), 171-178. Read from its abstract at PubMed.",
+      "doi": "10.1007/s00441-013-1654-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23760889/",
+      "type": "replication"
+    },
+    {
+      "text": "Zhukov, D. A. (1993). Strain-dependent escape deficit in two rat models of learned helplessness. Physiology & Behavior, 53(5), 905-909. Read from its abstract at PubMed.",
+      "doi": "10.1016/0031-9384(93)90267-J",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8511206/",
+      "type": "replication"
+    },
+    {
+      "text": "Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. Journal of Abnormal Psychology, 87(1), 49-74. Named here as the origin of the attributional model; it was not read for this entry and nothing is quoted from it.",
+      "doi": "10.1037/0021-843X.87.1.49",
+      "url": "https://doi.org/10.1037/0021-843X.87.1.49",
+      "type": "primary"
+    },
+    {
+      "text": "Sweeney, P. D., Anderson, K., & Bailey, S. (1986). Attributional style in depression: A meta-analytic review. Journal of Personality and Social Psychology, 50(5), 974-991. Read from its abstract at PubMed; the full text is paywalled and no effect size is quoted.",
+      "doi": "10.1037/0022-3514.50.5.974",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3712233/",
+      "type": "replication"
+    },
+    {
+      "text": "Alloy, L. B., Abramson, L. Y., Whitehouse, W. G., Hogan, M. E., Panzarella, C., & Rose, D. T. (2006). Prospective incidence of first onsets and recurrences of depression in individuals at high and low cognitive risk for depression. Journal of Abnormal Psychology, 115(1), 145-156. Read from its abstract at PubMed.",
+      "doi": "10.1037/0021-843X.115.1.145",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16492105/",
+      "type": "replication"
+    },
+    {
+      "text": "Valentine, J. C., Pössel, P., Alharbi, A., Gerbine, S., Utterback, L., McClure, E. B., Mustapha, T., Nzama, N., Patel, K. S., Pratt, T., Tinman, J. S., & Zarei, H. (2024). The relationship between attributional style and symptoms of depression in youth: A systematic review and meta-analysis. Journal of Social and Clinical Psychology, 43(4), 377-405. Paywalled at the publisher; the abstract was read at Semantic Scholar and checked twice, and no correlation is quoted here.",
+      "doi": "10.1521/jscp.2024.43.4.377",
+      "url": "https://doi.org/10.1521/jscp.2024.43.4.377",
+      "type": "replication"
+    },
+    {
+      "text": "Huang, C. (2015). Relation between attributional style and subsequent depressive symptoms: A systematic review and meta-analysis of longitudinal studies. Cognitive Therapy and Research, 39(6), 721-735. Named as existing only; Springer returned no readable abstract and Unpaywall lists no open copy, so nothing here is taken from it.",
+      "doi": "10.1007/s10608-015-9700-x",
+      "url": "https://doi.org/10.1007/s10608-015-9700-x",
+      "type": "replication"
+    },
+    {
+      "text": "Baratta, M. V., Seligman, M. E. P., & Maier, S. F. (2023). From helplessness to controllability: toward a neuroscience of resilience. Frontiers in Psychiatry, 14, 1170417.",
+      "doi": "10.3389/fpsyt.2023.1170417",
+      "url": "https://doi.org/10.3389/fpsyt.2023.1170417",
+      "type": "commentary"
+    },
+    {
+      "text": "Tafet, G. E., & Ortiz Alonso, T. (2025). Learned helplessness and learned controllability: from neurobiology to cognitive, emotional and behavioral neurosciences. Frontiers in Psychiatry, 16, 1600165. Read for this entry; cited for how the field describes the phenomenon after the 2016 reversal.",
+      "doi": "10.3389/fpsyt.2025.1600165",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12417506/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
