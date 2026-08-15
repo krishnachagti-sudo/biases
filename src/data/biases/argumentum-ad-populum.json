@@ -1,0 +1,114 @@
+{
+  "no": 433,
+  "slug": "argumentum-ad-populum",
+  "name": "Argumentum ad populum",
+  "aliases": ["Appeal to popularity", "Appeal to the people", "Ad populum", "Appeal to common belief", "Consensus fallacy"],
+  "category": "belief",
+  "statement": "Popularity is evidence for a claim only to the degree that the people holding it reached it independently, and most people do not check whether they did.",
+  "meaning": "This is a form of argument, not a mental slip. Its premise is that many people believe something; its conclusion is that the thing is probably true. Textbook lists file it under the fallacies. The formal literature does not, because a shared opinion carries real information when the holders arrived at it separately, and carries almost none when they copied each other. That condition is what the entry turns on. Three neighbouring entries take the parts this one leaves out. Bandwagon effect covers demand and choice rising with a visible popularity signal. Asch conformity effect covers what people say aloud when a unanimous group contradicts their own eyes. Information cascade covers the process by which a chain of rational copiers destroys the information the chain appears to carry. What is left here is whether an argument from numbers is a good argument, and whether people weigh it as though the independence condition mattered.",
+  "origin": {
+    "year": 1724,
+    "who": "Isaac Watts",
+    "where": "Logick; or, The Right Use of Reason",
+    "note": "Watts extended Locke's four ad-arguments with three more, one of them argumentum ad populum. His definition is not the modern one. Part III, chapter II, section 5 lists it under arguments distinguished by their middle terms, and defines it as an argument borrowed from topics suited to engage the inclinations and passions of the hearers rather than to convince the judgment, called ad populum when made publicly. Nothing in the passage concerns inferring truth from numbers. Watts placed it among kinds of argument, and the chapter ends by saying that a false argument is a paralogism and a false one wearing the face of a true one is a sophism, both reserved for the following chapter. Read in the second edition on the Internet Archive; Hansen's Stanford Encyclopedia survey gives 1724 for the first edition, reports that Watts did not treat these as fallacies, and traces the modern placement to Copi's 1961 textbook, which listed ad populum among the informal fallacies of relevance."
+  },
+  "evidence": "The normative half of the question is settled and unflattering to both sides of the usual argument. Condorcet's jury theorem shows that if each of n voters picks the correct one of two options with probability p greater than .5, and picks independently, the majority verdict is more accurate than any individual and approaches certainty as n grows. Independence is the load-bearing assumption. Hahn, von Sydow and Merdes quote Grofman, Owen and Feld's example: if group members have individual competence p = 0.6 but each defers to an opinion leader with probability d = 0.2, the expected accuracy of the majority is 0.6 whatever the group size, because the leader's bloc decides the vote. They also quote Ladha's generalisation, which fixes a threshold on mean interdependence below which majority accuracy still beats mean individual accuracy. Their own simulations ran naive Bayesian agents in small-world networks, each paired with a matched shadow agent that received the same evidence from the world and did no communicating, across 21 network sizes from 4 to 100 and three levels of evidence quality, 100 runs per point. Communication raised individual accuracy slightly and lowered collective accuracy in every case. Where evidence quality was lowest, p = .55, the largest communicating group ended almost 20 percentage points below its non-communicating twin. Mercier and Morin's review sets out five things that should raise the weight put on a majority: its relative and absolute size, the competence of its members, their benevolence, agreement with the recipient's priors, and their independence. On the last, the review reports that people robustly fail to discount opinions described as merely correlated, while cues naming a shared source, contact between informants or a common external pressure are taken into account. The empirical half starts with Yousif, Aboody and Keil. In their first experiment 240 participants read five fake news articles about the Japanese economy, four favourable and one not, and rated agreement from 0 to 100. A true-consensus group saw five different named experts cited. A false-consensus group saw the four favourable articles all cite the same expert. A no-consensus group read one article on each side. True consensus beat no consensus by 15 points, t(158) = 4.71, p < .001, d = 0.74. True and false consensus were separated by 2 points, t(158) = 0.69, p > .50, d = 0.12. False consensus beat no consensus by 13 points, t(158) = 4.02, p < .001, d = 0.61. Recognition tests showed participants had tracked which sources they saw in every condition. The pattern held when the secondary sources were students with no expertise to launder the claim, and when participants were made to list the sources before rating their confidence. In a fourth experiment 50% of participants said in advance that articles citing distinct sources were more believable, 16% said the repeated source was, and 33% said the two were equal, and the illusion still appeared among the 50% who had just endorsed independence. Xie and Hayes took the same question into a balls-and-urns task where informants either observed for themselves or spoke after hearing the earlier informants. Belief updating tracked the amount of evidence and ignored its dependency in the first two experiments, with up to seven informants, with accuracy incentives, and after the difference was explained. In the third, 200 participants first stated a preference: 77 chose independent testimony as the stronger evidence, 73 chose sequential, and 50 saw no difference. Only the first group updated differently for the two kinds, and their responses tracked the Whalen, Griffiths and Buchsbaum Bayesian model closely, R-squared .85, against .60 for the no-preference group and .36 for those preferring sequential testimony.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The illusion of consensus repeats where the relation between sources is left ambiguous, and it shrinks or disappears where independence is made plain. In the largest test, an independent consensus raised confidence 6.11 points more than a dependent one, 95% credible interval 2.44 to 9.73.",
+    "detail": "Connor Desai, Xie and Hayes ran four experiments testing the proposal that the illusion is a response to uncertainty about how the primary sources are related. Their abstract reports that the illusion appeared when the relation was ambiguous, and that highlighting the independence of the data sources and measuring against a no-consensus baseline produced more weight for true than for false consensus. The paper is paywalled and no number from it is quoted here. Connor Desai, Fai, Lee and Hayes then ran four further experiments with a political poll task, in which several news accounts cited either three different polling companies or the same one three times. In the first, 538 people were recruited and 507 analysed after exclusions for a failed attention check or chance-level source memory. Confidence rose in all five conditions. It rose most in the independent condition, mean change 26.19 points, 95% credible interval 23.56 to 28.87, against 20.08 points, 17.48 to 22.66, for the unexplained dependent condition. The planned comparison put the gap at 6.11 points, credible interval 2.44 to 9.73, Bayes factor 362.64. Telling participants the same poll kept reappearing because the source was known and trustworthy raised confidence by 3.57 points over no explanation, credible interval -0.06 to 7.18, Bayes factor 17.26. Telling them the repetition was an attempt to sway opinion lowered it by 1.85 points, credible interval -5.61 to 1.90, Bayes factor 3.74. An explanation that the repeated poll was simply the first published moved nothing, Bayes factor 0.76. None of the four experiments was preregistered, which the authors state. Xie and Hayes are the failure on the other side of the ledger, finding no sensitivity to dependency in two experiments and finding it in the third only among the 38.5% who had already said independent evidence was better. Yousif and colleagues themselves recorded a partial discount. When the top and bottom fifths of the confidence distribution were dropped from their third experiment, false consensus was rated below true consensus, t(94) = 2.84, p = .01, d = 0.79, while still beating no consensus. Their fifth experiment, on whether a bear had been seen on a school campus, found a 19-point gap between true and false consensus, t(158) = 4.82, p < .001, d = 0.77, because only one person can have seen the bear.",
+    "study": {
+      "cite": "Connor Desai, S., Fai, J., Lee, J., & Hayes, B. K. (2026). Explaining away the illusion of consensus. Memory & Cognition, 54(5), 1667-1687. Four experiments, none preregistered; Experiment 1 analysed 507 of 538 participants.",
+      "doi": "10.3758/s13421-025-01831-9",
+      "year": 2026,
+      "n": 507
+    }
+  },
+  "limits": "No effect size is carried in the structured fields, because the two sides of the comparison are not on one scale. Yousif and colleagues report Cohen's d on a 0 to 100 agreement rating; the Memory and Cognition experiments report posterior means and Bayesian credible intervals in points of confidence change, which are not confidence intervals and are not coerced into that field here. The stronger limit is that dependence is not the same thing as redundancy, and the entry's own normative story is too simple. Pilditch, Hahn, Fenton and Lagnado separate the structure of a dependency from what is observed across it, and prove that cases exist where a dependent structure supports a hypothesis more than an independent one does, namely where the observations are partial or where they contradict each other. Their participants, 200 recruited through Amazon Mechanical Turk in the first experiment, endorsed the assumptions the proof rests on and then judged the independent case stronger anyway. So a reasoner who discounts every shared source is wrong in a describable set of cases, and the direction of the error found in the consensus experiments is not universal. Mercier and Morin argue that participants in information cascade experiments are close to optimal rather than blind to dependency, and report Weizsäcker's meta-analysis as finding that participants reap 75% of available rewards where a perfectly optimal player would reap 76%. That figure is quoted from their review and was not read in Weizsäcker's paper. Ladha's theorem and the Grofman, Owen and Feld example are likewise quoted as Hahn, von Sydow and Merdes state them. Three papers were read only as abstracts and no number from them appears here: Connor Desai, Xie and Hayes, paywalled at Elsevier; Whalen, Griffiths and Buchsbaum, whose Bayesian model the later work tests against, blocked at Wiley and at both lab copies located; and Weaver, Garcia, Schwarz and Miller. A corrigendum to Yousif and colleagues was published in Psychological Science in 2020, and its content could not be obtained. No meta-analysis of the illusion of consensus was located in Crossref, PubMed, Europe PMC, OpenAlex or general web search. Every experiment described here is a single session with strangers, on claims the participant had no stake in.",
+  "misreadings": "The name has drifted from what it was coined for. Watts's ad populum was a public appeal to the passions of an audience, closer to what would now be called playing to the gallery, and said nothing about counting believers. The modern reading, that a claim's popularity is offered as evidence of its truth, is the one the empirical literature tests, and the two should not be cited for each other. The fallacy is also read as the claim that popularity is never evidence, which the formal results contradict. Under Condorcet's conditions a large majority of modestly competent independent judges is close to conclusive, and the argument fails on the independence clause rather than on the appeal to numbers. Confusing this entry with the bandwagon effect is the commonest error in the other direction. That literature manipulates a visible popularity signal and measures what people then choose; this one asks whether an argument from numbers is believed, and the answer turns on where the numbers came from. Asch is a third thing again, and concerns what a person says aloud when a unanimous group denies what he can see. People are not uniformly insensitive to source structure. Yousif and colleagues' bear-sighting experiment found a 19-point discount when only one person could have witnessed the event, and their conclusion is that the illusion is strongest where the claim is hard to verify. The mechanism runs in front of the argument as well as behind it. Weaver, Garcia, Schwarz and Miller report in their abstract that a familiar opinion is inferred to be a prevalent one, and that six experiments found this holds even when listeners know the repetition came from one speaker, so an audience may believe a majority exists before any argument from majority is made. Harvey and colleagues found that around 80% of the climate-denial blogs in their sample cited one blog, Susan Crockford's Polar Bear Science, as their primary source on polar bears.",
+  "sources": [
+    {
+      "text": "Watts, I. Logick: or, The Right Use of Reason in the Enquiry after Truth. Second edition, corrected. Part III, chapter II, section 5, page 311. The naming and definition of argumentum ad populum was read in the Internet Archive scan of this edition.",
+      "url": "https://archive.org/download/logickorrightuse00wattuoft/logickorrightuse00wattuoft_djvu.txt",
+      "type": "provenance"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Source for the 1724 date of Watts's Logick, for the textbook statement of the ad populum fallacy and its relation to ad verecundiam, for Watts treating his ad-arguments as kinds of argument rather than fallacies, and for Copi's 1961 placement of ad populum among the informal fallacies of relevance.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Hahn, U., von Sydow, M., & Merdes, C. (2019). How communication can make voters choose less well. Topics in Cognitive Science, 11(1), 194-206. Read as the author preprint in Birkbeck Institutional Research Online. Also the source, at one remove, for Ladha's threshold result and for the Grofman, Owen and Feld deference example.",
+      "doi": "10.1111/tops.12401",
+      "url": "https://eprints.bbk.ac.uk/id/eprint/27321/1/Hahn,%20von%20Sydow,%20&%20Merdes%20(2019)%20How%20Communication%20Can%20Make%20Voters%20Choose%20Less%20Well%20-%20Preprint.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Mercier, H., & Morin, O. (2019). Majority rules: how good are we at aggregating convergent opinions? Evolutionary Human Sciences, 1, e6. Read as the open-access PDF in the Max Planck Society repository. Source for the five conditions and, at one remove, for Weizsäcker's meta-analytic 75% figure.",
+      "doi": "10.1017/ehs.2019.6",
+      "url": "https://pure.mpg.de/rest/items/item_3066572_2/component/file_3066573/content",
+      "type": "commentary"
+    },
+    {
+      "text": "Yousif, S. R., Aboody, R., & Keil, F. C. (2019). The illusion of consensus: A failure to distinguish between true and false consensus. Psychological Science, 30(8), 1195-1204. Read as the author PDF; all statistics re-extracted from the document text.",
+      "doi": "10.1177/0956797619856844",
+      "url": "https://raboody.github.io/website/Papers/Yousif,%20Aboody%20&%20Keil%20(2019)%20-%20False%20Consensus.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Corrigendum: The illusion of consensus: A failure to distinguish between true and false consensus (2020). Psychological Science, 31(8), 1053. Not obtained; cited to record that a correction exists.",
+      "doi": "10.1177/0956797620948511",
+      "url": "https://doi.org/10.1177/0956797620948511",
+      "type": "commentary"
+    },
+    {
+      "text": "Connor Desai, S., Xie, B., & Hayes, B. K. (2022). Getting to the source of the illusion of consensus. Cognition, 223, 105023. Paywalled at Elsevier; read as the PubMed abstract, and no number from it appears on this page.",
+      "doi": "10.1016/j.cognition.2022.105023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35149359/",
+      "type": "replication"
+    },
+    {
+      "text": "Connor Desai, S., Fai, J., Lee, J., & Hayes, B. K. (2026). Explaining away the illusion of consensus. Memory & Cognition, 54(5), 1667-1687. Read as the PubMed Central full text; every figure re-extracted from the article XML.",
+      "doi": "10.3758/s13421-025-01831-9",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13407448/",
+      "type": "replication"
+    },
+    {
+      "text": "Xie, B., & Hayes, B. K. (2022). Sensitivity to evidential dependencies in judgments under uncertainty. Cognitive Science, 46(5), e13144. Read as the PubMed Central full text.",
+      "doi": "10.1111/cogs.13144",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9285361/",
+      "type": "replication"
+    },
+    {
+      "text": "Pilditch, T. D., Hahn, U., Fenton, N., & Lagnado, D. (2020). Dependencies in evidential reports: The case for informational advantages. Cognition, 204, 104343. Read as the accepted manuscript in Birkbeck Institutional Research Online.",
+      "doi": "10.1016/j.cognition.2020.104343",
+      "url": "https://eprints.bbk.ac.uk/id/eprint/40763/3/40763.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Whalen, A., Griffiths, T. L., & Buchsbaum, D. (2018). Sensitivity to shared information in social learning. Cognitive Science, 42(1), 168-187. The Bayesian model that Xie and Hayes test against. Read as the PubMed abstract only; the Wiley PDF and both lab copies located returned no document, and no number from it appears on this page.",
+      "doi": "10.1111/cogs.12485",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28608488/",
+      "type": "primary"
+    },
+    {
+      "text": "Weaver, K., Garcia, S. M., Schwarz, N., & Miller, D. T. (2007). Inferring the popularity of an opinion from its familiarity: A repetitive voice can sound like a chorus. Journal of Personality and Social Psychology, 92(5), 821-833. Read as the PubMed abstract only.",
+      "doi": "10.1037/0022-3514.92.5.821",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17484607/",
+      "type": "primary"
+    },
+    {
+      "text": "Ladha, K. K. (1992). The Condorcet jury theorem, free speech, and correlated votes. American Journal of Political Science, 36(3), 617-634. Not obtained; its threshold result is quoted here as Hahn, von Sydow and Merdes state it.",
+      "doi": "10.2307/2111584",
+      "url": "https://doi.org/10.2307/2111584",
+      "type": "commentary"
+    },
+    {
+      "text": "Harvey, J. A., van den Berg, D., Ellers, J., Kampen, R., Crowther, T. W., et al. (2018). Internet blogs, polar bears, and climate-change denial by proxy. BioScience, 68(4), 281-287. Read as the PubMed Central full text; the 80% figure was read there.",
+      "doi": "10.1093/biosci/bix133",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5894087/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
