@@ -1,0 +1,73 @@
+{
+  "no": 421,
+  "slug": "hostility-priming",
+  "name": "Hostility priming",
+  "aliases": [
+    "Assimilative trait priming",
+    "Assimilative priming",
+    "Donald paradigm",
+    "Category accessibility effect"
+  ],
+  "category": "social",
+  "statement": "Unscrambling sentences about hostile acts makes people rate an ambiguously described stranger as more hostile.",
+  "meaning": "The claim is about how an ambiguous description gets encoded. A trait category that has just been used is the one a reader reaches for, so behaviour that could be read as assertive or as aggressive gets filed under hostility. The input is a set of words in a task the participant believes is over. The output is a number on a rating scale, given minutes later, about a person in a written vignette. That output is what separates this claim from the behavioural priming covered in the social priming entry, where the primed concept is said to reach conduct. Srull and Wyer also predicted two gradients. More hostile items should mean a more hostile reading, and a longer gap between the words and the vignette should mean a weaker one.",
+  "origin": {
+    "year": 1979,
+    "who": "Thomas K. Srull and Robert S. Wyer",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is \"The role of category accessibility in the interpretation of information about persons: Some determinants and implications\", pages 1660 to 1672 of volume 37. Its abstract describes two experiments of 96 undergraduates each, one activating hostility and one activating kindness through a sentence construction task."
+  },
+  "evidence": "Srull and Wyer's abstract reports that participants built sentences from scrambled word sets, then read a description of behaviours ambiguous with respect to hostility as part of an ostensibly unrelated impression formation study, and rated the target on trait dimensions. Ratings rose with the number of prior activations of the concept and fell as the interval between those activations and the description grew. The second experiment repeated the design with kindness on 96 fresh participants. The full text was not obtained for this entry, so what follows is McCarthy and colleagues' account of Experiment 1. They describe a two by two by three by two between-participants design with four people per cell: 30 or 60 scrambled sentences, 80 percent or 20 percent of them hostile, rating immediately or after one hour or after 24 hours, and two versions of the vignette. The man in the vignette is called Donald. Participants rated him on 12 traits from 0 to 10, and six of those ratings were averaged into a hostility index after three were reverse-scored. They then rated the hostility of 15 behaviours, five of which were ambiguous and were averaged into a second index. Reading Srull and Wyer's own figures for the 30-sentence, no-delay cells, McCarthy and colleagues put the 80 percent group about three scale points above the 20 percent group on both measures: 8.57 against 5.56 for Donald, and 7.49 against 4.50 for the behaviours, with eight people on each side.",
+  "replication": {
+    "state": "failed",
+    "headline": "Twenty-two laboratories and 5,610 people moved the hostility rating by 0.08 points on an 11-point scale, against roughly three points in the original.",
+    "detail": "McCarthy and colleagues ran 26 independent replications of Experiment 1 on a preregistered protocol vetted by Wyer, collecting 7,373 participants between November 2016 and November 2017. Laboratories with fewer than 100 people per condition were excluded by a rule set in advance, leaving 22 laboratories and 5,610 participants in the primary analyses. Everyone descrambled 30 sentences, 80 percent hostile or 20 percent hostile, and rated the protagonist straight afterwards. On the protagonist the random-effects estimate was 0.08 points more hostile in the 80 percent condition, 95% confidence interval 0.004 to 0.16. The report puts that at about d = 0.06, 95% CI 0.01 to 0.12, and calculates that 4,362 people per condition would be needed to detect it with 80 percent power at alpha .05. On the ambiguous behaviours the estimate was 0.08 points less hostile, 95% CI -0.18 to 0.01, which points away from the prediction. The laboratories agreed with one another: for the protagonist ratings tau = 0.08, Q(21) = 25.31, p = .23, and I-squared 17.73 percent. Including all 26 laboratories and 6,404 participants gave 0.07, 95% CI 0.003 to 0.14, for the protagonist and -0.10, 95% CI -0.19 to -0.001, for the behaviours. The protagonist effect ran in the predicted direction at 18 of the 26 laboratories and the behaviour effect at 9. The authors' own summary is that the methods used do not produce an assimilative priming effect that is practically and routinely detectable.",
+    "study": {
+      "cite": "McCarthy, R. J., Skowronski, J. J., Verschuere, B., Meijer, E. H., et al. (2018). Registered Replication Report on Srull and Wyer (1979). Advances in Methods and Practices in Psychological Science, 1(3), 321-336.",
+      "doi": "10.1177/2515245918777487",
+      "year": 2018,
+      "sites": 22,
+      "n": 5610
+    },
+    "replicated": {
+      "es": 0.08,
+      "esType": "md",
+      "unit": "points on the 0-to-10 hostility index for the vignette's protagonist",
+      "ci": [
+        0.004,
+        0.16
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    }
+  },
+  "limits": "The replication fixed the conditions rather than sampling them. Delay was not manipulated, so the decay gradient Srull and Wyer reported went untested, and the 60-sentence conditions were left out. Several other things differed by necessity. The original descrambling items were unavailable, so new ones were written and pretested. One of the two vignettes was used, the one Srull and Wyer did not print, chosen after a norming study with Wyer's agreement. The protagonist was renamed Ronald because the 2016 United States election had loaded the name Donald. The priming and rating tasks sat inside one long booklet given to a class, rather than being staged as two studies with two researchers, and Wyer flagged that change in advance as a possible reason to expect a different result. McCarthy and colleagues answer that Srull and Wyer's 1980 follow-up used a single researcher and a two-hour packet of assorted tasks and still reported the effect. Translation does not account for the gap: 13 samples used the English materials and the rest used eight other languages, and the moderation test gave QM(1) = 0.12, p = .73 for the protagonist ratings and QM(1) = 1.36, p = .24 for the behaviours. There is also a question over the original numbers. McCarthy and colleagues report that Wyer told the action editor in August 2016 that a statistic in the 1979 article may have been reported in error, and they note that the standard deviations in the 1980 study were about six times as large with a smaller effect. Set against the replication is the published literature. DeCoster and Claypool's 2004 meta-analysis of priming effects on impression formation gives d = 0.35, 95% CI 0.30 to 0.41, a figure quoted here from the replication report, whose authors add that within that meta-analysis the larger published effects came with the less precise estimates. McCarthy and colleagues suggest within-participants designs with a brief delay as a better prospect for future work.",
+  "misreadings": "The commonest error is to file this with the behavioural priming failures. The social priming entry covers those, and the difference is the dependent variable: walking speed and trivia scores are conduct, while this paradigm asks for a number describing a person in a story. Srull and Wyer's result is also older and was treated as foundational, which is why the replication report describes it as meeting the criterion of high replication value. A second error runs the other way. Because one confidence interval excluded zero, the outcome is sometimes cited as a successful replication. That interval was 0.004 to 0.16 on an 11-point scale against an original gap of about three points, the second measure pointed the other way, and the authors' stated conclusion is negative. A third confusion is with the hostile attribution bias, which is a stable difference between people in how they read others' intentions rather than a consequence of recent exposure to words. The last one is small and worth knowing before reading the forest plots. The replication did not use Donald, because the character was renamed Ronald.",
+  "sources": [
+    {
+      "text": "Srull, T. K., & Wyer, R. S. (1979). The role of category accessibility in the interpretation of information about persons: Some determinants and implications. Journal of Personality and Social Psychology, 37(10), 1660-1672. Read here from its abstract record; the full text was not obtained, and the design detail and condition means on this page are taken from McCarthy and colleagues.",
+      "doi": "10.1037/0022-3514.37.10.1660",
+      "url": "https://alingavreliuc.wordpress.com/wp-content/uploads/2010/10/16_the-role-of-category-accessibility-in-the-interpretation-of-information-about-persons.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "McCarthy, R. J., Skowronski, J. J., Verschuere, B., Meijer, E. H., et al. (2018). Registered Replication Report on Srull and Wyer (1979). Advances in Methods and Practices in Psychological Science, 1(3), 321-336.",
+      "doi": "10.1177/2515245918777487",
+      "url": "https://wrap.warwick.ac.uk/id/eprint/110271/1/WRAP-registered-replication-report-Srull-Wyer-2018.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Srull, T. K., & Wyer, R. S. (1980). Category accessibility and social perception: Some implications for the study of person memory and interpersonal judgments. Journal of Personality and Social Psychology, 38(6), 841-856. Named from its Crossref record; its text was not read here, and what it reported is described on this page from the replication report.",
+      "doi": "10.1037/0022-3514.38.6.841",
+      "url": "https://doi.org/10.1037/0022-3514.38.6.841",
+      "type": "primary"
+    },
+    {
+      "text": "DeCoster, J., & Claypool, H. M. (2004). A meta-analysis of priming effects on impression formation supporting a general model of informational biases. Personality and Social Psychology Review, 8(1), 2-27. Closed access; the d = 0.35 figure is quoted here from the 2018 replication report.",
+      "doi": "10.1207/S15327957PSPR0801_1",
+      "url": "https://doi.org/10.1207/S15327957PSPR0801_1",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
