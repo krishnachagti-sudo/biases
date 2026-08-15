@@ -1,0 +1,84 @@
+{
+  "no": 336,
+  "slug": "minimisation",
+  "name": "Minimisation",
+  "aliases": ["Minimization"],
+  "category": "social",
+  "statement": "Minimisation is the claim that playing down the seriousness of an act changes what follows, whether the act is played down by the person who did it or by the person questioning them.",
+  "meaning": "One word carries three claims that share a verb and nothing else. In the interrogation literature it names a tactic performed on a suspect: the questioner offers sympathy, face-saving excuses and moral justification, blames a victim or an accomplice, and plays down the charge. In sex-offender treatment it names something the offender does, usually paired with denial, and it is treated both as a target of therapy and as a sign of risk. In cognitive therapy it names a distortion in which a person discounts their own good qualities, which reverses the other two in who gains from the discounting. Bollen and six colleagues list 'magnification and minimization' among twelve standard distortion types in a corpus study of historical language. Two of the three claims have been measured, and they were measured in different ways. The interrogation work is experimental, with random assignment and known ground truth. The offender work is observational, following convicted men for years and asking whether those who denied or minimised were reconvicted more often. This entry keeps them apart because their answers point in different directions.",
+  "origin": {
+    "year": 1991,
+    "who": "Saul M. Kassin and Karlyn McNall",
+    "where": "Law and Human Behavior",
+    "note": "Kassin and McNall attached the label to one of two families of tactics they read out of the Inbau interrogation manual, writing of 'what we call minimization, a \"soft-sell\" technique'. The word was already in use in writing on sexual offending. Yates cites Abel, Becker and Cunningham-Rathner in 1984 and Barbaree in 1991 for minimisation as a cognitive distortion, and neither was obtained here, so 1991 is the year of the naming that the measured interrogation work descends from rather than the first use of the word."
+  },
+  "evidence": "Kassin and McNall named the tactic and tested what it communicates. Their subjects read interrogation transcripts in which the questioner used one of five methods: a promise of leniency, a threat of punishment, minimisation, maximisation, or none of these. Maximisation communicated high sentencing expectations, as an explicit threat did, and minimisation implied low sentencing expectations, as an explicit offer of leniency did. In a third experiment mock jurors discounted a confession that followed a threat, while their conviction rate rose after confessions that followed a promise or minimisation. Russano, Meissner, Narchet and Kassin then put the tactic in front of people who had done something. Three hundred and thirty undergraduates were accused of sharing an answer on a problem they had been told to solve alone, and 296 remained after exclusions. Half had in fact shared an answer, at a confederate's request. Minimisation raised the confession rate from 34.5% to 57.4%, d = 0.57. Broken out, true confessions ran at 46% with no tactic and 81% with minimisation, and false confessions ran at 6% and 18%. Diagnosticity, the ratio of true confessions to false ones, fell from 7.67 to 4.50, and an explicit deal on top of minimisation took it to 2.02. The offender literature asks whether minimising predicts reoffending, and gets a null. Hanson and Morton-Bourgon pooled 82 recidivism studies, 1,620 findings from 29,450 sexual offenders. Denial of the sexual crime gave a mean d of .02, with a 95% confidence interval of plus or minus .17, from 9 studies and 1,780 men. Their clinical presentation category, which pools denial, minimisation, lack of victim empathy, low motivation for treatment and poor progress, gave a mean d of -.02 with an interval of plus or minus .09 for sexual recidivism, across 24 studies and 5,094 men. They file denial among what they call potentially misleading risk factors.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Minimisation in an interrogation raises confessions from the guilty and the innocent alike, though pooled estimates for the tactic on its own are imprecise, and minimisation by a convicted offender does not predict reoffending.",
+    "detail": "Catlin, Wilson, Redlich and four colleagues updated the Campbell review of interrogation experiments in 2024, covering 27 articles, 29 studies and 81 effect sizes, synthesised by random-effects network meta-analysis on the logged odds ratio. The broad contrast holds. Accusatorial conditions produced more false confessions than direct questioning, combined OR 3.03, 95% CI 1.83 to 5.02, and more than information-gathering, combined OR 4.41, 95% CI 1.77 to 10.97. Minimisation on its own does not come out cleanly. In the six-node model that separates accusatorial tactics, the one statistically significant minimisation result was information-gathering against minimisation for false confessions, combined OR 0.25, 95% CI 0.08 to 0.83, which the authors say was largely driven by the indirect estimate. They flag the model's Q statistics as raising consistency concerns and ask that it be read cautiously. They also record disagreement among the primary studies: Guyll and colleagues and Normile and Scherr found that minimisation raised confessions, and Woestehoff found no difference between minimisation and direct questioning. The recidivism side repeats more cleanly, and what repeats is a null or a reversal. Harkins, Howard, Barnett, Wakeling and Miles followed 6,891 men and found lower sexual recidivism among those who denied responsibility for the current offence, independent of static risk in a Cox regression. Nunes, Hanson, Firestone, Moulden, Greenberg and Bradford found the relation moderated by risk in a sample of 489, with denial linked to higher sexual recidivism among low-risk men and lower recidivism among high-risk men, and the interactions substantially repeated in samples of 490 and 73.",
+    "study": {
+      "cite": "Catlin, M., Wilson, D., Redlich, A. D., Bettens, T., Meissner, C., Bhatt, S., & Brandon, S. (2024). Interview and interrogation methods and their effects on true and false confessions: A systematic review update and extension. Campbell Systematic Reviews, 20(4), e1441.",
+      "doi": "10.1002/cl2.1441",
+      "year": 2024
+    }
+  },
+  "limits": "The experimental evidence is about students. Russano's participants were undergraduates accused of academic cheating, and the authors expect real confession rates to be lower where the consequences are criminal. Every study in the Campbell review used mock suspects, and most were run in the United States on college samples. The offender evidence has the opposite shape. It is field data on convicted men with no random assignment, so denial and risk are entangled with everything else about a case. Hanson and Morton-Bourgon's variable is denial of the sexual crime, and their pooled clinical presentation category mixes minimisation with four other things. Harkins scored denial as failure to accept responsibility for the current offence on the Offender Assessment System. None of these is a measure of minimisation on its own. Two of the three senses of the word came back empty. Searches for minimisation as a coping strategy, and for the cognitive-therapy distortion, found the terms in wide use and no study measuring either as such. Those searches covered Europe PMC by phrase and across open-access full text, Crossref, and general web search, in English only. Beck's 1963 paper is the one usually credited with the distortion list; its DOI resolves and its text was not obtained here, so nothing is said about what it contains. Kassin and McNall's paper is a scan with no text layer, read here by optical character recognition of its first and third pages, which is why the account of it above is qualitative and carries no number from it. Barbaree's 1991 paper on denial and minimisation, Abel and colleagues in 1984, and Marshall's 1994 study of treatment effects on denial and minimisation were not obtained, and are named here only as Yates cites them.",
+  "misreadings": "The commonest error is to file minimisation under false confessions. It raises true confessions as well, and by more in percentage points: in Russano's data the guilty went from 46% to 81% and the innocent from 6% to 18%. The complaint against the tactic is not that it fails to work. It is that it works on the innocent too, so the confession it produces carries less information about guilt than one obtained without it. The second error is to read one word as one thing. The interrogator's minimisation is done to a suspect by someone who wants a confession. The offender's minimisation is done by the person who committed the act. The cognitive-therapy sense is a person discounting their own achievements. A finding about any one of these is not a finding about the others. The third is to take the recidivism null as a verdict on treatment or on honesty. Hanson and Morton-Bourgon suggest that resistance to being labelled a sexual offender may not raise risk while still creating barriers to engagement in treatment, and they note that offenders who minimise their crimes are at least indicating that sexual offending is wrong. Nunes and colleagues found the sign of the relation flipping between low-risk and high-risk men, so a pooled d near zero can hide two opposite effects. The fourth is to treat the Campbell review as a clean confirmation of Russano. Its firm results are for accusatorial interrogation as a family, which bundles minimisation together with evidence ploys and maximisation. Where the review pulls them apart, the minimisation estimates rest on few effect sizes and the authors ask for caution.",
+  "sources": [
+    {
+      "text": "Kassin, S. M., & McNall, K. (1991). Police interrogations and confessions: Communicating promises and threats by pragmatic implication. Law and Human Behavior, 15(3), 233-251. Citation verified at Crossref. The scanned PDF at the first author's site has no text layer; its abstract and page 235 were read here by optical character recognition, and the description of the three experiments above comes from those two pages.",
+      "doi": "10.1007/BF01061711",
+      "url": "https://saulkassin.org/wp-content/uploads/2024/07/Kassin_McNall_1991.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Russano, M. B., Meissner, C. A., Narchet, F. M., & Kassin, S. M. (2005). Investigating true and false confessions within a novel experimental paradigm. Psychological Science, 16(6), 481-486. Read in full as text extracted from the PDF at the fourth author's site. The source for every confession rate and diagnosticity figure above.",
+      "doi": "10.1111/j.0956-7976.2005.01560.x",
+      "url": "https://saulkassin.org/wp-content/uploads/2024/07/Russano_et_al_05.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Catlin, M., Wilson, D., Redlich, A. D., Bettens, T., Meissner, C., Bhatt, S., & Brandon, S. (2024). Interview and interrogation methods and their effects on true and false confessions: A systematic review update and extension. Campbell Systematic Reviews, 20(4), e1441. Read in full at PubMed Central. The source for the network meta-analysis figures and for the disagreement among primary studies.",
+      "doi": "10.1002/cl2.1441",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11465838/",
+      "type": "review"
+    },
+    {
+      "text": "Hanson, R. K., & Morton-Bourgon, K. E. (2005). The characteristics of persistent sexual offenders: A meta-analysis of recidivism studies. Journal of Consulting and Clinical Psychology, 73(6), 1154-1163. Read in full as text extracted from the copy hosted by the International Centre for Missing and Exploited Children. The source for the denial and clinical presentation effect sizes and for the two quoted suggestions about what a null there means.",
+      "doi": "10.1037/0022-006X.73.6.1154",
+      "url": "https://www.icmec.org/wp-content/uploads/2015/10/Characteristics-of-Persistent-Sex-Offenders-Meta-Analysis-of-Recidivism-2005.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Harkins, L., Howard, P., Barnett, G., Wakeling, H., & Miles, C. (2015). Relationships between denial, risk, and recidivism in sexual offenders. Archives of Sexual Behavior, 44(1), 157-166. Citation verified at Crossref, which dates the online publication 9 August 2014. The abstract was read at Europe PMC and the full text was not obtained.",
+      "doi": "10.1007/s10508-014-0333-z",
+      "url": "https://europepmc.org/article/MED/25107592",
+      "type": "primary"
+    },
+    {
+      "text": "Nunes, K. L., Hanson, R. K., Firestone, P., Moulden, H. M., Greenberg, D. M., & Bradford, J. M. (2007). Denial predicts recidivism for some sexual offenders. Sexual Abuse, 19(2), 91-105. Citation verified at Crossref, which also carries a second DOI, 10.1007/s11194-007-9041-8, for the same article and pages. The abstract was read at Europe PMC and the full text was not obtained.",
+      "doi": "10.1177/107906320701900202",
+      "url": "https://europepmc.org/article/MED/17534714",
+      "type": "primary"
+    },
+    {
+      "text": "Yates, P. M. (2009). Is sexual offender denial related to sex offence risk and recidivism? A review and treatment implications. Psychology, Crime & Law, 15(2-3), 183-199. Read in full. Cited for the range of things counted as denial in this literature and as the source of the pointers to Abel and colleagues in 1984, Barbaree in 1991 and Marshall in 1994, none of which was obtained.",
+      "doi": "10.1080/10683160802190905",
+      "url": "https://dam.assets.ohio.gov/image/upload/v1715741859/opd.ohio.gov/Defense%20Training/2024%20Youth%20Defense%20Leadership%20Summit/Wednesday/2009_Yates_Is_SO_Denial_Related_to_SO_Risk_and_Recid_A_Review_ofthe_Lit_and_Tx_Implications.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Bollen, J., ten Thij, M., Breithaupt, F., Barron, A. T. J., Rutter, L. A., Lorenzo-Luaces, L., & Scheffer, M. (2021). Historical language records reveal a surge of cognitive distortions in recent decades. Proceedings of the National Academy of Sciences, 118(30), e2102061118. Read in full at Europe PMC. Cited only for its list of twelve cognitive distortion types, which includes magnification and minimization, and not as evidence about the distortion.",
+      "doi": "10.1073/pnas.2102061118",
+      "url": "https://europepmc.org/articles/PMC8325314",
+      "type": "primary"
+    },
+    {
+      "text": "Beck, A. T. (1963). Thinking and depression. Archives of General Psychiatry, 9(4), 324. Citation verified at Crossref. Named here as the paper usually credited with the cognitive distortion list; it was not obtained, and nothing above is stated about its contents.",
+      "doi": "10.1001/archpsyc.1963.01720160014002",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
