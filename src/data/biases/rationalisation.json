@@ -1,0 +1,86 @@
+{
+  "no": 335,
+  "slug": "rationalisation",
+  "name": "Rationalisation",
+  "aliases": ["Rationalization", "Post-hoc justification", "Post hoc rationalisation"],
+  "category": "social",
+  "statement": "The reasons a person gives for a judgement are said to be built after the judgement was reached, to justify it rather than to explain it.",
+  "meaning": "The claim is about the order of events inside one head. A judgement arrives, and the reasoning that follows is recruited to defend it. Ernest Jones put it as a felt need for a theory of oneself: nobody admits to an irrational act, so the act is fitted with a plausible reason. Jonathan Haidt turned the same idea into a testable model of moral judgement, in which intuition comes first and reasoning is a lawyer's brief written afterwards. The experimental case in this entry is moral dumbfounding, because that is where the claim has been tested and argued over. Two neighbouring entries carry evidence that is often lent to rationalisation and is not repeated here. Choice blindness, in which the outcome of a choice is switched and the person explains the option they rejected, belongs to confabulation. The claim that acting against a belief changes the belief belongs to cognitive dissonance. Rationalisation as stated above is narrower than either: it says the reason follows the verdict, not that the verdict moves.",
+  "origin": {
+    "year": 1908,
+    "who": "Ernest Jones",
+    "where": "The Journal of Abnormal Psychology",
+    "note": "Jones's nine-page essay names the mechanism and contains no data. Its examples are a man raised among Baptists who reviews the evidence and converts to the belief he already held, and the continued prescription of valerian for hysteria after the reason for prescribing it was abandoned. Jones split false explanations into 'evasions', made for oneself, and 'rationalisations', made for one's circle, then wrote that one term would probably serve for both. He presents the principle as Freud's rather than his own. The modern experimental claim is separate and dates from Haidt's 2001 review."
+  },
+  "evidence": "Haidt's review states the hypothesis in one line: moral reasoning is usually a post hoc construction, generated after a judgment has been reached. It contains no new experiments. Its illustration is the Julie and Mark vignette, in which siblings on holiday have sex once, using two forms of contraception, and keep it secret. Haidt writes that on being asked to justify their condemnation people become a lawyer building a case rather than a judge searching for the truth, and end up saying they cannot explain it. The study behind that description is Haidt, Björklund and Murphy's, cited in the review as an unpublished manuscript of the University of Virginia. It ran 30 participants. It has never appeared in peer-reviewed form, and later authors report that it names no measure by which a participant counts as dumbfounded. The first published attempt to elicit the effect is McHugh and colleagues' four studies, combined N = 276. In their interview study of 31 people, dumbfounded responses were recorded for 58.06% on Incest and 35.48% on Cannibal, against 9.68% on Trolley and none on Heinz, and dumbfounded responding was more common on the two intuition scenarios than on the two reasoning scenarios, 29 instances against three, chi-square(2, N = 124) = 38.17, p < .001. Moving the task to a computer, they recorded 20% dumbfounding in a college sample of 72 and 16% in an MTurk sample of 101, rising to 32% and 24% when unsupported declarations written into open-ended answers were counted.",
+  "replication": {
+    "state": "mixed",
+    "headline": "People do say they have no reason, and a preregistered study of 1,686 raises the rate under cognitive load. Whether that means the judgement came first is disputed: applying Royzman's screens for belief about harm, the incidence falls to one person in 53.",
+    "detail": "Royzman, Kim and Leeman argue the vignette does not do what it is supposed to do, because participants do not accept it as harmless. Asked how believable the story's harm-negating clauses were, 24 undergraduates rated the claim that the siblings' relationship would be unaffected at 24.75 on a 0 to 100 scale, 95% CI [11.56, 37.93], and the claim of no personal consequences at 20.00, 95% CI [9.22, 30.77]. In their interview study of 28, they reproduced the classic pattern: 21 disapproved, none reversed after the counterargument, and 15 endorsed a declaration of having no reason. All 21 also reported disbelieving the harm-negating clauses. Their third study screened 53 people for both belief in harmlessness and the view that a harmless act cannot be condemned. Fourteen passed, four of those disapproved, and one maintained the disapproval in the stubborn and puzzled manner the definition requires, an incidence of 1 in 53 or 1.88%, not significantly above zero, z = 1.00, p = 0.32. McHugh and colleagues answered that endorsing a principle when asked is not evidence that the judgement rests on it, and that Royzman's screen therefore excludes people who are dumbfounded. In their sample of 502, 88 people, 17.53%, gave the dumbfounded response. Royzman's screen left 84 eligible, of whom nine were dumbfounded; requiring participants to state a principle unprompted as well as endorse it left 294 eligible and 52 dumbfounded, 17.69%. The same screen excluded 52.80% of those who saw nothing wrong, against 5.60% under the revised one. The largest test is preregistered. McHugh and colleagues put 1,686 UK and US participants through the task with and without a secondary video-monitoring load. Dumbfounded responses rose from 20% to 29.66% and reasons fell from 66.74% to 55.45%, chi-square(2, N = 1686) = 25.48, p < .001, Cramér's V = 0.12. Judgements themselves did not shift. The task also travels: dumbfounded responding was found in Chinese (N = 165), Indian (N = 181) and mostly North African and Middle Eastern (N = 264) samples, with 256 of 513 participants giving at least one dumbfounded response.",
+    "study": {
+      "cite": "McHugh, C., McGann, M., Igou, E. R., & Kinsella, E. L. (2023). Cognitive load can reduce reason-giving in a moral dumbfounding task. Collabra: Psychology, 9(1), 73818.",
+      "doi": "10.1525/collabra.73818",
+      "year": 2023,
+      "n": 1686
+    }
+  },
+  "limits": "The claim is general and the evidence is not. Every study cited above uses moral judgement of a small set of taboo vignettes, most often one about sibling incest, and the strongest results sit on that one scenario. In the preregistered load study the association between load and response held for every scenario apart from Julie and Mark. Nothing here measures whether an ordinary non-moral decision is explained after the fact, and the work that does bear on that question sits under confabulation. The dispute is about a definition as much as about data, since Royzman and McHugh disagree over who counts as having a reason, and each screen produces the incidence its authors expect. The effects are frequencies rather than differences on a scale, so there is no d or r to quote on either side, and the largest reported association is Cramér's V = 0.12. Nothing in Jones's paper is evidence of anything; it is an essay with anecdotes. Searches ran across Crossref, DataCite, PubMed, the Journal of Judgment and Decision Making archive, the Open Science Framework and the open web. Royzman and colleagues' three studies, McHugh and colleagues' 2017 and 2020 papers, and the authors' posted manuscripts of the load study and the non-Western study were read in full. The published version of the load study was blocked at the publisher, so its figures are read from the authors' preprint, which reports the same preregistered study as its sixth; the preprint's other five studies were not preregistered and gave mixed support. Haidt's 2001 paper was read from a posted copy whose scan carries the abstract, the opening and the closing pages, and the passages quoted here come from those. The 2000 manuscript by Haidt, Björklund and Murphy was not located in any form, so its sample of 30 and its 12% rate of changed judgements are reported as McHugh and colleagues report them.",
+  "misreadings": "Choice blindness is offered as the proof of rationalisation. Switching a chosen face or jam for the rejected one, and watching people defend the switch, is powerful evidence that a stated reason need not track the choice, and it is covered in this corpus under confabulation. It is a different experiment from the one this entry rests on, and the two literatures barely cite each other. The second misreading treats moral dumbfounding as a demonstration that people have no reasons. What is measured is that they select an option saying they cannot think of one, under questioning, after their first answers were rebutted. Royzman and colleagues' participants who said that reported, on separate probes, that they did not believe the story's assurances about harm. The third credits the term to Freud. Jones coined it in print, and his essay attributes the underlying principle to Freud while introducing the word alongside a second one, 'evasion', that did not survive. The fourth cites Haidt's 2001 review as an experiment. It is a review, and the study it describes was never published or peer reviewed, and ran 30 people.",
+  "sources": [
+    {
+      "text": "Jones, E. (1908). Rationalization in every-day life. The Journal of Abnormal Psychology, 3(3), 161-169. Read as the author's own reprint, chapter II of Papers on Psycho-Analysis (1918), pages 8 to 16; the source for the evasion and rationalisation distinction and for the Baptist and valerian examples.",
+      "doi": "10.1037/h0070692",
+      "url": "https://archive.org/download/papersonpsychoan00jone/papersonpsychoan00jone_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. Psychological Review, 108(4), 814-834. Read from a posted scan covering the abstract, the opening and the closing pages; the source for the post hoc construction wording and the lawyer and judge contrast.",
+      "doi": "10.1037/0033-295X.108.4.814",
+      "url": "https://e-docs.eplo.int/phocadownloadpap/userupload/aportinou-eplo.int/The%20Emotional%20Dog%20and%20its%20Rational%20Tail.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "McHugh, C., McGann, M., Igou, E. R., & Kinsella, E. L. (2017). Searching for moral dumbfounding: Identifying measurable indicators of moral dumbfounding. Collabra: Psychology, 3(1), 23. Read in full from the accepted manuscript in the Mary Immaculate College repository; the source for the combined N of 276 and the per-scenario rates.",
+      "doi": "10.1525/collabra.79",
+      "url": "https://dspace.mic.ul.ie/handle/10395/2116",
+      "type": "replication"
+    },
+    {
+      "text": "Royzman, E. B., Kim, K., & Leeman, R. F. (2015). The curious tale of Julie and Mark: Unravelling the moral dumbfounding effect. Judgment and Decision Making, 10(4), 296-313. Read in full at the journal; the source for the believability ratings and for the 1 in 53 estimate.",
+      "doi": "10.1017/s193029750000512x",
+      "url": "https://journal.sjdm.org/15/15405/jdm15405.html",
+      "type": "critique"
+    },
+    {
+      "text": "McHugh, C., McGann, M., Igou, E. R., & Kinsella, E. L. (2020). Reasons or rationalizations: The role of principles in the moral dumbfounding paradigm. Journal of Behavioral Decision Making, 33(3), 376-392. Read in full from the authors' posted manuscript; the source for the exclusion-criteria comparison and the 502-person study.",
+      "doi": "10.1002/bdm.2167",
+      "url": "https://osf.io/pcsfj/download",
+      "type": "replication"
+    },
+    {
+      "text": "McHugh, C., McGann, M., Igou, E. R., & Kinsella, E. L. (2023). Cognitive load can reduce reason-giving in a moral dumbfounding task. Collabra: Psychology, 9(1), 73818. The published version was blocked at the publisher; its abstract was read at Crossref and its preregistered study read in full as study 6 of the authors' preprint, listed next.",
+      "doi": "10.1525/collabra.73818",
+      "url": "https://doi.org/10.1525/collabra.73818",
+      "type": "replication"
+    },
+    {
+      "text": "McHugh, C., McGann, M., Igou, E. R., & Kinsella, E. L. (2019). Cognitive load reduces reason-giving in a moral dumbfounding task. PsyArXiv preprint. Read in full; the source for every figure quoted from the preregistered study of 1,686, and for the statement that the other five studies were not preregistered.",
+      "doi": "10.31234/osf.io/e5gj7",
+      "url": "https://osf.io/e5gj7/download",
+      "type": "replication"
+    },
+    {
+      "text": "McHugh, C., Zhang, R., Karnatak, T., Lamba, N., & Khokhlova, O. (2023). Just wrong? Or just WEIRD? Investigating the prevalence of moral dumbfounding in non-Western samples. Memory & Cognition, 51(5), 1043-1060. Read in full from the authors' posted pre-proof; the source for the three non-Western samples.",
+      "doi": "10.3758/s13421-022-01386-z",
+      "url": "https://osf.io/zxfbj/download",
+      "type": "replication"
+    },
+    {
+      "text": "Mercier, H., & Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory. Behavioral and Brain Sciences, 34(2), 57-74. Named from its Crossref record as the best-known theoretical successor to the post hoc claim; not read for this entry, and no figure here comes from it.",
+      "doi": "10.1017/S0140525X10000968",
+      "url": "https://doi.org/10.1017/S0140525X10000968",
+      "type": "review"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}

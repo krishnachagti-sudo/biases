@@ -1,0 +1,69 @@
+{
+  "no": 345,
+  "slug": "quantification-bias",
+  "name": "Quantification bias",
+  "aliases": [
+    "Quantification fixation",
+    "Quantitative fallacy",
+    "Measurability bias"
+  ],
+  "category": "decision",
+  "statement": "Numbers carry more weight in a choice than attributes nobody has put a number on, so which dimension happens to be quantified moves the decision.",
+  "meaning": "Tricia Wang coined the phrase in a 2016 talk and defined it there as the unconscious belief of valuing the measurable over the immeasurable. Her version of the claim is cultural. Organisations build their systems around what they can count, so what they cannot count falls out of view, and nobody notices holding the belief. A narrower use of the same two words appears in risk research, where Max Boholm applies quantification bias to the overestimation of quantification's importance in defining the concept of risk. Neither author ran a study on how people decide. The testable core of the claim is a comparison: hold two attributes fixed, put a number on one of them, swap which one, and see whether the choice moves. That experiment exists, under a different name and by authors who cite neither of them.",
+  "origin": {
+    "year": 2016,
+    "who": "Tricia Wang",
+    "where": "TEDxCambridge",
+    "note": "Wang used the phrase in a talk recorded on 29 September 2016 and posted by TED in July 2017, defining it in the transcript as 'the unconscious belief of valuing the measurable over the immeasurable'. She presented no study. Claire Maiers's 2018 conference paper attributes the term to Wang and is the sole reference behind the bias's line in Wikipedia's list of cognitive biases; that paper argues ethnographers produce predictions in their own right and reports no experiment. Max Boholm reached the same two words in Risk Analysis in 2019 for a narrower claim. Wang's earlier essay on thick data could not be retrieved, so whether the phrase appears there is unchecked."
+  },
+  "evidence": "The claim has been tested under the name quantification fixation. Linda Chang, Erika Kirgios, Sendhil Mullainathan and Katherine Milkman ran 21 preregistered experiments, 8 in the main text with 9,303 participants and 13 in the supplement with 13,936. Each gave people two options trading off two attributes and randomised which attribute appeared as a number and which as a bar graph, an icon row or a word. Choosing between hotels, 51.6% picked the higher rated and pricier one when the rating carried the number, against 33.0% when the price did, χ²(1) = 34.68, P < 0.001, h = 0.379. Hiring a real Prolific worker for cash, 66.5% picked the candidate with the better maths score when maths was quantified, against 54.5% when the angles score was. Maths predicted the bonus task better, so the angles-quantified group earned 6% less, $0.26 against $0.28, t(996.41) = 3.49, P < 0.001. Choosing which charity received a real $1, 701 people tested in person split 56.7% against 41.4%, t(697) = 4.09, P < 0.001. A nationally representative sample of 602 US adults split 56.0% against 25.9%, χ²(1) = 55.22, P < 0.001, h = 0.623. Boholm's evidence is of another kind, and his abstract is all that could be read of it. He counted over 16,000 uses of the noun risk across four Swedish and English corpora in 14 samples, and reports the word mostly used without a quantity attached, and seldom with a numeral even when quantified.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication of quantification bias was located, because neither Wang nor Boholm ran a study that could be repeated. The nearest measurement is quantification fixation, 21 preregistered experiments from one team that no independent group has yet repeated."
+  },
+  "limits": "Crossref, Europe PMC, Semantic Scholar, Unpaywall, the Wikipedia list article's own reference and the open web were searched for an experiment testing Wang's claim under her name. The terms were quantification bias, quantification fixation, quantitative fallacy, measurability bias and the McNamara fallacy, and none of them turned one up. In the biomedical databases the phrase means something else, an assay reading a concentration too high or too low, and all 523 Europe PMC hits were of that kind. Chang and colleagues' evidence is bounded in ways the slogan is not. Their fourth experiment attenuated the effect by making the numbers harder to compare, 51 out of 68 in place of 75 out of 100. The interaction was b = -0.148, 95% CI [-0.221, -0.075], t(1,996) = -3.99, P < 0.001, and under that manipulation the main effect did not appear. Susceptibility tracked how comfortable people said they were with numbers, P = 0.005, and not how well they handled them, P = 0.842. The authors expect contexts where the effect reverses, naming moral tradeoffs and choices between romantic partners, and tested none of them. Their field test on Facebook and Instagram drew 236 of a targeted 1,000 users and reached P = 0.065. Semantic Scholar records seven papers citing the work and none is a replication. Boholm's paper is paywalled at Wiley with no open copy listed by Unpaywall, so the counts above come from its abstract, and O'Mahony's is read from its abstract too.",
+  "misreadings": "A 2020 conference paper titled 'Vague Visualizations to Reduce Quantification Bias in Shared Medical Decision Making' measures no such bias. Its study showed 88 respondents blurred, noisy and transparent images and asked what probability each stood for, and its finding is that low values were overestimated and high ones underestimated. Nothing in it sets a quantified attribute against an unquantified one. Boholm's quantification bias is not a bias in people either. It is his charge against risk theory, which defines risk as a quantity while ordinary use of the word mostly is not quantitative. The McNamara fallacy is treated as the same thing already measured. Seamus O'Mahony's 2017 paper describes it in medicine as over-reliance on metrics, summarised as 'if it cannot be measured, it is not important', and argues the case from hospital mortality data and NHS targets rather than testing it. The assumed mechanism is wrong as well. Chang and colleagues asked whether quantifying an attribute makes people call it more important, and it does not: 72.4% named cost the more important attribute when cost carried the number, and 76.4% did when commute time carried it, P = 0.356. Quantification on its own does not move choices. With both attributes as numbers 27.9% picked the higher-advancement employee, with neither as a number 32.7%, and the gap did not reach significance at P = 0.104. Quantifying one attribute alone shifted the same choice to 44.2% or to 21.8%, depending which. The asymmetry does the work, not the numbers. Wang's account of Nokia rejecting her fieldwork is her own, and no independent record of it was located.",
+  "sources": [
+    {
+      "text": "Wang, T. (2016). The human insights missing from big data. TEDxCambridge, recorded 29 September 2016, posted by TED July 2017. Transcript read from the TED site. Source for the coinage and for the definition quoted here.",
+      "url": "https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript",
+      "type": "primary"
+    },
+    {
+      "text": "Maiers, C. (2018). Reading the Tea Leaves: Ethnographic Prediction as Evidence. Ethnographic Praxis in Industry Conference Proceedings, 2018(1), 351-363. Full text read from the copy EPIC hosts. Source for the attribution of the term to Wang, and the single citation behind the bias's entry in Wikipedia's list of cognitive biases.",
+      "doi": "10.1111/1559-8918.2018.01212",
+      "url": "https://www.epicpeople.org/ethnographic-prediction-evidence/",
+      "type": "primary"
+    },
+    {
+      "text": "Chang, L. W., Kirgios, E. L., Mullainathan, S., & Milkman, K. L. (2024). Does counting change what counts? Quantification fixation biases decision-making. Proceedings of the National Academy of Sciences, 121(46), e2400215121. Full text read from the Europe PMC copy. Source for every experimental figure on this page. The paper uses neither the phrase quantification bias nor Wang's or Boholm's work.",
+      "doi": "10.1073/pnas.2400215121",
+      "url": "https://europepmc.org/articles/PMC11572960",
+      "type": "primary"
+    },
+    {
+      "text": "Boholm, M. (2019). Risk and Quantification: A Linguistic Study. Risk Analysis, 39(6), 1243-1261. Paywalled at Wiley and listed as closed by Unpaywall; read from the abstract at PubMed and at Crossref, which agree. Source for the second, narrower use of the term.",
+      "doi": "10.1111/risa.13258",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30586167/",
+      "type": "primary"
+    },
+    {
+      "text": "Assale, M., Bordogna, S., & Cabitza, F. (2020). Vague Visualizations to Reduce Quantification Bias in Shared Medical Decision Making. Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 209-216. Full text read from the copy Semantic Scholar hosts. Cited here for what its user study does and does not measure.",
+      "doi": "10.5220/0008969802090216",
+      "url": "https://pdfs.semanticscholar.org/48ea/1599e6faf3008d64b6e0ead8019aaa95d537.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "O'Mahony, S. (2017). Medicine and the McNamara fallacy. Journal of the Royal College of Physicians of Edinburgh, 47(3), 281-287. Read from the abstract at PubMed; no open full text was reachable at the publisher, at the college or through the DOAJ record Semantic Scholar lists.",
+      "doi": "10.4997/jrcpe.2017.315",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29465108/",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, List of cognitive biases, wikitext read 15 August 2026. The line for quantification bias carries one reference, Maiers 2018, and points to the McNamara fallacy. Used to find that reference, not as evidence for anything on this page.",
+      "url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
