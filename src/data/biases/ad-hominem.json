@@ -1,0 +1,96 @@
+{
+  "no": 404,
+  "slug": "ad-hominem",
+  "name": "Ad hominem",
+  "aliases": ["Argumentum ad hominem", "Argument against the person", "Personal attack fallacy", "Abusive ad hominem", "Circumstantial ad hominem", "Tu quoque"],
+  "category": "belief",
+  "statement": "Attacking the arguer instead of the argument shifts belief in the claim, and attacks on a scientist's motives moved attitudes as much as attacks on the evidence.",
+  "meaning": "Three moves travel under this name. The abusive variant says a position should be rejected because its holder has some discreditable property. The circumstantial variant says the holder's situation, usually a conflict of interest, explains the position better than the evidence does. The tu quoque says the holder does not follow their own advice. Textbooks call all three fallacies because a speaker's character has no logical bearing on whether a claim is true. That description is incomplete in two directions. Most of what anyone believes rests on somebody's say-so, so evidence about a source bears on the premises a listener is being asked to take on trust, and argumentation theorists now accept that some personal attacks are legitimate on exactly that ground. In the other direction, whether an attack is licensed says nothing about whether it works. The experimental literature measures the second question, and the answer is that people move, by amounts comparable with the effect of being told the underlying study was flawed.",
+  "origin": {
+    "year": 1690,
+    "who": "John Locke",
+    "where": "An Essay Concerning Human Understanding",
+    "note": "Locke listed argumentum ad hominem third among four ways men press each other in debate, and defined it as pressing 'a man with consequences drawn from his own principles or concessions'. That is arguing from the opponent's own commitments, not attacking their character, and Locke wrote that the argument 'is already known under the name'. The passage was read at the end of the chapter 'Of Reason' in the Project Gutenberg transcription, which states it follows the second edition. The date of 1690 for the Essay, and the reading that all three modern variants are post-Lockean, are taken from Hans Hansen's Stanford Encyclopedia entry on fallacies, which also reports that Finocchiaro found the term in Galileo more than half a century earlier."
+  },
+  "evidence": "The largest experiment on whether the attack works is Barnes and colleagues, run twice. Participants read science claims attributed to named researchers, each claim followed by one of six kinds of extra information, and rated their attitude to the claim on a six-point scale from strongly favour to strongly oppose. Scores were expressed as differences from the mean attitude to the same claim presented alone. Experiment 1 kept 439 of 480 undergraduates. The type of information mattered, F(5, 2190) = 25.4, p < .001, eta squared = .06. Being told the study lacked a control group or was otherwise flawed moved attitude by -.63, d = .44. Being told the researcher had fabricated data in the paper at issue moved it by -.70, d = .51. Being told the researcher had fabricated data in an earlier, unrelated paper moved it by -.79, d = .58. Being told the researcher was a paid consultant for the company whose product was at issue moved it by -.59, d = .41. Those four conditions did not differ from one another. The two attacks on competence did nothing. Being told the researcher's doctorate came from an institution with low standards gave -.07, p = .3, and being told peers considered them sloppy gave -.15, p = .022, neither surviving the Bonferroni-corrected alpha of .008. Experiment 2 ran the same materials on 199 adults from an opt-in national panel, aged 23 to 83 across 39 states. It reproduced every part of the pattern: empirical -.57 d = .39, misconduct in the paper -.67 d = .50, past misconduct -.93 d = .65, conflict of interest -.83 d = .58, education -.07 and sloppy -.12 both null. The authors had predicted that combining an attack on the researcher with an attack on the data would beat either alone, and that the strictly personal attacks would move people least. Neither prediction held. Bhatia and Oaksford asked a different question of the same argument forms. They took van Eemeren's dialogues and, instead of asking how reasonable the reply was, asked 142 participants to rate how convinced a third party should be by a claim before and after hearing a personal attack on its source. Belief fell in all twelve cells of the design. The smallest movement was the abusive attack in a scientific setting, where the rating fell from .86 to .79, a difference of .07 with a 95% highest density interval of .040 to .101. The control condition, in which the disputed conclusion was itself about the source's integrity, moved belief by .21 against .10 for the abusive attack, .137 for the circumstantial and .138 for the tu quoque. Which variant bit hardest depended on the subject under discussion. In the political dialogues the tu quoque was strongest at .24, and in the scientific dialogues the circumstantial, which carries a conflict of interest, was strongest at .17. Harris, Hsu and Madsen tested whether the size of the shift tracks probability. They used the ad Hitlerum, a policy attacked by association with Hitler, and derived predictions with no free parameters from participants' own conditional probabilities. Across five topics the Bayesian prediction correlated with mean posterior ratings at radj(3) = .94 in a first experiment of 61 people, though the mean within-participant correlation was only .24. A third experiment replaced Hitler with a fictional alien ruler and gave 725 participants explicit frequencies. Predictions from those stated frequencies correlated with mean ratings at r(18) = .88, and predictions from participants' own subjective likelihoods at r(18) = .92. The normative judgement runs the other way from the behaviour. Van Eemeren, Meuffels and Verburg gave Dutch secondary pupils 48 dialogues, 36 containing a freedom-rule violation and 12 not, and asked how reasonable the reply was on a seven-point scale. Fallacious replies averaged 3.75 and non-fallacious ones 5.29. The direct personal attack was judged least reasonable, then the indirect, then the tu quoque, and all three fared worst in a scientific setting. Prevalence depends almost entirely on moderation. Habernal and colleagues obtained the complete Reddit ChangeMyView archive including deleted comments, about 2 million posts in 32,000 submissions, and found 3,866 moderator-flagged ad hominem arguments, 0.2% of posts. Patel, Mukherjee and Mondal ran a classifier over 264,814 comments from the unmoderated forum CreateDebate and estimated 31.23%, rising to 37.03% in the politics sections.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Barnes's second experiment repeated the first on a general adult sample and got the same ordering, including the finding that alleging a conflict of interest damages a claim as much as alleging fabricated data or a broken design. The reasonableness result has been repeated in Dutch and twice in Spanish, and a belief-change version by a different group reproduced the effect while overturning its interpretation.",
+    "detail": "The replication is internal to Barnes and colleagues. Experiment 1 used 439 psychology undergraduates, Experiment 2 used 199 adults recruited through a survey firm, and the same six conditions produced the same three-way split: attacks on integrity and motive, attacks on the data, and attacks on competence that did nothing. Conflict of interest gave d = .41 in the students and d = .58 in the adults, and in both experiments no reliable difference separated it from the flawed-methodology condition. Van Eemeren, Garssen and Meuffels report four repetitions of the reasonableness study. A shortened Dutch version with 24 respondents recovered the ordering, with the tu quoque at 3.82, the circumstantial at 3.47 and the abusive at 2.99, and fallacious moves at 3.43 against 5.27 for non-fallacious ones. A split-sample design with 75 respondents recovered it again. Two Spanish translations, with 47 and 29 participants, put fallacies at 3.54 and non-fallacies at 4.97, with the same ordering of the three variants. The one departure was that Spanish respondents did not rate fallacies in a domestic setting differently from a scientific one, and treated the political setting as the most permissive. Bhatia and Oaksford's belief-change version reproduced the gap between the ad hominem arguments and the control on a different measure, and then argued the gap has nothing to do with the rule violation the original study was built to test. Their control was not marked as belonging to a later stage of the discussion; it simply put the source's integrity directly at issue, which is where character evidence is relevant. On their measure the ordering of the variants also came out differently, with the circumstantial and tu quoque equally forceful and both ahead of the abusive.",
+    "study": {
+      "cite": "Barnes, R. M., Johnston, H. M., MacKenzie, N., Tobin, S. J., & Taglang, C. M. (2018). The effect of ad hominem attacks on the evaluation of claims promoted by scientists. PLOS ONE, 13(1), e0192025. Experiment 2, n = 199.",
+      "doi": "10.1371/journal.pone.0192025",
+      "year": 2018,
+      "n": 199
+    },
+    "original": { "es": 0.41, "esType": "d" },
+    "replicated": { "es": 0.58, "esType": "d" }
+  },
+  "limits": "No independent replication of Barnes was located. Searches at Crossref, Europe PMC and general web search, pairing the paper's title and authors with replication terms, returned citations but no repetition by another group. No meta-analysis of ad hominem effects was found in the same searches, and the entry contains no pooled estimate for that reason. The nearest meta-analysis, Steblay and colleagues on judicial instructions to disregard inadmissible evidence, is cited by Bhatia and Oaksford and was not obtained here. Barnes measured attitude rather than choice, and the claims were invented or obscure precisely so that participants would have no prior view, which is not the situation in which real attacks land. The 1990s and 2000s reasonableness studies used Dutch and Spanish teenagers. The original article by van Eemeren, Meuffels and Verburg was not obtained. Its ordering of the three variants is quoted from its abstract at Crossref. Its numbers come from the same authors' later overview in the 2002 ISSA proceedings, which reports the whole programme. The two effect sizes in the structured fields are Cohen's d against zero for within-subject difference scores, and neither experiment printed an interval for them. Bhatia and Oaksford's participants rated how convinced a third party should be, not how convinced they were, and their figures are means of Beta distributions on a rescaled seven-point scale rather than raw probabilities. Oaksford and Hahn's 2013 book chapter, which reports the earlier experiment their sample size was calculated from, was not obtained. The prevalence figures are not comparable with each other: the ChangeMyView count is what human moderators flagged under a forum rule, and the CreateDebate figure is a classifier's output, validated by crowd workers agreeing with 94% of a sample of 50.",
+  "misreadings": "The commonest error is treating any criticism of a person as the fallacy. Bondy sets out the condition that decides it. When a listener is being asked to accept a premise on the speaker's say-so, evidence that the speaker is insincere or incompetent bears directly on whether that premise is acceptable. Rejecting the argument on those grounds is legitimate. Hansen's survey of the field records the same shift, that the three modern variants are sometimes used fairly and sometimes fallaciously. Habernal's annotators found accusations of committing a fallacy among the personal attacks themselves, 1.7% of the labelled spans. A second error reads 'fallacy' as 'ineffective'. Nothing in the experimental record supports that, and Bhatia and Oaksford found belief fell after every one of the twelve attacks they tested. The Barnes result is also generalised past what it says. Attacks on competence, the two conditions alleging a weak doctorate and a sloppy reputation, did nothing in either experiment, and the attacks that worked all alleged dishonesty or a financial interest. Locke is misdescribed as the man who named the personal attack. His argumentum ad hominem was pressing an opponent with consequences drawn from their own concessions, he never called it a fallacy, and he recorded the name as already in use. Ordinary judgement is finer than the label suggests. Van Eemeren's respondents did not condemn the three variants equally, placing the tu quoque near the reasonable end of the scale while the abusive attack sat well below it.",
+  "sources": [
+    {
+      "text": "Barnes, R. M., Johnston, H. M., MacKenzie, N., Tobin, S. J., & Taglang, C. M. (2018). The effect of ad hominem attacks on the evaluation of claims promoted by scientists. PLOS ONE, 13(1), e0192025. Both experiments read from the article XML and the figures re-checked against the printable PDF.",
+      "doi": "10.1371/journal.pone.0192025",
+      "url": "https://doi.org/10.1371/journal.pone.0192025",
+      "type": "primary"
+    },
+    {
+      "text": "Bhatia, J.-S., & Oaksford, M. (2015). Discounting testimony with the argument ad hominem and a Bayesian congruent prior model. Journal of Experimental Psychology: Learning, Memory, and Cognition, 41(5), 1548-1559. Read as the accepted manuscript in the Birkbeck repository.",
+      "doi": "10.1037/xlm0000151",
+      "url": "https://eprints.bbk.ac.uk/id/eprint/12366/9/12366A.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Harris, A. J. L., Hsu, A. S., & Madsen, J. K. (2012). Because Hitler did it! Quantitative tests of Bayesian argumentation using ad hominem. Thinking & Reasoning, 18(3), 311-343. Read as the author manuscript.",
+      "doi": "10.1080/13546783.2012.670753",
+      "url": "https://cocosci.princeton.edu/annehsu/papers/Hitler.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., Meuffels, B., & Verburg, M. (2000). The (Un)Reasonableness of Ad Hominem Fallacies. Journal of Language and Social Psychology, 19(4), 416-435. Not obtained; the ordering of the three variants is quoted from the abstract at Crossref.",
+      "doi": "10.1177/0261927X00019004002",
+      "url": "https://doi.org/10.1177/0261927X00019004002",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2002). The Conventional Validity of the Pragma-Dialectical Freedom Rule. ISSA Proceedings 2002. The authors' own overview of six studies, and the source of the reasonableness means and of the Dutch and Spanish replications quoted here.",
+      "url": "https://rozenbergquarterly.com/issa-proceedings-2002-the-conventional-validity-of-the-pragma-dialectical-freedom-rule/",
+      "type": "primary"
+    },
+    {
+      "text": "Habernal, I., Wachsmuth, H., Gurevych, I., & Stein, B. (2018). Before Name-Calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation. NAACL-HLT 2018, 386-396. Read as the arXiv preprint 1802.06613.",
+      "doi": "10.18653/v1/N18-1036",
+      "url": "https://arxiv.org/abs/1802.06613",
+      "type": "primary"
+    },
+    {
+      "text": "Patel, U. R., Mukherjee, P., & Mondal, M. (2023). 'Dummy Grandpa, Do You Know Anything?': Identifying and Characterizing Ad Hominem Fallacy Usage in the Wild. Proceedings of the International AAAI Conference on Web and Social Media, 17, 698-709. Read as the arXiv preprint 2209.02062.",
+      "doi": "10.1609/icwsm.v17i1.22180",
+      "url": "https://arxiv.org/abs/2209.02062",
+      "type": "primary"
+    },
+    {
+      "text": "Bondy, P. (2016). Bias in Legitimate Ad Hominem Arguments. In Bondy, P., & Benacquista, L. (Eds.), Argumentation, Objectivity, and Bias: Proceedings of the 11th OSSA Conference, 1-8. The account of when an appeal to the speaker's character bears on a premise.",
+      "url": "https://uwindsor.scholaris.ca/server/api/core/bitstreams/73ad1b40-b591-41c2-af35-1410f662df70/content",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Source for the 1690 date of Locke's Essay, for the three modern variants being post-Lockean, and for Finocchiaro's earlier sighting of the term in Galileo.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Locke, J. An Essay Concerning Humane Understanding, Volume 2, Book IV, Chapter XVII, section 21. Project Gutenberg transcription, stated to follow the second edition. The definition of argumentum ad hominem was read here.",
+      "url": "https://www.gutenberg.org/cache/epub/10616/pg10616.txt",
+      "type": "provenance"
+    },
+    {
+      "text": "Barnes, R. M., Tobin, S. J., Johnston, H. M., MacKenzie, N., & Taglang, C. M. (2016). Replication Rate, Framing, and Format Affect Attitudes and Decisions about Science Claims. Frontiers in Psychology, 7, 1826. The earlier study whose attitude measure the 2018 experiments reuse; cited for provenance of the measure, not read in full.",
+      "doi": "10.3389/fpsyg.2016.01826",
+      "url": "https://doi.org/10.3389/fpsyg.2016.01826",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-15"
+}
