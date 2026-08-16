@@ -1,0 +1,80 @@
+{
+  "no": 396,
+  "slug": "implicit-cognition",
+  "name": "Implicit cognition",
+  "aliases": ["Implicit social cognition", "Implicit measures", "Implicit attitude"],
+  "category": "social",
+  "statement": "Traces of past experience are said to shape judgement without being introspectively identified, so measures that never ask reach content self-report cannot.",
+  "meaning": "This is a research programme rather than a single judgement error, and it belongs in this corpus as the parent of several entries that do describe errors. Greenwald and Banaji gave it a definitional template: an implicit C is the introspectively unidentified, or inaccurately identified, trace of past experience that mediates R. Everything testable in the programme follows from one consequence of that template. If the content is not introspectively identified, then direct measures cannot reach it, and indirect ones must be used instead. Two predictions fall out. Scores on indirect measures should correspond weakly with what people say about themselves, and they should predict behaviour that self-report misses. Both have been tested at scale across more than twenty instruments. The first holds. The second is where the programme has spent thirty years arguing with itself.",
+  "origin": {
+    "year": 1995,
+    "who": "Anthony G. Greenwald and Mahzarin R. Banaji",
+    "where": "Psychological Review",
+    "note": "Their review gathered attitude, self-esteem and stereotype findings under one heading and imported the implicit-explicit vocabulary from memory research. A footnote lists the overlapping dichotomies it stands in for, among them unaware-aware, direct-indirect and automatic-controlled, and says the pair was chosen for its prominence in memory work."
+  },
+  "evidence": "Greenwald and Banaji argued that direct measures, which presume accurate introspection, are inadequate for studying implicit cognition, and that indirect measures are therefore theoretically essential rather than merely convenient. The correspondence prediction was tested first. Hofmann, Gawronski, Gschwendner, Le and Schmitt pooled 126 independent study correlations, drawn from 517 single correlations and 12,289 participants, between the Implicit Association Test and matching self-reports. The mean uncorrected correlation was .191. Corrected for measurement error it came to .240, with an estimated standard deviation of .140, giving a 90% credibility interval from .011 to .471. About 44% of the observed variance was sampling error. Correspondence rose with the spontaneity of the self-report and with conceptual correspondence between the two instruments. The social desirability of the topic did not moderate it, which is the opposite of what the concealment reading of low correlations predicts. Cameron, Brown-Iannuzzi and Payne then ran the same test on a different family of instruments, the sequential priming tasks, across 167 independent studies.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Two meta-analyses on unrelated instrument families put implicit-explicit correspondence near r = .2, so the dissociation is real; the claim that implicit measures predict what self-report misses did not survive the same test.",
+    "detail": "Cameron and colleagues found that priming measures correlated with explicit attitude measures at r = .20, 95% CI [.17, .24], across 114 samples, and with behavioural criteria at r = .28, 95% CI [.23, .33], across 70 samples. That is close to the .24 Hofmann and colleagues obtained for a wholly different instrument, so the weak correspondence reproduces across measure families. The predictive half came out differently. Among the 38 samples reporting it, explicit attitudes predicted behaviour at r = .25. In the 28 samples reporting all three relations, the implicit and explicit paths to behaviour were compared directly and the difference was not reliable, t(25) = .10, p = .92. Priming did add something: it still predicted behaviour with the explicit attitude-behaviour relation controlled, intercept B = .29, Z = 6.12, p < .0001. So the finding is incremental prediction, not prediction of behaviour that self-report cannot reach. Cameron and colleagues checked for publication bias by funnel plot and by correlating effect size with sample size, obtaining r = -.17, p = .14, for behaviours and r = .09, p = .32, for explicit measures, and found no difference between published and unpublished studies in the attitudes analysis. Both aggregate estimates were heterogeneous, QBehavior = 392.28 and QAttitudes = 297.30.",
+    "study": {
+      "cite": "Cameron, C. D., Brown-Iannuzzi, J. L., & Payne, B. K. (2012). Sequential priming measures of implicit social cognition: A meta-analysis of associations with behavior and explicit attitudes. Personality and Social Psychology Review, 16(4), 330-350.",
+      "doi": "10.1177/1088868312440047",
+      "year": 2012
+    },
+    "replicated": { "es": 0.2, "esType": "r", "ci": [0.17, 0.24], "ciLevel": 95 }
+  },
+  "limits": "The instruments are not interchangeable and most are imprecise. Greenwald and Lai's meta-analysis of measurement precision drew on 166 articles reporting 331 independent samples, 562 internal-consistency effect sizes and 169 test-retest effect sizes, and found test-retest reliability generally lower than internal consistency across the measures. They judge the resulting figures adequate for correlational work and a problem for describing individuals, and note that no high-precision implicit measure has been developed. Corneille and Gawronski put the position more sharply in 2024: only the Implicit Association Test and the Affect Misattribution Procedure reach Cronbach alphas between .70 and .90, while other instruments cluster near .50 and sometimes fall close to zero, and those two show test-retest stability around .50 against roughly .75 for matching self-reports. Their comparison of predictive validity, that implicit measures correlate with behavioural criteria between .13 and .28 and self-reports between .11 and .36, is their summary of other meta-analyses rather than a figure computed here, and it is quoted at one remove. Gawronski, De Houwer and Sherman add a second problem: measures that supposedly assess the same construct sometimes correlate poorly with one another, and they differ in whether they present abstract categories or individual exemplars, which confounds instrument type with target. Where the search stopped: no attempt was made here to survey the clinical, consumer and forensic applications of these measures, and no head-to-head trial of implicit against explicit prediction outside the meta-analytic record was located.",
+  "misreadings": "Implicit is read as unconscious, and the people who named the field have stopped reading it that way. Greenwald and Banaji set out the conceptual difficulties in 2017 and adopted the indirect-measurement definition instead, under the headings 'Implicit = Indirect; Explicit = Direct' and 'Indirect ≠ Unconscious; Direct ≠ Conscious'. Greenwald and Lai's 2020 review states that the dominant understanding of implicit among social cognition researchers is now 'indirectly measured', and that reading it as unconscious commits to an interpretation that is not established. The same review calls the consistent positivity of implicit-explicit correlations a distressing finding for anyone assuming these measures capture unconscious content that ought to be uncorrelated with self-report. Corneille and Hütter went further in 2020, identifying five distinct meanings the word carries in attitude research, among them implicit-as-indirect, implicit-as-automatic and implicit-as-associative, and recommending the terminology be discontinued. Gawronski, De Houwer and Sherman, marking twenty-five years of the field, concluded that after all that time researchers still have to define implicit measures by listing which instruments have been called implicit. A second misreading is that this entry describes a bias. It does not. It describes the construct that several entries here sit inside, including the Implicit Association Test, which has its own entry and carries the predictive-validity dispute in detail. The third is that low implicit-explicit correspondence proves concealment. Hofmann and colleagues found no moderation by the social desirability of the topic, and the moderators that did work, spontaneity and conceptual correspondence, are about how the self-report was asked.",
+  "sources": [
+    {
+      "text": "Greenwald, A. G., & Banaji, M. R. (1995). Implicit social cognition: Attitudes, self-esteem, and stereotypes. Psychological Review, 102(1), 4-27.",
+      "doi": "10.1037/0033-295X.102.1.4",
+      "url": "https://doi.org/10.1037/0033-295X.102.1.4",
+      "type": "primary"
+    },
+    {
+      "text": "Hofmann, W., Gawronski, B., Gschwendner, T., Le, H., & Schmitt, M. (2005). A meta-analysis on the correlation between the Implicit Association Test and explicit self-report measures. Personality and Social Psychology Bulletin, 31(10), 1369-1385.",
+      "doi": "10.1177/0146167205275613",
+      "url": "https://doi.org/10.1177/0146167205275613",
+      "type": "replication"
+    },
+    {
+      "text": "Cameron, C. D., Brown-Iannuzzi, J. L., & Payne, B. K. (2012). Sequential priming measures of implicit social cognition: A meta-analysis of associations with behavior and explicit attitudes. Personality and Social Psychology Review, 16(4), 330-350.",
+      "doi": "10.1177/1088868312440047",
+      "url": "https://doi.org/10.1177/1088868312440047",
+      "type": "replication"
+    },
+    {
+      "text": "Greenwald, A. G., & Banaji, M. R. (2017). The implicit revolution: Reconceiving the relation between conscious and unconscious. American Psychologist, 72(9), 861-871.",
+      "doi": "10.1037/amp0000238",
+      "url": "https://doi.org/10.1037/amp0000238",
+      "type": "commentary"
+    },
+    {
+      "text": "Corneille, O., & Hütter, M. (2020). Implicit? What do you mean? A comprehensive review of the delusive implicitness construct in attitude research. Personality and Social Psychology Review, 24(3), 212-232.",
+      "doi": "10.1177/1088868320911325",
+      "url": "https://doi.org/10.1177/1088868320911325",
+      "type": "commentary"
+    },
+    {
+      "text": "Greenwald, A. G., & Lai, C. K. (2020). Implicit social cognition. Annual Review of Psychology, 71, 419-445.",
+      "doi": "10.1146/annurev-psych-010419-050837",
+      "url": "https://doi.org/10.1146/annurev-psych-010419-050837",
+      "type": "commentary"
+    },
+    {
+      "text": "Gawronski, B., De Houwer, J., & Sherman, J. W. (2020). Twenty-five years of research using implicit measures. Social Cognition, 38(Supplement), s1-s25.",
+      "doi": "10.1521/soco.2020.38.supp.s1",
+      "url": "https://doi.org/10.1521/soco.2020.38.supp.s1",
+      "type": "commentary"
+    },
+    {
+      "text": "Corneille, O., & Gawronski, B. (2024). Self-reports are better measurement instruments than implicit measures. Nature Reviews Psychology, 3(12), 835-846.",
+      "doi": "10.1038/s44159-024-00376-z",
+      "url": "https://doi.org/10.1038/s44159-024-00376-z",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-16"
+}
