@@ -1,0 +1,85 @@
+{
+  "no": 402,
+  "slug": "covariation-model",
+  "name": "Covariation model",
+  "aliases": ["Kelley's covariation model", "Kelley's cube", "ANOVA model of attribution", "Covariation principle"],
+  "category": "social",
+  "statement": "Kelley held that people assign a cause by combining consensus, distinctiveness and consistency, and in the founding test consensus carried 2.90% of the variance against 20.03% for consistency.",
+  "meaning": "The model treats an ordinary explanation as a small experiment. An observer has an effect, say Sue laughing at a comedian, and three candidate causes: the person, the stimulus and the circumstances. Three kinds of information say which candidate covaries with the effect. Consensus asks whether other people laugh at this comedian. Distinctiveness asks whether Sue laughs at other comedians. Consistency asks whether Sue has laughed at this one before. Kelley set the arrangement out as an analysis of variance, with persons, entities and times as the independent variables and the effect as the dependent variable, and the three-way layout is why the model is drawn as a cube. High consensus with high distinctiveness and high consistency points to the stimulus. Low consensus with low distinctiveness and high consistency points to the person. Low consistency points to the circumstances. Naming in advance which cell of the cube yields which answer is what makes the model testable, and unusually precise for a theory of everyday explanation.",
+  "origin": {
+    "year": 1967,
+    "who": "Harold H. Kelley",
+    "where": "Nebraska Symposium on Motivation",
+    "note": "Kelley's 1967 chapter carries no DOI and was not read for this entry. The model is quoted here from his 1973 American Psychologist paper, which opens by saying it summarises his 1967, 1971 and 1972 papers, and in which he writes that he developed the analysis of variance analogue in the 1967 one. He traces the idea to Heider's remark that causal analysis is 'in a way analogous to experimental methods', and states the covariation principle as: an effect is attributed to the one of its possible causes with which, over time, it covaries."
+  },
+  "evidence": "The model was tested in full the year before Kelley's restatement. McArthur gave 95 Yale male undergraduates a 16-item questionnaire, each item reporting an event such as 'Sue is afraid of the dog' or 'George translates the sentence incorrectly'. Sixty-four took an experimental form pairing every item with one of the eight combinations of high and low consensus, distinctiveness and consistency. Twenty-three took a control form carrying no information, and eight were dropped for incomplete data. Subjects chose the person, the stimulus, the circumstances or a combination, giving 1,024 experimental attributions. All three information variables shifted attributions in the predicted direction. Their weights did not match. Across attribution loci, consistency accounted for 20.03% of the total variance, distinctiveness for 10.16% and consensus for 2.90%. For person attributions the three ran 15.76%, 21.72% and 6.25%. For stimulus attributions they ran 5.88%, 12.12% and 5.17%. For circumstance attributions consistency took 41.36%, distinctiveness 7.58% and consensus 0.30%. McArthur obtained these as variance components from expected mean squares, each divided by the total variance, and she says exact F and p values are generally omitted from her text. Whole patterns moved attributions hard. Low consensus with low distinctiveness and high consistency drew person attributions on 86% of occasions against 24% under no information at all. Kelley, reporting the same data, gives the stimulus-pointing pattern as drawing an entity explanation from 61% of subjects and a person explanation from 12%. McArthur presented her consensus manipulation in what she calls about the strongest possible form, 'almost everyone' against 'hardly anyone else', and still found it the weakest of the three.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Every located test finds all three variables moving attributions, and the tests disagree about how much weight consensus carries.",
+    "detail": "Hewstone and Jaspars re-ran McArthur's design with the source of consensus tied to others of the actor's own sex, and with personal as well as non-personal stimuli. Their abstract reports that all three information variables again affected causal attribution and that consistency took the largest share of the total variance, then adds that consensus was a much more important determinant of attributions to person and stimulus than has previously been found. Their percentages were not obtained, because the paper is closed at the publisher and no open copy was located. Kassin's review of the consensus literature reaches a conditional verdict. He separates two things the word covers, the normative expectancy an observer brings and the explicit sample base rate Kelley meant, and concludes that explicit consensus is used when prior expectancies are neutralised, or when the base rate is strong, salient, representative of the population and causally relevant. He also records a pattern several studies share, that consensus says more about the stimulus than about the person. Hilton and Slugoski hold that the departures from the model are systematic rather than noise, and argue that the three variables work by supplying contrast cases whose informativeness depends on world knowledge. Maris and Hoorens tested three assumptions the cube drawing carries, that the dimensions act independently, symmetrically and equally, and report that consensus and distinctiveness effects depended on which party's causal role was being rated and on whether the information was high or low.",
+    "study": {
+      "cite": "Hewstone, M., & Jaspars, J. (1983). A re-examination of the roles of consensus, consistency and distinctiveness: Kelley's cube revisited. British Journal of Social Psychology, 22(1), 41-50.",
+      "doi": "10.1111/j.2044-8309.1983.tb00564.x",
+      "year": 1983
+    }
+  },
+  "limits": "No meta-analysis or quantitative synthesis of consensus, distinctiveness and consistency effects was located. The search covered Crossref by bibliographic query, OpenAlex, Unpaywall, Semantic Scholar and general web search, and returned single studies, reviews and rival models. So the size of the consensus gap rests on one study's variance components. Those are not effect sizes with intervals, and none is placed in a structured field here. McArthur's sample was 95 male undergraduates at one university reading short written vignettes, and her paper prints no F values for the effects it describes. Three papers usually cited for the consensus gap could not be read. They are McArthur's 1976 test of her own person-thing explanation, Pruitt and Insko's extension of the model, and Orvis, Cunningham and Kelley's earlier study. All three are closed at the publisher, Unpaywall records no open copy, and only their Crossref records were verified here. What the 1976 paper found is reported here at one remove, as Kassin cites it, which is that consensus was informative about the stimulus. Its title asserts the lesser influence of consensus, and its numbers were not seen. Kelley's 1967 chapter was not read either.",
+  "misreadings": "The model describes how information is used and does not by itself name an error. Kelley calls the layman's version a poor replica of the scientific one, incomplete and ready to proceed on incomplete evidence. The family of departures is mapped at attribution bias, no. 221, and the covariation model is the yardstick several of its members are measured against. Underusing consensus is not the same claim as the base-rate fallacy, no. 37, although the two literatures met. Kassin defines Kelley's consensus as an explicit base rate and reviews the attribution and social-judgement work side by side. He notes that the fields ask different questions, attribution researchers testing consensus against no consensus while judgement researchers test it against a probability model. His verdict on prediction is that observers underutilise but do not ignore base rates. The sources therefore connect the two without treating them as one finding. Consensus in Kelley's sense is also not the false consensus effect, and Kassin's whole structure rests on splitting the expectancy an observer forms from his own behaviour off from the base rate an experimenter supplies. A percentage of variance is not a rate of error. McArthur's 2.90% says how far her manipulation moved her subjects, not how often anyone was wrong. Content mattered more than covariation where covariation was absent. Verb category accounted for 45.03% of the overall variance among her no-information controls, against 1.02% among experimental subjects. The experimental design paired every item with every information combination, which equalised item effects.",
+  "sources": [
+    {
+      "text": "Kelley, H. H. (1973). The processes of causal attribution. American Psychologist, 28(2), 107-128. Read as the full-text copy at the URL given. Kelley's 1967 Nebraska Symposium chapter, which the model is normally cited to, was not read.",
+      "doi": "10.1037/h0034225",
+      "url": "http://www.communicationcache.com/uploads/1/0/8/8/10887248/the_processes_of_causal_attribution.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "McArthur, L. A. (1972). The how and what of why: Some determinants and consequences of causal attribution. Journal of Personality and Social Psychology, 22(2), 171-193. Read as the full-text copy at the URL given.",
+      "doi": "10.1037/h0032602",
+      "url": "https://www.brandeis.edu/psychology/zebrowitz/publications/PDFs/McArthur_1972.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Kassin, S. M. (1979). Consensus information, prediction, and causal attribution: A review of the literature and issues. Journal of Personality and Social Psychology, 37(11), 1966-1981. Read as the author's full-text copy at the URL given. The paper is in JPSP, not in Psychological Bulletin as some listings give it.",
+      "doi": "10.1037/0022-3514.37.11.1966",
+      "url": "https://saulkassin.org/wp-content/uploads/2024/07/Kassin-1979-Consensus-attribution.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Hewstone, M., & Jaspars, J. (1983). A re-examination of the roles of consensus, consistency and distinctiveness: Kelley's cube revisited. British Journal of Social Psychology, 22(1), 41-50. Read as its abstract at Crossref; the full text was not retrieved.",
+      "doi": "10.1111/j.2044-8309.1983.tb00564.x",
+      "url": "https://doi.org/10.1111/j.2044-8309.1983.tb00564.x",
+      "type": "replication"
+    },
+    {
+      "text": "Hilton, D. J., & Slugoski, B. R. (1986). Knowledge-based causal attribution: The abnormal conditions focus model. Psychological Review, 93(1), 75-88. Read as its abstract at OpenAlex; the full text was not retrieved.",
+      "doi": "10.1037/0033-295X.93.1.75",
+      "url": "https://doi.org/10.1037/0033-295X.93.1.75",
+      "type": "commentary"
+    },
+    {
+      "text": "Maris, S., & Hoorens, V. (2014). A Gricean approach to the use of consensus and distinctiveness in causal attributions of verbally described interpersonal events. European Journal of Social Psychology, 44(2), 141-153. Read as its abstract at Crossref; the full text was not retrieved.",
+      "doi": "10.1002/ejsp.1997",
+      "url": "https://doi.org/10.1002/ejsp.1997",
+      "type": "replication"
+    },
+    {
+      "text": "McArthur, L. Z. (1976). The lesser influence of consensus than distinctiveness information on causal attributions: A test of the person-thing hypothesis. Journal of Personality and Social Psychology, 33(6), 733-742. Bibliographic record verified at Crossref only. The article is closed at the publisher, Unpaywall records no open copy, and its findings are reported here through Kassin's citations of it.",
+      "doi": "10.1037/0022-3514.33.6.733",
+      "url": "https://doi.org/10.1037/0022-3514.33.6.733",
+      "type": "primary"
+    },
+    {
+      "text": "Pruitt, D. J., & Insko, C. A. (1980). Extension of the Kelley attribution model: The role of comparison-object consensus, target-object consensus, distinctiveness, and consistency. Journal of Personality and Social Psychology, 39(1), 39-58. Bibliographic record verified at Crossref only; no open copy was located and nothing from it is asserted on this page.",
+      "doi": "10.1037/0022-3514.39.1.39",
+      "url": "https://doi.org/10.1037/0022-3514.39.1.39",
+      "type": "replication"
+    },
+    {
+      "text": "Orvis, B. R., Cunningham, J. D., & Kelley, H. H. (1975). A closer examination of causal inference: The roles of consensus, distinctiveness, and consistency information. Journal of Personality and Social Psychology, 32(4), 605-616. Bibliographic record verified at Crossref only; it is named here because Kassin cites it, and its own text was not read.",
+      "doi": "10.1037/0022-3514.32.4.605",
+      "url": "https://doi.org/10.1037/0022-3514.32.4.605",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-16"
+}
