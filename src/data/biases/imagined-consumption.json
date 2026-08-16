@@ -1,0 +1,104 @@
+{
+  "no": 439,
+  "slug": "imagined-consumption",
+  "name": "Imagined consumption",
+  "aliases": [
+    "Imagined eating",
+    "Imagined consumption effect",
+    "Imagined food consumption"
+  ],
+  "category": "decision",
+  "statement": "Repeatedly imagining eating a food is said to reduce how much of that food a person then eats, through habituation rather than through changed liking.",
+  "meaning": "The manipulation is repetition, and the count carries the claim. A participant imagines eating one morsel, then the next, thirty times over, in a task written to follow the actions of eating. A control group imagines a different repetitive action of similar effort, usually feeding coins into a machine. Everyone is then offered the food, eats as much as they want, and the bowl is weighed afterwards. Morewedge, Huh and Vosgerau argue that mental rehearsal alone produces habituation, the fall in responsiveness that real eating produces. Two predictions follow from that account. A few repetitions should do nothing, or should push the other way. And the fall should attach to the food that was imagined rather than to appetite at large. Both predictions have since been tested, and neither has settled.",
+  "origin": {
+    "year": 2010,
+    "who": "Carey K. Morewedge, Young Eun Huh and Joachim Vosgerau",
+    "where": "Science",
+    "note": "The abstract at PubMed reports five experiments and says people who repeatedly imagined eating a food ate less of it than people who imagined eating it fewer times, imagined eating a different food, or imagined no food at all. It attributes the drop to reduced desire rather than to reduced palatability. The article is closed at the publisher and was not read for this entry."
+  },
+  "evidence": "Nothing below is quoted from the Science article's own text. It is closed at AAAS, and Unpaywall, OpenAlex and Semantic Scholar all record no open copy anywhere.\n\nThe replication team's report describes Experiment 1 directly, from the original materials and the supporting online material, with the original authors' agreement. Participants imagined 33 repetitive actions in total. The control group imagined feeding 33 coins into a machine. A 3-repetition group imagined 30 coins and then 3 M&Ms. A 30-repetition group imagined 3 coins and then 30 M&Ms. Everyone was then given 40 g of M&Ms as a taste test and the bowl was weighed after they left. The control group ate 4.08 g, SD 0.33, and the 30-repetition group 2.21 g, SD 0.48. The published analysis pools variance across all three conditions and reports F(1, 46) = 4.50, p = 0.0393 for that contrast and F(1, 46) = 5.81, p < 0.05 for 30 repetitions against 3. An independent-samples t-test on the two conditions, supplied by the original authors and not printed in the paper, gives t(30) = 2.78, p = 0.0092.\n\nFrancis, Tanzman and Matthews read the article and its supplement for a test of excess success, and their account is the source for the other experiments here. Their supplement counts six, numbering them 1, 2, 3, 4, 4b and 5, where the abstract says five. Table S13 gives cell sizes of 17, 16 and 16 in Experiment 1; 13, 13, 13 and 12 in Experiment 2; 17 in each of four cells in Experiment 3; 10, 10, 10 and 11 in Experiment 4; 80 in Experiment 4b; and 34 and 34 in Experiment 5. Experiments 1 to 3 used M&Ms as both the imagined and the eaten food, Experiment 3 contrasting imagining eating them with imagining moving them. Experiment 4 is the specificity test: participants imagined eating cheese or M&Ms and the measure was cheese eaten, with the 3-against-30 contrast significant for imagined cheese and not for imagined M&Ms. Experiment 4b asked 80 people to predict that result and they predicted it backwards, t = 3.09, p = .002. Experiment 5 measured liking of cheese before and after within subjects, F = 4.82, p = .032. Multiplying the estimated success probabilities across the set gives P(TES) = .012, under their .1 threshold, which they read as a run of results too uniform to believe. They also record that the means and standard deviations in the paper's Table 1 do not match its reported F statistics, and they recovered the pooled standard deviations from the F values by algebra instead.",
+  "replication": {
+    "state": "replicated",
+    "headline": "One preregistered high-powered repetition of Experiment 1, on 89 students in an Innsbruck laboratory, found the effect at about four-fifths of its original size: r = 0.355 against 0.453, p = 0.0006.",
+    "detail": "The Social Sciences Replication Project took 21 experiments from Science and Nature and ran each in two stages, stopping after the first if it succeeded. Holzmeister, Huber, Kirchler and Rose ran this one at the University of Innsbruck between September 2016 and September 2017, in German, in single cubicles with an empty cubicle between participants. Only the 30-repetition and control conditions were run, and the laundry machine became a parking meter because coin-operated laundries are uncommon in Austria. Both changes were agreed with the original authors beforehand.\n\nStage 1 collected 96 participants and had 90% power to find 75% of the original effect. Six people ate more than 2.5 standard deviations above the overall mean and one ate nothing, leaving N = 89, of whom 36 were men and 53 women, mean age 23.0. The control group, n = 44, ate 10.30 g, SD 5.28. The 30-repetition group, n = 45, ate 6.69 g, SD 4.30. That gives t(87) = 3.5384, p = 0.0006. Keeping the person who ate nothing gives 10.07 g against 6.69 g, t(88) = 3.2686, p = 0.0015. The criterion was met, so no second stage was run. The project's supplementary tables put the original at r = 0.453, p = 0.009, n = 32 and the replication at r = 0.355, p < 0.001, n = 89, mark it replicated, and give the replication as 0.783 of the original. Before the data came in, the project's prediction market priced the chance of replication across both stages at 0.59 and its survey of researchers at 0.55.\n\nOther laboratories have tested the idea with other foods and other repetition counts, and the results split by dose. Missbach, Florack, Weissmann and König ran two studies at the University of Vienna. In the first, 95 participants imagined eating gummy bears 18 or 36 times or imagined coins, and the gummy bear groups ate 24.63 g, SD 11.02, against 32.94 g, SD 16.94, F(3, 95) = 8.61, p = 0.004. Repetition count did not moderate it, F(1, 95) = 0.51, p = 0.47. In the second, 82 women imagined walnuts or coins after a depleting or a non-depleting task. Undepleted, they ate 29.62 g against 35.49 g, F(1, 39) = 6.26, p = 0.02. Depleted, they ate 36.29 g against 35.63 g, F(1, 39) = 0.06, p = 0.82.\n\nHaasova, Elekes, Missbach and Florack cut the count further. Their 147 participants imagined eating chocolate pudding 15 or 3 times, crossed with facilitating or non-facilitating mouth movements. The 15-repetition groups ate more, 178.20 g, SD 68.08, against 150.73 g, SD 73.31, F(1, 143) = 5.69, p = 0.02. Movements made no difference, F(1, 143) = 0.02, p = 0.89. People in the 15-repetition condition reported managing 10.49 imaginings on average, so part of the gap between 15 and 30 is compliance rather than dose.\n\nAndersen, Byrne and Wang took the paradigm out of the laboratory, to a food festival, with 300 participants split between actual eating, imagined eating and a coin control, 30 trials each. The imagined and control groups did not separate on desire to eat something, p = 1, on desire for something sweet, p = 0.24, on enjoyment of a tasted M&M, p = 1, or on the number of M&Ms wanted, p = 0.11. Actual eating separated from both on every one of those measures. No free-eating intake measure was taken, so this is a test of desire rather than of consumption, and the authors read the festival setting as a possible reason for the null.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "sites": 1,
+      "n": 89
+    },
+    "original": {
+      "es": 0.453,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": 0.355,
+      "esType": "r"
+    }
+  },
+  "limits": "The replication covers one comparison in one of the experiments. It tested 30 repetitions against a coin control on M&M intake, and it says so. Nothing in the project speaks to Experiments 2 to 5, and the specificity test that carries the habituation account, Experiment 4, has ten or eleven people per cell and no direct repetition located here.\n\nThe dose is unsettled below 30. Missbach and colleagues found the effect at 18 and at 36 with no difference between them. Haasova and colleagues found it reversed at 15. Andersen, Byrne and Wang report three online studies with 1,149 participants in total, and their abstract at PubMed states that 3 repetitions primed while 30 satiated, which fits the reversal. That abstract also says the satiation looked more general than specific, against the prior literature, which is the prediction the habituation account most needs.\n\nTwo further papers on specificity were located and not read. Andersen, Byrne and Wang's sweet-against-savoury study in Food Quality and Preference is closed, and its record carries no abstract at Crossref or Europe PMC. Hames and colleagues report in Appetite that 30 trials of flavour-specific or texture-specific imagery left liking and wanting for the food samples unchanged while imagined liking fell; the published article is closed and that summary comes from the abstract of its SSRN preprint.\n\nOutcome measures differ across all of this. The original and the replication weighed food eaten. The festival study measured desire and enjoyment. The Appetite work measured desire and hedonic ratings. A result on one is not a result on the other, and this page keeps them apart.\n\nNo meta-analysis of imagined consumption was found. The search covered Crossref, PubMed, Europe PMC, Unpaywall, OpenAlex, Semantic Scholar and the open web.",
+    "misreadings": "The popular form is that imagining food makes people eat less. That sentence drops the two things the claim is made of. The imagining has to be repeated, around thirty times, and Haasova and colleagues found fifteen repetitions of chocolate pudding raising intake rather than lowering it. The reduction is also supposed to fall on the imagined food alone, which is what separates habituation from ordinary satiety, and that specificity rests on ten or eleven people per cell in the original and is contested by the largest sample anyone has run.\n\nA second error treats the effect as an appetite suppressant. The original abstract attributes the drop to reduced desire for the food rather than to lower palatability, and the Innsbruck replication measured grams of M&Ms taken from a 40 g bowl in a taste test. What is being changed is how much of one thing a person takes when it is put in front of them.\n\nA third error runs from the excess-success analysis to the conclusion that the finding is false. Francis, Tanzman and Matthews report P(TES) = .012 for this article, which is a claim about how improbably clean the original run of six results is. It is not a replication attempt, and the one replication attempt on the headline comparison came out positive at 89 people.\n\nA fourth is reading the replication as more general than it is. It ran in one laboratory in one country, in cubicles, with paid participants, and the same paradigm at a food festival moved nothing.",
+    "sources": [
+    {
+      "text": "Morewedge, C. K., Huh, Y. E., & Vosgerau, J. (2010). Thought for food: Imagined consumption reduces actual consumption. Science, 330(6010), 1530-1533. The original. Closed at the publisher with no open copy recorded at Unpaywall, OpenAlex or Semantic Scholar; read only as its PubMed abstract and its Crossref record.",
+      "doi": "10.1126/science.1195701",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21148388/",
+      "type": "primary"
+    },
+    {
+      "text": "Holzmeister, F., Huber, J., Kirchler, M., & Rose, J. Social Sciences Replication Project: Replication of Thought for Food: Imagined Consumption Reduces Actual Consumption by Morewedge, Huh and Vosgerau (2010). The replication report. Source for the design of Experiment 1, both sets of condition means, and the stage 1 result.",
+      "url": "https://joachimvosgerau.files.wordpress.com/2017/11/morewedge-et-al-2010-replication-report.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2(9), 637-644. Effect sizes, sample composition, exclusions and market beliefs read from Supplementary Tables 3, 4 and 5 of the supplementary information PDF.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Francis, G., Tanzman, J., & Matthews, W. J. (2014). Excess success for psychology articles in the journal Science. PLoS ONE, 9(12), e114255. Section 14 and Table S13 of Information S1 are the source for the design and cell sizes of the experiments this entry could not read in the original.",
+      "doi": "10.1371/journal.pone.0114255",
+      "url": "https://doi.org/10.1371/journal.pone.0114255",
+      "type": "secondary"
+    },
+    {
+      "text": "Missbach, B., Florack, A., Weissmann, L., & König, J. (2014). Mental imagery interventions reduce subsequent food intake only when self-regulatory resources are available. Frontiers in Psychology, 5, 1391. Two studies at the University of Vienna, with gummy bears and walnuts.",
+      "doi": "10.3389/fpsyg.2014.01391",
+      "url": "https://doi.org/10.3389/fpsyg.2014.01391",
+      "type": "replication"
+    },
+    {
+      "text": "Haasova, S., Elekes, B., Missbach, B., & Florack, A. (2016). Effects of imagined consumption and simulated eating movements on food intake: Thoughts about food are not always of advantage. Frontiers in Psychology, 7, 1691. The reversal at 15 repetitions.",
+      "doi": "10.3389/fpsyg.2016.01691",
+      "url": "https://doi.org/10.3389/fpsyg.2016.01691",
+      "type": "replication"
+    },
+    {
+      "text": "Andersen, T., Byrne, D. V., & Wang, Q. J. (2022). Think yourself slim? Assessing the satiation efficacy of imagined eating. Foods, 12(1), 36. The field test, run at a food festival on 300 people.",
+      "doi": "10.3390/foods12010036",
+      "url": "https://doi.org/10.3390/foods12010036",
+      "type": "replication"
+    },
+    {
+      "text": "Andersen, T., Byrne, D. V., & Wang, Q. J. (2023). Imagined eating: An investigation of priming and sensory-specific satiety. Appetite, 182, 106421. Three online studies, 1,149 participants. Closed at the publisher; read as its PubMed abstract only, which is why no figure from it beyond the sample size appears here.",
+      "doi": "10.1016/j.appet.2022.106421",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36528255/",
+      "type": "replication"
+    },
+    {
+      "text": "Andersen, T., Byrne, D. V., & Wang, Q. J. (2023). Comparing the imagined consumption of sweet and savoury food on sensory-specific satiety. Food Quality and Preference, 110, 104930. Located as a Crossref record with no abstract at Crossref or Europe PMC; not read, and no claim here rests on it.",
+      "doi": "10.1016/j.foodqual.2023.104930",
+      "url": "https://doi.org/10.1016/j.foodqual.2023.104930",
+      "type": "replication"
+    },
+    {
+      "text": "Hames, M., McCormack, J. C., Roberts, R., Halberstadt, J., Spence, C., & Peng, M. (2026). Assessing the relationship between food-related mental imagery and appetite. Appetite, 224, 108592. The published article is closed; the account here comes from the abstract of the SSRN preprint of the same title, doi 10.2139/ssrn.6319258.",
+      "doi": "10.1016/j.appet.2026.108592",
+      "url": "https://doi.org/10.1016/j.appet.2026.108592",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-16"
+}
