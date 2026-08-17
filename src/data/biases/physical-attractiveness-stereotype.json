@@ -1,0 +1,105 @@
+{
+  "no": 505,
+  "slug": "physical-attractiveness-stereotype",
+  "name": "Physical attractiveness stereotype",
+  "aliases": ["What is beautiful is good", "Attractiveness halo effect", "Beauty-is-good effect"],
+  "category": "social",
+  "statement": "People credit attractive strangers with sociability, competence and adjustment they have no information about, and the credit varies sharply by trait.",
+  "meaning": "Three separate claims travel under one name and they have different evidence behind them. The first is that attractive people are judged more favourably on traits a photograph cannot show. The second is that they are treated more favourably. The third is that they actually differ. Only the first is what the classic experiments tested, and it is the one with the largest and most consistent record. The stereotype is also not uniform across traits. The meta-analyses that broke it down by content found large gaps on social traits and nothing on honesty, which is why one of them put a \"but\" in its title.",
+  "origin": {
+    "year": 1972,
+    "who": "Karen Dion, Ellen Berscheid and Elaine Walster",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is \"What is beautiful is good\", and its title became the name of the effect. It asked whether attractive targets are assumed to hold more socially desirable personality traits and expected to lead better lives, and tested for a sex of subject by sex of target interaction. The published abstract reports results with 30 male and 30 female undergraduates and no sex of judge by sex of stimulus interaction. The full text was not obtained for this entry, so no figure from inside the paper is quoted here."
+  },
+  "evidence": "The quantitative record starts with two meta-analyses published a year apart. Feingold retrieved 30 stereotyping studies meeting his criteria, yielding 35 independent experiments that were decomposed by sex of subject and target into 78 experiments on 4,727 people and 212 effect sizes. His weighted mean ds for attractive against unattractive targets were 0.88 for social skills, 95% CI 0.72 to 1.04, and 0.78 for sexual warmth, CI 0.65 to 0.92. Sociability came out at 0.46, dominance at 0.54, general mental health at 0.50 and intelligence at 0.31. Character, covering honesty, sincerity, trustworthiness, morality and kindness, came out at -0.04, CI -0.13 to 0.05, across 40 effect sizes and 1,964 people. Modesty ran the other way at -0.34, the one attribute ascribed more often to unattractive targets. Eagly, Ashmore, Makhijani and Longo reached the same shape from an independent search. Their abstract reports the beauty-is-good effect as moderate on average and varying by the content of the inference: largest for social competence, intermediate for potency, adjustment and intellectual competence, and near zero for integrity and concern for others. That article stayed behind a paywall on this pass, and no effect size from it is quoted here. Langlois and colleagues then ran 11 meta-analyses over 919 usable effect sizes. Judgements of adults gave a weighted d+ of 0.50, CI 0.41 to 0.59, over 30 independent samples and 1,880 people, with occupational competence the largest subcategory at 0.96 and adjustment the smallest at 0.25.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The rating effect reproduces in every large test located, including one across 45 countries, and it is smaller and more trait-dependent than the slogan suggests.",
+    "detail": "Three meta-analyses run by separate teams from separate literature searches agree that raters credit attractive faces with socially desirable traits, and agree that the credit is near zero for honesty. Batres and Shiramizu took the question cross-cultural using Psychological Science Accelerator data, with participants in 45 countries across 11 world regions rating 120 faces. Their abstract reports that in all 11 regions, male and female faces rated more attractive were also rated more confident, emotionally stable, intelligent, responsible, sociable and trustworthy. Gulati and colleagues ran the same comparison within individuals rather than between them. They applied a beauty filter to 462 faces and had 2,748 raters score them, so the attractive and the original condition were the same people. Scores rose on intelligence, trustworthiness, sociability and happiness after filtering, p < 0.001 on a one-sided Wilcoxon paired-rank test. On the unfiltered images, perceived attractiveness predicted all four, with slopes of 0.30 for intelligence, 0.20 for trustworthiness and 0.39 for both sociability and happiness. The one preregistered test that moved off photographs qualifies all of this. Tissera, Lydon and Human put 547 people through a round-robin of live first meetings, and separated attractiveness on which raters agreed from attractiveness in the eye of one rater. Consensual attractiveness did not predict how positively a target's personality was seen, b = 0.02, d = 0.10, 95% CI -0.03 to 0.23, t = 1.48, p = .140. A rater's own idiosyncratic view of a target did, b = 0.07, d = 0.47, CI 0.37 to 0.56, t = 9.81, p < .001. Their reading is that what is beautiful to the beholder is good.",
+    "study": {
+      "cite": "Langlois, J. H., Kalakanis, L., Rubenstein, A. J., Larson, A., Hallam, M., & Smoot, M. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390-423.",
+      "doi": "10.1037/0033-2909.126.3.390",
+      "year": 2000,
+      "n": 1880
+    },
+    "replicated": {
+      "es": 0.5,
+      "esType": "d",
+      "ci": [0.41, 0.59],
+      "ciLevel": 95,
+      "weighting": "weighted mean d+ for judgements of adults, 30 independent samples"
+    }
+  },
+  "limits": "The content of the stereotype is not fixed across cultures. Wheeler and Kim had 157 Korean university students rate Korean faces on the dimensions the North American meta-analyses used. Their abstract reports that attractive targets were not seen as higher in potency, as in North America, and were seen as higher in integrity and concern for others, which is the pair of categories Eagly and colleagues found near zero. The two meta-analyses also disagree about whether attractive people actually differ. Feingold's third study compared the experimental ratings with the correlational literature and put the mean stereotype correlation at .21 against a mean real correlation of .06, with social skills the exception at .23. Langlois and colleagues, using a wider definition of behaviour, put behaviour and trait differences among adults at d+ = 0.40, with occupational success at 0.76 and measured intelligence at 0.07. The applied literatures are separate again. Hosoda, Stone-Romero and Coats meta-analysed experimental studies of job-related outcomes and report a weighted mean d of 0.37, along with a decline in the bias over time. Their full text was not obtained, and that figure comes from the published abstract. Mazzella and Feingold's meta-analysis of mock juror experiments reports an advantage for attractive defendants that was absent for some crimes, again read from the abstract. Hamermesh and Biddle's earnings work is observational rather than experimental, and rests on three surveys carrying interviewers' ratings of the respondent's appearance. The 9% of working men rated below average or homely were paid about 10% less per hour, and the 32% rated above average about 5% more. Their pooled figures are a 7 to 10% penalty for the bottom tenth of looks and a 5% premium for the top three-tenths. Effect sizes from Eagly and colleagues and the design details of Dion and colleagues were sought at Crossref, OpenAlex, Unpaywall, Semantic Scholar, PubMed, PubMed Central, EBSCO, Ovid and open-web search, and neither full text was reached.",
+  "misreadings": "The commonest error is reading a rating study as a report on how people are actually treated. What Dion and colleagues measured was strangers' guesses from photographs, and a guess is not a hiring decision. The claims come apart in the data. Langlois and colleagues found judgement of adults at d+ = 0.50 and treatment of adults at d+ = 0.54, but the treatment analyses rest on a different and largely laboratory set of studies. The earnings gaps Hamermesh and Biddle measured are correlations in survey data with no manipulation behind them. The slogan is also stronger than the finding it names. Eagly and colleagues put a \"but\" in their title because integrity and concern for others sat near zero, and Feingold's character category came out at -0.04. Attractive targets are not credited with honesty. They are credited with modesty less often than unattractive ones, at d = -0.34 in Feingold's data, so the stereotype includes a penalty. And the effect is not a general truth about faces, since the traits it attaches to swap round in the one Korean sample located here.",
+  "sources": [
+    {
+      "text": "Dion, K., Berscheid, E., & Walster, E. (1972). What is beautiful is good. Journal of Personality and Social Psychology, 24(3), 285-290. Full text not obtained. The design summary and the 30 male and 30 female undergraduates are read from the published abstract, seen at Ovid and at EBSCO's PsycInfo record.",
+      "doi": "10.1037/h0033731",
+      "url": "https://doi.org/10.1037/h0033731",
+      "type": "primary"
+    },
+    {
+      "text": "Feingold, A. (1992). Good-looking people are not what we think. Psychological Bulletin, 111(2), 304-341. Read in full from a scan; the source for every d, interval and count attributed to Feingold here.",
+      "doi": "10.1037/0033-2909.111.2.304",
+      "url": "https://gwern.net/doc/iq/1992-feingold.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Eagly, A. H., Ashmore, R. D., Makhijani, M. G., & Longo, L. C. (1991). What is beautiful is good, but...: A meta-analytic review of research on the physical attractiveness stereotype. Psychological Bulletin, 110(1), 109-128. Closed access. Only the published abstract was read, and no effect size from it appears above.",
+      "doi": "10.1037/0033-2909.110.1.109",
+      "url": "https://doi.org/10.1037/0033-2909.110.1.109",
+      "type": "replication"
+    },
+    {
+      "text": "Langlois, J. H., Kalakanis, L., Rubenstein, A. J., Larson, A., Hallam, M., & Smoot, M. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390-423. Read in full from a hosted scan.",
+      "doi": "10.1037/0033-2909.126.3.390",
+      "url": "https://jonathanstray.com/papers/Langlois.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Tissera, H., Lydon, J. E., & Human, L. J. (2022). Is what is beautiful good and still more accurately understood? A replication and extension of Lorenzo et al. (2010). European Journal of Personality, 37(4), 468-484. Preregistered; read in full from the PubMed Central copy.",
+      "doi": "10.1177/08902070221099688",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13021046/",
+      "type": "replication"
+    },
+    {
+      "text": "Gulati, A., Martínez-Garcia, M., Fernández, D., Lozano, M. A., Lepri, B., & Oliver, N. (2024). What is beautiful is still good: the attractiveness halo effect in the era of beauty filters. Royal Society Open Science, 11(11), 240882. Read in full.",
+      "doi": "10.1098/rsos.240882",
+      "url": "https://doi.org/10.1098/rsos.240882",
+      "type": "replication"
+    },
+    {
+      "text": "Batres, C., & Shiramizu, V. (2022). Examining the \"attractiveness halo effect\" across cultures. Current Psychology, 42(29), 25515-25519. Closed access; the 45 countries, 11 world regions and 120 faces are read from the published abstract.",
+      "doi": "10.1007/s12144-022-03575-0",
+      "url": "https://doi.org/10.1007/s12144-022-03575-0",
+      "type": "replication"
+    },
+    {
+      "text": "Wheeler, L., & Kim, Y. (1997). What is beautiful is culturally good: The physical attractiveness stereotype has different content in collectivistic cultures. Personality and Social Psychology Bulletin, 23(8), 795-800. Closed access; described here from the published abstract.",
+      "doi": "10.1177/0146167297238001",
+      "url": "https://doi.org/10.1177/0146167297238001",
+      "type": "replication"
+    },
+    {
+      "text": "Hosoda, M., Stone-Romero, E. F., & Coats, G. (2003). The effects of physical attractiveness on job-related outcomes: A meta-analysis of experimental studies. Personnel Psychology, 56(2), 431-462. Closed access; the weighted mean d of .37 is read from the published abstract.",
+      "doi": "10.1111/j.1744-6570.2003.tb00157.x",
+      "url": "https://doi.org/10.1111/j.1744-6570.2003.tb00157.x",
+      "type": "replication"
+    },
+    {
+      "text": "Mazzella, R., & Feingold, A. (1994). The effects of physical attractiveness, race, socioeconomic status, and gender of defendants and victims on judgments of mock jurors: A meta-analysis. Journal of Applied Social Psychology, 24(15), 1315-1338. Closed access; described here from the published abstract.",
+      "doi": "10.1111/j.1559-1816.1994.tb01552.x",
+      "url": "https://doi.org/10.1111/j.1559-1816.1994.tb01552.x",
+      "type": "replication"
+    },
+    {
+      "text": "Hamermesh, D. S., & Biddle, J. E. (1993). Beauty and the labor market. NBER Working Paper No. 4518. Read in full. The earnings figures quoted here are from this working paper, not from the later journal version.",
+      "doi": "10.3386/w4518",
+      "url": "https://www.nber.org/system/files/working_papers/w4518/w4518.pdf",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
