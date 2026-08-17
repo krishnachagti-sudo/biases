@@ -1,0 +1,96 @@
+{
+  "no": 585,
+  "slug": "negative-premise-fallacies",
+  "name": "Negative premise fallacies",
+  "aliases": [
+    "Affirmative conclusion from a negative premise",
+    "Drawing an affirmative conclusion from negative premises",
+    "Negative conclusion from affirmative premises",
+    "Negative premisses and conclusion",
+    "Affirmative conclusion from a negative premiss"
+  ],
+  "category": "belief",
+  "statement": "Two rules forbid an affirmative conclusion where a premise is negative and a negative conclusion where both premises are affirmative, and reasoners almost never break either.",
+  "meaning": "Every proposition in a categorical syllogism either affirms or denies. 'All A are B' and 'Some A are B' affirm; 'No A is B' and 'Some A are not B' deny. Two rules govern the traffic between premises and conclusion. If one premise is negative, the conclusion must be negative. If both premises are affirmative, the conclusion must be affirmative. Breaking the first is called drawing an affirmative conclusion from a negative premise. Breaking the second is called drawing a negative conclusion from affirmative premises. The two are converses of each other, which is why one entry covers both, and Stock writes the second as the flip side of the first. The ground is that a denial in the premises has to survive into the conclusion, and that two agreements cannot yield a disagreement. Psychology does not study either fallacy under these names. Their measured record sits inside the task that presents all 64 pairs of syllogistic premises, which the Atlas describes on the entry for the fallacy of the undistributed middle. The other rules of the same set are covered elsewhere: the middle term on that entry, the terms of the conclusion under illicit major, and the ban on two negative premises under the fallacy of exclusive premises. What separates this pair from those three is the direction of the finding. These are the two rules that ordinary reasoners keep."
+  ,
+  "origin": {
+    "year": 1888,
+    "who": "St George Stock",
+    "where": "Deductive Logic",
+    "note": "The rules are scholastic and no publication established them. Stock's textbook is the earliest full statement obtained for this entry, and it was read in full. His sixth primary rule reads 'If one premiss be negative, the conclusion must be negative', and his seventh reads 'If the conclusion be negative, one of the premisses must be negative: but if the conclusion be affirmative, both premisses must be affirmative'. His ground for the sixth is that one term agreeing and another disagreeing with the same third term can only support a judgement of disagreement. His ground for the seventh is that a judgement of agreement can result only from two prior judgements of agreement. He gives no separate name to either violation, filing both under the heading 'Negative Premisses and Conclusion' along with the ban on two negative premises. Psychologists reach the same rules through a different textbook. Khemlani and Johnson-Laird quote a five-rule set from page 79 of Cohen and Nagel's 1934 Introduction to Logic and Scientific Method. Its first rule is that if both premises are affirmative the conclusion must be affirmative, and its second that if one premise is negative the conclusion must be negative."
+  },
+  "evidence": "The record comes from the task in which people see two premises and choose or produce a conclusion. Khemlani and Johnson-Laird pooled six such experiments, all using the same 64 premise pairs, and their Table 6 gives the percentage of each of the nine possible responses to each pair. No source read here labels its items by the traditional rules, so the sorting below applies those rules to the premise pairs they print. Forty-eight of the 64 pairs carry at least one negative premise, and every affirmative conclusion to any of them breaks the first rule. The largest such response anywhere in the table is 24%. It occurs twice. Given 'All B are A' and 'Some C are not B', 24% concluded 'Some C are A', against 37% for 'Some C are not A' and 17% who answered that nothing follows. Given 'Some A are not B' and 'Some B are C', 24% concluded 'Some A are C', against 25% for 'Some A are not C' and 36% who answered that nothing follows. Every other affirmative response to a negative-premise pair is smaller. The second rule is kept more tightly still. Sixteen pairs have two affirmative premises, and the largest negative response to any of them is 4%, for 'None of the A is C' given 'Some B are A' and 'Some B are C'. The largest 'some are not' response to any of the sixteen is 3%. Both rules survive the sterner test as well. Across all 64 pairs, the response people give most often never breaks either rule, and neither does the most frequent conclusion once the answer that nothing follows is set aside."
+  ,
+  "replication": {
+    "state": "replicated",
+    "headline": "Six experiments run in the United States and Italy agree that these are the two syllogistic rules people keep, with the worst single violation at 24% and most of them in the low single figures.",
+    "detail": "Khemlani and Johnson-Laird checked the agreement of their six studies before pooling them, and the rank orders of difficulty were concordant; the Atlas entry on the undistributed middle carries those statistics and the composition of the six samples. What is specific to these two rules is that the accounts of syllogistic error separate on them, and the separation runs in opposite directions. The atmosphere hypothesis states that if a premise contains 'some' the conclusion contains 'some', that if a premise is negative the conclusion is negative, and that otherwise a universal affirmative follows. Begg and Denny's reformulation, quoted in the meta-analysis, is that whenever at least one premise is negative the most frequently accepted conclusion will be negative. Those clauses are the two rules themselves, and Khemlani and Johnson-Laird say as much when they write that most valid conclusions happen to fit atmosphere because the scholastic rules contain the atmosphere principles. So atmosphere predicts these errors at a rate of zero, and across all 64 rows of Table 7 it never predicts a conclusion that breaks either rule. The data are close to that prediction and not equal to it. The other two heuristic accounts predict violations outright. Matching draws the conclusion in the mood of the most conservative premise, and ranks 'some' and 'some are not' as equally conservative. Its predicted set therefore carries affirmative conclusions for all 20 pairs whose most conservative premise is a particular one. Those are the pairs where the affirmative answers actually appear, including both 24% cases. The probability heuristics model, through its probabilistic entailments, predicts an affirmative conclusion on 28 negative-premise pairs. For the two worst cases it predicts 'Some C are not A' with 'Some C are A', and 'Some A are not C' with 'Some A are C'. Matching pays for this on the other rule. Its predicted set includes a 'some are not' conclusion for the 12 two-affirmative pairs that contain a 'some' premise, and the highest rate observed for either such conclusion across those 12 is 3%. The meta-analysis scores each theory on hits, defined as a prediction corroborated by more than 16% of participants in an experiment, and on correct rejections, defined as a non-prediction corroborated by fewer than 16%. Atmosphere takes 85% of correct rejections, 95% CI 82 to 89, with heterogeneity of zero across the six studies.",
+    "study": {
+      "cite": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457.",
+      "doi": "10.1037/a0026841",
+      "year": 2012
+    }
+  },
+  "limits": "No large or preregistered replication of these response rates was located. The nearest thing found is a pair of OSF preregistrations by Niklas Schulte and Hannah Dames, registered on 25 January 2021. They set out to run all 64 syllogisms on a sample without prior training in logic and a parallel sample with it, targeting 50 participants and capping recruitment at 200. Their analysis plan recodes every response into correct or incorrect for an item response theory model, so it could not report which wrong conclusion was chosen and could not measure either fallacy. The companion registration at osf.io/rk3up is named in the one that was read, and its own record returned an authentication error. No published paper from either registration was found in Crossref. Crossref bibliographic searches on preregistered replication and registered reports of syllogistic reasoning, and on negative premises in syllogisms, returned textbooks and unrelated work. An OSF registry title search on 'syllogis' returned 26 registrations, on belief bias, emotion, eye-tracking, political ideology, response options and disjunctive syllogism in chimpanzees. A Europe PMC search for the atmosphere effect in syllogistic reasoning returned three records, two of them 2025 papers in Memory & Cognition on conditional inferences and belief judgements rather than on categorical premise pairs. An OpenAlex search was attempted and its quota was exhausted, so that index was not searched. The percentages are response frequencies rather than standardised effect sizes, so none of them appear in this entry's effect-size fields, and the materials are abstract letters given to students. Sums across response columns are not quoted here, because the table prints the nine cells and not their totals. Four documents were not obtained. Woodworth and Sells, Begg and Denny, Wetherick and Gilhooly, and Chater and Oaksford are all closed at their publishers, and Birkbeck's repository record for the last of them holds no full text, so the four accounts are described here from the meta-analysis. Cohen and Nagel's textbook was not obtained either, and its rules are quoted from the meta-analysis, which prints them.",
+  "misreadings": "The commonest error is to fold this into the ban on two negative premises, which the Atlas covers under the fallacy of exclusive premises. Stock's own worked case shows why they come apart. His instance of an affirmative conclusion drawn from two negations breaks both rules at once, and the pair of negative premises is enough to sink it on its own. This entry is about the mixed case, where one premise denies and the other affirms, and about the reverse traffic from two affirmations to a denial. A second error is to assume the rules always travel together in modern presentations. They do not. The open logic textbook read for this entry sets out six rules from Copi and Cohen. They name the fallacy of drawing an affirmative conclusion from negative premises, and they carry no rule forbidding a negative conclusion from affirmative premises. A reader who learns the set from that page will have met one half of this entry. A third error is to read the low rates as evidence that people are reasoning. The atmosphere hypothesis predicts the same obedience from a mechanism that never inspects an argument, because its rule for the mood of the conclusion is the logical rule copied out. Where a heuristic and logic agree, obedience decides nothing between them. The place to look is where they disagree, and there the heuristics that permit an affirmative conclusion from a 'some are not' premise fit the data better than the one that forbids it. A fourth error is to treat the two rules as equally hard. They are not. The worst violation of the rule about negative premises runs at 24%, and the worst violation of the rule about affirmative premises at 4%. The last error is to read either rule as a claim about truth. A syllogism that breaks one is invalid, which leaves its conclusion open rather than false.",
+  "sources": [
+    {
+      "text": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457. Read in full as the PDF hosted at modeltheory.org, downloaded twice to the same checksum, with Table 6 extracted twice by two pdftotext modes, the columns located from their own headers, and each row checked against its printed accuracy. Source for every percentage quoted here, for the scholastic rules as quoted from Cohen and Nagel, for the statement of the atmosphere and matching hypotheses in Table 3, for Begg and Denny's reformulation, for the remark that the scholastic rules contain the atmosphere principles, for the theory predictions in Table 7, and for the correct-rejection figures and their definition in Table 8.",
+      "doi": "10.1037/a0026841",
+      "url": "https://modeltheory.org/papers/ssk/ssk2012syllogisms-meta-analysis.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Stock, St George William Joseph (1888). Deductive Logic. Read in full as the Project Gutenberg text, ebook 6560. Source for the sixth and seventh primary rules of the syllogism, for the grounds he gives for each, for the heading under which he files the fallacy, and for the worked case of an affirmative conclusion drawn from two negative premises.",
+      "url": "https://www.gutenberg.org/ebooks/6560",
+      "type": "primary"
+    },
+    {
+      "text": "Riesterer, N., Brand, D., Dames, H., & Ragni, M. (2020). Modeling human syllogistic reasoning: The role of 'No Valid Conclusion'. Topics in Cognitive Science, 12(1), 446-459. Read in full as the CC BY version deposited at the University of Southern Denmark research portal. Source for the description of atmosphere as a feature extraction step over positive and negative quantifiers, and for their reading of matching on a premise pair where it differs from the set printed in the meta-analysis.",
+      "doi": "10.1111/tops.12487",
+      "url": "https://findresearcher.sdu.dk/ws/files/172972792/Open_Access_Version.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Establishing Validity, in Introduction to Philosophy, Lumen Learning, adapted for El Paso Community College. Read as the raw page. Source for the six rules attributed to Copi and Cohen, for the name 'the fallacy of drawing an affirmative conclusion from negative premises', and for the observation that this presentation carries no rule against a negative conclusion from affirmative premises.",
+      "url": "https://courses.lumenlearning.com/elpaso-introphilosophy/chapter/establishing-validity/",
+      "type": "commentary"
+    },
+    {
+      "text": "Schulte, N., & Dames, H. (2021). Syllogisms II: Item Difficulties of Abstract Syllogisms (Prior Knowledge Sample). OSF registration, registered 25 January 2021. Read through the OSF API. Source for the design covering all 64 syllogisms, for the recruitment targets and cap, and for the analysis plan that recodes responses as correct or incorrect.",
+      "url": "https://osf.io/8zrvg",
+      "type": "provenance"
+    },
+    {
+      "text": "Woodworth, R. S., & Sells, S. B. (1935). An atmosphere effect in formal syllogistic reasoning. Journal of Experimental Psychology, 18(4), 451-460. Closed at the publisher and not obtained; the record was confirmed at Crossref and the account is described here from the meta-analysis.",
+      "doi": "10.1037/h0060520",
+      "url": "https://doi.org/10.1037/h0060520",
+      "type": "provenance"
+    },
+    {
+      "text": "Begg, I., & Denny, J. P. (1969). Empirical reconciliation of atmosphere and conversion interpretations of syllogistic reasoning errors. Journal of Experimental Psychology, 81(2), 351-354. Closed at the publisher and not obtained; the record was confirmed at Crossref, and the reformulation of atmosphere quoted here is the one the meta-analysis prints.",
+      "doi": "10.1037/h0027770",
+      "url": "https://doi.org/10.1037/h0027770",
+      "type": "provenance"
+    },
+    {
+      "text": "Wetherick, N. E., & Gilhooly, K. J. (1995). 'Atmosphere', matching, and logic in syllogistic reasoning. Current Psychology, 14(3), 169-178. Not obtained; the matching account is described here from the meta-analysis and from the 2020 modelling paper, which state its conservatism ordering in the same terms.",
+      "doi": "10.1007/BF02686906",
+      "url": "https://doi.org/10.1007/BF02686906",
+      "type": "provenance"
+    },
+    {
+      "text": "Chater, N., & Oaksford, M. (1999). The probability heuristics model of syllogistic reasoning. Cognitive Psychology, 38(2), 191-258. Closed at the publisher, with the Birkbeck repository record carrying no full text, and not obtained; its predictions are taken from the table in the meta-analysis.",
+      "doi": "10.1006/cogp.1998.0696",
+      "url": "https://doi.org/10.1006/cogp.1998.0696",
+      "type": "provenance"
+    },
+    {
+      "text": "Elsby, C., and others (2018). Bad Arguments: 100 of the Most Important Fallacies in Western Philosophy. Not obtained; Crossref lists 103 chapter records for the volume, with chapters on exclusive premises, illicit major and minor terms, the undistributed middle and four terms, and none whose title names either rule covered here.",
+      "doi": "10.1002/9781119165811",
+      "url": "https://doi.org/10.1002/9781119165811",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
