@@ -1,0 +1,124 @@
+{
+  "no": 470,
+  "slug": "mcgurk-effect",
+  "name": "McGurk effect",
+  "aliases": [
+    "McGurk illusion",
+    "McGurk-MacDonald effect"
+  ],
+  "category": "perception",
+  "statement": "Dubbing a heard 'ba' onto film of a mouth saying 'ga' makes listeners report hearing 'da', a syllable carried by neither channel.",
+  "meaning": "McGurk and MacDonald separated two outcomes. A fused response carries an element present in neither modality, as when auditory 'ba' with visual 'ga' is heard as 'da'. A combination response strings the two together, as when auditory 'ga' with visual 'ba' is heard as 'bagba' or 'gabga'. The reversed pairing produced no fusions in adults, so the illusion is not symmetric in the way the popular retelling suggests. The conflict driving it is sensory rather than motivational, which separates it from the claims filed under top-down effects on perception, which has its own entry. Usage has since widened. Some researchers count only fusions; others count every response that departs from the sound presented, which is a larger number. Alsius, Paré and Munhall argue for the wider definition, and for reporting the percentage of responses that do not match the auditory stimulus. Rates computed under the two definitions are not comparable, and part of the spread in published figures comes from that alone.",
+  "origin": {
+    "year": 1976,
+    "who": "Harry McGurk and John MacDonald",
+    "where": "Nature",
+    "note": "A three-page letter from the Department of Psychology at the University of Surrey, received 15 July and accepted 11 November 1976. MacDonald wrote in 2018 that the dubbed tapes were made for a planned study of infants' audio-visual coordination, and that the illusion was noticed by accident when he previewed them; the model was Susan Ballantyne, recruited because she had amateur dramatic experience and a southeast of England accent."
+  },
+  "evidence": "A woman was filmed repeating ba-ba, ga-ga, pa-pa and ka-ka, one utterance per second with about 0.5 s between repetitions. Four dubbed video-records were cut from the master: ba-voice with ga-lips, ga-voice with ba-lips, pa-voice with ka-lips, and ka-voice with pa-lips. Twenty-one pre-school children, given as 3 to 4 years in the text and 3 to 5 in the table, 28 primary school children aged 7 to 8 and 54 adults aged 18 to 40 saw all four in counterbalanced order. Each did so twice, once watching the monitor and once facing away from it. Auditory-only accuracy averaged 91% for the pre-school group, 97% for the school group and 99% for adults, with errors the authors call unsystematic. With the picture visible the error rate rose to 59%, 52% and 92% for the three groups. Table 2 gives the percentage of responses in each category. Auditory ba-ba with visual ga-ga produced fused responses on 81% of pre-school trials, 64% of school-age trials and 98% of adult trials. Auditory pa-pa with visual ka-ka produced fusions on 52%, 50% and 81%. The two reversed pairings produced no fusions in adults and combination responses instead, 54% for ga-voice with ba-lips and 44% for ka-voice with pa-lips. The paper reports no test statistic, no variance and no per-subject data, saying only that appropriate analyses confirm the effects are statistically reliable, and that the data alone fail to testify to the power of the illusions.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Visual speech does alter what listeners report hearing, and the 98% does not travel: with the stimuli held fixed, fusion rates ran from 10% to 60% across tasks and testing settings.",
+    "detail": "Getz and Toscano varied response format, stimulus set and whether testing happened in a laboratory or on Mechanical Turk, using the same recordings throughout, and report fusion rates between 10% and 60%. They conclude the effect exists only for some individuals under specific task conditions. Basu Mallick, Magnotti and Beauchamp gave 165 English-speaking adults 12 different McGurk stimuli. Individual fusion rates ran from 0% to 100% and stimulus rates from 17% to 58%. For single stimuli the distribution was bimodal, with 77% of participants reporting the effect on 10% of trials or fewer, or on 90% or more. Forty were retested a year later and changed by a mean of 2%, with a test-retest correlation of r = 0.91. Switching from open-choice to forced-choice responding raised the estimated frequency by 18%. Magnotti, Lado and Beauchamp tested 80 native Japanese speakers on 15 stimuli and found fusion rates of 3% to 78% across stimuli and 0% to 91% across participants. Alsius, Paré and Munhall surveyed 27 studies covering 1,044 participants and counted 153 classed as non-perceivers, 14.6% of the total, with study-level proportions from 1.8% to 67.7%. On language, Magnotti and colleagues tested 162 Mandarin speakers in China and 145 English speakers in the USA on nine stimuli and found 48% against 44%, with cultural group accounting for 0.2% of the variance and stimulus rates spanning 14% to 83%. Feng and colleagues tested 324 Mandarin-speaking twins on nine stimuli; co-twin correlations were r = 0.28 for monozygotic and r = 0.21 for dizygotic pairs, together explaining 5.5% of the variance.",
+    "study": {
+      "cite": "Getz, L. M., & Toscano, J. C. (2021). Rethinking the McGurk effect as a perceptual illusion. Attention, Perception, & Psychophysics, 83(6), 2583-2598.",
+      "doi": "10.3758/s13414-021-02265-6",
+      "year": 2021
+    }
+  },
+  "limits": "The 1976 paper gives percentages and nothing else, so no effect size or interval can be quoted from it and the structured fields here are left empty. MacDonald wrote in 2018 that the original tapes appear to have been lost, which rules out a repeat with the original materials; every laboratory builds its own stimuli. Those stimuli differ from each other. Jiang and Bernstein accounted for 52% of the variance in fusion responses using physical measures of the recordings, a figure taken here from Alsius, Paré and Munhall's description of that paper rather than from the paper itself. Non-perceivers are often screened out before an experiment or dropped after it, which removes the participants who bear most on the effect's boundaries. Magnotti and Beauchamp show by simulation that with a true group difference of 10% and 15 participants per group, publishing only the results that reach significance lifts the mean estimate to 30%. Searches at Crossref, PubMed, Europe PMC and on the open web returned no multi-laboratory or registered replication project for the McGurk effect. The largest single samples located were 307 for the Mandarin and English comparison and 869 for a comparison of autistic and non-autistic adults, the latter finding no group difference and a correlation with age instead.",
+  "misreadings": "Robust and common are different claims, and the literature supports the first more easily than the second. The 98% is also narrower than it looks. It is a percentage of responses to one of four dubbed recordings in Table 2, though the paper's own text calls it a percentage of adult subjects. That same paragraph reports 59% combination responses for the reversed pairing where Table 2 gives 54%, and only the table figure keeps the row summing to 100. The age pattern usually gets dropped from retellings. Adults were the most susceptible group and pre-school children the least, 98% against 81% on the ba-ga pairing, and MacDonald later described the range as 98% in adults to about 50% in children. The claim that Japanese listeners barely show the effect rests on ten subjects. Sekiyama and Tohkura found the effect small without noise and strong with noise added, and read it as depending on how intelligible the sound was on its own. Tiippana, Ujiie, Peromaa and Takahashi tested 49 Finnish and 49 Japanese listeners and found the McGurk effect stronger with Japanese talkers in both groups, with differences between individual talkers larger than differences between native languages. A syllable illusion is also not a measure of ordinary listening. Van Engen, Xie and Chandrasekaran measured McGurk susceptibility and sentence recognition in noise in the same listeners and found no relationship between the two. Van Engen, Dey, Sommers and Peelle argue that McGurk tasks are ill-suited to real-life audiovisual speech, since the stimuli are isolated syllables and turn on an incongruence that does not arise naturally. McGurk and MacDonald wrote that the illusions do not habituate over time; Alsius, Paré and Munhall note that in practice the effect shows up on only a proportion of trials within an experiment.",
+  "sources": [
+    {
+      "text": "McGurk, H., & MacDonald, J. (1976). Hearing lips and seeing voices. Nature, 264(5588), 746-748. Read for this entry from a page scan of the journal, with Table 2 re-read at higher resolution.",
+      "doi": "10.1038/264746a0",
+      "url": "http://wexler.free.fr/library/files/mcgurk%20(1976)%20hearing%20lips%20and%20seeing%20voices.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "MacDonald, J. (2018). Hearing lips and seeing voices: the origins and development of the 'McGurk effect' and reflections on audio-visual speech perception over the last 40 years. Multisensory Research, 31(1-2), 7-18. The source for the discovery, the model and the loss of the tapes.",
+      "doi": "10.1163/22134808-00002548",
+      "url": "https://doi.org/10.1163/22134808-00002548",
+      "type": "commentary"
+    },
+    {
+      "text": "Getz, L. M., & Toscano, J. C. (2021). Rethinking the McGurk effect as a perceptual illusion. Attention, Perception, & Psychophysics, 83(6), 2583-2598. Described here from its abstract; the full text is paywalled.",
+      "doi": "10.3758/s13414-021-02265-6",
+      "url": "https://doi.org/10.3758/s13414-021-02265-6",
+      "type": "replication"
+    },
+    {
+      "text": "Basu Mallick, D., Magnotti, J. F., & Beauchamp, M. S. (2015). Variability and stability in the McGurk effect: contributions of participants, stimuli, time, and response type. Psychonomic Bulletin & Review, 22(5), 1299-1307. Described here from its abstract; the full text is paywalled.",
+      "doi": "10.3758/s13423-015-0817-4",
+      "url": "https://doi.org/10.3758/s13423-015-0817-4",
+      "type": "replication"
+    },
+    {
+      "text": "Magnotti, J. F., & Beauchamp, M. S. (2015). The noisy encoding of disparity model of the McGurk effect. Psychonomic Bulletin & Review, 22(3), 701-709. Described here from its abstract; the full text is paywalled.",
+      "doi": "10.3758/s13423-014-0722-2",
+      "url": "https://doi.org/10.3758/s13423-014-0722-2",
+      "type": "replication"
+    },
+    {
+      "text": "Magnotti, J. F., Lado, A., & Beauchamp, M. S. (2024). The noisy encoding of disparity model predicts perception of the McGurk effect in native Japanese speakers. Frontiers in Neuroscience, 18, 1421713.",
+      "doi": "10.3389/fnins.2024.1421713",
+      "url": "https://doi.org/10.3389/fnins.2024.1421713",
+      "type": "replication"
+    },
+    {
+      "text": "Magnotti, J. F., Basu Mallick, D., Feng, G., Zhou, B., Zhou, W., & Beauchamp, M. S. (2025). The McGurk effect is similar in native Mandarin Chinese and American English speakers. Frontiers in Psychology, 16, 1531566. The paper's author note records that this is a republication of a 2015 paper withdrawn in 2024 to remove still frames of the talkers, with the data unchanged.",
+      "doi": "10.3389/fpsyg.2025.1531566",
+      "url": "https://doi.org/10.3389/fpsyg.2025.1531566",
+      "type": "replication"
+    },
+    {
+      "text": "Feng, G., Zhou, B., Zhou, W., Beauchamp, M. S., & Magnotti, J. F. (2019). A laboratory study of the McGurk effect in 324 monozygotic and dizygotic twins. Frontiers in Neuroscience, 13, 1029.",
+      "doi": "10.3389/fnins.2019.01029",
+      "url": "https://doi.org/10.3389/fnins.2019.01029",
+      "type": "replication"
+    },
+    {
+      "text": "Alsius, A., Paré, M., & Munhall, K. G. (2018). Forty years after hearing lips and seeing voices: the McGurk effect revisited. Multisensory Research, 31(1-2), 111-144. Read from the authors' copy of the accepted manuscript, which carries the published DOI.",
+      "doi": "10.1163/22134808-00002565",
+      "url": "http://brain.phgy.queensu.ca/pare/assets/Alsius2017.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Magnotti, J. F., & Beauchamp, M. S. (2018). Published estimates of group differences in multisensory integration are inflated. PLOS ONE, 13(9), e0202908.",
+      "doi": "10.1371/journal.pone.0202908",
+      "url": "https://doi.org/10.1371/journal.pone.0202908",
+      "type": "commentary"
+    },
+    {
+      "text": "Tiippana, K., Ujiie, Y., Peromaa, T., & Takahashi, K. (2023). Investigation of cross-language and stimulus-dependent effects on the McGurk effect with Finnish and Japanese speakers and listeners. Brain Sciences, 13(8), 1198.",
+      "doi": "10.3390/brainsci13081198",
+      "url": "https://doi.org/10.3390/brainsci13081198",
+      "type": "replication"
+    },
+    {
+      "text": "Sekiyama, K., & Tohkura, Y. (1991). McGurk effect in non-English listeners: few visual effects for Japanese subjects hearing Japanese syllables of high auditory intelligibility. The Journal of the Acoustical Society of America, 90(4), 1797-1805. Described here from its abstract; the full text is paywalled.",
+      "doi": "10.1121/1.401660",
+      "url": "https://doi.org/10.1121/1.401660",
+      "type": "replication"
+    },
+    {
+      "text": "Van Engen, K. J., Xie, Z., & Chandrasekaran, B. (2017). Audiovisual sentence recognition not predicted by susceptibility to the McGurk effect. Attention, Perception, & Psychophysics, 79(2), 396-403. Described here from its abstract; the full text could not be retrieved.",
+      "doi": "10.3758/s13414-016-1238-9",
+      "url": "https://doi.org/10.3758/s13414-016-1238-9",
+      "type": "replication"
+    },
+    {
+      "text": "Van Engen, K. J., Dey, A., Sommers, M. S., & Peelle, J. E. (2022). Audiovisual speech perception: moving beyond McGurk. The Journal of the Acoustical Society of America, 152(6), 3216-3225. Described here from its abstract; the full text could not be retrieved.",
+      "doi": "10.1121/10.0015262",
+      "url": "https://doi.org/10.1121/10.0015262",
+      "type": "commentary"
+    },
+    {
+      "text": "Jertberg, R. M., Begeer, S., Geurts, H. M., Chakrabarti, B., & Van der Burg, E. (2024). Age, not autism, influences multisensory integration of speech stimuli among adults in a McGurk/MacDonald paradigm. European Journal of Neuroscience, 59(11), 2979-2994. Described here from its abstract.",
+      "doi": "10.1111/ejn.16319",
+      "url": "https://doi.org/10.1111/ejn.16319",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
