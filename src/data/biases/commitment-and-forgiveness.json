@@ -1,0 +1,82 @@
+{
+  "no": 468,
+  "slug": "commitment-and-forgiveness",
+  "name": "Commitment and forgiveness",
+  "aliases": [
+    "The commitment-forgiveness effect",
+    "Commitment priming and forgiveness of betrayal"
+  ],
+  "category": "social",
+  "statement": "Priming someone to think about their commitment to a partner is said to make them respond to that partner's betrayals less destructively.",
+  "meaning": "The idea has two versions and they are routinely merged. The weaker one is an association: people who report stronger commitment also report forgiving more. The stronger one is causal, that shifting commitment for a few minutes shifts forgiveness with it. Finkel and colleagues tested the causal version by having people write about their dependence on a partner or about their independence from one, then asking how they would react to twelve hypothetical betrayals. Reactions were sorted into four kinds. Exit is actively destructive, such as seeking revenge. Neglect is passively destructive, such as the cold shoulder. Voice is actively constructive, such as raising the issue. Loyalty is passively constructive, such as waiting for things to improve. Less exit and less neglect are counted as more forgiveness.",
+  "origin": {
+    "year": 2002,
+    "who": "Eli J. Finkel, Caryl E. Rusbult, Madoka Kumashiro and Peggy A. Hannon",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is titled \"Dealing with betrayal in close relationships: Does commitment promote forgiveness?\" and reports three studies. Only the first is an experiment, and its authors describe it as the first attempt to manipulate commitment level in an ongoing relationship."
+  },
+  "evidence": "Study 1 primed 89 undergraduates at the University of North Carolina at Chapel Hill, 22 men and 67 women, each in a dating relationship of at least a month. Five open-ended prompts pushed one group towards dependence and commitment and the other towards independence, presented as a separate pilot study so that nobody would link it to what came next. All ratings ran from 0 to 8. The prime raised reported commitment from 5.73 to 7.06, F(1, 85) = 11.79. Exit fell from 2.51 to 1.85, F(1, 85) = 13.15, and neglect from 3.92 to 3.50, F(1, 85) = 6.94. Voice rose from 4.95 to 5.39 and loyalty from 3.80 to 4.10, neither reliably, though the authors had predicted movement on all four measures. The other two studies in the paper are not experiments: a cross-sectional survey of 155 undergraduates, and a two-week interaction record from 78 people, of whom 64 reported a betrayal.",
+  "replication": {
+    "state": "failed",
+    "headline": "Sixteen laboratories ran the priming protocol on 2,284 people, and the prime moved neither forgiveness nor commitment itself.",
+    "detail": "Irene Cheung, Lorne Campbell and Etienne LeBel built the replication protocol with Eli Finkel, who supplied his original materials and reviewed the scripts. Sixteen laboratories in five countries preregistered and collected 2,284 participants, 210 of whom were excluded under the first of the project's two exclusion levels. Against the original exit gap of .65 points, the random-effects meta-analysis returned -.06, 95% confidence interval -.17 to .05. Neglect came out at -.06, -.18 to .07. Voice, which the original also failed to move, gave .03, -.08 to .13, and loyalty .00, -.08 to .09. Six laboratories pointed the other way on exit and eight on neglect. The manipulation check decides how to read all of this. The original raised reported commitment by 1.33 points; the sixteen laboratories together raised it by .02, -.07 to .10, with variation across sites no larger than chance would produce. The prime failed at the first thing it had to do. Cheung and colleagues draw the consequence themselves, writing that the report provides no evidence for or against the causal role of commitment in the forgiveness process. The association survived in the same data. Pooled across laboratories, subjective commitment correlated -.18 with exit, -.13 with neglect, .22 with voice and .10 with loyalty.",
+    "study": {
+      "cite": "Cheung, I., Campbell, L., LeBel, E. P., et al. (2016). Registered Replication Report: Study 1 From Finkel, Rusbult, Kumashiro, & Hannon (2002). Perspectives on Psychological Science, 11(5), 750-764.",
+      "doi": "10.1177/1745691616664694",
+      "year": 2016,
+      "sites": 16,
+      "n": 2284
+    },
+    "original": {
+      "es": -0.65,
+      "esType": "md",
+      "unit": "points on the 0 to 8 exit scale"
+    },
+    "replicated": {
+      "es": -0.06,
+      "esType": "md",
+      "unit": "points on the 0 to 8 exit scale",
+      "ci": [
+        -0.17,
+        0.05
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    }
+  },
+  "limits": "The two figures above are raw differences on the study's own 0 to 8 exit scale, which is how both papers report them; standardising them would produce a number neither source carries. The original's Table 1 gives exit means of 2.51 and 1.85, a gap of .66, while the replication report, which reproduced the original analyses from the raw data, states the gap as .65, and the figure above follows the report. Both sides of the comparison used the same narrow population. Every participant was an undergraduate in a dating relationship of at least a month, and the replication restricted itself to ages 18 to 24. Every betrayal was hypothetical, and every outcome was a rating of what a person imagined they would do. Finkel published a reply in the same issue of the journal, at pages 765 to 767. Its text sits behind the publisher's paywall, the fetches attempted for this entry returned nothing usable, and it is therefore cited below without being described.",
+  "misreadings": "The commonest error is to read the replication as showing that commitment does not cause forgiveness. What failed was a five-question writing task, which left reported commitment where it found it, so nothing downstream of it was put to the test. A manipulation that does not manipulate says little about the theory it was built for. The second error runs the other way, treating the failed prime as grounds for doubting the association. Fehr, Gelfand and Nag pooled 17 effect sizes and 1,972 people and put the correlation between relationship commitment and forgiveness at a weighted mean r of .20, 95% confidence interval .12 to .27, in the corrected tables the three of them issued in 2011. So a well-supported correlation sits beside a manipulation that has now failed once at scale, which is the shape the entries on cognitive dissonance and escalation of commitment take from their own directions. A third error is treating the original as being about forgiveness in general. It moved the destructive responses, exit and neglect, and left the constructive ones alone, which is not what its authors had predicted. A fourth is forgetting what the outcome was. These are ratings of twelve imagined betrayals typed into a questionnaire, not conduct after a real one. Fehr and colleagues found that using recalled offences rather than scenarios moved several correlates, intent among them at -.31 for recall against -.66 for scenarios; their moderation table covers seven correlates and commitment is not one of them.",
+  "sources": [
+    {
+      "text": "Finkel, E. J., Rusbult, C. E., Kumashiro, M., & Hannon, P. A. (2002). Dealing with betrayal in close relationships: Does commitment promote forgiveness? Journal of Personality and Social Psychology, 82(6), 956-974.",
+      "doi": "10.1037/0022-3514.82.6.956",
+      "url": "https://doi.org/10.1037/0022-3514.82.6.956",
+      "type": "primary"
+    },
+    {
+      "text": "Cheung, I., Campbell, L., LeBel, E. P., et al. (2016). Registered Replication Report: Study 1 From Finkel, Rusbult, Kumashiro, & Hannon (2002). Perspectives on Psychological Science, 11(5), 750-764.",
+      "doi": "10.1177/1745691616664694",
+      "url": "https://doi.org/10.1177/1745691616664694",
+      "type": "replication"
+    },
+    {
+      "text": "Finkel, E. J. (2016). Reflections on the Commitment-Forgiveness Registered Replication Report. Perspectives on Psychological Science, 11(5), 765-767. Cited for its existence and place in the record; its text was not obtained for this entry.",
+      "doi": "10.1177/1745691616664695",
+      "url": "https://doi.org/10.1177/1745691616664695",
+      "type": "secondary"
+    },
+    {
+      "text": "Fehr, R., Gelfand, M. J., & Nag, M. (2010). The road to forgiveness: A meta-analytic synthesis of its situational and dispositional correlates. Psychological Bulletin, 136(5), 894-914.",
+      "doi": "10.1037/a0019993",
+      "url": "https://doi.org/10.1037/a0019993",
+      "type": "secondary"
+    },
+    {
+      "text": "Fehr, R., Gelfand, M. J., & Nag, M. (2011). \"The road to forgiveness: A meta-analytic synthesis of its situational and dispositional correlates\": Correction to Fehr et al. (2010). Psychological Bulletin, 137(2), 366. The corrected Tables 2 and 3 are the ones quoted above.",
+      "doi": "10.1037/a0023012",
+      "url": "https://doi.org/10.1037/a0023012",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}

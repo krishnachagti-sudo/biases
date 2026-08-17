@@ -136,12 +136,26 @@ means with t values, 1.76% and t = 0.65, 0.35% and t = 0.11, −0.13% and
 t = −0.04. None of them are in the article. Every figure on that page was
 re-extracted from the JATS XML.
 
+The worst case so far returned the wrong paper. An agent downloaded a URL for
+the Finkel Registered Replication Report and got back a complete and entirely
+plausible document: an abstract, a Table 1 with a total of 2,284, the priming
+items, a results section. It contained zero occurrences of the word "Finkel".
+It was a different Registered Replication Report altogether. Re-downloading the
+same URL returned a different checksum and the right paper. Nothing about the
+first document announced itself as wrong, and an agent that had simply read it
+would have written an entry whose every figure came from another study.
+
+That case also shows why the rule is worth keeping when it costs nothing. The
+figures from the correct document happened to agree with what had been taken
+from the wrong one, so the check appeared to waste effort and did not.
+
 The defence is cheap. A figure that matters gets seen twice, or it does not
 get published. A figure that appears on one fetch and not the next is treated
 as not obtained, not as a retrieval glitch to work around. Where a PDF's text
 can be read directly, read it, and treat any summarised rendering of it as a
 secondary source in the sense this protocol already defines. The XML or the
-raw text of a document beats any rendering of it.
+raw text of a document beats any rendering of it. And a document is checked
+for the author's name before anything is taken from it.
 
 ## A search result can invent the whole paper
 
