@@ -1,0 +1,102 @@
+{
+  "no": 584,
+  "slug": "feedback-fallacy",
+  "name": "Feedback fallacy",
+  "aliases": ["Feedback intervention effect", "Double-edged sword of feedback"],
+  "category": "social",
+  "statement": "Telling people how they are doing is assumed to improve performance, and in over a third of the effects one meta-analysis collected it lowered performance instead.",
+  "meaning": "The claim has two halves and only the second one bites. The first is that feedback works on average, which it does: the pooled estimate is positive and moderate. The second is that the average hides a distribution wide enough to contain a large block of harm, and that the harmful cases are not sampling noise. Kluger and DeNisi's argument rests on the gap between the weighted variance of their effects, 0.97, and the sampling error variance they expected, 0.09, which leaves something real moving the effects around. Their proposed mover is attention. A feedback message that points the recipient at the task helps, and one that points the recipient at themselves does not.",
+  "origin": {
+    "year": 1996,
+    "who": "Avraham N. Kluger and Angelo DeNisi",
+    "where": "Psychological Bulletin",
+    "note": "Their paper is \"The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory\". The phrase \"feedback fallacy\" is not in it. That name comes from a 2019 Harvard Business Review article by Marcus Buckingham and Ashley Goodall, which argues a much stronger thesis and cites no study for it."
+  },
+  "evidence": "Kluger and DeNisi screened the feedback literature and kept 131 papers, from which they extracted 607 effect sizes based on 12,652 participants and 23,663 observations. The average sample behind an effect was 39 participants. Weighted by sample size, the mean d was 0.41, and over 38% of the effects were negative. The weighted variance was 0.97 against an expected sampling error variance of 0.09. One author, Mikulincer, supplied 91 of the effects, and his studies used extreme negative feedback and averaged d = -0.39; dropping them raised the mean to 0.47 and left 33% of the remainder negative. After removing those effects, trimming outliers and dropping 17 time-series estimates, 470 effects survived, 32% of them negative, with a mean of 0.38. The moderator table is where the theory lives. Feedback that supplied the correct solution ran at 0.43 against 0.25 without it, and velocity feedback at 0.55 against 0.28. Praise ran at 0.09 against 0.34, feedback designed to discourage at -0.14, and the quartile of studies whose feedback most threatened self-esteem at 0.08 against 0.47 for the least threatening quartile. Feedback on physical tasks came out at -0.11.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The shape of the finding repeats, a positive average over a wide spread with a negative minority, and the size of that minority moves from 38% to 17% between the two largest meta-analyses.",
+    "detail": "Wisniewski, Zierer and Hattie ran the largest later synthesis, on educational feedback: 435 studies, 994 effect sizes, more than 61,000 participants. Their random-effects mean was d = 0.55, 95% CI 0.48 to 0.62, with 17% of effects negative and I2 = 86.47%. Removing the 35 effects flagged as extreme brought the mean to 0.48, 95% CI 0.44 to 0.51. Their moderator split runs the same direction as Kluger and DeNisi's: reinforcement or punishment at 0.24, 95% CI 0.06 to 0.43, corrective feedback at 0.46, 95% CI 0.39 to 0.55, and high-information feedback at 0.99, 95% CI 0.82 to 1.15. Of the effects on motivational outcomes, 21% were negative, and 86% of those came from uninformative feedback. The workplace picture is weaker than either. Smither, London and Reilly meta-analysed 24 longitudinal multisource feedback studies and got corrected mean ds of 0.15 from direct reports, 0.05 from peers, 0.15 from supervisors and -0.04 from self-ratings. Every 95% interval except the supervisor one included zero. Field experiments give small and content-dependent effects. Awaysheh, Bonet and Ortega rotated individual, relative, full and control feedback across four sections of a Fortune 500 distribution centre over eight weeks, on 1,105 employee-week observations. Performance shifted by about one percent, and the sign followed what the message implied about the payoff to effort. Anseel and Sherf reviewed 25 years of organisational feedback research and reported that they struggled to identify cumulative progress, and that they could not identify clear and replicable moderators of resistance to negative feedback.",
+    "study": {
+      "cite": "Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. Frontiers in Psychology, 10, 3087.",
+      "doi": "10.3389/fpsyg.2019.03087",
+      "year": 2020
+    },
+    "original": {
+      "es": 0.41,
+      "esType": "d",
+      "weighting": "weighted by sample size, all 607 effects"
+    },
+    "replicated": {
+      "es": 0.55,
+      "esType": "d",
+      "ci": [0.48, 0.62],
+      "ciLevel": 95,
+      "weighting": "random effects, all 994 effect sizes"
+    }
+  },
+  "limits": "The two meta-analyses are not the same test. Kluger and DeNisi pooled experiments across psychology, most of them outside organisations; Wisniewski and colleagues pooled educational studies and describe their own work as replicating Hattie and Timperley rather than Kluger and DeNisi. Reading the second as a repeat of the first is a conceptual move, not an arithmetic one, and the 38% against 17% gap may be a gap between literatures. Anseel and Sherf make the sharper version of the point. The Kluger and DeNisi outcomes were reading errors, memory retention, test performance, puzzles, motor performance, reaction time, arithmetic computations, maintenance jobs and adherence to regulations. Interpersonal feedback to employees was excluded, so advice on how a manager should phrase a review does not follow from it. Kluger and DeNisi report weighted variances rather than intervals, and no confidence interval for the mean d was found in the full text of the article. The fMRI work behind the neuroscience claim in the Buckingham and Goodall article was closed access on this pass. Only the PubMed abstract of Jack and colleagues was read, and it names no participant count, so no sample size is quoted here. Hoffman, Lance, Bynum and Gentry's argument that rater source effects are larger than the idiosyncratic-rater literature implies is named below and was not read, and their journal blocked both fetch attempts.",
+    "misreadings": "The 38% is quoted as though it described workplace feedback conversations. It describes laboratory and training tasks, and Anseel and Sherf name the misuse directly. The finding is also read as showing that feedback fails, when the same table shows what worked: telling people the correct solution, telling them how fast they are closing the gap, and keeping the message on the task. Buckingham and Goodall's article is often cited as the source of the evidence, and the 11-page reprint names no study for its central claims. Its idiosyncratic-rater figure, that more than half of a rating reflects the rater rather than the person rated, matches Scullen, Mount and Goff, who put idiosyncratic rater effects at 62% and 53% of rating variance in two samples of managers. The same abstract puts general and dimensional ratee performance at 21% and 25% and random error at 11% and 18%, which is not the article's stronger gloss that such a score is all noise and no signal.",
+  "sources": [
+    {
+      "text": "Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. Psychological Bulletin, 119(2), 254-284. Read in full from a scan; every figure in the evidence section above is read off it.",
+      "doi": "10.1037/0033-2909.119.2.254",
+      "url": "https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. Frontiers in Psychology, 10, 3087. Open access; read in full.",
+      "doi": "10.3389/fpsyg.2019.03087",
+      "url": "https://doi.org/10.3389/fpsyg.2019.03087",
+      "type": "replication"
+    },
+    {
+      "text": "Smither, J. W., London, M., & Reilly, R. R. (2005). Does performance improve following multisource feedback? A theoretical model, meta-analysis, and review of empirical findings. Personnel Psychology, 58(1), 33-66. Read in full from a scan.",
+      "doi": "10.1111/j.1744-6570.2005.514_1.x",
+      "url": "https://doi.org/10.1111/j.1744-6570.2005.514_1.x",
+      "type": "replication"
+    },
+    {
+      "text": "Awaysheh, A., Bonet, R., & Ortega, J. (2023). Performance feedback and productivity: Evidence from a field experiment. Production and Operations Management, 32(1), 98-115. The accepted manuscript was read in full; the volume and pages are from the publisher record at Crossref.",
+      "doi": "10.1111/poms.13827",
+      "url": "https://doi.org/10.1111/poms.13827",
+      "type": "replication"
+    },
+    {
+      "text": "Anseel, F., & Sherf, E. N. (2025). A 25-year review of research on feedback in organizations: From simple rules to complex realities. Annual Review of Organizational Psychology and Organizational Behavior, 12(1), 19-43. Read in full.",
+      "doi": "10.1146/annurev-orgpsych-110622-031927",
+      "url": "https://doi.org/10.1146/annurev-orgpsych-110622-031927",
+      "type": "commentary"
+    },
+    {
+      "text": "Buckingham, M., & Goodall, A. (2019). The feedback fallacy. Harvard Business Review, 97(2), 92-101. The 11-page reprint R1902G was read in full; the volume and pages are from Anseel and Sherf's reference list.",
+      "url": "https://hbr.org/2019/03/the-feedback-fallacy",
+      "type": "commentary"
+    },
+    {
+      "text": "Scullen, S. E., Mount, M. K., & Goff, M. (2000). Understanding the latent structure of job performance ratings. Journal of Applied Psychology, 85(6), 956-970. Closed access; the variance components quoted here are read from the PubMed abstract.",
+      "doi": "10.1037/0021-9010.85.6.956",
+      "url": "https://doi.org/10.1037/0021-9010.85.6.956",
+      "type": "primary"
+    },
+    {
+      "text": "Heine, I., Stouten, J., & Liden, R. C. (2025). Performance feedback: A critical systematic review. Journal of Organizational Behavior, 47(2), 312-361. Read from the abstract deposited at Crossref, which reports that positive feedback consistently enhances performance while negative feedback needs moderators or a strong supervisor relationship.",
+      "doi": "10.1002/job.70033",
+      "url": "https://doi.org/10.1002/job.70033",
+      "type": "commentary"
+    },
+    {
+      "text": "Jack, A. I., Boyatzis, R. E., Khawaja, M. S., Passarelli, A. M., & Leckie, R. L. (2013). Visioning in the brain: An fMRI study of inspirational coaching and mentoring. Social Neuroscience, 8(4), 369-384. The published fMRI work on the coaching contrast Boyatzis is quoted about in the Harvard Business Review article. Closed access; only the PubMed abstract was read, and no figure from it is quoted here.",
+      "doi": "10.1080/17470919.2013.808259",
+      "url": "https://doi.org/10.1080/17470919.2013.808259",
+      "type": "primary"
+    },
+    {
+      "text": "Hoffman, B. J., Lance, C. E., Bynum, B., & Gentry, W. A. (2010). Rater source effects are alive and well after all. Personnel Psychology, 63(1), 119-151. Named as the counterargument to reading rater variance as pure error; the publisher blocked two fetch attempts and it was not read.",
+      "doi": "10.1111/j.1744-6570.2009.01164.x",
+      "url": "https://doi.org/10.1111/j.1744-6570.2009.01164.x",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
