@@ -1,0 +1,124 @@
+{
+  "no": 398,
+  "slug": "human-robot-interaction",
+  "name": "Human-robot interaction",
+  "aliases": ["HRI", "Uncanny valley", "Bukimi no tani", "Mori's hypothesis"],
+  "category": "perception",
+  "statement": "Human-robot interaction is a research field, and its best-known testable claim is Mori's uncanny valley, a predicted dip in affinity for machines that look almost human.",
+  "meaning": "This entry is not about a bias. Human-robot interaction is a discipline with its own conferences and journals, and it arrives in a list of cognitive biases because Wikipedia's category system puts it there. What can be graded is the claim the field is built around. Masahiro Mori proposed that affinity for an artificial thing rises with its human likeness, falls sharply near the point of resemblance, and rises again as the thing becomes indistinguishable from a person. Two separate assertions live inside that. One is that some almost-human faces are disliked, which is a contrast between stimuli. The other is that affinity traces a particular shape as human likeness increases, which is a claim about a curve. The two are measured by different studies, they have different verdicts, and the literature quotes them interchangeably.",
+  "origin": {
+    "year": 1970,
+    "who": "Masahiro Mori",
+    "where": "Energy",
+    "note": "The essay ran in a Japanese journal called Energy, volume 7, number 4, pages 33 to 35, and drew almost no attention for decades. It contains a hand-drawn graph and no measurements. The English text now quoted is the 2012 translation by Karl MacDorman and Norri Kageki, described by IEEE Spectrum as the first publication of an English translation authorised and reviewed by Mori."
+  },
+  "evidence": "Mori argued from examples rather than data: prosthetic hands, bunraku puppets and corpses. His Figure 1 is a sketch of a proposed relation. The first attempt to estimate the curve from a large stimulus set is Mathur and Reichling's, who had subjects rate 80 real-world robot faces chosen objectively rather than digitally blended. They report an uncanny valley in explicit likability, and an investment game in which the same dip showed up in decisions about whether to trust a robot with money. Their multisite follow-up is the strongest direct test of the shape located here. Twelve authors at six sites in four countries collected data from 358 subjects rating a validated corpus of 182 real robot and human faces, with methods and analyses preregistered. On scales running from -100 to 100, likability climbed from the most mechanical faces to an initial apex of -18.0 at a mechano-humanness score of -80.9, dropped to a low of -67.4 at -23.6, then rose to a maximum of 59.6 at 93.2. The paper states that all key features of the theorised Uncanny Valley were apparent in these stimuli. One feature did not match the drawing. The first apex sat below zero, so even the plainly mechanical robots were disliked, which the authors read as a problem for the design strategy of avoiding the valley by staying mechanical. The same study tested the mechanism most often offered for the effect. Mouse trajectories supplied three implicit measures of confusion between the categories robot and human, and the indirect effects ran from -0.6 (95% CI -3.6 to 2.1) to 2.8 (95% CI -1.9 to 15.4) against direct effects of 30 to 32.7, so confusion did not carry the dip.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Pooled across 72 studies the dislike effect is large, and the meta-analysis that went after the shape of the curve found the rise, a plateau and no valley.",
+    "detail": "Two meta-analyses disagree because they measure different claims. Diel, Weigelt and MacDorman screened 468 studies, included 72 from 56 papers and pooled 247 effect sizes in a three-level model, giving Hedges' g = 1.01 (95% CI 0.80 to 1.22). Their studies ran from 10 to 1,311 participants with a median of 64.5, and total I-squared was 98.87. Smaller studies reported bigger effects. A regression of g on standard error found funnel asymmetry (z = 6.72, p < .001, k = 249), and dropping the 66 effects with the largest standard errors cut the estimate by 28% to g = 0.68 (95% CI 0.51 to 0.85, k = 183), leaving asymmetry at z = 1.95, p = .051. A p-curve on the 249 effects was right skewed, which the authors read as a true effect rather than p-hacking. That number is a contrast between an uncanny stimulus and a control. It is not the curve. Mara, Appel and Gnambs went after the curve, pooling 131 evaluations of robots from 49 studies, total N = 3,556, on the Godspeed anthropomorphism and likability scales. A meta-regression with linear, quadratic and cubic terms was reliable (Qm = 89.46, df = 3, p < .001) and explained about 5% of the between-sample variance in likability. Likability rose with human likeness and then flattened at about 75% of the anthropomorphism scale range. The predicted drop did not appear, and neither did the recovery beyond it, because hardly any robot in the primary studies had been rated as highly human-like. Their conclusion is that Mori's core proposition about android robots can be neither rejected nor confirmed on the available data. Mori also wrote that movement amplifies the peaks and valleys of the graph. Static robots were rated less human-like than moving ones (B = -0.35, 95% CI -0.56 to -0.14), movement made no difference to likability, and the interactions with the polynomial terms were not reliable, so Mara and colleagues reject that assumption on their data.",
+    "study": {
+      "cite": "Diel, A., Weigelt, S., & MacDorman, K. F. (2021). A meta-analysis of the uncanny valley's independent and dependent variables. ACM Transactions on Human-Robot Interaction, 11(1), 1-33.",
+      "doi": "10.1145/3470742",
+      "year": 2021
+    },
+    "replicated": { "es": 1.01, "esType": "g", "ci": [0.8, 1.22], "ciLevel": 95 }
+  },
+  "limits": "The verdict covers one claim inside a field that carries several. Two neighbours are quoted as often as the valley and have their own records. Robinette, Li, Allen, Howard and Wagner walked 26 people through a simulated building fire behind an emergency guide robot, 13 of whom had watched the same robot guide them badly minutes earlier, and all 26 followed it towards a back exit instead of the marked one. That count travels without the rest of the paper. Fifty-eight percent of participants rated the realism of the emergency 1 or 2 on a seven-point scale, 32 of the 42 people across all their conditions said they never noticed the exit sign, and in an exploratory condition where the robot pointed into a dark blocked room only two of six followed it. A Crossref query for a repeat of that experiment returned later work by the same group. The closest thing found is a preregistered preprint by Yin, Nayyar, Holman, Lucas, Holbrook and Wagner, which ran a robot-guided evacuation in matched virtual and physical environments and reports close correspondence in exit choice, evacuation time and trust; only its abstract was read for this entry. The second neighbour is the Computers Are Social Actors programme of Reeves and Nass. Heyselaar ran the first direct replication of its politeness experiment with 132 participants, following the procedure published by Nass, Moon and Carney. The original figures are 5.6 on the same computer against 4.5 on a different one, t(17) = 3.5, p < 0.001, omega-squared = 0.36. The replication got 5.7 against 5.7, t(130) = -0.2, p = 0.852, Cohen's d = -0.03. Three provenance notes. The Diel results here were read from the author manuscript deposited at Indiana University rather than the ACM version, and the Mara results from the accepted preprint rather than the typeset article. The Mara meta-analysis was not preregistered, which its authors state. Diel and colleagues excluded 26 of the 98 studies that met their selection criteria because effect sizes could not be calculated, and say that exclusion fell mainly on nonsignificant results.",
+  "misreadings": "The first error is treating human-robot interaction as a bias. It is a field, and the graded claim here is the one inside it that has been meta-analysed twice. Judgement errors involving machines have their own entries on this site, under automation bias and anthropomorphism. The second is citing Mori as a finding. His graph is a drawing in a 1970 essay, and the essay reports no measurements. The third is running the two results together. A large effect size for uncanny stimuli against controls says that some almost-human faces are disliked. It does not say that affinity falls and then recovers as human likeness increases, which is what the curve claims and what Mara and colleagues could not evaluate. The fourth is category confusion, offered across the literature as the mechanism, and reported by Mathur and colleagues as not mediating the dip. The fifth is Mori's movement claim, repeated as part of the hypothesis and rejected by the Godspeed meta-analysis on its own data. The last is the field's own habit of reading a single study as settled. Ullman, Aladia and Malle tried to replicate their own human-robot trust result, which had 40 participants and observed power of .35, and report that a conceptual replication with 140 and a direct replication with 200 both failed, as did an online study with 400.",
+  "sources": [
+    {
+      "text": "Mori, M., MacDorman, K. F., & Kageki, N. (2012). The Uncanny Valley [From the Field]. IEEE Robotics & Automation Magazine, 19(2), 98-100. The authorised English translation of Mori's 1970 essay in Energy, 7(4), 33-35.",
+      "doi": "10.1109/MRA.2012.2192811",
+      "url": "https://doi.org/10.1109/MRA.2012.2192811",
+      "type": "primary"
+    },
+    {
+      "text": "Mori, M. (2012). The Uncanny Valley: The Original Essay by Masahiro Mori. IEEE Spectrum, 12 June 2012. Translated by Karl F. MacDorman and Norri Kageki. The full text read for this entry, including the editor's note on where the 1970 essay appeared.",
+      "url": "https://spectrum.ieee.org/the-uncanny-valley",
+      "type": "primary"
+    },
+    {
+      "text": "Mathur, M. B., & Reichling, D. B. (2016). Navigating a social world with robot partners: A quantitative cartography of the Uncanny Valley. Cognition, 146, 22-32. Abstract read at Europe PMC; the full text was not obtained.",
+      "doi": "10.1016/j.cognition.2015.09.008",
+      "url": "https://doi.org/10.1016/j.cognition.2015.09.008",
+      "type": "primary"
+    },
+    {
+      "text": "Mathur, M. B., Reichling, D. B., Lunardini, F., Geminiani, A., Antonietti, A., Ruijten, P. A. M., Levitan, C. A., Nave, G., Manfredi, D., Bessette-Symons, B., Szuts, A., & Aczel, B. (2020). Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley. Computers in Human Behavior, 103, 21-30.",
+      "doi": "10.1016/j.chb.2019.08.029",
+      "url": "https://doi.org/10.1016/j.chb.2019.08.029",
+      "type": "primary"
+    },
+    {
+      "text": "Author manuscript of the above, \"Uncanny but not confusing: Multisite study of perceptual category confusion in the Uncanny Valley\", read in full at OSF, from which every figure quoted on this page was taken.",
+      "doi": "10.31219/osf.io/89sf4",
+      "url": "https://osf.io/89sf4/download",
+      "type": "primary"
+    },
+    {
+      "text": "Diel, A., Weigelt, S., & MacDorman, K. F. (2021). A meta-analysis of the uncanny valley's independent and dependent variables. ACM Transactions on Human-Robot Interaction, 11(1), 1-33.",
+      "doi": "10.1145/3470742",
+      "url": "https://doi.org/10.1145/3470742",
+      "type": "replication"
+    },
+    {
+      "text": "Author manuscript of the above, read in full at Indiana University ScholarWorks, from which the pooled effect sizes and bias analyses on this page were taken.",
+      "url": "https://scholarworks.indianapolis.iu.edu/bitstreams/9495fc38-61c3-4d25-9ee8-b17efcd2a7e6/download",
+      "type": "replication"
+    },
+    {
+      "text": "Mara, M., Appel, M., & Gnambs, T. (2022). Human-like robots and the uncanny valley: A meta-analysis of user responses based on the Godspeed scales. Zeitschrift für Psychologie, 230(1), 33-46.",
+      "doi": "10.1027/2151-2604/a000486",
+      "url": "https://doi.org/10.1027/2151-2604/a000486",
+      "type": "replication"
+    },
+    {
+      "text": "Accepted preprint of the above, read in full at the University of Würzburg, from which the figures on this page were taken.",
+      "url": "https://www.mcm.uni-wuerzburg.de/fileadmin/06110000/2026/MaraAppelGnambs_uncannyvalleymetaanalysis_preprint.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Robinette, P., Li, W., Allen, R., Howard, A. M., & Wagner, A. R. (2016). Overtrust of robots in emergency evacuation scenarios. In Proceedings of the 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (pp. 101-108).",
+      "doi": "10.1109/HRI.2016.7451740",
+      "url": "https://doi.org/10.1109/HRI.2016.7451740",
+      "type": "background"
+    },
+    {
+      "text": "Full text of the above, read at the Duke Moral Attitudes and Decisions Lab, from which the participant counts and realism ratings on this page were taken.",
+      "url": "https://moralai.cs.duke.edu/documents/article_docs/robinette_overtrust_of_robots.pdf",
+      "type": "background"
+    },
+    {
+      "text": "Yin, Z., Nayyar, M., Holman, D., Lucas, G., Holbrook, C., & Wagner, A. R. (2025). Validation and evacuee modeling of virtual robot-guided emergency evacuation experiments. PsyArXiv preprint. Abstract read at Crossref; the preprint itself was not opened.",
+      "doi": "10.31234/osf.io/mr78s_v2",
+      "url": "https://doi.org/10.31234/osf.io/mr78s_v2",
+      "type": "background"
+    },
+    {
+      "text": "Heyselaar, E. (2023). The CASA theory no longer applies to desktop computers. Scientific Reports, 13, 19693. Full text read as JATS XML at Europe PMC.",
+      "doi": "10.1038/s41598-023-46527-9",
+      "url": "https://doi.org/10.1038/s41598-023-46527-9",
+      "type": "replication"
+    },
+    {
+      "text": "Nass, C., Moon, Y., & Carney, P. (1999). Are people polite to computers? Responses to computer-based interviewing systems. Journal of Applied Social Psychology, 29(5), 1093-1109. The procedure Heyselaar followed; cited as existing, and not opened for this entry.",
+      "doi": "10.1111/j.1559-1816.1999.tb00142.x",
+      "url": "https://doi.org/10.1111/j.1559-1816.1999.tb00142.x",
+      "type": "background"
+    },
+    {
+      "text": "Nass, C., Steuer, J., & Tauber, E. R. (1994). Computers are social actors. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 72-78). The paper that named the paradigm; cited as existing, and not opened for this entry.",
+      "doi": "10.1145/191666.191703",
+      "url": "https://doi.org/10.1145/191666.191703",
+      "type": "background"
+    },
+    {
+      "text": "Ullman, D., Aladia, S., & Malle, B. F. (2021). Challenges and opportunities for replication science in HRI: A case study in human-robot trust. In Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction (pp. 110-118). Abstract read at Semantic Scholar and Crossref; the full text is paywalled and was not obtained.",
+      "doi": "10.1145/3434073.3444652",
+      "url": "https://doi.org/10.1145/3434073.3444652",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
