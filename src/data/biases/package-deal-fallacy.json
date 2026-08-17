@@ -1,0 +1,89 @@
+{
+  "no": 556,
+  "slug": "package-deal-fallacy",
+  "name": "Package-deal fallacy",
+  "aliases": ["False conjunction"],
+  "category": "belief",
+  "statement": "Things that custom groups together are treated as necessarily belonging together, so holding one of them is taken to commit a person to the rest.",
+  "meaning": "The claim has two halves. The first is descriptive, that some things travel together by convention rather than by necessity, such as the positions a party label collects or the components a seller prints inside one price. The second is normative, that moving from the customary grouping to a necessary one is invalid, because the parts can come apart. Stated that way it is a rule about arguments rather than a finding about people. To become a psychological claim it needs a rate: how often, and under what conditions, a conventional bundle gets treated as a fixed one. This entry located no study that supplies that rate, and the places it searched are named below.",
+  "origin": {
+    "year": 2011,
+    "who": "Meir Sternberg",
+    "where": "Enthymema",
+    "note": "The label is standard on fallacy lists and this entry could not establish who put it there. The earliest use it could open is a 2011 interview with Sternberg, a literary theorist at Tel Aviv University, who calls the package-deal fallacy his own coinage and applies it to the habit of pairing one literary form with one function. The Wikipedia article on the fallacy cites his 1998 book \"Hebrews between Cultures\" at page 158 for the same coinage, and that book was not opened here. Ayn Rand's fallacy of package-dealing is a separate term with a separate meaning, quoted by the Ayn Rand Lexicon from her essay \"The Metaphysical Versus the Man-Made\" in \"Philosophy: Who Needs It\", at page 24."
+  },
+  "evidence": "The label rests on examples. Sternberg's own use is a complaint about scholarship rather than about ordinary reasoning: he objects that Jakobson tied the poetic function to equivalence and self-expression to exclamation, when a function can be served by many forms. The political case that fallacy lists reach for first, where a voter's position on tax is read off the label attached to their position on abortion, has been measured, and the measurement is old. Converse compared candidates for the United States Congress in 1958 with a national cross-section from the same year, using tau-gamma coefficients between issue positions. Average constraint within domestic issues was .53 for the candidates and .23 for the public. Between issues and party preference it was .39 for the candidates and .11 for the public. Those figures were read from the 2006 Critical Review reprint of the 1964 chapter. Baldassarri and Gelman ran the same measure over National Election Studies data from 1972 to 2004, covering 47 issues. The average correlation between a pair of issues was .15, with a standard deviation of .11, and it split into .23 for pairs inside one domain and .12 for pairs across domains. That average rose by .02 per decade. The correlation of issues with party identification rose more than twice as fast, at .05 per decade, which they read as voters being sorted by party labels rather than growing more consistent.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No empirical test of the package-deal fallacy under that name was found. Three neighbouring effects have been tested, and each measures the pull of a grouping rather than the inference from one.",
+    "detail": "The closest replicated effect is partition dependence, where the way a question splits the outcome space moves the probabilities people assign. Ding and Feldman ran a Registered Report on 603 American Prolific participants, repeating Studies 1a, 1b, 3 and 4 of Fox and Rottenstreich, and concluded a mostly successful replication with smaller effects. Their Study 3 gave Cohen's d = 0.40, 95% CI 0.24 to 0.56, against 0.47, 0.00 to 0.93 in the target article. Study 1b gave d = -0.48, -0.64 to -0.32, against -0.87, -1.51 to -0.22. Study 1a item 1 gave 0.25, 0.09 to 0.41, against the target's 0.55, 0.13 to 0.96 for that study as a whole, while items 2 and 3 gave 0.15 and 0.08 with intervals crossing zero. Study 4, a choice rather than a judgement, gave Cohen's h = 0.08, -0.11 to 0.27, which they marked as no signal. The second neighbour is the price bundle. Abraham and Hamilton pooled 17 years of partitioned pricing research, 149 observations in 27 papers, N = 12,878, and report that splitting a price into components moves preference in either direction depending on how it is presented. Consumers respond more favourably to the split price when the total is absent, as the price level rises, when the surcharges are typical for the category, when the surcharges are seen as offering high benefit, and when the category is utilitarian. The third is conjoint analysis, which assumes a choice can be decomposed into separate part-worths. Hainmueller, Hangartner and Yamamoto tested that assumption against behaviour, using Swiss municipalities that decided citizenship applications by referendum, so votes over described applicants are on record. The paired conjoint design came closest to those votes, its estimates on average within 2 percentage points of the behavioural benchmark, while the vignette design missed the origin penalty for Turkish and Yugoslavian applicants by 5 to 8 points. Searches for work under the name of the fallacy covered Crossref, OpenAlex, Europe PMC and open web search. OpenAlex matched the phrase in five works, none of them psychology. Europe PMC matched none, on either spelling. Semantic Scholar returned rate-limit errors and PhilPapers refused the request."
+  },
+  "limits": "The customary grouping is often a fair bet, which is why the inference is weak rather than empty. Baldassarri and Gelman's within-domain correlation of .23 is small and it is not zero, and their between-domain figure of .12 is the one that carries the fallacy's point. Converse's coefficients are associations across a population, and they do not say which individuals drew which inference. His data are from 1958. The three measured neighbours all partition something the experimenter controls, a price, an outcome space or a profile, and none of them presents a bundle as a cultural convention, which is the thing the label names. No pooled effect for partitioned pricing is quoted here: the meta-analysis is closed access, and the counts and the moderator list above come from the publisher's abstract deposited at Crossref. Fox and Rottenstreich's original article was not opened either, and its effect sizes are quoted as Ding and Feldman recomputed them.",
+  "misreadings": "The name sits close to the conjunction fallacy and means something else. That one is an error about probability, where a conjunction is rated more likely than one of its parts. This one is an error about inference from convention. Rand's package-dealing is a third thing, a charge that a word carries a hidden evaluation, which Badhwar and Long describe in the Stanford Encyclopedia as her treatment of terms like extremism and selfishness as anti-concepts. Her target is definitions, not predictions about what else somebody believes. The political example also gets the direction backwards. Barber and Pope surveyed 1,300 Americans through YouGov in early 2017, with 500 in a control condition, 200 told Donald Trump supported the policy, 200 told he opposed it and 400 told congressional Republicans had taken a side. Average treatment effects across ten issues ran over 15 percentage points in a liberal direction and almost 10 in a conservative one, largest among low-knowledge respondents and strong Republicans. That result is about positions being supplied by a cue giver rather than inferred by an observer. And low constraint in a population is not evidence that anybody reasoned badly. It is evidence that the bundle a label implies is looser than the label suggests.",
+  "sources": [
+    {
+      "text": "Sternberg, M. (2011). Reconceptualizing Narratology. Arguments for a Functionalist and Constructivist Approach to Narrative. Enthymema, 4, 35-50. Read in full from the journal's PDF; the source for the coinage and for the Jakobson example.",
+      "doi": "10.13130/2037-2426/1186",
+      "url": "https://doi.org/10.13130/2037-2426/1186",
+      "type": "primary"
+    },
+    {
+      "text": "Converse, P. E. (2006). The nature of belief systems in mass publics (1964). Critical Review, 18(1-3), 1-74. The 1964 chapter reprinted; Tables 7 and 8 were read from this scan.",
+      "doi": "10.1080/08913810608443650",
+      "url": "https://doi.org/10.1080/08913810608443650",
+      "type": "primary"
+    },
+    {
+      "text": "Baldassarri, D., & Gelman, A. (2008). Partisans without Constraint: Political Polarization and Trends in American Public Opinion. American Journal of Sociology, 114(2), 408-446. Read in full from the authors' copy at Columbia.",
+      "doi": "10.1086/590649",
+      "url": "https://doi.org/10.1086/590649",
+      "type": "primary"
+    },
+    {
+      "text": "Ding, K., & Feldman, G. (2025). Revisiting partition priming in judgement under uncertainty: replication and extension Registered Report of Fox and Rottenstreich (2003). Royal Society Open Science, 12(7). Read in the PubMed Central full text; the source of every partition-dependence figure above.",
+      "doi": "10.1098/rsos.250669",
+      "url": "https://doi.org/10.1098/rsos.250669",
+      "type": "replication"
+    },
+    {
+      "text": "Fox, C. R., & Rottenstreich, Y. (2003). Partition Priming in Judgment Under Uncertainty. Psychological Science, 14(3), 195-200. Not opened; the target article, cited for what was replicated.",
+      "doi": "10.1111/1467-9280.02431",
+      "url": "https://doi.org/10.1111/1467-9280.02431",
+      "type": "primary"
+    },
+    {
+      "text": "Abraham, A. T., & Hamilton, R. W. (2018). When Does Partitioned Pricing Lead to More Favorable Consumer Preferences?: Meta-Analytic Evidence. Journal of Marketing Research, 55(5), 686-703. Closed access; the counts and the moderator list are read from the abstract deposited at Crossref.",
+      "doi": "10.1177/0022243718800724",
+      "url": "https://doi.org/10.1177/0022243718800724",
+      "type": "replication"
+    },
+    {
+      "text": "Hainmueller, J., Hangartner, D., & Yamamoto, T. (2015). Validating vignette and conjoint survey experiments against real-world behavior. Proceedings of the National Academy of Sciences, 112(8), 2395-2400. Read in the PubMed Central copy.",
+      "doi": "10.1073/pnas.1416587112",
+      "url": "https://doi.org/10.1073/pnas.1416587112",
+      "type": "replication"
+    },
+    {
+      "text": "Barber, M., & Pope, J. C. (2019). Does Party Trump Ideology? Disentangling Party and Ideology in America. American Political Science Review, 113(1), 38-54. Read in full from a hosted PDF.",
+      "doi": "10.1017/S0003055418000795",
+      "url": "https://doi.org/10.1017/S0003055418000795",
+      "type": "commentary"
+    },
+    {
+      "text": "Badhwar, N. K., & Long, R. T. (2020). Ayn Rand: Epistemology and Metaphysics. Stanford Encyclopedia of Philosophy, substantive revision of 13 July 2020. The source for Rand's package deals as anti-concepts.",
+      "url": "https://plato.stanford.edu/entries/ayn-rand/supplement.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Ayn Rand Lexicon, \"Package-Dealing,\" Fallacy of. Quotes Rand's definition and gives its source as \"The Metaphysical Versus the Man-Made\" in Philosophy: Who Needs It, page 24.",
+      "url": "https://aynrandlexicon.com/lexicon/package-dealing,_fallacy_of.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Package-deal fallacy. Used only to find the Sternberg citations and to record the popular definition of the label; no claim above rests on it.",
+      "url": "https://en.wikipedia.org/wiki/Package-deal_fallacy",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
