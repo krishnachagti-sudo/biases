@@ -1,0 +1,94 @@
+{
+  "no": 493,
+  "slug": "appeal-to-tradition",
+  "name": "Appeal to tradition",
+  "aliases": [
+    "Traditional wisdom",
+    "Appeal to traditional wisdom",
+    "Appeal to past practice",
+    "Argumentum consensus gentium",
+    "Longevity bias"
+  ],
+  "category": "belief",
+  "statement": "Describing a practice as long-standing raises support for it, so the age of a thing gets read as evidence that it is good.",
+  "meaning": "Three claims share the name and they answer to different tests. The first is logical. Inferring the worth of a practice from its age is treated by fallacy textbooks as an error, filed beside the appeal to popular opinion under names such as traditional wisdom and past practice. The second is psychological. Telling people that a practice is old raises how well they judge it, which is a claim about a manipulation and is what the experiments here test. The third is the defence, that a practice which has lasted may carry information nobody involved can state. All three can hold at once. An arguer can be reasoning badly, the effect on judgement can be real, and the tradition can still be worth keeping.",
+  "origin": {
+    "year": 2009,
+    "who": "Christian S. Crandall, Scott Eidelman, Linda J. Skitka and G. Scott Morgan",
+    "where": "Social Influence",
+    "note": "\"Status quo framing increases support for torture\" is the earliest experiment located for this entry that varies how long a practice has been in place. Its published abstract describes a representative sample of United States adults randomly assigned to read that the practices were new or that they had been used for more than 40 years. The term longevity bias belongs to Eidelman, Pattershall and Crandall's \"Longer is better\", in the Journal of Experimental Social Psychology in 2010, whose text and abstract could not be obtained here. The fallacy label is older than either paper and no source read here dates it."
+  },
+  "evidence": "What follows was read from published abstracts. Every experimental paper behind this entry is closed access, so no means, test statistics or effect sizes are quoted. Crandall and colleagues had a representative sample of United States adults read about torture in the questioning of detainees, described either as new or as having been used for more than 40 years. The abstract reports that torture described as a long-standing practice had more support and was seen as more effective and justifiable than the same torture described as new. It adds that characterising practices as long-standing enhances their support even when the practice is unpopular or disgraceful. The sibling claim is about existence rather than duration. Eidelman, Crandall and Pattershall ran five studies in the Journal of Personality and Social Psychology. Studies 1 and 2 report an existing state evaluated more favourably than an alternative. Study 3 reports that imagining an event raises estimates of its likelihood, which in turn raises how favourably it is evaluated. Study 4 reports that the more a form is described as prevalent, the more attractive it is judged, in a domain with no choice between alternatives. Study 5 extends the effect to taste and reports that valence does not moderate it. The paper usually cited for the duration version is \"Longer is better\", and neither its text nor its abstract was reached through the routes tried, so nothing from it appears here. The most recent test by the same group varies a timeline. Eidelman and five colleagues showed 433 American adults one of two versions of a timeline of medical events, with the creation of mRNA vaccines placed at the left or the right end. Their abstract reports that the left-end placement led the vaccines to be judged older and, once vaccination status was accounted for, better, and that vaccination status did not moderate the effect of longevity on support.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The nearest independent test found the bias among people who resist change and found it reversed among people who accept change.",
+    "detail": "Two independent efforts exist and they do not agree with each other or within themselves. McKelvie ran four experiments on the existence bias, the version about mere existence rather than duration. His abstract reports that in Experiment 1, 56 psychology undergraduates read a scenario about institutional degree requirements and rated the option with more credits higher, which runs against the bias. Experiment 2, with 110 undergraduates, varied the reasons given for the status quo and for the proposed change, and confirmed the bias with what he calls a small effect size. Experiments 3 and 4, with 77 and 145 students judging the requirements for their own major, produced a clear preference for the status quo at moderate and large effect sizes. He reads the set as a systematic replication. Shockley, Rosen and Rios tested both biases against a moderator. Their abstract reports two studies in which change-resisting participants' attitudes suggested existence and longevity biases, while change-accepting participants reversed the pattern and rated long-standing or prevalent objects less favourably. They also reanalysed data previously reported in Social Influence and found that Americans identifying as more Republican were the ones who favoured a long-standing practice. The 2022 vaccine timeline study is an extension by the original group rather than a repeat of any earlier design. The search for a direct or multi-site replication covered the works citing the two original papers in OpenAlex, 140 citing the 2009 paper and 82 citing the 2010 one. Titles were scanned for replication, reproduction, Many Labs, registered reports and meta-analysis. McKelvie was the only hit in either list, and no multi-laboratory project appears in either. Crossref and PubMed searches on the authors and on the effect names produced nothing further.",
+    "study": {
+      "cite": "Shockley, E., Rosen, R. K., & Rios, K. (2016). Change resistance moderates existence and longevity biases. Social Influence, 11(2), 87-100.",
+      "doi": "10.1080/15534510.2016.1154104",
+      "year": 2016
+    }
+  },
+  "limits": "The publisher pages for these papers returned 403 to every attempt made here, at Taylor and Francis, SAGE, Elsevier, the American Psychological Association and one institutional repository. What the studies found is therefore reported at the resolution of their abstracts, and the paper that names the effect was not read at all. The acupuncture experiment often attributed to that paper is left off this page for the same reason. The measured effect is narrower than the fallacy in any case. It is what happens when an experimenter states an age, not a finding that older practices are worse than new ones. Tradition is sometimes evidence. Henrich and Henrich found that Fijian food taboos for pregnant and lactating women fall on the most toxic marine species. They report that the taboos cut a woman's chance of fish poisoning by 30 per cent during pregnancy and 60 per cent during breastfeeding. The same paper reports that other taboos in the set are not adaptive and spread through features of how people learn from each other. Chesterton set out the reasoning in 1929 in \"The Drift from Domesticity\". A reformer who cannot see the use of a fence across a road is told to go away and think, and may remove it once he can say what it was for. His point is that the fence did not grow there, and that whoever built it had a reason worth finding before anyone judges it.",
+  "misreadings": "The label is used as though it settled the question, and the textbooks it comes from do not settle it. The Internet Encyclopedia of Philosophy, whose fallacy list runs to 231 names, defines traditional wisdom as saying or implying that a practice must be acceptable today simply because it has been the apparently wise practice in the past. It then adds that such practices might or might not be given a good justification, and that citing past practice is not always good enough. Its worked example says the traditional wisdom of buying IBM is some reason to buy IBM next time, and locates the fallacy in the words 'of course'. Its entry for the appeal to the people goes further and says what most everyone believes is, for that reason, somewhat likely to be true, with the fallacy arising when that degree of support is overestimated. A search of the Stanford Encyclopedia's Fallacies entry for 'appeal to tradition' and for 'ad antiquitatem' returns nothing. That survey is built around the eighteen informal fallacies in Copi's Introduction to Logic of 1961. Its nearest neighbour is ad populum, of which Hans Hansen writes that something being widely practised or believed is not compelling evidence that it is true or that it should be done. One reference work treats age as weak evidence that gets overweighted; the other treats the whole family as offering scant support. Status quo bias is a separate entry on this site and a different manipulation. There an option is labelled the current one and gets chosen more often. Here a duration is stated and an evaluation moves. Existence and longevity also come apart, and the 2009 studies vary whether something exists or how common it is rather than how long it has been around. Chesterton's fence is quoted on both sides of this argument and belongs to neither. It is a rule about the order of operations in reform, not a claim that old things are good.",
+  "sources": [
+    {
+      "text": "Crandall, C. S., Eidelman, S., Skitka, L. J., & Morgan, G. S. (2009). Status quo framing increases support for torture. Social Influence, 4(1), 1-10. Closed access; the published abstract was read from the OpenAlex and CoLab records of it, which agree word for word, and nothing beyond the abstract is used here.",
+      "doi": "10.1080/15534510802124397",
+      "url": "https://doi.org/10.1080/15534510802124397",
+      "type": "primary"
+    },
+    {
+      "text": "Eidelman, S., Crandall, C. S., & Pattershall, J. (2009). The existence bias. Journal of Personality and Social Psychology, 97(5), 765-775. Closed access; the abstract was read at PubMed, PMID 19857000.",
+      "doi": "10.1037/a0017058",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19857000/",
+      "type": "primary"
+    },
+    {
+      "text": "Eidelman, S., Pattershall, J., & Crandall, C. S. (2010). Longer is better. Journal of Experimental Social Psychology, 46(6), 993-998. The paper that names the longevity bias. Named as existing on the strength of its Crossref record; neither its text nor its abstract was obtained, and no claim on this page comes from it.",
+      "doi": "10.1016/j.jesp.2010.07.008",
+      "url": "https://doi.org/10.1016/j.jesp.2010.07.008",
+      "type": "primary"
+    },
+    {
+      "text": "McKelvie, S. J. (2013). The existence bias: A systematic replication. Comprehensive Psychology, 2, Article 3. Full text blocked at the publisher; the abstract was read from the OpenAlex and Semantic Scholar records, which agree word for word.",
+      "doi": "10.2466/07.09.CP.2.3",
+      "url": "https://doi.org/10.2466/07.09.CP.2.3",
+      "type": "replication"
+    },
+    {
+      "text": "Shockley, E., Rosen, R. K., & Rios, K. (2016). Change resistance moderates existence and longevity biases. Social Influence, 11(2), 87-100. Closed access on every attempt; the abstract was read from two bibliographic records that agree word for word.",
+      "doi": "10.1080/15534510.2016.1154104",
+      "url": "https://doi.org/10.1080/15534510.2016.1154104",
+      "type": "replication"
+    },
+    {
+      "text": "Eidelman, S., Vance, E., Blanchar, J. C., Kallodaychask, K., Shimomoto, Y., & Yamasaki, K. (2022). Perceived longevity of mRNA technology increases support for Covid-19 vaccines. Social Influence, 17(1), 51-60. Abstract read from two bibliographic records; the full text was not reached.",
+      "doi": "10.1080/15534510.2022.2116105",
+      "url": "https://doi.org/10.1080/15534510.2022.2116105",
+      "type": "replication"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. The definitions of traditional wisdom and of the appeal to the people quoted here were read from the article and confirmed on a second fetch.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision of 30 August 2024. Read in full for the ad populum treatment and searched for an appeal to tradition, which it does not contain.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Chesterton, G. K. (1929). The drift from domesticity. In The Thing. Read from a hosted transcription and confirmed against a separate PDF of the chapter.",
+      "url": "https://catholiclibrary.org/library/view?docId=/Contemporary-EN/XCT.165.html&chunk.id=00000011",
+      "type": "commentary"
+    },
+    {
+      "text": "Henrich, J., & Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715-3724. Read from the full text at PubMed Central, PMC2992713.",
+      "doi": "10.1098/rspb.2010.1191",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2992713/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
