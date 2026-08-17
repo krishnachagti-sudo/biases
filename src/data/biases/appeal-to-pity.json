@@ -1,0 +1,77 @@
+{
+  "no": 498,
+  "slug": "appeal-to-pity",
+  "name": "Appeal to pity",
+  "aliases": [
+    "Argumentum ad misericordiam",
+    "Ad misericordiam",
+    "Appeal to sympathy"
+  ],
+  "category": "belief",
+  "statement": "An appeal to pity is called a fallacy when sympathy is offered as evidence, and it is ordinary practical reasoning when the question is what to do rather than what to believe.",
+  "meaning": "The name covers a move in an argument rather than a feeling. Someone in distress asks for help, or asks to be excused, and the distress is what the request rests on. Hans Hansen's survey of the fallacies draws the line by use rather than by content. Sympathy alone, he writes, is generally not evidence for believing any proposition, and ad misericordiam arguments, like ad baculum arguments, have their natural home in practical reasoning; the possibility of fallacy rises when they are used in theoretical argumentation. Douglas Walton splits the move further. On his account the appeal is grafted onto an ordinary argument scheme, which may be an appeal for help, an argument from distress, practical reasoning, or a plea for an excuse, and none of those has sympathy built into it. The question then is never whether pity was invoked. It is whether invoking it blocked the critical questions that belong to the scheme underneath.",
+  "origin": {
+    "year": 1997,
+    "who": "Douglas Walton",
+    "where": "State University of New York Press",
+    "note": "Walton's Appeal to Pity: Argumentum ad Misericordiam is the book-length treatment, and Crossref carries it under a 2016 electronic reissue with chapters running from \"The Textbook Treatment\" to \"Evaluation of Case Studies\". The 1997 date, the publisher and the 225 pages are read from the header of Hansen's critical review of it. The label is much older than the book. Hansen reports Walton locating the first mention of argumentum ad misericordiam in a logic text in J. E. Creighton's An Introductory Logic of 1929, and tracing the phrase as the name of a kind of argument to the Edinburgh Review of 1824. Hansen's Stanford Encyclopedia survey places ad misericordiam among the fallacies of relevance in Copi's Introduction to Logic, cited there as 1961."
+  },
+  "evidence": "The evidence is a literature of analysed cases rather than of experiments. Walton's 1995 article, read here in full, works through one case in detail. On 10 October 1990 a fifteen-year-old Kuwaiti girl identified only as Nayirah testified before the Congressional Human Rights Caucus. In tears, she said Iraqi soldiers had taken babies out of hospital incubators and left the children to die on the cold floor. Amnesty International published a report quoting her and putting the toll at 312 babies. The Senate authorised force against Iraq on 10 January 1991 and the measure passed by five votes. Seven senators cited her testimony in speeches backing it. Then the case came apart. ABC News interviewed Kuwaiti hospital officials in March 1991 who denied the story, and Amnesty said it had found no reliable evidence that Iraqi forces had caused the deaths. John MacArthur revealed that Nayirah was the daughter of Kuwait's ambassador to the United States. Citizens for a Free Kuwait, the client of the public relations firm Hill and Knowlton, raised about $12 million, and documents filed with the United States government showed $11.8 million of it came from the Kuwaiti government. Walton's verdict on the case is that the appeal was fallacious, and his reason is not the false premise. He argues that the appeal would still have been fallacious had the incubator story been true, because it was timed and staged by a campaign whose interest in it was concealed. His general position sits alongside that verdict: the appeal to pity or sympathy, he writes, is not, in itself, fallacious. He also reports the five-way grading proposed in his 1992 book, under which a case is reasonable, weak but not fallacious, irrelevant, insufficiently informative, or fallacious. Hansen's review sets out the machinery of the 1997 book. Four schemes carry the appeal. Four tactics make it fallacious: the twisting of the argument, the failure of relevance, the exploitation of the timely impact of the appeal, and the use of pity as a staged effect. Multiplying those out, Hansen counts at least 32 distinguishable kinds of fallacious ad misericordiam. The nearest thing to a measurement comes from pragma-dialectics. Between 1996 and 2008 van Eemeren, Garssen and Meuffels asked respondents to rate short dialogues on a seven-point scale, where 1 is very unreasonable, 4 is neither and 7 is very reasonable. Each fallacy was paired with a matched move that broke no rule. The argumentum ad misericordiam scored 3.86 against 5.06 for its non-fallacious counterpart. Of the ten violations of the freedom rule in their summary table, only the tu quoque variant of the ad hominem, at 4.45, was rated higher. The psychological premise underneath the appeal has been pooled. Rudolph, Roesch, Greitemeyer and Weiner synthesised 64 investigations involving more than 12,000 subjects. Their abstract reports that judgements of responsibility determine the emotional reactions of anger and sympathy, and that those reactions in turn directly influence help giving and aggression. They call the result consistent across culture, sample, publication year and publication status.",
+  "replication": {
+    "state": "none-located",
+    "headline": "One experimental measurement of the appeal to pity was found, a reasonableness score of 3.86 against 5.06, and no repeat of that particular test was located.",
+    "detail": "Searches for experimental work on the appeal to pity were run at Crossref, by title and by bibliographic query, on \"appeal to pity\" and \"argumentum ad misericordiam\". Europe PMC returns 40 records for \"misericordiam\" and five for \"appeal to pity\", and none of the twenty inspected is an experiment. A general web search was run as well. What came back is philosophy, book reviews and nineteenth-century medical prose. The pragma-dialectical score above is the one experiment located, and it reaches this entry as a single figure in a summary table covering a programme of tests. That paper records replication studies in a number of cases, with respondents in the Netherlands, the United Kingdom, Germany, Spain and Indonesia. It does not say which fallacies those replications covered, so nothing here claims the ad misericordiam test was among them. Walton designed the missing study and did not run it. He proposed showing two groups of students the Nayirah case, one with the incubator story refuted and one with it verified, then asking each group whether the appeal was fallacious. His prediction, from classroom experience rather than data, was that the refuted version would be the easier sell. No such experiment was located. Two neighbouring literatures are measured and neither tests this claim. Maier, Wong and Feldman ran a preregistered replication of Small, Loewenstein and Slovic on hypothetical donations. They found no identifiable victim effect, partial eta squared .000, 95% CI .000 to .003, and suggest the phenomenon is better framed as scope insensitivity. Rudolph and colleagues' meta-analysis of 64 investigations finds the sympathy pathway to helping holding across moderators. The first asks whether naming a victim raises giving and the second asks what makes people help. Neither asks whether an argument was accepted on grounds that were not reasons."
+  },
+  "limits": "The book that this entry takes as its origin was not read. Its Crossref record, chapter titles and page ranges were verified, and everything attributed to it here comes from Hansen's critical review, which quotes it with page numbers. The dating of the name to Creighton in 1929 and to the Edinburgh Review in 1824 is Hansen reporting Walton, so it stands at one remove and no attempt was made here to open either document. Lee and Feeley's meta-analysis of the identifiable victim effect was paywalled on this pass at the publisher and at Semantic Scholar, and no figure from it is quoted; the sibling entry on that effect carries what could be got. Rudolph and colleagues' meta-analysis was also closed at the publisher, and its abstract was read twice through separate routes, so the directions of its paths appear above and none of its coefficients do. The van Eemeren figures come from a 2023 summary table covering a programme that ran for twelve years, not from the experiment itself. That table prints means without spread, without sample sizes and without the wording of the dialogues that were rated. The 2009 book chapter holding the freedom-rule experiments is named below and was not obtained. What the Nayirah case can carry is also limited by what it is, which is one analysed episode with a public record, not a design with a control condition.",
+  "misreadings": "Calling an appeal to pity a fallacy is not a claim that it fails to work. Walton's case is chosen precisely because the appeal worked, tilting a vote that passed by five, and his own summary is that the episode illustrates the power of the argument. Nor does \"not always fallacious\" mean seldom fallacious. Walton holds both halves at once: the appeal is not in itself fallacious, and this appeal was, on grounds of concealed bias and a shift in what the argument was doing. The label also flattens something graded. On the pragma-dialectical scale the ad misericordiam sat at 3.86, close to the point marked neither reasonable nor unreasonable, while a direct threat sat at 1.86, so respondents were already separating cases the textbooks list together. The textbook example is the contested one rather than the settled one. Walton reads the student who pleads for a better mark as committing a fallacy. Hansen argues it need not be, because the plea is relevant to the marker as a person and irrelevant to the marker as an examiner. Being relevant is a long way from being sufficient. Hansen presses a related objection on Walton's reading of the Menendez brothers' trials, where the sympathy defence was allowed by one judge and disallowed by the next. Either the argument is a fallacy in both cases or in neither, so a judge's ruling cannot settle it. Finally, pity is not the only word available. Walton records that the Latin is also translated as an appeal to sympathy, that pity carries connotations of condescension, and that some writers hold pitying a person to wrong them, which is an ethical objection rather than a logical one. The measured effects that people reach for when they want a number for this idea are about something else. The identifiable victim effect and compassion fade concern how much money a described victim draws, and both have their own entries and their own replication records.",
+  "sources": [
+    {
+      "text": "Walton, D. (1995). Appeal to pity: A case study of the argumentum ad misericordiam. Argumentation, 9(5), 769-784. Read in full from a PDF that downloaded to the same checksum twice; the Nayirah figures, the five-way grading and the quoted claim that the appeal is not in itself fallacious were read from its text.",
+      "doi": "10.1007/BF00744757",
+      "url": "https://towardfreedom.org/wp-content/uploads/2014/06/95Pity.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D. (1997). Appeal to Pity: Argumentum ad Misericordiam. Albany: State University of New York Press. Not read. The DOI is the 2016 electronic reissue, whose Crossref record and chapter list were verified; the 1997 imprint and the 225 pages come from Hansen's review.",
+      "doi": "10.1515/9781438423210",
+      "url": "https://doi.org/10.1515/9781438423210",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. V. (2000). Logic and misery: Walton's Appeal to Pity. Informal Logic, 20(2), 169-184. The source for the book's structure, for the four schemes and four fallacy tactics with their page numbers, and for the objections to Walton's readings of the student plea and the Menendez trials.",
+      "doi": "10.22329/il.v20i2.2267",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2267/1711",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, first published 29 May 2015, substantive revision 30 August 2024. Source for the practical against doxastic distinction and for Copi's placement of ad misericordiam among the fallacies of relevance. Written by the author of the 2000 review above.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "van Eemeren, F. H., & Garssen, B. (2023). The pragma-dialectical approach to the fallacies revisited. Argumentation, 37(2), 167-180. Source of the reasonableness scores, read from the open PDF in the University of Amsterdam repository.",
+      "doi": "10.1007/s10503-023-09605-w",
+      "url": "https://pure.uva.nl/ws/files/147095527/s10503-023-09605-w.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2009). The confrontation stage: The freedom rule. In Fallacies and Judgments of Reasonableness (pp. 85-109). Argumentation Library. The chapter holding the freedom-rule experiments, of which the ad misericordiam test is one; named as existing, and not obtained.",
+      "doi": "10.1007/978-90-481-2614-9_4",
+      "url": "https://doi.org/10.1007/978-90-481-2614-9_4",
+      "type": "primary"
+    },
+    {
+      "text": "Rudolph, U., Roesch, S., Greitemeyer, T., & Weiner, B. (2004). A meta-analytic review of help giving and aggression from an attributional perspective: Contributions to a general theory of motivation. Cognition and Emotion, 18(6), 815-848. Closed at the publisher; the abstract was read twice through separate routes and no coefficient from the paper is quoted here.",
+      "doi": "10.1080/02699930341000248",
+      "url": "https://doi.org/10.1080/02699930341000248",
+      "type": "background"
+    },
+    {
+      "text": "Maier, M., Wong, Y. C., & Feldman, G. (2024). Revisiting and rethinking the identifiable victim effect: Replication and extension of Small, Loewenstein, and Slovic (2007). Collabra: Psychology, 9(1), 90203. The preregistered null and the scope-insensitivity reframing are read from the abstract deposited at Crossref.",
+      "doi": "10.1525/collabra.90203",
+      "url": "https://doi.org/10.1525/collabra.90203",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
