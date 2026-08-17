@@ -1,0 +1,102 @@
+{
+  "no": 484,
+  "slug": "chameleon-effect",
+  "name": "Chameleon effect",
+  "aliases": [
+    "Nonconscious mimicry",
+    "Behavioural mimicry",
+    "Behavioral mimicry",
+    "Perception-behaviour link",
+    "Mimicry-liking effect"
+  ],
+  "category": "social",
+  "statement": "People copy the postures, mannerisms and expressions of whoever they are with, without noticing, and being copied is said to make them like the copier more.",
+  "meaning": "Three claims travel under one name and they come apart under testing. The first is that mimicry happens: in a live interaction a person shakes a foot or rubs a face more when the partner does. The second is that it happens outside awareness, neither noticed nor intended. The third is that being mimicked makes the mimicked person like the mimicker and rate the conversation as smoother. Chartrand and Bargh put all three in one paper and named the mechanism the perception-behaviour link, taken from the social priming work of Bargh, Chen and Burrows. The mechanism is shared with that literature. The claim is not. Here the input and the output are the same behaviour, watched directly in the room, rather than a word list said to reach an unrelated action minutes later.",
+  "origin": {
+    "year": 1999,
+    "who": "Tanya L. Chartrand and John A. Bargh",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is \"The chameleon effect: The perception-behavior link and social interaction\", pages 893 to 910 of volume 76, reporting three experiments run at New York University. Chartrand and Bargh chose the chameleon over the monkey of \"monkey see, monkey do\", on the ground that aping means imitating on purpose. They cite Woody Allen's film Zelig and an epigraph from Georges Simenon's Inspector Maigret."
+  },
+  "evidence": "Experiment 1 ran 39 students through two 10-minute sessions, each with a confederate posing as a second participant. One confederate smiled and shook a foot, the other kept a neutral face and rubbed a face, with the pairing and the order counterbalanced. Four participants were dropped, three for declining to release the videotape and one for suspicion, leaving 35. Participants smiled 1.03 times a minute with the smiling confederate against 0.36 with the neutral one, F(1, 34) = 20.31, p < .0001. The mannerism interaction was weaker, F(1, 34) = 9.36, p = .004, made up of face rubbing at F(1, 34) = 5.71, p < .025 and foot shaking at F(1, 34) = 3.76, p = .06. A minute alone in the room before the first session gave a baseline covariate. At debriefing one participant of 35 mentioned a confederate's hand motions and two mentioned slouching, and none mentioned the foot or the face. Experiment 2 carries the liking claim. Seventy-eight students had one 15-minute session with a confederate who either mirrored their posture and mannerisms or sat in a different relaxed position, and 6 were dropped, leaving 37 mimicked and 35 controls. On nine-point scales the mimicked group rated the confederate 6.62 for likability against 5.91, F(1, 70) = 5.55, p = .02, and the interaction 6.76 for smoothness against 6.02, F(1, 70) = 4.08, p = .05. Judges blind to condition coded 22 taped sessions for the confederate's eye contact, smiling, friendliness and apparent liking, and found no difference between conditions, all ps > .20. One participant of 37 in the mimicking condition noticed a shared mannerism. Experiment 3 split 50 students at the median of the perspective-taking subscale of the Interpersonal Reactivity Index. High scorers mimicked more, F(1, 48) = 3.85, p = .05, while empathic concern did not moderate, F < 1.",
+  "replication": {
+    "state": "mixed",
+    "headline": "That people copy each other holds up; whether being copied produces liking depends on what the copying is compared against.",
+    "detail": "The largest direct test of the liking claim set the mimicry condition against four controls rather than one. Trzmielewska, Duras, Juchacz and Rak interviewed 538 Polish participants, 235 of them in the mimicry condition, with confederates who mimicked, sat still, made random movements, made repetitive movements, or received no instruction at all. Condition moved liking, chi-square(4) = 40.7, p < 0.001, epsilon-squared = 0.07. Mimicked participants liked the confederate more than those facing a motionless one, median 6.86 against 4.79, W = -8.12, p < 0.001, r = 0.44, and more than those facing repetitive movement, median 5.43, W = -4.68, p = 0.008, r = 0.50. Against a confederate making random movements, median 5.71, and against one given no instruction, median 5.71, the difference was p > 0.5. The same paper pools 18 published mimicry-liking comparisons at d = 0.85, 95% confidence interval 0.64 to 1.05, z = 8.00, with heterogeneity of I-squared 74.60 percent, Q(17) = 71.99, p < .0001. A regression test for funnel asymmetry on those 18 gave z = -0.78, p = .435. Two other tests point the same way as the null comparisons. Hale and Hamilton had 50 people talk to avatars that mimicked their head and torso at a one or three second delay, and rapport was higher towards the mimicking avatars. Their preregistered second study, 40 people and four avatars, found no effect of mimicry on rapport, on trust ratings or on trust behaviour in a maze task. Majka and colleagues staged same-race and cross-race mimicry in the laboratory and report that the study was unable to conclusively replicate and extend the affiliative consequences of mimicry. Wicher and colleagues ran 63 participants through blocks in which a confederate copied either their hand movements or their choices. Copying choices raised rated warmth, beta = 0.78, p < .001, copying movements did not, beta = 0.06, p = .582, and the interaction was beta = -0.72, p < .001.",
+    "study": {
+      "cite": "Trzmielewska, W., Duras, J., Juchacz, A., & Rak, T. (2025). Examining the Impact of Control Condition Design in Mimicry-Liking Link Research: How Motor Behavior May Impact Liking. Roczniki Psychologiczne, 27(4), 351-378.",
+      "doi": "10.18290/rpsych2024.0019",
+      "year": 2025,
+      "n": 538
+    },
+    "replicated": {
+      "es": 0.44,
+      "esType": "r",
+      "weighting": "unweighted"
+    }
+  },
+  "limits": "The copying itself is the best supported half, and the support comes from a different paradigm. Cracco and colleagues pooled 161 studies containing 226 experiments of automatic imitation, where an observed hand movement speeds a matching movement and slows a mismatching one, and found gz = 0.95, 95% confidence interval 0.88 to 1.02. That is a reaction-time task at a screen, not two strangers in a room. The same meta-analysis reports no evidence for a relation between automatic imitation and either empathy or autism, which runs against Experiment 3. FORRT's replication database holds one replication of the 1999 paper, a preregistered attempt at Experiment 1 posted to the Open Science Framework by Förster, Felser and Röseler, and codes its outcome as mixed. The thesis on that project shortened the sessions and lost most of its 35 participants to exclusions. Smiling was mimicked, F(1, 11) = 9.10, p = .012, eta-squared = .453, on the 14 who passed. Face rubbing, F(1, 10) = 0.39, p = .547, and foot shaking, F(1, 10) = 2.06, p = .182, were not, with post-hoc power for the behavioural measures at that sample put at .46. Adding back the participants who said afterwards that they had suspected the confederates, 31 in all, brought foot shaking back, F(1, 27) = 8.00, p = .009, and left face rubbing flat, F(1, 27) < 0.01, p = .964. The thesis states that its results do not meet the criterion for a successful replication set in its own preregistration. The prosocial extension rests on small samples. Van Baaren, Holland, Kawakami and van Knippenberg reported three experiments of 17, 42 and 41 people, in which mimicked participants picked up dropped pens more often, 100 percent against 33, and donated to charity more often, 76 percent against 43. A search of FORRT's database for replications of that paper returned nothing.",
+  "misreadings": "Reading the three claims as one is the main error, and the evidence separates them. Mimicry in the room is measured, being mimicked is manipulated, and the two experiments that carry those claims share nothing but a set of photographs and a laboratory. The unconscious part rests on less than either. Its whole basis in the original is a funnelled debriefing in which no one of 35 mentioned the foot or the face, and one of 37 noticed a shared mannerism, which shows that participants did not report noticing rather than that no perception occurred. The second error is to file this with social priming and assume it shares that record. It does not. The elderly and professor primes ask a word list to reach an unrelated behaviour minutes later, and the multi-laboratory tests of that claim came back at nothing; the perception-action mapping tested here holds at gz = 0.95 across 226 experiments. The theoretical parent is the same and the empirical fate is not. The third error is in what the liking result licenses. Trzmielewska and colleagues show that mimicry beats a confederate who sits still or repeats a movement, and does not beat one who simply moves, so a study's control condition sets the size of its effect. Wicher and colleagues add that copying somebody's choices moved warmth ratings where copying their hand movements did not.",
+  "sources": [
+    {
+      "text": "Chartrand, T. L., & Bargh, J. A. (1999). The chameleon effect: The perception-behavior link and social interaction. Journal of Personality and Social Psychology, 76(6), 893-910.",
+      "doi": "10.1037/0022-3514.76.6.893",
+      "url": "https://homepages.se.edu/cvonbergen/files/2013/01/The-Chameleon-Effect_The-Perception-Behavior-Link-and-Social-Interaction.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Trzmielewska, W., Duras, J., Juchacz, A., & Rak, T. (2025). Examining the Impact of Control Condition Design in Mimicry-Liking Link Research: How Motor Behavior May Impact Liking. Roczniki Psychologiczne, 27(4), 351-378.",
+      "doi": "10.18290/rpsych2024.0019",
+      "url": "https://czasopisma.tnkul.pl/index.php/rpsych/article/download/1665/3158",
+      "type": "replication"
+    },
+    {
+      "text": "Hale, J., & Hamilton, A. F. de C. (2016). Testing the relationship between mimicry, trust and rapport in virtual reality conversations. Scientific Reports, 6, 35295.",
+      "doi": "10.1038/srep35295",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27739460/",
+      "type": "replication"
+    },
+    {
+      "text": "Majka, E. A., White, M. W., Bowling, L. A., Garcia, R. M., Skinner, T. L., Bennett, K. F., Bernstein, M. J., & Sim, J. J. (2020). The affiliative consequences of same-race and cross-race mimicry. The Journal of Social Psychology, 160(5), 603-612. Read here from its abstract at PubMed.",
+      "doi": "10.1080/00224545.2020.1719962",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31992152/",
+      "type": "replication"
+    },
+    {
+      "text": "Wicher, P., Krumhuber, E. G., Murata, A., Beganovic, S., & Hamilton, A. F. de C. (2025). How choice and motor mimicry affect affiliation: An fNIRS study. Imaging Neuroscience. Numbers read from the full text at Europe PMC.",
+      "doi": "10.1162/IMAG.a.40",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12319866/",
+      "type": "replication"
+    },
+    {
+      "text": "Förster, N., Felser, G., & Röseler, L. (2022). The Chameleon Effect: A Replication Study. Open Science Framework. The preregistration, materials and the bachelor thesis reporting the results are posted on the project.",
+      "doi": "10.17605/OSF.IO/7WEUM",
+      "url": "https://osf.io/7weum/",
+      "type": "replication"
+    },
+    {
+      "text": "Cracco, E., Bardi, L., Desmet, C., Genschow, O., Rigoni, D., De Coster, L., Radkova, I., Deschrijver, E., & Brass, M. (2018). Automatic imitation: A meta-analysis. Psychological Bulletin, 144(5), 453-500. Read here from its abstract at PubMed; the full text is paywalled.",
+      "doi": "10.1037/bul0000143",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29517262/",
+      "type": "secondary"
+    },
+    {
+      "text": "van Baaren, R. B., Holland, R. W., Kawakami, K., & van Knippenberg, A. (2004). Mimicry and prosocial behavior. Psychological Science, 15(1), 71-74.",
+      "doi": "10.1111/j.0963-7214.2004.01501012.x",
+      "url": "https://pages.ucsd.edu/~johnson/COGS260/VanBaarenEtal2004.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Salazar Kämpf, M., Liebermann, H., Kerschreiter, R., Krause, S., Nestler, S., & Schmukle, S. C. (2018). Disentangling the sources of mimicry: Social relations analyses of the link between mimicry and liking. Psychological Science, 29(1), 131-138. Cited for the round-robin design of 139 people and 618 dyadic observations, read from its abstract.",
+      "doi": "10.1177/0956797617727121",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29083989/",
+      "type": "secondary"
+    },
+    {
+      "text": "FORRT Replication Database, entry for Chartrand and Bargh (1999). Used to find replication attempts, not for what any of them found.",
+      "url": "https://forrt.org/flora-replication-atlas/doi/10.1037/0022-3514.76.6.893/",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
