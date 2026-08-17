@@ -14,13 +14,13 @@
     "year": 1985,
     "who": "Hal R. Arkes and Catherine Blumer",
     "where": "Organizational Behavior and Human Decision Processes",
-    "note": "Arkes and Blumer's paper is titled \"The psychology of sunk cost\" and is the work the effect is normally credited to. OpenAlex records about 2,500 citations of it. Ronayne, Sgroi and Tuckwell call it the seminal definition: people fall prey to the effect when they continue an endeavour as a result of previously invested resources. The idea is older than the name. The vignette Many Labs 1 tested was adapted from Richard Thaler's \"Mental accounting and consumer choice\", Marketing Science 4, 199 to 214, and Knox and Inkster's 1968 study of racetrack bettors, \"Postdecision dissonance at post time\", is the work Many Labs 1 cites when defining a sunk cost."
+    "note": "Arkes and Blumer's paper is titled \"The psychology of sunk cost\" and is the work the effect is normally credited to. OpenAlex recorded 2,545 citations of it on 17 August 2026. Its full text could not be obtained for this entry, so nothing is quoted from it directly. Ronayne, Sgroi and Tuckwell call it a seminal definition: individuals fall prey to the effect when they continue an endeavour as a result of previously invested resources such as time, money or effort. The idea is older than the name. The vignette Many Labs 1 tested was adapted from Richard Thaler's \"Mental accounting and consumer choice\", Marketing Science 4(3), 199 to 214, and Knox and Inkster's 1968 study of racetrack bettors, \"Postdecision dissonance at post time\", is the work Many Labs 1 cites when defining a sunk cost."
   },
-  "evidence": "The effect is usually demonstrated with a vignette rather than a real decision. In the version Many Labs 1 tested, taken from Oppenheimer, Meyvis and Davidenko's 2009 paper and adapted in turn from Thaler, participants imagine they hold tickets to see their favourite football team play an important game and that it is freezing cold on the day. They rate their likelihood of going on a nine-point scale, from 1 for definitely stay at home to 9 for definitely go to the game. Half are told they paid for the ticket; half are told it was free. The prediction is that the people who paid are more willing to sit in the cold. In the original they were, but only marginally: d = 0.23 with a 95% confidence interval running from -0.04 to 0.50, which crosses zero.",
+  "evidence": "The effect is usually demonstrated with a vignette rather than a real decision. In the version Many Labs 1 tested, taken from Oppenheimer, Meyvis and Davidenko's 2009 paper and adapted in turn from Thaler, participants imagine they hold tickets to see their favourite football team play an important game and that it is freezing cold on the day. They rate their likelihood of going on a nine-point scale, from 1 for definitely stay at home to 9 for definitely go to the game. Half are told they paid for the ticket; half are told it was free. The prediction is that the people who paid are more willing to sit in the cold. Many Labs 1 says the original participants were only marginally more likely to go, and puts the original at d = 0.23 with a 95% interval running from -0.04 to 0.50, which crosses zero. That interval is the Many Labs authors' own calculation from the original's cell sizes. The 2009 paper itself is paywalled and could not be retrieved for this entry.",
   "replication": {
     "state": "replicated",
-    "headline": "Repeated across 36 samples and 6,330 people, the effect held — and came out slightly larger than in the original study.",
-    "detail": "Many Labs 1 ran the football-ticket vignette at 36 sites, 25 in the United States and 11 elsewhere. Pooled across all of them the effect was d = 0.31 unweighted (99% CI 0.22 to 0.39) and d = 0.27 weighted (0.20 to 0.34), t = 10.83 on 6,328 degrees of freedom, p < .001. The median site estimate was d = 0.32. There was no detectable variation between sites: Q = 35.55 on 35 degrees of freedom, p = .44, with I-squared of 0.09, and neither country nor laboratory-versus-online moderated the result. Half of the 36 individual samples reached significance in the same direction as the original, half did not, and none found a significant effect in the opposite direction. That split is the part worth reading carefully. It is not a fifty-fifty verdict on whether the effect is real. It is what an effect of about d = 0.3 looks like cut into 36 pieces, most of them small: site samples ran from 79 to 1,329 participants, and 32 of the 36 were under 200.",
+    "headline": "Repeated across 36 samples and 6,330 people, the football-ticket vignette held, and came out slightly larger than in the original study.",
+    "detail": "Many Labs 1 ran the football-ticket vignette at 36 sites, 25 in the United States and 11 elsewhere. The project collected 6,344 participants in all and 6,330 of them answered this item. Pooled across the sites the effect was d = 0.31 unweighted (99% CI 0.22 to 0.39) and d = 0.27 weighted (0.20 to 0.34), t = 10.83 on 6,328 degrees of freedom, p < .001. The median site estimate was d = 0.32. There was no detectable variation between sites: Q = 35.55 on 35 degrees of freedom, p = .44, with I-squared of 0.09, and neither country nor laboratory-versus-online moderated the result. Half of the 36 individual samples reached significance in the same direction as the original, half did not, and none found a significant effect in the opposite direction. That split is the part worth reading carefully. It is not a fifty-fifty verdict on whether the effect is real. It is what an effect of about d = 0.3 looks like cut into 36 pieces, most of them small: site samples ran from 79 to 1,329 participants, and 32 of the 36 were under 200.",
     "study": {
       "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating Variation in Replicability: A \"Many Labs\" Replication Project. Social Psychology, 45(3), 142-152.",
       "doi": "10.1027/1864-9335/a000178",
@@ -49,8 +49,8 @@
     },
     "indexedBy": "FReD"
   },
-  "limits": "What replicated is a vignette, not a decision with anything at stake. Participants imagined a football ticket; nobody was cold and nobody was out of pocket. The pooled effect is also small: d = 0.31 means the distributions of the paid and free groups overlap heavily, and it describes an average shift, not a rule any individual follows. The vignettes may not even be measuring one thing. Białek and Biesiada gave 395 Prolific participants sets of established sunk-cost scenarios, four of them taken from Arkes and Blumer, and found internal consistency between 0.14 and 0.57 on McDonald's omega, with weak correlations between scenarios and no item whose removal helped. Cleaner designs do find the effect. Ronayne, Sgroi and Tuckwell had participants earn a lottery through a real-effort task and then offered a switch to a dominant lottery; 23 per cent of 268 stayed with the dominated one, against 7 per cent of 197 who had merely been given it, a difference of d = 0.16, p < 0.001. The effect as tested still says little about why. Arkes later argued the driver is avoiding the appearance of waste, and Zhu and Feldman's registered replication of that work found support in two of its three scenarios and none in the third.",
-  "misreadings": "The common misuse is treating any persistence as a sunk-cost fallacy. Continuing a project is only a fallacy if the reason is the money already spent; if it is a reasonable estimate that finishing still pays, or a reputation that would suffer from abandoning it, that is a different calculation and possibly a correct one. The second misreading is confusing sunk cost with escalation of commitment, which has its own entry here. Sunk cost asks whether resources already spent move the decision. Escalation asks whether having been the one who chose the failing course moves it further, and it requires bad news. Sleesman and colleagues admitted only studies with a failing course of action to their meta-analysis and excluded sunk-cost studies with no negative feedback. The third runs the other way: because the per-site results in Many Labs 1 split evenly, the effect is sometimes listed among psychology's replication casualties. It is not one. It replicated, with no detectable variation between laboratories. A fourth is the claim that sunk-cost sensitivity is unique to humans. Sweis and colleagues report that early work said so, that field studies in swallows, sparrows, mice and bluegills went both ways, and that in their own two foraging tasks 32 mice, 10 rats and 65 human undergraduates all showed it (F = 30.75, 45.65 and 3.95, all p < 0.0001). In all three species the sensitivity appeared only after the decision to pursue had been made, not before it. A fifth concerns a name rather than a finding. James Howard Kunstler coined the phrase \"the psychology of previous investment\", and Wikipedia files it under cognitive biases as though it were one of its own. Kunstler glossed it for Chris Martenson in 2010 as \"mainly our sunk costs in suburbia, including all its furnishings and accessories\". It is the effect described here under a popular name, pointed at roads and houses instead of football tickets. It carries no separate evidence. A full-text search of Europe PMC for the phrase returned no records, and a Crossref title search returned none either.",
+  "limits": "What replicated is a vignette, not a decision with anything at stake. Participants imagined a football ticket; nobody was cold and nobody was out of pocket. The pooled effect is also small: d = 0.31 means the distributions of the paid and free groups overlap heavily, and it describes an average shift, not a rule any individual follows. The vignettes may not even be measuring one thing. Białek and Biesiada ran two Prolific experiments, analysing 198 and 197 participants, on established sunk-cost scenarios including four from Arkes and Blumer. Internal consistency ran from 0.14 to 0.57 on McDonald's omega, with weak correlations between scenarios. In their first experiment, dropping either the TV dinner item or the Michigan ski trip raised omega from 0.57 to 0.63. Petrov and colleagues' registered replication of Soman, 821 participants of 1,348 surviving exclusions, found the money-versus-time gap in one study and sunk-cost effects for both money and time in another. Designs with money on the table do find the effect. Ronayne, Sgroi and Tuckwell had participants earn a lottery through a real-effort task and then offered a switch to a dominant lottery. Of the 268 who earned it, 23 per cent stayed with the dominated one, against 7 per cent of the 197 who had merely been given it, a gap of 16 percentage points, p < 0.001. Beknazar-Yuzbashev, Ichiba and Stalinski charged 1,806 online participants $0.5, $1.5 or $2.5 to enter a real-effort task. Those charged most played 1.1 minutes longer than those charged least, at a one-sided p = 0.053, rising to 1.3 minutes and 0.12 standard deviations, p = 0.023, in the specification with controls and manipulation checks. Their field experiment on YouTube, 11,328 video-user pairs, found no overall effect on engagement, because a longer unskippable advertisement made 5.2 percentage points more users leave before the video started. The effect as tested still says little about why. Arkes later argued the driver is avoiding the appearance of waste, and Zhu and Feldman's registered replication of that 1996 work, on 659 Prolific participants, supported it in two of three scenarios; the sunk-cost scenario gave w = 0.09, 95% CI 0.00 to 0.17, against the original's w = 0.23.",
+  "misreadings": "The common misuse is treating any persistence as a sunk-cost fallacy. Continuing a project is only a fallacy if the reason is the money already spent; if it is a reasonable estimate that finishing still pays, or a reputation that would suffer from abandoning it, that is a different calculation and possibly a correct one. Mattei and Michael tested that on political vignettes about a national rail project. Across three preregistered experiments totalling 1,462 participants, evaluations of the leader turned on whether they continued or abandoned, with no main effect of sunk costs, which the authors read as a premium on consistency rather than waste aversion. Their full text could not be obtained, and this rests on the abstract the publisher deposited at Crossref. The second misreading is confusing sunk cost with escalation of commitment, which has its own entry at number 80. Sunk cost asks whether resources already spent move the decision. Escalation asks whether having been the one who chose the failing course moves it further, and it requires bad news. The third runs the other way: because the per-site results in Many Labs 1 split evenly, the effect is sometimes listed among psychology's replication casualties. It is not one. It replicated, with no detectable variation between laboratories. A fourth is the claim that sunk-cost sensitivity is unique to humans. Sweis and colleagues report that early work claimed exactly that, that field studies in swallows, sparrows, mice and bluegills went both ways, and that in their own two foraging tasks mice, rats and human undergraduates all showed it (F = 30.75, 45.65 and 3.95, all p < 0.0001). The per-species sample sizes sit in supplementary material that could not be retrieved. In all three species the sensitivity appeared only after the decision to pursue had been made, not before it. A fifth concerns a name rather than a finding. James Howard Kunstler coined the phrase \"the psychology of previous investment\", and Wikipedia files it under cognitive biases as though it were one of its own. Kunstler glossed it for Chris Martenson in 2010 as \"mainly our sunk costs in suburbia, including all its furnishings and accessories\". It is the effect described here under a popular name, pointed at roads and houses instead of football tickets. It carries no separate evidence that could be found: a full-text search of Europe PMC for the phrase returned no records, and a Crossref title search returned nothing bearing it.",
   "sources": [
     {
       "text": "Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124-140. Paywalled; the full text could not be retrieved for this entry, so no figure from it is quoted here. Its citation count was read from OpenAlex, and its definition is quoted as later authors state it.",
@@ -59,7 +59,7 @@
       "type": "primary"
     },
     {
-      "text": "OpenAlex record for Arkes and Blumer (1985), read on 9 August 2026, giving a cited-by count of 2,536.",
+      "text": "OpenAlex record for Arkes and Blumer (1985), read on 17 August 2026, giving a cited-by count of 2,545.",
       "url": "https://api.openalex.org/works/doi:10.1016/0749-5978(85)90049-4",
       "type": "index"
     },
@@ -70,13 +70,13 @@
       "type": "replication"
     },
     {
-      "text": "Oppenheimer, D. M., Meyvis, T., & Davidenko, N. (2009). Instructional manipulation checks: Detecting satisficing to increase statistical power. Journal of Experimental Social Psychology, 45(4), 867-872. The source of the football-ticket item Many Labs 1 replicated.",
+      "text": "Oppenheimer, D. M., Meyvis, T., & Davidenko, N. (2009). Instructional manipulation checks: Detecting satisficing to increase statistical power. Journal of Experimental Social Psychology, 45(4), 867-872. The source of the football-ticket item Many Labs 1 replicated. Paywalled; the item wording and the original effect size on this page are read off Many Labs 1, not off this paper.",
       "doi": "10.1016/j.jesp.2009.03.009",
       "url": "https://doi.org/10.1016/j.jesp.2009.03.009",
       "type": "primary"
     },
     {
-      "text": "Białek, M., & Biesiada, E. (2025). On the low reliability of sunk cost vignettes. Brain Sciences, 15(8), 808. Two experiments, N = 395, including four Arkes and Blumer scenarios. Not preregistered.",
+      "text": "Białek, M., & Biesiada, E. (2025). On the low reliability of sunk cost vignettes. Brain Sciences, 15(8), 808. Two experiments, 198 and 197 participants analysed, including four Arkes and Blumer scenarios. Read from the Europe PMC full text; the article reports no preregistration and posts data and materials at osf.io/ubzv2.",
       "doi": "10.3390/brainsci15080808",
       "url": "https://doi.org/10.3390/brainsci15080808",
       "type": "commentary"
@@ -88,22 +88,16 @@
       "type": "replication"
     },
     {
-      "text": "Zhu, Z., & Feldman, G. (2025). Revisiting the psychology of waste: Replication and extensions Registered Report of Arkes (1996). Royal Society Open Science, 12(5), 250367. Prolific sample, N = 659; figures read from the authors' accepted preprint. It replicates Arkes (1996), not Arkes and Blumer (1985).",
+      "text": "Zhu, Z., & Feldman, G. (2025). Revisiting the psychology of waste: Replication and extensions Registered Report of Arkes (1996). Royal Society Open Science, 12(5), 250367. Prolific sample, N = 659; figures read from the published open-access full text. It replicates Arkes (1996), not Arkes and Blumer (1985).",
       "doi": "10.1098/rsos.250367",
-      "url": "https://mgto.org/wp-content/uploads/2025/03/Zhu-Feldman-2025-RSOS-Arkes-1996-replication-extension-registered-report-preprint-final.pdf",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12077240/fullTextXML",
       "type": "replication"
     },
     {
-      "text": "Sweis, B. M., Abram, S. V., Schmidt, B. J., Seeland, K. D., MacDonald, A. W., Thomas, M. J., & Redish, A. D. (2018). Sensitivity to \"sunk costs\" in mice, rats, and humans. Science, 361(6398), 178-181.",
+      "text": "Sweis, B. M., Abram, S. V., Schmidt, B. J., Seeland, K. D., MacDonald, A. W., Thomas, M. J., & Redish, A. D. (2018). Sensitivity to \"sunk costs\" in mice, rats, and humans. Science, 361(6398), 178-181. Read from the author manuscript at PubMed Central; the supplementary materials carrying the per-species sample sizes could not be retrieved.",
       "doi": "10.1126/science.aar8644",
-      "url": "https://doi.org/10.1126/science.aar8644",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377599/",
       "type": "primary"
-    },
-    {
-      "text": "Sleesman, D. J., Conlon, D. E., McNamara, G., & Miles, J. E. (2012). Cleaning Up the Big Muddy: A Meta-Analytic Review of the Determinants of Escalation of Commitment. Academy of Management Journal, 55(3), 541-562. Cited here only for the boundary it draws between escalation and sunk cost.",
-      "doi": "10.5465/amj.2010.0696",
-      "url": "https://doi.org/10.5465/amj.2010.0696",
-      "type": "commentary"
     },
     {
       "text": "Roseler, L., et al. FORRT Replication Database (FReD) and FORRT Library of Reproduction and Replication Attempts (FLoRA). OSF, 2022. Used to locate the replication above, not as the source for what it found.",
@@ -117,10 +111,28 @@
       "type": "commentary"
     },
     {
-      "text": "Wikipedia, \"Psychology of previous investment\", article wikitext read on 10 August 2026. A stub that attributes the phrase to Kunstler and files it under cognitive biases. Cited for the currency of the name, not for any finding.",
+      "text": "Wikipedia, \"Psychology of previous investment\", article wikitext read on 17 August 2026. A stub that attributes the phrase to Kunstler and files it under cognitive biases. Cited for the currency of the name, not for any finding.",
       "url": "https://en.wikipedia.org/wiki/Psychology_of_previous_investment",
       "type": "index"
+    },
+    {
+      "text": "Beknazar-Yuzbashev, G., Ichiba, S., & Stalinski, M. (2026). To the depths of the sunk cost: Experiments revisiting the elusive effect. Journal of Economic Behavior & Organization, 241, 107352. Two preregistered experiments; figures read from the authors' copy of the published open-access article. The p values quoted for the online study are one-sided, as the authors preregistered.",
+      "doi": "10.1016/j.jebo.2025.107352",
+      "url": "https://doi.org/10.1016/j.jebo.2025.107352",
+      "type": "replication"
+    },
+    {
+      "text": "Petrov, N. B., Chan, Y. K. M., Lau, C. N., Kwok, T. H., Chow, L. C. E., Lo, W. Y., Song, W., & Feldman, G. (2023). Sunk Cost Effects for Time Versus Money: Replication and Extensions Registered Report of Soman (2001). International Review of Social Psychology, 36(1), 17. 1,348 started, 821 analysed after preregistered exclusions.",
+      "doi": "10.5334/irsp.883",
+      "url": "https://doi.org/10.5334/irsp.883",
+      "type": "replication"
+    },
+    {
+      "text": "Mattei, M., & Michael, J. (2026). Consistency, not waste aversion, explains apparent sunk-cost effects in politics. Political Psychology, published 8 August 2026. Three preregistered experiments, total N = 1,462. The full text could not be retrieved; the description here is taken from the abstract the publisher deposited at Crossref.",
+      "doi": "10.1111/pops.70185",
+      "url": "https://doi.org/10.1111/pops.70185",
+      "type": "primary"
     }
   ],
-  "checkedOn": "2026-08-10"
+  "checkedOn": "2026-08-17"
 }
