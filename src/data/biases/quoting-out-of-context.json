@@ -1,0 +1,90 @@
+{
+  "no": 497,
+  "slug": "quoting-out-of-context",
+  "name": "Quoting out of context",
+  "aliases": ["Contextomy", "Selective quotation", "Contextomised quotation"],
+  "category": "belief",
+  "statement": "Quoting out of context reproduces a speaker's words accurately while misrepresenting what they meant, and the false impression can outlast the restoration of the passage.",
+  "meaning": "Two claims travel under one name and they need different evidence. The first is a charge about a text. The excerpt is faithful word for word, and the meaning it carries is not the meaning carried by the passage it was cut from. Settling that takes the passage, not an experiment. The second is a claim about audiences, that once the excerpt has done its work, putting it back does not undo the impression. Matthew McGlone named the practice contextomy and built his experiment around the second claim. The distinction matters in both directions. A quotation can misrepresent its source without deceiving anybody, and an audience can be left with a false impression by material nobody clipped.",
+  "origin": {
+    "year": 2005,
+    "who": "Matthew S. McGlone",
+    "where": "Journal of Communication",
+    "note": "McGlone published two papers on the subject in 2005. The Journal of Communication paper, 55(2), 330-346, reports the experiment. The Media, Culture and Society paper, 27(4), 511-522, analyses the quotation of Martin Luther King by conservative politicians campaigning against affirmative action. The word is older than both. Michael Quinion's word column credits it to the historian Milton Mayer in 1966, writing about the misquotation of the Torah in Julius Streicher's Der Stürmer. Neither Mayer's text nor McGlone's papers could be opened here, so the coinage is recorded as Quinion's attribution rather than as verified."
+  },
+  "evidence": "The experiment is described here from its published abstract, because both of McGlone's 2005 papers are closed at their publishers. Participants read fabricated quotes about affirmative action and judged how far the sources supported the policy. One quotation was excerpted from a neutral paragraph so that it portrayed the source as either favouring or opposing affirmative action. Participants then read the full paragraph. Those encouraged to infer attitude-related characteristics of the source revised their judgements less than those prompted to infer unrelated characteristics. The abstract of the companion paper states the general form of the claim: a contextomized quotation prompts a false impression of the source's intentions and can contaminate later interpretation of the quote once it is restored to its original context. No sample size, condition mean or effect size from either paper appears on this page, because the method sections could not be read. The other body of measurement is a counting exercise rather than an experiment. Song, Han and Park assembled 381,206 Korean news stories published before 2019 through the Naver aggregator, across six sections of eight mainstream outlets, each carrying a direct quotation in the headline. They sampled 3,000 at random, leaving out articles whose headline quote also appears identically in the body, and had three annotators with journalism expertise label each one against guidelines drafted by a mass communication academic. After eight training sessions over two weeks the coders reached a Krippendorff's alpha of 0.93, and the labelled set came out at 1,344 contextomized against 1,656 modified, where a modified quote keeps the meaning of the original in different words. Their earlier paper sampled 2,000 articles the same way and labelled 814 contextomized and 786 modified in the 1,600 that remained. On the production side, Lauri Haapanen played recordings of journalistic interviews back to the journalists who conducted them, running stimulated recall sessions with 11 of his 16 informants. His conclusion is that quoting in written journalism aims neither at replicating the quoted text verbatim nor at holding its exact meaning, but at serving the objectives of the article.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No repeat of McGlone's experiment was found. What cites him counts how often headline quotes shift meaning, which is a different measurement.",
+    "detail": "The search ran through Crossref by title and by topic, the Semantic Scholar citation graph for all three of the DOIs attached to McGlone's two 2005 papers, Europe PMC for contextomy and contextomized, CORE, the ACL Anthology, arXiv and open-web search. Europe PMC returned seven records, on hypertension history, moorland burning, academic citation error and other subjects. CORE returned nine, of which the relevant ones were McGlone's own paper and a study of biblical quotation. Three citing works were located and read. Two are the Korean corpus papers, which cite McGlone for the definition of a contextomized quote rather than for his result. The third is an ICWSM paper on Brazilian Twitter, which borrows the phrase for retweets sent to mock an opponent years after the fact. Nobody located here has run the affirmative action materials again, or any variant of them. The nearby literature that does replicate is testing something else. In continued influence experiments a false detail is retracted, and the question is whether people keep reasoning from it; in contextomy the words were never false, and the question is whether the surrounding passage repairs the reading. Chan, Jones, Hall Jamieson and Albarracin pooled 52 studies and 6,878 people, putting debunking at d = 1.14 to 1.33 and the persistence of the misinformation at d = 0.75 to 1.06. Walter and Tukachinsky pooled 32 studies and 6,527 people and report that correction does not entirely eliminate the influence of misinformation, at r = -.05, p = .045. Both figures are read from the abstracts at Crossref, and this site's continued-influence entry carries them with the paradigm they belong to."
+  },
+  "limits": "The empirical claim on this page rests on one experiment from 2005, on one policy topic, whose design and numbers this entry could not read. Wiley and Oxford both refused the article, and no repository copy turned up at CORE, Semantic Scholar or Unpaywall, so nothing quantitative from it is published here. The counting studies cover one language, one country and one aggregator, and stop in 2019. Both of their labelled sets leave out headline quotes that appear verbatim in the body, so neither is the share of all headline quotes that mislead, and the two sets do not carry the same balance of labels. The two papers also describe their coders differently: the 2023 paper says two journalism-major undergraduates were trained and reports the alpha for three workers, and the 2024 paper says three annotators with journalism expertise. Their label compares a headline against the body of its own article, which leaves untouched the case where headline and body agree and both misrepresent the speaker. None of that work measures what readers took from the headlines. Haapanen's study is qualitative, Finnish and small, and describes what journalists say they do rather than counting distortions. On the argumentative side, Macagno and Walton have a chapter on misquotation inside their book on straw man argumentation, which was not obtained for this entry. No study was found that counts how often the accusation of quoting out of context is made, or how often it holds up.",
+  "misreadings": "The commonest error is to treat the two claims as one. Producing the original passage settles whether a quotation misrepresents its source, and settles nothing about whether anyone was misled by it. The reverse reading is also wrong, that showing the context is enough to put things right. McGlone's abstract is the reason that question is open. Participants prompted to infer attitude-related things about the source revised their judgements less on reading the full paragraph than participants prompted to infer unrelated things. That is a difference between conditions rather than a finding that context restoration fails. Quoting out of context is also not misquotation. The words are usually correct, which is what makes the quotation marks defensible and the charge awkward to press. It is not the backfire effect either. Nyhan's review states that an emerging research consensus finds corrective information typically at least somewhat effective at increasing belief accuracy when people receive it. It adds that the accuracy gains often decay, or are overwhelmed by cues from elites and the media. So a clipped quote keeps circulating for reasons other than the correction entrenching it. The phrase itself is the last trap. 'Taken out of context' is available to any speaker who dislikes an accurate quotation, and nothing in the evidence located here says how often that defence is warranted.",
+  "sources": [
+    {
+      "text": "McGlone, M. S. (2005). Quoted out of context: Contextomy and its consequences. Journal of Communication, 55(2), 330-346. Closed at Wiley and at Oxford on this pass. Only the published abstract was read, through the OpenAlex record for the article, and no figure from the paper appears above.",
+      "doi": "10.1111/j.1460-2466.2005.tb02675.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.2005.tb02675.x",
+      "type": "primary"
+    },
+    {
+      "text": "McGlone, M. S. (2005). Contextomy: The art of quoting out of context. Media, Culture & Society, 27(4), 511-522. Closed access; the abstract was read at Crossref and is the source for the general form of the claim quoted above.",
+      "doi": "10.1177/0163443705053974",
+      "url": "https://doi.org/10.1177/0163443705053974",
+      "type": "primary"
+    },
+    {
+      "text": "Song, S., Han, J., & Park, K. (2024). A Data-Centric Contrastive Embedding Framework for Contextomized Quote Detection. IEEE Access, 12, 40168-40181. Read in full from the publisher's PDF; the source for the 381,206 stories, the 3,000 labelled articles and the 1,344 to 1,656 split.",
+      "doi": "10.1109/ACCESS.2024.3377227",
+      "url": "https://doi.org/10.1109/ACCESS.2024.3377227",
+      "type": "primary"
+    },
+    {
+      "text": "Song, S., Song, H., Park, K., Han, J., & Cha, M. (2023). Detecting Contextomized Quotes in News Headlines by Contrastive Learning. Findings of the Association for Computational Linguistics: EACL 2023, 697-704. Read in full from the ACL Anthology PDF.",
+      "doi": "10.18653/v1/2023.findings-eacl.52",
+      "url": "https://aclanthology.org/2023.findings-eacl.52.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Haapanen, L. (2018). Rethinking quoting in written journalism: an intertextual chain from an interview into quotations. Cahiers du Centre de Linguistique et des Sciences du Langage, 54, 95-118. Read in full.",
+      "doi": "10.26034/la.cdclsl.2018.299",
+      "url": "https://www.cahiers-clsl.ch/article/view/299/233",
+      "type": "primary"
+    },
+    {
+      "text": "Macagno, F., & Walton, D. (2017). Establishing Commitments Between Ambiguity and Misquotation. In Interpreting Straw Man Argumentation. Perspectives in Pragmatics, Philosophy & Psychology. Named here as existing and not obtained; nothing on this page is taken from it.",
+      "doi": "10.1007/978-3-319-62545-4_3",
+      "url": "https://doi.org/10.1007/978-3-319-62545-4_3",
+      "type": "commentary"
+    },
+    {
+      "text": "Chan, M. S., Jones, C. R., Hall Jamieson, K., & Albarracin, D. (2017). Debunking: A meta-analysis of the psychological efficacy of messages countering misinformation. Psychological Science, 28(11), 1531-1546. Figures quoted here from the abstract at Crossref.",
+      "doi": "10.1177/0956797617714579",
+      "url": "https://doi.org/10.1177/0956797617714579",
+      "type": "commentary"
+    },
+    {
+      "text": "Walter, N., & Tukachinsky, R. (2020). A meta-analytic examination of the continued influence of misinformation in the face of correction: How powerful is it, why does it happen, and how to stop it? Communication Research, 47(2), 155-177. Figures quoted here from the abstract at Crossref.",
+      "doi": "10.1177/0093650219854600",
+      "url": "https://doi.org/10.1177/0093650219854600",
+      "type": "commentary"
+    },
+    {
+      "text": "Nyhan, B. (2021). Why the backfire effect does not explain the durability of political misperceptions. Proceedings of the National Academy of Sciences, 118(15), e1912440117. The abstract was read at Europe PMC and is the source for the sentence attributed to it.",
+      "doi": "10.1073/pnas.1912440117",
+      "url": "https://doi.org/10.1073/pnas.1912440117",
+      "type": "commentary"
+    },
+    {
+      "text": "Guerra, P. C., Souza, R. C. S. N. P., Assunção, R. M., & Meira, W. (2017). Antagonism also flows through retweets: The impact of out-of-context quotes in opinion polarization analysis. Proceedings of the Eleventh International AAAI Conference on Web and Social Media. Read in full; cited here only as one of the works that cite McGlone.",
+      "url": "https://ojs.aaai.org/index.php/ICWSM/article/download/14971/14821",
+      "type": "commentary"
+    },
+    {
+      "text": "Quinion, M. (2008). Contextomy. World Wide Words, Topical Words, page created 21 June 2008. A word column, not a scholarly source. Cited for the attribution of the coinage to Milton Mayer in 1966, which this entry could not verify elsewhere.",
+      "url": "https://www.worldwidewords.org/tw-con2.html",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
