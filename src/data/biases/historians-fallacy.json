@@ -1,0 +1,84 @@
+{
+  "no": 518,
+  "slug": "historians-fallacy",
+  "name": "Historian's fallacy",
+  "aliases": ["Historians' fallacy"],
+  "category": "belief",
+  "statement": "Writing about people in the past as though they saw their situation the way a later historian sees it, knowing which way it turned out.",
+  "meaning": "Fischer's definition is a transposition of one William James made about psychologists. It is \"the error of assuming that a man who has a given historical experience knows it, when he has it, to be all that a historian would know it to be, with the advantage of historical perspective\". The commonest form, he writes, is the tendency of historians \"to forget that their subjects did not know what was coming next\". Put abstractly the error looks silly. Fischer's illustration is a letter written in France on 24 May 1337 announcing that \"the Hundred Years' War began here today\". In practice it hides, because the information somebody did not have leaves no trace in the record. This is a charge about a piece of writing, not a measurement of a mind. Its measured neighbour is hindsight bias, which this site treats separately.",
+  "origin": {
+    "year": 1970,
+    "who": "David Hackett Fischer",
+    "where": "Historians' Fallacies: Toward a Logic of Historical Thought",
+    "note": "The name is Fischer's. It appears in chapter VII, \"Fallacies of Motivation\", on pages 209 to 213 of the Harper edition, and the index lists it at those pages. Fischer says the fallacy \"is suggested by William James's 'psychologists' fallacy'\", citing volume I, page 196 of the Principles of Psychology. His running example is Pearl Harbor, where the signals that in retrospect announced the attack came, on Roberta Wohlstetter's account, mixed with contradictory ones. Fischer spells it as a plural possessive through most of the section and as a singular possessive once, which is the form that has stuck."
+  },
+  "evidence": "The book argues by specimen. Fischer names offenders and quotes them, and the sample in this section runs to five. Louis Hartz's The Liberal Tradition in America supplies the full-blown case: Hartz writes of Hamilton, Adams and the Whigs that \"their crime was not villainy but stupidity\", which Fischer reads as an indictment of the founders for failing to read the future. Marvin Meyers is charged with the opposite version, crediting John Adams with the clarity we have in retrospect. Two further specimens are borrowed from other people's book reviews, Donald Fleming on Philip Ritterbush and Ramsay MacMullen on Jack Lindsay, and a fifth, George Dangerfield on Andrew Jackson, Fischer calls a borderline case. There is no experiment, no sample and no rate anywhere in the section. The nearest measured thing is Fischhoff's 1975 hindsight experiment, which ran on historical narratives. His main passage was lifted from E. L. Woodward's Age of Reform and described the 1814 British campaign against the Gurkas of Nepal, with four candidate endings. Telling readers which ending occurred raised their probability for it and also changed which of the twelve numbered facts in the passage looked important. The datum that British officers \"learned caution only after sharp reverses\" was rated most relevant by those told the British won and rather irrelevant by those told the Gurkas won. Fischhoff reached for historians to describe this, quoting R. H. Tawney on the way historians drag the winning forces into prominence, and quoting the same Wohlstetter book Fischer had used. He also wrote that a decision maker \"second-guessed by a hindsightful observer\" has his misfortune made to look like \"incompetence, folly, or worse\", which is Fischer's complaint about Hartz arrived at from the other direction. Numbers for the hindsight effect are on this site's hindsight-bias entry rather than repeated here.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study was found that measures the fallacy in historians. It is a charge about how history is written, and nothing located turns it into a rate.",
+    "detail": "Europe PMC holds one record containing the phrase \"historian's fallacy\", a 2012 book review in the British Journal of General Practice, and none at all for the plural form. Crossref returns no work under either phrase; its bibliographic search degrades to loose matching and offers the gambler's fallacy instead. General web search surfaces encyclopedia entries and essays rather than data. Whether professional historians commit the error at a measurable rate, and whether they do so more or less than anyone else, was not settled by anything found. The adjacent expertise result runs against the comforting answer. Knoll and Arkes ran three experiments and report that hindsight bias grew with both objective and subjective expertise, and that a feeling of knowing, which they say exists only when expertise is naturally acquired, is what makes expertise harmful. The strongest claim located about historians in particular is an argument, not a measurement. Mukharji and Zeckhauser name what they call explanation bias, the tendency of historical analysis to treat what is plausible as probable, and say it leads individuals \"including professional historians\" to imply more certainty than the evidence justifies. Their paper offers intuitions and examples and collects no data."
+  },
+  "limits": "The search covered Europe PMC, Crossref by bibliographic query and general web search. OpenAlex could not be queried, because its API reported the day's quota exhausted, and no psychology-specific database such as PsycINFO was searched. Absence of a study is a statement about those places. Four scholarly reviews of Fischer's book were located by DOI and none of them could be read: Mink in History and Theory, Potter in the Journal of Southern History, Martin in the Journal of Economic History and Ball in Philosophy of the Social Sciences. Each sits behind a paywall or a bot check that these attempts did not pass, so the only contemporary review quoted below is Kirkus's, which is a trade notice rather than scholarship. Tetlock's finding that political experts misremember the probabilities they gave is widely quoted and was not obtained from a document during this work, so no figure from it appears here. Wohlstetter's Pearl Harbor: Warning and Decision was not read either; everything about it here comes from the passages Fischer and Fischhoff quote. Fischer's text was read as two independent renderings of the Internet Archive scan, a PDF and the item's plain text, and the quotations were checked in both.",
+  "misreadings": "The most common error is to hand the idea to Matthew Arnold. Wikipedia states that it was \"first articulated by British literary critic Matthew Arnold in 1880\" and cites a popular ideas anthology for the claim. The name Matthew Arnold does not occur in Fischer's book, whose text was searched in full for it, and the antecedent Fischer himself names is James rather than Arnold. Fischer's use of James also drifts from James. Fischer paraphrases the psychologists' fallacy as assuming that a man knows his own experience to be all an observing psychologist would know it to be, which is what James calls another variety of the error. James reserves the phrase \"par excellence\" for a different thing, the psychologist confusing his own standpoint with that of the mental state he reports. A second error is to treat the fallacy as presentism. Fischer separates them by seventy pages: presentism is defined in chapter V as a complex anachronism in which the antecedent of a narrative is interpreted in terms of the consequent, and the historian's fallacy is in chapter VII, about motivation. A third is to read Fischer as telling historians to strip out what they know. He calls that a counterfallacy, names Douglas Southall Freeman's \"fog-of-war\" technique in the Lee biography as the case, and writes that the method is a mistake because \"we possess many advantages in retrospection that ought not be relinquished\". The fourth is to expect the entry to carry an effect size. It has none, because the claim is about the structure of a historical argument. Anyone wanting the numbers should read them off hindsight bias, and should notice that the hindsight experiments measure readers of short passages rather than historians at work.",
+  "sources": [
+    {
+      "text": "Fischer, D. H. (1970). Historians' Fallacies: Toward a Logic of Historical Thought. New York: Harper & Row. Pages 209 to 213 read in full for the definition, the Hundred Years' War letter, the Hartz, Meyers, Ritterbush, Lindsay and Dangerfield specimens and the Freeman passage; pages 135 to 140 read for presentism. Read as the Internet Archive scan, both the PDF and the plain-text rendering of the same item.",
+      "url": "https://archive.org/details/HistoriansFallaciesTowardALogicOfHistoricalThought",
+      "type": "primary"
+    },
+    {
+      "text": "James, W. (1890). The Principles of Psychology, volume I, chapter VII, pages 196 to 197. Read in Christopher Green's Classics in the History of Psychology transcription. Source for what James actually calls the psychologist's fallacy and for the variety Fischer paraphrases.",
+      "url": "https://psychclassics.yorku.ca/James/Principles/prin7.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Fischhoff, B. (1975). Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299. Read in full. Source for the Gurka passage, its origin in Woodward's Age of Reform, the relevance judgements and the Tawney and Wohlstetter quotations.",
+      "doi": "10.1037/0096-1523.1.3.288",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Fischhoff_1975_Hindsight_is_not_equal_to_foresight.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Knoll, M. A. Z., & Arkes, H. R. (2017). The effects of expertise on the hindsight bias. Journal of Behavioral Decision Making, 30(2), 389-399. Abstract read at Crossref; the full text was not obtained.",
+      "doi": "10.1002/bdm.1950",
+      "url": "https://api.crossref.org/works/10.1002/bdm.1950",
+      "type": "primary"
+    },
+    {
+      "text": "Mukharji, A., & Zeckhauser, R. (2019). Bound to Happen: Explanation Bias in Historical Analysis. Journal of Applied History, 1(1-2), 5-27. Read in full as the Harvard Kennedy School working paper version, RWP19-032.",
+      "doi": "10.1163/25895893-00101002",
+      "url": "https://appext.hks.harvard.edu/publications/getFile.aspx?Id=3844",
+      "type": "commentary"
+    },
+    {
+      "text": "Kirkus Reviews (1969). Historians' Fallacies: Toward a Logic of Historical Thought. Issue of 1 January 1969. Read in full. Calls the book \"a devastating display of 136 (count 'em) logical fallacies\", finds the positive suggestions \"rather commonplace roles of right reasoning\", and concludes that \"the substance of the book is less imposing than it seems at first and not as challenging as one would have hoped\".",
+      "url": "https://www.kirkusreviews.com/book-reviews/a/david-hackett-fischer-2/historians-fallacies-toward-a-logic-of-historic/",
+      "type": "commentary"
+    },
+    {
+      "text": "Mink, L. O. (1971). Review of Historians' Fallacies. Toward a Logic of Historical Thought. History and Theory, 10(1), 107. Located by DOI and not obtained.",
+      "doi": "10.2307/2504401",
+      "type": "commentary"
+    },
+    {
+      "text": "Potter, D. M. (1971). Review of Historians' Fallacies: Toward a Logic of Historical Thought. The Journal of Southern History, 37(1), 86. Located by DOI and not obtained.",
+      "doi": "10.2307/2205921",
+      "type": "commentary"
+    },
+    {
+      "text": "Martin, A. (1972). Review of Historians' Fallacies. Toward a Logic of Historical Thought. by David Hackett Fischer. The Journal of Economic History, 32(4), 968-970. Located by DOI and not obtained.",
+      "doi": "10.1017/s0022050700071345",
+      "type": "commentary"
+    },
+    {
+      "text": "Ball, T. (1976). Book Reviews : Historians' Fallacies: Toward a Logic of Historical Thought. By DAVID HACKETT FISCHER. Philosophy of the Social Sciences, 6(1), 89-91. Located by DOI and not obtained; the publisher's page returned a bot check.",
+      "doi": "10.1177/004839317600600108",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Historian's fallacy. Used to find sources and quoted here as the carrier of the Matthew Arnold attribution, not relied on for anything else.",
+      "url": "https://en.wikipedia.org/wiki/Historian%27s_fallacy",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
