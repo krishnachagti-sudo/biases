@@ -1,0 +1,86 @@
+{
+  "no": 528,
+  "slug": "fallacy-of-the-undistributed-middle",
+  "name": "Fallacy of the undistributed middle",
+  "aliases": ["Undistributed middle", "Undistributed middle term", "Fallacy of the undistributed middle term"],
+  "category": "belief",
+  "statement": "When the term shared by two premises is undistributed in both, nothing follows about the other two terms, and people draw a conclusion anyway.",
+  "meaning": "A categorical syllogism links two end terms through a middle term that appears in both premises and not in the conclusion. A term is distributed when the premise says something about every member of it. 'All A are B' distributes A and not B. 'No A is B' distributes both. 'Some A are B' distributes neither. 'Some A are not B' distributes B alone. If the middle term is undistributed in both premises, the premises never speak about the same members of it, so the end terms are never brought into contact and no conclusion about them is licensed. The textbook case is 'All A are B, All C are B, therefore all C are A', where B is the predicate of two universal affirmatives and so is undistributed twice. Psychology does not study the fallacy under this name. It studies the 64 pairs of syllogistic premises together, and the pairs with an undistributed middle sit among the 37 that support no conclusion interrelating the end terms. What the experiments measure is how often people say nothing follows, and what they conclude instead when they do not."
+  ,
+  "origin": {
+    "year": 1935,
+    "who": "R. S. Woodworth and S. B. Sells",
+    "where": "Journal of Experimental Psychology",
+    "note": "The name belongs to scholastic logic and no experiment established it. The 1935 paper, 'An atmosphere effect in formal syllogistic reasoning', volume 18, pages 451 to 460, is the oldest psychological account of why such conclusions are accepted, and it is cited that way throughout the modern literature. It is closed at the American Psychological Association, has no repository copy in Unpaywall, OpenAlex or Semantic Scholar, and was not obtained for this entry. What appears below about its claim is quoted from Khemlani and Johnson-Laird's review, which was read in full."
+  },
+  "evidence": "The record comes from studies in which participants see two premises and produce or select a conclusion. Khemlani and Johnson-Laird pooled six such experiments, all of which used all 64 premise pairs. The samples were 20 students at Teachers College, Columbia University, tested twice, 20 undergraduates at Milan, 20 high school pupils in Florence, 20 undergraduates in Florence, and 56 undergraduates at the University of Florida. Their Table 6 gives, for each premise pair, the percentage of each of the nine possible responses. Take the canonical form first. Given 'All A are B' and 'All C are B', 31% answered that no valid conclusion follows, 47% concluded 'All A are C' and 7% concluded 'All C are A'. Other pairs with an undistributed middle came out worse. Given 'All A are B' and 'Some B are C', 16% answered that nothing follows and 70% concluded 'Some A are C'. Given 'Some B are A' and 'All C are B', 12% answered that nothing follows and 52% concluded 'Some C are A'. That last pair is the hardest of all 37 invalid syllogisms in the pooled data, and the authors name it as such. Given 'Some A are B' and 'Some B are C', 33% answered that nothing follows and 61% concluded 'Some A are C'. The same participants are accurate elsewhere. The valid syllogism 'All A are B, All B are C' drew 88% correct responses, and the easiest invalid pair, 'No A is B, No C is B', drew 76%."
+  ,
+  "replication": {
+    "state": "replicated",
+    "headline": "The pattern holds across six experiments in two countries and again in an independent online sample: most people answer these premise pairs with a conclusion rather than with nothing.",
+    "detail": "Khemlani and Johnson-Laird tested whether their six studies agreed before pooling them. The rank order of difficulty across the six was concordant for the 27 valid syllogisms, Kendall's W = .86, p < .001, and for the 37 problems with no valid conclusion interrelating the end terms, W = .64, p < .001. They also scored the diversity of responses to each syllogism as entropy and found concordance again, W = .45, p < .001. A regression test found no reliable publication bias for any theory's correct predictions. Their summary is that syllogisms show robust and consistent differences in difficulty over studies carried out in the United States and Italy. An independent test came from Ragni, Dames, Brand and Riesterer, who ran all 64 premise pairs on Amazon Mechanical Turk. They tested 204 people and analysed 139 participants and 8,202 observations after exclusions. Correct responses ran at 38.7% overall, SD 19.0, at 42.1% for the 27 valid syllogisms, SD 15.3, and at 36.5% for the 37 invalid ones, SD 27.1. Their paper also quotes the pooled table directly, giving 49% for the commonest wrong conclusion to one premise pair against 16% correct, and those two figures match the row for it, which is a check that the table has been read the same way twice. Individual variation is wide. In the online sample, eight participants never once answered that nothing follows.",
+    "study": {
+      "cite": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457.",
+      "doi": "10.1037/a0026841",
+      "year": 2012
+    }
+  },
+  "limits": "No multi-laboratory or preregistered replication of these acceptance rates was located. Crossref searches on preregistered replication of syllogistic reasoning, registered report of syllogistic reasoning and undistributed middle fallacy experiment returned nothing of the kind, and open web searches returned only the same modelling literature. The two historical papers behind the standard story were not obtained. Woodworth and Sells is closed at the publisher, and Chapman and Chapman's 1959 reply is closed as well, with a PubMed record that carries no abstract. Neither is quoted here except through Khemlani and Johnson-Laird. The materials are abstract letters and short noun phrases given to undergraduates and to paid online workers, and the rates belong to that task. Believable and unbelievable content moves them, which the Atlas covers under belief bias, and that page carries the figures. The percentages above are response frequencies rather than standardised effect sizes, so none of them appear in this entry's effect-size fields. Reasoning also shifts with practice inside a session. Dames, Klauer and Ragni tested 100 participants twice, a week apart, and report performance rising during the first session, starting the second at the same level and not improving further, with the gains confined to valid syllogisms.",
+  "misreadings": "The commonest error is to confuse this with affirming the consequent, which the Atlas covers separately. That fallacy has a conditional major premise and asserts its consequent. This one has two categorical premises and fails on the distribution of the term they share. A second error reads a high acceptance rate as proof of a particular mechanism. Khemlani and Johnson-Laird's Table 7 sets out what seven theories predict for each syllogism, and for 'All A are B, All C are B' the atmosphere hypothesis, the matching hypothesis and illicit conversion all predict the same two wrong conclusions. They note that matching allows a universal affirmative conclusion only when both premises are universal affirmatives, so this is the case where matching and atmosphere agree. The rate cannot separate them. Across all 64 syllogisms the seven theories are closer than their disputes suggest: correct predictions ran from 71% for matching to 84% for the verbal models theory, and the paper's own verdict is that none of the existing theories is correct. A third error treats an invalid form as one with a false conclusion. 'All A are B, All C are B' leaves 'All C are A' open rather than ruling it out. A fourth comes from the neighbouring form. 'All B are A, All B are C' distributes the middle term and the pooled table treats it as valid, with 'Some A are C' following, which holds only if the categories have members. The last error is to read the numbers as a verdict on people. The same participants answered a valid syllogism correctly 88% of the time.",
+  "sources": [
+    {
+      "text": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457. Read in full as the PDF hosted at modeltheory.org, 31 pages, downloaded twice to the same checksum and extracted with two separate tools. Source for the six studies and their samples, for every percentage quoted from Table 6, for the concordance statistics, and for the theory predictions in Tables 7 and 8.",
+      "doi": "10.1037/a0026841",
+      "url": "https://modeltheory.org/papers/ssk/ssk2012syllogisms-meta-analysis.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Ragni, M., Dames, H., Brand, D., & Riesterer, N. (2019). When does a reasoner respond: Nothing follows? Proceedings of the 41st Annual Meeting of the Cognitive Science Society, 2640-2646. Read in full as the peer-reviewed PDF at eScholarship. Source for the 204 tested, the 139 participants and 8,202 observations retained, and the three accuracy figures.",
+      "url": "https://escholarship.org/uc/item/2zk82992",
+      "type": "replication"
+    },
+    {
+      "text": "Woodworth, R. S., & Sells, S. B. (1935). An atmosphere effect in formal syllogistic reasoning. Journal of Experimental Psychology, 18(4), 451-460. Closed at the publisher and not obtained; the bibliographic record was confirmed at Crossref and the claim is described here only through Khemlani and Johnson-Laird.",
+      "doi": "10.1037/h0060520",
+      "url": "https://doi.org/10.1037/h0060520",
+      "type": "provenance"
+    },
+    {
+      "text": "Chapman, L. J., & Chapman, J. P. (1959). Atmosphere effect re-examined. Journal of Experimental Psychology, 58(3), 220-226. Closed at the publisher; the PubMed record, PMID 13809244, carries no abstract. Named as the source of the illicit conversion account, which is described here from Khemlani and Johnson-Laird.",
+      "doi": "10.1037/h0041961",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13809244/",
+      "type": "commentary"
+    },
+    {
+      "text": "Begg, I., & Denny, J. P. (1969). Empirical reconciliation of atmosphere and conversion interpretations of syllogistic reasoning errors. Journal of Experimental Psychology, 81(2), 351-354. Not obtained; cited because Khemlani and Johnson-Laird quote its reformulation of the atmosphere hypothesis.",
+      "doi": "10.1037/h0027770",
+      "url": "https://doi.org/10.1037/h0027770",
+      "type": "provenance"
+    },
+    {
+      "text": "Wetherick, N. E., & Gilhooly, K. J. (1995). 'Atmosphere', matching, and logic in syllogistic reasoning. Current Psychology, 14(3), 169-178. Not obtained; the matching hypothesis is described here from Khemlani and Johnson-Laird's account of it.",
+      "doi": "10.1007/BF02686906",
+      "url": "https://doi.org/10.1007/BF02686906",
+      "type": "provenance"
+    },
+    {
+      "text": "Dames, H., Klauer, K. C., & Ragni, M. (2021). The stability of syllogistic reasoning performance over time. Thinking & Reasoning, 28(4), 529-568. Read as the PDF distributed by the publisher. Source for the two sessions, the 100 participants and the pattern of improvement.",
+      "doi": "10.1080/13546783.2021.1992012",
+      "url": "https://doi.org/10.1080/13546783.2021.1992012",
+      "type": "commentary"
+    },
+    {
+      "text": "Evans, J. St. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. Memory & Cognition, 11(3), 295-306. Not read for this entry; named to point at the Atlas entry on belief bias, which carries its figures.",
+      "doi": "10.3758/BF03196976",
+      "url": "https://doi.org/10.3758/BF03196976",
+      "type": "provenance"
+    },
+    {
+      "text": "Trippas, D., Kellen, D., Singmann, H., Pennycook, G., Koehler, D. J., Fugelsang, J. A., & Dube, C. (2018). Characterizing belief bias in syllogistic reasoning: A hierarchical Bayesian meta-analysis of ROC data. Psychonomic Bulletin & Review, 25(6), 2141-2174. Not read for this entry; named as the meta-analysis quoted on the Atlas entry for belief bias.",
+      "doi": "10.3758/s13423-018-1460-7",
+      "url": "https://doi.org/10.3758/s13423-018-1460-7",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
