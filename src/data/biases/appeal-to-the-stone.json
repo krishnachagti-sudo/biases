@@ -1,0 +1,93 @@
+{
+  "no": 529,
+  "slug": "appeal-to-the-stone",
+  "name": "Appeal to the stone",
+  "aliases": [
+    "Argumentum ad lapidem"
+  ],
+  "category": "belief",
+  "statement": "Appeal to the stone rejects a claim by calling it absurd and stops there, offering the dismissal in place of the reason the dismissal owes.",
+  "meaning": "A verdict of absurdity is itself a standpoint, and it carries the same obligation to be defended as the claim it rejects. What marks the pattern is what is absent. No reason is given for the absurdity, and none is promised. That separates it from two neighbours in this corpus. The appeal to ridicule puts something, a joke, where the reason belongs. The argument from incredulity puts a premise about the arguer there, that the claim cannot be pictured as true. The appeal to the stone puts nothing there, which is why the nearest measured work concerns the burden of proof rather than the quality of an inference. The name is the awkward part. It comes from an anecdote in which the dismisser did produce a demonstration, and several philosophers have argued that his demonstration works.",
+  "origin": {
+    "year": 1791,
+    "who": "James Boswell",
+    "where": "The Life of Samuel Johnson, LL.D.",
+    "note": "The anecdote appears in the first volume of the first edition, read here in a scan of the 1791 printing. Boswell and Johnson were at Harwich, and Boswell's own dating puts the day after Friday 5 August 1763. Boswell writes that he observed of Bishop Berkeley's doctrine 'that though we are satisfied his doctrine is not true, it is impossible to refute it', and that Johnson answered 'striking his foot with mighty force against a large stone, till he rebounded from it', with the words 'I refute it thus'. Who turned the story into a Latin fallacy label, and when, was not established here."
+  },
+  "evidence": "The record for the name is textual, and the measured part sits one step away from it. Boswell reports no argument on either side: Johnson's six words and his foot are the whole of the case as printed. Massin sets out the reading the label assumes, in three steps. The stone feels solid, so some sensible things seem solid, so some sensible things are mind-independent. He calls the last step unwarranted and traces the reading to Kearney's editorial note in the Malone edition, which says Johnson 'seems to have been imperfectly acquainted with Berkeley's doctrine' because the experiment 'only proves that we have the sensation of solidity, which Berkeley did not deny'. The nearest measured neighbour tests the rule the move breaks rather than the move. Van Eemeren, Garssen and Meuffels gave 70 Dutch secondary-school pupils aged 17 and 18 a set of 32 short dialogues, each preceded by a sketch of the dispute, and asked them to rate the last speaker's turn on a seven-point reasonableness scale with 1 low and 7 high. Sixteen dialogues ended with a speaker refusing to defend his own standpoint and telling his opponent to prove the opposite. Ten unproblematic dialogues served as fillers and scored a mean of almost 5.7, standard deviation .55. The paper reports the evasion turns as unreasonable in an absolute sense whatever the standpoint, and reports pupils judging less harshly where the evading party had presumption on his side, as an accused person does. None of the pupils had been taught argumentation theory.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment on this fallacy was found. The closest measured work asks how ordinary arguers rate a speaker who refuses to defend a standpoint, which is a different move.",
+    "detail": "The search covered Crossref by bibliographic query on 'appeal to the stone', on 'argumentum ad lapidem', and on both paired with 'fallacy' and 'experiment'; OpenAlex full-text search for the Latin phrase, which returned seven works, none of them a test of the inference; PubMed, which matched nothing for either name; Semantic Scholar; and web search pairing the name with terms for participants, ratings and experimental design. Two reference surveys were read in full. Hansen's Stanford Encyclopedia entry on fallacies contains no occurrence of 'lapidem', and its five uses of 'stone' all belong to the sorites example about heaps. Dowden's Internet Encyclopedia article, which uses the phrase 'Appeal to' 77 times, contains neither word. The experiment described above, on evading the burden of proof, is the closest measured thing located, and it puts a refusal to defend in front of judges rather than a bare charge of absurdity."
+  },
+  "limits": "Three of the four philosophical re-evaluations of Johnson's move were not read. Hallett in Mind, and Patey and Silver in the Journal of the History of Ideas, sit behind paywalls, and what appears here about their positions comes from Massin's summary of them rather than from the articles. Polt's 2023 paper is described only from the abstract Crossref holds, which says the correlation Heidegger draws 'cannot be refuted by facts about entities such as stones' while the argumentum ad lapidem 'does retain a certain right as an experience of resistance'. The date of the episode is read off Boswell's own sequence of days, which puts the Harwich church visit after Friday 5 August 1763; Boswell's manuscript journal for that day was not consulted, and he published 28 years after the event. The burden-of-proof experiment prints its two tables of means as images, so the per-condition figures they carry were not obtained, and the account above rests on the running text. Nothing here settles when the Latin label was coined. The earliest of the seven works OpenAlex finds containing the phrase is dated 2009, none of them was read as a claim of first use, and the sweep looked at Crossref and OpenAlex rather than at eighteenth or nineteenth-century logic manuals.",
+  "misreadings": "Johnson did not kick the stone, on Boswell's page. He struck his foot against it until he rebounded, which is a demonstration rather than the bare dismissal the fallacy names, and that makes the eponym a doubtful instance of it. Hallett reads the move as aimed at Berkeley's claim that only minds are active. Patey reads it as an appeal to the resistance met by a voluntary effort. Massin argues that the felt resistance shows the stone to have causal powers, and that Berkeley's own insistence on taking appearances at face value then tells against him. Second, Berkeley did not deny that the stone is there. He wrote that he did not argue 'against the existence of any one thing that we can apprehend either by sense or reflexion', and that the things he saw and touched 'do exist, really exist', reserving the denial for what philosophers call matter or corporeal substance. On his own account the vulgar sense of substance, a combination of sensible qualities such as extension, solidity and weight, is left standing. Third, the Latin name is not a fixture of the fallacy literature. Neither standard encyclopedia survey of fallacies mentions it, and the scholarly uses located here treat the label as something to argue with rather than a category to file cases under.",
+  "sources": [
+    {
+      "text": "Boswell, J. (1791). The Life of Samuel Johnson, LL.D., in two volumes, volume 1. The stone passage and the dating of the Harwich days were read in this scan of the first edition.",
+      "url": "https://archive.org/details/bim_eighteenth-century_the-life-of-samuel-johns_boswell-james_1791_1",
+      "type": "primary"
+    },
+    {
+      "text": "Boswell, J. Life of Johnson, 1763. Text of the two-volume Oxford edition of 1904, edited by Jack Lynch. Read for the modernised wording of the passage and for Kearney's editorial footnote.",
+      "url": "https://jacklynch.net/Texts/BLJ/blj63.html",
+      "type": "primary"
+    },
+    {
+      "text": "Berkeley, G. A Treatise Concerning the Principles of Human Knowledge. Sections 35 and 37 read in full text at Project Gutenberg; the source for what Berkeley says he does and does not deny.",
+      "url": "https://www.gutenberg.org/ebooks/4723",
+      "type": "primary"
+    },
+    {
+      "text": "Massin, O. (2019). Realism's Kick. In C. Limbeck-Lilienau and F. Stadler (eds.), The Philosophy of Perception: Proceedings of the 40th International Ludwig Wittgenstein Symposium, 39-57. De Gruyter. Read in full from the copy in the University of Neuchatel repository.",
+      "doi": "10.1515/9783110657920-003",
+      "url": "https://libra.unine.ch/handle/123456789/29298",
+      "type": "commentary"
+    },
+    {
+      "text": "Polt, R. (2023). On the Right to Kick a Rock: The Argumentum ad Lapidem and Heidegger's \"The Argument against Need\". Gatherings: The Heidegger Circle Annual, 13, 124-145. Described here from the abstract held at Crossref; the article was not obtained.",
+      "doi": "10.5840/gatherings2023136",
+      "url": "https://doi.org/10.5840/gatherings2023136",
+      "type": "commentary"
+    },
+    {
+      "text": "Patey, D. L. (1986). Johnson's Refutation of Berkeley: Kicking the Stone Again. Journal of the History of Ideas, 47(1), 139-145. Paywalled and not obtained; described here from Massin's summary of it.",
+      "doi": "10.2307/2709600",
+      "url": "https://doi.org/10.2307/2709600",
+      "type": "commentary"
+    },
+    {
+      "text": "Silver, B. (1993). Boswell on Johnson's Refutation of Berkeley: Revisiting the Stone. Journal of the History of Ideas, 54(3), 437-448. Paywalled and not obtained; named by Massin as a further rehabilitation of the kick.",
+      "doi": "10.2307/2710022",
+      "url": "https://doi.org/10.2307/2710022",
+      "type": "commentary"
+    },
+    {
+      "text": "Hallett, H. F. (1947). Dr. Johnson's Refutation of Bishop Berkeley. Mind, 56(222), 132-147. Paywalled and not obtained; described here from Massin's summary of it.",
+      "doi": "10.1093/mind/lvi.222.132",
+      "url": "https://doi.org/10.1093/mind/LVI.222.132",
+      "type": "commentary"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2002). I don't have anything to prove here: the (un)reasonableness of evading the burden of proof. Proceedings of the Fifth Conference of the International Society for the Study of Argumentation. Read in full; the source for the 70 respondents, the 32 dialogues and the filler mean.",
+      "url": "https://rozenbergquarterly.com/issa-proceedings-2002-i-dont-have-anything-to-prove-here-the-unreasonableness-of-evading-the-burden-of-proof/",
+      "type": "replication"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Read in full for what it does not contain: no occurrence of 'lapidem', and five of 'stone', all in the sorites example.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read in full for what it does not contain: neither 'stone' nor 'lapidem' appears, across an article using the phrase 'Appeal to' 77 times.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Appeal to the stone. Wikipedia. Read on 17 August 2026 for what it claims and what it cites, which includes Patey, Hallett and Silver.",
+      "url": "https://en.wikipedia.org/wiki/Appeal_to_the_stone",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
