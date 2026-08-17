@@ -1,0 +1,87 @@
+{
+  "no": 462,
+  "slug": "social-value-orientation",
+  "name": "Social value orientation",
+  "aliases": [
+    "SVO",
+    "Prosocial, individualistic and competitive orientations"
+  ],
+  "category": "social",
+  "statement": "People differ stably in the weight they give another person's outcomes, and Van Lange and colleagues traced that difference partly to childhood, including how many siblings a person had.",
+  "meaning": "Social value orientation is measured by asking people to choose between fixed splits of points for themselves and an anonymous other. Van Lange and colleagues used a nine-item triple dominance measure and classified anyone making at least six consistent choices as prosocial, individualistic or competitive. Prosocials take the split that is high for both sides and close to equal, individualists the split that is highest for themselves, competitors the split that beats the other person by most. The 1997 paper credits the definition of the construct to Messick and McClintock, and its own contribution was developmental. It argued that the orientation is laid down by patterns of interaction from early childhood to young adulthood and reshaped across adult life, and it offered four correlates as evidence: attachment security, number of siblings, sex ratio of siblings, and age.",
+  "origin": {
+    "year": 1997,
+    "who": "Paul A. M. Van Lange, Wilma Otten, Ellen M. N. De Bruin and Jeffrey A. Joireman",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Four Dutch studies. The construct is older than the paper, which cites Messick and McClintock (1968) and McClintock (1978) for the definition; what 1997 added was the developmental account and the evidence for it."
+  },
+  "evidence": "Study 1 measured attachment style in 573 people and classified 458 of them. Prosocials scored higher on secure attachment than individualists and competitors, F(1, 444) = 11.09, p < .001, with means of 6.24, 5.92 and 5.51. Study 2 repeated that on 136 people using measures aimed at a current partner. Study 3 is the one that draws attention. It asked 631 people how many siblings they had, and classified 544, of whom 311 were prosocial, 160 individualistic and 73 competitive. Prosocials reported 2.03 siblings on average, SD 1.56, against 1.63 for individualists, SD 1.00, and 1.71 for competitors, SD 1.35, F(2, 535) = 4.82, p < .01. The planned contrast of prosocials against the other two groups gave F(1, 535) = 9.14, p < .005. Sisters carried most of it, at 1.05 for prosocials against 0.74 and 0.76, F(1, 535) = 12.27, p < .001. Study 4 classified 1,593 of 1,728 people in a Dutch survey panel and found the share of prosocials rising with age, from 55.9% in the youngest group to 67.3%, 77.5% and 81.5% in the older three.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Many Labs 2 found no sibling correlation in 6,234 people using a different instrument, and a later preregistered study using the original-style measures found it again.",
+    "detail": "Many Labs 2 took Study 3 as one of its 28 effects and ran it on Slate 1. In the aggregate replication sample of 6,234, number of siblings was not related to prosocial orientation, r = -0.02, p = 0.18, 95% CI [-0.04, 0.01]. Its Table 2 records the same result as a global effect of d = -0.03, 95% CI [-0.08, 0.02], with a median across samples of 0.06, against d = 0.19 for the original. Of the samples contributing, 98.15% returned a non-significant result and 1.85% a positive one, and the heterogeneity test carries 53 degrees of freedom. The project ran 125 samples in total, 64 on Slate 1 and 61 on Slate 2, with 15,305 participants in 36 countries and territories, so this was one coordinated protocol across many laboratories rather than one team. The instrument changed. In discussion with Van Lange, the project replaced the categorical triple dominance measure with Murphy, Ackermann and Handgraaf's continuous SVO slider, and the report states that direct comparison of effect size is not possible because of the change. Liu, Wang and Van Lange then ran a preregistered study on two online samples of 1,446 and 2,644 from MTurk and Prolific, and report that prosociality was positively related to the number of siblings, especially sisters, as in Study 3. Their effect sizes could not be obtained. Sage serves the article behind a Cloudflare challenge, and no full text was found through Unpaywall, Semantic Scholar or the VU research portal, so only the abstract was read.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "n": 6234
+    },
+    "original": {
+      "es": 0.19,
+      "esType": "d"
+    },
+    "replicated": {
+      "es": -0.03,
+      "esType": "d",
+      "ci": [-0.08, 0.02],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The replication changed the instrument, and the instruments do not agree well with each other. Murphy, Ackermann and Handgraaf gave 46 people the triple dominance measure a week apart, and 70% landed in the same category; the slider put 41 of 46 in the same category, a consistency of 89%, and correlated r = 0.915 with itself across sessions. The two measures agreed on category 74% of the time. A correlate that appears under one measure and not the other is therefore hard to read. Many Labs 2 also singles this effect out as the only near-zero result in its set with significant heterogeneity on the Q test, Q = 103.56 on 53 degrees of freedom, p < .001, I2 = 50%, 95% CI [28%, 68%]. Many Labs 2 prints the original interval two ways, [<0.01, 0.47] in its text and [<.001, .47] in Table 2, and the lower bound is an inequality rather than a number in both, so it is not recorded here. Study 3 was correlational, and its authors say the causal order more plausibly runs from family size to orientation than the reverse. All four original studies were Dutch. Balliet, Parks and Joireman's 2009 meta-analysis of social value orientation and cooperation is cited widely but was not read here; the Sage version is paywalled and the one repository copy listed by Unpaywall returned a bot challenge.",
+  "misreadings": "The sibling result is one incidental correlate inside a paper of four studies, and a null on it says little about the construct. Pletzer and colleagues pooled 39 effect sizes and 5,521 people and put the correlation between social value orientation and cooperation in social dilemmas at r = .317, 95% CI [.286, .349]. The construct also predicts behaviour outside economic games. Van Lange, Bekkers, Schuyt and Van Vugt asked 841 members of a Dutch survey panel which of twelve donation acts they had performed in the past year, and prosocials averaged 6.11 acts against 4.95 for individualists and 5.12 for competitors, F(1, 838) = 30.17, p < .001, d = 0.38. The developmental claims have fared unevenly and are best read one at a time. IJzerman and Denissen tested the attachment link in 879 Dutch students with newer attachment instruments and found d = 0.15, F(1, 412) = 2.02, p = 0.16. Liu, Wang and Van Lange, on larger samples and multiple attachment measures, report that the secure and avoidant attachment links held and that the age finding of Study 4 did not. So the four correlates now stand in three different places, and quoting the Many Labs 2 null as a verdict on social value orientation collapses them into one. The social heuristics hypothesis, entry 388, is a separate claim about what speeding a decision does to cooperation rather than about who a person is.",
+  "sources": [
+    {
+      "text": "Van Lange, P. A. M., Otten, W., De Bruin, E. M. N., & Joireman, J. A. (1997). Development of prosocial, individualistic, and competitive orientations: Theory and preliminary evidence. Journal of Personality and Social Psychology, 73(4), 733-746.",
+      "doi": "10.1037/0022-3514.73.4.733",
+      "url": "https://doi.org/10.1037/0022-3514.73.4.733",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    },
+    {
+      "text": "IJzerman, H., & Denissen, J. J. A. (2019). Social value orientation and attachment: A replication and extension of Van Lange et al. (1997). Royal Society Open Science, 6(4), 181575.",
+      "doi": "10.1098/rsos.181575",
+      "url": "https://doi.org/10.1098/rsos.181575",
+      "type": "replication"
+    },
+    {
+      "text": "Liu, Y., Wang, B., & Van Lange, P. A. M. (2023). The development of social value orientation: Attachment styles, number of siblings, age, and a comparison of measures. European Journal of Personality, 37(4), 402-417.",
+      "doi": "10.1177/08902070221094216",
+      "url": "https://doi.org/10.1177/08902070221094216",
+      "type": "replication"
+    },
+    {
+      "text": "Pletzer, J. L., Balliet, D., Joireman, J., Kuhlman, D. M., Voelpel, S. C., & Van Lange, P. A. M. (2018). Social value orientation, expectations, and cooperation in social dilemmas: A meta-analysis. European Journal of Personality, 32(1), 62-83.",
+      "doi": "10.1002/per.2139",
+      "url": "https://doi.org/10.1002/per.2139",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Murphy, R. O., Ackermann, K. A., & Handgraaf, M. J. J. (2011). Measuring social value orientation. Judgment and Decision Making, 6(8), 771-781.",
+      "doi": "10.1017/S1930297500004204",
+      "url": "https://doi.org/10.1017/S1930297500004204",
+      "type": "method"
+    },
+    {
+      "text": "Van Lange, P. A. M., Bekkers, R., Schuyt, T. N. M., & Van Vugt, M. (2007). From games to giving: Social value orientation predicts donations to noble causes. Basic and Applied Social Psychology, 29(4), 375-384.",
+      "doi": "10.1080/01973530701665223",
+      "url": "https://doi.org/10.1080/01973530701665223",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}

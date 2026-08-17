@@ -4523,7 +4523,7 @@
    "replication_slate": 1,
    "replication_samples_in_slate": 64,
    "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
-   "entry": null,
+   "entry": "moral-foundations-theory",
    "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
   },
   {
@@ -5068,7 +5068,7 @@
    "replication_n": 2365,
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
-   "entry": null,
+   "entry": "elaboration-likelihood-model",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {
@@ -5173,7 +5173,7 @@
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
    "note": "Listed in Table 3 under ‘Added effects’: three main effects added after the aggregate interaction results came in, so that there would be more effects to test for variation across the semester.",
-   "entry": null,
+   "entry": "elaboration-likelihood-model",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {
