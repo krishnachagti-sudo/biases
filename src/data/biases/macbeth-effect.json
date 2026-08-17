@@ -10,38 +10,67 @@
     "year": 2006,
     "who": "Chen-Bo Zhong and Katie Liljenquist",
     "where": "Science",
-    "note": "Their paper is \"Washing Away Your Sins: Threatened Morality and Physical Cleansing\", and the Macbeth name comes from Lady Macbeth scrubbing at a spot nobody else can see."
+    "note": "Their report is \"Washing Away Your Sins: Threatened Morality and Physical Cleansing\", and the Macbeth name comes from Lady Macbeth scrubbing at a spot nobody else can see. Its abstract announces three studies and its closing paragraph counts four."
   },
-  "evidence": "In the study that was retested, 27 participants hand-copied a first-person account of either helping or sabotaging a colleague, told they were in a handwriting study, and then rated how much they wanted five cleaning products and five other products. The figure in the Science report gives the two groups as 16 and 11. Those who copied the unethical account rated the cleaning products at 4.95, against 3.75 from those who copied the ethical account, F(1, 25) = 6.99, p = .01. Ratings of the non-cleaning products did not differ by condition, F(1, 25) = 0.02, p = .89. The report gives the F tests in text and the means only in its figure, so the means and the effect of d = 1.02 quoted here are read off Many Labs 2's account of the original. The control comparison matters as much as the main one: it is what makes the result about cleansing rather than about mood.",
+  "evidence": "The report runs to two pages and carries four experiments. Study 1 had 60 people recall an ethical or an unethical deed and then complete six word fragments, three of which could be made into wash, shower or soap. Unethical recall produced more cleansing words, 1.43 against 0.90 on 30 people a side, F(1, 58) = 4.26, P = 0.04. Study 2 is the one that was retested. 27 participants hand-copied a first-person account of either helping or sabotaging a colleague, told they were in a handwriting study, and then rated how much they wanted five cleaning products and five other products. The figure gives the two groups as 16 and 11. Those who copied the unethical account rated the cleaning products higher, F(1, 25) = 6.99, P = 0.01, and ratings of the other products did not differ, F(1, 25) = 0.02, P = 0.89. The report gives these F tests in its text and the means only in its figure, so the values of 4.95 and 3.75 quoted here, and the effect of d = 1.02, are read off Many Labs 2's account of the original. Study 3 offered 32 people a choice between an antiseptic wipe and a pencil after the recall task, and 66.7% of the unethical group took the wipe against 33.3% of the ethical group, χ² = 4.57, P = 0.03. Study 4 turned the arrow round. Of 45 people who had recalled an unethical deed, 40.9% of those who cleansed their hands then volunteered for a further study, against 73.9% of those who did not, χ² = 5.02, P = 0.025. Its emotion result is the thinnest and is usually quoted flat. Moral emotions after cleansing were 1.75 against 2.23, F(1, 41) = 2.94, P = 0.047, and a note in the paper records that the tests of cleansing on emotional state were one-tailed.",
   "replication": {
     "state": "failed",
     "headline": "Across 7,001 people the two groups wanted cleaning products equally: 3.95 against 3.95, an effect of exactly zero.",
-    "detail": "Many Labs 2 ran the copying task in 36 countries, dropping participants who copied less than half the passage. Those who wrote out the unethical account rated cleaning products at 3.95, and those who wrote out the ethical account rated them at 3.95, giving d = 0.00 with a 95% confidence interval from -0.05 to 0.04. Follow-up analyses found no interaction between condition and product type either, so the pattern that made the original interpretable is absent as well. The original effect was d = 1.02 from 27 participants, with a confidence interval running from approximately zero to 2.44.",
+    "detail": "Many Labs 2 ran this as Effect 23, in the second of its two slates. The project as a whole covered 125 samples, 15,305 participants and 36 countries; the slate holding this effect went to 61 samples, and 52 of them entered the across-sample analysis, Q(51) = 65.59, p = 0.08, I² = 22%. Participants typed an adapted version of the passage under cover of a study on personality and typing speed, and anyone who copied less than half of it was dropped. Among the 7,001 who remained, those given the unethical account rated cleaning products at 3.95, SD 1.43, and those given the ethical account at 3.95, SD 1.45, t(6,999) = -0.11, p = 0.91, d = 0.00, 95% CI -0.05 to 0.04. A mixed model found no interaction between condition and product type, t(6,999) = -0.57, p = 0.57, so the pattern that made the original interpretable is absent as well. The original is entered as d = 1.02 from 27 participants, with an interval the paper states two ways: below 0.01 to 2.44 in its text, and 0.39 to 2.44 in its Table 2.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 125,
+      "sites": 52,
       "n": 7001
     },
-    "original": { "es": 1.02, "esType": "d", "ci": [0.001, 2.44], "ciLevel": 95 },
+    "original": { "es": 1.02, "esType": "d" },
     "replicated": { "es": 0.00, "esType": "d", "ci": [-0.05, 0.04], "ciLevel": 95, "weighting": "aggregate" }
   },
-  "limits": "This is Study 2 of the original paper, the desirability measure, run as a preregistered protocol at scale. The paper's other studies used different measures, including whether participants took an antiseptic wipe when offered one, and those were not part of this replication. The wider claim that moral and physical purity share representational machinery also draws on evidence beyond this paradigm. What can be said with confidence is that the specific demonstration does not produce the effect it reported, at a sample size 260 times larger.",
-  "misreadings": "The effect is still cited in popular writing about embodied cognition as an established result, usually without the replication attached. It is also sometimes defended on the grounds that the replication used different populations, which the design anticipated: 36 countries is the test of generality rather than a confound. The more careful reading is the one the numbers force. An original interval running from essentially zero to 2.44 was never evidence for an effect of 1.02 in particular; it was evidence that 27 participants cannot measure this. The replication did not overturn a well-estimated finding, it estimated one for the first time.",
+  "limits": "This is Study 2 of four, the desirability measure, and the only one Many Labs 2 retested. The replication also changed the task: participants typed an adapted passage where the original had them copy one out by hand. Two features of the replication cut the original's way and belong on the page. Moral cleansing was the single effect of the 28 whose result differed between laboratory and online samples, Q = 9.15, p < .001, and the authors themselves discount it, on the grounds that the overall result was not different from zero and about 95% of individual samples were null. The effect was also larger when the task fell last in its slate, d = 0.17 with an interval from -0.02 to 0.36, against d = 0.01 when it fell first.\n\nThe rest of the record runs the same way. Earp, Everett, Madva and Hamlin ran three direct repeats of Study 2 with materials supplied by the original author. The samples were 153 British undergraduates, t(151) = 0.03, p = .97; 156 American workers on Mechanical Turk with 8 excluded, t(146) = -0.79, p = .43; and 286 Indian workers with 17 excluded, t(260) = -1.83, p = .07. That last one leans against the original rather than for it. Fayard, Bassi, Bernstein and Roberts tested the wipe and the volunteering studies at two universities. Of 264 recruited for the first, 210 were analysed, and 35.6% of the unethical group took the wipe against 31.1% of the ethical group, χ² = 0.23, p = .63. Of 119 recruited for the second, 4 were excluded, and cleansing moved neither volunteering, F(1, 107) = 1.51, p = .22, nor moral emotions, F(1, 107) = 0.01, p = .93. Gámez, Díaz and Marrero attempted all four studies with Spanish samples and confirmed none of them.\n\nA meta-analysis exists and is the fairest summary of the paradigm. Siev, Zuckerman and Siev pooled 15 studies of the immorality-to-cleansing link in 2018 and reported a weighted mean of g = 0.17, 95% CI 0.04 to 0.31 across all of them, and g = 0.07, 95% CI -0.04 to 0.19 across those from independent laboratories. Those figures come from the published abstract, carried identically by Crossref, Semantic Scholar and the first author's repository copy at Swarthmore. The full text is paywalled at Hogrefe and no open copy was found through Crossref, OpenAlex, Semantic Scholar or Unpaywall, so the study list and the moderators behind that conclusion were not read.\n\nA second and larger meta-analysis covers the whole cleansing literature rather than this paradigm. Lee, Chen, Ma and Hoang synthesised 230 experiments and 42,793 participants in 2024 at g = 0.315, 95% CI 0.277 to 0.354, with bias corrections running as low as g = 0.103, and they list mixed replicability among their own limitations. That estimate pools the consequences of cleansing with its antecedents and reaches well beyond the moral domain, so it is not an estimate of the soap effect. The clean slate effect, no. 442, carries that literature and the dispute around it, and embodied cognition, no. 54, carries the warm-cup and heavy-clipboard wing of the same programme.",
+  "misreadings": "The count of studies is wrong more often than not, and the paper starts it. Its abstract announces three studies and its final paragraph counts four, and the fourth runs in the opposite direction, from washing to less helping.\n\nMany Labs 2 prints two intervals for the original effect. Its text gives d = 1.02 with a 95% interval from below 0.01 to 2.44, and its Table 2 gives the same 1.02 with an interval from 0.39 to 2.44. Neither can be quoted as the interval without saying which one it is. What they agree on is the width, and the width is the point. 27 participants cannot locate an effect of that size, so the replication did not overturn a well-estimated finding. It produced the first estimate anyone had.\n\nA null is not a proof of absence, and the people who produced most of these nulls say so. Earp and colleagues write that they do not claim the effect is implausible or does not exist, and Siev and colleagues conclude that there is little evidence for an overall Macbeth effect while allowing that there may be one under certain conditions.\n\nThe name also travels to the reverse manipulation, in which washing changes a moral judgement or a choice. That is a separate literature with its own record, kept here under the clean slate effect, no. 442, and disgust sensitivity and moral judgement, no. 451.",
   "sources": [
     {
-      "text": "Zhong, C.-B., & Liljenquist, K. (2006). Washing away your sins: Threatened morality and physical cleansing. Science, 313(5792), 1451-1452.",
+      "text": "Zhong, C.-B., & Liljenquist, K. (2006). Washing away your sins: Threatened morality and physical cleansing. Science, 313(5792), 1451-1452. Read in full from the JSTOR scan hosted by the University of Notre Dame; every figure attributed to the report here comes from it. The supporting online material, which holds the materials and methods, returned HTTP 403 at science.org and was not read.",
       "doi": "10.1126/science.1130726",
-      "url": "https://doi.org/10.1126/science.1130726",
+      "url": "https://sites.nd.edu/lapseylab/files/2015/09/3847034.pdf",
       "type": "primary"
     },
     {
-      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Read from the accepted manuscript in LSE Research Online, tables included; the SAGE version of record returned HTTP 403.",
       "doi": "10.1177/2515245918810225",
-      "url": "https://doi.org/10.1177/2515245918810225",
+      "url": "https://eprints.lse.ac.uk/91159/1/Kappes_Many-labs-2.pdf",
       "type": "replication"
+    },
+    {
+      "text": "Earp, B. D., Everett, J. A. C., Madva, E. N., & Hamlin, J. K. (2014). Out, damned spot: Can the \"Macbeth Effect\" be replicated? Basic and Applied Social Psychology, 36(1), 91-98. Read in full from the second author's copy.",
+      "doi": "10.1080/01973533.2013.856792",
+      "url": "https://www.jimaceverett.com/files/earp2014basp.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Fayard, J. V., Bassi, A. K., Bernstein, D. M., & Roberts, B. W. (2009). Is cleanliness next to godliness? Dispelling old wives' tales: Failure to replicate Zhong and Liljenquist (2006). Journal of Articles in Support of the Null Hypothesis, 6(2), 21-30. No DOI is registered; read in full from the journal's issue PDF.",
+      "url": "https://www.jasnh.com/pdf/Vol6-No2.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Gámez, E., Díaz, J. M., & Marrero, H. (2011). The uncertain universality of the Macbeth effect with a Spanish sample. The Spanish Journal of Psychology, 14(1), 156-162. Abstract read at PubMed; the full text was not obtained, so this page gives only the authors' own summary of their four attempts.",
+      "doi": "10.5209/rev_sjop.2011.v14.n1.13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21568173/",
+      "type": "replication"
+    },
+    {
+      "text": "Siev, J., Zuckerman, S. E., & Siev, J. J. (2018). The relationship between immorality and cleansing: A meta-analysis of the Macbeth effect. Social Psychology, 49(5), 303-309. Paywalled; the pooled estimates on this page are read off the published abstract, which Crossref, Semantic Scholar and Swarthmore's repository carry in identical wording.",
+      "doi": "10.1027/1864-9335/a000349",
+      "url": "https://doi.org/10.1027/1864-9335/a000349",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Lee, S. W. S., Chen, K., Ma, C., & Hoang, J. (2024). Wipe it off: A meta-analytic review of the psychological consequences and antecedents of physical cleansing. Psychological Bulletin, 150(4), 355-398. Paywalled; the figures here are read off the abstract at PubMed and repeated at Semantic Scholar.",
+      "doi": "10.1037/bul0000421",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38358686/",
+      "type": "meta-analysis"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-17"
 }
