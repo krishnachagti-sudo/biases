@@ -1,0 +1,81 @@
+{
+  "no": 524,
+  "slug": "courtiers-reply",
+  "name": "Courtier's reply",
+  "aliases": [
+    "The Courtier's Reply",
+    "Myers shuffle"
+  ],
+  "category": "belief",
+  "statement": "Answering a criticism by faulting the critic for not having read the field's authorities is a named move, satirised by PZ Myers in 2006.",
+  "meaning": "The target is a reply that meets an accusation by listing books the accuser has not read. Myers wrote his version as a parody. His courtier defends the naked emperor by citing Count Roderigo of Seville on the leathers of the emperor's boots and Bellini's work on the luminescence of his feathered hat, then chides Dawkins for lacking training in the shops of Paris and Milan. None of the cited scholarship touches the charge, which was that the man has no clothes. Calling a reply a courtier's reply is therefore a claim about the shape of the reply. It says the reply asks for more reading without saying what the reading would answer. It is not a demonstration that the reading holds nothing, and the critics who took the label seriously fixed on that gap.",
+  "origin": {
+    "year": 2006,
+    "who": "PZ Myers",
+    "where": "Pharyngula, ScienceBlogs",
+    "note": "The post is dated 24 December 2006 and is still online at ScienceBlogs, where it was read in full twice, and mirrored at Freethought Blogs. Myers writes that a common refrain in criticisms of Dawkins's The God Delusion is one he has taken to filing under 'my own private title', and then names it: 'I call it the Courtier's Reply. It refers to the aftermath of a fable.' The post names neither Hans Christian Andersen nor 'The Emperor's New Clothes'. It names H. Allen Orr's review of The God Delusion in the New York Review of Books as the piece that prompted it."
+  },
+  "evidence": "There is no experimental literature under this name, so the record is textual. Myers's post is satire followed by two sentences of argument: reading Orr's review, he writes, put a two-word rebuttal in his head, and many anti-Dawkins arguments file under the same heading. Orr's review carries the New York Review's issue date of 11 January 2007, and Myers wrote on 24 December 2006. Orr's complaint is that Dawkins, once labelled a professional atheist, is 'actually more an amateur', and that the book's most disappointing feature is 'Dawkins's failure to engage religious thought in any serious way'. The sharper version of the move predates both. Terry Eagleton, in the London Review of Books of 19 October 2006, asked what Dawkins's views were on the epistemological differences between Aquinas and Duns Scotus, and whether he had read Eriugena on subjectivity, Rahner on grace or Moltmann on hope. The counter-charge is also in print. Edward Feser, writing in the American Enterprise Institute's magazine The American on 26 March 2010, called the label a question-begging pseudo-defence 'tarted up with a clever marketing tag', said a listener would be baffled at how shouting 'Courtier's Reply!' excuses not knowing what one is talking about, and named the move back: 'Call it the Myers Shuffle.' Three days after Myers posted, Jason Rosenhouse quoted John Lynch making the structural objection, that the label works only once the equivalence between theology and fairyology has been established, which requires reading the theology. Those quotations were read on Rosenhouse's page rather than at their sources, and the Dawkins comment he prints, congratulating Myers on the satire, was read the same way.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study of this move was found. On the nearest measured question, telling readers that a scientist trained at an institution with low standards shifted their attitude to the claim by d = 0.05 in 439 people and d = 0.06 in 199, neither different from zero.",
+    "detail": "Barnes and colleagues gave participants twelve science claims, each followed by one of six kinds of extra information, in a within-subjects design. Two of the six attacked the scientist's competence: the education condition said the scientist's doctorate came from an institution known to have low standards, and the sloppy condition said peers regarded the scientist as sloppy. Neither moved attitudes. In Experiment 1, with 439 psychology undergraduates, education gave a mean difference score of -0.07 with SD 1.31, t(438) = 1.04, p = .3, d = .05, and sloppy gave -0.15, d = .11. In Experiment 2, with 199 adults from a survey firm, education gave -0.07 with SD 1.30, t(198) = 0.8, p = .43, d = .06, and sloppy gave -0.12, d = .08. The four conditions that did work were attacks on integrity, motive or data: past misconduct at d = .58 and .65, relevant misconduct at .51 and .50, conflict of interest at .41 and .58, and an attack on the empirical basis of the claim at .44 and .39. The figures were read from the article's manuscript file at PLOS. That is a neighbour rather than a test. The education attack is about where a scientist trained, and the courtier's reply is about what a critic has not read, so it withholds standing for a different reason. Searches for the move itself covered Europe PMC full text and PubMed for the phrase, which return zero records each, Crossref by title, OpenAlex, and web search restricted to Springer, Cambridge, Oxford, Sage, Taylor and Francis, JSTOR, ScienceDirect and Brill. PhilPapers and PhilArchive refused every request from this machine with a 403, so the philosophy indexes were not searched directly."
+  },
+  "limits": "The label decides nothing on its own. Lynch's objection stands unanswered in the sources read here: whether a demand to read the literature is empty depends on what the literature contains, and settling that means engaging it. Feser presses the same point from the other side, that the label lets a writer leave the room before answering. So an expertise objection can be sound, and the entry records no way of telling the sound ones from the rest. Nothing measured attaches to the move. No experiment gives it to an audience and asks what the audience concludes, and Barnes's education condition tests a credential slur rather than a reading requirement. The Stanford Encyclopedia of Philosophy survey of fallacies was searched in full and does not carry it; its single occurrence of the word courtier describes the flourishes of royal courtiers in Arnauld and Nicole. The Internet Encyclopedia of Philosophy list of fallacies has no occurrence of the word at all. Whether any peer-reviewed philosophy paper treats the move at length could not be settled here, because PhilPapers and PhilArchive were unreachable and one candidate found through OpenAlex, Wielenberg's 2009 article in Philosophia Christi, could not be opened.",
+  "misreadings": "It is not the genetic fallacy and it is not a plain ad hominem, and this atlas keeps all three apart. The genetic fallacy judges a claim by where it came from. An ad hominem attacks the arguer in order to discredit the claim. The courtier's reply does neither: it leaves the claim alone and rules the speaker out of the conversation until a reading list is finished. The second error is to read Myers's post as a definition. It is a page of satire with a name attached, and the tidy formulations in circulation, including the gloss that the move is an inverted argument from authority, come from later writers rather than from him. The fable is a third. Retellings have Myers invoking Andersen's 'The Emperor's New Clothes'; his post says only that the name refers to the aftermath of a fable, and the naming of Andersen appears in later accounts such as Feser's. Last, the charge is not a verdict. Showing that a reply demands more reading is not showing that the reading is worthless, and Myers's own critics built their case on that distance.",
+  "sources": [
+    {
+      "text": "Myers, P. Z. (24 December 2006). The Courtier's Reply. Pharyngula, ScienceBlogs. Read in full twice for this entry; every quotation of the post above was taken from it.",
+      "url": "https://scienceblogs.com/pharyngula/2006/12/24/the-courtiers-reply",
+      "type": "primary"
+    },
+    {
+      "text": "Myers, P. Z. (24 December 2006). The Courtier's Reply. Pharyngula, Freethought Blogs. The mirror of the same post at Myers's later home, checked against the ScienceBlogs text.",
+      "url": "https://freethoughtblogs.com/pharyngula/2006/12/24/the-courtiers-reply/",
+      "type": "primary"
+    },
+    {
+      "text": "Orr, H. A. (2007). A Mission to Convert. The New York Review of Books, issue dated 11 January 2007. The review Myers named; the 'amateur' and 'failure to engage religious thought' passages were read from the NYRB page.",
+      "url": "https://www.nybooks.com/articles/2007/01/11/a-mission-to-convert/",
+      "type": "primary"
+    },
+    {
+      "text": "Eagleton, T. (2006). Lunging, Flailing, Mispunching. London Review of Books, 28(20), 19 October 2006. The Aquinas, Duns Scotus, Eriugena, Rahner and Moltmann passage was read from the LRB page.",
+      "url": "https://www.lrb.co.uk/the-paper/v28/n20/terry-eagleton/lunging-flailing-mispunching",
+      "type": "primary"
+    },
+    {
+      "text": "Feser, E. (26 March 2010). The New Philistinism. The American, American Enterprise Institute. The 'clever marketing tag' and 'Myers Shuffle' wording was read from the AEI page, which carries the date.",
+      "url": "https://www.aei.org/articles/the-new-philistinism/",
+      "type": "commentary"
+    },
+    {
+      "text": "Rosenhouse, J. (27 December 2006). Courtier's Reply, Follow-Up. EvolutionBlog, ScienceBlogs. The source for John Lynch's objection and for Dawkins's comment on the post, both quoted here at one remove.",
+      "url": "https://scienceblogs.com/evolutionblog/2006/12/27/courtiers-reply-followup",
+      "type": "commentary"
+    },
+    {
+      "text": "Barnes, R. M., Johnston, H. M., MacKenzie, N., Tobin, S. J., & Taglang, C. M. (2018). The effect of ad hominem attacks on the evaluation of claims promoted by scientists. PLOS ONE, 13(1), e0192025. The measured neighbour; the education and sloppy figures above are from its Tables 2 and 3, read from the manuscript file.",
+      "doi": "10.1371/journal.pone.0192025",
+      "url": "https://doi.org/10.1371/journal.pone.0192025",
+      "type": "replication"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Searched in full for this entry; it does not name the courtier's reply.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Searched in full for this entry; the word courtier does not occur in it.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Wielenberg, E. J. (2009). Dawkins's Gambit, Hume's Aroma, and God's Simplicity. Philosophia Christi, 11(1). Returned by an OpenAlex search for the phrase and listed here as a lead; the open-access copy is held at PhilArchive, which refused this machine, so nothing in this entry comes from it.",
+      "doi": "10.5840/pc20091118",
+      "url": "https://doi.org/10.5840/pc20091118",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
