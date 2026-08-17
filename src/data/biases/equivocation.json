@@ -1,0 +1,76 @@
+{
+  "no": 447,
+  "slug": "equivocation",
+  "name": "Equivocation",
+  "aliases": ["Fallacy of equivocation", "Quaternio terminorum", "Fallacy of four terms", "Homonymy", "Ambiguity fallacy"],
+  "category": "belief",
+  "statement": "Equivocation is an argument whose force depends on one word carrying one sense in one premise and a different sense in another.",
+  "meaning": "A word is used twice and means two things, and the argument only holds together if the reader treats the two as one. In a syllogism the shifting word is the middle term, the one that is supposed to link the premises. When its sense changes the syllogism has four terms rather than three, which is why the Latin name is quaternio terminorum. Ervas and colleagues give the shape plainly: B.B. King is a myth, a myth is a traditional story, therefore B.B. King is a traditional story. Both premises are acceptable on their own reading and the conclusion is not. The condition that does the work is dependence. Words with more than one sense are ordinary, and choosing between senses is what reading is. Nothing goes wrong until an inference is drawn across the change, and an argument that survives fixing the word on one sense was never equivocating.",
+  "origin": {
+    "year": 2018,
+    "who": "Francesca Ervas, Antonio Ledda, Amitash Ojha, Giuseppe Antonio Pierro and Bipin Indurkhya",
+    "where": "Frontiers in Psychology",
+    "note": "The year of the first experiment located on the argument form, not of the idea, which is Aristotle's. Sophistical Refutations chapter 4 in W. A. Pickard-Cambridge's translation says the ways of producing the false appearance of an argument which depend on language 'are six in number: they are ambiguity, amphiboly, combination, division of words, accent, form of expression'. Aristotle's first example is 'Those learn who know: for it is those who know their letters who learn the letters dictated to them', and he explains that to learn 'signifies both to understand by the use of knowledge, and also to acquire knowledge'. His second is 'Evils are good: for what needs to be is good, and evils must needs be'. That translation calls the class ambiguity rather than equivocation. When the English term entered use was not traced here."
+  },
+  "evidence": "The evidence is one experimental programme, run in Italian at the University of Cagliari. Ervas and colleagues built syllogisms whose middle term shifted sense, and crossed the shift with the kind of word doing the shifting: homonyms, polysemes, conventional metaphors and novel metaphors. They also crossed it with three argument structures: a strong argument holding the sense fixed, a standard four-term argument whose conclusion is plainly false, and a four-term argument whose conclusion is plausible. Experiment 1 recruited 147 adults, 93 women and 54 men, mean age 25.03 years with a standard deviation of 8.9, all undergraduates in Languages and Communication Studies with no prior course in logic or argumentation. Nineteen were excluded for failing the fillers at a 90% threshold. The materials were 122 arguments including 50 fillers, with middle terms drawn from 206 nouns selected from the GRADIT dictionary and pre-tested in rating studies on 209 participants. Argument type produced F(2,144) = 338.3, p < 0.01, middle term type F(3,143) = 72.10, p < 0.01, and their interaction F(6,140) = 61.10, p < 0.01. The plausible-conclusion version drew fewer correct answers than the strong argument, t(145) = 17.72, p < 0.001, and fewer than the four-term argument with a false conclusion, t(145) = 12.55, p < 0.001. Accuracy was highest for homonymous middle terms and lowest for novel metaphors, both at p < 0.001, and literal middle terms beat metaphorical ones overall, t(145) = 9.11, p < 0.001. Experiment 2 put the plausible-conclusion arguments to 50 participants, 24 test items and 24 fillers, with seven rating scales attached. The paper reports that its results confirmed the first experiment's. Acceptance of the fallacy ran at 83.75% for homonymous middle terms, 91.75% for polysemous, 82.5% for conventional metaphors and 85% for novel ones. Understandability and belief in the conclusion predicted accepting the argument in every condition. Ambiguity predicted rejecting it for polysemous, conventional and novel metaphor middle terms. The authors read this as people supplying reasons of their own: when participants commit the fallacy they think they have understood the argument and they believe the conclusion, independent of its premises. A later study by an overlapping team dropped the literal conditions and varied the emotional charge of metaphors instead. Its Experiment 1, on 91 participants after two exclusions, found accuracy on the fallacy between 0.09 and 0.31 across six conditions, with a main effect of metaphor type at F(1,89) = 29.30, p < 0.001, eta squared 0.05. Its Experiment 2, on 96 participants after three exclusions, changed the materials so the metaphor's vehicle and topic clashed in valence, and the same main effect vanished at F(1,94) = 0.01, p = 0.91, with an interaction appearing instead at F(2,91) = 7.89, p < 0.001, eta squared 0.027.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The core finding held in both of Ervas and colleagues' experiments and in the two that followed: people accept an argument whose middle term changes sense, at rates above 80% when the conclusion is plausible. Every experiment located comes from one group in Cagliari.",
+    "detail": "Experiment 1 measured accuracy on 147 participants in the lab; Experiment 2 measured acceptance on 50 participants online with different items and a different task, and the paper states that its results confirmed the first. Homonymous middle terms, the clearest case of a word with two unrelated senses, were the easiest of the four types and were still accepted 83.75% of the time. Polysemous middle terms were accepted 91.75% of the time. The 2021 follow-up, on 91 and 96 participants, put accuracy on metaphorical fallacies between 0.09 and 0.31, which leaves acceptance in the same region. What did not carry across is the moderator. The metaphor main effect was F(1,89) = 29.30, p < 0.001 in the first of those experiments and F(1,94) = 0.01, p = 0.91 in the second, with materials changed in between. The pattern that keeps reappearing is not about ambiguity at all. Accuracy collapsed when the conclusion was plausible rather than plainly false, in both structures with the same ambiguous words, and belief in the conclusion predicted acceptance in every middle-term condition. That is the shape of belief bias, which has its own entry here, and it means these experiments measure a fallacy the reader will swallow when the conclusion suits, not a special blindness to shifting senses.",
+    "study": {
+      "cite": "Ervas, F., Ledda, A., Ojha, A., Pierro, G. A., & Indurkhya, B. (2018). Creative Argumentation: When and Why People Commit the Metaphoric Fallacy. Frontiers in Psychology, 9, 1815.",
+      "doi": "10.3389/fpsyg.2018.01815",
+      "year": 2018,
+      "n": 147
+    }
+  },
+  "limits": "One group, one city, one language, and student samples. The search for other tests covered Europe PMC, Crossref, Semantic Scholar and general web search. Europe PMC returns two records for 'quaternio terminorum' and both are the papers above; it returns three for 'equivocation fallacy', of which one is the 2021 paper and the other two are commentaries on 5G and on One Health. Semantic Scholar lists 18 papers citing the 2018 article and none of them is an experiment repeating it, which is a statement about what that index holds. The 2018 paper's own numbers do not fully agree. Experiment 1 reports 147 participants with 19 excluded, and then reports t-tests on 145 degrees of freedom; the analysed sample size is nowhere stated and is not computed here. Experiment 2 says fifty participants and lists 31 women, 8 men and 1 other. Neither paper reports a standardised effect size for the acceptance result, so none appears in the fields above. The instrument is a syllogism presented on a screen with a yes-or-no question, which is not an argument anyone is making in earnest, and the plausible-conclusion condition confounds the sense shift with the believability of the conclusion. Whether people commit equivocation when they argue, as opposed to accepting it when shown one, has no measurement located here. Klein and Murphy's 2001 study of polysemous words and Frazier and Rayner's 1990 study of meanings against senses were both closed at the publisher and were not obtained; nothing is claimed here about their contents. Aristotle was read only in the Pickard-Cambridge translation at the Internet Classics Archive, so the terms quoted are the translator's.",
+  "misreadings": "The commonest error is to call every ambiguous word a fallacy. Ambiguity is the ordinary condition of a vocabulary, and equivocation needs the inference to run across the change of sense. An argument that still works once the word is pinned to one meaning was never equivocating, and the charge cannot be settled by pointing at the word. The second error is to treat equivocation as the general form of the motte-and-bailey manoeuvre. Nicholas Shackel, who named that manoeuvre, rejects the reading in as many words, on the ground that the shift between his two positions is not in general effected by giving different meanings to the same words. That entry sets out his objection. A persuasive definition is a third thing again: it moves what a loaded word covers while keeping the feeling attached to it, and it need involve no second sense at all. The last error is to treat the semantic-illusion literature as a test of this fallacy. The Moses illusion, covered in the entry on the Wason verbal illusion, measures whether a reader notices that a word has been swapped for a wrong one, and about half of readers do not. That is failure to spot an anomaly, and in equivocation there is no anomaly to spot, because each premise is unremarkable on its own reading. The two are neighbours rather than the same measurement. Nearer still, and still not the same, is the work of Eugen Fischer, Paul Engelhardt and Justin Sytsma on what they call salience bias. They tested whether a word's dominant sense licenses inferences that its rarer sense does not, using 48 undergraduates at the University of East Anglia reading 48 critical items with eye tracking. Second-pass reading times on the source region were higher for 'appear' and 'seem' than for the control verb 'is', at t(46) = 3.41, p = 0.001 and t(46) = −2.85, p = 0.007, and the difference for 'look' did not reach the threshold, t(46) = −1.34, p = 0.19. They read this as support for a diagnosis of the philosophical argument from illusion. Their paper does not use the word equivocation. Their design has one word used once in a rare sense rather than twice in two senses, so it bears on why a shift might slip past rather than on the fallacy itself.",
+  "sources": [
+    {
+      "text": "Aristotle. On Sophistical Refutations, translated by W. A. Pickard-Cambridge. The Internet Classics Archive. Read in full as the archive's plain-text file. Source for the six fallacies dependent on language and for the 'those learn who know' and 'evils are good' examples.",
+      "url": "https://classics.mit.edu/Aristotle/sophist_refut.mb.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Ervas, F., Ledda, A., Ojha, A., Pierro, G. A., & Indurkhya, B. (2018). Creative Argumentation: When and Why People Commit the Metaphoric Fallacy. Frontiers in Psychology, 9, 1815. Every figure above was read from the full text at PubMed Central, PMC6168032, and checked a second time against the raw page text.",
+      "doi": "10.3389/fpsyg.2018.01815",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6168032/",
+      "type": "primary"
+    },
+    {
+      "text": "Ervas, F., Rossi, M. G., Ojha, A., & Indurkhya, B. (2021). The Double Framing Effect of Emotive Metaphors in Argumentation. Frontiers in Psychology, 12, 628460. Source for the B.B. King example, for the definition of quaternio terminorum as a fallacious argument based on lexical ambiguity, and for the two experiments' samples and ANOVA table. Figures read from the article page and checked against its raw text.",
+      "doi": "10.3389/fpsyg.2021.628460",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628460/full",
+      "type": "replication"
+    },
+    {
+      "text": "Leinenger, M., & Rayner, K. (2013). Eye movements while reading biased homographs: Effects of prior encounter and biasing context on reducing the subordinate bias effect. Journal of Cognitive Psychology, 25(6), 665-681. Cited for the mechanism of lexical ambiguity resolution: the dominant meaning of a biased homograph is accessed faster, and a context instantiating the subordinate meaning slows reading. Read as the full text at PubMed Central, PMC3780419.",
+      "doi": "10.1080/20445911.2013.806513",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3780419/",
+      "type": "background"
+    },
+    {
+      "text": "Fischer, E., Engelhardt, P. E., & Sytsma, J. (2020). Inappropriate stereotypical inferences? An adversarial collaboration in experimental ordinary language philosophy. Synthese, 198, 10127-10168. Read as the open-access PDF. Source for the salience bias hypothesis and for the reading-time results quoted above.",
+      "doi": "10.1007/s11229-020-02708-x",
+      "url": "https://d-nb.info/1215148615/34",
+      "type": "comparison"
+    },
+    {
+      "text": "Klein, D. E., & Murphy, G. L. (2001). The Representation of Polysemous Words. Journal of Memory and Language, 45(2), 259-282. Named because it is the standard study of whether reusing a word in a second sense costs the reader anything. Closed at the publisher, with no open copy indexed by Unpaywall; not obtained, and nothing is claimed here about its findings.",
+      "doi": "10.1006/jmla.2001.2779",
+      "type": "background"
+    },
+    {
+      "text": "Frazier, L., & Rayner, K. (1990). Taking on semantic commitments: Processing multiple meanings vs. multiple senses. Journal of Memory and Language, 29(2), 181-200. Cited for the record as the companion study on homonyms against polysemes; not obtained.",
+      "doi": "10.1016/0749-596X(90)90071-7",
+      "type": "background"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Used to locate Aristotle's division of thirteen sophistical refutations into those dependent on language and those not, and read for its definition of equivocation as an argument exploiting the ambiguity of a term occurring at least twice.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
