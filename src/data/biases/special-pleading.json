@@ -1,0 +1,136 @@
+{
+  "no": 491,
+  "slug": "special-pleading",
+  "name": "Special pleading",
+  "aliases": ["Special pleading fallacy"],
+  "category": "belief",
+  "statement": "Special pleading claims an exemption from a rule for a favoured case, on grounds that would not earn anyone else the same exemption.",
+  "meaning": "The move has three parts. A rule is accepted, a case falling under it comes up, and the case is excused by a feature that does nothing to explain why the rule should not bind it. Sources that define the fallacy disagree about which part carries the error. The Internet Encyclopedia of Philosophy treats it as inconsistency, the arguer applying a principle everywhere except to the situation that interests them. Gary Curtis's Fallacy Files treats it as irrelevance, the exception being claimed under a characteristic that does not qualify as an exception. Merriam-Webster's non-legal sense is different again: a misleading argument that presents one point or phase as if it covered the entire question at issue. Nothing in the fallacy forbids exceptions. Rules of thumb have them, and Curtis's own example is the guide dog admitted where animals are banned. The test is whether the feature offered bears on what the rule is for, which makes the charge a claim about somebody's reasons rather than about the shape of their argument. This entry sits beside no true Scotsman, which narrows the category instead of exempting a case, and beside moving the goalposts, which changes the standard instead of the coverage.",
+  "origin": {
+    "year": 1768,
+    "who": "William Blackstone",
+    "where": "Commentaries on the Laws of England, Book III: Of Private Wrongs",
+    "note": "The phrase is a term of art in English common law before it is a name for a fallacy, and no text establishing the argumentative sense was located for this entry. Blackstone's chapter on pleading sets the special plea against the general issue, which denies the whole declaration at once. A special plea instead sets out the particular facts, used where a defendant meant to 'distinguish away or palliate the charge'. The pejorative colouring is already present inside the law: Blackstone writes of 'the science of special pleading having been frequently perverted to the purposes of chicane and delay'. Both passages were read in the Avalon Project transcription, which prints the long s as f, so they appear there as 'diftinguifh' and 'fpecial pleading'. Merriam-Webster dates its legal sense to 1684 and prints a second, argumentative sense with no date. The Oxford English Dictionary has an entry for the phrase and it is behind a subscription these checks did not pass, so no first attestation is given here. The 1768 date for Book III is from the Oxford Scholarly Editions record at Crossref."
+  },
+  "evidence": "Two literatures use the phrase and nothing read here joins them. In law, Blackstone lists what a special plea in bar could contain: a release or a fine in real actions, or in personal actions an accord, an arbitration, conditions performed, the defendant's nonage, the statute of limitations, an estoppel, or a justification such as that an assault answered the plaintiff's own. Merriam-Webster's first sense keeps that shape, the allegation of special or new matter to offset the effect of matter pleaded by the opposite side and admitted, as distinguished from a direct denial. Blackstone also records the courts and Parliament relaxing the system, permitting the general issue to be pleaded and special matter to be given in evidence at trial instead. In logic the phrase is common in teaching material and scarce in the standard taxonomies. The fourteenth edition of Copi, Cohen and McMahon's Introduction to Logic, published by Pearson in 2014, was read as machine-extracted text and the phrase occurs nowhere in it. What Copi carries instead is the fallacy of accident, defined as a generalisation wrongly applied to a particular case, with the illustration of fining a person for ignoring a no-swimming sign while jumping in to save someone from drowning. That is the reverse error. The Stanford Encyclopedia of Philosophy's article on fallacies, read whole, also does not contain the phrase, while naming Copi sixteen times and Hamblin twenty-three. The Internet Encyclopedia of Philosophy's fallacy list does carry it, as 'a form of inconsistency in which the reasoner doesn't apply his or her principles consistently'. Fallacy Files gives it a form: Xs are generally Ys, x is an X, x is an exception because it is I, where I is an irrelevant characteristic. Philosophers use it as a charge in live argument. Robert Koons, replying to Graham Oppy in Faith and Philosophy in 2001, calls Oppy's restriction of universal causation to non-first events 'a classic case of special pleading, until and unless he can provide some principled ground for thinking that the absence of temporally prior situations is relevant to the presence or absence of a cause'. Koons grants the restricted principle is consistent and says consistency is not the point, since Oppy 'has not shown that it is reasonable to maintain such an exception', and he likens the loss of naturalness to grue set against green. No experimental study of the fallacy was found, and the nearest measured work is described below.",
+  "replication": {
+    "state": "mixed",
+    "headline": "No experiment on the fallacy itself was located. The nearest measured effect, intergroup moral hypocrisy, failed its direct preregistered replication and reappeared in a political-group version.",
+    "detail": "Piercarlo Valdesolo and David DeSteno adapted a task from Batson. Seventy-six subjects were assigned to four conditions, and in every condition they rated the fairness of the same action on a seven-point scale. In the first, subjects chose whether to take a ten-minute task and leave a forty-five-minute one for a later subject, or to use a computerised randomiser, then rated how fairly they themselves had acted. Two were dropped for using the randomiser or acting altruistically and every other subject took the short task. The other three conditions had subjects watch a confederate do the same thing, with the confederate unaffiliated, or sorted with them into an overestimator or underestimator group by a frequency-estimation questionnaire. A planned contrast weighting self and in-group against other and out-group gave F(1, 72) = 11.75, p = .001, d = 1.11. Claire Robertson, Madison Akles and Jay Van Bavel ran the design again on Prolific. The direct replication with minimal groups recruited 610 people and analysed 590. The same contrast gave F(1, 536) = 0.15, p = 0.70, partial eta squared 0.0003. Their equivalence test put the 95% interval on that effect size at 0.00 to 0.0096, under their bound of 0.01, and they report the contrast as statistically equivalent to zero. In-group against out-group on its own gave F(1, 536) = 3.22, p = 0.07. Self against the other three conditions gave F(1, 536) = 1.27, p = 0.26 with altruists excluded and F(1, 592) = 40.16, p < 0.001 with them included, a split they attribute to altruists rating a fair decision rather than an unfair one. Their second experiment recruited 606 people, half Democrats and half Republicans, and analysed 577. There the in-group against out-group contrast held, F(1, 528) = 9.04, p = 0.003, partial eta squared 0.02, while the self-against-others contrasts again did not. They call the pair mixed evidence of intergroup moral hypocrisy. None of this measures the fallacy. It measures people applying a fairness rating differently to themselves, to a stranger and to someone sorted into their group minutes earlier, which is one of the things the fallacy is used to describe. Batson's studies are the ancestor and no direct repetition of them was located. Across three small studies with 80 female undergraduates, 16 of 20 assigned themselves the good task where morality went unmentioned, and 10 of 20 flipped a coin when one was offered, of whom 9 came out ahead. Batson, Thompson and Chen tested two alternative explanations in 2002 and report that neither was supported. Myside bias measures a nearby thing from another direction. Stanovich, West and Toplak report fifteen policy positions on which they found a myside bias, and that on not one of them was the bias smaller in the higher cognitive ability group.",
+    "study": {
+      "cite": "Robertson, C. E., Akles, M., & Van Bavel, J. J. (2024). Preregistered Replication and Extension of \"Moral Hypocrisy: Social Groups and the Flexibility of Virtue\". Psychological Science, 35(7), 798-813. Two experiments, 610 and 606 recruited.",
+      "doi": "10.1177/09567976241246552",
+      "year": 2024
+    },
+    "original": {
+      "es": 1.11,
+      "esType": "d"
+    }
+  },
+  "limits": "Nothing found here measures a person committing the fallacy. The search covered Europe PMC, Crossref, OpenAlex and general web search. Europe PMC holds 768 records containing 'special pleading' and 42 that also contain 'fallacy'; the first twenty-five of each were listed and their titles are on unrelated subjects, with none announcing an experiment on the move itself. An OpenAlex query was refused with a rate limit and not retried, so that sweep is incomplete, and Open Library's full-text index failed at the network layer on every attempt. Several documents named here were not obtained. Hamblin's Fallacies of 1970 was not read, so nothing is said about how it treats the term. T. Edward Damer's Attacking Faulty Reasoning is cited for the fallacy at pages 122 to 124 by both Fallacy Files and Wikipedia, and was not obtained. Dan Yim's chapter in Bad Arguments is listed for its existence only. The Oxford English Dictionary entry is behind a subscription, and the 1684 date is quoted as Merriam-Webster's rather than checked against a 1684 text. The Copi finding covers one edition, the fourteenth, read from a PDF hosted by the University of Peshawar; earlier editions were not searched. Batson's three papers were read as PubMed abstracts, and the 1997 counts are the abstract's. Robertson and colleagues' figures were read from their OSF preprint, which carries an in-press note, rather than from the journal version. No effect size is given for the replication, because its key contrast is reported as a partial eta squared and the original as a d, and printing the two side by side would invite a comparison the metrics do not support.",
+  "misreadings": "The commonest error is to read the legal sense as an early form of the fallacy. A special plea was a technical and legitimate defence, pleading new matter in place of a bare denial, and Blackstone's examples include releases, accords, estoppels and the statute of limitations. Whether the argumentative sense descends from it was not established by anything read for this entry, and a page that asserts the descent should be asked where it read that. The second error treats every exception as the fallacy. Koons's phrasing is the useful one: the exception stands accused until a principled ground is produced for thinking the difference relevant, and mere consistency does not answer the charge, because a rule with an arbitrary carve-out is consistent. The third confuses it with the fallacy of accident, which Copi defines as the opposite mistake, a generalisation forced onto a case its circumstances take out. Special pleading exempts a case the rule covers; accident covers a case the rule should exempt. The fourth reads the moral hypocrisy experiments as measurements of the fallacy. Subjects there move a fairness rating. Nobody argues, nobody offers a ground for the exemption, and nobody is asked whether the ground is a good one, and the direct replication of the best known result came out equivalent to zero. A fifth error concerns provenance. 'Power Increases Hypocrisy', which reports that the powerful condemn cheating in others while cheating more themselves, is quoted often, and its second author is Diederik Stapel, whose fabrications the Levelt Committee investigated. The paper appears in that committee's list of publications examined, without the asterisk the list uses for papers where it established fraud, and the Crossref record for the paper carried no retraction notice when checked for this entry.",
+  "sources": [
+    {
+      "text": "Blackstone, W. Commentaries on the Laws of England, Book the Third, Chapter the Twentieth: Of Pleading. Read in the Avalon Project transcription at Yale Law School, which prints the long s as f. The passages on the special plea, the general issue, and special pleading being perverted to the purposes of chicane and delay were read twice, from two fetches with identical checksums.",
+      "url": "https://avalon.law.yale.edu/18th_century/blackstone_bk3ch20.asp",
+      "type": "primary"
+    },
+    {
+      "text": "Blackstone, W. (1768). Book III: Of Private Wrongs. The Oxford Edition of Blackstone: Commentaries on the Laws of England, Vol. 3. Oxford University Press. Cited for the publication year of Book III, read from the Crossref metadata record; the edition itself was not obtained.",
+      "doi": "10.1093/oseo/instance.00248904",
+      "url": "https://doi.org/10.1093/oseo/instance.00248904",
+      "type": "provenance"
+    },
+    {
+      "text": "Merriam-Webster. special pleading, noun. Source for the two senses quoted and for the 1684 date given at First Known Use, in the meaning defined at sense 1.",
+      "url": "https://www.merriam-webster.com/dictionary/special%20pleading",
+      "type": "provenance"
+    },
+    {
+      "text": "Oxford English Dictionary. special pleading, n. Oxford University Press. Named as existing; behind a subscription these checks did not pass, and nothing in this entry is taken from it.",
+      "doi": "10.1093/oed/7657575945",
+      "url": "https://doi.org/10.1093/oed/7657575945",
+      "type": "provenance"
+    },
+    {
+      "text": "Copi, I. M., Cohen, C., & McMahon, K. Introduction to Logic, Fourteenth Edition. Pearson Education Limited, 2014. Read as text extracted from this PDF. The phrase 'special pleading' does not occur in it; the definitions of the fallacy of accident and of converse accident were read from it.",
+      "url": "http://www.uop.edu.pk/ocontents/Book-Introductiontologic.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy, first published 2015, substantive revision 30 August 2024. Read whole as page text; it does not contain the phrase 'special pleading', and it names Copi sixteen times and Hamblin twenty-three.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Source for the inconsistency definition of special pleading and for the police-corruption example.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Curtis, G. N. Special Pleading. The Fallacy Files. Source for the irrelevant-characteristic form, the guide-dog exception, and the Suffolk County police example. Cites Damer's Attacking Faulty Reasoning, pages 122 to 124.",
+      "url": "https://www.fallacyfiles.org/specplea.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Koons, R. C. (2001). Defeasible reasoning, special pleading and the cosmological argument: A reply to Oppy. Faith and Philosophy, 18(2), 192-203. Read in full as the open-access PDF at Asbury Seminary.",
+      "doi": "10.5840/faithphil20011823",
+      "url": "https://place.asburyseminary.edu/faithandphilosophy/vol18/iss2/3",
+      "type": "primary"
+    },
+    {
+      "text": "Yim, D. (2018). Special Pleading. In Bad Arguments, pages 219-222. Wiley. Named as existing; the chapter was not obtained and nothing here is taken from it.",
+      "doi": "10.1002/9781119165811.ch46",
+      "url": "https://doi.org/10.1002/9781119165811.ch46",
+      "type": "commentary"
+    },
+    {
+      "text": "Valdesolo, P., & DeSteno, D. (2007). Moral Hypocrisy: Social Groups and the Flexibility of Virtue. Psychological Science, 18(8), 689-690. Read in full as the PDF hosted on the second author's site.",
+      "doi": "10.1111/j.1467-9280.2007.01961.x",
+      "url": "https://www.davedesteno.com/s/moral-hypocrisy-social-groups-and-the-flexibility-of-virtue.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Robertson, C. E., Akles, M., & Van Bavel, J. J. (2024). Preregistered Replication and Extension of \"Moral Hypocrisy: Social Groups and the Flexibility of Virtue\". Psychological Science, 35(7), 798-813. Figures read from the OSF preprint, which is marked in press; the journal version was not obtained.",
+      "doi": "10.1177/09567976241246552",
+      "url": "https://osf.io/preprints/psyarxiv/453js",
+      "type": "replication"
+    },
+    {
+      "text": "Batson, C. D., Kobrynowicz, D., Dinnerstein, J. L., Kampf, H. C., & Wilson, A. D. (1997). In a very different voice: Unmasking moral hypocrisy. Journal of Personality and Social Psychology, 72(6), 1335-1348. Read as the PubMed abstract, PMID 9177020.",
+      "doi": "10.1037/0022-3514.72.6.1335",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9177020/",
+      "type": "primary"
+    },
+    {
+      "text": "Batson, C. D., Thompson, E. R., Seuferling, G., Whitney, H., & Strongman, J. A. (1999). Moral hypocrisy: Appearing moral to oneself without being so. Journal of Personality and Social Psychology, 77(3), 525-537. Read as the PubMed abstract, PMID 10510506.",
+      "doi": "10.1037/0022-3514.77.3.525",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10510506/",
+      "type": "primary"
+    },
+    {
+      "text": "Batson, C. D., Thompson, E. R., & Chen, H. (2002). Moral hypocrisy: Addressing some alternatives. Journal of Personality and Social Psychology, 83(2), 330-339. Read as the PubMed abstract, PMID 12150231.",
+      "doi": "10.1037/0022-3514.83.2.330",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12150231/",
+      "type": "primary"
+    },
+    {
+      "text": "Stanovich, K. E., West, R. F., & Toplak, M. E. (2013). Myside Bias, Rational Thinking, and Intelligence. Current Directions in Psychological Science, 22(4), 259-264. Read in full as the PDF hosted at the Jagiellonian University.",
+      "doi": "10.1177/0963721413480174",
+      "url": "https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Lammers, J., Stapel, D. A., & Galinsky, A. D. (2010). Power Increases Hypocrisy: Moralizing in reasoning, immorality in behavior. Psychological Science, 21(5), 737-744. Read as the PubMed record, PMID 20483854; the full text was not obtained.",
+      "doi": "10.1177/0956797610368810",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20483854/",
+      "type": "primary"
+    },
+    {
+      "text": "Levelt, Noort and Drenth Committees (2012). Flawed science: The fraudulent research practices of social psychologist Diederik Stapel. Tilburg University. Read as extracted text. The Lammers, Stapel and Galinsky paper appears in Appendix 4, the list of publications examined by the Levelt Committee, without the asterisk the list uses to mark papers in which fraud was established.",
+      "url": "https://www.tilburguniversity.edu/sites/default/files/download/Final%20report%20Flawed%20Science_2.pdf",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
