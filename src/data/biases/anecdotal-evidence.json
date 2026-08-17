@@ -1,0 +1,101 @@
+{
+  "no": 489,
+  "slug": "anecdotal-evidence",
+  "name": "Anecdotal evidence",
+  "aliases": [
+    "Anecdotal fallacy",
+    "Appeal to anecdote"
+  ],
+  "category": "belief",
+  "statement": "Anecdotal evidence is a single case offered in support of a general claim, and experiments disagree about whether people weight one case above the aggregate figures beside it.",
+  "meaning": "The term carries two claims and they come apart. The logical claim is about warrant. One case fixes no rate, and a sample of one says nothing about how typical it is unless the sampling is known. The psychological claim is about people, and it says that a case pulls judgement further than the aggregate figures printed next to it. Only the second has been put to volunteers, and it is not the claim the fallacy label makes. Communication researchers set the second up as a contest between two kinds of message. Freling and colleagues describe anecdotal evidence as information given from the perspective of a particular individual, against statistical evidence, which they describe as deriving from the experiences of multiple individuals and generalisable across a population. Measuring which of the two moves a reader further is a question about persuasion. Whether either reader was entitled to move is a question those designs do not ask.",
+  "origin": {
+    "year": 1977,
+    "who": "Eugene Borgida and Richard E. Nisbett",
+    "where": "Journal of Applied Social Psychology",
+    "note": "Their paper is \"The differential impact of abstract vs. concrete information on decisions\". Its abstract reports that undergraduates given mean course evaluations from students who had taken the courses changed their choices little, while brief face-to-face comments about the same courses changed them a lot, and it concludes that information is used in proportion to its vividness. The article was not obtained here. That description is read off the publisher's abstract as reconstructed by OpenAlex from its inverted index, fetched twice with the same result. The phrase anecdotal evidence is much older than the psychology, and searches of Crossref and the open web run for this entry found no founding text for it as a named fallacy. Merriam-Webster's dictionary defines it as evidence in the form of stories that people tell about what has happened to them, and attaches no argumentative sense to it."
+  },
+  "evidence": "Hamill, Wilson and Nisbett ran the study the fallacy is usually illustrated with. Their abstract describes two experiments in which people met a vivid single case, a welfare recipient in one and a prison guard in the other, and then rated the population it came from. Exposure to the case moved those ratings whether people were told nothing about how typical it was, told it was highly typical, or told it was highly atypical. Their own conclusion is hedged: they write that people may make unwarranted generalisations from samples to populations at least when information about sample bias is pallid and information about the nature of the sample is vivid. Krupat, Smith, Leach and Jackson got the opposite result seventeen years later. In their Study 1 a two-part essay about a fictitious car, the Clipper, gave an anecdote followed by contradictory statistics or statistics followed by a contradictory anecdote. Statistics that made the anecdote atypical had a great impact and the anecdote had little. Study 2 rated three cars differing in familiarity and prior evaluation, the Clipper, a Honda and a Yugo, and the statistics held their grip in all three. Their conclusion is that base rate information gets used when it is comprehensible and diagnostically relevant. Both papers were read as abstracts only. The pooled comparisons favour the statistic. Allen and Preiss compared statistical against narrative evidence across 15 investigations and their abstract reports statistical evidence the more persuasive of the two, r = .101. Zebregs, van den Putte, Neijens and de Graaf ran the comparison again on 15 studies, splitting it by outcome. Statistical evidence beat narrative evidence on beliefs, mean effect size -0.16, SE 0.07, p = .014, across nine studies and 1,546 people, and on attitude, -0.11, SE 0.06, p = .058, across five studies and 1,850 people. Narrative evidence won on intention, 0.10, SE 0.05, p = .061, across seven studies and 1,338 people. The gap between the belief and intention effects was itself reliable, Qbet(2) = 11.97, p = .003. Freling, Yang, Saini, Itani and Abualsamh built the largest synthesis, 61 papers giving 160 effect sizes and 32,321 observations. The mean Hedges's g is 0.066 in favour of statistical evidence, 95% bootstrapped interval 0.039 to 0.093, over substantial heterogeneity, chi-square 2,527.26, p < .01. Three moderators reverse the sign. Statistical evidence runs behind the anecdote when the issue carries high threat severity, g = -0.061 against 0.157 for low severity, when the decision is personally relevant, -0.032 against 0.175 for a decision about somebody else, and when the subject is health, -0.059 against 0.143 when it is not.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Pooled over 160 comparisons the statistical message edges the anecdote, at Hedges's g = 0.066, and the sign flips on exactly the severe, personal and health topics where the fallacy is usually invoked.",
+    "detail": "The two founding experiments point in opposite directions and were never run against each other. Borgida and Nisbett and then Hamill, Wilson and Nisbett report the case winning. Krupat, Smith, Leach and Jackson report the statistic winning, and read their result as showing that base rates get used when they are comprehensible and relevant. The syntheses do not settle it either, because they measure something narrower. Allen and Preiss put statistical evidence ahead at r = .101 over 15 investigations. Zebregs and colleagues found the winner depends on what is measured, with the statistic ahead on beliefs and attitude and the narrative ahead on intention. Freling and colleagues put the statistic ahead overall at g = 0.066 and then found the advantage reversing with threat severity, personal relevance and health content. Their moderator table also splits on publication status, at g = 0.091 across 129 published samples against -0.025 across 31 unpublished ones. They read a Rosenthal fail-safe sample size of 5,027 and a funnel plot as showing no file-drawer problem, which sits oddly beside that split. Recent work on vaccine messaging goes the same way as the syntheses. Kuru and colleagues randomised 2,345 people in a nationally representative sample to one of six edited news videos about the MMR vaccine during the 2019 United States measles outbreak. The expert message about vaccine safety lowered vaccine risk perceptions, b = -0.17, p < .001, against the control. They report that the pro-vaccine narrative message had no reliable effect alone or combined with a hesitancy narrative, and call it ineffective relative to the statistical message. Vandeberg, Meppelink, Sanders and Fransen tested the mechanism directly in two experiments, on 418 and 403 people, the second preregistered. They found no evidence for the availability account, and report that prior vaccine hesitancy rather than narrative format predicted cognitive resistance and post-reading attitudes. No multi-laboratory replication of the anecdote against statistic comparison was located. That search covered Crossref by bibliographic query, Europe PMC, OpenAlex, and the published listings of Many Labs and the Registered Replication Reports.",
+    "study": {
+      "cite": "Freling, T. H., Yang, Z., Saini, R., Itani, O. S., & Abualsamh, R. R. (2020). When poignant stories outweigh cold hard facts: A meta-analysis of the anecdotal bias. Organizational Behavior and Human Decision Processes, 160, 51-67.",
+      "doi": "10.1016/j.obhdp.2020.01.006",
+      "year": 2020,
+      "n": 32321
+    },
+    "replicated": {
+      "es": 0.066,
+      "esType": "g",
+      "ci": [0.039, 0.093],
+      "ciLevel": 95,
+      "weighting": "sample-weighted across 160 effect sizes; bootstrapped interval"
+    }
+  },
+  "limits": "Three of the papers that carry the argument were read only as abstracts. Hamill, Wilson and Nisbett is closed at the publisher, Unpaywall lists no open copy, the Deep Blue repository at the University of Michigan returned 403 on two attempts and a third through a different fetcher, and PsycNet returned a loading page. Krupat and colleagues is closed at Taylor and Francis, which also returned 403. Allen and Preiss was not obtained, and its r = .101 comes from the published abstract as reconstructed by OpenAlex, read twice with the same wording. Because that is a reconstruction rather than the publisher's own page, the figure is quoted here and kept out of the structured effect-size fields. No sample size for Allen and Preiss was obtained. Freling and colleagues' Table 1 counts 16 studies for that meta-analysis where its own abstract says 15 investigations, and this entry did not resolve which is right. Zebregs and colleagues print an interval beside each pooled effect and label the column CI; a search of the article text for a stated confidence level returned nothing, so the intervals are left off this page and the standard errors given instead. Freling and colleagues were read as the author copy at ScholarWorks, University of Texas Rio Grande Valley, rather than the publisher's version, and every figure was extracted twice from the same document text. Taylor and Thompson's review of the vividness effect, which is the mechanism usually offered for all of this, was not obtained. Its record at Crossref and its ERIC abstract were read, and two fetches of that abstract returned different wordings, so nothing is quoted from it beyond the point both carried: that the proposed processes behind vividness effects, memorability, imageability and affective impact, are themselves problematic. The vaccine paradigm in which narratives beat the base rate, run by Betsch and colleagues at Erfurt, is covered by this site's narrative-bias entry and is not summarised again here.",
+  "misreadings": "The commonest error is to treat the fallacy and the experiments as answering one question. The fallacy says a single case does not license a general conclusion, which is a claim about warrant. The experiments measure how far a case moves an opinion, which is a claim about persuasion. A page that cites Freling's g = 0.066 as evidence that anecdotes are harmless has changed the subject, because a message that persuades less can still be the one that misleads. The second error is the folk version, that stories beat statistics. Every pooled comparison located here puts the statistical message ahead on average, and the reversals are conditional on the topic. The third is to read those two literatures as measuring the same design. Zebregs and colleagues excluded Hamill, Wilson and Nisbett from their meta-analysis on the ground that it does not compare statistical against narrative evidence at all: it pairs one narrative with statistics that either match it or contradict it. Freling and colleagues excluded Betsch and colleagues' 2011 vaccination study for the related reason that it combines both kinds of evidence in a single message. The studies most often cited together as one finding were kept apart by the people who pooled them. The last error is to expect the effect to hold at a fixed size. It runs one way for a low-stakes choice made on somebody else's behalf and the other way for a severe, personal, medical one.",
+  "sources": [
+    {
+      "text": "Borgida, E., & Nisbett, R. E. (1977). The differential impact of abstract vs. concrete information on decisions. Journal of Applied Social Psychology, 7(3), 258-271. Not obtained; described here from the publisher's abstract as reconstructed by OpenAlex, fetched twice.",
+      "doi": "10.1111/j.1559-1816.1977.tb00750.x",
+      "url": "https://doi.org/10.1111/j.1559-1816.1977.tb00750.x",
+      "type": "primary"
+    },
+    {
+      "text": "Hamill, R., Wilson, T. D., & Nisbett, R. E. (1980). Insensitivity to sample bias: Generalizing from atypical cases. Journal of Personality and Social Psychology, 39(4), 578-589. Closed at the publisher and unavailable at the University of Michigan repository on three attempts; described here from its abstract, fetched twice.",
+      "doi": "10.1037/0022-3514.39.4.578",
+      "url": "https://doi.org/10.1037/0022-3514.39.4.578",
+      "type": "primary"
+    },
+    {
+      "text": "Krupat, E., Smith, R. H., Leach, C. W., & Jackson, M. A. (1997). Generalizing from atypical cases: How general a tendency? Basic and Applied Social Psychology, 19(3), 345-361. Closed at Taylor and Francis; described here from its abstract, fetched twice.",
+      "doi": "10.1207/s15324834basp1903_5",
+      "url": "https://doi.org/10.1207/s15324834basp1903_5",
+      "type": "primary"
+    },
+    {
+      "text": "Allen, M., & Preiss, R. W. (1997). Comparing the persuasiveness of narrative and statistical evidence using meta-analysis. Communication Research Reports, 14(2), 125-131. Not obtained; r = .101 is read from the published abstract and is not carried in this entry's effect-size fields.",
+      "doi": "10.1080/08824099709388654",
+      "url": "https://doi.org/10.1080/08824099709388654",
+      "type": "replication"
+    },
+    {
+      "text": "Zebregs, S., van den Putte, B., Neijens, P., & de Graaf, A. (2015). The differential impact of statistical and narrative evidence on beliefs, attitude, and intention: A meta-analysis. Health Communication, 30(3), 282-289. Read in full as the author copy hosted by the University of Amsterdam; all figures extracted from the document text.",
+      "doi": "10.1080/10410236.2013.842528",
+      "url": "https://pure.uva.nl/ws/files/2680645/167737_497142.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Freling, T. H., Yang, Z., Saini, R., Itani, O. S., & Abualsamh, R. R. (2020). When poignant stories outweigh cold hard facts: A meta-analysis of the anecdotal bias. Organizational Behavior and Human Decision Processes, 160, 51-67. Read in full as the author copy at ScholarWorks, University of Texas Rio Grande Valley; the main-effect and moderator tables were extracted twice.",
+      "doi": "10.1016/j.obhdp.2020.01.006",
+      "url": "https://scholarworks.utrgv.edu/cgi/viewcontent.cgi?article=1096&context=marketing_fac",
+      "type": "replication"
+    },
+    {
+      "text": "Kuru, O., Stecula, D., Lu, H., Ophir, Y., Chan, M. S., Winneg, K., Hall Jamieson, K., & Albarracín, D. (2021). The effects of scientific messages and narratives about vaccination. PLOS ONE, 16(3), e0248328. Read from the journal's JATS XML.",
+      "doi": "10.1371/journal.pone.0248328",
+      "url": "https://doi.org/10.1371/journal.pone.0248328",
+      "type": "replication"
+    },
+    {
+      "text": "Vandeberg, L., Meppelink, C. S., Sanders, J., & Fransen, M. L. (2022). Facts tell, stories sell? Assessing the availability heuristic and resistance as cognitive mechanisms underlying the persuasive effects of vaccination narratives. Frontiers in Psychology, 13, 837346. Read as the abstract at Europe PMC.",
+      "doi": "10.3389/fpsyg.2022.837346",
+      "url": "https://doi.org/10.3389/fpsyg.2022.837346",
+      "type": "replication"
+    },
+    {
+      "text": "Taylor, S. E., & Thompson, S. C. (1982). Stalking the elusive \"vividness\" effect. Psychological Review, 89(2), 155-181. Not obtained; the record was confirmed at Crossref and only the ERIC abstract was read.",
+      "doi": "10.1037/0033-295X.89.2.155",
+      "url": "https://eric.ed.gov/?id=EJ270540",
+      "type": "commentary"
+    },
+    {
+      "text": "Merriam-Webster. Anecdotal evidence. Merriam-Webster.com Dictionary. The source for the ordinary definition of the phrase.",
+      "url": "https://www.merriam-webster.com/dictionary/anecdotal%20evidence",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
