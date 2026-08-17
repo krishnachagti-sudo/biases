@@ -1,0 +1,121 @@
+{
+  "no": 541,
+  "slug": "argumentum-ad-baculum",
+  "name": "Argumentum ad baculum",
+  "aliases": ["Appeal to force", "Appeal to the stick", "Ad baculum", "Argument from threat"],
+  "category": "belief",
+  "statement": "Backing a demand with a threat is a fixture of the fallacy lists, and the standard treatments make it a fallacy only when the threat is offered as a reason to believe something.",
+  "meaning": "The Latin means appeal to the stick. Hansen's survey of the fallacies gives the shape: if you do not join our demonstration against the expansion of the park, we will evict you from your apartment, so you should join. Hansen calls it one of the most controversial fallacies, because it is hard to see that it involves bad reasoning at all. Threats do give people reasons to act. In labour disputes, and perhaps in international relations, he writes, threats such as going on strike or cutting off trade routes are not normally treated as fallacies. The charge bites when the conclusion is about what to believe. Being told to believe that candidate X is best suited for office on pain of eviction is, in Hansen's words, a good instance of irrelevant evidence. Pragma-dialectics files the move somewhere else again. Van Eemeren and Garssen count it a violation of the Freedom Rule, because a threat stops the other party advancing a standpoint or casting doubt, and a discussion that never opens cannot be resolved on the merits.",
+  "origin": {
+    "year": 1976,
+    "who": "John Woods and Douglas Walton",
+    "where": "Grazer Philosophische Studien",
+    "note": "Walton's later account of that paper says the two of them surveyed the logic textbooks and concluded that none had explained why the argument is fallacious. They analysed its form as a disjunctive syllogism of a prudential kind, and added that in many instances such an argument could be seen as reasonable. The label is much older than the paper. Snoeck Henkemans's review of Walton's Scare Tactics reports that the book's second chapter surveys the treatment of ad baculum in logic textbooks and manuals in English from 1906 to 1995. Who coined the phrase was not traced for this entry."
+  },
+  "evidence": "The distinction the charge rests on is drawn as a difference between speech acts. Walton, following Searle, gives four conditions for warning and four for making a threat. Warning requires that the speaker believes the hearer will benefit from knowing in advance, and that telling the hearer offers a way of avoiding the event. The essential condition of a threat is that the speaker commits to seeing to it that the bad consequences occur unless the hearer does what the speaker wants. Unless that condition is present, Walton writes, the speech act has to be classified as a warning rather than a threat. Van Eemeren, Garssen and Meuffels draw the same boundary by responsibility. In an advice or a warning the other party carries full freedom and responsibility for whether the consequence happens; in a threat the speaker can be held responsible for it. Their account of the disguised form follows from that: the threatener hints that some party or event outside the discussion will bring the harm about. The measurement comes from one research programme. Conceptions of Reasonableness ran at Amsterdam from 1996 to 2008 and showed people three-turn dialogues in domestic, political or scientific settings, built as paradigm cases and written without loaded content. Participants rated the reasonableness of the last contribution on a seven-point scale, where 1 is the strongest unreasonable rating, 4 neutral and 7 the strongest reasonable rating. Van Eemeren and Garssen's 2023 table of 24 fallacy types carries four ad baculum rows. The physical variant scored 2.04 and the non-physical 2.91, against 5.64 for their non-fallacious counterpart. The direct variant scored 1.86 and the indirect 3.72, against 5.41. That 1.86 is the lowest score in the table, and the 2014 paper by the same group says the ad baculum was judged the least reasonable of the 24 fallacies studied. What threats do, as against how they are rated, is measured elsewhere. Fehr and Rockenbach ran a trust game with 238 students at Bonn in which the investor could impose a fine of 4 monetary units for a shortfall. Trustees returned 30.3% of the tripled investment when the fine was imposed and 47.6% when the investor waived it. A regression controlling for the transfer and the desired repayment put the cost of using the fine at 4.56 units, t = 2.380, P = 0.020. Where the investor asked for a lot and fined, back-transfers fell to 22% against 60.1% for asking a lot without fining. Tornatzky and Geiwitz record that the bargaining literature had already split. Deutsch and Krauss found that gates in a trucking game decreased coordination. Shomer, Davis and Kelley used a modified trucking game and found that financial threats increased cooperation.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The reasonableness experiment was repeated with different messages and different participants, and both runs put a plain threat near 2.8 on a seven-point scale and the same threat dressed as advice around the neutral midpoint.",
+    "detail": "Van Eemeren, Garssen and Meuffels tested whether an ad baculum is judged less harshly when it is presented as well-meant advice. In the first experiment 93 Dutch secondary school pupils aged 14 to 18 rated 42 dialogues, seven move types with six instantiations each. Clear-cut ad baculum scored 2.81, SD 0.70; the disguised version 4.39, SD 0.86; sound non-pragmatic argumentation 5.17; sound pragmatic argumentation 5.74. The four differed at F'(3,22) = 14.27, p < .01, eta-squared .36, and the contrast between the disguised and the straightforward threat gave F'(1,22) = 10.97, p < .01, eta-squared .10. The paper puts the difference between the two threats at 1.58 points. The replication used different messages and different people: 128 students in higher vocational education, aged 17 to 31, and seven instantiations per type. Clear-cut ad baculum came out at 2.74, SD 0.65, and the disguised form at 3.76, SD 0.66. The four move types differed at F'(3,25) = 16.65, p < .001, eta-squared .40, and the key contrast gave F'(1,25) = 4.33, p < .05. Both runs also recovered the expected ratings for gatekeeper fallacies carried over from the earlier project. The quasi-F ratios follow Clark's language-as-fixed-effect correction, with instantiation treated as a random factor. Two figures in the same programme line up across documents. The 2023 table has the physical variant rated more harshly than the non-physical and the direct more harshly than the indirect, and a footnote in the 2014 paper reports the same ordering from the earlier experiments. The 2023 paper records that replications were run in a number of cases with respondents in the Netherlands, the UK, Germany, Spain and Indonesia, without naming the fallacy types those covered.",
+    "study": {
+      "cite": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2015). The disguised ad baculum fallacy empirically investigated: Strategic maneuvering with threats. ISSA Proceedings 2014, 1396-1407. Read as the University of Amsterdam repository PDF; the replication experiment used 128 participants.",
+      "url": "https://pure.uva.nl/ws/files/2498863/167213_Pages_from_ISSA_Proceedings_2014Complete.pdf",
+      "year": 2015,
+      "n": 128
+    },
+    "original": {
+      "es": 0.36,
+      "esType": "eta2"
+    },
+    "replicated": {
+      "es": 0.4,
+      "esType": "eta2",
+      "weighting": "overall difference among the four move types, not the threat contrast alone"
+    }
+  },
+  "limits": "Every reasonableness figure on this page comes from one group of researchers, and the two experiments behind the replication are theirs as well. The participants were Dutch, and were pupils and students. The dialogues were constructed paradigm cases, which the authors chose deliberately to test the discussion rules rather than to sample how threats actually appear. What is measured throughout is a rating of reasonableness, not belief and not behaviour. Whether a threat changes what anybody believes about the disputed claim was not found in an experiment for this entry. Searches at Crossref and on the open web for such a test returned argumentation theory rather than data. The fear-appeal literature measures a different thing. One number in the 2014 paper reads oddly: the contrast between the disguised threat and the two sound moves is printed as F'(1,22) = 6.64, p < .07, while the surrounding contrasts are given at p < .01. Woods's 1998 paper in Argumentation and Kimball's 2006 paper in the same journal are closed at Unpaywall, and nothing from either appears here. Walton's book was not read. What it argues is taken at one remove, from his own 2014 summary of it and from Snoeck Henkemans's review, and no figure from it is quoted. The bargaining experiments carry their own caveats. Fehr and Rockenbach studied a fine in a trust game rather than an argument. Tornatzky and Geiwitz's own 80 participants produced a threat effect their abstract calls a significant interaction and their results section calls short of acceptable significance.",
+  "misreadings": "The textbook definition is the thing most often quoted and the thing most often abandoned by people who study it. Copi and Cohen, as Walton quotes them, make the fallacy an appeal to force to cause the acceptance of some conclusion. Woods and Walton in 1976, Woods again in 1987 and Kielkopf all concluded that a threat can be a prudentially sound reason to act, so the definition condemns too much. Walton's later position is that the fault has to be located in how the threat is used in a context of dialogue, and that making a threat is normal in negotiation, as in a union threatening to strike. Levi goes further and argues that the ad baculum is not a fallacy in an argument at all, because intimidation is offered instead of an argument to close the discussion down. The second confusion is with the appeal to fear, and this site's entry on that records the persuasion literature. Walton's book, as his 2014 paper describes it, splits three things the textbooks had run together: scare tactics that contain no threat and merely describe a frightening outcome, threat appeals, and the use of force. A public health warning is the first of those, and calling it ad baculum implies a speaker who will inflict the harm. The third confusion is treating the disguised form as the mild form. Dressing a threat as advice does not withdraw it. It shifts apparent responsibility for the harm onto something outside the conversation, and the experimental finding is that this shift buys the threatener a rating near the neutral midpoint rather than one near the floor.",
+  "sources": [
+    {
+      "text": "van Eemeren, F. H., & Garssen, B. (2023). The Pragma-Dialectical Approach to the Fallacies Revisited. Argumentation, 37(2), 167-180. Source of the reasonableness scores in Table 1 and of the description of the experimental design; read as the open PDF in the University of Amsterdam repository, and the four ad baculum rows were extracted twice.",
+      "doi": "10.1007/s10503-023-09605-w",
+      "url": "https://pure.uva.nl/ws/files/147095527/s10503-023-09605-w.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2015). The disguised ad baculum fallacy empirically investigated: Strategic maneuvering with threats. ISSA Proceedings 2014, 1396-1407. The two experiments and every figure quoted from them; read as the University of Amsterdam repository PDF and extracted twice.",
+      "url": "https://pure.uva.nl/ws/files/2498863/167213_Pages_from_ISSA_Proceedings_2014Complete.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2015). The disguised ad baculum fallacy empirically investigated. In Scrutinizing Argumentation in Practice, 313-326. Amsterdam: John Benjamins. The book version of the study above; not read.",
+      "doi": "10.1075/aic.9.18eem",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Source for ad baculum as the appeal to the stick, for the eviction example, for the practical against doxastic line, and for Copi's placement of the fallacy among fallacies of relevance.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Walton, D. (2014). A Dialectical Analysis of the Ad Baculum Fallacy. Informal Logic, 34(3), 276-310. Source for the speech-act conditions for warning, advising and threatening, for the account of Woods and Walton 1976, Woods 1987, Kielkopf, Wreen and Brinton, and for the legitimacy of threats in negotiation dialogue. Read as the open journal PDF.",
+      "doi": "10.22329/il.v34i3.4109",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/download/4109/3323",
+      "type": "primary"
+    },
+    {
+      "text": "Woods, J., & Walton, D. (1976). Ad Baculum. Grazer Philosophische Studien, 2, 133-140. Named from Crossref and from Walton's own reference list and summary; the paper itself was not read.",
+      "doi": "10.1163/18756735-90000026",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D. (2000). Scare Tactics: Arguments that Appeal to Fear and Threats. Argumentation Library vol. 3. Dordrecht: Kluwer. The book-length treatment; not read. Its content is used here only through Walton's 2014 summary and Snoeck Henkemans's review.",
+      "doi": "10.1007/978-94-017-2940-6",
+      "type": "primary"
+    },
+    {
+      "text": "Snoeck Henkemans, A. F. (2001). Review of Douglas Walton, Scare Tactics. Informal Logic, 21(3), 267-274. Source for the 1906 to 1995 textbook survey in the book's second chapter. Read as the open journal PDF.",
+      "url": "https://ojs.uwindsor.ca/ojs/leddy/index.php/informal_logic/article/download/2249/1693",
+      "type": "commentary"
+    },
+    {
+      "text": "Levi, D. S. (1999). The Fallacy of Treating the Ad Baculum as a Fallacy. Informal Logic, 19(2), 145-159. The dissenting position that nothing is being argued. Read as the open journal PDF.",
+      "doi": "10.22329/il.v19i2.2324",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2324/1767",
+      "type": "commentary"
+    },
+    {
+      "text": "Fehr, E., & Rockenbach, B. (2003). Detrimental effects of sanctions on human altruism. Nature, 422, 137-140. Closed at the publisher; read as the working-paper copy of the article, whose text carries both authors' names, and the quoted figures were extracted twice.",
+      "doi": "10.1038/nature01474",
+      "url": "https://econwpa.ub.uni-muenchen.de/econ-wp/mic/papers/0305/0305007.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Tornatzky, L., & Geiwitz, P. J. (1968). The effects of threat and attraction on interpersonal bargaining. Psychonomic Science, 13(2), 125-126. Source for the disagreement between the trucking-game studies and for its own prisoner's dilemma experiment. Read as the publisher's PDF.",
+      "doi": "10.3758/bf03342442",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03342442.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Deutsch, M., & Krauss, R. M. (1960). The effect of threat upon interpersonal bargaining. The Journal of Abnormal and Social Psychology, 61(2), 181-189. Named as the origin of the trucking game; not read, and described here only as Tornatzky and Geiwitz describe it.",
+      "doi": "10.1037/h0042589",
+      "type": "background"
+    },
+    {
+      "text": "Shomer, R. W., Davis, A. H., & Kelley, H. H. (1966). Threats and the development of coordination: Further studies of the Deutsch and Krauss trucking game. Journal of Personality and Social Psychology, 4(2), 119-126. Named as the contrary result; not read.",
+      "doi": "10.1037/h0023553",
+      "type": "background"
+    },
+    {
+      "text": "Woods, J. (1998). Argumentum ad baculum. Argumentation, 12(4), 493-504. Closed at Unpaywall and OpenAlex; nothing from it is used here.",
+      "doi": "10.1023/A:1007779930624",
+      "type": "commentary"
+    },
+    {
+      "text": "Kimball, R. H. (2006). What's Wrong with Argumentum ad Baculum? Reasons, Threats, and Logical Norms. Argumentation, 20(1), 89-100. Closed at Unpaywall and OpenAlex; nothing from it is used here.",
+      "doi": "10.1007/s10503-006-9003-1",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
