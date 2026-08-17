@@ -1,0 +1,121 @@
+{
+  "no": 517,
+  "slug": "moralistic-fallacy",
+  "name": "Moralistic fallacy",
+  "category": "belief",
+  "statement": "The moralistic fallacy runs from ought to is: a claim about the world is rejected because its implications are morally unwelcome.",
+  "meaning": "The name marks an inference in one direction. From the premise that some state of affairs ought not to exist, a person concludes that it does not exist, or that the evidence for it must be weak. Bernard Davis put it in one line in 2000: philosophers use 'naturalistic fallacy' for efforts to derive an 'ought' from an 'is', and since the subordination of science to ideology he was describing tries to derive an 'is' from an 'ought', he had suggested it be called the 'moralistic fallacy'. His target was the argument that certain questions should not be investigated because the answers might unsettle beliefs that support valuable ethical convictions. Three neighbouring entries hold the other corners of the same ground. Entry 435 covers Hume's paragraph on the transition from is to ought. Entry 432 covers Moore's charge that 'good' cannot be defined by any other property, which is not an argument about inference at all. Entry 434 covers the everyday preference for what is natural. This is the only one of the four that names a move from the moral to the factual, and the only one with a straightforward empirical counterpart, because whether a person's assessment of evidence tracks the moral colour of its conclusion is a question about behaviour.",
+  "origin": {
+    "year": 1978,
+    "who": "Bernard D. Davis",
+    "where": "Nature",
+    "note": "A one-page item at Nature 272(5652), page 390, issue date 30 March 1978, whose standfirst says Davis of the Bacterial Physiology Unit, Harvard Medical School, discusses whether or not scientific inquiry should be blocked on moral grounds. It is closed at the publisher and was not obtained here. The phrase is older than that article: Edward C. Moore published 'The Moralistic Fallacy' in the Journal of Philosophy 54(2), pages 29-42, in January 1957, and this entry does not say what he meant by it, because that article was not obtained either. Nature's byline reads Bernard B. Davis, while PubMed and Davis's own later reference list give Bernard D. Davis."
+  },
+  "evidence": "What Davis meant by the name is read here from his own restatement of it, published in 2000 and adapted from a chapter of the unfinished book he left at his death in 1994. He gives the is-from-ought formula, cites his 1978 article and pages 30 to 33 of his 1986 book Storm over Biology, and names the occasion: a lecture in which George Steiner proposed that certain kinds of studies should not be pursued, his example being the identification of genetic components of human behaviour, since these might differ statistically among races. The experimental literature does not use the name. What it measures is the inference's signature, which is whether judgements of evidence move with the moral desirability of the conclusion. Colombo, Bucher and Inbar built their materials from a pre-study in which 40 Tilburg undergraduates rated 18 testable hypotheses for moral offensiveness and for credibility, then selected items matched on prior credibility. In their first study 101 Mechanical Turk participants rated six fictitious research reports on five dimensions. Reports carrying a morally offensive hypothesis were rated lower on every one: plausible d = 0.36, convincing d = 0.38, well conducted d = 0.38, provides good evidence d = 0.24, should be funded d = 0.22, all with df = 100 and p between < .001 and .029. Liu and Ditto's three studies are described here from their published abstract, which reports that the more an act was deemed inherently immoral the more it was seen as unlikely to produce benefits and likely to involve costs, and that reading essays on the inherent morality of capital punishment changed beliefs about its costs and benefits though no information about consequences was supplied. Winegard, Clark, Hasty and Baumeister ran eight studies on 3,274 participants in which the same fictitious finding was presented with the groups reversed, and report that in every study liberal participants rated the version favouring a higher-status group less credible than the version favouring a lower-status one.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A preregistered experiment found the same effect twice in different countries, d = 0.50 then d = 0.47, while the study that repeated its own procedure under an accuracy incentive held on one of its five measures.",
+    "detail": "Stewart-Williams and colleagues showed participants a fictional popular-science article reporting a sex difference, with the favoured sex switched between conditions. In Study 1, 492 Western participants reacted less positively to the male-favouring version on the aggregate measure, F(1, 488) = 30.90, p < .001, d = 0.5, judging those findings less important, less credible, and more offensive, harmful and upsetting. Study 2 repeated the design on 336 Southeast Asian participants and found the same, F(1, 332) = 16.46, p < .001, d = 0.47. The two studies sit in one paper, so this is an internal replication in a different population rather than an independent one. Colombo, Bucher and Inbar's second study went the other way. It moved to paper and pencil with 141 students in the Netherlands and Germany, half of them promised money for matching expert ratings, and swapped one item. Only plausibility survived: F(1, 139) = 10.671, p = .001, and t(140) = 3.275, p = .001, d = 0.28. Convincingness was marginal at d = 0.19, p = .067, and the other three dimensions did not differ, all ps > .40. The incentive did not remove what remained. Winegard and colleagues meta-analysed their own six experiments. The interaction between the manipulation and political ideology gave rz = .12, k = 6, n = 2,617, t(5) = 4.50, p = .006, 95% CI .05 to .19. Among liberals the manipulation moved credibility at rz = .23, n = 1,320, CI .17 to .30; among conservatives at rz = .00, n = 729; among moderates at rz = .01, n = 568. The broadest number comes from a different question. Ditto and colleagues meta-analysed 51 experiments from 38 articles, 18,815 participants, in which people evaluated identical information that favoured or challenged their political side. Overall bias was r = .245, 95% CI .208 to .280, with liberals at .235 and conservatives at .255 and a difference of .009, p = .55. Baron and Jost's commentary disputes the reading rather than the arithmetic, arguing that the reviewed studies were selected for other purposes and that the effect measured is not an irrational bias in the absence of a standard for accuracy. Guay and Johnston's two national survey experiments, described here from their abstract, also find little evidence that conservatives are more prone to politically motivated reasoning.",
+    "study": {
+      "cite": "Stewart-Williams, S., Chang, C. Y. M., Wong, X. L., Blackburn, J. D., & Thomas, A. G. (2021). Reactions to male-favouring versus female-favouring sex differences: A pre-registered experiment and Southeast Asian replication. British Journal of Psychology, 112(2), 389-411.",
+      "doi": "10.1111/bjop.12463",
+      "year": 2021,
+      "n": 336
+    },
+    "original": {
+      "es": 0.5,
+      "esType": "d"
+    },
+    "replicated": {
+      "es": 0.47,
+      "esType": "d"
+    }
+  },
+  "limits": "No experiment that tests the moralistic fallacy under that name was found. Europe PMC returns ten records for the phrase, and they are Davis's article, his 2000 commentary, and commentary and opinion pieces in medicine, philosophy and psychology. Crossref returns philosophy articles and polemics. So the studies above are neighbours chosen by their design, and a reader should treat the fit as an argument rather than a finding. No independent direct replication of any of them was located either. FORRT's FLoRA atlas has no page for the Liu and Ditto paper or for Campbell and Kay's solution-aversion paper, and a scan of the titles citing Liu and Ditto, Colombo and colleagues, and Campbell and Kay at Semantic Scholar turned up no repetition of those designs. Several documents were not obtained. Davis's 1978 article is closed at Nature, so the wording of the coinage here is his own from 2000 rather than from the article itself. Moore's 1957 article is closed at the Philosophy Documentation Center and at JSTOR, and its record was confirmed at both Crossref and the Philosophy Documentation Center for author, volume, issue, pages and date. Liu and Ditto's paper is closed at the publisher and appears here only through its abstract, so none of its numbers are quoted. The Ditto figures come from the author manuscript posted at OSF and marked in press. Its body text prints the liberal interval as .192 to .296 where its own Table 2 prints .192 to .276, and the table is used above; the published version sits behind a challenge page at the Durham repository and was not obtained. The Stewart-Williams figures come from the accepted manuscript at OSF, whose sample sizes, design and direction match the publisher's abstract. Winegard and colleagues' paper circulated as a 2018 preprint and was published in the Journal of Open Inquiry in the Behavioral Sciences, and the comment printed alongside it, by Ferguson, endorses the studies rather than disputing them. Colombo and colleagues matched their offensive and neutral items on prior credibility only roughly: one neutral item drew a mean credibility of 3.85 where the other six sat at or below 2.05. Steven Pinker is usually named as the person who popularised the term, and no document written by him containing the phrase was obtained here. What was obtained is Samuel Brittan's Financial Times review of The Blank Slate from September 2002, hosted on Pinker's own site, which says that Pinker exposes the moralistic fallacy that healthy, rational people will not injure others.",
+  "misreadings": "The pairing that gives the fallacy its name is with the popular reading of the naturalistic fallacy rather than with Moore's. Davis glosses the naturalistic fallacy as efforts to derive an ought from an is, which is the reading entry 432 shows is not what Moore's chapter argues, so the mirror is drawn against a reflection. The moralistic fallacy is also not the appeal to nature of entry 434, which runs from natural to good and has its own measured literature. A second error is to treat the label as an argument. Showing that somebody reached a factual conclusion by a moral route says nothing about whether the conclusion is true, and a person who resists a finding because he dislikes its implications may still turn out to be right about the finding. A third is to read the experiments as showing that people announce a claim to be false because it offends them. What they show is smaller and more specific: ratings of plausibility, credibility and study quality shift by a fifth to a half of a standard deviation when the same evidence carries a different moral load. The coinage is a fourth. Davis is credited with the term across the popular literature, and he described himself as having suggested it, though the phrase had already been the title of a philosophy article in 1957. Last, the fallacy is often treated as the property of one political side. Ditto and colleagues' 51 experiments put liberals at r = .235 and conservatives at r = .255, and Winegard and colleagues argue that the symmetry hides an asymmetry in the one domain they tested.",
+  "sources": [
+    {
+      "text": "Davis, B. D. (2000). The scientist's world. Microbiology and Molecular Biology Reviews, 64(1), 1-12. Read in full as the PDF at Europe PMC. The source for Davis's own statement of what he meant by the moralistic fallacy, for the Steiner lecture, and for his citation of his 1978 article and of Storm over Biology pages 30 to 33.",
+      "doi": "10.1128/MMBR.64.1.1-12.2000",
+      "url": "https://europepmc.org/articles/PMC98983",
+      "type": "primary"
+    },
+    {
+      "text": "Davis, B. D. (1978). The moralistic fallacy. Nature, 272(5652), 390. Closed at the publisher and not obtained. The page, the issue date and the standfirst are read from Nature's article record and from the PubMed record, PMID 11643452.",
+      "doi": "10.1038/272390a0",
+      "url": "https://www.nature.com/articles/272390a0",
+      "type": "primary"
+    },
+    {
+      "text": "Moore, E. C. (1957). The Moralistic Fallacy. The Journal of Philosophy, 54(2), 29-42. Not obtained. The record was verified at Crossref and at the Philosophy Documentation Center. Nothing on this page rests on it beyond the date of the phrase in print.",
+      "doi": "10.2307/2022356",
+      "url": "https://www.pdcnet.org/jphil/content/jphil_1957_0054_0002_0029_0042",
+      "type": "primary"
+    },
+    {
+      "text": "Colombo, M., Bucher, L., & Inbar, Y. (2016). Explanatory judgment, moral offense and value-free science. Review of Philosophy and Psychology, 7(4), 743-763. Read in full as the JATS XML at Europe PMC. Every figure quoted from it above was taken from that text on two separate fetches.",
+      "doi": "10.1007/s13164-015-0282-z",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5114331/",
+      "type": "primary"
+    },
+    {
+      "text": "Stewart-Williams, S., Chang, C. Y. M., Wong, X. L., Blackburn, J. D., & Thomas, A. G. (2021). Reactions to male-favouring versus female-favouring sex differences: A pre-registered experiment and Southeast Asian replication. British Journal of Psychology, 112(2), 389-411. Figures read from the accepted manuscript deposited at OSF, twice.",
+      "doi": "10.1111/bjop.12463",
+      "url": "https://osf.io/nhvsr/download",
+      "type": "replication"
+    },
+    {
+      "text": "Winegard, B. M., Clark, C., Hasty, C. R., & Baumeister, R. F. (2023). Equalitarianism: A source of liberal bias. Journal of Open Inquiry in the Behavioral Sciences, 2(3). Read in full as the journal's PDF. First circulated as a PsyArXiv preprint in 2018.",
+      "doi": "10.58408/issn.2992-9253.2023.01.01.00000008",
+      "url": "https://joibs.org/index.php/joibs/article/view/11",
+      "type": "primary"
+    },
+    {
+      "text": "Ferguson, C. J. (2023). The dangers of bad history as a source of liberal bias: Comment on Winegard et al. (2023). Journal of Open Inquiry in the Behavioral Sciences, 2(3). Read as the published abstract, which endorses the studies it comments on.",
+      "doi": "10.58408/issn.2992-9253.2023.01.01.00000010",
+      "url": "https://joibs.org/index.php/joibs/article/view/12",
+      "type": "commentary"
+    },
+    {
+      "text": "Ditto, P. H., Liu, B. S., Clark, C. J., Wojcik, S. P., Chen, E. E., Grady, R. H., Celniker, J. B., & Zinger, J. F. (2019). At least bias is bipartisan: A meta-analytic comparison of partisan bias in liberals and conservatives. Perspectives on Psychological Science, 14(2), 273-291. Figures read from the author manuscript at OSF, marked in press, on two fetches.",
+      "doi": "10.1177/1745691617746796",
+      "url": "https://osf.io/xyq7b/download",
+      "type": "replication"
+    },
+    {
+      "text": "Baron, J., & Jost, J. T. (2019). False equivalence: Are liberals and conservatives in the United States equally biased? Perspectives on Psychological Science, 14(2), 292-303. Closed at the publisher; the argument is described here from the published abstract.",
+      "doi": "10.1177/1745691618788876",
+      "url": "https://doi.org/10.1177/1745691618788876",
+      "type": "commentary"
+    },
+    {
+      "text": "Guay, B., & Johnston, C. D. (2022). Ideological asymmetries and the determinants of politically motivated reasoning. American Journal of Political Science, 66(2), 285-301. Two attempts to fetch the open-access copy failed at the publisher and at the MIT repository; described here from the published abstract.",
+      "doi": "10.1111/ajps.12624",
+      "url": "https://doi.org/10.1111/ajps.12624",
+      "type": "replication"
+    },
+    {
+      "text": "Liu, B. S., & Ditto, P. H. (2013). What dilemma? Moral evaluation shapes factual belief. Social Psychological and Personality Science, 4(3), 316-323. Closed at the publisher; described here from its abstract, and no number from it is quoted.",
+      "doi": "10.1177/1948550612456045",
+      "url": "https://doi.org/10.1177/1948550612456045",
+      "type": "primary"
+    },
+    {
+      "text": "Clark, C. J., Chen, E. E., & Ditto, P. H. (2015). Moral coherence processes: Constructing culpability and consequences. Current Opinion in Psychology, 6, 123-128. Named as the review that collects this literature; closed at the publisher and not obtained.",
+      "doi": "10.1016/j.copsyc.2015.07.016",
+      "url": "https://doi.org/10.1016/j.copsyc.2015.07.016",
+      "type": "commentary"
+    },
+    {
+      "text": "Brittan, S. (2002). Humanitarianism without illusions. Financial Times, 27 September 2002. Read as the PDF hosted at stevenpinker.com. Cited only as a dated instance of the term travelling with The Blank Slate.",
+      "url": "https://stevenpinker.com/files/pinker/files/financial_times.pdf",
+      "type": "provenance"
+    },
+    {
+      "text": "Moralistic fallacy. English Wikipedia, accessed 17 August 2026. Cited for current popular usage, and as the source of the widely repeated claim that Davis coined the term. It also quotes Pinker from a 2002 UPI interview that was not obtained here.",
+      "url": "https://en.wikipedia.org/wiki/Moralistic_fallacy",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
