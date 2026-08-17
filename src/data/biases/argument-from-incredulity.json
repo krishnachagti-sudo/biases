@@ -1,0 +1,125 @@
+{
+  "no": 490,
+  "slug": "argument-from-incredulity",
+  "name": "Argument from incredulity",
+  "aliases": [
+    "Argument from personal incredulity",
+    "Appeal to personal incredulity",
+    "Divine fallacy"
+  ],
+  "category": "belief",
+  "statement": "The argument from incredulity runs from 'I cannot imagine how P could be true' to 'P is false', and the premise is a report about the arguer.",
+  "meaning": "The move has two directions. An inability to imagine how a claim could be true is offered as reason to think it false, and an inability to imagine how it could be false as reason to think it true. Both are versions of the appeal to ignorance, with the failed search carried out inside one person's head rather than in the world. That puts the weight of the inference on a condition the arguer seldom states. The Internet Encyclopedia of Philosophy sets the condition out for the parent fallacy: reasoning from a failed search is proper only where the attempts at proof were thorough, and where a discoverable proof would exist if the claim were true. An imagination meets neither test well. It samples what one person can picture, and long causal chains are the thing people are worst at picturing, so the inference is weakest exactly where it is reached for.",
+  "origin": {
+    "year": 1986,
+    "who": "Richard Dawkins",
+    "where": "The Blind Watchmaker",
+    "note": "The label appears in chapter 2, 'Good Design', where Dawkins writes that Bishop Hugh Montefiore 'makes heavy use of what may be called the Argument from Personal Incredulity'. He does not claim to have coined it, and he writes that it is 'an extremely weak argument, as Darwin himself noted'. The index of the scanned 1986 edition read for this entry lists the term at page 38. Whether the phrase was in print before 1986 is not settled here, because the two book-wide full-text searches that would settle it were unavailable: Open Library's search inside failed at TLS and HathiTrust returned 403."
+  },
+  "evidence": "The record is textual, and it starts before the name. Darwin put the incredulity in his own mouth in the first edition of the Origin: to suppose that the eye could have been formed by natural selection 'seems, I freely confess, absurd in the highest possible degree'. He then answers it. Given gradations, heritable variation and usefulness at each step, the difficulty of belief is one 'though insuperable by our imagination, can hardly be considered real', and the reader's 'reason ought to conquer his imagination'. Dawkins builds the modern case as a list. He collects a run of phrases from a single chapter of Montefiore, from 'there seems no explanation on Darwinian grounds' through 'I cannot see how' to 'It is difficult to see', and says most modern biologists would have no trouble explaining every one of the Bishop's 35 examples. His handling of one shows what the objection is: he translates the Bishop's puzzlement about white polar bears into a first-person sentence about a man sitting in his study, never having visited the Arctic, educated in classical literature and theology. Where measurement comes closest is in judgements of probability rather than of argument. Tversky and Kahneman's 1974 paper has a section on biases of imaginability. Ten people can form 45 distinct committees of two and 45 of eight; the median estimate was 70 for committees of two and 20 for committees of eight. They write that the risk in an undertaking may be underestimated 'if some possible dangers are either difficult to conceive of, or simply do not come to mind'. Sherman, Cialdini, Schwartzman and Reynolds tested that in 1985 with a disease described as having easy-to-imagine or hard-to-imagine symptoms. Their abstract reports that subjects who found the symptoms hard to imagine judged the disease less likely, and that trying to imagine cognitively inaccessible events reduces likelihood estimates. Only the abstract was obtained and no figure from it is quoted.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment on the inference itself was found. The nearest measured effects concern how likely something feels, not whether an argument from not being able to imagine it is any good.",
+    "detail": "The search covered Crossref by bibliographic and title query on both names of the fallacy, OpenAlex by title and abstract search on 'argument from incredulity', PubMed, and web search pairing the name with terms for experiment, participants and fallacy ratings. The OpenAlex query returned nine records, none of them a test of the argument. Two reference articles were read in full and neither uses the word 'incredulity': Hansen's Stanford Encyclopedia entry on fallacies, and the Internet Encyclopedia of Philosophy's fallacy article, which does carry entries for the appeal to ignorance and for the availability heuristic. Martin Hinton's 2018 survey of arguments from ignorance in Informal Logic, also read in full, uses neither the word nor Dawkins' name. The measured neighbours have records of their own, and they are records of something else. The illusion of explanatory depth runs the other way, being about people who believe they hold an explanation they cannot produce. Sloman and Vives write that its effect on people's sense of understanding 'has been replicated several times', and list the papers; they also write that the extremity effect built on it 'is not so robust'. Crawford and Ruscio ran three preregistered replications of Fernbach and colleagues, with 306, 405 and 343 participants, and report that none of the key effects was statistically significant and only one survived a small-telescopes analysis, while the drop in reported understanding held."
+  },
+  "limits": "Three books that would show how logic's own literature handles this were not obtained. Walton's Arguments from Ignorance, Hamblin's Fallacies and Copi's Introduction to Logic are lending-restricted at the Internet Archive, their text could not be searched, and this page therefore says nothing about what is in them. What appears here about Copi and Walton is at one remove from Hansen's encyclopedia article, which places the appeal to ignorance among Copi's informal fallacies of relevance and among the argumentation schemes Walton classes as paralogisms. Neither of those is a statement about incredulity. Two short treatments published under the fallacy's own name are paywalled and are named rather than used: Bebbington's two pages in Think, and Manninen's chapter in Bad Arguments. Sherman and colleagues were read only through the abstract Crossref holds, so this entry carries no sample size and no effect size for the one experiment closest to the topic. Rozenblit and Keil's twelve studies are described here from their abstract as well. The Dawkins passages were read twice, once in the scanned text of the 1986 edition at the Internet Archive and once in the excerpt of chapter 2 posted on Dawkins' own newsletter, and the wording agrees.",
+  "misreadings": "The name is Dawkins', the observation is not. Darwin stated the incredulity about the eye and answered it in 1859, and Dawkins says as much in the paragraph that names the argument. A second error reads him as dismissing appeals to improbability in general. He separates the serious versions from the naked ones, and writes that measuring the statistical improbability of a suggestion 'is the right way to go about assessing its believability'. His objection to C. E. Raven on cuckoos is that the sum was done wrong, not that sums are out of place. Third, the label is treated as a fixture of the fallacy literature when its home is popular scepticism. The Skeptic's Dictionary files it as the divine fallacy, in the form 'I can't figure this out, so a god must have done it'. The Wikipedia article, read on 17 August 2026 and the most-read page under this name, cites that dictionary, two websites and a critical-thinking textbook, and does not mention Dawkins at all. Fourth, the illusion of explanatory depth is not a measure of this argument. Rozenblit and Keil report that people feel they understand complex phenomena with greater precision, coherence and depth than they do, which is confidence in an explanation somebody lacks rather than an inference drawn from lacking one.",
+  "sources": [
+    {
+      "text": "Dawkins, R. (1986). The Blind Watchmaker. Chapter 2, 'Good Design'. Read from the scanned text of the 1986 edition held in this Internet Archive item, as the file Dawkins,_Richard_-_The_Blind_Watchmaker_djvu.txt. Source for the naming passage, the list of Montefiore's phrases, the 35 examples, the polar bear translation and the index entry at page 38.",
+      "url": "https://archive.org/details/dawkins-richard-the-blind-watchmaker",
+      "type": "primary"
+    },
+    {
+      "text": "Dawkins, R. (2024). Good Design. The Poetry of Reality, 29 February 2024. An excerpt of chapter 2 of The Blind Watchmaker posted on Dawkins' own newsletter, fetched twice and used to confirm the wording taken from the scanned book.",
+      "url": "https://richarddawkins.substack.com/p/good-design",
+      "type": "primary"
+    },
+    {
+      "text": "Darwin, C. (1859). On the Origin of Species by Means of Natural Selection, first edition. Chapter VI, 'Organs of extreme perfection and complication'. Full text read at Project Gutenberg; source for the three quoted phrases about the eye and the imagination.",
+      "url": "https://www.gutenberg.org/files/1228/1228-0.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Read in full. Source for Locke's ad ignorantiam, for Copi's placement of it among informal fallacies of relevance, and for Walton's classification of it as a paralogism. The word 'incredulity' does not occur in the article.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read in full. Source for the conditions under which an appeal to ignorance is proper reasoning. The word 'incredulity' does not occur in the article, which does list the appeal to ignorance and the availability heuristic.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185(4157), 1124-1131. Full text read from a PDF of the article; the committee figures and the quoted sentence were extracted from the document text.",
+      "doi": "10.1126/science.185.4157.1124",
+      "url": "https://pages.ucsd.edu/~mckenzie/TverskyKahneman1974Science.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Sherman, S. J., Cialdini, R. B., Schwartzman, D. F., & Reynolds, K. D. (1985). Imagining Can Heighten or Lower the Perceived Likelihood of Contracting a Disease. Personality and Social Psychology Bulletin, 11(1), 118-127. Paywalled; described here from the abstract deposited at Crossref.",
+      "doi": "10.1177/0146167285111011",
+      "url": "https://doi.org/10.1177/0146167285111011",
+      "type": "primary"
+    },
+    {
+      "text": "Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. Cognitive Science, 26(5), 521-562. Described here from the abstract deposited at Crossref.",
+      "doi": "10.1207/s15516709cog2605_1",
+      "url": "https://doi.org/10.1207/s15516709cog2605_1",
+      "type": "primary"
+    },
+    {
+      "text": "Fernbach, P. M., Rogers, T., Fox, C. R., & Sloman, S. A. (2013). Political Extremism Is Supported by an Illusion of Understanding. Psychological Science, 24(6), 939-946. Named as the study replicated by Crawford and Ruscio; not obtained.",
+      "doi": "10.1177/0956797612464058",
+      "url": "https://doi.org/10.1177/0956797612464058",
+      "type": "primary"
+    },
+    {
+      "text": "Crawford, J. T., & Ruscio, J. (2021). Asking People to Explain Complex Policies Does Not Increase Political Moderation: Three Preregistered Failures to Closely Replicate Fernbach, Rogers, Fox, and Sloman's (2013) Findings. Psychological Science, 32(4), 611-621. Sample sizes and results read from the abstract at PubMed.",
+      "doi": "10.1177/0956797620972367",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33667138/",
+      "type": "replication"
+    },
+    {
+      "text": "Sloman, S. A., & Vives, M.-L. (2022). Is political extremism supported by an illusion of understanding? Cognition, 225, 105146. Full text read from a PDF; source for the quoted judgements about which parts of the explanation effect have replicated.",
+      "doi": "10.1016/j.cognition.2022.105146",
+      "url": "https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/2022-sloman.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Hinton, M. (2018). On arguments from ignorance. Informal Logic, 38(2), 184-212. Full text read. Cited here for what it does not contain: the survey uses neither the word 'incredulity' nor Dawkins' name.",
+      "doi": "10.22329/il.v38i2.4697",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/4697",
+      "type": "commentary"
+    },
+    {
+      "text": "Bebbington, D. (2011). Argument from personal incredulity. Think, 10(28), 27-28. Paywalled and not obtained; the Crossref record and its short abstract were read. Named as one of the few pieces published under this heading.",
+      "doi": "10.1017/s1477175611000030",
+      "url": "https://doi.org/10.1017/s1477175611000030",
+      "type": "commentary"
+    },
+    {
+      "text": "Manninen, T. W. (2018). Appeal to Personal Incredulity. In Bad Arguments, 115-117. Wiley. Paywalled and not obtained; named as a reference-work treatment under the fallacy's own name.",
+      "doi": "10.1002/9781119165811.ch17",
+      "url": "https://doi.org/10.1002/9781119165811.ch17",
+      "type": "commentary"
+    },
+    {
+      "text": "Walton, D. (1999). The Appeal to Ignorance, or Argumentum Ad Ignorantiam. Argumentation, 13(4), 367-377. Not obtained; the record was verified at Crossref. Named as the standard treatment of the parent argument, and no claim on this page rests on it.",
+      "doi": "10.1023/a:1007780012323",
+      "url": "https://doi.org/10.1023/a:1007780012323",
+      "type": "primary"
+    },
+    {
+      "text": "Carroll, R. T. divine fallacy (argument from incredulity). The Skeptic's Dictionary. Read in full; source for the alias and for the quoted form of the argument.",
+      "url": "https://skepdic.com/dvinefal.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Argument from incredulity. Wikipedia. Source text read on 17 August 2026 for what the article cites and what it says.",
+      "url": "https://en.wikipedia.org/wiki/Argument_from_incredulity",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
