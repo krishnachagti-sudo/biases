@@ -1,0 +1,102 @@
+{
+  "no": 538,
+  "slug": "false-attribution",
+  "name": "False attribution",
+  "aliases": [
+    "Appeal to an unqualified source",
+    "Quotation error",
+    "Fabricated citation"
+  ],
+  "category": "belief",
+  "statement": "False attribution backs a claim with a source that is irrelevant, unqualified, biased or invented, and audits of medical papers find one quotation in six unsupported.",
+  "meaning": "Two things travel under this name and only one of them has been counted. In fallacy lists false attribution is the move of supporting a claim by appeal to a source that is irrelevant, unqualified, unidentified, biased or fabricated. Put that way it is a charge about one argument, settled by opening the source. The empirical version narrows it to a question a checker can answer: does the cited work say what the citing author says it says. Researchers in medicine call a failure here a quotation error, and they keep it apart from a citation error, which is a wrong page number or a misspelt name. The distinction runs through the whole literature, because a reference can be typed perfectly and still fail to support the sentence it is attached to. Nothing on this page concerns attribution in the social psychologist's sense, where the question is what cause a person assigns to a behaviour. That sense belongs to this site's entries on attribution bias, the fundamental attribution error, and the misattribution of arousal and of memory, and shares only the word.",
+  "origin": {
+    "year": 1985,
+    "who": "G. de Lacey, C. Record and J. Wade",
+    "where": "British Medical Journal",
+    "note": "Their paper is \"How accurate are quotations and references in medical journals?\", and Jergas and Baethge call it probably the first study on the subject. Its abstract reports that the original author was misquoted in 15% of all references from six medical journals published in January 1984, and that most of those errors would have misled readers. Errors in citation, meaning bibliographic detail rather than content, occurred in 24%, of which 8% prevented immediate identification of the source. The name \"false attribution\" is not theirs. It comes from fallacy lists rather than from a paper, and no coinage for it could be traced at Crossref or in the searches run for this entry."
+  },
+  "evidence": "The design is the same everywhere it is used. Take a sample of references from published articles, read the cited work, and judge whether it supports the statement it was attached to. Errors are graded, with a major error meaning the source contradicts, fails to substantiate, or is irrelevant to the claim, and a minor error meaning an inaccuracy that misleads without destroying the meaning. Jergas and Baethge pooled 28 such studies covering 7,321 references and published between 1985 and 2013. Their random-effects estimate was 25.4% of references carrying a quotation error, 95% CI 19.5 to 32.4, with major errors at 11.9%, CI 8.4 to 16.6. The studies themselves ranged from 6.7% to 83.0%, median 22.5%. Mogull reworked 15 of the same studies with quotations rather than references as the denominator and arrived at 14.5%, CI 10.5 to 18.6, of which 64.8% were major. The counts hold outside medicine. Smith and Cumberledge examined 250 random citations in high-impact general science journals and report a total error rate of 25%. Cumberledge, Smith and Riley did the same in five leading history journals and report 24.27%. A second design tracks one paper instead of a sample. Porrino, Tan and Daluiski reviewed 154 articles citing Knirk and Jupiter's 1986 study of distal radius fractures, and 63 of them contained at least one inaccurate reference to it. Citations of the classification system and tables were mostly accurate, 59 of 63, while 43 of the 57 articles addressing the value of 2 mm of articular incongruity got it wrong. The fabricated end of the definition has been measured separately, on language models. Walters and Wilder had GPT-3.5 and GPT-4 write 42 short literature reviews each and checked all 636 citations in the 84 papers against Google Scholar, Scopus, PubMed, WorldCat, publishers' sites and other sources. 55% of the GPT-3.5 citations and 18% of the GPT-4 citations were fabricated, and among citations to works that do exist, 43% of GPT-3.5's and 24% of GPT-4's carried substantive errors. Chelli and colleagues asked three models to reproduce the reference lists of 11 systematic reviews, analysed 471 references, and counted a paper as hallucinated when any two of title, first author and year were wrong: 39.6% for GPT-3.5, 28.6% for GPT-4 and 91.4% for Bard. Linardon and colleagues prompted GPT-4o in June 2025 for six literature reviews on three mental health disorders, extracted 176 citations and verified each one. 35, or 19.9%, were fabricated, and 64 of the 141 real citations, 45.4%, contained errors, most often an incorrect or invalid DOI. Fabrication tracked how well covered the disorder was, at 4 of 68 for major depressive disorder against 17 of 60 for binge eating disorder and 14 of 48 for body dysmorphic disorder.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The audit has been run 46 times in medicine on 32,074 quotations, and the pooled rate is 16.9%, with no change over forty years.",
+    "detail": "Baethge and Jergas repeated their own 2015 review in 2025, adding 18 studies to the 28 they already had. Across 46 studies and 32,074 quotations, published between 1985 and 2024, from 14 countries and 22 medical fields, 16.9% of quotations were incorrect, 95% CI 14.1 to 20.0. Major errors ran at 8.0%, CI 6.4 to 10.0, minor at 7.8%, CI 5.7 to 10.5, and secondary quotations, where authors cite a review in place of the work it describes, at 5.3%. The gap between 16.9% and the 25.4% of 2015 is a change of denominator rather than a change of finding. The later analysis counts quotations, imputing the number where a study reported only references, and the authors recalculated the original 28 studies under the new method to get 17.0%, CI 13.0 to 21.9. Studies with an imputed denominator gave lower rates than those without, 12.7% against 21.5%, p = 0.003, which is why they call the figure conservative. Nothing has moved over time. Meta-regression on the observation period gives a slope of -0.002, CI -0.03 to 0.02, p = 0.85, and the same flat result for major, minor and secondary errors. Egger's test stayed negative at every level, and trim and fill added only studies with higher rates, raising total errors to 18.7%. Seven studies reporting rater agreement average a kappa of 0.73. Journal prestige buys little: total error rate correlated with impact factor at Spearman's rho -0.253, p = 0.043, which the authors say explains 7.5% of the variance.",
+    "study": {
+      "cite": "Baethge, C., & Jergas, H. (2025). Systematic review and meta-analysis of quotation inaccuracy in medicine. Research Integrity and Peer Review, 10, 13.",
+      "doi": "10.1186/s41073-025-00173-z",
+      "year": 2025,
+      "n": 32074
+    },
+    "indexedBy": "Europe PMC"
+  },
+  "limits": "The pooled figures sit on top of enormous variation. Heterogeneity is 98% for total errors, and the 2025 prediction interval runs from 5% to 46%, so the authors advise against relying on the point estimates and offer the confidence intervals as the useful part. The evidence is also lopsided by field. Medicine has been audited 46 times, general science once, history once, and the two non-medical results were read from their published abstracts because both articles are closed. Most included studies looked at quotations inside original research articles, leaving reviews, editorials and grey literature largely unexamined. The empirical work covers one clause of the fallacy's definition, that a source fails to support the claim, and one more through the language model studies, that the source does not exist. No measurement was located for the irrelevant, unqualified or biased clauses as such, and this site's entry on the argument from authority carries what is known about deference to a source's standing. What the errors do to readers is barely studied. Baethge and Jergas write that there is little firm evidence on the consequences of quotation inaccuracy, and cite a 2020 paper of Baethge's grading 21% of wrong quotations as of high and 74% of intermediate importance to the message of the citing paper. That grading is quoted here from the 2025 review's description of it and not from the 2020 paper, which was not obtained. The Cabezas-Clavijo and Sidorenko-Bautista study of eight chatbots, which found 26.5% of 400 references fully correct and 39.8% erroneous or fabricated, is a preprint and says on its face that it has not been peer reviewed. Searches for research on famous misattributed quotations, and on whether a misattribution outlives its correction, ran through Europe PMC title searches for misattributed quotations, misquotation and quotation misattribution, through Crossref and through open-web search. They returned single-case letters in medical journals and no measurement of the phenomenon at large.",
+  "misreadings": "The first error is the word. This is attribution in the sense of crediting a claim to a source, not attribution in the sense social psychology gives it, where the question is whether a behaviour gets blamed on the person or the situation. Readers arriving from the fundamental attribution error or from hostile attribution bias are in the wrong entry. The second is treating a quotation error as a bad citation. De Lacey and colleagues counted both in the same sample and got different numbers, 15% misquoted against 24% with citation errors, because a reference can be typed correctly and still fail to support the sentence. Third, a quotation error does not make the claim false. Baethge and Jergas say plainly that a paper or a claim is not automatically invalidated when its quotations turn out to be wrong, and that many errors arrive without ill intent, through revision, time pressure or misreading. Fourth, the model fabrication rates are not one number. They ran from 18% to 55% between two versions of the same system in Walters and Wilder, and from 6% to 29% across three disorders in a single study, so a rate quoted without its model, prompt and topic says little. Fifth, false attribution is not quoting out of context, where the words are accurate and the meaning is not, and it is not the woozle effect, where a citation chain carries a claim further than its source ever supported. Both have their own entries here.",
+  "sources": [
+    {
+      "text": "de Lacey, G., Record, C., & Wade, J. (1985). How accurate are quotations and references in medical journals? British Medical Journal, 291(6499), 884-886. The abstract was read at Europe PMC and is the source for the 15% and 24% figures; the full text was not obtained.",
+      "doi": "10.1136/bmj.291.6499.884",
+      "url": "https://europepmc.org/article/MED/3931753",
+      "type": "primary"
+    },
+    {
+      "text": "Jergas, H., & Baethge, C. (2015). Quotation accuracy in medical journal articles: a systematic review and meta-analysis. PeerJ, 3, e1364. Read in full from the JATS XML at Europe PMC.",
+      "doi": "10.7717/peerj.1364",
+      "url": "https://doi.org/10.7717/peerj.1364",
+      "type": "primary"
+    },
+    {
+      "text": "Baethge, C., & Jergas, H. (2025). Systematic review and meta-analysis of quotation inaccuracy in medicine. Research Integrity and Peer Review, 10, 13. Read in full from the JATS XML at Europe PMC; the source for every figure in the replication field above.",
+      "doi": "10.1186/s41073-025-00173-z",
+      "url": "https://doi.org/10.1186/s41073-025-00173-z",
+      "type": "replication"
+    },
+    {
+      "text": "Mogull, S. A. (2017). Accuracy of cited \"facts\" in medical research articles: A review of study methodology and recalculation of quotation error rate. PLoS ONE, 12(9), e0184727. Read in full from the JATS XML at Europe PMC.",
+      "doi": "10.1371/journal.pone.0184727",
+      "url": "https://doi.org/10.1371/journal.pone.0184727",
+      "type": "replication"
+    },
+    {
+      "text": "Smith, N., & Cumberledge, A. (2020). Quotation errors in general science journals. Proceedings of the Royal Society A, 476(2242), 20200538. Closed at the publisher on this pass; the 250 citations and the 25% error rate were read from the abstract at Crossref.",
+      "doi": "10.1098/rspa.2020.0538",
+      "url": "https://doi.org/10.1098/rspa.2020.0538",
+      "type": "replication"
+    },
+    {
+      "text": "Cumberledge, A., Smith, N., & Riley, A. (2023). Unverified history: an analysis of quotation accuracy in leading history journals. Scientometrics, 128(8), 4677-4687. Closed at Springer; the 24.27% figure was read from the published abstract.",
+      "doi": "10.1007/s11192-023-04755-w",
+      "url": "https://doi.org/10.1007/s11192-023-04755-w",
+      "type": "replication"
+    },
+    {
+      "text": "Porrino, J. A., Tan, V., & Daluiski, A. (2008). Misquotation of a commonly referenced hand surgery study. The Journal of Hand Surgery, 33(1), 2.e1-2.e9. The abstract was read at Europe PMC and is the source for the 154 articles and the 63 with an inaccurate reference.",
+      "doi": "10.1016/j.jhsa.2007.10.007",
+      "url": "https://doi.org/10.1016/j.jhsa.2007.10.007",
+      "type": "primary"
+    },
+    {
+      "text": "Walters, W. H., & Wilder, E. I. (2023). Fabrication and errors in the bibliographic citations generated by ChatGPT. Scientific Reports, 13, 14045. Read in full at the publisher.",
+      "doi": "10.1038/s41598-023-41032-5",
+      "url": "https://doi.org/10.1038/s41598-023-41032-5",
+      "type": "primary"
+    },
+    {
+      "text": "Chelli, M., Descamps, J., Lavoué, V., Trojani, C., Azar, M., Deckert, M., Raynier, J.-L., Clowez, G., Boileau, P., & Ruetsch-Chelli, C. (2024). Hallucination rates and reference accuracy of ChatGPT and Bard for systematic reviews: comparative analysis. Journal of Medical Internet Research, 26, e53164. Read in full from the JATS XML at Europe PMC.",
+      "doi": "10.2196/53164",
+      "url": "https://doi.org/10.2196/53164",
+      "type": "primary"
+    },
+    {
+      "text": "Linardon, J., Jarman, H. K., McClure, Z., Anderson, C., Liu, C., & Messer, M. (2025). Influence of topic familiarity and prompt specificity on citation fabrication in mental health research using large language models: experimental study. JMIR Mental Health, 12, e80371. Read in full from the JATS XML at Europe PMC.",
+      "doi": "10.2196/80371",
+      "url": "https://doi.org/10.2196/80371",
+      "type": "primary"
+    },
+    {
+      "text": "Cabezas-Clavijo, A., & Sidorenko-Bautista, P. (2025). Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate. arXiv:2505.18059. A preprint that states it has not undergone peer review; read in full as a PDF.",
+      "url": "https://arxiv.org/abs/2505.18059",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
