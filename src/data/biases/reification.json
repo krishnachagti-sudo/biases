@@ -1,0 +1,126 @@
+{
+  "no": 440,
+  "slug": "reification",
+  "name": "Reification",
+  "aliases": [
+    "Reification fallacy",
+    "Hypostatisation",
+    "Concretism",
+    "Fallacy of misplaced concreteness"
+  ],
+  "category": "belief",
+  "statement": "Reification is treating an abstraction as a concrete thing, and in its fallacy form an argument rests on the abstraction having properties nobody has shown it to have.",
+  "meaning": "The word carries three separate loads, and blending them is the commonest error about it. Merriam-Webster dates reification in English to 1846 and reify to 1854, so none of the three uses below coined it. Georg Lukács used it in 1923 for a social condition rather than a reasoning error. A relation between people takes on the character of a thing and acquires what his English text calls a 'phantom objectivity', an autonomy that conceals the relation underneath. Peter Berger and Thomas Luckmann carried it into the sociology of knowledge in 1966, as the apprehension of human phenomena as if they were things, in non-human or possibly supra-human terms. The third use names an argument form. Alfred North Whitehead described that form in 1925 without this word, calling it the fallacy of misplaced concreteness and glossing it as 'the accidental error of mistaking the abstract for the concrete'. Stephen Jay Gould attached the word to it in 1981, defining reification as 'our tendency to convert abstract concepts into entities', from the Latin res, or thing. This page is about the third. Naming something does not reify it and neither does measuring it, because a name and a statistic are abstractions doing their job. The move turns fallacious at the point where an argument starts drawing on properties the abstraction was never shown to have, such as a location, a single scale or a causal power. Gould set that test himself, writing that a factor cannot be reified as a thing 'unless we have convincing, independent information beyond the fact of correlation itself'.",
+  "origin": {
+    "year": 1981,
+    "who": "Stephen Jay Gould",
+    "where": "The Mismeasure of Man, W. W. Norton",
+    "note": "Chapter 6, 'The Real Error of Cyril Burt: Factor Analysis and the Reification of Intelligence', is what moved the word from social theory onto lists of reasoning errors. It is not the earliest use of the idea. Lukács wrote 'Reification and the Consciousness of the Proletariat' in 1923, Whitehead named the fallacy of misplaced concreteness in 1925, and John P. Foley published a three-page note titled 'The Fallacy of Hypostatization' in the Journal of General Psychology in 1937. The text read for this entry is the revised and expanded edition of 1996, ISBN 0393314251, which reprints the 1981 argument and adds a critique of The Bell Curve."
+  },
+  "evidence": "The argument that carries the term in science is Gould's, and it is an argument rather than an experiment. Charles Spearman invented factor analysis in 1904 as a device for inferring causes from correlation matrices of mental tests. Because most of those correlations are positive, Gould writes, the method must yield a reasonably strong first principal component, and Spearman 'reified it as an \"entity\" and tried to give it an unambiguous causal interpretation', calling it g. Gould's objection has three moving parts. The first is that the correlations are unsurprising, since almost every competing theory of their cause predicts them, and both a purely hereditarian and a purely environmentalist reading of g are consistent with the same matrix. The second is rotation. Principal components are one way among many of positioning axes in a set of vectors, and a rotated solution can resolve the same information with no general factor visible. Gould asks how g 'has any claim to reified status as an entity' when it is one placement among several. The third is that the dispute cannot be settled inside the mathematics, and he states that no concrete tie 'has even been confirmed between any neurological object and a factor axis'. Gould puts g's own resolving power at 50 to 60 percent of the information in the matrix at best. He applies the same charge to Burt and to L. L. Thurstone, quoting Burt in 1961 arguing with Spearman not over whether factors should be reified but over how, and calling factor analysis a fine descriptive tool that he does not expect to uncover the vectors of mind. Empirical work on people reifying is thin and recent. Maor Levitin, Oded Hirsh, Inon Raz and Michael Gilead posted a preprint in April 2026 on whether people treat socially constructed facts as mind-independent. It reports nine studies with 4,892 participants, using scale development, framing manipulations and a mapping of 200 social facts. Their abstract states that participants reliably distinguished social from natural facts, and that mind-dependence judgements formed a construct separable from essentialism. Institutionalised arrangements appeared less mind-dependent, intentional explanations raised perceived mind-dependence, and these attributions predicted expectations of economic volatility and moral responsibility. The paper is under review and has not been peer reviewed. A separate measured use of the word sits in the essentialism literature. Nick Haslam, Louis Rothschild and Donald Ernst had 40 social categories rated on nine elements of essentialism. They report two independent dimensions rather than one: naturalness, and a second they label entitativity or reification. Reification was negatively associated with a category's evaluative standing.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No replication was found because no experiment on the argument form was found. The nearest measurement is a 2026 preprint on perceiving social facts as mind-independent, nine studies and 4,892 participants, not yet peer reviewed."
+  },
+  "limits": "Gould's application is disputed by name and the dispute is live. John B. Carroll published a retrospective review in Intelligence in 1995. Its ERIC abstract, read at the ERIC API, says the statements and accusations Gould made about the use of factor analysis are incorrect and unjustified, and that properly designed tests can adequately measure a general factor. The article is closed at Elsevier and Unpaywall lists no copy, so nothing beyond that abstract is quoted here. Arthur Jensen's 1982 reply in Contemporary Education Review is cited widely, and two Crossref bibliographic searches for it returned no matching record, so it is not cited on this page. Alternative accounts of the same correlations exist without a general factor. Han van der Maas and colleagues published a dynamical model in Psychological Review in 2006 in which the positive manifold emerges from beneficial interactions between cognitive processes, with no g factor. Naming that model does not settle the question, and this page takes no position on what g is. The charge is also cheap to make. Because any latent variable can be called an abstraction, reification can be levelled at any factor model, and Gould's own formulation gives the test that stops it: independent information beyond the correlation. No study measuring susceptibility to the fallacy was located. The search covered Europe PMC three ways: reification in titles, which returned 73 records and no experiment on the reasoning error; reification with fallacy or bias alongside experiment or participants; and misplaced concreteness. It also covered Crossref for reification and hypostatisation as fallacies, and Wikipedia's two list articles. Reification appears in the List of fallacies, with concretism, hypostatization and the fallacy of misplaced concreteness given as alternative names, and does not appear in the List of cognitive biases. Semantic Scholar and OpenAlex refused the queries with rate-limit errors and were not searched. S. Morris Engel's 1995 paper 'What is the Fallacy of Hypostatization?' and Foley's 1937 note are both closed, verified at Crossref at bibliographic level only. The Berger and Luckmann definition is quoted from a compilation of passages that cites page 89 of the 1966 Doubleday edition; the book itself was not obtained. The Mismeasure of Man was read as two independent scanned copies circulated online, and every phrase quoted here was checked in both.",
+  "misreadings": "The Morton affair is treated as though it settled Gould's reification argument, and it concerns a different chapter. Gould argued in Science in 1978, and again in the book, that Samuel George Morton's 19th-century skull measurements were skewed by unconscious racial bias. In 2011 Jason Lewis, David DeGusta, Marc Meyer, Janet Monge, Alan Mann and Ralph Holloway published a remeasurement of 308 of the 670 skulls Morton had published. They found 7 differing significantly from their own, and concluded that Morton did not manipulate data to support his preconceptions, contra Gould. Michael Weisberg and Diane Paul replied in the same journal in 2016. Gould's argument turned on the gap between Morton's 1839 seed measurements and his 1844 shot measurements, they wrote, and Gould had accepted the shot measurements as accurate and relied on them, so a remeasurement cannot adjudicate the charge. The 2011 authors declined to respond. In 2018 Paul Wolff Mitchell reported Morton's recovered manuscript measurements and concluded that they do not support Gould's argument about biased data collection, while arguing that Morton's race science was biased even if his data were not. All of that is about craniometry. Gould's reification argument is about factor analysis, and neither side of the skull dispute tested it. The second error is treating any act of naming as reification. Gould's charge is not that the word intelligence was coined; it is that a first principal component was given a location, a scale and a causal role on the strength of the correlations alone. The third is importing Lukács. His reification is a diagnosis of commodity society, not a mistake an individual makes in an argument, and quoting him in support of a claim about reasoning smuggles a social theory in as a bias. The fourth is the Gestalt sense, which runs the other way. Steven Lehar's 2003 target article uses reification for the constructive side of perception, where the Kanizsa figure produces visual edges in places with no edges in the input, so the percept holds more than the stimulus rather than less. The last is confusing this page with surrogation, which has experiments and this does not. Surrogation is the narrow, measured claim that people paid on a measure of a goal come to treat the measure as the goal; reification here is a charge about the structure of an argument. Psychological essentialism owns the neighbouring measured ground, and Haslam and colleagues' reification dimension belongs to that literature rather than to this one.",
+  "sources": [
+    {
+      "text": "Gould, S. J. (1996). The Mismeasure of Man, revised and expanded edition. New York: W. W. Norton (first published 1981). Source for Gould's definition of reification, for the account of Spearman's g, for the rotation argument, for the 50 to 60 percent figure and for the Burt quotation. Read as two independent scanned copies circulated online; the record linked here is the Internet Archive's catalogue entry for the book.",
+      "url": "https://archive.org/details/mismeasureofman0000goul_g4a0",
+      "type": "primary"
+    },
+    {
+      "text": "Gould, S. J. (1978). Morton's Ranking of Races by Cranial Capacity. Science, 200(4341), 503-509. The paper that made the Morton case before the book did. Bibliographic record verified at Crossref; the article was not obtained.",
+      "doi": "10.1126/science.347573",
+      "url": "https://doi.org/10.1126/science.347573",
+      "type": "primary"
+    },
+    {
+      "text": "Whitehead, A. N. (1925). Science and the Modern World. New York: The Macmillan Company. Source for the fallacy of misplaced concreteness and for 'the accidental error of mistaking the abstract for the concrete'. Full text read at Project Gutenberg.",
+      "url": "https://www.gutenberg.org/ebooks/68611",
+      "type": "primary"
+    },
+    {
+      "text": "Lukács, G. Reification and the Consciousness of the Proletariat, in History and Class Consciousness. Written 1923; the transcription read here cites Merlin Press, 1967. Source for the phantom objectivity passage and for the Marxist sense of the term.",
+      "url": "https://www.marxists.org/archive/lukacs/works/history/hcc05.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Berger, P. L., & Luckmann, T. (1966). The Social Construction of Reality: A Treatise in the Sociology of Knowledge. Garden City, NY: Doubleday. Quoted from a compilation of passages published by the Library of Social Science, which attributes the definition to page 89. The book itself was not obtained.",
+      "url": "https://www.libraryofsocialscience.com/assets/pdf/berger-social_construction.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Levitin, M., Hirsh, O., Raz, I., & Gilead, M. (2026). The Psychology of Reification: Perceiving Social Reality as Mind-Independent. Research Square preprint, posted 9 April 2026, under review. Source for the nine studies and the 4,892 participants. Abstract read at Europe PMC and again on the Research Square article page; the full text was not obtained.",
+      "doi": "10.21203/rs.3.rs-9115023/v1",
+      "url": "https://doi.org/10.21203/rs.3.rs-9115023/v1",
+      "type": "primary"
+    },
+    {
+      "text": "Haslam, N., Rothschild, L., & Ernst, D. (2000). Essentialist beliefs about social categories. British Journal of Social Psychology, 39(1), 113-127. Source for the 40 categories, the nine elements and the reification dimension. Abstract read at Europe PMC.",
+      "doi": "10.1348/014466600164363",
+      "url": "https://europepmc.org/article/MED/10774531",
+      "type": "primary"
+    },
+    {
+      "text": "Lewis, J. E., DeGusta, D., Meyer, M. R., Monge, J. M., Mann, A. E., & Holloway, R. L. (2011). The Mismeasure of Science: Stephen Jay Gould versus Samuel George Morton on Skulls and Bias. PLoS Biology, 9(6), e1001071. Source for the 308 of 670 skulls and the 7 discrepancies. Full text read from the publisher's XML.",
+      "doi": "10.1371/journal.pbio.1001071",
+      "url": "https://doi.org/10.1371/journal.pbio.1001071",
+      "type": "critique"
+    },
+    {
+      "text": "Weisberg, M., & Paul, D. B. (2016). Morton, Gould, and Bias: A Comment on 'The Mismeasure of Science'. PLOS Biology, 14(4), e1002444. Source for the reply and for the editor's note recording that the 2011 authors declined to respond. Full text read from the publisher's XML.",
+      "doi": "10.1371/journal.pbio.1002444",
+      "url": "https://doi.org/10.1371/journal.pbio.1002444",
+      "type": "critique"
+    },
+    {
+      "text": "Mitchell, P. W. (2018). The fault in his seeds: Lost notes to the case of bias in Samuel George Morton's cranial race science. PLOS Biology, 16(10), e2007008. Source for the recovered measurements and for the conclusion about biased data against biased science. Abstract and opening sections read from the publisher's XML.",
+      "doi": "10.1371/journal.pbio.2007008",
+      "url": "https://doi.org/10.1371/journal.pbio.2007008",
+      "type": "critique"
+    },
+    {
+      "text": "Carroll, J. B. (1995). Reflections on Stephen Jay Gould's The Mismeasure of Man (1981): A retrospective review. Intelligence, 21(2), 121-134. Closed at Elsevier and listed as closed by Unpaywall. Quoted from the ERIC abstract, record EJ522392, read through the ERIC API.",
+      "doi": "10.1016/0160-2896(95)90022-5",
+      "url": "https://doi.org/10.1016/0160-2896(95)90022-5",
+      "type": "critique"
+    },
+    {
+      "text": "van der Maas, H. L. J., Dolan, C. V., Grasman, R. P. P. P., Wicherts, J. M., Huizenga, H. M., & Raijmakers, M. E. J. (2006). A dynamical model of general intelligence: the positive manifold of intelligence by mutualism. Psychological Review, 113(4), 842-861. Cited for the existence of a model of the same correlations in which no g factor plays a role. Abstract read at Europe PMC.",
+      "doi": "10.1037/0033-295x.113.4.842",
+      "url": "https://doi.org/10.1037/0033-295x.113.4.842",
+      "type": "commentary"
+    },
+    {
+      "text": "Lehar, S. (2003). Gestalt isomorphism and the primacy of subjective conscious experience: A Gestalt Bubble model. Behavioral and Brain Sciences, 26(4), 375-408. Source for the Gestalt sense of reification and for the Kanizsa figure description. Full text read as a PDF hosted at Dartmouth.",
+      "doi": "10.1017/S0140525X03000098",
+      "url": "https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/9/2172/files/2020/01/15.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Foley, J. P. (1937). The Fallacy of Hypostatization. The Journal of General Psychology, 16(2), 491-493. Named as an early use of the fallacy label in a psychology journal. Verified at Crossref at bibliographic level only; closed at the publisher and not obtained.",
+      "doi": "10.1080/00221309.1937.9917966",
+      "url": "https://doi.org/10.1080/00221309.1937.9917966",
+      "type": "commentary"
+    },
+    {
+      "text": "Engel, S. M. (1995). What is the Fallacy of Hypostatization? Inquiry: Critical Thinking Across the Disciplines, 14(4), 42-51. Named as the critical-thinking literature's treatment of the same move. Verified at Crossref; the Philosophy Documentation Center page carries no abstract and the article was not obtained.",
+      "doi": "10.5840/inquiryctnews19951447",
+      "url": "https://doi.org/10.5840/inquiryctnews19951447",
+      "type": "commentary"
+    },
+    {
+      "text": "Merriam-Webster, entries for reify and reification, read 17 August 2026. Source for the first known use dates of 1854 and 1846.",
+      "url": "https://www.merriam-webster.com/dictionary/reification",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, List of fallacies and List of cognitive biases, wikitext read 17 August 2026. Used to establish that reification is listed among fallacies, with concretism and hypostatization as alternative names, and not among cognitive biases. Used to find sources, not as evidence for anything on this page.",
+      "url": "https://en.wikipedia.org/wiki/List_of_fallacies",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
