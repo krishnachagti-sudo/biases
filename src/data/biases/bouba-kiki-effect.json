@@ -1,0 +1,82 @@
+{
+  "no": 481,
+  "slug": "bouba-kiki-effect",
+  "name": "Bouba-kiki effect",
+  "aliases": [
+    "Maluma-takete effect",
+    "Takete-maluma phenomenon",
+    "Kiki-bouba effect"
+  ],
+  "category": "perception",
+  "statement": "People match the nonword bouba to a rounded shape and kiki to a spiky one at rates well above chance, in most languages tested but not all.",
+  "meaning": "The claim is that the pairing of a sound with a shape is not free. If word forms were wholly arbitrary, a nonword should be as good a name for one shape as for another, and the finding is that it is not. Bouba and kiki differ on voicing, vowel rounding, place of articulation, duration and the abruptness of their amplitude envelopes, and each of those has been proposed as the feature carrying the correspondence. The result is used in two arguments. One is that iconicity survives in modern vocabularies rather than being confined to onomatopoeia. The other, made by Ramachandran and Hubbard, is that such mappings constrained how the first spoken words could have been attached to things. Both arguments need the effect to be a fact about speech sounds. If it is instead a fact about the shapes of the letters, neither goes through.",
+  "origin": {
+    "year": 1929,
+    "who": "Wolfgang Köhler",
+    "where": "Gestalt Psychology (New York: Horace Liveright)",
+    "note": "The names in the modern retelling are not Köhler's. On page 242 of the 1929 first edition, read directly for this entry, he shows two figures and asks which the reader would rather call 'takete' or 'maluma', adding that the reader 'will probably be able to decide with ease'. No participants, counts or statistics accompany it. Bouba and kiki arrive 72 years later, in Ramachandran and Hubbard's 2001 paper, which is where the effect got its usual name."
+  },
+  "evidence": "The founding text carries no data, and the popular revival carries almost none. Ramachandran and Hubbard asked people which of two figures was a 'bouba' and which a 'kiki' in Martian, and reported that 95% picked the same way. Their paper gives no sample size and no procedure for that figure. Their footnote also misdates the stimulus names, saying Köhler called them 'takete' and 'baluma' in 1929 and renamed the second to 'maluma' in 1947, where the 1929 text already reads 'maluma'. Ćwiek and colleagues repeat the same slip in a third form, giving 1929 as 'baluba'. Usable numbers start with Styles and Gawne's meta-analysis. Pooling 13 published datasets, about 558 adults, in which participants heard a pseudoword and chose between a curvy and a spiky shape, they put the congruent response rate at 89%, 95% CI 84 to 94, for pseudowords that are phonologically legal in the participants' language. That figure is the honest baseline for the classic experiment, and it is measured on English, French and Italian speakers.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The largest test, 917 speakers of 25 languages, found 72% congruent matching, and 17 of the 25 languages were reliably above chance rather than all of them.",
+    "detail": "Ćwiek and colleagues ran an online experiment with speakers of 25 languages from nine language families using 10 writing systems. 976 people took part and 917 remained after exclusions. Shapes were shown one at a time rather than side by side, and a participant counted as matching only if both the bouba trial and the kiki trial came out congruent, so chance sits at 50% rather than 25%. The estimated posterior mean proportion of matches was 72%, with a 95% credible interval of 56% to 82%. Descriptive rates by language ran from 100% for Swedish to 36% for Romanian. Using the per-language credible intervals as a cutoff, 17 of 25 languages were reliably above 50%. Three languages, Romanian, Mandarin Chinese and Turkish, sat below 50% descriptively, with credible intervals covering chance. The two halves of the effect are not the same size: bouba was reliably matched to the round shape in 22 of 25 languages, kiki to the spiky shape in only 11 of 25. Two populations have failed the task outright. Styles and Gawne tested 24 Syuba speakers in the Nepali Himalaya with 'bubu' and 'kiki' as physical felt-covered objects, and got 11 congruent choices against 13 incongruent. Rogers and Ross had earlier found 9 against 11 among 20 Songe speakers of Hunjara in Papua New Guinea. Styles and Gawne read both as consequences of the test words breaking the phonology of the language rather than as evidence against the effect. The Himba of northern Namibia, who use no written language, did show the shape-sound match, which is the case most often cited against an orthographic explanation.",
+    "study": {
+      "cite": "Ćwiek, A., Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., et al. (2022). The bouba/kiki effect is robust across cultures and writing systems. Philosophical Transactions of the Royal Society B, 377(1841), 20200390.",
+      "doi": "10.1098/rstb.2020.0390",
+      "year": 2022,
+      "n": 917
+    }
+  },
+  "limits": "Orthography is a live explanation, not a settled one. Cuskley, Simner and Kirby built eight nonwords crossing letter curvature against consonant voicing, so that the two could be told apart. With 41 people rating written words against shapes, letter curvature drove the ratings and voicing did nothing, and the shape by orthography interaction took ηp² = 0.509. With 36 people rating spoken words they had heard, both mattered, and orthography still carried more variance, ηp² = 0.167 against 0.054 for voicing. Ćwiek and colleagues tested the same worry across scripts and found little: languages using the Roman alphabet averaged 75% against 63% for the rest, a gap whose credible interval covered zero, and a separate measure of how round or spiky each script renders the two words did not predict matching. They note that their participants reached the survey through a computer, so few of them were free of Roman letters. Visual experience matters more than an innate account allows. Piller, Senna and Ernst tested 17 early blind people with 3D-printed shapes by touch, and their 65% congruent rate did not differ from chance, while sighted controls tested the same way reached 93%. Among 23 people treated for congenital cataracts, those tested within six months of surgery were at chance and those tested later were not. Ćwiek and colleagues cite a different study finding the effect in blind participants, so this question is open. Bremner and colleagues' Himba paper sits behind a paywall these checks did not pass, and only its abstract at PubMed was read, so no rate is quoted from it here. Searches covered Europe PMC, PubMed, Crossref, Unpaywall, Semantic Scholar, the Internet Archive and web search.",
+  "misreadings": "'Above chance in most languages' is the finding, and 'universal' is what gets written. Ćwiek and colleagues say plainly that showing every speaking population obeys the mapping was not their goal and that they expected exceptions, and eight of their 25 languages did not clear the bar. The Himba study is the one most often garbled in the other direction, as a famous case where the effect was absent. It found the shape-sound match present, and what it found absent was the Western pairing of angular shapes with carbonation and with bitter chocolate. Köhler is credited with words he did not use, and the 1929 pair was takete and maluma. The effect is also treated as symmetric, where bouba carries it: the round match is reliable in nearly every language tested and the spiky match in fewer than half. Presentation format inflates the headline number. Ćwiek and colleagues cite a study in which showing the shapes one after another rather than together dropped congruent responses from 80% to 60%.",
+  "sources": [
+    {
+      "text": "Köhler, W. (1929). Gestalt Psychology. New York: Horace Liveright. The takete/maluma passage is on p. 242 and was read from this scan of the fourth printing.",
+      "url": "https://archive.org/details/gestaltpsycholog00khle",
+      "type": "primary"
+    },
+    {
+      "text": "Ramachandran, V. S., & Hubbard, E. M. (2001). Synaesthesia: A window into perception, thought and language. Journal of Consciousness Studies, 8, 3-34. The 95% figure and the bouba/kiki naming are on p. 19.",
+      "url": "https://www.sfu.ca/~kathleea/colour/docs/Ram&Hub_2001.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Ćwiek, A., Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., et al. (2022). The bouba/kiki effect is robust across cultures and writing systems. Philosophical Transactions of the Royal Society B, 377(1841), 20200390.",
+      "doi": "10.1098/rstb.2020.0390",
+      "url": "https://doi.org/10.1098/rstb.2020.0390",
+      "type": "replication"
+    },
+    {
+      "text": "Styles, S. J., & Gawne, L. (2017). When does maluma/takete fail? Two key failures and a meta-analysis suggest that phonology and phonotactics matter. i-Perception, 8(4), 2041669517724807.",
+      "doi": "10.1177/2041669517724807",
+      "url": "https://doi.org/10.1177/2041669517724807",
+      "type": "replication"
+    },
+    {
+      "text": "Cuskley, C., Simner, J., & Kirby, S. (2017). Phonological and orthographic influences in the bouba-kiki effect. Psychological Research, 81(1), 119-130. Figures here are from the peer reviewed accepted version in Edinburgh Research Explorer.",
+      "doi": "10.1007/s00426-015-0709-2",
+      "url": "https://www.pure.ed.ac.uk/ws/files/21818581/cuskleysimnerkirby2015_preprint.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Piller, S., Senna, I., & Ernst, M. O. (2023). Visual experience shapes the Bouba-Kiki effect and the size-weight illusion upon sight restoration from congenital blindness. Scientific Reports, 13, 11435.",
+      "doi": "10.1038/s41598-023-38486-y",
+      "url": "https://doi.org/10.1038/s41598-023-38486-y",
+      "type": "replication"
+    },
+    {
+      "text": "Bremner, A. J., Caparos, S., Davidoff, J., de Fockert, J., Linnell, K. J., & Spence, C. (2013). \"Bouba\" and \"Kiki\" in Namibia? A remote culture make similar shape-sound matches, but different shape-taste matches to Westerners. Cognition, 126(2), 165-172. Paywalled; only the PubMed abstract was read, and no figure from it is quoted here.",
+      "doi": "10.1016/j.cognition.2012.09.007",
+      "url": "https://doi.org/10.1016/j.cognition.2012.09.007",
+      "type": "replication"
+    },
+    {
+      "text": "Rogers, S. K., & Ross, A. S. (1975). A cross-cultural test of the Maluma-Takete phenomenon. Perception, 4(1), 105-106. The Hunjara failure; described here from Styles and Gawne, who report its counts and note that it gives no sample size for its comparison group.",
+      "doi": "10.1068/p040105",
+      "url": "https://doi.org/10.1068/p040105",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}

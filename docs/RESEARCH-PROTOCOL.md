@@ -149,6 +149,18 @@ That case also shows why the rule is worth keeping when it costs nothing. The
 figures from the correct document happened to agree with what had been taken
 from the wrong one, so the check appeared to waste effort and did not.
 
+## Agents share a filesystem
+
+An agent writing the bouba-kiki entry found that a file it had written to its
+own scratchpad now contained another agent's downloaded PDF, on an unrelated
+subject. Twenty agents run at once here and they do not coordinate over paths.
+
+Nothing was published from it, because the figures were re-extracted from fresh
+fetches under a unique directory and confirmed twice. That is the rule: write
+scratch files under a path nobody else will pick, and treat anything read back
+off disk as needing the same second look as anything read off the network. A
+file you wrote is not evidence that the bytes in it are still yours.
+
 The defence is cheap. A figure that matters gets seen twice, or it does not
 get published. A figure that appears on one fetch and not the next is treated
 as not obtained, not as a retrieval glitch to work around. Where a PDF's text

@@ -1,0 +1,86 @@
+{
+  "no": 476,
+  "slug": "foot-in-the-door-technique",
+  "name": "Foot-in-the-door technique",
+  "aliases": [
+    "foot in the door",
+    "FITD",
+    "gradation technique",
+    "sequential request compliance"
+  ],
+  "category": "social",
+  "statement": "Agreeing to a small request raises the chance of agreeing to a larger one later, by about twelve percentage points across published studies.",
+  "meaning": "The claim is about a sequence, not about persuasion in general. Someone is asked for something trivial, agrees, and is later asked for something much bigger by the same or a different person. The second rate of agreement is compared with a control group asked only the big thing. Freedman and Fraser named the pattern in 1966 after the saying that if you give them an inch they will take a mile. They took the gradation idea from accounts of Korean interrogation and from advertising practice, not from any experiment. The technique runs in the opposite direction from the door-in-the-face procedure, which opens with a request large enough to be refused and then retreats to the one that was wanted. Both are sequential-request tactics, both are usually credited to social psychology of the 1960s and 1970s, and they make opposite predictions about what the first request should be. Door-in-the-face is covered in this atlas under reciprocity, because Cialdini and colleagues explained it as a reciprocated concession.",
+  "origin": {
+    "year": 1966,
+    "who": "Jonathan L. Freedman and Scott C. Fraser",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is \"Compliance without pressure: The foot-in-the-door technique\", 4(2), 195-202, received August 1965. It reports two field experiments and no theory of its own. Its discussion offers three candidate mechanisms, involvement with the requester, involvement with the issue, and a change in how the person sees their own willingness to act, and says the studies cannot choose between them."
+  },
+  "evidence": "Experiment 1 was a telephone study in Palo Alto. Housewives drawn at random from the directory were asked eight questions about household soaps, and three days later asked whether five or six men could spend two hours in their home going through the cupboards. Agreement with the large request was 52.8% among those who had answered the soap questions and 33.3% among those who agreed to answer but were never asked. It was 27.8% after a first call that made no request, and 22.2% with no first call. Each group held 36 women. The paper also states a total of 156 subjects, which is twelve more than four groups of 36, and twelve is the number it says could not be reached for the second call. The gap between the performance group and the one-contact group was reported at p < .02, and against the familiarisation group at chi-squared 3.70, p < .07. Experiment 2 went door to door and used a different person for the second request, who did not know which condition a household was in. The first request was a small window sign or a petition, on safe driving or on keeping California beautiful. The second was always to put a large, poorly lettered \"Drive Carefully\" sign on the front lawn. Compliance was 76.0% when both requests shared issue and task, 47.8% when they shared issue only, 47.6% when they shared task only, 47.4% when they shared neither, and 16.7% in the untouched control. The five group sizes were 25, 23, 21, 19 and 24, so each percentage rests on about two dozen households. Freedman and Fraser found the similar-issue and similar-task comparisons ranged from chi-squared 3.67, p < .07 to 15.01, p < .001, and the group sharing nothing still beat the control at chi-squared 3.40, p < .08. That last result is why they proposed a general change in willingness to act rather than issue-specific involvement.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Pooled across 77 published comparisons the effect is real and small, worth about twelve percentage points. A direct field replication of the 1966 procedure in two countries came out null in three of its four attempts.",
+    "detail": "Fern, Monroe and Avila synthesised 77 foot-in-the-door results covering 2,761 people in treatment conditions. They report a weighted mean fourfold point correlation of .125, with a printed 95% interval of plus or minus .055, across a homogeneous set. They read that figure through the binomial effect size display as a compliance rate 12.5 points better than an equivalent control, an extra 125 respondents per thousand. For the 38 results where at least 80% complied with the first request, which they treat as the purer test, the mean rises to .144. The same paper puts door-in-the-face at .070, so under a single coding scheme the two techniques are the same order of size and the foot-in-the-door is the larger. The moderators do not match the popular account. Actually performing the first favour beat merely agreeing to it, .153 across 34 results against .079 across 24. Delay between the requests did nothing, .126 with no delay against .119 with one. Using the same person for both requests was slightly worse than using a different person, .120 against .128, and the difference was not statistically reliable. Beaman, Cole, Preston, Klentz and Steblay had reached a similar verdict three years earlier across 120 experimental groups. Their abstract calls the phenomenon replicable but weak and not nearly as robust as assumed. It says nearly half the studies produced no effect or an effect in the wrong direction. Gamian-Wilk and Dolinski ran a direct replication of the Freedman and Fraser procedure in Poland and Ukraine in 2003 and again in 2013. Their abstract reports the tactic working in Ukraine in 2003, failing in Poland in 2003, and failing in both countries in 2013, and says the effect size Freedman and Fraser obtained has never been obtained again.",
+    "study": {
+      "cite": "Fern, E. F., Monroe, K. B., & Avila, R. A. (1986). Effectiveness of Multiple Request Strategies: A Synthesis of Research Results. Journal of Marketing Research, 23(2), 144-152.",
+      "doi": "10.1177/002224378602300206",
+      "year": 1986,
+      "n": 2761
+    },
+    "indexedBy": "Crossref"
+  },
+  "limits": "Fern and colleagues include only published work and say so, listing publication bias as a known reason published effects run large. Just 30 of their 77 results reached p < .10 on their own, and every non-significant one had power below .55. Reaching Cohen's .80 at the average effect size would need samples of at least 150. Half their results came from studies where fewer than 80% agreed to the first request, which they call a design fault rather than a finding. The original itself is small. Its second experiment turns on a control group of 24 households, and the 76% headline figure comes from 25 households. The requests in both experiments came from apparently non-profit organisations on uncontroversial causes, and Freedman and Fraser end by saying they cannot show the technique would work for a product, a candidate or a doctrine. Whether the technique carries to online requests was not settled here either. A search of Crossref and of Europe PMC's open-access records found Guéguen's 2002 email study and Grassini, Pascual and Guéguen's 2013 computer-mediated sales study. Both are closed at the publisher, so neither is quoted. Whether the pooled estimate has shrunk over time could not be settled here. The one direct replication found, Gamian-Wilk and Dolinski, reports a drop in compliance between 2003 and 2013 in two countries, and its numbers sit behind a paywall, so only its abstract is quoted above. Burger's 1999 review is the source usually cited for the conditions under which the technique works, and its full text was not obtained. It is closed at the publisher, with no open copy recorded by Semantic Scholar or OpenAlex. Its Crossref abstract lists the processes it examines and gives no pooled estimate.",
+  "misreadings": "The foot-in-the-door and the door-in-the-face are opposite sequences and are routinely quoted together as one finding. The first opens small and escalates; the second opens with something designed to be refused and then retreats. Under Fern, Monroe and Avila's common coding the foot-in-the-door came out at .125 and the door-in-the-face at .070, and the two answer to different moderators: delay killed the door-in-the-face and left the foot-in-the-door alone. Pascual and Guéguen later compared the two head to head across 22 foot-in-the-door comparisons with 1,581 people and 22 door-in-the-face comparisons with 1,611, and report no reliable difference in efficiency between them. Self-perception is the standard explanation and it has been tested rather than merely asserted. Gorassini and Olson ran two experiments at the University of Western Ontario, 140 students and then 185, in which social approval for the small favour raised self-rated helpfulness as self-perception theory predicts. The ratings then failed to predict who complied with the large request. Their summary is that when self-perception changed, compliance did not, and when compliance changed, it did so without a preceding change in self-rating. What did predict compliance was a self-perception participants brought with them, the pre-existing gender difference in rated helpfulness. Snyder and Cunningham's 1975 test is often filed as support for self-perception. It reads better as evidence that the size of the first request matters in both directions. An eight-question opener produced .519 compliance and a fifty-question opener .219, against .333 with no first request. The 52.8% in Freedman and Fraser's first experiment is often quoted as though it were the effect. It is one cell of 36 women, and the comparison that matters is against 22.2% in another 36. Neither of the 1966 experiments measured what anyone thought about themselves.",
+  "sources": [
+    {
+      "text": "Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique. Journal of Personality and Social Psychology, 4(2), 195-202. Read in full from a scan of the published article; every percentage and test statistic here is read off its Tables 1 and 2 and its results sections.",
+      "doi": "10.1037/h0023552",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Freedman_Fraser_Foot-in-the-door.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fern, E. F., Monroe, K. B., & Avila, R. A. (1986). Effectiveness of Multiple Request Strategies: A Synthesis of Research Results. Journal of Marketing Research, 23(2), 144-152. Read in full from a hosted copy of the published article, including Tables 1 to 4 and the conclusions.",
+      "doi": "10.1177/002224378602300206",
+      "url": "http://www.communicationcache.com/uploads/1/0/8/8/10887248/effectiveness_of_multiple_request_strategies-_a_synthesis_of_research_results.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Beaman, A. L., Cole, C. M., Preston, M., Klentz, B., & Steblay, N. M. (1983). Fifteen Years of Foot-in-the Door Research: A Meta-Analysis. Personality and Social Psychology Bulletin, 9(2), 181-196. Paywalled and with no open copy recorded by OpenAlex; the count of 120 experimental groups and the wording about weakness and wrong-direction results are quoted from the abstract deposited at Crossref.",
+      "doi": "10.1177/0146167283092002",
+      "url": "https://doi.org/10.1177/0146167283092002",
+      "type": "replication"
+    },
+    {
+      "text": "Gamian-Wilk, M., & Dolinski, D. (2020). The Foot-in-the-Door Phenomenon 40 and 50 Years Later: A Direct Replication of the Original Freedman and Fraser Study in Poland and in Ukraine. Psychological Reports, 123(6), 2582-2596. Paywalled; the pattern of results across the two countries and two years is quoted from the abstract deposited at Crossref and mirrored at Europe PMC.",
+      "doi": "10.1177/0033294119872208",
+      "url": "https://doi.org/10.1177/0033294119872208",
+      "type": "replication"
+    },
+    {
+      "text": "Gorassini, D. R., & Olson, J. M. (1995). Does self-perception change explain the foot-in-the-door effect? Journal of Personality and Social Psychology, 69(1), 91-105. Read in full from a hosted copy of the published article.",
+      "doi": "10.1037/0022-3514.69.1.91",
+      "url": "http://www.communicationcache.com/uploads/1/0/8/8/10887248/does_self-perception_change_explain_the_foot-in-the-door_effect.pdf",
+      "type": "supporting"
+    },
+    {
+      "text": "Snyder, M., & Cunningham, M. R. (1975). To comply or not comply: Testing the self-perception explanation of the \"foot-in-the-door\" phenomenon. Journal of Personality and Social Psychology, 31(1), 64-67. The three compliance rates are quoted from the abstract held at PubMed, PMID 1117412.",
+      "doi": "10.1037/h0076245",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1117412/",
+      "type": "supporting"
+    },
+    {
+      "text": "Burger, J. M. (1999). The Foot-in-the-Door Compliance Procedure: A Multiple-Process Analysis and Review. Personality and Social Psychology Review, 3(4), 303-325. Closed at the publisher with no open copy recorded by Semantic Scholar or OpenAlex; only the Crossref abstract was read, and it names the processes reviewed without giving a pooled estimate.",
+      "doi": "10.1207/s15327957pspr0304_2",
+      "url": "https://doi.org/10.1207/s15327957pspr0304_2",
+      "type": "replication"
+    },
+    {
+      "text": "Pascual, A., & Guéguen, N. (2005). Foot-in-the-Door and Door-in-the-Face: A Comparative Meta-Analytic Study. Psychological Reports, 96(1), 122-128. Paywalled; the counts of 22 foot-in-the-door comparisons with 1,581 participants and 22 door-in-the-face comparisons with 1,611, and the finding of no reliable difference between the two, are quoted from the abstract deposited at Crossref.",
+      "doi": "10.2466/pr0.96.1.122-128",
+      "url": "https://doi.org/10.2466/pr0.96.1.122-128",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
