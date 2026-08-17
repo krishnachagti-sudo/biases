@@ -1,0 +1,110 @@
+{
+  "no": 566,
+  "slug": "retrospective-determinism",
+  "name": "Retrospective determinism",
+  "aliases": ["Bound to happen"],
+  "category": "belief",
+  "statement": "Because something happened, it was bound to happen: reading an outcome's occurrence as proof that the circumstances made it necessary.",
+  "meaning": "The claim is about the world rather than about memory. Retrospective determinism takes an event that did occur and treats the occurrence itself as evidence that nothing else could have occurred. Bergson's version is that reality, once it appears, projects its possibility backwards, so the past acquires a shape it did not have at the time. He wrote that an event can always be explained after the fact by antecedents, and that a wholly different event would have been explained as well by the same antecedents cut up, distributed and noticed differently by retrospective attention. Two neighbouring entries on this site are not the same claim. Hindsight bias, entry 48, is a finding about what people believe they believed before the outcome. The historian's fallacy, entry 518, is a charge about writing past agents as though they knew what was coming. This page is about the third thing, the modal claim that the outcome had to happen, which psychologists measure as an inevitability impression and which has its own items and its own results.",
+  "origin": {
+    "year": 1930,
+    "who": "Henri Bergson",
+    "where": "Nordisk Tidskrift, later collected in La Pensée et le mouvant",
+    "note": "The idea is Bergson's and the English name is not. His essay 'Le possible et le réel' appeared in the Swedish journal Nordisk Tidskrift in November 1930, on the book's own dating, and sits in La Pensée et le mouvant beside an introduction headed 'Croissance de la vérité. Mouvement rétrograde du vrai'. That heading names his term: to every true statement, he writes, we attribute a retroactive effect, or rather we impress on it a retrograde movement. His examples are literary and political rather than logical. Romanticism, once it existed, created its own prefiguration in the classics and an explanation of itself by its antecedents. Ordinary logic, he adds, is a logic of retrospection. The scan used here is the Presses Universitaires de France printing dated 1938."
+  },
+  "evidence": "Fischhoff supplied the psychological name in 1975. He called the tendency to perceive reported outcomes as having been relatively inevitable 'creeping determinism', and set it against philosophical determinism, which he defined as the conscious belief that whatever happens has to happen. His own figures show how far the two sit apart. No outcome was judged inevitable by any reader in the uninformed groups, and among readers told that an outcome had occurred only 2.1% gave it 100%. Informed readers were readier to rule the other endings out, marking 11.5% of unreported outcomes impossible against 8.0% among uninformed readers. Blank, Nestler, von Collani and Fischer later argued that hindsight bias holds three separable components, memory distortions, impressions of foreseeability and impressions of necessity, and that the components are close to uncorrelated. Nestler, Blank and Egloff renamed the third inevitability and report dissociations in both directions: varying the number of reasons supplied for an outcome moved inevitability impressions and left memory distortion alone, while a memory encoding manipulation did the reverse. Roese and Vohs place inevitability between the other two levels and gloss it 'It had to happen', with the rating item running 'Under the given circumstances, no different outcome was possible'. The claim has also been tested on written history. Meuer, Nestler and Oeberst took 40 German Wikipedia articles about real events and pulled three versions of each from the revision history, the last one written before the event and two written after. Coders blind to the question, 124 of them, rated how far each version implied the event was inevitable. Versions from eight weeks after the event implied more inevitability than the same articles before it, F(1, 38) = 53.69, p < .001, partial eta squared .59. How much explanatory content an article had gained tracked how far its inevitability rating had risen, r(38) = .56, p < .001.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Inevitability has been measured in its own right, and outcome knowledge raises it in accounts of real events while lowering it in imagined everyday scenarios.",
+    "detail": "Meuer, Nestler and Oeberst followed their field study with three preregistered experiments, total N = 720. In the first of them, 260 participants wrote an article about a fictitious Spanish dam from the same 11 bogus newspaper reports, some of them also told the dam had failed. Articles written with outcome knowledge implied more inevitability, F(1, 180.44) = 35.37, p < .001. The manipulation of how far the event invited sense-making moved the general suggestiveness and likelihood measures and did not move inevitability at the preregistered alpha, F(1, 233.86) = 3.61, p = .059. Studies using imagined self-relevant scenarios point the other way. Groß and Bayen gave 46 younger and 45 older adults 16 everyday scenarios, collecting inevitability and foreseeability ratings before the outcome and again after it, along with recall of the earlier expectation. Across ages and outcomes the memory component behaved as the textbook says, b = 7.2, p < .001, and inevitability ran backwards, b = -8.5, p < .001, as did foreseeability, b = -12.6, p < .001. Those three numbers come from one design and one set of participants. Groß, Blank and Bayen had already found the same reversal in 75 participants: the intercept of inevitability hindsight bias for negative outcomes at a Beck Depression Inventory score of zero was b = -13.52, p < .001, and the bias turned positive as depressive symptoms rose, b = 0.56, p < .001. Blank and Nestler's earlier internet study of 101 people on Leipzig's failed Olympic bid found the components moving in opposite directions at once, the failure looking both inevitable and unforeseeable to those who had wanted the bid to succeed. So the direction of the inevitability effect depends on the materials, on whose outcome it is, and on the rater. What no source here disputes is that the judgement can be measured apart from memory for a prior estimate.",
+    "study": {
+      "cite": "Meuer, M., Nestler, S., & Oeberst, A. (2023). What determines hindsight bias in written work? One field and three experimental studies in the context of Wikipedia. Journal of Experimental Psychology: Applied, 29(2), 239-258.",
+      "doi": "10.1037/xap0000445",
+      "year": 2023,
+      "n": 720
+    }
+  },
+  "limits": "The figures for Meuer, Nestler and Oeberst were read off the accepted manuscript posted at OSF, which carries the publisher's notice that it is not the copy of record; the published article was not obtained, and the page numbers in the citation come from the Crossref record rather than from the document. Three of the papers that define the inevitability component could only be read in abstract. Blank, Nestler, von Collani and Fischer's Cognition paper and Nestler, Blank and Egloff's dissociation experiments were read at PubMed, and Blank and Nestler's Leipzig study at Crossref, so the sample sizes and directions quoted above are the authors' own summaries and no effect size from any of the three appears here. Unpaywall reports all three closed. Oeberst, von der Beck and Nestler's cross-cultural study of inevitability judgements from Wikipedia articles was located by DOI and not obtained. Europe PMC returns nothing at all for the phrase 'retrospective determinism', 19 records for 'creeping determinism' and 2 for 'inevitability impressions'; OpenAlex could not be searched, because its API reported the day's budget exhausted. No multi-laboratory replication of any inevitability measure was found in those searches. Raymond Aron's phrase for the same idea, widely quoted in French, was not verified against his text and is not attributed here.",
+  "misreadings": "The commonest error is to say Bergson coined the term. Wikipedia states it, and its citation is a 2009 Atlantic blog post by Clive Crook, which is quoting Timothy Garton Ash's essay on 1989 in the New York Review of Books. What Garton Ash wrote is that Bergson 'talked of \"the illusions of retrospective determinism\"', with no citation and no French. The phrase 'déterminisme rétrospectif' does not occur in La Pensée et le mouvant, whose full text was searched in two independent renderings, an electronic edition and the Wikisource transcription of the 1938 scan. Bergson's own terms there are the retrograde movement of the true and the logic of retrospection. The second error is to treat this as hindsight bias under another name. Fischhoff drew the line himself when he coined creeping determinism, contrasting it with the belief that whatever happens has to happen, and the component work since has kept the two apart with separate items. A reader who wants the memory finding wants entry 48. The third is to read the reversals as evidence that nobody feels events were inevitable. Groß and Bayen's participants rated their own imagined futures, where the pre-outcome rating is available and the outcome is fictional; Meuer and colleagues rated encyclopedia articles about events that actually happened, which is the setting the fallacy is named for. The fourth is to expect the fallacy and the effect to be the same object. Retrospective determinism is a bad inference, and it stays bad whichever way an inevitability rating moves.",
+  "sources": [
+    {
+      "text": "Bergson, H. La Pensée et le mouvant. Read in full as an electronic edition of the French text. Source for the introduction headed 'Croissance de la vérité. Mouvement rétrograde du vrai', for 'À toute affirmation vraie nous attribuons ainsi un effet rétroactif ; ou plutôt nous lui imprimons un mouvement rétrograde', for the romanticism and democracy examples, for 'notre logique habituelle est une logique de rétrospection', for 'D'avant en arrière se poursuit un remodelage constant du passé par le présent, de la cause par l'effet', and for the note dating 'Le possible et le réel' to Nordisk Tidskrift in November 1930.",
+      "url": "https://philo-labo.fr/fichiers/Bergson%20(Henri)%20-%20La%20pens%C3%A9e%20et%20le%20mouvant%20(Grenoble).pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bergson, H. (1938). La Pensée et le mouvant. Paris: Presses Universitaires de France. Wikisource transcription of the scan, index and Page namespace. Used as a second independent rendering: the retrograde-movement passage, the romanticism passage and the logic of retrospection were confirmed here, and 'déterminisme rétrospectif' occurs nowhere in either rendering.",
+      "url": "https://fr.wikisource.org/wiki/La_Pens%C3%A9e_et_le_mouvant",
+      "type": "primary"
+    },
+    {
+      "text": "Fischhoff, B. (1975). Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299. Read in full. Source for the coining of creeping determinism, its contrast with philosophical determinism, and the 2.1%, 11.5% and 8.0% figures.",
+      "doi": "10.1037/0096-1523.1.3.288",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Fischhoff_1975_Hindsight_is_not_equal_to_foresight.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Meuer, M., Nestler, S., & Oeberst, A. (2023). What determines hindsight bias in written work? One field and three experimental studies in the context of Wikipedia. Journal of Experimental Psychology: Applied, 29(2), 239-258. Figures read off the accepted manuscript at OSF, downloaded twice with matching checksums; the published version was not obtained.",
+      "doi": "10.1037/xap0000445",
+      "url": "https://osf.io/download/6304a23df7c12c1abd91d086/",
+      "type": "primary"
+    },
+    {
+      "text": "Groß, J., & Bayen, U. J. (2022). Older and younger adults' hindsight bias after positive and negative outcomes. Memory & Cognition, 50(1), 16-28. Read in full as the Europe PMC full-text XML, fetched twice with matching checksums. Source for the reversed inevitability and foreseeability effects alongside the standard memory effect.",
+      "doi": "10.3758/s13421-021-01195-w",
+      "url": "https://europepmc.org/articles/PMC8763826",
+      "type": "replication"
+    },
+    {
+      "text": "Groß, J., Blank, H., & Bayen, U. J. (2017). Hindsight bias in depression. Clinical Psychological Science, 5(5), 771-788. Read as the accepted manuscript posted by Heinrich-Heine-Universität Düsseldorf. Source for the Experiment 2 inevitability intercept and its relation to depressive symptoms.",
+      "doi": "10.1177/2167702617712262",
+      "url": "https://www.psychologie.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Psychologie/MKP/publikationen/Gross_Blank_Bayen_HB_Depression_CPS.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Blank, H., & Nestler, S. (2006). Perceiving events as both inevitable and unforeseeable in hindsight: The Leipzig candidacy for the Olympics. British Journal of Social Psychology, 45(1), 149-160. Abstract read at Crossref; the full text was not obtained.",
+      "doi": "10.1348/014466605X52326",
+      "url": "https://api.crossref.org/works/10.1348/014466605X52326",
+      "type": "primary"
+    },
+    {
+      "text": "Blank, H., Nestler, S., von Collani, G., & Fischer, V. (2008). How many hindsight biases are there? Cognition, 106(3), 1408-1440. Abstract read at PubMed; the full text was not obtained.",
+      "doi": "10.1016/j.cognition.2007.07.007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17764669/",
+      "type": "primary"
+    },
+    {
+      "text": "Nestler, S., Blank, H., & Egloff, B. (2010). Hindsight ≠ hindsight: Experimentally induced dissociations between hindsight components. Journal of Experimental Psychology: Learning, Memory, and Cognition, 36(6), 1399-1413. Abstract read at PubMed, which dates the issue to 2011; the full text was not obtained.",
+      "doi": "10.1037/a0020449",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20836614/",
+      "type": "primary"
+    },
+    {
+      "text": "Roese, N. J., & Vohs, K. D. (2012). Hindsight bias. Perspectives on Psychological Science, 7(5), 411-426. Read in full. Source for the three levels, the 'It had to happen' gloss and the inevitability item wording.",
+      "doi": "10.1177/1745691612454303",
+      "url": "https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Garton Ash, T. (2009). 1989! The New York Review of Books, 5 November 2009. Read in full. Carries the sentence 'Henri Bergson talked of \"the illusions of retrospective determinism\"', uncited, and a footnote pointing at Fischhoff (1975).",
+      "url": "https://www.nybooks.com/articles/2009/11/05/1989/",
+      "type": "commentary"
+    },
+    {
+      "text": "Crook, C. (2009). 1989. The Atlantic, 11 November 2009. Read in full. Quotes the Garton Ash passage; this is the citation Wikipedia gives for the claim that Bergson coined the term.",
+      "url": "https://www.theatlantic.com/business/archive/2009/11/1989/29985/",
+      "type": "commentary"
+    },
+    {
+      "text": "Oeberst, A., von der Beck, I., & Nestler, S. (2014). Reading about explanations enhances perceptions of inevitability and foreseeability: A cross-cultural study with Wikipedia articles. Cognitive Processing, 15(3), 343-349. Located by DOI and not obtained; the publisher's page returned a bot check and Unpaywall reports no open copy.",
+      "doi": "10.1007/s10339-014-0603-7",
+      "type": "primary"
+    },
+    {
+      "text": "Wikipedia, Retrospective determinism. Used to find sources and quoted here as the carrier of the claim that Bergson coined the term, not relied on for anything else.",
+      "url": "https://en.wikipedia.org/wiki/Retrospective_determinism",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
