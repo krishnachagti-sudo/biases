@@ -1,0 +1,112 @@
+{
+  "no": 455,
+  "slug": "argument-to-moderation",
+  "name": "Argument to moderation",
+  "aliases": [
+    "Middle ground fallacy",
+    "Fallacy of middle ground",
+    "Golden mean fallacy",
+    "Argumentum ad temperantiam",
+    "False compromise",
+    "Splitting the difference"
+  ],
+  "category": "belief",
+  "statement": "Taking the midpoint of two positions as the true one, which is sound where the two bracket the truth and unsound where only one of them is supported.",
+  "meaning": "This is a form of argument rather than a measured effect, and the two scholarly definitions of it are not the same claim. Jan Albert van Laar and Erik Krabbe name the mistake of presenting a compromise as a regular resolution, to oneself or to others, the Fallacy of Middle Ground. On their reading the error concerns what a settlement means, and a party who splits the difference has not shown that the difference should be split. Grant Sterling's schema, which Scott Aikin and John Casey quote, is the popular reading: two or more people present conflicting views, and a third party assumes, without offering reasons, that the truth must lie between the extremes. Aikin and Casey gather both under one heading they call bothsiderism, and list the names the family travels under, including the Fallacy of Bargaining, the Fallacy of Objections, argumentum ad temperantiam, false compromise and the golden mean fallacy. Their own example is the number of gods: an Olympian says twelve, an atheist says zero, and six is absurd. Two neighbouring entries take the parts this one leaves out. The compromise effect covers what happens to an option's share when a choice set makes it the middle one, which is a fact about consumer choice rather than about propositions. False equivalence covers the practice of presenting two positions as comparably supported, and what readers then infer about expert agreement. What is left here is whether the midpoint of two claims is a good answer, and whether people move to it. On quantities that question has an arithmetic answer and a large measured literature. On propositions with no numerical scale it has neither.",
+  "origin": {
+    "year": 2018,
+    "who": "Jan Albert van Laar and Erik C. W. Krabbe",
+    "where": "Argumentation",
+    "note": "Their paper on the shift from persuasion dialogue to negotiation is the earliest peer-reviewed treatment located here that names and defines the fallacy. It appeared online in December 2017 and in issue in 2018. Their footnote 11 records the state of the field at the time: 'There is not much literature to be found on the Fallacy of Middle Ground but there is a Wikipedia entry devoted to the Fallacy of Moderation that broaches the subject'. The names are older than the theory. Aikin and Casey attribute the Fallacy of Objections to Whately in 1855 and the Fallacy of Bargaining to Walton and Krabbe in 1995, and Sterling's page and a half on the Middle Ground Fallacy appeared in a 2018 Wiley collection. No scholarly coinage of the Latin tag argumentum ad temperantiam was found in Crossref or Europe PMC."
+  },
+  "evidence": "The normative question was settled before the fallacy was named, and the answer is conditional. Richard Larrick and Jack Soll state the averaging principle: when combining uncertain quantity estimates, the discrepancy between the average estimate and the truth can be no greater than the average discrepancy of the component judgments. Their illustration is two forecasts of a temperature that turns out to be 73 degrees. Guesses of 60 and 70 miss by 13 and 3, and their average misses by 8, which is exactly the average of the two errors. Guesses of 60 and 80 bracket the truth, miss by 13 and 7, and their average misses by 3. Bracketing is what gives averaging its power, and for absolute deviation or any weakly convex loss the principle always holds. Two judges with unbiased, uncorrelated, normally distributed errors bracket the truth half the time, and averaging then improves accuracy by about 29% if the two are similar in skill. Shared bias or positively correlated error drops the bracketing rate below half. Larrick and Soll also report, through Armstrong's review of thirty studies from 1960 to 2000, improvements in forecast accuracy from 3.4% to 23.5% with a mean of 12.5%. People do not see this. Their first experiment gave 145 INSEAD MBA students two currency forecasters with mean absolute deviations of 4.7 and 5.3 and a table showing how often the two erred in opposite directions. Across conditions 57% expected averaging to do no better than the average judge, and nearly all of those named 5, the average judge's exact score. Even where the two bracketed the truth 90% of the time, half still made the error. Their second experiment showed 263 students ten paired forecasts. The error rate was .57 when the two forecasters were shown one after another and .33 when shown side by side with no correlation in error, and .60 against .15 with negatively correlated error. It stayed near .20 in both formats where the two had opposing biases, which can be encoded one judge at a time. The behavioural question is measured by the judge-advisor system, in which a person makes a numerical estimate, sees another's, and revises. Weight of advice is the share of the distance to the other estimate that the revision covers, so .5 is the midpoint. Phoebe Bailey, Tarren Leon, Natalie Ebner, Ahmed Moustafa and Gabrielle Weidemann pooled 346 effect sizes from 129 independent datasets, 53 articles and 17,296 participants, and put the weight of advice at 0.39, 95% CI [0.37, 0.42], t(345) = 31.57, p < 0.001. Carolyn Baer, Jan Engelmann and Celeste Kidd put the conditional version to 92 children aged 5 to 10 in a preregistered study. Two witness monsters described a suspect, and the child picked from a lineup. Where the two disagreed with equal confidence, 8 to 10 year olds chose the midpoint on 48% of trials against a chance rate of 25%, t(44) = 4.06, p < 0.001, d = 0.60. Where one was confident and the other was not, the same children chose the midpoint on 26% of trials, indistinguishable from chance, and the confident witness's answer on 60%.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The measured half holds. Across 129 datasets people move 39% of the way toward another person's estimate, short of the 50% that bracketing rewards, and averaging two guesses beat either guess in a preregistered replication.",
+    "detail": "Bailey and colleagues' meta-analysis is the aggregate. Their pooled weight of advice was 0.39, 95% CI [0.37, 0.42], and dropping the two outlying effect sizes of 0.93 and 0.92 left it unchanged. What the advisor was said to be worth moved it: adjustments were 32%, 37% and 48% for advisors described in ways suggesting low, neutral and high quality advice. With no information about the advisor, objective estimates were adjusted by 35% and subjective or uncertain ones by 55%. Trim and fill imputed missing studies to the left of the mean in all three quality bands, giving 0.41, 95% CI [0.36, 0.47], 0.36, 95% CI [0.33, 0.39], and 0.29, 95% CI [0.22, 0.36], and Egger's test detected no significant bias in any of them. Their reading is that 50% is the rational adjustment under the averaging principle and that people fall short of it. Sara Steegen, Laura Dewitte, Francis Tuerlinckx and Wolf Vanpaemel supply the direct replication on the arithmetic side. Their preregistered repeat of Vul and Pashler's crowd within tested whether averaging two guesses from one person beats either. With 471 students guessing immediately, the mean squared error of the average was 541 against 589 for the first guess, t(470) = 8.69, p < 0.001, dz = 0.40, 95% CI [0.31, 0.49], and 615 for the second, dz = 0.47, 95% CI [0.38, 0.57]. With 140 students guessing again three weeks later, the average scored 467 against 517, t(139) = 4.02, p < 0.001, dz = 0.34, 95% CI [0.17, 0.51], and 589, dz = 0.72, 95% CI [0.53, 0.90]. A 2015 corrigendum corrects the target sample sizes in their sampling plan, not the results. Baer and colleagues' children supply the condition rather than a repetition, and their design was preregistered at the Open Science Framework. No experiment testing the inference itself, that a disagreement is evidence the truth lies between the parties, was located. Europe PMC searches for the phrases 'middle ground fallacy', 'argument to moderation', 'ad temperantiam', 'false compromise' and 'golden mean fallacy' return Aikin and Casey's theoretical paper and nothing empirical. Crossref bibliographic searches on the same phrases returned no experiment either."
+    ,
+    "study": {
+      "cite": "Bailey, P. E., Leon, T., Ebner, N. C., Moustafa, A. A., & Weidemann, G. (2023). A meta-analysis of the weight of advice in decision-making. Current Psychology, 42(28), 24516-24541. 346 effect sizes, 129 independent datasets, 17,296 participants.",
+      "doi": "10.1007/s12144-022-03573-2",
+      "year": 2023,
+      "n": 17296
+    }
+  },
+  "limits": "No effect size sits in the structured fields, because the central figure is a proportion of adjustment rather than a standardised difference, and the two are not the same quantity. The scope limit is larger than any of these numbers. Everything measured here concerns quantities on a scale: exchange rates, cinema attendance, city distances, the number of spots on a monster. An argument about whether a policy works, or whether a god exists, has no such scale, and Aikin and Casey's twelve gods against zero shows what the midpoint does to one. So the arithmetic that vindicates splitting the difference on estimates does not transfer to propositions, and the fallacy survives in the place where it was named. The compromise effect entry covers extremeness aversion in choice sets, and searches of Europe PMC pairing 'compromise effect' and 'extremeness aversion' with belief, argument, proposition and estimate returned consumer, medical and perceptual choice tasks and nothing on propositions. The nearest case found is a study of risk preference elicitation by Jonathan Beauchamp, Daniel Benjamin, David Laibson and Christopher Chabris. The pull of the middle option in a price list distorts the estimated parameter, and that is still a choice among ordered options. Provenance is uneven. The Larrick and Soll figures above were read from the 2003 INSEAD working paper, which carries the two experiments described; the published 2006 article reports four, and its later experiments are not described here. Armstrong's range of improvements is quoted as Larrick and Soll state it. Soll and Larrick's 2009 paper is paywalled at the American Psychological Association. It reports that adjustment towards advice is typically around 30%, and that figure is quoted here through Bailey and colleagues. Sterling's chapter was not obtained and his schema is quoted through Aikin and Casey. Yaniv's 2004 paper on advice discounting and Simonson's founding compromise-effect work were not opened for this entry. Baer and colleagues tested 92 children in one region of the United States on a fifteen-minute cartoon task, and the sample skews white, Asian and upper middle class by their own description. Bailey and colleagues' heterogeneity is substantial, with 57.08% of variance between effect sizes within samples, so the pooled 0.39 is a centre of a wide spread rather than a typical value.",
+  "misreadings": "The first error is reading this as the compromise effect. That literature adds a third product to a choice set and measures the share the middle one takes, and its subject is preference among options rather than belief about a fact. Nothing in it says that a middle claim is more likely to be true. The second error is treating the fallacy as always a fallacy. Where two estimates fall on opposite sides of the truth, the midpoint must beat the average of the two, and often beats both, which makes splitting the difference the right move rather than a lapse. The condition is bracketing, and bracketing fails when both parties err in the same direction, which is what a shared bias produces. Aikin and Casey allow the same point in words, writing that bothsiderism has virtuous instances where the evidence shows a legitimate disagreement. Baer and colleagues' children draw the line where the argument says it should be drawn: the midpoint when the two witnesses are equally confident, the confident witness when they are not. The third error is assuming people do split differences. The pooled weight of advice is 0.39 rather than 0.5, and it falls to 0.32 when the other party is described as poorly informed. The fourth is expecting the arithmetic to be obvious. Most of Larrick and Soll's mathematically selected students expected averaging to score exactly what the average judge scores, which is what averaging scores only when bracketing never happens. The fifth is treating the two scholarly definitions as one. Van Laar and Krabbe's fallacy is committed by parties to a dispute who present their compromise as a resolution, and their paper's main message is that turning to compromise can be done in a respectable way. Sterling's is committed by an onlooker who infers a midpoint from the fact of disagreement. The sixth is missing what the inference does to the people being observed. Aikin and Casey call it the argument overcharge problem: if the audience will land in the middle, a partisan gains by asking for more, so a rule of always splitting the difference rewards whoever states the more extreme position.",
+  "sources": [
+    {
+      "text": "van Laar, J. A., & Krabbe, E. C. W. (2018). Splitting a Difference of Opinion: The Shift to Negotiation. Argumentation, 32(3), 329-350. Full text read as the version of record deposited in the University of Groningen repository. Source of the definition of the Fallacy of Middle Ground and of the footnote on the state of the literature.",
+      "doi": "10.1007/s10503-017-9445-7",
+      "url": "https://pure.rug.nl/ws/files/51556730/Splitting_a_Difference_of_Opinion.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Aikin, S. F., & Casey, J. P. (2022). Bothsiderism. Argumentation, 36(2), 249-268. Full text read at PubMed Central. Source of the list of alternative names, of Sterling's schema, of the twelve gods example and of the argument overcharge problem.",
+      "doi": "10.1007/s10503-021-09563-1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8742682/",
+      "type": "commentary"
+    },
+    {
+      "text": "Sterling, G. (2018). Middle Ground. In Bad Arguments, 367-368. Wiley. Not obtained; its schema is quoted on this page as Aikin and Casey give it, and the year 2019 they cite differs from the 2018 date Crossref records.",
+      "doi": "10.1002/9781119165811.ch88",
+      "url": "https://doi.org/10.1002/9781119165811.ch88",
+      "type": "commentary"
+    },
+    {
+      "text": "Larrick, R. P., & Soll, J. B. (2006). Intuitions About Combining Opinions: Misappreciation of the Averaging Principle. Management Science, 52(1), 111-127. The published article is paywalled. Every figure quoted here was read from the 2003 INSEAD working paper version linked below, and re-extracted with a second tool.",
+      "doi": "10.1287/mnsc.1050.0459",
+      "url": "https://flora.insead.edu/fichiersti_wp/inseadwp2003/2003-09.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bailey, P. E., Leon, T., Ebner, N. C., Moustafa, A. A., & Weidemann, G. (2023). A meta-analysis of the weight of advice in decision-making. Current Psychology, 42(28), 24516-24541. Full text read at PubMed Central and every figure confirmed on a second fetch.",
+      "doi": "10.1007/s12144-022-03573-2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11661855/",
+      "type": "replication"
+    },
+    {
+      "text": "Steegen, S., Dewitte, L., Tuerlinckx, F., & Vanpaemel, W. (2014). Measuring the crowd within again: a pre-registered replication study. Frontiers in Psychology, 5, 786. Full text read from the article XML at Europe PMC, fetched twice.",
+      "doi": "10.3389/fpsyg.2014.00786",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112915/",
+      "type": "replication"
+    },
+    {
+      "text": "Steegen, S., Dewitte, L., Tuerlinckx, F., & Vanpaemel, W. (2015). Corrigendum: Measuring the crowd within again: a pre-registered replication study. Frontiers in Psychology, 6, 238. Read at Europe PMC; it corrects the target sample sizes in the sampling plan.",
+      "doi": "10.3389/fpsyg.2015.00238",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4357241/",
+      "type": "commentary"
+    },
+    {
+      "text": "Vul, E., & Pashler, H. (2008). Measuring the Crowd Within. Psychological Science, 19(7), 645-647. The original that Steegen and colleagues repeated. Not obtained; it is described here only as they describe it.",
+      "doi": "10.1111/j.1467-9280.2008.02136.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2008.02136.x",
+      "type": "primary"
+    },
+    {
+      "text": "Baer, M., Engelmann, J. M., & Kidd, C. (2025). Children Use the Relative Confidence of People With Conflicting Perspectives to Form Their Own Beliefs. Developmental Science, 28(4). Full text read from the article XML at Europe PMC, fetched twice.",
+      "doi": "10.1111/desc.70027",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12093200/",
+      "type": "primary"
+    },
+    {
+      "text": "Bednarik, P., & Schultze, T. (2015). The effectiveness of imperfect weighting in advice taking. Judgment and Decision Making, 10(3), 265-276. Read as the article page at Cambridge University Press. Cited for its finding that a weighted mean beats both averaging and choosing where ability differences can be detected, and that its advantage depends on the size of the difference and the size of the detection error.",
+      "doi": "10.1017/s1930297500004666",
+      "url": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/effectiveness-of-imperfect-weighting-in-advice-taking/A8EB67E83972D455EDA1E0AB1935654C",
+      "type": "commentary"
+    },
+    {
+      "text": "Beauchamp, J. P., Benjamin, D. J., Laibson, D. I., & Chabris, C. F. (2020). Measuring and controlling for the compromise effect when estimating risk preference parameters. Experimental Economics, 23(4), 1069-1099. Read as the abstract at Europe PMC. The nearest case located in which the pull of a middle option distorts a measured quantity.",
+      "doi": "10.1007/s10683-019-09640-z",
+      "url": "https://europepmc.org/article/PMC/PMC7747750",
+      "type": "primary"
+    },
+    {
+      "text": "Soll, J. B., & Larrick, R. P. (2009). Strategies for revising judgment: How (and how well) people use others' opinions. Journal of Experimental Psychology: Learning, Memory, and Cognition, 35(3), 780-805. Paywalled and not obtained. Its finding that adjustment is typically around 30% is quoted here through Bailey and colleagues.",
+      "doi": "10.1037/a0015145",
+      "url": "https://doi.org/10.1037/a0015145",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
