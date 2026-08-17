@@ -1,0 +1,83 @@
+{
+  "no": 500,
+  "slug": "argument-from-silence",
+  "name": "Argument from silence",
+  "aliases": [
+    "Argumentum ex silentio",
+    "Argumentum e silentio",
+    "Inference from absence"
+  ],
+  "category": "belief",
+  "statement": "A source's failure to mention something is taken as evidence it did not happen, and the inference is only as strong as the case that the source would have said so.",
+  "meaning": "An argument from silence needs three things to hold at once, and it is worth no more than their product. Charles-Victor Langlois and Charles Seignobos give the everyday form of it: 'If it were true, we should have heard of it.' The general proposition behind that, in their wording, is that if an alleged event really had occurred, there would be some document in existence in which it would be referred to. Timothy McGrew turns the same thought into arithmetic. Writing H for the event and E for a mention of it, the force of the argument is the ratio P(~E|~H)/P(~E|H), and the term that decides that ratio is P(E|H), the chance of a mention had the event happened. McGrew splits the chance into three questions: whether the author would have noticed the event, whether he would have recorded it once noticed, and whether the record would have survived and reached scholars now. In his notation the product is P(N|H) times P(R|H & N) times P(S|H & N & R), and each factor answers to one of the rules the older manuals laid down. Because probabilities multiply, three plausible-looking factors make an implausible whole. The same shape appears in a literature that looks unrelated. Robert Rosenthal's 1979 paper in Psychological Bulletin is titled 'The file drawer problem and tolerance for null results', and the apparatus built since, funnel plots among it, exists because the published record is a filtered sample of the studies that were run. Annie Franco, Neil Malhotra and Gabor Simonovits took 221 studies commissioned through Time-sharing Experiments in the Social Sciences, a setting where what was run is known independently of what was printed. Their abstract reports that strong results were 40 percentage points more likely to be published than null results and 60 points more likely to be written up, and that authors do not write up null findings. Matthias Egger and colleagues found funnel plot asymmetry in 14 of 37 meta-analyses from general medicine journals and in 5 of 38 Cochrane reviews. Reading a treatment as useless from the absence of published trials is an argument from silence whose silent source is the journal, and the three questions carry over: the result had to be found, written up and printed. That parallel is this site's reading rather than a claim any of these papers makes.",
+  "origin": {
+    "year": 1898,
+    "who": "Charles-Victor Langlois and Charles Seignobos",
+    "where": "Introduction to the Study of History",
+    "note": "The manual names the argument rather than inventing it. Its own footnote calls the discussion a favourite subject with earlier writers on methodology, one that was formerly much used in religious history and still takes up considerable space in Charles de Smedt's Principes de la critique historique. What the chapter fixes is the set of conditions later writers argue about. The year here is that of the preface by F. York Powell to G. G. Berry's English translation, dated Oxford, July 1898. The copy read for this entry is a Henry Holt printing that the Internet Archive dates 1913; McGrew cites the 1898 and 1904 printings at the same page 256 for the same sentence."
+  },
+  "evidence": "Langlois and Seignobos restrict the negative argument to two cases. In the first, the author of the document meant to record every member of a class and knew them all, their examples being Tacitus setting out to enumerate the peoples of Germany and the Notitia dignitatum listing the provinces of the Empire. In the second, the fact must have struck the author so forcibly that it entered his conceptions, as regular assemblies of the Frankish people would have entered Gregory of Tours. They warn that the argument should be used the more rarely the more documents have been lost, so it is of less use in ancient history than in dealing with the nineteenth century. They also trace to it the sophism of the good old times: no document relates any abuse of power by officials, therefore everything was regular and nobody was suffering. McGrew supplies the condition the older rules leave out, that a record which was made must also have survived and come to notice, and then works out what uncertainty costs. If two of the three factors stand at .7 and the third is granted as certain, conditionalising moves the probability of the negative conclusion from .5 to not quite .67. If each of the three stands at .9, it moves .5 to about .79. If each stands at .67, it will not carry .5 as far as .6. He then assembles cases in which silence would have misled. Herodotus and Thucydides do not mention Rome, Thucydides does not mention Socrates, and Pliny the Younger and Suetonius both write about the eruption of Vesuvius without naming Herculaneum or Pompeii, which Dio Cassius names about a century later. His proposal is that anyone advancing such an argument should argue the three points separately, and that the standard is high, because otherwise the argument will be weaker than almost any other kind of historical evidence.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study of how people weigh a source's silence was located; what the searches returned is philosophical analysis and historical case work, and where they looked is set out under limits.",
+    "detail": "Mike Duncan, writing in Informal Logic in 2012, reports that scholarly examinations of the argument are rare and that it is usually treated as a fallacy, and that neither Aristotle's Sophistical Refutations nor Hamblin's Fallacies mentions it. The analyses located here are of the same kind: reconstructions, worked historical examples and formal models, with no participants and no measurements. Experiments do exist on the neighbouring argument from ignorance, and this site's entry on that fallacy records them. They test the general negative-evidence form rather than the silence of a particular source, which is why they are not counted here as a replication of anything on this page."
+  },
+  "limits": "This is a form of argument rather than a measured effect, so there is no protocol to re-run. Its quantities are also not measurable in practice. McGrew says exact numbers are unnecessary in his proposal, and Duncan argues that Bayes's theorem cannot generate values without values to put in, which leaves the crucial probability to a qualitative judgement by somebody familiar with the evidence. The historian's low estimate does not settle the form. Efraim Wallach models an archaeological excavation, writing α for the chance of detecting a trace that is there and q for the chance of a stray trace at a site that was never occupied, and gets a strength of (1 − αq)/(1 − α). At α = 0.1 and q = 0.1, values he attributes to Forber and Griffith on the fossil record, the ratio is 1.1 and the inference is feeble. At α = 0.8 and q = 0.1, which he says fits an orderly excavation, it is about 5, and he concludes that inference from absence must then be treated like any other empirical inference. McGrew's psychological explanation is untested. He attributes overconfidence about silence to the known difficulty people have with conjunctions, and his own footnote says that attempts to reproduce Kahneman and Tversky's result seem to indicate it is less robust than they thought, without naming those attempts; this site's conjunction-fallacy entry records where that literature stands. Several sources were not obtained. John Lange's 1966 article, cited by both Duncan and McGrew as the philosophical treatment of the argument, is closed at the publisher and Semantic Scholar lists no open copy, so its three preconditions are reported here through Duncan. De Smedt's Principes de la critique historique, David Henige's Historical Evidence and Argument and Douglas Walton's Arguments from Ignorance are named through McGrew's use of them, and nothing is quoted from them. Lisanyuk and Khamidov's article is in Russian, and only the journal's English abstract was read. The search for empirical work covered Crossref, PubMed, Semantic Scholar's list of works citing McGrew, Unpaywall and general web search, pairing the English name and argumentum ex silentio with terms for experiment and replication. On 17 August 2026 Semantic Scholar listed 15 works citing McGrew, in biblical studies, Egyptology, philosophy and archaeology, and PubMed returned 115 records for the phrase, in medical contexts. This site's own research protocol forbids writing that a source contains no confidence interval unless the whole source has been read, which is this argument turned on the site itself, and where a search comes up empty the page names where it looked.",
+  "misreadings": "'Absence of evidence is not evidence of absence' gets used as though it closed the question. Wallach summarises the probabilistic treatments as sharing two results: absence of evidence is some evidence of absence, and it is usually weak evidence, so the inference will usually be inconclusive. The slogan states the second and is read as the first. The argument is also merged with the argument from ignorance, which this site covers as entry 413. McGrew records Walton classing the argument from silence as a species of it, and says what marks it out is that some particular source was expected to speak. Lisanyuk and Khamidov's abstract draws the line differently, putting the epistemic burden on the participants in the argument from ignorance and on the source of the information in the argument from silence. Langlois and Seignobos are quoted as licensing the argument when their sentence restricts it: what is conclusive is not the absence of any document on a fact, but silence as to the fact in a document in which it would naturally be mentioned. McGrew reads their Tacitus and Notitia examples as cases they took to be conclusive, and neither example asks whether the document survived. The Sherlock Holmes story is the last confusion. Duncan points out that Holmes is never told the dog stayed quiet, so the inference takes the absence of a report of a bark for the absence of a bark, and Conan Doyle, writing fiction, could arrange for it to come out right.",
+  "sources": [
+    {
+      "text": "McGrew, T. (2014). The Argument from Silence. Acta Analytica, 29(2), 215-228. Crossref dates the online record 5 October 2013. The published article is paywalled; the text read for this entry is the author's copy hosted on his own site, downloaded twice to identical checksums, with every figure extracted from the PDF text twice. Source for the Bayesian reconstruction, the three terms, the worked numbers, the calibration cases and the closing proposal.",
+      "doi": "10.1007/s12136-013-0205-5",
+      "url": "https://timothymcgrew.com/wp-content/uploads/2024/01/The-Argument-from-Silence-Acta-Analytica-Tim-2013.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Langlois, C. V., & Seignobos, C. Introduction to the Study of History, translated by G. G. Berry, with a preface by F. York Powell dated July 1898. New York: Henry Holt and Company. Read in full text from the Internet Archive scan of a printing the Archive's catalogue record dates 1913. Source for the argument from silence passage at pp. 253-256, including the two admissible cases and the sophism of the good old times.",
+      "url": "https://archive.org/stream/introductiontost00lang/introductiontost00lang_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Duncan, M. G. (2012). The Curious Silence of the Dog and Paul of Tarsus; Revisiting The Argument from Silence. Informal Logic, 32(1), 83-97. Open access, full text read from the journal PDF, which bylines the author Mike Duncan. Source for Lange's three preconditions, for the rarity of scholarly treatment, and for the reading of the Silver Blaze case.",
+      "doi": "10.22329/il.v32i1.3139",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/3139",
+      "type": "primary"
+    },
+    {
+      "text": "Wallach, E. (2019). Inference from absence: the case of archaeology. Palgrave Communications, 5, 94. Open access, full text read from the publisher PDF, downloaded twice to identical checksums. Source for the likelihood ratio (1 − αq)/(1 − α), for the values 1.1 and about 5, and for the summary of what the probabilistic treatments agree on.",
+      "doi": "10.1057/s41599-019-0307-9",
+      "url": "https://www.nature.com/articles/s41599-019-0307-9",
+      "type": "primary"
+    },
+    {
+      "text": "Lange, J. (1966). The Argument from Silence. History and Theory, 5(3), 288-301. Not obtained; the record was verified at Crossref and Semantic Scholar reports no open copy. Named here as the study Duncan and McGrew both work from. No figure or quotation on this page is taken from it.",
+      "doi": "10.2307/2504447",
+      "url": "https://doi.org/10.2307/2504447",
+      "type": "primary"
+    },
+    {
+      "text": "Lisanyuk, E. N., & Khamidov, A. A. (2021). Argument from Ignorance and Argument from Silence. Discourse, 7(1), 5-16. The full text is in Russian and was not read; the journal's English abstract was, and is the source for the distinction between where the epistemic burden falls in the two arguments.",
+      "doi": "10.32603/2412-8562-2021-7-1-5-16",
+      "url": "https://discourse.elpub.ru/jour/article/view/372?locale=en_US",
+      "type": "commentary"
+    },
+    {
+      "text": "Franco, A., Malhotra, N., & Simonovits, G. (2014). Publication bias in the social sciences: Unlocking the file drawer. Science, 345(6203), 1502-1505. Paywalled and not obtained; the figures quoted here are from the publisher's abstract as deposited at PubMed, read twice, and no number from the body of the paper appears on this page.",
+      "doi": "10.1126/science.1255484",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25170047/",
+      "type": "primary"
+    },
+    {
+      "text": "Egger, M., Davey Smith, G., Schneider, M., & Minder, C. (1997). Bias in meta-analysis detected by a simple, graphical test. BMJ, 315(7109), 629-634. The abstract was read at PubMed Central; the body of the paper is available there only as a PDF, which was not read. The counts of asymmetric funnel plots quoted here are from the abstract.",
+      "doi": "10.1136/bmj.315.7109.629",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2127453/",
+      "type": "primary"
+    },
+    {
+      "text": "Rosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychological Bulletin, 86(3), 638-641. Not obtained; the record was verified at Crossref, and only the title of the paper is used on this page.",
+      "doi": "10.1037/0033-2909.86.3.638",
+      "url": "https://doi.org/10.1037/0033-2909.86.3.638",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
