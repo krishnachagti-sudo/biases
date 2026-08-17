@@ -13,13 +13,13 @@
     "year": 1988,
     "who": "Fritz Strack, Leonard L. Martin and Sabine Stepper",
     "where": "Journal of Personality and Social Psychology",
-    "note": "Their paper is titled \"Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis\". The pen manipulation is the reason it became one of the most reproduced demonstrations in undergraduate teaching."
+    "note": "Their paper is titled \"Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis\". The replicators describe it as commonly discussed in introductory psychology courses and textbooks, and counted 1,370 Google Scholar citations in May 2016."
   },
-  "evidence": "Participants rate cartoons for funniness while holding a pen either in their teeth or in their lips. In Study 1 the teeth group averaged 5.14 and the lips group 4.32 on a ten-point scale running from 0 to 9, a gap of 0.82 units. Study 2 produced a gap of 1.03. Those numbers carried a great deal: they are the demonstration cited when the facial feedback hypothesis is introduced, and until 2016 the study had never been directly replicated.",
+  "evidence": "The 1988 paper reports two studies, and the famous number comes from the first. Study 1 tested 92 undergraduates at the University of Illinois in three conditions: pen in the teeth, pen in the lips, pen in the nondominant hand. Mean funniness ratings were 5.14 for teeth, 4.77 for the hand and 4.32 for the lips, on a scale from 0 to 9, so the quoted gap of 0.82 is the distance between the two extremes of a three-condition design. The test the authors report for it is a linear contrast across all three, t(89) = 1.85, p = .03, a directional result close to the conventional threshold. Study 2 tested 83 students at Mannheim University and split the humour response in two. There the pen left funniness ratings alone, with all ps above .20, and moved only the separate amusement rating, which ran 6.43 in the teeth condition against 5.40 in the lips condition, t(75) = 1.78. The replication report gives that gap as 1.03. The authors also note that the group codings for Study 1 were lost through a clerical oversight. The replicators state that the study had not been replicated directly using the same design and the same dependent variable, and searches of Crossref, OpenAlex, Semantic Scholar and Europe PMC in August 2026 found no earlier direct repeat.",
   "replication": {
-    "state": "failed",
-    "headline": "Seventeen laboratories ran the pen protocol on 1,894 people and the gap between smiling and pouting all but vanished.",
-    "detail": "The Registered Replication Report followed one vetted protocol at every site. Where the original found a 0.82-unit gap on its ten-point scale, the random-effects meta-analysis across all 17 labs found 0.03 units, with a 95% confidence interval from -0.11 to 0.16. Nine of the 17 site results pointed in the predicted direction and none reached the original gap. The precise target matters: this is Study 1 of Strack and colleagues, run as they ran it, not the facial feedback hypothesis in general. A second multilab test in 2022, the Many Smiles Collaboration, put a pen-in-mouth arm alongside two other manipulations and again found nothing for the pen. The pen demonstration has now failed twice under preregistration, while the wider hypothesis has not. One counter-argument deserves its own line. Every replicating laboratory recorded participants on a video camera, which the 1988 study did not. Noah, Schul and Mayo tested that in 2018 on 200 Hebrew-speaking students, 166 of whom entered the analysis, and reported the teeth-lips gap in the no-camera rooms (5.75 against 4.92) and nothing in the camera rooms (5.21 against 5.15). Their own interaction test, the one their claim rests on, came out at p = .051 one-tailed, and they describe it as greatly underpowered. Coles, Larsen and Lench then checked the same moderator across the whole literature in 2019 and found no sign of it, with effects of d = 0.17 when participants knew about the recording and d = 0.23 when they did not.",
+    "state": "mixed",
+    "headline": "Two preregistered multi-lab tests found nothing for the pen, while smaller studies run without a camera, or in a classroom, still get the original effect.",
+    "detail": "The Registered Replication Report followed one vetted protocol at every site. Its 17 laboratories tested 2,533 people and analysed 1,894, the gap being strict exclusions. Where the original found a 0.82-unit gap on its ten-point scale, the random-effects meta-analysis found 0.03 units, with a 95% confidence interval from -0.11 to 0.16. Nine of the 17 site results pointed in the predicted direction, and none produced a gap as large as 0.82. The target was Study 1 of Strack and colleagues, with three declared changes: the rating wording came from their Study 2, the nondominant-hand condition was dropped, and instructions were delivered by video. A second multi-lab test in 2022, the Many Smiles Collaboration, added a pen-in-mouth arm alongside two other manipulations. It collected 3,878 participants from 26 research groups spanning 19 countries and kept 1,504 for the primary analyses, and the pen arm moved self-reported happiness by 0.04 points, 95% confidence interval -0.07 to 0.15, with Bayes factors favouring the null. Two smaller studies point the other way, and they are the reason this entry is filed as mixed rather than failed. Every laboratory in the 2016 report ran a video camera on the participant, which Noah, Schul and Mayo say the 1988 study did not. They tested that in 2018 on 200 Hebrew-speaking students, 166 of whom entered the analysis, and found the teeth-lips gap in the no-camera rooms (5.75 against 4.92, t(162) = 2.48, p = .01) and nothing in the camera rooms (5.21 against 5.15, p = .85). The interaction their claim rests on came out at t(162) = 1.64, p = .051 one-tailed, which they call marginally significant and greatly underpowered. Marsh, Rhoads and Ryan then ran the pen task on more than 400 undergraduates across nine semesters of a classroom demonstration and report evidence for the effect at a magnitude that overlapped the original.",
     "study": {
       "cite": "Wagenmakers, E.-J., Beek, T., Dijkhoff, L., et al. (2016). Registered Replication Report: Strack, Martin, & Stepper (1988). Perspectives on Psychological Science, 11(6), 917-928.",
       "doi": "10.1177/1745691616674458",
@@ -43,47 +43,65 @@
       "ciLevel": 95,
       "weighting": "random-effects"
     },
-    "indexedBy": "FReD"
+    "indexedBy": "FLoRA"
   },
-  "limits": "No confidence interval is printed for the original. Its abstract at PubMed states the direction of the result and gives no figures, and the 1988 paper is paywalled, so the condition means and the 0.82 gap above are read off the replication report's description of it rather than off Strack, Martin and Stepper. The two numbers are on the study's own rating scale rather than standardised, which is how both papers report them: converting them would produce a figure neither source contains. The 2022 Many Smiles result is on a different measure again, self-reported happiness on a one-to-seven scale, so it cannot be lined up against the 0.82.",
-  "misreadings": "The result is often stated as proof that facial expressions have no effect on emotion. It is narrower than that. What failed is one specific demonstration at the size it originally reported, and a hypothesis is not one experiment. Coles, Larsen and Lench pooled 286 effect sizes from 138 studies in 2019 and put the overall effect of facial feedback on self-reported affect at d = 0.20, 95% confidence interval 0.14 to 0.26, small and heterogeneous. The Many Smiles Collaboration then tested 3,878 people in 19 countries and found that posing a happy expression raised self-reported happiness by 0.31 points on a seven-point scale, 95% confidence interval 0.21 to 0.40. That effect came from the mimicry task, at 0.49, and the voluntary facial action task, at 0.40. The pen task returned 0.04. So the hypothesis has support and the pen does not carry it. The pen study is also still taught as an established result, which is the more common error.",
+  "limits": "No confidence interval for the 0.82 gap was found in the 1988 paper. The copy read here is a scan whose tables did not render, so any interval may sit in its Table 1. The replication report does supply one for the original, drawn in the forest plot and computed by the replicators from the summary statistics under an assumption of homogeneous variance and homogeneous sample size, and its numeric bounds are not printed in the article text. Both headline figures are on the study's own rating scale rather than standardised, which is how both papers report them. The 2022 result is on a different measure again, self-reported happiness from 1 to 7, so it cannot be lined up against the 0.82. That study ran entirely online because covid stopped in-person collection, and it excluded 46% of participants for showing awareness of the hypothesis. Strack, replying in the same issue as the 2016 report, put its exclusion rate at 24% and noted that the 14 labs recruiting from psychology subject pools averaged d = -0.03 against d = 0.16 for the three that did not, t(15) = 2.35, p = .033, an analysis he ran after seeing the data. Marsh, Rhoads and Ryan sits behind a paywall: its sample of over 400 and its conclusion are taken from the abstract at PubMed, and no effect size from it appears here.",
+  "misreadings": "The result is often stated as proof that facial expressions have no effect on emotion. It is narrower than that. What failed is one specific demonstration at the size it originally reported, and a hypothesis is not one experiment. Coles, Larsen and Lench pooled 286 effect sizes from 138 studies in 2019 and put the overall effect of facial feedback on self-reported affect at d = 0.20, 95% confidence interval 0.14 to 0.26, small and heterogeneous. Their subgroup for emotional experience alone gives d = 0.17, 0.11 to 0.23. The Many Smiles Collaboration found that posing a happy expression raised self-reported happiness by 0.31 points on a one-to-seven scale, 95% confidence interval 0.21 to 0.40, with the mimicry task at 0.49 and the voluntary facial action task at 0.40 while the pen task returned 0.04. So the hypothesis has support and the pen does not carry it. The camera is treated as a settled explanation for the failure, and it is not. Coles and colleagues found little sign of it, with d = 0.17 for participants aware of video recording against d = 0.23 for those unaware, and a moderator coefficient of -0.06, 95% confidence interval -0.20 to 0.07. Phaf and Rotteveel repartitioned that same dataset in 2023 by whether anyone else was in the room, and got d = 0.444 for unobtrusive studies with a social context against d = 0.099 without, while calling their analysis exploratory and post hoc. The pen study is also still taught as an established result, which is the more common error. Embodied cognition, entry 54, covers the wider programme this belongs to, and power posing, entry 155, is the postural version of the same argument.",
   "sources": [
     {
-      "text": "Strack, F., Martin, L. L., & Stepper, S. (1988). Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis. Journal of Personality and Social Psychology, 54(5), 768-777.",
+      "text": "Strack, F., Martin, L. L., & Stepper, S. (1988). Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis. Journal of Personality and Social Psychology, 54(5), 768-777. Read in full from a scanned copy whose tables did not render.",
       "doi": "10.1037/0022-3514.54.5.768",
       "url": "https://doi.org/10.1037/0022-3514.54.5.768",
       "type": "primary"
     },
     {
-      "text": "Wagenmakers, E.-J., Beek, T., Dijkhoff, L., et al. (2016). Registered Replication Report: Strack, Martin, & Stepper (1988). Perspectives on Psychological Science, 11(6), 917-928.",
+      "text": "Wagenmakers, E.-J., Beek, T., Dijkhoff, L., et al. (2016). Registered Replication Report: Strack, Martin, & Stepper (1988). Perspectives on Psychological Science, 11(6), 917-928. Full text read from the corresponding author's copy at ejwagenmakers.com.",
       "doi": "10.1177/1745691616674458",
       "url": "https://doi.org/10.1177/1745691616674458",
       "type": "replication"
     },
     {
-      "text": "Noah, T., Schul, Y., & Mayo, R. (2018). When both the original study and its failed replication are correct: Feeling observed eliminates the facial-feedback effect. Journal of Personality and Social Psychology, 114(5), 657-664.",
-      "doi": "10.1037/pspa0000121",
-      "url": "https://doi.org/10.1037/pspa0000121",
+      "text": "Strack, F. (2016). Reflection on the smiling Registered Replication Report. Perspectives on Psychological Science, 11(6), 929-930. The original author's reply, and the source of the camera and subject-pool objections.",
+      "doi": "10.1177/1745691616674460",
+      "url": "https://doi.org/10.1177/1745691616674460",
       "type": "secondary"
     },
     {
-      "text": "Coles, N. A., Larsen, J. T., & Lench, H. C. (2019). A meta-analysis of the facial feedback literature: Effects of facial feedback on emotional experience are small and variable. Psychological Bulletin, 145(6), 610-651.",
+      "text": "Noah, T., Schul, Y., & Mayo, R. (2018). When both the original study and its failed replication are correct: Feeling observed eliminates the facial-feedback effect. Journal of Personality and Social Psychology, 114(5), 657-664.",
+      "doi": "10.1037/pspa0000121",
+      "url": "https://doi.org/10.1037/pspa0000121",
+      "type": "replication"
+    },
+    {
+      "text": "Marsh, A. A., Rhoads, S. A., & Ryan, R. M. (2019). A multi-semester classroom demonstration yields evidence in support of the facial feedback effect. Emotion, 19(8), 1500-1504. Paywalled, and read at the PubMed abstract, record 30475036.",
+      "doi": "10.1037/emo0000532",
+      "url": "https://doi.org/10.1037/emo0000532",
+      "type": "replication"
+    },
+    {
+      "text": "Coles, N. A., Larsen, J. T., & Lench, H. C. (2019). A meta-analysis of the facial feedback literature: Effects of facial feedback on emotional experience are small and variable. Psychological Bulletin, 145(6), 610-651. Figures read from the accepted manuscript the authors deposited at PsyArXiv, not from the published version.",
       "doi": "10.1037/bul0000194",
       "url": "https://doi.org/10.1037/bul0000194",
       "type": "secondary"
     },
     {
-      "text": "Coles, N. A., March, D. S., Marmolejo-Ramos, F., et al. (2022). A multi-lab test of the facial feedback hypothesis by the Many Smiles Collaboration. Nature Human Behaviour, 6(12), 1731-1742.",
+      "text": "Coles, N. A., March, D. S., Marmolejo-Ramos, F., et al. (2022). A multi-lab test of the facial feedback hypothesis by the Many Smiles Collaboration. Nature Human Behaviour, 6(12), 1731-1742. Read from the repository copy at Ca' Foscari University of Venice.",
       "doi": "10.1038/s41562-022-01458-9",
       "url": "https://doi.org/10.1038/s41562-022-01458-9",
       "type": "replication"
     },
     {
-      "text": "Roseler, L., et al. FORRT Replication Database (FReD) and FORRT Library of Reproduction and Replication Attempts (FLoRA). OSF, 2022. Used to locate the replication above, not as the source for what it found.",
+      "text": "Phaf, R. H., & Rotteveel, M. (2023). An audience facilitates facial feedback: A social-context hypothesis reconciling original study and nonreplication. Psychological Reports, 127(6), 3170-3189. Read from the University of Amsterdam repository copy.",
+      "doi": "10.1177/00332941231153975",
+      "url": "https://doi.org/10.1177/00332941231153975",
+      "type": "secondary"
+    },
+    {
+      "text": "FORRT, Röseler, L., Wallrich, L., et al. FORRT Replication Database (FReD) and FORRT Library of Reproduction and Replication Attempts (FLoRA). OSF, 2022. The FLoRA table carries rows pointing at both the 2016 report and Noah and colleagues, and was used to locate them rather than as the source for what they found.",
       "doi": "10.17605/OSF.IO/9R62X",
       "url": "https://doi.org/10.17605/OSF.IO/9R62X",
       "type": "index"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
