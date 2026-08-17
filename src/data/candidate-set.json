@@ -3994,7 +3994,7 @@
     0.96
    ],
    "proportion_of_36_samples_significant_same_direction": 0.94,
-   "entry": null,
+   "entry": "implicit-explicit-correspondence",
    "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
   },
   {
@@ -4045,7 +4045,7 @@
     0.68
    ],
    "proportion_of_36_samples_significant_same_direction": 0.71,
-   "entry": null,
+   "entry": "implicit-explicit-correspondence",
    "source": "Klein et al. (2014), Many Labs 1, doi 10.1027/1864-9335/a000178, Table 2"
   },
   {
@@ -4661,7 +4661,7 @@
    "replication_slate": 2,
    "replication_samples_in_slate": 61,
    "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
-   "entry": null,
+   "entry": "asymmetry-of-similarity",
    "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
   },
   {
