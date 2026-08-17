@@ -3018,7 +3018,8 @@
    "categories": [
     "Category:Cognitive biases"
    ],
-   "redirects_here": []
+   "redirects_here": [],
+   "excluded": "the parent concept, a research field rather than one bias; its named effects already have entries (perceptual defence, change blindness, inattentional blindness, selective perception, accentuation effect, apophenia, pareidolia), and the one testable claim not covered by them, that motivation and value change what is literally seen, is written as top-down-effects-on-perception"
   },
   {
    "title": "Extension neglect",
@@ -4989,7 +4990,7 @@
    "replication_n": 2969,
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
-   "entry": null,
+   "entry": "power-and-perspective-taking",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {

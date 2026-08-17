@@ -45,10 +45,17 @@ Redirects were resolved to canonical titles before deduplication, so
 two. The redirect names are kept per candidate as `redirects_here`; they are the
 alias list a reader is likely to search for.
 
-**349 candidates, 16 excluded by hand, 333 to write.** Each exclusion carries its
+**349 candidates, 18 excluded by hand, 331 to write.** Each exclusion carries its
 reason in the JSON — books (*Thinking, Fast and Slow*), parent concepts
 (`Cognitive bias`, `Heuristic`), research malpractices that are not judgement
 errors (`Data dredging`, `P-hacking`), and one-off events.
+
+Two of those exclusions were added later, by agents sent to write the entries.
+`Social perception` and `Perceptual psychology` are both fields whose named
+effects already have entries here, and in each case the agent established that
+before writing rather than after. A third, `Attribution (psychology)`, was
+refused on the same grounds and is recorded in the commit history rather than
+in the file, because that agent wrote nothing at all.
 
 ## The second source, and why the set needed one
 

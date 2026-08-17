@@ -1,0 +1,91 @@
+{
+  "no": 397,
+  "slug": "top-down-effects-on-perception",
+  "name": "Top-down effects on perception",
+  "aliases": ["New Look psychology", "Cognitive penetrability", "Wishful seeing"],
+  "category": "perception",
+  "statement": "What a person wants, fears or believes is said to change what they literally see, so that coins look bigger to poor children and hills look steeper under a heavy backpack.",
+  "meaning": "The claim is about seeing, not about judging. Everyone agrees that a hungry person thinks about food more, looks at it more and reports it differently. The interesting claim is stronger: that the visual system itself delivers a different image, so the coin looks bigger in the way a line in the Muller-Lyer figure looks longer. Bruner and Goodman put it as accentuation, the tendency for sought-after objects to become more vivid, and set it inside a theory of perceptual hypotheses that need and reward strengthen. Philosophers call the same question cognitive penetrability. Firestone and Scholl draw the boundary that makes the claim testable. Shifting where a viewer looks or attends is not the effect in dispute, and neither is context inside the image. What is in dispute is a direct influence of a belief, desire or category on visual processing. The distinction matters because almost every reported demonstration measures a spoken number, and a spoken number is produced by a person who has both seen something and thought about it."
+  ,
+  "origin": {
+    "year": 1947,
+    "who": "Jerome S. Bruner and Cecile C. Goodman",
+    "where": "Journal of Abnormal and Social Psychology",
+    "note": "'Value and need as organizing factors in perception' reported that children matched a circle of light to coins as larger than to grey cardboard discs of the same size. Firestone and Scholl describe it as the landmark that ignited the New Look movement in perceptual psychology. The modern vocabulary of top-down effects and cognitive penetrability is later, and Firestone and Scholl count more than 175 papers reporting such effects since 1995."
+  },
+  "evidence": "Bruner and Goodman tested 30 ten-year-old children in three groups of ten. Each child sat in front of a wooden box with a ground-glass screen carrying a patch of light, and turned a knob that moved an iris diaphragm from an eighth of an inch to two inches. Twenty children judged coins from a penny to a half dollar, first from memory in ascending then descending order, then with the coin held six inches to the left of the light patch, four judgments per coin. The remaining ten judged grey cardboard discs of the same sizes with no mention of money. Coins were judged larger than the discs, and the overestimation grew with the value of the coin apart from the half dollar. Ten children came from a progressive school serving prosperous families and ten from a settlement house in a Boston slum, and the poor group overestimated more. The paper reports no effect sizes and no intervals. It gives F scores from a Postman and Bruner analysis of variance, converted to P values below .01 for coin value, for coins against discs, and for the rich against poor difference, with the interaction between economic status and coin value between .05 and .01. For the rich group a half dollar was overjudged by 17.4 per cent with the coin in view and by 34.7 per cent from memory. The modern revival rests on the same shape of demonstration. Bhalla and Proffitt reported in 1999 that wearing a heavy backpack makes hills look steeper; that paper is closed at the publisher and is described here from Durgin and colleagues, who state that the only justification given to participants for the backpack was that its weight also had to be estimated. Balcetis and Dunning's abstract reports five experiments in which desirable objects, a water bottle for a thirsty person, money that could be won, favourable feedback, were seen as physically closer, measured by verbal report and by underthrowing a beanbag. Banerjee, Chatterjee and Sinha reported in 2012 that recalling an unethical deed made a room look darker and made lamps, candles and torches more desirable.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Four preregistered replications of the moral-darkness effect found nothing, and a meta-analysis including the originals put it at d = 0.14, 95% limits -0.002 to 0.28.",
+    "detail": "Brandt, IJzerman and Blanken ran two online and two laboratory replications of both Banerjee studies, with 475 and 482 MTurk workers and 100 and 121 Tilburg University students. Every primary comparison was non-significant, with all t values below 1.28 online and below 0.59 in the laboratory. Nine of the ten effects were significantly smaller than the originals. Their random-effects meta-analysis over 11 brightness effects, originals included, gave d = 0.14 with 95% confidence limits of -0.002 to 0.28, z = 1.93, p = .054. Over 15 effects for preference for light-emitting products it gave d = 0.13, limits -0.04 to 0.29, p = .127. The by-laboratory breakdown is the interesting part. Studies run in the Banerjee laboratory averaged 0.64 and studies run in the Firestone laboratory averaged 0.42, both significant, while the Brandt laboratory averaged -0.04 in cubicles and 0.04 online. Psychological Science published an expression of concern on the Banerjee paper in 2021, signed by Patricia J. Bauer and Gregory Francis; its text was not obtained for this entry. Durgin and colleagues tested the backpack effect against experimental demand with 45 Swarthmore undergraduates on a wooden ramp of 14.5 degrees. Twelve wore no backpack, 13 wore an unexplained one, and 20 wore one after being told with real electrodes, a noisy fan and displayed equipment that it held muscle-monitoring gear. Fifteen of the 20 believed the cover story, and their slope judgements were indistinguishable from those of the unburdened group. Twelve of the 13 in the standard condition articulated the hypothesis, and the five who also said they thought the backpack had affected them gave haptic estimates of 51 degrees against 27 for the seven who did not, t(11) = 2.42, p = .034, d = 1.19. Comparing the naive electrode group with the standard group gave F(1,24) = 4.98, p = .035, eta squared .21 for demand. Firestone and Scholl attack the same literature from the opposite direction. Their El Greco studies rerun a reported effect using a measuring scale made of the same stuff the effect is supposed to distort. If unethical thoughts really darkened the room, the grey patches used to rate it would darken too and the difference would cancel. The effect appeared anyway, which they read as showing it was never perceptual. Their 2014 paper was not obtained; its abstract was read at PubMed, and the size of its darkness effect is quoted above from Brandt and colleagues' meta-analysis rather than from the paper. On the original coin result, Firestone and Scholl report that follow-up studies could replicate the value-based size distortion only when judgements were made from memory rather than during viewing, citing Carter and Schooler in 1949 and Landis and colleagues in 1966. Neither of those papers was obtained.",
+    "study": {
+      "cite": "Brandt, M. J., IJzerman, H., & Blanken, I. (2014). Does recalling moral behavior change the perception of brightness? A replication and meta-analysis of Banerjee, Chatterjee, and Sinha (2012). Social Psychology, 45(3), 246-252.",
+      "doi": "10.1027/1864-9335/a000191",
+      "year": 2014
+    },
+    "replicated": {
+      "es": 0.14,
+      "esType": "d",
+      "ci": [-0.002, 0.28],
+      "ciLevel": 95
+    }
+  },
+  "limits": "The dispute is live and the two critiques of the same effect point different ways. Brandt and colleagues found nothing at all; Firestone and Scholl found the darkness effect and argued it cannot be perceptual, and their own runs sit in the meta-analysis at 0.42. A reader who wants one verdict will not get it from these papers. Durgin's test is small, with cells of 12, 13 and 20, and its authors write that they do not seek to confirm the null hypothesis. Two of the papers this entry describes were not read in full. Bhalla and Proffitt is closed at the publisher with no repository copy at Unpaywall, and Firestone and Scholl's 2014 Psychological Science paper is also closed, so both are described from other documents that discuss them. Carter and Schooler, Landis and colleagues, Klein and colleagues and McCurdy are named here only as Firestone and Scholl's target article describes them. Firestone and Scholl restrict their claim to visual perception, and their target article drew 34 commentaries from 103 colleagues, with the summary they themselves print running from 'an excellent checklist' to 'fundamentally flawed'. Searching Crossref, PubMed, Europe PMC, Unpaywall and OSF turned up no multi-laboratory replication of any of the effects on this page.",
+  "misreadings": "The headline of Firestone and Scholl's article is read as a denial that anything outside the eye matters. It is not. They exclude what they call pedestrian senses of top-down, shifting gaze or attention and the influence of surrounding context, and their target is a direct effect of a belief, desire or category on visual processing. Second, a failed replication is not the only way an effect of this kind dies. The El Greco argument works on effects that do replicate, by showing that a real perceptual distortion would have cancelled itself out of the measurement. Third, the New Look is often described as having been refuted. Firestone and Scholl describe it as stalling under scrutiny, and quote Erdelyi's 1974 line that the word artifact became the descriptive term par excellence associated with it. Fourth, the coin study is not the accentuation effect this atlas records under Tajfel and Wilkes. Bruner and Goodman had no category boundary and no graded series, only value inflating judged size. Fifth, measuring an action rather than a word does not settle the question. Balcetis and Dunning inferred distance from beanbag throws, and Firestone and Scholl reply that an action can be an explicit judgement, in the way a driver who knows the mirror distorts will throw to where the object is rather than to where it looks.",
+  "sources": [
+    {
+      "text": "Bruner, J. S., & Goodman, C. C. (1947). Value and need as organizing factors in perception. Journal of Abnormal and Social Psychology, 42, 33-44. Full text read in the Classics in the History of Psychology transcription at York University.",
+      "url": "https://psychclassics.yorku.ca/Bruner/Value/",
+      "type": "primary"
+    },
+    {
+      "text": "Firestone, C., & Scholl, B. J. (2016). Cognition does not affect perception: Evaluating the evidence for 'top-down' effects. Behavioral and Brain Sciences, 39, e229. Target article, 34 commentaries and authors' response read from the copy on the authors' laboratory site.",
+      "doi": "10.1017/S0140525X15000965",
+      "url": "https://perception.yale.edu/papers/16-Firestone-Scholl-BBS.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Brandt, M. J., IJzerman, H., & Blanken, I. (2014). Does recalling moral behavior change the perception of brightness? Social Psychology, 45(3), 246-252. Closed at Hogrefe; read as the authors' accepted manuscript on PsyArXiv.",
+      "doi": "10.1027/1864-9335/a000191",
+      "url": "https://osf.io/preprints/psyarxiv/37sx2",
+      "type": "replication"
+    },
+    {
+      "text": "Durgin, F. H., Baird, J. A., Greenburg, M., Russell, R., Shaughnessy, K., & Waymouth, S. (2009). Who is being deceived? The experimental demands of wearing a backpack. Psychonomic Bulletin & Review, 16(5), 964-969. Full text read from the publisher PDF.",
+      "doi": "10.3758/PBR.16.5.964",
+      "url": "https://link.springer.com/content/pdf/10.3758/PBR.16.5.964.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Firestone, C., & Scholl, B. J. (2014). 'Top-down' effects where none should be found: The El Greco fallacy in perception research. Psychological Science, 25(1), 38-46. Closed at the publisher; abstract read at PubMed.",
+      "doi": "10.1177/0956797613485092",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24297777/",
+      "type": "replication"
+    },
+    {
+      "text": "Banerjee, P., Chatterjee, P., & Sinha, J. (2012). Is it light or dark? Recalling moral behavior changes perception of brightness. Psychological Science, 23(4), 407-409. Abstract record read at PubMed, which carries the expression of concern notice.",
+      "doi": "10.1177/0956797611432497",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22395128/",
+      "type": "primary"
+    },
+    {
+      "text": "Bauer, P. J., & Francis, G. (2021). Expression of concern: Is it light or dark? Recalling moral behavior changes perception of brightness. Psychological Science, 32(12), 2042-2043. Existence and title verified at Crossref and PubMed; the notice text was not obtained.",
+      "doi": "10.1177/09567976211058727",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34752162/",
+      "type": "commentary"
+    },
+    {
+      "text": "Balcetis, E., & Dunning, D. (2010). Wishful seeing: More desired objects are seen as closer. Psychological Science, 21(1), 147-152. Abstract read at PubMed.",
+      "doi": "10.1177/0956797609356283",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20424036/",
+      "type": "primary"
+    },
+    {
+      "text": "Bhalla, M., & Proffitt, D. R. (1999). Visual-motor recalibration in geographical slant perception. Journal of Experimental Psychology: Human Perception and Performance, 25(4), 1076-1096. Closed at the publisher with no open copy at Unpaywall; described here from Durgin and colleagues and from Firestone and Scholl.",
+      "doi": "10.1037/0096-1523.25.4.1076",
+      "url": "https://doi.org/10.1037/0096-1523.25.4.1076",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
