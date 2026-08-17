@@ -1,0 +1,76 @@
+{
+  "no": 513,
+  "slug": "argument-from-fallacy",
+  "name": "Argument from fallacy",
+  "aliases": [
+    "Fallacy fallacy",
+    "Fallacist's fallacy",
+    "Argumentum ad logicam",
+    "Argument to logic"
+  ],
+  "category": "belief",
+  "statement": "A bad argument for a claim is not a reason to think the claim false, so treating a fallacy as a refutation of the conclusion is itself an error.",
+  "meaning": "Two moves travel under the one name and they are not the same size. The first runs from 'this argument is fallacious' to 'this conclusion is false', which is the move the popular label is about. The second runs from 'this argument fits an invalid form' to 'this argument is invalid', which is a claim about the argument rather than about the world, and which the philosophical literature treats as the harder question. Fischer separates them. His first proposition is that an argument fallacious in one respect is fallacious in all respects, and his second is that a structurally false argument is therefore substantively false in its conclusion. A reader who runs the two together gets the doctrine that fallacies never matter, which is not what anyone in the literature says. What the second move buys the arguer is only the collapse of that argument. The conclusion is left where it was, to be supported or not by whatever else is going.",
+  "origin": {
+    "year": 1970,
+    "who": "David Hackett Fischer",
+    "where": "Historians' Fallacies: Toward a Logic of Historical Thought",
+    "note": "Fischer closes his chapter on fallacies of substantive distraction, at page 305, by naming 'the fallacist's fallacy' and setting out five propositions he calls profoundly wrong. He offers it as a warning to readers of his own book. The modern label 'argument from fallacy' is later and this entry could not trace who coined it, nor find the Latin tag argumentum ad logicam in any scholarly source it opened."
+  },
+  "evidence": "There are no experiments here, and the record is a philosophical one. Fischer lists five propositions. A partly fallacious argument is fallacious throughout. A structurally false argument is substantively false in its conclusion. A fallacy signals its author's depravity. Sound thinking is merely thinking that is not fallacious. Fallacies exist independent of particular purposes and assumptions. His argument against the first is a picture: most extended arguments are not single chains but chain mail, which can fail in one part and keep its shape, though failure at a vital point still lets in the spear. Against the second he gives an eighteenth-century New England physician who worked out that American Indians were of Mongol extraction by reasoning from Noah's three sons and the absence of Negro slaves among the Indians. Fischer's judgement on it is that the conclusion is right and that every one of its premises is false, and the method of inference as well. He takes the anecdote from Namier. The formal version of the second move is Gerald Massey's asymmetry thesis, which David Botting reconstructs in six steps. An argument is valid if there is some valid logical form of which it is an instance, so showing one valid translation settles the matter for good, while showing that a translation is invalid never completes the enumeration of translations. Validity can be demonstrated and invalidity cannot, and Massey concluded from this that no theory of fallacy is possible. Botting accepts the asymmetry and denies the conclusion. On his account a formal paraphrase that comes out invalid is inductive evidence that the argument is invalid, strong or weak according to the case, and he prices two examples. 'Roses are red, so Einstein was a genius' has the form p therefore q and little else, so the invalid form is strong evidence. 'Roses are red and Einstein was a genius, so Einstein was a genius' can also be read as p therefore q, and there the same observation is worth almost nothing, because a valid reading is available and wins.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study of this move was found, and the nearest measured thing is a different fallacy in the same stage of a discussion.",
+    "detail": "The search covered Crossref by title and by bibliographic query for all four names, Europe PMC for the phrases 'fallacy fallacy', 'argument from fallacy' and 'argumentum ad logicam', and general web search. Europe PMC returns nothing for the second and third. Crossref returns one work titled for it, Christian Cotton's three-page chapter in a Wiley reference volume of a hundred fallacies. Nothing found tests whether people draw the inference, and nothing found tests the question behind it, which is whether calling an argument a fallacy moves belief in its conclusion. The closest measured programme is Frans van Eemeren, Bart Garssen and Bert Meuffels's Conceptions of Reasonableness project, which ran from 1996 to 2008. It showed ordinary arguers short dialogues and asked them to rate one contribution on a seven-point scale, anchored at 1 for very unreasonable and 7 for very reasonable, with 4 in the middle. Each fallacious move was paired with a non-fallacious counterpart of similar appearance. Van Eemeren and Garssen's 2023 summary reports twenty-four types examined and prints twenty numbered rows, the extra types being sub-variants. Every fallacious contribution scored below 4 apart from the tu quoque variant of the ad hominem, which reached 4.45 against 5.29 for its counterpart. One row falls in the concluding stage, the argumentum ad ignorantiam, at 2.56 against 5.56. The argument from fallacy is not among the twenty rows, and the concluding-stage fallacy the pragma-dialectical scheme claims as newly identified is making an absolute of the success of a defence, which is the opposite direction of travel. Two other indexes that would ordinarily be searched, OpenAlex and Semantic Scholar, refused requests during this pass and were not consulted."
+  },
+  "limits": "The scholarly footing is thin and several pieces of it were not obtained. Cotton's chapter is behind a Wiley block that returned 403 here, so only its Crossref record was seen and nothing on this page comes from it. Massey's two papers were not read, and his argument is given as Botting reconstructs it. The van Eemeren, Garssen and Meuffels book of 2009 was not obtained either. The reasonableness figures quoted above come from Table 1 of the authors' open-access article of 2023, which summarises the project rather than reporting it. Three further attributions found in general reference material, to William Lycan, John Woods and Nigel Warburton, could not be checked, because the scanned copies were lending-restricted or the downloads failed, and none of them appears here. The pragma-dialectical rule list itself was read only through the 2023 article, not through van Eemeren and Grootendorst's 1992 catalogue of violations. Two standard reference works were searched in full for the four names and carry none of them. They are the Stanford Encyclopedia of Philosophy entry on fallacies and the Internet Encyclopedia of Philosophy entry, whose partial list runs to more than two hundred named fallacies and includes Argument from Ignorance, Genetic and Texas Sharpshooter's. That absence is a fact about those two documents rather than about the literature as a whole.",
+  "misreadings": "The commonest error is to read the rule as a licence. That an argument is fallacious does not mean the argument survives; it means it fails, and it means the conclusion is left unsupported by it rather than shown to be false. Fischer's second proposition is about the conclusion, and his own gloss is that the argument collapses as an argument while the conclusion may still be correct. The second error is to treat the name as covering all five of his propositions at once. The claim that a fallacy shows its author's depravity is his third, and it is a point about the arguer rather than about the inference, which Fischer says he had already met in Bentham. A third error takes the rule to mean that spotting an invalid form tells you nothing. Botting's position is the reverse: the paraphrase is evidence, and its weight depends on how obvious the translation is, which for a two-line argument with no structure can be considerable. Last, the move is distinct from the argument from ignorance, which infers a claim from the absence of evidence against it. Both sit in the closing stage of a dispute and one of them has been measured, so the figures for the argument from ignorance do not transfer.",
+  "sources": [
+    {
+      "text": "Fischer, D. H. (1970). Historians' Fallacies: Toward a Logic of Historical Thought. New York: Harper & Row. The fallacist's fallacy and its five propositions are at pages 305 to 306, in chapter XI, Fallacies of Substantive Distraction. Read in full from the scan at the Internet Archive; the copyright page of that printing gives 1970 and ISBN 0-06-131545-1.",
+      "url": "https://archive.org/download/HistoriansFallaciesTowardALogicOfHistoricalThought/historians_fallacies_toward_a_logic_of_historical_thought_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Botting, D. (2014). A good argument that bad arguments are bad. Revista Iberoamericana de Argumentación, 8, 1-16. Open access, read in full from the journal PDF. Source for Massey's asymmetry thesis in six steps and for the two roses-and-Einstein examples. The article dates itself to 2014; the Crossref record carries a registration date of 2025.",
+      "doi": "10.15366/ria2014.8.003",
+      "url": "https://revistas.uam.es/ria/article/download/8165/19806",
+      "type": "primary"
+    },
+    {
+      "text": "Massey, G. (1981). The Fallacy behind Fallacies. Midwest Studies in Philosophy, 6(1), 489-500. Not obtained; the record was verified at Crossref. Cited here through Botting, along with Massey's 1975 paper 'Are there any good arguments that bad arguments are bad?' in Philosophy in Context 4, 61-77, which has no DOI and was not found.",
+      "doi": "10.1111/j.1475-4975.1981.tb00454.x",
+      "url": "https://doi.org/10.1111/j.1475-4975.1981.tb00454.x",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., & Garssen, B. (2023). The Pragma-Dialectical Approach to the Fallacies Revisited. Argumentation, 37(2), 167-180. Open access. Every reasonableness figure on this page was read from its Table 1, which was fetched separately from the article body.",
+      "doi": "10.1007/s10503-023-09605-w",
+      "url": "https://link.springer.com/article/10.1007/s10503-023-09605-w",
+      "type": "replication"
+    },
+    {
+      "text": "van Eemeren, F. H., Garssen, B., & Meuffels, B. (2009). Fallacies and Judgments of Reasonableness: Empirical Research Concerning the Pragma-Dialectical Discussion Rules. Argumentation Library 16. Springer. Not obtained; the record was verified at Crossref and the chapter abstracts were read at the publisher. Named as the report of the project whose figures are quoted here from the 2023 article.",
+      "doi": "10.1007/978-90-481-2614-9",
+      "url": "https://doi.org/10.1007/978-90-481-2614-9",
+      "type": "replication"
+    },
+    {
+      "text": "Cotton, C. (2018). Argument from Fallacy. In Bad Arguments, pp. 125-127. Wiley. Not obtained; the publisher returned 403 on two attempts and the record was verified at Crossref. The only Crossref-indexed work found whose title is this fallacy.",
+      "doi": "10.1002/9781119165811.ch20",
+      "url": "https://doi.org/10.1002/9781119165811.ch20",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Fetched and searched in full for 'fallacy fallacy', 'fallacist', 'argument from fallacy' and 'ad logicam', none of which occurs in it.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Fetched and searched in full for the same four names, none of which occurs in its partial list of more than two hundred named fallacies.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
