@@ -230,6 +230,34 @@ delegation is safe enough to do at all. See the header of
 `build/check-sources.mjs` for what it does and for the two bugs its own first
 run had.
 
+## An unobtainability claim is a claim, and it decays
+
+Saying a paper is paywalled is not a disclaimer. It is a statement about the
+world, it goes on the page over the author's name like any other, and it is the
+single most common error this corpus has produced: on one day of auditing, more
+than fifteen entries said a document could not be had when it could. The pattern
+is always the same. A paper is closed at its publisher, the writer stops there,
+and the note that records the failure hardens into a fact nobody re-tests.
+
+Retry the publisher's refusal against the author's own faculty page, the
+institutional repository, the preprint server, the funder's archive and the
+scanned reprint. Several of the founding papers in this corpus sit in plain
+sight on their authors' university pages while their publishers return 403.
+
+Two variants are worse than the plain case. The first is when the claim carries
+an argument: an entry said two books of logic were lending-restricted and that
+it therefore says nothing about what is in them, while both were one download
+away and one contained the exact passage the entry was quoting at second hand.
+An unobtainability note that excuses an omission is doing work, and work needs
+checking. The second is when the reason given is wrong even though the
+conclusion holds: two papers were called paywalled that are open access on a
+faculty page this session's egress policy happens to deny. They are still
+unread, and the page now says which is true.
+
+The honest forms are narrow. Name the venues tried and the date. Say what the
+figure rests on instead. If the block is a bot challenge rather than a paywall,
+say so, because the next reader may not hit it.
+
 ## What the report is for
 
 The agent's report is not a summary of the entry. The entry says what was found;
