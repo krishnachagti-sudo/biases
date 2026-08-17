@@ -1,0 +1,85 @@
+{
+  "no": 511,
+  "slug": "appeal-to-consequences",
+  "name": "Appeal to consequences",
+  "aliases": [
+    "Argumentum ad consequentiam",
+    "Argument from consequences",
+    "Appeal to consequence"
+  ],
+  "category": "belief",
+  "statement": "Treating what would follow from a claim being true as evidence about whether it is true.",
+  "meaning": "The move runs in two directions. A claim is accepted because its being true would be welcome, or rejected because its being true would be unwelcome. Bradley Dowden's Internet Encyclopedia of Philosophy article states the second form as arguing that a belief is false because it implies something you would rather not believe. Frans van Eemeren and Bart Garssen give the general shape as a step from a normative premise to a descriptive standpoint. The mistake is the mismatch rather than the mention of consequences. Consequences bear on what to do, and a question about what to do is not the question the arguer is answering.",
+  "origin": {
+    "year": 1870,
+    "who": "James McCosh",
+    "where": "The Laws of Discursive Thought: Being a Text-Book of Formal Logic",
+    "note": "Douglas Walton traced the modern textbook genesis of the fallacy to McCosh, citing an 1879 printing, and reports that Aristotle treated the argument as reasonable rather than as a fallacy. The passage is section 110, headed \"Argument from Consequences\", at page 189. Two scans carry it word for word, an 1883 Robert Carter and Brothers printing and Charles Scribner's Sons' revised edition of 1891, and both register copyright in 1870. The 1870 first edition itself was not seen. Walton's article is paywalled, so the dating and the reading of Aristotle come from its published abstract."
+  },
+  "evidence": "McCosh's section states the distinction the fallacy turns on, and states it under an English heading rather than the Latin one. Argument from consequences \"is allowable in questions of pure expediency\", his instance being whether a proposed law against intemperance, gambling or licentiousness would achieve its end. \"But when the question is one of truth or right, we should not in the first instance appeal to results.\" He names the case he had in mind: rejecting a new scientific truth because it might undermine religious belief or good social sentiment. Consequences may be traced once truth or falsehood has been settled on independent evidence. Hans Hansen's Stanford Encyclopedia article draws the same line for two neighbours of this fallacy. Ad misericordiam and ad baculum arguments have their natural home in practical reasoning, he writes, and fallacy becomes more likely when they are used in theoretical, doxastic argumentation. Walton's own scheme keeps consequences on the practical side. Argument from positive consequences runs from a premise that good consequences will plausibly occur if A is brought about to the conclusion that A should be brought about, and the negative form mirrors it. The conclusion is about an action. The measured work comes from one place. Van Eemeren, Garssen and Bert Meuffels showed ordinary readers paradigmatic fallacies alongside their non-fallacious counterparts. The exchanges were domestic, political or scientific, and written without loaded content. Readers rated reasonableness on a seven-point scale, with 1 the strongest unreasonable rating, 4 neutral and 7 the strongest reasonable rating. Van Eemeren and Garssen's 2023 overview of 24 fallacy types gives the argumentum ad consequentiam two rows. The pragmatic variant scored 2.96 against 5.03 for its reasonable counterpart. The logical variant, which imitates reductio ad absurdum by swapping \"Y is not true\" for \"Y is not desirable\", scored 3.92 against 4.39. That gap of 0.47 is the narrowest of the 24 rows in their table. Van Eemeren's own gloss on the programme records the failure from both sides. Ordinary arguers hardly ever see the reductio ad absurdum as a type of sound argumentation, and hardly ever see the logical variant of the argumentum ad consequentiam as a fallacy.",
+  "replication": {
+    "state": "none-located",
+    "headline": "One experimental measurement was found, rating the pragmatic variant 2.96 against 5.03 and the logical variant 3.92 against 4.39, and no independent repeat of either test was located.",
+    "detail": "Searches were run at Crossref by bibliographic query on \"argumentum ad consequentiam\" and on \"appeal to consequences\", at Europe PMC, which returns five records for \"ad consequentiam\" and 18 for \"appeal to consequences\", at OpenAlex, and by general web search. Every record inspected at title level is philosophy, textual analysis, commentary or clinical prose rather than an experiment. What came back is the Amsterdam pragma-dialectical programme. Its scores reach this entry through a summary table in van Eemeren and Garssen's 2023 article, which prints means for 24 fallacy types and no sample sizes, dispersion or test statistics. That article records replication studies in a number of cases, with respondents in the Netherlands, the United Kingdom, Germany, Spain and Indonesia. It does not say which fallacies those replications covered, so nothing here claims the ad consequentiam test was among them. A later experiment by the same two authors asked whether a pragmatic variant presented ambiguously, so the standpoint could be read as prescriptive rather than descriptive, would be rated less unreasonable than the straightforward version. They report finding no empirical grounds for rejecting that hypothesis. It changes the materials and asks a different question, so it is an extension rather than a repeat."
+  },
+  "limits": "No effect size is available for anything on this page. The 2023 table gives means on a seven-point scale and nothing else, and the chapter of Fallacies and Judgments of Reasonableness holding the argument scheme rule experiments was not obtained. The finding that ordinary arguers hardly ever see the logical variant as a fallacy was read from note 3 of van Eemeren's 2018 chapter, whose notes are public at the publisher while its body is not. The Dutch report of the camouflage experiment in Tijdschrift voor Taalbeheersing returned a bot challenge on two attempts, and the English chapter version in Argumentation in Context was not obtained. That experiment is therefore described from the 2023 article's account of it. Walton's 1999 history is paywalled, and the McCosh passage quoted above was read in the book rather than through him. Everything measured here comes from one research group, on materials that group wrote, with most of the fieldwork in the Netherlands.",
+  "misreadings": "Consequences are not always beside the point, and the fallacy label is often applied as though they were. McCosh allowed the argument in questions of pure expediency. Walton's scheme ends in a conclusion about what should be brought about. Van Eemeren and Garssen make the cut by the standpoint: pragmatic argumentation defends a prescriptive standpoint and is sound, while the argumentum ad consequentiam defends a descriptive one by the same means. A ruling that treats every appeal to consequences as fallacious throws out most of practical reasoning. Three measured phenomena get run together with this fallacy and each has its own entry here. Wishful thinking is a preference moving a forecast, strong when people are asked to name an outcome and weak when they are asked for a probability. Motivated reasoning is uneven scrutiny of evidence. Belief bias is the acceptance of believable conclusions in syllogisms whatever the logic says. None of the three tests whether people commit this fallacy or whether they catch it. The nearest measured relative is solution aversion, denial of a problem driven by dislike of its proposed solution, which this site covers under climate change denial, and no direct replication of that was located there. The moralistic fallacy is a further name in the same neighbourhood, carried by a one-page 1978 note in Nature; it was not read for this entry, and Crossref gives its author as Bernard B. Davis where other records give Bernard D. Davis.",
+  "sources": [
+    {
+      "text": "McCosh, J. (1883). The Laws of Discursive Thought, Being a Text-Book of Formal Logic. New York: Robert Carter & Brothers. Section 110, \"Argument from Consequences\", page 189. Read from the Internet Archive OCR text of the Cornell scan; the source for every word quoted from McCosh. Copyright registered 1870.",
+      "url": "https://archive.org/details/cu31924031295672",
+      "type": "primary"
+    },
+    {
+      "text": "McCosh, J. (1891). The Laws of Discursive Thought, Being a Text-Book of Formal Logic, revised edition. New York: Charles Scribner's Sons. Section 110 at page 189 carries the same passage; read as a second, independent scan to confirm the wording.",
+      "url": "https://archive.org/details/lawsofdiscursive01mcco",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D. (1999). Historical origins of argumentum ad consequentiam. Argumentation, 13(3), 251-264. Paywalled. The dating to McCosh's 1879 text and the claim that Aristotle treated the argument as reasonable are read from the published abstract.",
+      "doi": "10.1023/A:1007779527544",
+      "url": "https://link.springer.com/article/10.1023/A:1007779527544",
+      "type": "commentary"
+    },
+    {
+      "text": "van Eemeren, F. H., & Garssen, B. (2023). The pragma-dialectical approach to the fallacies revisited. Argumentation, 37(2), 167-180. Open access; read in full from the University of Amsterdam repository PDF, downloaded twice to the same checksum. The source for the two-variant definition, the reasonableness scores and the camouflage result.",
+      "doi": "10.1007/s10503-023-09605-w",
+      "url": "https://pure.uva.nl/ws/files/147095527/s10503-023-09605-w.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H. (2018). Descriptive studies of argumentative discourse. In Argumentation Theory: A Pragma-Dialectical Perspective (pp. 71-87). Argumentation Library 33. Body paywalled. Note 3, quoted above, is visible on the publisher's chapter page and was read there on two separate fetches.",
+      "doi": "10.1007/978-3-319-95381-6_5",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-319-95381-6_5",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., & Garssen, B. (2019). And then you are left holding the baby! Strategic manoeuvring with the argumentum ad consequentiam. In In Actual Practice: Topical Studies about Argumentative Discourse in Context (pp. 321-334). Argumentation in Context 17. Named as existing and not obtained; the camouflage experiment is described here from the 2023 article.",
+      "doi": "10.1075/aic.17.17van",
+      "url": "https://doi.org/10.1075/aic.17.17van",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D. (2019). Argumentation schemes and their application in argument mining. In J. A. Blair (Ed.), Studies in Critical Thinking, chapter 11. Windsor Studies in Argumentation. Open access; read in full as the publisher's PDF. The source for the schemes for argument from positive and negative consequences and for the side-effects critical question.",
+      "url": "https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/106/106/1086?inline=1",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, first published 29 May 2015, substantive revision 30 August 2024. The source for the practical against doxastic distinction and for the placement of argument from consequences among Walton's informal paralogisms.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. The source for the quoted definition of appeal to consequence, read on two separate fetches.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Davis, B. (1978). The moralistic fallacy. Nature, 272, 390. One page; not read for this entry, and named only because the two labels are confused.",
+      "doi": "10.1038/272390a0",
+      "url": "https://doi.org/10.1038/272390a0",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
