@@ -1,0 +1,107 @@
+{
+  "no": 488,
+  "slug": "bobo-doll-experiment",
+  "name": "Bobo doll experiment",
+  "aliases": [
+    "Bobo doll study",
+    "Bandura, Ross and Ross (1961)"
+  ],
+  "category": "social",
+  "statement": "Preschool children who watched an adult attack an inflatable Bobo doll reproduced the adult's particular blows when later left alone with a doll of their own.",
+  "meaning": "The finding is about copying rather than about temper. Bandura's argument was that a child can pick up a whole pattern of behaviour by watching someone else, with no reward to the model and none to the child. To show that something had been acquired rather than merely released, the model performed acts a child would not invent: sitting on the doll and punching its nose, striking it on the head with a mallet, tossing it in the air, and saying \"Sock him in the nose\" while doing it. A child who reproduced that sequence had learned something specific by observation alone, since no child was given a chance to practise it. The outcome measured was what a child did to a toy in a room watched through a one-way mirror. Whether the same process governs what a child does to another child is a further claim, and these studies do not test it.",
+  "origin": {
+    "year": 1961,
+    "who": "Albert Bandura, Dorothea Ross and Sheila A. Ross",
+    "where": "The Journal of Abnormal and Social Psychology",
+    "note": "The paper is \"Transmission of Aggression Through Imitation of Aggressive Models\", volume 63, pages 575 to 582, received on 2 December 1960. It calls the toy a 5-foot inflated Bobo doll in its method section. The name the study now travels under came later, and this entry could not establish who coined it."
+  },
+  "evidence": "Seventy-two children at the Stanford University Nursery School, 36 boys and 36 girls, aged 37 to 69 months with a mean of 52 months. Twenty-four watched an aggressive adult model, 24 watched a subdued model who assembled tinker toys and ignored the doll, and 24 saw no model. The eight model conditions held six children each, divided by sex of child and sex of model. Children were rated beforehand on four five-point aggression scales by their teacher and the experimenter, arranged in triplets on the composite score and assigned at random, with an interrater correlation of .89. Exposure lasted ten minutes. Every child, the control group included, was then frustrated on purpose: the experimenter let them start on a set of attractive toys, then said those were her best toys and were being kept for other children. The test room held a 3-foot Bobo doll, a mallet and peg board, two dart guns and a tether ball, alongside a tea set, dolls, bears, crayons and farm animals. Behaviour was scored through a one-way mirror in 5-second units for 20 minutes, giving 240 units per child, with interscorer correlations in the .90s. All but two children in the aggressive condition performed the model's novel acts, and about 70% of children in the other two conditions scored zero on those measures. Two measures moved with condition and two did not. Imitative physical aggression, imitative verbal aggression and the model's non-aggressive lines all separated the groups, and roughly a third of the aggressive-condition children repeated lines such as \"He sure is a tough fella\". Ordinary punching of the Bobo doll and aggressive gun play did not differ by condition at all.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The same three authors ran the paradigm again in 1963 with 96 new children and the imitation effect came back; the repetitions this entry could read are all theirs.",
+    "detail": "The 1963 study asked whether a filmed model works as well as a live one. Ninety-six children at the same nursery school, 48 boys and 48 girls, aged 35 to 69 months with a mean of 52 months, were divided into four groups of 24: a live aggressive model, the same two adults filmed, a cartoon cat performing the same sequence against a fantasy backdrop, and a control group with no exposure. Mean total aggression scores were 83 for the live condition, 92 for human film, 99 for cartoon film and 54 for the control group. Friedman analyses gave a main effect of condition on total aggression, chi-square r = 9.06, p < .05, and a larger one on imitative aggression, chi-square r = 23.88, p < .001. By Wilcoxon tests each of the three exposed groups exceeded the control group on total aggression, at p < .01, p < .01 and p < .005 respectively, and none of the three differed from one another. The prediction that imitation would weaken as the model moved away from reality was only partly borne out: the live models produced more imitative aggression than the cartoon, p < .05, while live and film did not differ and film and cartoon did not differ. Searches of Crossref, PubMed and Europe PMC for a later direct replication of the paradigm returned commentary, teaching material and applications rather than repeat tests, and none was found.",
+    "study": {
+      "cite": "Bandura, A., Ross, D., & Ross, S. A. (1963). Imitation of film-mediated aggressive models. The Journal of Abnormal and Social Psychology, 66(1), 3-11.",
+      "doi": "10.1037/h0048687",
+      "year": 1963,
+      "n": 96
+    }
+  },
+  "limits": "No standardised effect size appears in the parts of either paper read here, which were the whole 1961 text apart from its two tables and pages 3 to 8 of the 1963 article. Both rely on rank tests, because the score distributions were skewed and about 70% of the 1961 comparison children scored zero. The cells are small: six children per model condition in 1961, 24 per condition in 1963. All the children were preschoolers at one university nursery school. The control groups were not placid. In 1963 control children averaged 54 total aggression units against 83 to 99 for the exposed groups, and in 1961 control girls averaged 13.1 mallet aggression responses against 0.5 for girls who had watched the subdued model, so watching a quiet adult suppressed behaviour as much as watching a violent one released it. The sex effects were uneven rather than clean: boys imitated more physical aggression than girls, t = 2.50, p < .01, and the two sexes did not differ on verbal imitation. Galanaki and Malafantis, writing a psychoanalytic critique in 2022, argue that the \"creative embellishment\" the children added points to a playful character in what was scored as aggression. Tedeschi and Quigley's 1996 review of the limitations of laboratory aggression paradigms sits behind a paywall at Elsevier and at Scholars Portal and could not be read here, so nothing is quoted from it. A claim attributed to Cumberbatch in 1990, that children unfamiliar with the doll were five times likelier to imitate, is repeated across teaching material; Crossref, PubMed and Europe PMC searches did not turn up the source, and the retellings found here disagree about which way the effect ran.",
+  "misreadings": "The commonest error is to read the studies as showing that watching violence makes children violent. What was measured was what a child did to a toy built to be knocked over and bounce back, in a room laid out for it, after an adult had taken away better toys. Bandura's own scoring kept the model's novel acts separate from ordinary punching, and in 1961 ordinary punching of the doll did not differ across conditions. Aggression towards a person is a different outcome, measured differently. Wood, Wong and Chachere pooled experiments in which children's or adolescents' behaviour was coded during spontaneous social interaction with other people rather than with a toy, and report that exposure to media violence raised aggressive behaviour when the studies were aggregated, while the effect was not uniform across them.\n\nThe wider generalisation to media effects is a separate argument, and it is contested. Anderson and seven colleagues concluded in 2010 that violent video games are a causal risk factor for aggressive behaviour, aggressive cognition and aggressive affect, with little sign of selection bias. Ferguson's 2015 meta-analysis of 101 studies of children and adolescents put the association with aggression at r = .06 and called such influences minimal. Hilgard, Engelhardt and Rouder reanalysed the Anderson data in 2017, found substantial publication bias in the experimental literature, and estimated the bias-adjusted experimental effect on aggressive behaviour as, in their words, very small. Prescott, Sargent and Hull pooled 24 prospective studies of more than 17,000 people and report beta = 0.113, 95% CI 0.098 to 0.128, falling to beta = 0.080, 95% CI 0.065 to 0.094, with all covariates included. Drummond, Sauer and Ferguson pooled 28 samples of about 21,000 young people and report r = 0.059, with the subset following more best practices at r = 0.012, 95% CI -0.010 to 0.034. Two preregistered studies found nothing: Przybylski and Weinstein interviewed 1,004 British 14 and 15 year olds and an equal number of their carers and found no link, linear or otherwise, between violent game play and carer-rated aggression, and Kühn and colleagues had adults play Grand Theft Auto V, The Sims 3 or no game daily for two months and saw no change on any of their measures. This site reports the measurements and attributes the claims, and takes no position on which side is right.",
+  "sources": [
+    {
+      "text": "Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. The Journal of Abnormal and Social Psychology, 63(3), 575-582. Full text read at Classics in the History of Psychology, which reproduces the article without its two tables.",
+      "doi": "10.1037/h0045925",
+      "url": "https://psychclassics.yorku.ca/Bandura/bobo.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Bandura, A., Ross, D., & Ross, S. A. (1963). Imitation of film-mediated aggressive models. The Journal of Abnormal and Social Psychology, 66(1), 3-11.",
+      "doi": "10.1037/h0048687",
+      "url": "https://doi.org/10.1037/h0048687",
+      "type": "replication"
+    },
+    {
+      "text": "Galanaki, E., & Malafantis, K. D. (2022). Albert Bandura's experiments on aggression modeling in children: A psychoanalytic critique. Frontiers in Psychology, 13, 988877.",
+      "doi": "10.3389/fpsyg.2022.988877",
+      "url": "https://doi.org/10.3389/fpsyg.2022.988877",
+      "type": "commentary"
+    },
+    {
+      "text": "Tedeschi, J. T., & Quigley, B. M. (1996). Limitations of laboratory paradigms for studying aggression. Aggression and Violent Behavior, 1(2), 163-177. Named here because it is widely cited against this paradigm; its text could not be obtained and nothing on this page comes from it.",
+      "doi": "10.1016/1359-1789(95)00014-3",
+      "url": "https://doi.org/10.1016/1359-1789(95)00014-3",
+      "type": "commentary"
+    },
+    {
+      "text": "Wood, W., Wong, F. Y., & Chachere, J. G. (1991). Effects of media violence on viewers' aggression in unconstrained social interaction. Psychological Bulletin, 109(3), 371-383. Abstract read; the pooled effect size was not obtained.",
+      "doi": "10.1037/0033-2909.109.3.371",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1829535/",
+      "type": "replication"
+    },
+    {
+      "text": "Anderson, C. A., Shibuya, A., Ihori, N., Swing, E. L., Bushman, B. J., Sakamoto, A., Rothstein, H. R., & Saleem, M. (2010). Violent video game effects on aggression, empathy, and prosocial behavior in eastern and western countries: A meta-analytic review. Psychological Bulletin, 136(2), 151-173. Abstract read; the pooled estimates were not obtained.",
+      "doi": "10.1037/a0018251",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20192553/",
+      "type": "commentary"
+    },
+    {
+      "text": "Ferguson, C. J. (2015). Do Angry Birds make for angry children? A meta-analysis of video game influences on children's and adolescents' aggression, mental health, prosocial behavior, and academic performance. Perspectives on Psychological Science, 10(5), 646-666.",
+      "doi": "10.1177/1745691615592234",
+      "url": "https://doi.org/10.1177/1745691615592234",
+      "type": "commentary"
+    },
+    {
+      "text": "Hilgard, J., Engelhardt, C. R., & Rouder, J. N. (2017). Overstated evidence for short-term effects of violent games on affect and behavior: A reanalysis of Anderson et al. (2010). Psychological Bulletin, 143(7), 757-774.",
+      "doi": "10.1037/bul0000074",
+      "url": "https://doi.org/10.1037/bul0000074",
+      "type": "commentary"
+    },
+    {
+      "text": "Prescott, A. T., Sargent, J. D., & Hull, J. G. (2018). Metaanalysis of the relationship between violent video game play and physical aggression over time. Proceedings of the National Academy of Sciences, 115(40), 9882-9888.",
+      "doi": "10.1073/pnas.1611617114",
+      "url": "https://doi.org/10.1073/pnas.1611617114",
+      "type": "commentary"
+    },
+    {
+      "text": "Drummond, A., Sauer, J. D., & Ferguson, C. J. (2020). Do longitudinal studies support long-term relationships between aggressive game play and youth aggressive behaviour? A meta-analytic examination. Royal Society Open Science, 7(7), 200373.",
+      "doi": "10.1098/rsos.200373",
+      "url": "https://doi.org/10.1098/rsos.200373",
+      "type": "commentary"
+    },
+    {
+      "text": "Przybylski, A. K., & Weinstein, N. (2019). Violent video game engagement is not associated with adolescents' aggressive behaviour: Evidence from a registered report. Royal Society Open Science, 6(2), 171474.",
+      "doi": "10.1098/rsos.171474",
+      "url": "https://doi.org/10.1098/rsos.171474",
+      "type": "commentary"
+    },
+    {
+      "text": "Kühn, S., Kugler, D. T., Schmalen, K., Weichenberger, M., Witt, C., & Gallinat, J. (2019). Does playing violent video games cause aggression? A longitudinal intervention study. Molecular Psychiatry, 24(8), 1220-1234.",
+      "doi": "10.1038/s41380-018-0031-7",
+      "url": "https://doi.org/10.1038/s41380-018-0031-7",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
