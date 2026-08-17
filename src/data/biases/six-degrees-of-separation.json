@@ -1,0 +1,82 @@
+{
+  "no": 485,
+  "slug": "six-degrees-of-separation",
+  "name": "Six degrees of separation",
+  "aliases": [
+    "Small-world problem",
+    "Small-world phenomenon",
+    "Milgram's small-world experiment"
+  ],
+  "category": "social",
+  "statement": "Any two people are linked by a chain of about six acquaintances, a figure taken from Stanley Milgram's postal experiments of the 1960s.",
+  "meaning": "Two claims travel under one name and they are not the same claim. The topological version says a short path exists between almost any pair of people in a large network. The algorithmic version says ordinary people can find that path, using only what they know about their own acquaintances. Goel, Muhamad and Watts draw the distinction in those words and note that the second is much the stronger. Milgram's method tests the second. He asked people to move a document towards a stranger by posting it to a first-name acquaintance judged closer to the target, then counted the intermediaries on the documents that arrived. Chains that were never completed carry no length, so the famous number is a statistic about the messages that got through.",
+  "origin": {
+    "year": 1967,
+    "who": "Stanley Milgram",
+    "where": "Psychology Today",
+    "note": "The popular article in the magazine's first issue reported the Nebraska study and the anecdote of a folder reaching a Cambridge target through two intermediaries. The technical report came two years later, by Jeffrey Travers and Milgram in Sociometry. Neither text uses the phrase 'six degrees of separation'. Backstrom and colleagues trace the phrase to John Guare's 1990 play and the underlying idea to Frigyes Karinthy's 1929 story 'Láncszemek'."
+  },
+  "evidence": "Travers and Milgram recruited 296 starters: 100 Nebraska owners of blue-chip stocks, 96 other Nebraskans, and 100 people answering a Boston newspaper advertisement. The target was a stockbroker who lived in Sharon, Massachusetts, and worked in Boston. Of the 296, 217 posted the folder on and 64 reached the target, which the paper reports as 29 per cent of those sent out by starting persons. Completed chains ran a mean of 5.2 intermediaries, with a median of five. Boston starters averaged 4.4 intermediaries against 5.7 for the Nebraska random group, a difference the paper reports as significant by a one-tailed Mann-Whitney U test. Completion rates by group were 24, 31 and 35 per cent, and the differences were not significant. Convergence was heavy: three penultimate links delivered 48 per cent of all completions, and one clothing merchant in the target's home town delivered 16. A footnote credits Harrison White with a correction for dropout, which on an assumed 25 per cent random dropout rate raises the median completed length from five to seven.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A global email replication recovered the median, at five to seven steps, while 384 of its 24,163 chains reached a target; the number survives, the routing does not.",
+    "detail": "Dodds, Muhamad and Watts ran the method by email in 2003. Of 98,847 people who registered, about 25 per cent started a chain; data were recorded on 61,168 individuals in 166 countries forming 24,163 chains, aimed at 18 targets in 13 countries. 384 chains reached their target. The mean length of those 384 was 4.05 steps, which the authors call misleading because short chains complete more often. Correcting for the observed per-step attrition, they estimated an ideal median of seven steps overall, five for chains beginning in the target's country and seven for chains beginning elsewhere. Their evidence for treating attrition as random is that the per-step attrition rate is flat once past the first step, and that under 0.3 per cent of non-participants said they could not think of a recipient. Goel, Muhamad and Watts reanalysed 162,328 chains from two such experiments, directed at 30 targets in 19 countries, with completion rates of 0.5 and 0.1 per cent. Applying an unbiased estimator under four attrition models, they put the median 'true' chain length at six or seven every time, and the mean anywhere from 11.8 to 49 steps, with intervals from 4.5 to 68. They call this mixed support for the algorithmic hypothesis: about half the population reaches a target in six or seven steps, and some fraction is much further away. Kleinfeld reaches the opposite verdict from the archives, arguing that the original evidence was too thin to carry the claim at all.",
+    "study": {
+      "cite": "Dodds, P. S., Muhamad, R., & Watts, D. J. (2003). An experimental study of search in global social networks. Science, 301(5634), 827-829.",
+      "doi": "10.1126/science.1081058",
+      "year": 2003,
+      "n": 61168
+    }
+  },
+  "limits": "The figures for Milgram's first study come from an unpublished archival paper, and are quoted here at one remove from Kleinfeld, who read it at Yale. She reports that 'Results of Communication Project' records 60 starters recruited by newspaper advertisement in Kansas, 50 chains started, and 3 documents of the 60 reaching the target, 5 per cent, through an average of 8 people. Milgram's 1967 article tells the story of the fastest of those three and gives no statistics for the study. Kleinfeld also reports that the Nebraska and Los Angeles starters were bought as mailing lists, and that the Kansas advertisement was worded to attract sociable people, so no starting group was a random sample. Her figures for Korte and Milgram's racial study are likewise quoted at one remove, and that paper was not read for this entry. She gives 13 per cent of 270 chains completed to black targets against 33 per cent of 270 to white targets. Two numbers inside Milgram's own popular article do not settle. It says 64 chains reached the target, 44 from Nebraska and 20 from Boston, where the 1969 paper's table gives 42 and 22. It also says that of 160 chains started in Nebraska, 44 were completed and 126 dropped out, which sums to 170. Searches covered Crossref, PubMed, arXiv and web search; the Milgram archival paper itself, Korte and Milgram, and Lin, Dayton and Greenwald were not obtained.",
+  "misreadings": "The median is computed over completed chains only, which is the step almost every retelling drops. In the Nebraska study 232 chains ended in a dropout, and in the email study 384 of 24,163 chains reached a target. Milgram made the smaller error himself. His 1967 article says only five intermediaries suffice on the average, then warns on its last page that this is 'in large measure misleading'. Five removes is an enormous psychological distance, and he asks the reader to think of the two people as five circles of acquaintances apart. A short path existing is also not a short path anyone can follow. Backstrom and colleagues measured 721 million Facebook accounts and 69 billion friendship links and found an average distance of 4.74, or 3.74 degrees of separation, with 92 per cent of reachable pairs within five steps. That is a computation over a stored graph, not a message someone routed, and Goel and colleagues note the gap: search distances behave differently from topological ones, whose mean and median tend to agree. Karinthy and Guare, per Backstrom and colleagues, both meant six as a maximum rather than an average.",
+  "sources": [
+    {
+      "text": "Milgram, S. (1967). The small-world problem. Psychology Today, 1(1), 61-67. Read here as a scan of the printed article; the phrase 'six degrees of separation' appears on none of its seven pages.",
+      "url": "http://snap.stanford.edu/class/cs224w-readings/milgram67smallworld.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Travers, J., & Milgram, S. (1969). An experimental study of the small world problem. Sociometry, 32(4), 425-443.",
+      "doi": "10.2307/2786545",
+      "url": "https://snap.stanford.edu/class/cs224w-readings/travers69smallworld.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Kleinfeld, J. S. (2002). The small world problem. Society, 39(2), 61-66. The archival re-examination of Milgram's unpublished materials at Yale.",
+      "doi": "10.1007/BF02717530",
+      "url": "https://www.csc2.ncsu.edu/faculty/mpsingh/local/Social/f16/wrap/readings/Kleinfeld-2002-18673541.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Kleinfeld, J. S. (2001). Could it be a big world after all? The 'six degrees of separation' myth. Author's manuscript of the paper above, dated 12 April 2001 and carrying a note that a literature review was still to be added.",
+      "url": "https://www.cs.princeton.edu/~chazelle/courses/BIB/big-world.htm",
+      "type": "commentary"
+    },
+    {
+      "text": "Dodds, P. S., Muhamad, R., & Watts, D. J. (2003). An experimental study of search in global social networks. Science, 301(5634), 827-829.",
+      "doi": "10.1126/science.1081058",
+      "url": "https://snap.stanford.edu/class/cs224w-readings/dodds03search.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Goel, S., Muhamad, R., & Watts, D. J. (2009). Social search in 'small-world' experiments. Proceedings of the 18th International Conference on World Wide Web, 701-710.",
+      "doi": "10.1145/1526709.1526804",
+      "url": "https://5harad.com/papers/social-search.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Backstrom, L., Boldi, P., Rosa, M., Ugander, J., & Vigna, S. (2012). Four degrees of separation. Proceedings of the 4th Annual ACM Web Science Conference, 33-42.",
+      "doi": "10.1145/2380718.2380723",
+      "url": "https://arxiv.org/abs/1111.4570",
+      "type": "replication"
+    },
+    {
+      "text": "Korte, C., & Milgram, S. (1970). Acquaintance networks between racial groups: Application of the small world method. Journal of Personality and Social Psychology, 15(2), 101-108. Its completion rates are quoted in this entry from Kleinfeld; the paper was not read here.",
+      "doi": "10.1037/h0029198",
+      "url": "https://doi.org/10.1037/h0029198",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
