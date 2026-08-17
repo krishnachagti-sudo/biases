@@ -1,0 +1,121 @@
+{
+  "no": 450,
+  "slug": "fallacy-of-composition",
+  "name": "Fallacy of composition",
+  "aliases": ["Composition fallacy", "Argument of composition", "Adding-up problem", "Fallacy of wrong combination"],
+  "category": "belief",
+  "statement": "Composition infers a property of the whole from the same property of its parts, and van Eemeren and Grootendorst hold that only absolute, structure-independent properties survive the transfer.",
+  "meaning": "The argument runs from a property held by the parts to the same property held by the whole. Finocchiaro separates an argument of composition from a fallacy of composition, because some part-to-whole arguments are correct. His example of a correct one is that all the parts of an automobile have weight, so the automobile has weight. Van Eemeren and Grootendorst state the condition that decides which ones go through, and it turns on two features of the property rather than on the reasoner. A property is absolute when it can be checked without an implied comparison, and relative when a standard is doing hidden work. It is structure-independent when it does not depend on how the parts are arranged. Only a property that is both absolute and structure-independent transfers. Green is both, and a tin of green peas is green. Small is structure-independent and relative, so a plate of small peas is not a small quantity of peas. Poisonous is absolute and structure-dependent, so sodium and chlorine compose into edible salt. World-class is neither, which is why a team of world-class players need not be a world-class team. The fallacy of division is the same transfer run from the whole to the parts. This collection lists division separately and Finocchiaro argues the two should stay apart, since composition resembles universal generalisation, which is invalid, and division resembles universal instantiation, which is valid. In trade economics the same shape is called the adding-up problem.",
+  "origin": {
+    "year": 1962,
+    "who": "William L. Rowe",
+    "where": "Mind",
+    "note": "The name is far older than any analysis of it and belongs to logic textbooks rather than to a founding paper. Rowe's six pages in Mind 71(281), 87 to 92, are the earliest journal treatment this search located, and its text was not obtained here; van Eemeren and Grootendorst cite it for the claim that composition and division are not fallacies of ambiguity, against Copi, Engel and Rescher. Hansen's Stanford Encyclopedia article warns that the ancestry usually given is wrong: Aristotle's combination and division fallacies concern the grouping of words, as in 'walk while sitting' against 'walk-while-sitting', and Hansen writes that they differ significantly from modern treatments of composition and division. Woods and Walton gave a formal analysis in Studia Logica in 1977. The economic usage runs on a separate track and Finocchiaro traces it to Samuelson's textbook, whose third edition of 1955 heads a section 'the whole and the part: the \"fallacy of composition\"'."
+  },
+  "evidence": "The one programme that has measured the fallacy in people is Chernoff's, in mathematics education. Prospective teachers were asked which event was least likely to result from five or six flips of a fair coin, and asked to justify the answer. Chernoff, Vashchyshyn and Neufeld report three studies of 106, 162 and 95 participants, in which 73, 114 and 70 respondents said the events were equally likely. The paper gives those as roughly 69%, 70% and 74%, and its concluding section restates the third as 73%. Justifications were then read, and 14, 5 and 7 responses were flagged as reasoning from the coin to the event, so 26 of 363 in total. An earlier report by Chernoff and Russell used the same task on two classes of 26 and 28, where 38 of 54 said equally likely, against 46 of 63 in the study before it. The justifications are the evidence. One participant wrote that 'on each flip of the coin there exists a 50:50 chance of heads or tails occurring. therefore, the combinations even when aggregated together have the same chance of occurring.' The property carried across is equiprobability, from the flip to the set of outcomes. The economic literature is older and larger, and it tests models rather than people. Mayer's UNCTAD review distinguishes a protectionist version from Cline in 1982, an export-demand-elasticity version from Faini, Clavijo and Senhadji-Semlali in 1992, and a general-equilibrium version identified by Havrylyshyn and first tested by Martin in 1993. Mayer writes that studies of the first or second version have usually found evidence supporting the hypothesis that there is a fallacy of composition, while studies adopting the third have come to mixed results for overall exports and have often found support for labour-intensive manufactures. His figures for the individual studies are quoted at one remove, from his review rather than from those papers. Cline simulated all developing countries exporting at the intensity of the four Asian newly industrialised economies and calculated that they would have captured 61% of the developed-country import market in 1976, against an actual 17%. Rowthorn's later version of the same exercise, on three Central European and 50 developing countries, put 1990 manufactured exports at three times their actual level, and more than eight-fold under doubled developing-country income per head, lifting their share of developed-country apparent consumption of manufactures from 2.1% to 11.9%. Faini and colleagues estimated price and income elasticities of export demand for 23 developing countries and concluded, in Mayer's summary, that the export success of some Asian countries may be predicated on the failure of others to compete effectively. A separate laboratory result measures a neighbouring error. Dal Bo, Dal Bo and Eyster gave 768 subjects, 384 at Berkeley and 384 at Brown, a vote between a Prisoners' Dilemma and a taxed version of it in which cooperation is dominant. Across treatments 53.60% voted for the Prisoners' Dilemma and 54.55% ended up in the lower-paying game. Asked how much cooperation each game would produce, subjects gave an average difference of 35 percentage points where the true difference was 76, and 30 where it was 63. Those figures are read from the July 2015 working paper. The phrase 'fallacy of composition' does not occur in that document, and the authors describe the error as underappreciating equilibrium effects.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The coin-flip task has been run on five cohorts of trainee teachers with the same result each time, and every cohort came from one research group.",
+    "detail": "Across the three studies in the 2016 report, 69%, 70% and 74% of participants judged unequal events equally likely, on samples of 106, 162 and 95. Two earlier cohorts of 54 and 63 gave 70% and 73%. That is a stable response rate, and it is the part that repeats. What does not come with it is an effect size, a control condition or a test by anyone outside Saskatchewan. The attribution to the fallacy itself rests on reading justifications, and the authors say they cannot claim with certainty that a participant who calls the events equally likely has done so by employing the fallacy of composition. They flagged 26 of 363 justifications as showing it. No independent psychological replication was located: a PubMed search for the exact phrase returns four records, none of them an experiment, and a Crossref search returns the philosophical and economic literature cited here.",
+    "study": {
+      "cite": "Chernoff, E. J., Vashchyshyn, I., & Neufeld, H. (2016). Comparing the relative probabilities of events. 13th International Congress on Mathematical Education, Hamburg, Topic Study Group 14.",
+      "url": "https://fpce.uc.pt/iase-web/documents/papers/icme13/ICME13_I3_Chernoff.pdf",
+      "year": 2016,
+      "n": 363
+    }
+  },
+  "limits": "The prohibition is the least useful part of the idea, because composition is truth-preserving for a large class of properties and the condition is stateable. Van Eemeren and Grootendorst's grid has four cells and only one of them transfers: absolute and structure-independent. Their own examples of transferable terms are red, white, blue, glass, iron and wooden. A jigsaw puzzle is rectangular and its pieces are not, and four triangles compose into a triangle or into a rectangle depending on arrangement, which is what structure-dependence means. Finocchiaro goes further and doubts the category. He argues in Informal Logic that the fallacy of composition does not denote a distinctive kind of argument but a plurality, and does not constitute a distinctive kind of error, but reduces to oversimplification in arguing from micro to macro. The psychological evidence is thin in a specific way. Chernoff's coding is abductive by the authors' own description, and the responses it codes are already named in the probability-education literature as the equiprobability bias, which Lecoutre described in 1992 from data on more than 600 subjects. Calling the same answers a fallacy of composition is a reinterpretation, not a new measurement, and the 2016 paper says the same caveat applies to the representativeness heuristic and the outcome approach. The economic cases are a different kind of claim again. Cline's 61% and Rowthorn's eight-fold figure are outputs of simulations under stated assumptions about export norms and protectionist thresholds, not observations of anyone reasoning, and Havrylyshyn's criticism was that Cline held developed-country income fixed while developing-country exports rose. Mayer's verdict is that the general-equilibrium studies disagree with each other on overall exports. The Dal Bo experiment measures beliefs about how other people respond to a rule change, which is one route to a composition error and not the same thing as transferring a predicate from parts to a whole.",
+  "misreadings": "The confusion a reader is most likely to bring is with the ecological fallacy, which this collection covers at entry 423, and the two differ in direction and in kind. The ecological fallacy runs from an aggregate to an individual, which is the division direction, not composition. It is also not an argument about properties. Robinson's reversal in the 1930 census, where foreign birth and illiteracy correlate at 0.118 across people and -0.526 across the 48 states, follows from arithmetic: the individual correlation depends on the counts inside each area's cells and the ecological one depends only on the row and column totals, and one set of totals is consistent with many interiors. Composition asks whether a predicate carries from parts to the whole, and its answer depends on what the predicate is. Anyone mapping the two onto each other gets the direction backwards and imports a statistical result into a question about language. The second error is treating every part-to-whole inference as fallacious, which the section above answers. The third is the ancestry. Aristotle's fallacies of combination and division are about how words are grouped, and Hansen records the number 5 example, that 5 is 2 and 3, and 2 is even and 3 is odd, so 5 is even and odd. That is not a part-whole property transfer in the modern sense. The fourth is scope. The fallacy of division has its own row in this collection and belongs there, because the two are not mirror images: Finocchiaro notes that composition is reminiscent of universal generalisation and division of universal instantiation, so one is invalid in a way the other is not. The lump of labour fallacy also has its own row, and it is a particular economic claim rather than the general form. Scope insensitivity, at entry 186, is a different failure again, about a valuation that does not scale with quantity rather than about a property inferred from parts. Last, the economic examples that circulate under this name are model results. Woods, Irvine and Walton quote a passage listing standing at a football game, saving, price rises, budget balancing and wage cuts as instances, and each of those is a macroeconomic claim that has to be argued on its own evidence. Finocchiaro reports that of 31 argumentation textbooks he examined, none other than Woods and Walton's own discuss the fallacy of composition in economics, and that of 24 scholarly works, four connect it to economic reasoning.",
+  "sources": [
+    {
+      "text": "van Eemeren, F. H., & Grootendorst, R. (1999). The fallacies of composition and division. In J. Gerbrandy, M. Marx, M. de Rijke & Y. Venema (Eds.), JFAK: Essays Dedicated to Johan van Benthem. Amsterdam: Amsterdam University Press. Full text read from the PDF at the festschrift site; sections 5 to 8 carry the absolute and relative distinction, the structured and unstructured distinction, the four-cell grid, and the chair, peas, salt, jigsaw, football team and elephant examples. Section 8's summary sentence contains an evident typographical slip, printing 'transferable' where the grid and the surrounding argument require 'non-transferable'.",
+      "url": "https://festschriften.illc.uva.nl/j50/contribs/eemeren/eemeren.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. (2025). Fallacies. Stanford Encyclopedia of Philosophy. Read twice from the raw page, once through a fetching tool and once from the retrieved HTML; the source for the investigative-team example, for Aristotle's combination and division of words, and for the number 5 example.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "primary"
+    },
+    {
+      "text": "Chernoff, E. J., Vashchyshyn, I., & Neufeld, H. (2016). Comparing the relative probabilities of events. Proceedings of the 13th International Congress on Mathematical Education, Hamburg. Full text read from the PDF; Tables 1 to 3 carry the 106, 162 and 95 samples and the 73, 114 and 70 equiprobability counts, and the discussion carries the 26 flagged responses and the abductive caveat.",
+      "url": "https://fpce.uc.pt/iase-web/documents/papers/icme13/ICME13_I3_Chernoff.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Chernoff, E. J., & Russell, G. L. (2013). Comparing the relative likelihood of events: the fallacy of composition. In M. Martinez & A. Castro Superfine (Eds.), Proceedings of the 35th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (pp. 333-340). Chicago: University of Illinois at Chicago. Full text read from the PDF; Tables 1 and 2 carry the 26 and 28 class sizes, the 54 and 63 totals, and the quoted justifications.",
+      "url": "https://eric.ed.gov/?id=ED584501",
+      "type": "primary"
+    },
+    {
+      "text": "Chernoff, E. J., & Russell, G. L. (2012). The fallacy of composition: prospective mathematics teachers' use of logical fallacies. Canadian Journal of Science, Mathematics and Technology Education, 12(3), 259-271. Crossref confirms author, title, journal, volume, issue, pages and year. Full text not obtained; it is cited here as the sequence version of the same task.",
+      "doi": "10.1080/14926156.2012.704128",
+      "url": "https://doi.org/10.1080/14926156.2012.704128",
+      "type": "secondary"
+    },
+    {
+      "text": "Mayer, J. (2003). The fallacy of composition: a review of the literature. UNCTAD Discussion Paper No. 166. Full text read from the UNCTAD PDF; sections I to III carry Cline's 61% against 17%, Rowthorn's three-fold and eight-fold figures and the 2.1% to 11.9% consumption share, the account of Faini and colleagues, Havrylyshyn's criticism, and the summary verdict on the three versions. The figures for Cline, Rowthorn, Havrylyshyn and Martin are quoted from this review and not from those papers.",
+      "url": "https://unctad.org/system/files/official-document/osgdp20031_en.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Faini, R., Clavijo, F., & Senhadji-Semlali, A. (1992). The fallacy of composition argument: is it relevant for LDCs' manufactures exports? European Economic Review, 36(4), 865-882. Crossref confirms authors, title, journal, volume, issue, pages and year. Full text not obtained and RePEc records no abstract for it; what it found is quoted here from Mayer's review.",
+      "doi": "10.1016/0014-2921(92)90062-2",
+      "url": "https://doi.org/10.1016/0014-2921(92)90062-2",
+      "type": "secondary"
+    },
+    {
+      "text": "Dal Bo, E., Dal Bo, P., & Eyster, E. (2015). The demand for bad policy when voters underappreciate equilibrium effects. Working paper dated 8 July 2015. Full text read from the PDF; section 6 carries the 53.60% and 54.55% vote shares and the 35, 76, 30 and 63 percentage-point belief figures, and the design section carries the 384 subjects at each university. The published version appeared in the Review of Economic Studies, 85(2), 964-998, at doi 10.1093/restud/rdx031, and was not read here, so its figures may differ.",
+      "url": "https://xlab.berkeley.edu/connect/Dal%20Bo%20-%20demand_for_bad_policy.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dal Bo, E., Dal Bo, P., & Eyster, E. (2018). The demand for bad policy when voters underappreciate equilibrium effects. The Review of Economic Studies, 85(2), 964-998. Crossref record verified. The published text was not obtained; the figures on the page come from the 2015 working paper.",
+      "doi": "10.1093/restud/rdx031",
+      "url": "https://doi.org/10.1093/restud/rdx031",
+      "type": "secondary"
+    },
+    {
+      "text": "Finocchiaro, M. A. (2016). Economic reasoning and fallacy of composition: pursuing a Woods-Walton thesis. In P. Bondy & L. Benacquista (Eds.), Proceedings of the 11th International Conference of the Ontario Society for the Study of Argumentation. Windsor: OSSA. Full text read from the UNLV repository PDF; it carries the automobile example, the distinction between arguments and fallacies of composition, the generalisation and instantiation asymmetry, the Samuelson quotation and section heading, the Caballero quotations, and the textbook counts of 31 and 24 works.",
+      "url": "https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=1029&context=philosophy_fac_articles",
+      "type": "primary"
+    },
+    {
+      "text": "Finocchiaro, M. A. (2013). Debts, oligarchies, and holisms: deconstructing the fallacy of composition. Informal Logic, 33(2). Abstract read at the journal; it is the source for the claim that the fallacy does not denote a distinctive kind of argument or a distinctive kind of error. The body was not read.",
+      "doi": "10.22329/il.v33i2.3892",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/3892",
+      "type": "primary"
+    },
+    {
+      "text": "Finocchiaro, M. A. (2015). The fallacy of composition: guiding concepts, historical cases, and research problems. Journal of Applied Logic, 13(2), 24-43. Abstract read at the UNLV repository record; it names the conflation with the fallacy of division and the Galileo, Hume and Michels cases. Full text not obtained.",
+      "doi": "10.1016/j.jal.2015.01.003",
+      "url": "https://oasis.library.unlv.edu/philosophy_fac_articles/18/",
+      "type": "secondary"
+    },
+    {
+      "text": "Rowe, W. L. (1962). The fallacy of composition. Mind, LXXI(281), 87-92. Crossref and the publisher page confirm author, affiliation, journal, volume, issue, pages and date. The article is behind a paywall and its text was not obtained; what it argues is quoted here from van Eemeren and Grootendorst's note.",
+      "doi": "10.1093/mind/lxxi.281.87",
+      "url": "https://academic.oup.com/mind/article-abstract/LXXI/281/87/975013",
+      "type": "secondary"
+    },
+    {
+      "text": "Woods, J., & Walton, D. (1977). Composition and division. Studia Logica, 36(4), 381-406. Crossref record verified. Full text not obtained; it is cited here as the formal analysis and as the source Finocchiaro credits for the economics connection.",
+      "doi": "10.1007/bf02120673",
+      "url": "https://doi.org/10.1007/bf02120673",
+      "type": "secondary"
+    },
+    {
+      "text": "Lecoutre, M.-P. (1992). Cognitive models and problem spaces in 'purely random' situations. Educational Studies in Mathematics, 23(6), 557-568. Crossref confirms author, title, journal, volume, issue, pages and year. Full text not obtained; it is named here as the earlier account of the same coin and dice responses.",
+      "doi": "10.1007/BF00540060",
+      "url": "https://doi.org/10.1007/BF00540060",
+      "type": "secondary"
+    },
+    {
+      "text": "Caballero, R. J. (1991). A fallacy of composition. NBER Working Paper 3735. Crossref record verified. The article Finocchiaro quotes is the 1992 American Economic Review version at pages 1279 onward; a Crossref search by title and author returned only this working paper, so the journal DOI is not given here.",
+      "doi": "10.3386/w3735",
+      "url": "https://doi.org/10.3386/w3735",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
