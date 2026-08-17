@@ -1,0 +1,106 @@
+{
+  "no": 568,
+  "slug": "incomplete-comparison",
+  "name": "Incomplete comparison",
+  "aliases": [
+    "Dangling comparative",
+    "Hanging comparative",
+    "Implied superiority claim",
+    "Partial comparative advertising"
+  ],
+  "category": "decision",
+  "statement": "A claim that something is better or more effective, with no comparison class stated, is read as a claim about rivals, and can be defended afterwards by naming a weaker referent.",
+  "meaning": "A comparative adjective needs two terms. \"Fresher\" and \"more effective\" name only one, so the listener supplies the other, and the claim is then judged against whatever they supplied. That is what makes the form useful to a seller. The words are true of some comparison, the audience hears the comparison that flatters the product most, and the advertiser keeps the right to point at a different one if challenged. Gary Curtis, writing as The Fallacy Files, takes Ban deodorant as the case: the brand said its \"new Intensely Fresh\" formula \"keeps you fresher longer\", and when competitors objected it said the comparison was with its own old formula. He notes that the same move runs through political claims about lower taxes or higher spending, where the missing term is often a projection rather than the present level. The claim survives because it was never complete enough to be false.",
+  "origin": {
+    "year": 1978,
+    "who": "Terence A. Shimp",
+    "where": "Journal of Advertising Research",
+    "note": "The article is \"Do Incomplete Comparisons Mislead?\", Journal of Advertising Research 18(6), pages 21 to 27. Unpaywall records it as closed with no repository copy, and no abstract for it is deposited at Crossref or held by Semantic Scholar, so this entry names the paper rather than reporting what it did. The grammatical objection is older than the marketing literature and belongs to usage guides rather than to psychology."
+  },
+  "evidence": "The experimental work sits in marketing journals and most of it cannot be opened. Gita Venkataramani Johar ran two experiments on implied claims and reported them in the Journal of Marketing Research in 1995. Her abstract, deposited by the publisher at Crossref, says that consumers highly involved in processing an advertisement make invalid inferences from incomplete-comparison claims while they read, and are deceived by them. It also says that less involved consumers may be induced to complete such claims at the moment they are asked, which makes them look deceived when the deception happened in the questionnaire. Her second experiment separates that case from inconspicuous qualification, where only the less involved were misled. Michael Barone and Paul Miniard studied advertisements that mix comparative and non-comparative copy, again in the Journal of Marketing Research. Their abstract describes deceptive beliefs about the non-comparative information caused by processing of the comparative information, an interaction they call copy by copy, and reports tests of its robustness across moderators. Neither full text was obtainable here and no figure from either study appears above. Two further studies are named in the sources and were closed on every route tried: Rita Snyder on implied-superiority claims in the Journal of Advertising in 1989, and R. G. Wyckham in the Journal of Advertising Research in 1987. Regulators treat the form as a disclosure problem rather than a psychological one. The Federal Trade Commission's policy statement, at 16 CFR 14.15, says the Commission has supported brand comparisons where the bases of comparison are clearly identified, and requires clarity and, where needed, disclosure to avoid deceiving the consumer. Food labelling is stricter. Under 21 CFR 101.13(j) a relative claim such as \"less\", \"fewer\" or \"more\" must state the identity of the reference food. It must also give the percentage or fraction by which the nutrient differs, immediately adjacent to the most prominent claim.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No repeat of any incomplete-comparison experiment was found, and the original experiments are behind paywalls, so the size of the effect is not available at any remove.",
+    "detail": "The search covered Crossref, PubMed, Europe PMC, Unpaywall, the Semantic Scholar citation graph for the 1989 Journal of Advertising paper, and open-web search. It turned up further studies in the same line. Barone, Palan and Miniard returned to partial comparative advertising in the Journal of Advertising in 2004, testing brand usage and gender as moderators. Hastak and Mazis built a typology of truthful but misleading claims in the Journal of Public Policy and Marketing in 2011, drawing on legal cases and on psychological theory. None of those is presented as a replication, and no multi-laboratory or preregistered attempt on this claim was located. Nothing here should be read as a finding that the effect is absent. What is missing is the repeat, and the closed access compounds it: with the primary experiments unreadable, a replication would have nothing published to be measured against."
+  },
+  "limits": "The nearest well-measured literature is about a different omission, and the two get run together. In relative risk reporting the comparison class is stated and the base rate is left out, so a treatment that moves deaths from 6% to 4% is described as cutting mortality by a third. Elie Akl and colleagues pooled 35 studies reporting 83 comparisons for the Cochrane Database of Systematic Reviews in 2011. Against absolute risk reduction, relative risk reduction made no clear difference to understanding, standardised mean difference 0.02, 95% CI -0.39 to 0.43, but was perceived as larger, 0.41, 95% CI 0.03 to 0.79, and was more persuasive, 0.66, 95% CI 0.51 to 0.81. Against number needed to treat, relative risk reduction was better understood, 0.73, 95% CI 0.43 to 1.04, perceived as larger, 1.15, 95% CI 0.80 to 1.50, and more persuasive, 0.65, 95% CI 0.51 to 0.80. Absolute risk reduction beat number needed to treat on understanding, 0.42, 95% CI 0.12 to 0.71, and on perceived size, 0.79, 95% CI 0.43 to 1.15, with little or no difference in persuasiveness, 0.05, 95% CI -0.04 to 0.15. The review graded its evidence down to moderate for surrogate outcomes and heterogeneity, and none of the comparisons measured behaviour. Judith Covey's meta-analysis of 24 articles reporting 31 experiments reached the same ordering four years earlier, with heterogeneity that her metaregression traced mainly to the particular wordings each study chose. Both syntheses answer the question of who shifts the same way. Akl and colleagues found no overall difference between health professionals and consumers. Covey found smaller effects among physicians in subgroup analysis, which her metaregression attributed to other features of study design. Thomas Perneger and Thomas Agoritsas put it to 1,431 doctors, a 56% response rate, in a randomised mail survey. The proportion rating a new drug as more effective was 51.8% under absolute survival, 68.3% under absolute mortality and 93.8% under relative mortality reduction, against 69.8% for respondents shown all three. Their conclusion is that framing bias affects doctors and patients similarly.",
+  "misreadings": "The form is often called meaningless, which understates it. An incomplete comparison carries no truth conditions of its own and still moves belief, which is why regulators write disclosure rules against it rather than falsity rules. Johar's first experiment also warns against the obvious measure. Asking a reader afterwards what the advertisement claimed can manufacture the inference it is trying to detect, so a study that finds deception in the questionnaire has not shown deception in the reader. The relative risk case is a cousin rather than an instance, since there the comparison is stated and the baseline is not. This site treats it under the framing effect, entry 7, and the arithmetic of the missing denominator under denominator neglect, entry 296.",
+  "sources": [
+    {
+      "text": "Shimp, T. A. (1978). Do incomplete comparisons mislead? Journal of Advertising Research, 18(6), 21-27. Closed access with no repository copy at Unpaywall; named here, and nothing is quoted from it.",
+      "doi": "10.1080/00218499.1978.12519002",
+      "url": "https://doi.org/10.1080/00218499.1978.12519002",
+      "type": "primary"
+    },
+    {
+      "text": "Johar, G. V. (1995). Consumer involvement and deception from implied advertising claims. Journal of Marketing Research, 32(3), 267-279. Closed access; the two experiments are described here from the publisher's abstract, read twice at Crossref.",
+      "doi": "10.1177/002224379503200303",
+      "url": "https://doi.org/10.1177/002224379503200303",
+      "type": "primary"
+    },
+    {
+      "text": "Barone, M. J., & Miniard, P. W. (1999). How and when factual ad claims mislead consumers: Examining the deceptive consequences of copy x copy interactions for partial comparative advertisements. Journal of Marketing Research, 36(1), 58-74. Closed access; described from the publisher's abstract.",
+      "doi": "10.1177/002224379903600105",
+      "url": "https://doi.org/10.1177/002224379903600105",
+      "type": "primary"
+    },
+    {
+      "text": "Snyder, R. (1989). Misleading characteristics of implied-superiority claims. Journal of Advertising, 18(4), 54-61. Closed at Unpaywall and at Semantic Scholar, which records the abstract as elided by the publisher. Named as existing; no finding of it is reported here.",
+      "doi": "10.1080/00913367.1989.10673167",
+      "url": "https://doi.org/10.1080/00913367.1989.10673167",
+      "type": "primary"
+    },
+    {
+      "text": "Wyckham, R. G. (1987). Implied superiority claims. Journal of Advertising Research, 27(1), 54-63. Closed access; named as existing.",
+      "doi": "10.1080/00218499.1987.12467819",
+      "url": "https://doi.org/10.1080/00218499.1987.12467819",
+      "type": "primary"
+    },
+    {
+      "text": "Barone, M. J., Palan, K. M., & Miniard, P. W. (2004). Brand usage and gender as moderators of the potential deception associated with partial comparative advertising. Journal of Advertising, 33(1), 19-28. Closed access; named as a later study in the same line, not as a replication.",
+      "doi": "10.1080/00913367.2004.10639155",
+      "url": "https://doi.org/10.1080/00913367.2004.10639155",
+      "type": "commentary"
+    },
+    {
+      "text": "Hastak, M., & Mazis, M. B. (2011). Deception by implication: A typology of truthful but misleading advertising and labeling claims. Journal of Public Policy & Marketing, 30(2), 157-167. Described from the publisher's abstract at Crossref.",
+      "doi": "10.1509/jppm.30.2.157",
+      "url": "https://doi.org/10.1509/jppm.30.2.157",
+      "type": "commentary"
+    },
+    {
+      "text": "Akl, E. A., Oxman, A. D., Herrin, J., Vist, G. E., Terrenato, I., Sperati, F., Costiniuk, C., Blank, D., & Schunemann, H. (2011). Using alternative statistical formats for presenting risks and risk reductions. Cochrane Database of Systematic Reviews, (3), CD006776. Every figure quoted here was read from the abstract in the PubMed XML record and checked against the Europe PMC record.",
+      "doi": "10.1002/14651858.CD006776.pub2",
+      "url": "https://doi.org/10.1002/14651858.CD006776.pub2",
+      "type": "replication"
+    },
+    {
+      "text": "Covey, J. (2007). A meta-analysis of the effects of presenting treatment benefits in different formats. Medical Decision Making, 27(5), 638-654. Read from the abstract at PubMed and at Crossref; no effect size from it is quoted here, because the abstract reports the direction rather than the pooled log-odds.",
+      "doi": "10.1177/0272989X07306783",
+      "url": "https://doi.org/10.1177/0272989X07306783",
+      "type": "replication"
+    },
+    {
+      "text": "Perneger, T. V., & Agoritsas, T. (2011). Doctors and patients' susceptibility to framing bias: A randomized trial. Journal of General Internal Medicine, 26(12), 1411-1417. The doctors' percentages are read from the PubMed XML abstract and confirmed in the Europe PMC record. The patients' percentages sit in a passage the Europe PMC copy truncates, so they are not quoted here.",
+      "doi": "10.1007/s11606-011-1810-x",
+      "url": "https://doi.org/10.1007/s11606-011-1810-x",
+      "type": "replication"
+    },
+    {
+      "text": "Federal Trade Commission, Statement of Policy Regarding Comparative Advertising, 16 CFR 14.15 (44 FR 47328, 13 August 1979). Read in full at eCFR.",
+      "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-A/part-14/section-14.15",
+      "type": "primary"
+    },
+    {
+      "text": "Food and Drug Administration, Nutrient content claims, general principles, 21 CFR 101.13(j). Read at eCFR for the requirement that a relative claim identify its reference food and state the percentage difference.",
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.13",
+      "type": "primary"
+    },
+    {
+      "text": "Curtis, G. N. Logical fallacy: Dangling comparative. The Fallacy Files, posted 16 October 2023. The source for the Ban deodorant case and for the alias \"hanging comparative\"; it cites Jackson and Jamieson's Unspun (2007), pages 31 to 33, which was not read here.",
+      "url": "https://www.fallacyfiles.org/dangcomp.html",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
