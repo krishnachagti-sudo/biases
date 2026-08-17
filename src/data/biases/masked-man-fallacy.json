@@ -1,0 +1,128 @@
+{
+  "no": 540,
+  "slug": "masked-man-fallacy",
+  "name": "Masked-man fallacy",
+  "aliases": [
+    "Illicit substitution of identicals",
+    "The veiled man",
+    "The man in the hood",
+    "Intensional fallacy"
+  ],
+  "category": "belief",
+  "statement": "The masked-man fallacy swaps one name for another name of the same thing inside a claim about what somebody believes or knows, where the swap can turn a truth into a falsehood.",
+  "meaning": "Substitutivity of identicals says that a true identity licenses exchanging one term for the other. Quine states it as the principle that, given a true statement of identity, one of its two terms may be substituted for the other in any true statement and the result will be true. He then supplies the counterexamples. Philip is unaware that Tully denounced Catiline, Cicero is Tully, and the substituted sentence is false. Philip believes that Tegucigalpa is in Nicaragua, Tegucigalpa is the capital of Honduras, and the substituted sentence is false again. Quine's diagnosis is that the supplanted occurrence was not purely referential, and he calls the contexts 'is unaware that' and 'believes that' referentially opaque, along with 'knows that', 'says that' and 'doubts that'. Frege had reached the same restriction in 1892 by a different route. In reported speech, he argued, words have their indirect reference, which is their customary sense, so it is not permissible to replace one expression in the subordinate clause by another having the same customary reference, but only by one having the same indirect reference. The fallacy is the inference that ignores the restriction, and it runs in two directions. Forwards it goes from a true identity and one belief report to a second belief report. Backwards it goes from two belief reports that differ to the conclusion that the two terms name different things. The Fallacy Files sets out both forms and works them with a masked man who is Mr Hyde. The backwards form is the one that does damage in philosophy, because it looks like a proof of non-identity built out of what somebody can doubt. Entry 447 covers equivocation, which is where several writers say the trouble in these arguments actually lies.",
+  "origin": {
+    "year": 1892,
+    "who": "Gottlob Frege",
+    "where": "Zeitschrift für Philosophie und philosophische Kritik",
+    "note": "'Über Sinn und Bedeutung' is where the restriction on substitution inside indirect speech is stated. It was read here in Max Black's translation, whose headnote gives the original as volume 100, pages 25 to 50, of 1892, and the translation as pages 56 to 78 of Geach and Black of 1952. The name is older than the analysis and its ancient credit is not clean. Diogenes Laertius at 2.108 lists among the interrogatory arguments of Eubulides of Miletus the Liar, the Disguised, Electra, the Veiled Figure, the Sorites, the Horned One and the Bald Head. Three sections later, at 2.111, the same book says that Diodorus Cronus was supposed by some to have been the first to discover the Veiled and the Horned arguments. Both passages were read in Hicks's English and in the Greek at Perseus, where 2.108 has ἐγκεκαλυμμένον among the seven and 2.111 has πρῶτος δόξας εὑρηκέναι τὸν ἐγκεκαλυμμένον. Neither passage says what the argument was. The version everyone repeats is Lucian's, in sections 22 and 23 of Philosophies for Sale: you know your own father, you would not know a man presented to you in a hood, and the man in the hood is your father."
+  },
+  "evidence": "The philosophical claim is about sentences. The measurable claim is whether reasoners honour the restriction, and it has been put to children and to adults. Gut, Haman, Gorbaniuk and Chylińskia tested 120 Polish children in four groups of 30, aged 3, 4, 5 and 6. Each child did an unexpected-contents false-belief task with a chocolate box holding pencils, and two intensionality tasks in which one object carried two identities. Pass rates on false belief ran 26.7%, 63.3%, 90.0% and 90.0% across the age groups. On the car-pen intensionality task they ran 10.0%, 36.7%, 63.3% and 86.7%, and on the police-officer-and-dad task 13.3%, 40.0%, 66.7% and 93.3%. Cochran's Q on the three tasks gave Q(2) = 21.568, p < 0.001, with false belief ahead of both, and the pairwise gaps held at McNemar chi-square 12.971 and 11.130, both p < 0.001. Six of the 120 children, 5%, failed false belief and passed an intensionality task. Control and extensional questions ran between 80% and 100% across ages, so the younger children were holding the story in mind and failing the substitution question. Experiment 2 replaced the verbal answer with a choice of stickers for 75 children aged 4 to 6, following Hulme and colleagues' use of pictures. Only the 6-year-olds beat chance on either sticker version of the intensionality task, and adding a second sticker for each identity did not damage false-belief performance, which is what the linguistic-load account predicts it should. Yeung and Cheung took the question to adults with a sentence-reading task that states the agent's belief outright, so no inference about the belief is needed. In Experiment 1, 35 Cantonese-Chinese speakers were correct on 77.14% of intensionality trials against 82.57% of false-belief trials, b = 0.58, SE = 0.23, z = 2.53, p = 0.011, odds ratio 1.78. Experiment 2 kept 38 of 60 participants after exclusions and split them between object identities and object properties. The identity group scored 75.00% on intensionality trials against 91.00% on false-belief trials; the property group scored 78.89% against 83.89%. Trial type predicted correctness, b = -1.93, z = -2.95, p = 0.003, and the interaction with description type did not, b = 1.13, z = 1.47, p = 0.141. Experiment 3 recruited 164 and analysed 74. The identity group scored 78.00% against 90.57% and the property group 90.26% against 88.46%. Trial type came out at b = -1.61, SE = 0.30, z = -5.29, p < 0.001, and the interaction reached b = 1.93, SE = 0.43, z = 4.47, p < 0.001, with the effect present in the identity group, b = -1.63, z = -5.28, p < 0.001, and absent in the property group, b = 0.32, z = 1.06, p = 0.291. The authors read that split as evidence that the cost comes from holding more than one identity candidate for the same object. Older work is described here from abstracts read at PubMed. Apperly and Robinson gave 51 five- and six-year-olds stories in which a character either held a false belief about an object or was ignorant of an object's second identity, and report that children found the false-belief version easier on both a belief-report question and a sorting prediction. Hulme, Mitchell and Wood report that 6-year-olds answered according to their own knowledge in an intensional context while passing false belief, and that this held when the answer was a picture placed in a thought bubble rather than a spoken belief report. Kamawar and Olson tested 4-, 6- and 8-year-olds on epistemic, quotational and intentional opaque contexts, and report performance best with 'know', worst with 'mean to' and quotation in between.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The substitution error is real and it survives adulthood. Children who pass a false-belief test at four are still making it at five, and adults told in writing what the agent believes get intensional trials right about three times in four.",
+    "detail": "The developmental gap has been reported by four groups over three decades, in England, Canada and Poland, with tasks that share little beyond the question. Gut and colleagues summarise the pattern as performance on intensionality tasks at six matching performance on false belief at four, citing Russell, Kamawar and Olson, Apperly and Robinson, and Hulme and colleagues. Their own two experiments reproduce it, at Q(2) = 21.568, p < 0.001 in Experiment 1, and hold it when the verbal answer is replaced by stickers. Hulme, Mitchell and Wood say in their own abstract that they replicated previous findings. Yeung and Cheung then found the same asymmetry in adults three times in one paper, at 77.14% against 82.57%, 75.00% against 91.00% and 78.00% against 90.57% on the identity conditions of Experiments 1, 2 and 3. What is disputed is not the measurement but what it means. Gut and colleagues set out two readings: that the gap marks a conceptual deficit, or that it marks executive and linguistic load on tasks whose concept children already have, the second attributed to Rakoczy and to Rakoczy and colleagues. Their experiments were built against the second. Standardising the wording of both tasks left the gap in place, and importing the dual-name problem into the false-belief task did not narrow it. They read that as support for conceptual enrichment, and place the arrival of opacity understanding between five and six. Neither Rakoczy's defence of the four-year-old dogma nor Oktay-Gür, Schulz and Rakoczy's 2018 experiments were obtained here, so the strength of the other side of that argument is not assessed on this page.",
+    "study": {
+      "cite": "Yeung, E. K. L., & Cheung, H. (2024). Intensionality is more cognitively demanding than false belief in adults: evidence from a non-inferential sentence-reading task. Scientific Reports, 14, 452.",
+      "doi": "10.1038/s41598-024-51181-w",
+      "year": 2024,
+      "n": 74
+    },
+    "indexedBy": "PubMed"
+  },
+  "limits": "No study read here tests the fallacy as an argument. The experiments ask whether a reasoner will describe an agent's belief using a term the agent lacks, which is the error the fallacy formalises, and none of them presents the two premises and asks for a verdict on the inference. None uses the name. A Crossref search for the phrase returned one preprint, on whether Cartesian dualism commits it, and no journal article. The samples are narrow. Gut and colleagues recruited from three kindergartens in one Polish city. Yeung and Cheung tested Cantonese-Chinese speakers at two Hong Kong universities in all three experiments, and the exclusions are heavy: 22 of 60 dropped in Experiment 2, and 164 recruited against 74 analysed in Experiment 3, where 48 were removed for not noticing that the stimulus verb changed. Their property condition showed no effect at all in Experiment 3, so the result is specific to dual identities rather than to belief contexts in general. Several papers in this literature were not obtained and are described on this page only from abstracts read at PubMed: Apperly and Robinson of 2003, Hulme, Mitchell and Wood of 2003, and Kamawar and Olson of 2011. Russell's 1987 paper, Apperly and Robinson of 1998 and 2001, Rakoczy's 2015 Synthese article and Oktay-Gür, Schulz and Rakoczy of 2018 were not obtained in any form, and no figure is quoted from them. On the ancient side, Diogenes Laertius records the title and not the argument, and the earliest statement of the argument read here is Lucian's, written some five centuries after Eubulides. Who first printed the phrase 'masked-man fallacy' could not be established. Searches covered PubMed, Crossref, Perseus, the Stanford and Internet encyclopedias of philosophy and Google via web search.",
+  "misreadings": "The fallacy is not a counterexample to Leibniz's law. Substitution holds wherever the term occurs purely referentially, and Quine's whole point is that the failing occurrences are not of that kind. Reading the masked man as showing that identical things can differ inverts the argument it refutes. The stock modern examples are also not what they are usually said to be. Quine's Giorgione case, that Giorgione was so-called because of his size while Barbarelli was not, has no belief verb in it, and Forbes, writing for the Internet Encyclopedia of Philosophy, treats it as a plain equivocation, since the word 'so' changes what it refers to when the name is exchanged. The nine-planets case belongs to modality rather than belief: Quine's pair is that 9 is necessarily greater than 7 while the number of planets is not necessarily greater than 7. His belief examples are Tully and Tegucigalpa. Two reference works date the Giorgione example differently, the Stanford Encyclopedia to Quine of 1953 and the Internet Encyclopedia to Quine of 1961. The developmental evidence is often folded into theory of mind, and the studies were designed to prise the two apart. Passing a false-belief task is reasoning about an agent who has the wrong referent; handling opacity is reasoning about which of two correct descriptions the agent holds, and children manage the first about a year and a half before the second. Entry 28 covers the adult false-belief work under the curse of knowledge, and its numbers are not restated here. Last, the ancient pedigree. Diogenes Laertius does put the Veiled Figure in the same list as the Liar and the Sorites, which entry 431 covers, and the same book credits the Veiled and the Horned arguments to Diodorus Cronus a few sections later. A list of titles is what survives, and the puzzle everyone quotes comes from Lucian.",
+  "sources": [
+    {
+      "text": "Diogenes Laertius, Lives of Eminent Philosophers, Book 2, sections 108 and 111, in the R. D. Hicks translation. Read at Perseus in English and in the Greek text, and the English checked against the Wikisource copy of the same translation. Source for the list of seven arguments credited to Eubulides of Miletus and for the later credit of the Veiled and Horned arguments to Diodorus Cronus.",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D2%3Achapter%3D10",
+      "type": "primary"
+    },
+    {
+      "text": "Lucian, Philosophies for Sale, sections 22 and 23, in the H. W. Fowler and F. G. Fowler translation. Read in full at monadnock.net and again at ToposText. Source for the Electra puzzle and for the man in the hood who is your father.",
+      "url": "https://monadnock.net/lucian/philosophies.html",
+      "type": "primary"
+    },
+    {
+      "text": "Frege, G. (1892). On sense and reference. Translated by Max Black in Translations from the Philosophical Writings of Gottlob Frege, Geach and Black (eds.), Oxford: Blackwell, 1952, 56-78. Read in full as a PDF downloaded twice to the same checksum. Source for indirect reference and for the wording of the restriction on substitution inside a subordinate clause.",
+      "url": "https://home.sandiego.edu/~baber/metaphysics/readings/Frege.SenseAndReference.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Quine, W. V. Reference and modality. Essay VIII of From a Logical Point of View, pages 139 onward. Read in full as a scan downloaded twice to the same checksum; the scan carries no title page, so the edition and date were not confirmed from it. Source for the statement of substitutivity, for the Giorgione and Cicero cases, for the Philip examples about Tully and Tegucigalpa, for the phrase 'referentially opaque' and for the modal pair about 9 and the number of planets.",
+      "url": "http://fitelson.org/proseminar/quine_ram.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Nelson, M. Propositional attitude reports. Stanford Encyclopedia of Philosophy, first published 16 February 2000, substantive revision 14 February 2019. Read as the raw HTML of the current version. Source for Frege's puzzle as a problem about attitude reports and for the attribution of the Giorgione example to Quine of 1953.",
+      "url": "https://plato.stanford.edu/entries/prop-attitude-reports/",
+      "type": "commentary"
+    },
+    {
+      "text": "Forbes, G. Opacity, referential. Internet Encyclopedia of Philosophy. Read as the raw HTML of the current version. Source for the naming of the rule as identity elimination, for the reading of the Giorgione case as an equivocation, and for the attribution of the modern discussion to Quine of 1956 and 1961 and to Frege of 1892.",
+      "url": "https://iep.utm.edu/referential-opacity/",
+      "type": "commentary"
+    },
+    {
+      "text": "Curtis, G. N. The masked man fallacy. The Fallacy Files. Read in full. Source for the alias 'illicit substitution of identicals', for the two argument forms and the Mr Hyde example, and for the citation of Zeller quoted here at one remove for the name 'the veiled man'.",
+      "url": "https://www.fallacyfiles.org/illisubs.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Gut, A., Haman, M., Gorbaniuk, O., & Chylińskia, M. (2020). The Development of Understanding Opacity in Preschoolers: A Transition From a Coarse- to Fine-Grained Understanding of Beliefs. Frontiers in Psychology, 11, 596. Read as the JATS XML from PubMed Central, PMC7155780, downloaded twice with every figure quoted here present in both copies. Source for the two experiments and all of their percentages and test statistics.",
+      "doi": "10.3389/fpsyg.2020.00596",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7155780/",
+      "type": "replication"
+    },
+    {
+      "text": "Yeung, E. K. L., & Cheung, H. (2024). Intensionality is more cognitively demanding than false belief in adults: evidence from a non-inferential sentence-reading task. Scientific Reports, 14, 452. Read as the JATS XML from PubMed Central, PMC10766945, downloaded twice with every figure quoted here present in both copies. Source for the three adult experiments, their samples, exclusions and model estimates.",
+      "doi": "10.1038/s41598-024-51181-w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10766945/",
+      "type": "replication"
+    },
+    {
+      "text": "Apperly, I. A., & Robinson, E. J. (2003). When can children handle referential opacity? Evidence for systematic variation in 5- and 6-year-old children's reasoning about beliefs and belief reports. Journal of Experimental Child Psychology, 85(4), 297-311. Abstract read at PubMed; the full text was not obtained.",
+      "doi": "10.1016/s0022-0965(03)00099-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12906844/",
+      "type": "replication"
+    },
+    {
+      "text": "Hulme, S., Mitchell, P., & Wood, D. (2003). Six-year-olds' difficulties handling intensional contexts. Cognition, 87(2), 73-99. Abstract read at PubMed; the full text was not obtained. Source for the thought-bubble version of the task and for the authors' statement that they replicated previous findings.",
+      "doi": "10.1016/s0010-0277(02)00199-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12590039/",
+      "type": "replication"
+    },
+    {
+      "text": "Kamawar, D., & Olson, D. R. (2011). Thinking about representations: The case of opaque contexts. Journal of Experimental Child Psychology, 108(4), 734-746. Abstract read at PubMed; the full text was not obtained. Source for the comparison of epistemic, quotational and intentional opaque contexts.",
+      "doi": "10.1016/j.jecp.2010.10.005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21092982/",
+      "type": "replication"
+    },
+    {
+      "text": "Russell, J. (1987). 'Can we say …?' Children's understanding of intensionality. Cognition, 25(3), 289-308. Not obtained. Named here as the earliest study in this line, on the citation given by Gut and colleagues and the record at Crossref.",
+      "doi": "10.1016/s0010-0277(87)80007-0",
+      "type": "provenance"
+    },
+    {
+      "text": "Apperly, I. A., & Robinson, E. J. (1998). Children's mental representation of referential relations. Cognition, 67(3), 287-309. Not obtained; the record here is the Crossref entry.",
+      "doi": "10.1016/S0010-0277(98)00030-4",
+      "type": "provenance"
+    },
+    {
+      "text": "Apperly, I. A., & Robinson, E. J. (2001). Children's Difficulties Handling Dual Identity. Journal of Experimental Child Psychology, 78(4), 374-397. Not obtained; the record here is the Crossref entry.",
+      "doi": "10.1006/jecp.2000.2571",
+      "type": "provenance"
+    },
+    {
+      "text": "Rakoczy, H. (2015). In defense of a developmental dogma: children acquire propositional attitude folk psychology around age 4. Synthese, 194, 689-707. Not obtained. Named here as one side of the dispute over what the age gap means, on Gut and colleagues' description of it.",
+      "doi": "10.1007/s11229-015-0860-8",
+      "type": "provenance"
+    },
+    {
+      "text": "Oktay-Gür, N., Schulz, A., & Rakoczy, H. (2018). Children exhibit different performance patterns in explicit and implicit theory of mind tasks. Cognition, 173, 60-74. Not obtained. Named here because Gut and colleagues direct their methodological criticism at its intensionality test.",
+      "doi": "10.1016/j.cognition.2018.01.001",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
