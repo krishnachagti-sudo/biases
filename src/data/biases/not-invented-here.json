@@ -8,76 +8,98 @@
   ],
   "category": "social",
   "statement": "Ideas are said to be rejected because they came from outside the organisation, and the controlled tests of that claim disagree about whether the rejection happens.",
-  "meaning": "Not invented here names a preference for internal ideas over external ones of equal merit. Antons and Piller define the syndrome as a negative attitude towards knowledge that has crossed a disciplinary, spatial or organisational boundary, ending in that knowledge being underused or refused. The definition is about an attitude. Whether the attitude changes what anybody does is a second question, and the two are usually reported as one. The paper that gave the syndrome its name measured neither. Katz and Allen tracked how long project groups had been together, how much those groups talked to outsiders, and how they performed.",
+  "meaning": "Not invented here names a preference for internal ideas over external ones of equal merit. Antons and Piller define the syndrome as a negative attitude towards knowledge that has crossed a disciplinary, spatial or organisational boundary, ending in that knowledge being underused or refused. The definition is about an attitude. Whether the attitude changes what anybody does is a second question, and the two are usually reported as one. The paper that gave the syndrome its name measured neither. Katz and Allen measured how long project groups had been together, how often those groups talked to outsiders, and how managers rated their work.",
   "origin": {
     "year": 1982,
     "who": "Ralph Katz and Thomas J. Allen",
     "where": "R&D Management",
-    "note": "The paper is titled \"Investigating the Not Invented Here (NIH) syndrome: A look at the performance, tenure, and communication patterns of 50 R & D Project Groups\", at 12(1), 7-20. It is a study of group longevity in one laboratory. The name sits in the title, and the abstract describes tenure, communication rates and performance rather than any comparison between internal and external ideas."
+    "note": "The paper is titled \"Investigating the Not Invented Here (NIH) syndrome: A look at the performance, tenure, and communication patterns of 50 R & D Project Groups\", at 12(1), 7-20. Katz and Allen circulated it in April 1980 as MIT Sloan working paper 1114-80, under the different title \"An Empirical Test of the Not Invented Here (NIH) Syndrome\". The measured variables in that text are group tenure, communication counts and manager ratings of technical performance. The name sits in the title as the explanation the authors offer for a decline they found."
   },
-  "evidence": "Katz and Allen studied 50 R&D project groups in one large laboratory. Their abstract reports that performance rises up to 1.5 years of group tenure, holds steady for a time, and by five years has declined noticeably. They attribute the decline to a fall in communication among group members and between those members and external sources of information. The full text is closed at the publisher and was not obtained, so no correlation, coefficient or group size from the paper is quoted here. Later work measures the attitude instead of the group. Antons, Declerck, Diener, Koch and Piller built an implicit-association measure and a survey measure across four studies and 1,238 subjects, and report evidence for reliability and for construct and criterion validity. Hannen, Antons, Piller, Salge, Coltman and Devinney surveyed 565 global R&D projects and report that the syndrome lowers project success by reducing absorption of external knowledge, and that perspective taking contains it. Hussinger and Wastyn report that internal resistance to external knowledge is likelier when that knowledge comes from competitors than from suppliers, customers or universities, and likelier inside successful firms. Those three results are read from their abstracts.",
+  "evidence": "Katz and Allen worked in the R&D facility of one large American corporation, which employed about 735 people, and studied its 345 professionals. Complete data came back for 50 project groups. Each professional named everyone he or she had spoken to about work on one randomly chosen day a week for 15 weeks, and the response rate over those weeks was 93 percent. Seven departmental managers and two laboratory directors rated the projects they knew on a seven-point scale, an average of 4.7 raters per project, with a Spearman-Brown reliability of 0.81. Mean group tenure was 3.41 years, with a standard deviation of 2.67, and mean performance was 4.59. Split into five tenure bands of ten projects each, mean performance ran 4.29 below 1.5 years, then 4.89, 4.87 and 4.82, then 4.07 at five years or more, F(4,45) = 2.89, p < 0.05. Among the 30 projects averaging at least 2.5 years, mean project tenure correlated -0.39 with performance, -0.39 with communication inside the project and -0.32 with communication to professionals outside the firm, each at p < 0.05. Those figures are read from the 1980 working paper. The published article's abstract puts the rise at 1.5 years of tenure and the decline by five. Later work measures the attitude instead of the group. Antons, Declerck, Diener, Koch and Piller built an implicit-association measure and a survey measure across four studies and 1,238 subjects, and report evidence for reliability and for construct and criterion validity. Hannen, Antons, Piller, Salge, Coltman and Devinney surveyed 565 global R&D projects, a 12 percent response rate, and found the attitude negatively associated with absorption of external knowledge, b = -0.338, p < 0.01, with a bootstrapped indirect effect on project success of -0.077, interval -0.123 to -0.038. Mean attitude in that sample was 2.23 on a scale from 1 to 7, with a standard deviation of 1.10. Ismail, Bello-Pintado, García-Marco and Lazzarotti surveyed 250 firms in France, Italy, Spain and Sweden. The direct path from the syndrome to the innovation performance of a collaborative project was β = -0.139, p < 0.05, and it went to non-significance once external social capital entered the model. Hussinger and Wastyn report that internal resistance is likelier when knowledge is acquired from competitors than from suppliers, customers or universities, and likelier again in successful companies acquiring from competitors. That last result is read from its abstract.",
   "replication": {
     "state": "mixed",
-    "headline": "No repeat of the 1982 study was located, and the two controlled tests of the underlying claim point in opposite directions.",
-    "detail": "Menon and Pfeffer gave 110 MBA students at the University of Chicago a scenario in which they ran a hotel chain and appraised two managers of equal performance. One had copied a service from another member of the chain, the other from a chief competitor. The design was within subjects and the order of the two managers was counterbalanced, with no order effect. Ratings favoured the external learner on effort, 5.4 against 4.6, on creativity, 4.6 against 3.8, and on competence, 5.1 against 4.3, each on a seven-point scale, every paired t-test reaching p < 0.001. Bonuses ran $57.10 against $42.31. The same paper put the five learning items to 42 mid-career managers in Stanford's Sloan programme, where the external composite scored 4.3 against 3.9 for the internal one, t(41) = -3.10, p < 0.05. Running the other way, Weissenberger-Eibl and Hampel report a field experiment with 1,097 employees of one multinational firm. Their abstract states that organisational identification and status go with higher levels of the syndrome, and that a brief recategorisation intervention removed the bias and raised evaluations of external knowledge. That paper is paywalled. Its condition sizes and statistics were not obtained, and nothing beyond the abstract is quoted here.",
+    "headline": "The same authors failed to reproduce their own 1982 tenure result on 181 teams, and the controlled tests of the underlying claim point in opposite directions.",
+    "detail": "Allen, Katz, Grady and Slavin restudied the question on 181 project teams in nine organisations, with about 2,000 people completing questionnaires. Their abstract reports no evidence whatever for the curvilinear relation between performance and tenure that the earlier studies had found. The 1987 working paper behind that article is titled \"Project Team Aging: A Failure to Replicate\" and names the nine sites: two government laboratories, one in the Department of Defense and one in NASA, three not-for-profit firms working mainly for government agencies, two aerospace firms, one electronics firm and one packaged-goods firm. It rates performance on a five-point scale, with a sample mean of 3.32 and Spearman-Brown reliabilities from 0.74 to 0.93. That is a failure on group ageing rather than on attitudes to outside ideas, and the direct tests of the attitude disagree with each other. Menon and Pfeffer surveyed 110 students from the University of Chicago's evening and campus MBA programmes, who ran a hotel chain in a scenario and appraised two managers of equal performance. One had copied a service from another member of the chain, the other from a chief competitor. The design was within subjects and the order of the two managers was counterbalanced, with no order effect. Ratings favoured the external learner on effort, 5.4 against 4.6, on creativity, 4.6 against 3.8, and on competence, 5.1 against 4.3, on a scale running from 1 for unsatisfactory to 7 for outstanding, and every row of the table carries p < 0.001. Bonuses ran $57.10 against $42.31. The same paper put five learning items to 42 managers in Stanford's Sloan programme for mid-career executives, on a five-point agreement scale, where the external composite scored 4.3 against 3.9 for the internal one, t(41) = -3.10, p < 0.05. Running the other way, Weissenberger-Eibl and Hampel report a field experiment with 1,097 employees of one multinational organisation. Their abstract states that organisational identification and status go with higher levels of the syndrome, and that a brief recategorisation intervention removes the bias and raises evaluations of external knowledge. Nothing beyond that abstract was obtained.",
     "study": {
-      "cite": "Menon, T., & Pfeffer, J. (2003). Valuing Internal vs. External Knowledge: Explaining the Preference for Outsiders. Management Science, 49(4), 497-513.",
-      "doi": "10.1287/mnsc.49.4.497.14422",
-      "year": 2003,
-      "n": 110
+      "cite": "Allen, T. J., Katz, R., Grady, J. J., & Slavin, N. (1988). Project team aging and performance: The roles of project and functional managers. R&D Management, 18(4), 295-308.",
+      "doi": "10.1111/j.1467-9310.1988.tb00605.x",
+      "year": 1988,
+      "n": 181
     }
   },
-  "limits": "Every figure above comes from a vignette, a survey or a field study inside one organisation. The search for a randomised test that labels the same idea internal or external and measures how it is then rated covered Crossref, OpenAlex, Semantic Scholar and general web search. One was located, Weissenberger-Eibl and Hampel's, and its numbers sit behind a paywall. No meta-analysis of the syndrome was found. Katz and Allen's paper is closed at the publisher, has no open copy listed by OpenAlex or Semantic Scholar, and searches of MIT's repository and the Internet Archive returned nothing, so the entry rests on its deposited abstract. Antons and Piller state in their review that earlier research had not produced a clear account of the antecedents, underlying attitudes or behavioural consequences of the syndrome. Lichtenthaler and Ernst's 2006 treatment is conceptual and reports no data: it defines six attitudes, pairing not invented here with its mirror image, buy-in, and doing the same for knowledge accumulation and exploitation.",
-  "misreadings": "The 1982 paper is cited as the demonstration that groups reject outside ideas. Its abstract describes group tenure, communication rates and performance, and the syndrome appears in the title rather than as a measured variable. The second misreading is that a negative attitude is a recorded behaviour. Antons and Piller keep attitude and behavioural consequence apart and treat the link between them as an open question, which is the point of their review. The third is that the bias runs one way. Menon and Pfeffer's participants gave a larger bonus to the manager who had copied a competitor, for the same business result, and the authors explain that by status and by scarcity rather than by any pull towards insiders. Not invented here is also not the IKEA effect, which has its own entry here. That effect attaches to an object a person assembled, not to where an idea came from.",
+  "limits": "Every figure above comes from a vignette, a survey or a field study inside one organisation or one set of firms. Searches of Crossref, OpenAlex, Semantic Scholar and general web search on 17 August 2026 turned up no meta-analysis of the syndrome. The same searches found one randomised test that labels the same idea internal or external and then measures how it is rated, Weissenberger-Eibl and Hampel's, and its numbers were not obtained: World Scientific returns 403 to this session and the Fraunhofer repository record returns 503. Katz and Allen's 1982 article and the 1988 article that follows it are both closed at Wiley, which returns 403, and OpenAlex lists no open copy of either, so their figures here come from the MIT Sloan working papers of 1980 and 1987. Working papers and journal articles differ, and the two versions here agree on sample and direction: the 1980 paper's Table 1 gives the same shape its published abstract describes, and the 1987 paper's 181 teams and null result are the ones the 1988 abstract reports. Antons and Piller state in their review that earlier research had not produced a clear account of the antecedents, underlying attitudes or behavioural consequences of the syndrome. Their full text was not read, because the Academy of Management returns 403 and the RWTH Aachen repository record serves a JavaScript bot challenge rather than a document. Lichtenthaler and Ernst's 2006 treatment defines six attitudes, pairing not invented here with its mirror image, buy-in, and doing the same for knowledge accumulation and exploitation. OpenAlex marks it readable at the publisher, and the publisher returned 403, so it too is read from its abstract.",
+  "misreadings": "The 1982 paper is cited as the demonstration that groups reject outside ideas. What it measured was group tenure, communication counts and manager-rated performance, and the syndrome appears in its title as the authors' explanation rather than as a variable. Six years later Allen and Katz, with Grady and Slavin, reported 181 teams and no relation of that shape at all. The second misreading is that a negative attitude is a recorded behaviour. Antons and Piller keep attitude and behavioural consequence apart and treat the link between them as an open question, which is the point of their review. The third is that the bias runs one way. Menon and Pfeffer's participants gave a larger bonus to the manager who had copied a competitor, for the same business result, and the authors explain that by status and by scarcity rather than by any pull towards insiders. Not invented here is also not the IKEA effect, which has its own entry here. That effect attaches to an object a person assembled, not to where an idea came from.",
   "sources": [
     {
-      "text": "Katz, R., & Allen, T. J. (1982). Investigating the Not Invented Here (NIH) syndrome: A look at the performance, tenure, and communication patterns of 50 R & D Project Groups. R&D Management, 12(1), 7-20. Closed at the publisher; the tenure and performance figures are taken from the abstract deposited by the publisher and served by OpenAlex.",
+      "text": "Katz, R., & Allen, T. J. (1982). Investigating the Not Invented Here (NIH) syndrome: A look at the performance, tenure, and communication patterns of 50 R & D Project Groups. R&D Management, 12(1), 7-20. Closed at Wiley, which returned 403 on 17 August 2026; the abstract is the publisher's, served by Crossref and OpenAlex.",
       "doi": "10.1111/j.1467-9310.1982.tb00478.x",
       "url": "https://doi.org/10.1111/j.1467-9310.1982.tb00478.x",
       "type": "primary"
     },
     {
-      "text": "Antons, D., & Piller, F. T. (2015). Opening the Black Box of \"Not Invented Here\": Attitudes, Decision Biases, and Behavioral Consequences. Academy of Management Perspectives, 29(2), 193-217. Paywalled; the definition and the state of the evidence are taken from the abstract.",
-      "doi": "10.5465/amp.2013.0091",
-      "url": "https://doi.org/10.5465/amp.2013.0091",
-      "type": "review"
+      "text": "Katz, R., & Allen, T. J. (1980). An Empirical Test of the Not Invented Here (NIH) Syndrome: A Look at the Performance, Tenure, and Communication Patterns of 50 R&D Project Groups. MIT Sloan School of Management working paper 1114-80. Read in full from the MIT repository. This is the working paper behind the 1982 article, and the design and correlations quoted here are its.",
+      "url": "https://hdl.handle.net/1721.1/1961",
+      "type": "primary"
     },
     {
-      "text": "Menon, T., & Pfeffer, J. (2003). Valuing Internal vs. External Knowledge: Explaining the Preference for Outsiders. Management Science, 49(4), 497-513. Read in full.",
+      "text": "Allen, T. J., Katz, R., Grady, J. J., & Slavin, N. (1988). Project team aging and performance: The roles of project and functional managers. R&D Management, 18(4), 295-308. Closed at Wiley, which returned 403 on 17 August 2026; the 181 teams and the null result are taken from the abstract deposited at Crossref.",
+      "doi": "10.1111/j.1467-9310.1988.tb00605.x",
+      "url": "https://doi.org/10.1111/j.1467-9310.1988.tb00605.x",
+      "type": "replication"
+    },
+    {
+      "text": "Allen, T., Katz, R., Grady, J. J., & Slavin, N. (1987). Project Team Aging: A Failure to Replicate. MIT Sloan School of Management working paper 1963-87. Read in full from the MIT repository. This is the working paper behind the 1988 article, and the nine sites and the rating scale come from it.",
+      "url": "https://hdl.handle.net/1721.1/48761",
+      "type": "replication"
+    },
+    {
+      "text": "Menon, T., & Pfeffer, J. (2003). Valuing Internal vs. External Knowledge: Explaining the Preference for Outsiders. Management Science, 49(4), 497-513. Read in full from a scan of the published article; the SSRN working-paper version returned 403, so the two versions were not compared.",
       "doi": "10.1287/mnsc.49.4.497.14422",
       "url": "https://doi.org/10.1287/mnsc.49.4.497.14422",
       "type": "replication"
     },
     {
-      "text": "Weissenberger-Eibl, M. A., & Hampel, T. (2021). What do we have in-common? Overcoming the not-invented-here syndrome through recategorisation. International Journal of Innovation Management, 25(6), 2150070. Paywalled; the design and the direction of the result are taken from the abstract deposited at Crossref.",
+      "text": "Weissenberger-Eibl, M. A., & Hampel, T. (2021). What do we have in-common? Overcoming the not-invented-here syndrome through recategorisation. International Journal of Innovation Management, 25(6), 2150070. Not obtained: World Scientific returned 403 and the Fraunhofer repository record returned 503 on 17 August 2026. The design and the direction of the result are taken from the abstract deposited at Crossref.",
       "doi": "10.1142/S1363919621500705",
       "url": "https://doi.org/10.1142/S1363919621500705",
       "type": "replication"
     },
     {
-      "text": "Antons, D., Declerck, M., Diener, K., Koch, I., & Piller, F. T. (2017). Assessing the not-invented-here syndrome: Development and validation of implicit and explicit measurements. Journal of Organizational Behavior, 38(8), 1227-1245. Paywalled; the four studies and their combined sample are taken from the abstract.",
+      "text": "Antons, D., Declerck, M., Diener, K., Koch, I., & Piller, F. T. (2017). Assessing the not-invented-here syndrome: Development and validation of implicit and explicit measurements. Journal of Organizational Behavior, 38(8), 1227-1245. Not obtained: Wiley returned 403 and the RWTH Aachen record served a JavaScript bot challenge on 17 August 2026. The four studies and their combined sample are taken from the abstract.",
       "doi": "10.1002/job.2199",
       "url": "https://doi.org/10.1002/job.2199",
       "type": "primary"
     },
     {
-      "text": "Hannen, J., Antons, D., Piller, F., Salge, T. O., Coltman, T., & Devinney, T. M. (2019). Containing the Not-Invented-Here Syndrome in external knowledge absorption and open innovation: The role of indirect countermeasures. Research Policy, 48(9), 103822. Paywalled; the two studies are described from the abstract.",
+      "text": "Hannen, J., Antons, D., Piller, F., Salge, T. O., Coltman, T., & Devinney, T. M. (2019). Containing the Not-Invented-Here Syndrome in external knowledge absorption and open innovation: The role of indirect countermeasures. Research Policy, 48(9), 103822. Read in full from the open copy in White Rose Research Online.",
       "doi": "10.1016/j.respol.2019.103822",
-      "url": "https://doi.org/10.1016/j.respol.2019.103822",
+      "url": "https://eprints.whiterose.ac.uk/147964/",
       "type": "primary"
     },
     {
-      "text": "Hussinger, K., & Wastyn, A. (2016). In search for the not-invented-here syndrome: the role of knowledge sources and firm success. R&D Management, 46(S3), 945-957. Published online 8 April 2015. Paywalled; the finding on competitors and on successful firms is taken from the abstract.",
+      "text": "Ismail, M., Bello-Pintado, A., García-Marco, T., & Lazzarotti, V. (2023). Enhancing open innovation: Managing not invented here syndrome in collaborative projects. Technovation, 128, 102879. Read in full from the open copy at the Universidad Pública de Navarra.",
+      "doi": "10.1016/j.technovation.2023.102879",
+      "url": "https://academica-e.unavarra.es/entities/publication/0d12668a-2c65-4327-b5a9-7c38bff99c4e",
+      "type": "primary"
+    },
+    {
+      "text": "Hussinger, K., & Wastyn, A. (2016). In search for the not-invented-here syndrome: the role of knowledge sources and firm success. R&D Management, 46(S3), 945-957. Published online 8 April 2015. Not obtained: Wiley returned 403 on 17 August 2026, and OpenAlex lists no open copy. The finding on competitors and on successful firms is taken from the abstract.",
       "doi": "10.1111/radm.12136",
       "url": "https://doi.org/10.1111/radm.12136",
       "type": "primary"
     },
     {
-      "text": "Lichtenthaler, U., & Ernst, H. (2006). Attitudes to externally organising knowledge management tasks: a review, reconsideration and extension of the NIH syndrome. R&D Management, 36(4), 367-386. Paywalled; the six syndromes are taken from the abstract.",
+      "text": "Antons, D., & Piller, F. T. (2015). Opening the Black Box of \"Not Invented Here\": Attitudes, Decision Biases, and Behavioral Consequences. Academy of Management Perspectives, 29(2), 193-217. Not obtained: the Academy of Management returned 403 and the RWTH Aachen record served a JavaScript bot challenge on 17 August 2026. The definition and the state of the evidence are taken from the abstract.",
+      "doi": "10.5465/amp.2013.0091",
+      "url": "https://doi.org/10.5465/amp.2013.0091",
+      "type": "review"
+    },
+    {
+      "text": "Lichtenthaler, U., & Ernst, H. (2006). Attitudes to externally organising knowledge management tasks: a review, reconsideration and extension of the NIH syndrome. R&D Management, 36(4), 367-386. Marked openly readable at the publisher by OpenAlex, and Wiley returned 403 on 17 August 2026, so the six syndromes are taken from the abstract.",
       "doi": "10.1111/j.1467-9310.2006.00443.x",
       "url": "https://doi.org/10.1111/j.1467-9310.2006.00443.x",
       "type": "review"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-17"
 }
