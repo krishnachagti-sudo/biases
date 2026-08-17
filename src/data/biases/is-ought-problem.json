@@ -1,0 +1,117 @@
+{
+  "no": 435,
+  "slug": "is-ought-problem",
+  "name": "Is-ought problem",
+  "aliases": ["Hume's Law", "Hume's guillotine", "The is-ought gap", "The fact-value gap"],
+  "category": "belief",
+  "statement": "Hume observed that moral writers slip from 'is' to 'ought' without explaining the step, and he asked for an explanation rather than declaring the step impossible.",
+  "meaning": "Everything filed under this heading comes from one paragraph of about two hundred words. It is the last numbered paragraph of Book III, Part I, Section I of A Treatise of Human Nature, catalogued as T 3.1.1.27 and as SBN 469-70, and the section is titled 'Moral Distinctions not deriv'd from Reason'. Hume presents it as an aside: 'I cannot forbear adding to these reasonings an observation, which may, perhaps, be found of some importance.' In every system of morality he has met with, he writes, the author proceeds for some time in the ordinary way of reasoning. Then, 'of a sudden', the usual copulations 'is' and 'is not' give way to propositions connected with 'an ought, or an ought not'. The change is 'imperceptible; but is, however, of the last consequence'. What Hume asks for is an account. The new relation, he says, 'shou'd be observ'd and explain'd', and a reason should be given 'for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it'. His last clause states the purpose: this small attention 'wou'd subvert all the vulgar systems of morality, and let us see, that the distinction of vice and virtue is not founded merely on the relations of objects, nor is perceiv'd by reason'. The paragraph closes an anti-rationalist argument and issues no prohibition. 'You cannot derive an ought from an is' is a later paraphrase, not a sentence of Hume's. What the paragraph means is disputed, and Rachel Cohon's Stanford Encyclopedia entry on Hume's moral philosophy says that few passages in Hume's work have generated more interpretive controversy. It sets out several live readings. On the dominant twentieth-century one, Hume says here that no ought-judgment may be correctly inferred from premises expressed only in terms of 'is'. That is usually generalised to the thesis that no evaluative conclusion follows validly from any set of purely factual premises. R. M. Hare is among the philosophers who endorse that thesis and call it Hume's Law. Cohon adds Francis Snare's observation that on this reading Hume must simply assume that no purely factual propositions are themselves evaluative, because he does not argue for it. On the noncognitivist reading the paragraph commits Hume to the view that moral judgments state no facts and are not truth-evaluable. Cohon notes that it then draws out a trivial consequence: expressions of feeling without propositional content cannot be inferred from propositional premises. Cognitivist readers take the paragraph to do neither. Some read it as further support for the argument that moral properties are not discernible by demonstrative reason, which leaves open whether ethical conclusions can be reached by probable reasoning. Others read it as a point about the original discovery of virtue and vice, which requires sentiment. On that reading a person who already has the moral concepts may still reach moral conclusions from factual premises, and Cohon points out that Hume himself makes such inferences frequently.",
+  "origin": {
+    "year": 1740,
+    "who": "David Hume",
+    "where": "A Treatise of Human Nature, Book III, Part I, Section I",
+    "note": "Hume Texts Online dates the Treatise 1739-40, with Books 1 and 2 in 1739 and Book 3, Of Morals, in 1740. Every name the passage now travels under was attached later and by other people. Cohon's Stanford Encyclopedia entry credits 'Hume's Law' to present-day philosophers including Hare, for the generalised thesis rather than for the paragraph. Hume uses neither that phrase nor 'guillotine'."
+  },
+  "evidence": "Two kinds of evidence sit under this heading and they answer different questions. The textual evidence is the paragraph itself, read here in the original spelling at Hume Texts Online, where it stands last in a section whose argument is that moral distinctions are not the work of reason. Hume's claim, on any of the readings, is about what follows from what, and no experiment can settle it. The neighbouring empirical question is whether people in fact move from what is to what ought to be, and there the work is direct. Tworek and Cimpian's 'Why Do People Tend to Infer \"Ought\" From \"Is\"?' reports five studies with 629 children and adults, and argues that the move rides on a bias towards inherent explanations. In Study 1, 122 adults recruited on Mechanical Turk rated inherent explanations for everyday regularities and answered ought questions about six passages written as press releases. The two measures correlated at r(120) = .30, 95% CI [.13, .46], p < .001. The relationship held in a multiple regression adjusting for education, fluid intelligence, conservatism and belief in a just world, beta = 0.31, 95% CI [0.12, 0.49], p = .001. Study 2, with 112 adults, found that inherence bias predicted ought judgments about typical behaviours, b = 1.45, 95% CI [0.12, 2.79], p = .032, and not about atypical ones, b = -0.98, 95% CI [-2.31, 0.35], p = .148. The paper reports its own preregistered replication of that experiment, with 168 participants after 34 exclusions, which found the predicted interaction, b = 3.20, 95% CI [1.93, 4.47], p < .001. Study 3 ran the correlational design with 80 children aged 4 to 7 and found r(78) = .45, 95% CI [.26, .61], p < .001. Study 4 tested the link by manipulation. Of 267 adults, 132 were assigned to an anti-inherence mock scale and 135 to a matched control, and the anti-inherence group scored lower on the ought measure, 5.45 against 5.78, t(265) = 2.24, p = .026, d = 0.27. A bootstrapped mediation put part of that effect through explanation, ab = -0.07, 95% CI [-0.12, -0.03]. Study 5 repeated the manipulation with 48 children. Their ought inferences were weaker for facts explained extrinsically than inherently, .66 against .74, t(47) = 2.71, p = .009, d = 0.36, with an indirect effect of ab = -0.06, 95% CI [-0.12, -0.01]. The article carries badges for open data, open materials and preregistration, and the plan for Study 2 is posted at AsPredicted. Three neighbouring literatures test related claims rather than Hume's. Foster-Hanson and Lombrozo report four studies with 591 participants in which explaining a frequent biological feature by its function raises judgments that category members ought to have it. Lindström, Jangard, Selbing and Olsson ran nine experiments on a 'common is moral' heuristic and found that altruistic and selfish behaviours alike were judged more moral, and less deserving of punishment, when common than when rare. Eidelman, Crandall and Pattershall's five studies on existence bias report that an existing state is evaluated more favourably than an alternative, and that describing a form as prevalent makes it more attractive. Those two are read here at abstract level through PubMed.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The one independent direct replication located, a preregistered student project with 74 participants, found the same sign at .18 rather than .30 and missed significance, while the original's own preregistered replication of a different study held.",
+    "detail": "Marianna Zhang's course project replicated Tworek and Cimpian's Study 1 on Mechanical Turk in 2018 and reported r(72) = 0.18, 95% CI [-0.05, 0.39], p = 0.1308, against the original r(120) = .30. Her discussion calls the result one that 'partially replicated the original result', and notes that the correlation trends positive and did not reach significance. It offers the sample size as one explanation: a power analysis had set 82 participants for 80% power at the original effect size, and planned exclusions left 74. FORRT's FLoRA replication atlas indexes this as the single replication record for the paper and codes its outcome 'successful', while quoting that same 'partially replicated' sentence as the evidence for the code. A reader taking the atlas label at face value would draw a stronger conclusion than the report supports. The report is one of 176 student replications collected in Boyce, Mathur and Frank's dataset, from a Stanford graduate methods class run between 2011 and 2022. Across that set, 49% of replications were judged successful. Their paper does not discuss this one individually. Two things pull the other way. The original paper contains a preregistered replication of its Study 2 with 168 participants that found the predicted interaction, though it is the authors' own. Foster-Hanson and Lombrozo's four studies with 591 participants support the general claim by a different route and are not a repetition of any of these designs. The search for further replications covered three places. FORRT's FLoRA lookup API for the original DOI, the 82 works OpenAlex records as citing it, and Europe PMC for is-ought and ought-inference terms paired with replication. Nothing else that repeats one of the five studies was found.",
+    "study": {
+      "cite": "Zhang, M. (2018). Replication of 'Why Do People Tend to Infer Ought From Is? The Role of Biases in Explanation' by Tworek & Cimpian (2016, Psychological Science). Course project report, dated 19 December 2018, from the Stanford graduate methods class whose eleven years of projects are described by Boyce, Mathur and Frank (2023), Royal Society Open Science, 10(11).",
+      "url": "https://rstudio-pubs-static.s3.amazonaws.com/426870_bb10c991135648a19be27ad27cb36a15.html",
+      "year": 2018,
+      "n": 74
+    },
+    "original": { "es": 0.3, "esType": "r", "ci": [0.13, 0.46], "ciLevel": 95 },
+    "replicated": { "es": 0.18, "esType": "r", "ci": [-0.05, 0.39], "ciLevel": 95 },
+    "indexedBy": "FLoRA replication atlas (FORRT)"
+  },
+  "limits": "The experiments and the philosophy do not meet. Tworek and Cimpian measure how often and how early people draw the inference; Hume's paragraph, on every reading of it, is about whether the inference is any good. A large effect in the laboratory would leave the logical question exactly where it was, and a null one would too. Within the psychology, the two correlational studies cannot separate the direction of the link. The manipulation in Study 4 moved the ought measure by d = 0.27, and the mediation results are bootstrapped indirect effects rather than experiments on the mediator. The ought composite in Study 1 had a reported reliability of .58, with a lowest item-total correlation of .33. The replication dropped two of the four control measures, the just-world scale and Raven's Progressive Matrices, to save time and money. Its discussion also misprints the original's p value as its own, 0.1308098, where the original paper reports p < .001. Within the philosophy, the naive formulation is hard even to state. A. N. Prior opened 'The Autonomy of Ethics' in 1960 by retracting his own earlier support for non-deducibility. His example infers from 'tea-drinking is common in England' to 'either tea-drinking is common in England or all New Zealanders ought to be shot'. That inference is valid, its premise is non-ethical, and its conclusion contains an 'ought'. He then put the autonomists in a dilemma: either such disjunctions count as ethical, in which case ethical follows from non-ethical, or they do not, in which case disjunctive syllogism gets there instead. John Searle's counterexample of 1964 runs in five steps from 'Jones uttered the words \"I hereby promise to pay you, Smith, five dollars\"' to 'Jones ought to pay Smith five dollars', through promising, undertaking an obligation and being under one. He argues that the statements needed to make each step an entailment are not themselves evaluative. Searle brackets the exegetical question in his second footnote, saying he will not be concerned with Hume's treatment of the problem. It is a named position with named opponents: Judith Jarvis Thomson and James Thomson answered in the same volume of the same journal with 'How not to Derive \"Ought\" from \"Is\"', which was verified at Crossref and not read here. Later formal work is named on this page and not described from it. Charles Pigden's 'Logic and the Autonomy of Ethics' is listed as open access by Unpaywall, and the PhilPapers copy returns 403 to every request made here. Gerhard Schurz's 1997 book was not obtained. Max Black's 'The Gap Between \"Is\" and \"Should\"' is closed at the publisher, so the common attribution of the name 'Hume's guillotine' to it could not be checked, and this page does not make that claim. R. M. Hare's endorsement of Hume's Law is reported here as Cohon reports it, not from Hare.",
+  "misreadings": "Four things are said about this paragraph that the paragraph does not say. The first is that Hume declares the derivation impossible. He writes that a deduction 'seems altogether inconceivable' to him, asks that the transition be observed and explained, and complains that authors do not commonly take the precaution. The second is that it is a free-standing thesis in logic. It is the closing paragraph of a section arguing that moral distinctions are not perceived by reason, and its final clause says that this is what the observation is for. The third is that Hume's Law is what Hume meant. It is one reading among the several the Stanford Encyclopedia sets out, and the entry treats the dispute as unsettled. The fourth is that this is Moore's naturalistic fallacy under another name. Tworek and Cimpian flag the confusion themselves in their footnote 2, which calls is-to-ought inferences conceptually distinct from the naturalistic fallacy. Their own gloss on Moore is the assumption that what is natural is also good. That is the everyday appeal to nature of entry 434 rather than the claim about definition that entry 432 sets out, so the footnote illustrates the tangle as well as naming it. Moore's charge is that 'good' cannot be defined by any other property. Hume's observation is about a transition between propositions. The appeal to nature is a move people make in argument and a preference that has been measured. Entries 432 and 434 cover the other two and leave this ground open.",
+  "sources": [
+    {
+      "text": "Hume, D. (1740). A Treatise of Human Nature, Book 3, Part 1, Section 1, 'Moral Distinctions not deriv'd from Reason', paragraph 27 (T 3.1.1.27, SBN 469-70). Read in the original spelling at Hume Texts Online, fetched twice with identical results; the source for every word quoted from Hume here, for the section title, and for the paragraph's position as the last of the section. The site's Treatise contents page is the source for the 1739-40 dating and for Book 3 appearing in 1740.",
+      "url": "https://davidhume.org/texts/t/3/1/1",
+      "type": "primary"
+    },
+    {
+      "text": "Cohon, R. Hume's Moral Philosophy. Stanford Encyclopedia of Philosophy, first published 29 October 2004, substantive revision 20 August 2018. Read in full from the page source; section 5, 'Is and ought', is the source for the interpretive controversy, the dominant logical reading, Hare's 'Hume's Law', Snare's objection, and the noncognitivist, demonstrative-reason and discovery readings.",
+      "url": "https://plato.stanford.edu/entries/hume-moral/",
+      "type": "commentary"
+    },
+    {
+      "text": "Tworek, C. M., & Cimpian, A. (2016). Why Do People Tend to Infer 'Ought' From 'Is'? The Role of Biases in Explanation. Psychological Science, 27(8), 1109-1122. Read in full as the author's deposited PDF, with every figure taken from the extracted text of that file; the source for the five studies, the sample sizes, all effect sizes, the internal preregistered replication and footnote 2.",
+      "doi": "10.1177/0956797616650875",
+      "url": "https://labs.psychology.illinois.edu/~acimpian/reprints/TworekCimpian_IsOught.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Zhang, M. (2018). Replication of 'Why Do People Tend to Infer Ought From Is? The Role of Biases in Explanation' by Tworek & Cimpian (2016, Psychological Science). Read in full; the source for n = 74, r(72) = 0.18, the interval and p value, the power analysis, the dropped control measures, the 'partially replicated' summary and the misprinted original p value.",
+      "url": "https://rstudio-pubs-static.s3.amazonaws.com/426870_bb10c991135648a19be27ad27cb36a15.html",
+      "type": "replication"
+    },
+    {
+      "text": "FLoRA Replication Atlas record for 10.1177/0956797616650875. FORRT. Read as the JSON returned by the atlas's own lookup API on 17 August 2026, because the page itself renders client-side. It holds one replication record, codes its outcome 'successful', and gives as its outcome quote the report's sentence beginning 'The result of this replication attempt partially replicated'. An index, cited for what it says rather than for what the replication found.",
+      "url": "https://forrt.org/flora-replication-atlas/doi/10.1177/0956797616650875/",
+      "type": "provenance"
+    },
+    {
+      "text": "Boyce, V., Mathur, M., & Frank, M. C. (2023). Eleven years of student replication projects provide evidence on the correlates of replicability in psychology. Royal Society Open Science, 10(11). Read in full as the Europe PMC full-text XML; the source for the 176 replications, the 2011 to 2022 range and the 49% judged successful. It does not name this replication.",
+      "doi": "10.1098/rsos.231240",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10645069/fullTextXML",
+      "type": "replication"
+    },
+    {
+      "text": "Prior, A. N. (1960). The autonomy of ethics. Australasian Journal of Philosophy, 38(3), 199-206. Read in full as a scanned PDF; the source for the retraction, the tea-drinking disjunction and the dilemma put to the autonomists.",
+      "doi": "10.1080/00048406085200221",
+      "url": "https://fitelson.org/piksi/piksi_22/prior_autonomy_of_ethics.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Searle, J. R. (1964). How to Derive 'Ought' From 'Is'. The Philosophical Review, 73(1), 43-58. Read in full as a scan of the JSTOR copy; the source for the five-statement series and for the footnote setting Hume's own treatment aside.",
+      "doi": "10.2307/2183201",
+      "url": "https://www.finophd.eu/wp-content/uploads/2018/02/Searle_1964-oughtandis.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Thomson, J., & Thomson, J. J. (1964). How not to Derive 'Ought' from 'Is'. The Philosophical Review, 73(4), 512-516. Verified at Crossref for title, authors, journal, volume, issue and year. Not obtained, and cited here only as a reply that exists.",
+      "doi": "10.2307/2183304",
+      "type": "primary"
+    },
+    {
+      "text": "Black, M. (1964). The Gap Between 'Is' and 'Should'. The Philosophical Review, 73(2), 165-181. Verified at Crossref; Unpaywall reports no open location and it was not obtained. Named here because the alias 'Hume's guillotine' is usually credited to it, a claim this page does not make.",
+      "doi": "10.2307/2183334",
+      "type": "primary"
+    },
+    {
+      "text": "Pigden, C. R. (1989). Logic and the autonomy of ethics. Australasian Journal of Philosophy, 67(2), 127-151. Verified at Crossref. Unpaywall gives a green copy at PhilPapers, which returned 403 to every attempt made here, so nothing on this page rests on it.",
+      "doi": "10.1080/00048408912343731",
+      "type": "primary"
+    },
+    {
+      "text": "Schurz, G. (1997). The Is-Ought Problem. Trends in Logic. Verified at Crossref for title, author, series and year. Not obtained, and named here as a book-length formal treatment on the strength of its title alone.",
+      "doi": "10.1007/978-94-017-3375-5",
+      "type": "primary"
+    },
+    {
+      "text": "Foster-Hanson, E., & Lombrozo, T. (2022). How 'is' shapes 'ought' for folk-biological concepts. Cognitive Psychology, 139, 101507. Read at abstract level through PubMed, PMID 36384051; the source for the four studies, the 591 participants and the functional-explanation route from frequency to normative judgment.",
+      "doi": "10.1016/j.cogpsych.2022.101507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36384051/",
+      "type": "replication"
+    },
+    {
+      "text": "Lindström, B., Jangard, S., Selbing, I., & Olsson, A. (2018). The role of a 'common is moral' heuristic in the stability and change of moral norms. Journal of Experimental Psychology: General, 147(2), 228-242. Read at abstract level through PubMed, PMID 28891657; the source for the nine experiments and for the judgments of common against rare behaviours.",
+      "doi": "10.1037/xge0000365",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28891657/",
+      "type": "commentary"
+    },
+    {
+      "text": "Eidelman, S., Crandall, C. S., & Pattershall, J. (2009). The existence bias. Journal of Personality and Social Psychology, 97(5), 765-775. Read at abstract level through PubMed, PMID 19857000; the source for the five studies and for the prevalence and aesthetic findings.",
+      "doi": "10.1037/a0017058",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19857000/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
