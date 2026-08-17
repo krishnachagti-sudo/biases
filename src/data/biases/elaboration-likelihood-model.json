@@ -1,0 +1,133 @@
+{
+  "no": 464,
+  "slug": "elaboration-likelihood-model",
+  "name": "Elaboration likelihood model",
+  "aliases": [
+    "ELM",
+    "Central and peripheral routes to persuasion",
+    "Dual-route model of persuasion"
+  ],
+  "category": "social",
+  "statement": "Persuasion is said to run by two routes: argument quality decides attitudes when people are motivated and able to think, and peripheral cues decide them when they are not.",
+  "meaning": "Petty and Cacioppo treat depth of thinking as a continuum and the two routes as its ends. At the central end the recipient works through the message, so the strength of the arguments settles what they believe afterwards. At the peripheral end that work is not done, so features attached to the message settle it instead, among them the source's expertise and the number of arguments. Motivation and ability decide which end applies. Personal relevance and issue involvement are the usual situational manipulations of motivation, and the need for cognition scale is the usual dispositional measure. The claim with content is therefore an interaction rather than a main effect. Almost every account of persuasion predicts that better arguments persuade more, so that result on its own separates this model from nothing. What separates it is the prediction that argument quality should matter more to a recipient who is thinking than to one who is not. The framing sits alongside the motivated tactician, entry 326, which makes the more general claim that people select thinking strategies to suit their goals.",
+  "origin": {
+    "year": 1986,
+    "who": "Richard E. Petty and John T. Cacioppo",
+    "where": "Advances in Experimental Social Psychology",
+    "note": "Crossref records their chapter, titled The Elaboration Likelihood Model of Persuasion, at Advances in Experimental Social Psychology in 1986, pages 123 to 205. That chapter was not read here and is cited from its Crossref record alone. The two-route claim was in print before the chapter named it. Petty, Cacioppo and Goldman set it out in 1981, and the introduction to Cacioppo, Petty and Morris, which was read in full, credits Petty and Cacioppo's 1979 experiment with showing that argument quality mattered more to recipients told the recommendation would affect them personally than to those told it would not."
+  },
+  "evidence": "Petty, Cacioppo and Goldman gave undergraduates a counterattitudinal message carrying strong or weak arguments from a source of high or low expertise, under high or low personal relevance. Their abstract reports that attitudes tracked argument quality under high relevance and source expertise under low relevance. The study this site's replication record points at is Experiment 1 of Cacioppo, Petty and Morris. Five hundred and twenty-seven students were pretested on the 34-item need for cognition scale and on campus attitudes. From that pool 114 were recruited, 53 men and 61 women, taken from the top and bottom thirds of the scale and matched on their initial attitude to senior comprehensive exams. Each read an editorial of about 300 words carrying six strong or six weak arguments for those exams, then rated it on five 9-point scales that were averaged into a message evaluation index. Strong arguments were rated well above weak ones, F(1, 110) = 160.86, p < .001, with means of 5.86 and 2.26. The predicted interaction with need for cognition also appeared, F(1, 110) = 22.45, p < .001. Experiment 1 carried no attitude measure. The post-message attitude test that the model is usually described by arrived in Experiment 2, on a different topic and with a different cover story.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Many Labs 3 recovered the argument-quality main effect across 20 university samples and found nothing where the model's own prediction sits, in the interaction with need for cognition. A meta-analysis of 134 studies and a later single-laboratory study point the other way.",
+    "detail": "Ebersole and colleagues ran the Cacioppo, Petty and Morris design in 20 university participant pools across the United States and Canada, with 64 authors and a preregistered protocol. Their online sample did not run this task, so the result rests on the pools alone, with 2,365 participants after exclusions. Strong arguments again beat weak ones, F(1, 2361) = 79.925, p < .001, partial eta squared 0.033, 95% CI [0.020, 0.048], against 0.59, 95% CI [0.47, 0.67] in the original. The interaction was flat, F(1, 2361) = 0.129, p = .720, partial eta squared 0.0000546, 95% CI [0, 0.002], against 0.17, 95% CI [0.06, 0.29]. The structured fields on this page hold the interaction, because that is the model's own prediction. Neither result varied by site, with I squared below 0.005% for both. Splitting need for cognition into top and bottom thirds, as the original did, left the pattern unchanged, F(1, 1563) = 1.102, p = .294. Ebersole and colleagues call the failure one of the most surprising results in the project and write that they have no explanation for it. The main effect reached Table 3 only as one of three effects added later, so that studies whose key test was a null interaction would still offer something to examine across the semester. Petty and Cacioppo replied in the same volume that the replication used neither of the original independent variables, citing a 6-item need for cognition scale in place of the 34-item one and a message drawn from the weak rather than the very weak set. Luttrell, Petty and Xu then ran 214 Ohio State undergraduates through an optimal and a non-optimal version of the design at once. The three-way interaction held, B = 0.37, t(205) = 2.20, p = 0.03. The need for cognition by argument quality interaction was significant under the optimal conditions, B = 0.62, t(205) = 2.50, p = 0.01, and absent under conditions matching Many Labs 3, B = -0.12, t(205) = -0.53. That study was one laboratory and one online session, against 20 pools in the project it answers. Carpenter's meta-analysis of the argument quality by processing type prediction, k = 134, reports in its abstract that the data were generally consistent with the hypothesised interaction, and gives no pooled figure there.",
+    "study": {
+      "cite": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "year": 2016,
+      "sites": 20,
+      "n": 2365
+    },
+    "original": {
+      "es": 0.17,
+      "esType": "eta2",
+      "ci": [0.06, 0.29],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.0000546,
+      "esType": "eta2",
+      "ci": [0, 0.002],
+      "ciLevel": 95
+    }
+  },
+  "limits": "Argument quality in this paradigm is defined by the reaction it produces. Cacioppo, Petty and Morris say in a footnote that strong arguments are those eliciting more favourable than unfavourable thoughts in a pretest, and that their own strong message had to be rewritten, by fabricating more impressive and believable statistics, once pretesting showed high need for cognition readers arguing back at it. Petty and Cacioppo make the same point in 1990, writing that their arguments must meet criteria in pilot testing and have had to be modified over time and for participants at different institutions. Luttrell, Petty and Xu report that the original messages no longer exist, so their optimal condition used the versions reprinted in the 1986 monograph instead. Deans-Browne and Singmann tested the assumption directly on political topics and found that the largest effect of a reader's prior belief on rated argument quality exceeded the largest effect of argument quality itself. Two further limits sit outside the laboratory. Johnson and Eagly's meta-analysis divided what the model treats as one construct into value-relevant, outcome-relevant and impression-relevant involvement, with different consequences for attitude change, and suggested that outcome involvement effects might be obtained only by one group of researchers. Petty and Cacioppo replied that the interaction of involvement with argument quality holds within both categories in that same meta-analysis and that other laboratories have obtained the effect. Chung and Fink later reported a replication of Petty, Cacioppo and Goldman under the title 'no success in replication'. Kirby, Ureda, Rose and Hussey ran a 2 by 2 by 2 involvement, argument strength and cue design on 89 low-income African American women watching a mammography advertisement, and detected no effect of argument strength at either involvement level. Several documents could not be read. Carpenter's meta-analysis, Johnson and Eagly's meta-analysis and their 1990 rejoinder, Chung and Fink, and Petty, Cacioppo and Goldman are all paywalled, and only their abstracts or Crossref records were obtained, so no effect size from any of them appears above. The 1986 chapter was not obtained in any form. Searches ran across Crossref bibliographic queries for replications of the model and of its argument quality manipulations, PubMed, the FORRT replication hub, and general web search.",
+  "misreadings": "The model is cited enormously often, and a citation count is not a result. Nothing in the number of papers invoking two routes bears on whether the interaction appears when someone runs the study. The second error runs the other way, treating Many Labs 3 as a refutation of the model. It tested one instantiation, on one topic, with a shortened scale, and its authors say so. A third error is in the label the replication travels under. Many Labs 3 heads its section with the title of Petty and Cacioppo's 1979 issue-involvement paper, and the study underneath is Cacioppo, Petty and Morris, in which involvement was not manipulated at all: the moving part is need for cognition, a trait measured weeks earlier. Fourth, Experiment 1 of that paper measured how good people said the editorial was, not whether they changed their minds, so the classic finding is about message evaluation rather than attitude change. Fifth, a main effect of argument quality gets read as support. It is what the model predicts and also what its rivals predict, which is why Many Labs 3 could report a clean main effect and a null interaction from the same 2,365 participants. Sixth, peripheral is not a synonym for irrational. Source expertise is often good evidence, as entry 417 on the argument from authority sets out, and the model classifies it by the processing it invites rather than by whether relying on it is sensible.",
+  "sources": [
+    {
+      "text": "Cacioppo, J. T., Petty, R. E., & Morris, K. J. (1983). Effects of need for cognition on message evaluation, recall, and persuasion. Journal of Personality and Social Psychology, 45(4), 805-818. Read in full as the PDF hosted by Petty.",
+      "doi": "10.1037/0022-3514.45.4.805",
+      "url": "https://richardepetty.com/wp-content/uploads/2019/01/1983-jpsp-cacioppopettymorris.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Petty, R. E., Cacioppo, J. T., & Goldman, R. (1981). Personal involvement as a determinant of argument-based persuasion. Journal of Personality and Social Psychology, 41(5), 847-855. The copy hosted by Petty is a scan without a text layer; the description above comes from the abstract served by OpenAlex, which is one remove from the publisher.",
+      "doi": "10.1037/0022-3514.41.5.847",
+      "url": "https://doi.org/10.1037/0022-3514.41.5.847",
+      "type": "primary"
+    },
+    {
+      "text": "Petty, R. E., & Cacioppo, J. T. (1979). Issue involvement can increase or decrease persuasion by enhancing message-relevant cognitive responses. Journal of Personality and Social Psychology, 37(10), 1915-1926. Not read; checked against its Crossref record, and described here as Cacioppo, Petty and Morris describe it.",
+      "doi": "10.1037/0022-3514.37.10.1915",
+      "url": "https://doi.org/10.1037/0022-3514.37.10.1915",
+      "type": "primary"
+    },
+    {
+      "text": "Petty, R. E., & Cacioppo, J. T. (1986). The Elaboration Likelihood Model of Persuasion. Advances in Experimental Social Psychology, 123-205. Not read; checked against its Crossref record only.",
+      "doi": "10.1016/S0065-2601(08)60214-2",
+      "url": "https://doi.org/10.1016/S0065-2601(08)60214-2",
+      "type": "primary"
+    },
+    {
+      "text": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82. Every figure above was taken from the article text and from Table 3, extracted twice by different means because Table 3 is set rotated.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "url": "https://existentialpsych.sites.tamu.edu/wp-content/uploads/sites/152/2016/09/Many-Labs-3.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Petty, R. E., & Cacioppo, J. T. (2016). Methodological choices have predictable consequences in replicating studies on motivation to think: Commentary on Ebersole et al. (2016). Journal of Experimental Social Psychology, 67, 86-87.",
+      "doi": "10.1016/j.jesp.2015.12.007",
+      "url": "https://richardepetty.com/wp-content/uploads/2019/01/2016-jesp-petty-cacioppo-ebersole-comment.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Luttrell, A., Petty, R. E., & Xu, M. (2017). Replicating and fixing failed replications: The case of need for cognition and argument quality. Journal of Experimental Social Psychology, 69, 178-183. Read as a scan recovered by optical character recognition, so only figures legible on two passes are quoted.",
+      "doi": "10.1016/j.jesp.2016.09.006",
+      "url": "https://richardepetty.com/wp-content/uploads/2019/01/2017-jesp-luttrell-petty-xu-fixing-failed-replications-.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Carpenter, C. J. (2015). A Meta-Analysis of the ELM's Argument Quality × Processing Type Predictions. Human Communication Research, 41(4), 501-534. Read as its abstract at Oxford Academic; the full text is paywalled and carries no figure quoted here.",
+      "doi": "10.1111/hcre.12054",
+      "url": "https://academic.oup.com/hcr/article-abstract/41/4/501/4064426",
+      "type": "secondary"
+    },
+    {
+      "text": "Johnson, B. T., & Eagly, A. H. (1989). Effects of involvement on persuasion: A meta-analysis. Psychological Bulletin, 106(2), 290-314. Read as its abstract only; its findings are also described here as Petty and Cacioppo describe them in their 1990 reply.",
+      "doi": "10.1037/0033-2909.106.2.290",
+      "url": "https://doi.org/10.1037/0033-2909.106.2.290",
+      "type": "secondary"
+    },
+    {
+      "text": "Petty, R. E., & Cacioppo, J. T. (1990). Involvement and persuasion: Tradition versus integration. Psychological Bulletin, 107(3), 367-374.",
+      "doi": "10.1037/0033-2909.107.3.367",
+      "url": "https://richardepetty.com/wp-content/uploads/2019/01/1990-pb-pettycacioppo.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Johnson, B. T., & Eagly, A. H. (1990). Involvement and persuasion: Types, traditions, and the evidence. Psychological Bulletin, 107(3), 375-384. The rejoinder to the reply above. Not read; checked against its Crossref record only.",
+      "doi": "10.1037/0033-2909.107.3.375",
+      "url": "https://doi.org/10.1037/0033-2909.107.3.375",
+      "type": "commentary"
+    },
+    {
+      "text": "Chung, S., & Fink, E. L. (2018). One of the most cited persuasion studies but no success in replication: investigating replication using Petty, Cacioppo, and Goldman (1981) as an example. Annals of the International Communication Association, 42(1), 1-20. Read as its abstract at Oxford Academic, which reports no sample size or statistics.",
+      "doi": "10.1080/23808985.2018.1425100",
+      "url": "https://academic.oup.com/anncom/article-abstract/42/1/1/7905917",
+      "type": "replication"
+    },
+    {
+      "text": "Kirby, S. D., Ureda, J. R., Rose, R. L., & Hussey, J. (1998). Peripheral cues and involvement level: influences on acceptance of a mammography message. Journal of Health Communication, 3(2), 119-135. Read as its abstract at PubMed.",
+      "doi": "10.1080/108107398127418",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10977249/",
+      "type": "replication"
+    },
+    {
+      "text": "Deans-Browne, C., & Singmann, H. (2026). For everyday arguments prior beliefs play a larger role on perceived argument quality than argument quality itself. Cognition, 266, 106257. Read as its abstract.",
+      "doi": "10.1016/j.cognition.2025.106257",
+      "url": "https://doi.org/10.1016/j.cognition.2025.106257",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
