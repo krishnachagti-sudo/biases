@@ -1,0 +1,100 @@
+{
+  "no": 525,
+  "slug": "argument-from-analogy",
+  "name": "Argument from analogy",
+  "aliases": [
+    "False analogy",
+    "Faulty analogy",
+    "Fallacy of false analogies",
+    "Analogical argument"
+  ],
+  "category": "belief",
+  "statement": "An argument from analogy carries a conclusion from one case to a similar case, and its strength turns on whether the shared features are the ones the conclusion rests on.",
+  "meaning": "This is a form of argument rather than a mental slip. Its premises are that a claim holds in a source case and that the source case resembles a target case; its conclusion is that the claim holds in the target too. Textbook lists file the bad instances under faulty analogy, and Mill named the narrow version the Fallacy of False Analogies. Argumentation theory files the form itself as defeasible, legitimate in itself, with a set of questions that decide how strong a given instance is. Two things travel under the name and come apart. One is the argument, judged for whether the resemblance carries the conclusion. The other is analogical transfer, the psychological question of whether a person who knows a useful parallel case will think of it at all. The experimental literature is almost entirely about the second, and it finds people much worse at noticing an analogy than at using one they have been pointed at.",
+  "origin": {
+    "year": 1843,
+    "who": "John Stuart Mill",
+    "where": "A System of Logic, Ratiocinative and Inductive",
+    "note": "Book III, chapter XX treats analogy as an inference short of complete induction. A fact known of A is more likely to hold of B when B resembles A. Every proved resemblance raises the probability and every proved difference lowers it, so Mill describes a competition between the known points of agreement and the known points of difference. Book V, chapter V then names the Fallacy of False Analogies, and reserves it for inference from one resemblance to another where the evidence positively disconnects the two circumstances. His own examples are paternal government as a model for despotism, and bodies politic having an old age like bodies natural. Read in the Project Gutenberg transcription of the seventh edition; the work was first published in 1843. Aristotle had already identified two near neighbours of the form, the argument from example and the argument from likeness, as Bartha's Stanford Encyclopedia survey records."
+  },
+  "evidence": "Walton's scheme has three parts. A situation is described in case C1, a conclusion A is plausibly drawn in C1, and C1 is generally similar to C2, so A is plausibly drawn in C2. Three critical questions come with it, quoted by Walton from Walton, Reed and Macagno's page 315. Are there respects in which the two cases differ that would undermine the similarity cited? Is A the right conclusion to draw in the source case? Is there a third case similar to the source in which some other conclusion should be drawn? Bartha's survey collects the textbook guidelines, and they grade strength rather than test for fallacy. More similarities strengthen the analogy and more differences weaken it. Ignorance about either domain weakens it, and a weaker conclusion is easier to support. Causal and structural analogies beat superficial ones, and multiple analogies pointing the same way help. Relevance to the conclusion governs all of them. Hansen's fallacy survey puts the fallacy of faulty analogy at the point where the similarities are too remote to support the conclusion. The experimental work is about noticing. Gick and Holyoak gave people a story about a general who splits his army and sends small groups along many roads to converge on a fortress. Then came Duncker's radiation problem, where converging weak rays destroy a tumour without harming tissue. In their Experiment II, 143 undergraduates, the fully analogous attack story produced dispersion solutions in 76% of 47 people and a partly analogous parade story in 49% of 45, against 8% of 50 controls given no story. Those groups were told the story might help. Experiment IV removed the prompt. Twelve people told the story might help gave the solution 11 times, 92%. Of 15 given no such sentence, 3 did, 20%. The authors read those 15 questionnaires as showing that no more than 3, and perhaps only 1, had noticed the analogy. Experiment V dropped the distractor stories and got 43% unprompted across two conditions and 76% in total, against 10% in an incubation control. Their 1983 paper found that adding an explicit statement of the underlying principle to the story changed nothing, 32% before the hint with the principle against 29% without. Two source stories beat one, 45% unprompted against 21%. What predicted transfer was the quality of the similarity description a person had written. Of the 11 whose description counted as a good schema, 91% solved the problem with no hint, against 30% of the 30 whose description was poor. On persuasion, Hoeken and Hustinx ran three experiments on evidence type. They report that statistical evidence beat anecdotal evidence inside an argument by generalisation, and that the two were equally persuasive inside an argument by analogy. Statistical evidence won again when the single case was dissimilar to the case in the claim. That paper is paywalled and is described here from its abstract, so no figure from it appears on this page.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The gap between noticing an analogy and using one holds up, but the size of it does not. Two modern repeats of the fortress and radiation task put spontaneous transfer at 5% and at 55% in their baseline conditions.",
+    "detail": "Hashemi and Tubau ran the task online with a Spanish translation of Gick and Holyoak's fortress story. In Study 1, 128 undergraduates at Barcelona wrote a summary of the story, did a five-minute filler task, then met the radiation problem. With the standard story, 3 of 64 solved it before the hint, 5%, rising to 23 of 64 in total, 36%. Stripping the two sentences that describe the roads radiating from the fortress cut the total to 13 of 64, 20%, chi-square(1) = 5.5, p = .02, phi = .20, with 4 of 64 solving it before the hint. Study 2 replaced the written summary with a schematic drawing, 104 participants, and got 16% before the hint with the standard story and 34% after. Study 3 asked 40 participants to invent a new problem solvable the same way, and spontaneous transfer reached 63%. Kubricht, Lu and Holyoak got the opposite baseline. Their source was four cannonball scenarios followed by comprehension questions and a fifteen-minute Raven's test as the delay. Spontaneous transfer in Experiment 1, 126 participants, was 55% for the spoken description alone, 50% with static diagrams and 83% with animation, and totals after the hint were 83%, 69% and 88%. Experiment 2, 240 participants, gave 58% spontaneous for the verbal source against 83% with animation, chi-square(1) = 18.15, phi = .28, p < .001, and totals of 73% and 90%. So the after-hint figure of roughly 80% in Gick and Holyoak is reproduced by Kubricht and colleagues and missed by a wide margin by Hashemi and Tubau. Their best total, 75%, came in the condition where participants had invented an analogous problem themselves. What survives both is the direction. A relevant source case raises solution rates well above the 8% to 10% controls in the original work, and how the source was encoded moves the unprompted rate by a factor of ten. Neither modern study is a direct replication. Kubricht and colleagues replaced the story with an animated physical scenario, and Hashemi and Tubau ran online in another language with their own comprehension task.",
+    "study": {
+      "cite": "Hashemi, A., & Tubau, E. (2026). The effect of spatial structures on analogical problem solving. Memory & Cognition, 54(4), 1407-1418.",
+      "doi": "10.3758/s13421-025-01817-7",
+      "year": 2026,
+      "n": 128
+    }
+  },
+  "limits": "Nothing on this page carries a standardised effect size. The transfer experiments report percentages of people who produced the convergence solution, and the two structured effect-size fields are left empty rather than filled with a number computed here. Searches for a preregistered or multi-site direct replication of Gick and Holyoak came up empty; they covered Crossref, OpenAlex, Europe PMC, PubMed Central, PLOS and general web search, and no meta-analysis pooling transfer rates was found in the same searches. The persuasion side is thinner than the reasoning side. Hoeken and Hustinx's three experiments sit behind a paywall at Wiley and at Oxford, and their abstract was read at the Utrecht research portal. The searches above did not turn up an open experimental comparison of an analogical argument against a direct one. Walton, Reed and Macagno's book was not obtained, and its scheme and three critical questions are quoted here as Walton's 2014 chapter reports them, citing his page 315. Gick and Holyoak's 1983 paper is a scan with no extractable text layer, so its figures were read page by page from the images. The 1980 figures come from a text-layer PDF of the journal article. One further caution concerns the task. The radiation problem is solved by about a tenth of people cold, which leaves a wide range for a manipulation to move, and rates in it say nothing about how well people evaluate analogical arguments.",
+  "misreadings": "The commonest error is reading false analogy as a verdict on the form. Mill, who named the fallacy, held that an analogical argument has no inherent inferiority of conclusiveness when the shared circumstance can be shown to be the material one. He reserved the fallacy for cases where the evidence positively disconnects the two circumstances. Walton treats the scheme as defeasible and answers it with critical questions rather than a ruling. Hansen puts the fallacy at similarities too remote to support the conclusion. On all three accounts, calling an argument analogical is the start of the assessment. The second error is the famous 30%. It is Gick and Holyoak's own round summary of unprompted transfer in their earlier work, and the underlying cells are small. Experiment IV gave 20% on 15 people, of whom the authors thought perhaps one had genuinely noticed the analogy. Experiment V gave 43%, the one-analogue condition of the 1983 Experiment 4 gave 21%, and a 2026 online study with 64 people per cell gave 5%. Third, the experiments are often quoted as showing that people cannot reason by analogy. They show the reverse once the analogy is pointed out, with roughly four in five producing the solution after a one-sentence hint. What fails is retrieval. Fourth, the two-analogue result is quoted as though a second example were the active ingredient. Gick and Holyoak's own analysis puts the work in the schema a person abstracts while comparing the two, and about 60% of their two-analogue participants wrote descriptions scored as poor.",
+  "sources": [
+    {
+      "text": "Gick, M. L., & Holyoak, K. J. (1980). Analogical problem solving. Cognitive Psychology, 12(3), 306-355. Read as a text-layer PDF of the journal article; all percentages and counts re-extracted from that text.",
+      "doi": "10.1016/0010-0285(80)90013-4",
+      "url": "https://pdf.retrievalpractice.org/transfer/Gick_Holyoak_1980.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. Cognitive Psychology, 15(1), 1-38. The copy at the UCLA Reasoning Lab is a scan with no text layer; Tables 3, 5 and 6 were read from the page images.",
+      "doi": "10.1016/0010-0285(83)90002-6",
+      "url": "https://reasoninglab.psych.ucla.edu/wp-content/uploads/sites/273/2021/04/Gick_Holyoak1983_SchemaInduction.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Kubricht, J. R., Lu, H., & Holyoak, K. J. (2017). Individual differences in spontaneous analogical transfer. Memory & Cognition, 45(4), 576-588. Read as the author copy at the UCLA Computational Vision and Learning Lab.",
+      "doi": "10.3758/s13421-016-0687-7",
+      "url": "https://cvl.psych.ucla.edu/wp-content/uploads/sites/162/2021/03/A74.Kubricht-etal.Mem-Cognition.2017.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Hashemi, A., & Tubau, E. (2026). The effect of spatial structures on analogical problem solving. Memory & Cognition, 54(4), 1407-1418. Read as the Europe PMC full text; Tables 1, 2 and 3 supply the transfer rates quoted.",
+      "doi": "10.3758/s13421-025-01817-7",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13253581/",
+      "type": "replication"
+    },
+    {
+      "text": "Walton, D. (2014). Argumentation schemes for argument from analogy. In H. J. Ribeiro (Ed.), Systematic Approaches to Argument by Analogy (pp. 23-40). Springer. Read as the author manuscript in the University of Windsor repository; the source for the scheme and the three critical questions, which it quotes from Walton, Reed and Macagno (2008), page 315.",
+      "doi": "10.1007/978-3-319-06334-8_2",
+      "url": "https://uwindsor.scholaris.ca/bitstreams/4aba3121-37eb-43ae-9d25-e1e024c77ec2/download",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D., Reed, C., & Macagno, F. (2008). Argumentation Schemes. Cambridge University Press. Not obtained; cited because the scheme and critical questions on this page are quoted from its page 315 by way of Walton (2014).",
+      "doi": "10.1017/CBO9780511802034",
+      "url": "https://doi.org/10.1017/CBO9780511802034",
+      "type": "primary"
+    },
+    {
+      "text": "Walton, D., & Hyra, C. (2018). Analogical arguments in persuasive and deliberative contexts. Informal Logic, 38(2), 213-262. Read as the journal PDF; the source for the two schemes, argument from analogy and practical reasoning from analogy.",
+      "doi": "10.22329/il.v38i2.4805",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/4805",
+      "type": "commentary"
+    },
+    {
+      "text": "Hoeken, H., & Hustinx, L. (2009). When is statistical evidence superior to anecdotal evidence in supporting probability claims? The role of argument type. Human Communication Research, 35(4), 491-510. Paywalled; the abstract was read at the Utrecht University research portal and no figure from the paper appears here.",
+      "doi": "10.1111/j.1468-2958.2009.01360.x",
+      "url": "https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/",
+      "type": "primary"
+    },
+    {
+      "text": "Bartha, P. Analogy and analogical reasoning. Stanford Encyclopedia of Philosophy. Source for the eight commonsense guidelines and for Aristotle's argument from example and argument from likeness.",
+      "url": "https://plato.stanford.edu/entries/reasoning-analogy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Source for the textbook statement of the fallacy of faulty analogy and for Mill's placement of analogical arguments among the fallacies of generalisation.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Mill, J. S. A System of Logic, Ratiocinative and Inductive, seventh edition, Volume II. Project Gutenberg transcription. Book III chapter XX and Book V chapter V were read here.",
+      "url": "https://www.gutenberg.org/cache/epub/35421/pg35421.txt",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
