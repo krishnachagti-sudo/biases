@@ -1,0 +1,113 @@
+{
+  "no": 501,
+  "slug": "appeal-to-ridicule",
+  "name": "Appeal to ridicule",
+  "category": "belief",
+  "statement": "Making a position look absurd is offered in place of a reason to reject it, and where the persuasive effect of ridicule has been measured it is small.",
+  "meaning": "Two claims travel under the name and only one of them is about logic. The logical claim is that mockery supplies no ground for thinking a position false, so laughter stands where an argument was owed. The empirical claim is that mockery moves an audience, which is a question about persuasion and has been measured for decades. The two come apart in both directions. A joke can be devastating and leave the case untouched, and a fair objection can be dressed as a joke without ceasing to be an objection. Neither of the two standard philosophical surveys of fallacies treats ridicule as one. The word does not appear anywhere in Hansen's Stanford Encyclopedia entry, which was read in full for this check. Dowden's Internet Encyclopedia article puts ridiculing and being sarcastic on a short list of persuasive techniques he leaves off his fallacy list, and then says that basing any reasoning primarily on the effectiveness of one of those techniques is fallacious. The named treatment located here is a three-page chapter by Gregory Bock in a Wiley collection of a hundred fallacies, listed at pages 118 to 120.",
+  "origin": {
+    "year": 1709,
+    "who": "Anthony Ashley Cooper, third Earl of Shaftesbury",
+    "where": "Sensus Communis: An Essay on the Freedom of Wit and Humour",
+    "note": "Shaftesbury argued the reverse of the fallacy, and the fallacy is the denial of his thesis. His essay's title page in the collected Characteristicks reads \"Printed first in the Year M.DCC.IX\", and the text used here is the Liberty Fund edition of the 1732 setting. He makes ridicule a criterion: \"Truth, 'tis suppos'd, may bear all Lights: and one of those principal Lights or natural Mediums, by which Things are to be view'd, in order to a thorow Recognition, is Ridicule it-self.\" He puts the test in its strongest form later in the same treatise, writing that \"nothing is ridiculous except what is deform'd: Nor is any thing proof against Raillery, except what is handsom and just\", and that one may defy the world to turn real bravery or generosity into ridicule. The 1708 Letter concerning Enthusiasm, printed as the first treatise of the same volume, asks \"what Ridicule can lie against Reason?\" Who first turned the denial of that thesis into a named fallacy was not established here."
+  },
+  "evidence": "The measurable neighbour is humour and satire in persuasion, not ridicule isolated from them. Walter, Cody, Xu and Murphy meta-analysed 89 studies and put humour's effect on persuasion at r = .13, on knowledge at r = .23, on attitudes at r = .12 and on behavioural intent at r = .09. Burgers and Brugman pooled 70 experiments on satirical news covering 22,969 participants, 62 of them run in the United States, in a three-level random-effects model. Satire beat a control message on persuasion by a mean d of 0.073, p = .078, and regular news by 0.074, p = .088, which they call a trend and a small message-consistent effect. The entertainment effects were larger: positive affect d = 0.902, p < .001, and message discounting d = 0.617, p = .041, both against regular news, while negative affect gave d = 0.321, p = .107. Learning beat a control message at d = 0.504, p < .001, and did not beat regular news, d = -0.107, p = .456. Persuasion effects were larger in student samples than general-population ones, larger for television satire than for online or print, larger in samples holding more Republicans and smaller in samples holding more Independents, and larger for satire aimed at a person than at an issue. How the joke lands depends on the listener. LaMarre, Landreville and Beam showed 332 undergraduates a three-minute clip of Stephen Colbert interviewing Amy Goodman. Conservatism predicted the reading that Colbert meant what he said about liberals, B = 0.377, SE = 0.077, p < .001, that he was socially conservative, B = 0.119, SE = 0.043, p < .01, and that he disliked liberals, B = 0.246, SE = 0.044, p < .001. It did not predict thinking him funny, B = 0.017, SE = 0.044, p > .1. Both sides saw the comedy and disagreed about who was being mocked. Ridicule of politicians also moves less than it appears to. Mendiburo-Seguel, Vargas and Rubio showed 94 participants one of three videos and measured trust in politicians at baseline, straight after and a week later. The group given political disparagement humour fell from 30.23 to 23.56 and the group given a non-humorous political video fell from 30.20 to 23.25, while the group given disparagement humour aimed at non-politicians did not fall. By the third measure all three groups sat together again. Their second study sent 146 participants cartoons or headlines twice a day for a week and found no effect of condition, F(2, 143) = 0.226, no effect of time and no interaction.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Repeated tests disagree. A meta-analysis of humour puts the persuasion effect at r = .13, a meta-analysis of satirical news finds only a trend near zero, and six experiments on 3,139 people found no direct effect on attitudes twice.",
+    "detail": "Droog and Burgers ran the closest thing to an internal replication in this literature. Six experiments on United States participants, 3,139 in total, gave people a fictitious transcript from a satirical news show or from a regular one, on climate change, student loan debt or Brexit. Experiments 4 to 6 repeated the designs of Experiments 1 to 3 with the same stimulus materials, the same recruitment and the same power analysis. Their fixed-effects mini meta-analysis of the first three put the effect of humorous against non-humorous messages on message-congruent attitudes at r = 0.03, 95% CI -0.07 to 0.14, p = .303. The second three put it at r = -0.01, 95% CI -0.12 to 0.10, p = .824. The manipulation worked in both sets, with perceived humour at r = 0.67 and r = 0.60. What the humour did change was message discounting, r = 0.44, 95% CI 0.35 to 0.53, p = .002, alongside happiness at 0.21 and anger at -0.16. Their reading is that two mediators cancel: funnier messages won more agreement through perceived humour and lost it through discounting, which suppresses any overall effect on attitudes. That mechanism fits Burgers and Brugman's pooled discounting figure of d = 0.617 sitting beside a persuasion figure of d = 0.073. Neither set of experiments was preregistered, and the paper says so in its first note. A preregistered pair of studies on humour and persuasion does exist in a neighbouring field: Betsch, Schmid-Kupke, Otten and von Hirschhausen tested humorous organ-donation messages in a quasi-experiment on 3,964 people and a laboratory experiment on 144, and report that humorous interventions were not more effective than neutral information, while information of any kind raised intentions, attitudes and knowledge. Searches for a preregistered or multi-laboratory replication aimed at ridicule or satire specifically covered Crossref, OpenAlex, PubMed Central, the Open Science Framework link published with the Burgers and Brugman meta-analysis, and open web search pairing satire, ridicule, disparagement humour and political humour with replication and preregistration terms. None was found.",
+    "study": {
+      "cite": "Droog, E., & Burgers, C. (2024). The underlying mechanisms of the persuasiveness of different types of satirical news messages. Discourse Processes, 61(10), 479-497.",
+      "doi": "10.1080/0163853X.2024.2381407",
+      "year": 2024,
+      "n": 3139
+    },
+    "replicated": {
+      "es": 0.03,
+      "esType": "r",
+      "ci": [-0.07, 0.14],
+      "ciLevel": 95,
+      "weighting": "fixed-effects mini meta-analysis of Experiments 1 to 3"
+    }
+  },
+  "limits": "Nothing here measures the fallacy. Every experiment above asks whether an audience shifted, and none asks whether anybody accepted a claim on grounds that were not reasons. No study was located that mocks a position while holding the argument for it fixed, which is the design the logical charge would need, and the searches described above were where that was looked for. The satire literature is also not a literature on ridicule alone. Burgers and Brugman code satirical news against control messages and against regular news, and Droog and Burgers manipulate humorous similes and hyperboles against non-humorous versions of the same claim, so what is varied is humour rather than derision. Several figures are quoted at one remove or not at all. Walter and colleagues' article is closed at the publisher and could not be downloaded through Oxford Academic, Semantic Scholar or Unpaywall; its four correlations come from the published abstract, and Burgers and Brugman's footnote 9 independently reports the same r of .13 and .23 from pages 355 and 356, converting them to Cohen's d of 0.262 and 0.473. Burgers and Brugman print their confidence intervals in Figures 1 and 2 rather than in the running text, so no interval from that meta-analysis appears here. Baumgartner and Morris were read only as the abstract deposited with Crossref, and no sample size from that study is quoted. Nabi, Moyer-Guse and Byrne's discounting experiments and Olson, Maio and Hobden's null results on disparagement humour are named below and were not obtained: Taylor and Francis and De Gruyter both refused the requests. LaMarre and colleagues' paper disagrees with itself twice. Its abstract and method give 332 participants, its five regression tables give 297, and its power analysis says the sample size used for that calculation was 322. Its text reports the perception of Colbert as a Republican at B = 0.089, SE = 0.047, and Table 3 gives a final B of 0.113, SE = 0.044, for the same coefficient. The 297 figure is the one attached to the estimates quoted above.",
+  "misreadings": "Calling something an appeal to ridicule is not a claim that the ridicule failed. The two questions are separate, and the persuasion evidence is not the evidence the charge needs. It also runs the other way. Ridicule that lands is still not an argument, and the audience data show how little the landing settles: LaMarre's conservatives and liberals found Colbert equally funny and disagreed about who the joke was on. Shaftesbury's version of the claim is the one the evidence contradicts most directly. He held that nothing is proof against raillery except what is fair and just, which makes vulnerability to mockery a signal about the target. An audience that reads the same clip two ways by prior belief is not applying that test. The fallacy is also confused with three neighbours it borders. An ad hominem attacks the arguer rather than the argument, where ridicule can be aimed squarely at the position. A straw man misrepresents the position first, and mockery often works by exaggeration, which is why the two travel together, but a position can be mocked accurately. A reductio ad absurdum derives a contradiction or an unacceptable consequence from the position, which is a reason; the resemblance is that both end with the audience finding the view laughable, and only one of them has shown anything. Ridicule aimed at politicians is often read as durable. Mendiburo-Seguel and colleagues found the drop in trust matched the drop from a non-humorous political video, and it was gone at the second follow-up. This site's humour effect entry is about memory for funny material and makes no claim about persuasion.",
+  "sources": [
+    {
+      "text": "Cooper, A. A., third Earl of Shaftesbury (1732). Sensus Communis: An Essay on the Freedom of Wit and Humour, in Characteristicks of Men, Manners, Opinions, Times, vol. 1, ed. Douglas den Uyl (Indianapolis: Liberty Fund, 2001). Read in full as the Online Library of Liberty PDF; every quotation and the 1709 first-printing date were read from that text.",
+      "url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/811/Shaftesbury_5987_EBk_v6.0.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Read in full; the article never uses the word ridicule.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Source for the list of persuasive techniques left off the fallacy list, ridiculing and being sarcastic among them, and for the sentence that reasoning based primarily on their effectiveness is fallacious.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Bock, G. L. (2018). Appeal to Ridicule. In Bad Arguments: 100 of the Most Important Fallacies in Western Philosophy, 118-120. Wiley. Named as the one dedicated treatment found; the chapter is paywalled and was not read.",
+      "doi": "10.1002/9781119165811.ch18",
+      "url": "https://doi.org/10.1002/9781119165811.ch18",
+      "type": "commentary"
+    },
+    {
+      "text": "Walter, N., Cody, M. J., Xu, L. Z., & Murphy, S. T. (2018). A priest, a rabbi, and a minister walk into a bar: A meta-analysis of humor effects on persuasion. Human Communication Research, 44(4), 343-373. The four correlations are read from the published abstract; the full text could not be downloaded.",
+      "doi": "10.1093/hcr/hqy005",
+      "url": "https://doi.org/10.1093/hcr/hqy005",
+      "type": "replication"
+    },
+    {
+      "text": "Burgers, C., & Brugman, B. C. (2022). How satirical news impacts affective responses, learning, and persuasion: A three-level random-effects meta-analysis. Communication Research, 49(7), 966-993. Full text read as the PDF in the University of Amsterdam repository, which is the source of every figure quoted from it.",
+      "doi": "10.1177/00936502211032100",
+      "url": "https://pure.uva.nl/ws/files/101732051/How_satirical_news_impacts_affective_responses_learning_and_persuasion.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Droog, E., & Burgers, C. (2024). The underlying mechanisms of the persuasiveness of different types of satirical news messages. Discourse Processes, 61(10), 479-497. Full text read at PubMed Central.",
+      "doi": "10.1080/0163853X.2024.2381407",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11614037/",
+      "type": "replication"
+    },
+    {
+      "text": "LaMarre, H. L., Landreville, K. D., & Beam, M. A. (2009). The irony of satire: Political ideology and the motivation to see what you want to see in The Colbert Report. The International Journal of Press/Politics, 14(2), 212-231. Full text read as a PDF copy hosted by Democracy Now!, the outlet whose host appears in the stimulus clip.",
+      "doi": "10.1177/1940161208330904",
+      "url": "https://www.democracynow.org/resources/63/263/The_Irony_of_Satire.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Mendiburo-Seguel, A., Vargas, S., & Rubio, A. (2017). Exposure to political disparagement humor and its impact on trust in politicians: How long does it last? Frontiers in Psychology, 8, 2236. Full text read at PubMed Central.",
+      "doi": "10.3389/fpsyg.2017.02236",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5743926/",
+      "type": "primary"
+    },
+    {
+      "text": "Baumgartner, J., & Morris, J. S. (2006). The Daily Show effect: Candidate evaluations, efficacy, and American youth. American Politics Research, 34(3), 341-367. Read only as the abstract deposited with Crossref, which reports that participants exposed to jokes about Bush and Kerry rated both candidates more negatively and grew more cynical about the electoral system and the news media while reporting more confidence in their own understanding of politics.",
+      "doi": "10.1177/1532673X05280074",
+      "url": "https://doi.org/10.1177/1532673X05280074",
+      "type": "primary"
+    },
+    {
+      "text": "Betsch, C., Schmid-Kupke, N. K., Otten, L., & von Hirschhausen, E. (2020). Increasing the willingness to participate in organ donation through humorous health communication: (Quasi-)experimental evidence. PLOS ONE, 15(11), e0241208. Two preregistered studies; read as the journal's JATS XML.",
+      "doi": "10.1371/journal.pone.0241208",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241208",
+      "type": "replication"
+    },
+    {
+      "text": "Nabi, R. L., Moyer-Guse, E., & Byrne, S. (2007). All joking aside: A serious investigation into the persuasive effect of funny social issue messages. Communication Monographs, 74(1), 29-54. The discounting account Droog and Burgers test descends from this paper; it is paywalled and was not read here.",
+      "doi": "10.1080/03637750701196896",
+      "url": "https://doi.org/10.1080/03637750701196896",
+      "type": "primary"
+    },
+    {
+      "text": "Olson, J. M., Maio, G. R., & Hobden, K. L. (1999). The (null) effects of exposure to disparagement humor on stereotypes and attitudes. Humor: International Journal of Humor Research, 12(2), 195-219. Named as existing; De Gruyter refused the request and no finding from it is quoted here.",
+      "doi": "10.1515/humr.1999.12.2.195",
+      "url": "https://doi.org/10.1515/humr.1999.12.2.195",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
