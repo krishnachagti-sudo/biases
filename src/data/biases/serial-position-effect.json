@@ -1,0 +1,112 @@
+{
+  "no": 530,
+  "slug": "serial-position-effect",
+  "name": "Serial-position effect",
+  "aliases": [
+    "Serial position curve",
+    "Primacy and recency effects",
+    "U-shaped recall curve"
+  ],
+  "category": "memory",
+  "statement": "In immediate free recall the first and last items on a list are recalled best, and the two ends of the curve answer to different manipulations.",
+  "meaning": "This names the shape of a function rather than a mistake. Plot the chance of recalling a word against the position it held during study and the curve bows up at both ends. The rise at the start is primacy, the rise at the end is recency, and the flat stretch between them is the asymptote. Textbooks give the two ends separate causes, primacy from extra rehearsal and recency from a store holding the last few items, and both accounts have been narrowed by later work. The curve is also less fixed than its picture suggests, because its shape depends on how long the list is and which word a person happens to recall first. A second claim travels under the same name outside memory research: that options judged in sequence are scored higher when they come first or last. That is a different assertion with its own evidence, and this entry keeps the two apart. The end-of-list half of the memory finding has its own entry at number 90.",
+  "origin": {
+    "year": 1962,
+    "who": "Bennet B. Murdock Jr",
+    "where": "Journal of Experimental Psychology",
+    "note": "Crossref gives volume 64, issue 5, pages 482 to 488, published in November 1962, and that record is what the phrase is usually attached to. The paper itself was not read for this entry. Unpaywall lists it as closed with no open location, and downloads attempted at three hosts returned 403, 404 or an error page, so nothing about its own list lengths or presentation rates is quoted here. The curve is older than the paper. Cortis Mack and colleagues cite Deese in 1957 and Jahnke in 1965 beside Murdock when they name the U-shaped serial position curve."
+  },
+  "evidence": "Ward, Tan and Grenfell-Essam ran the demonstration that shows both what the curve is and what governs it. Fifty-five participants at Essex and City studied 45 lists drawn from the Toronto Word Pool at one word a second, with list lengths of 1 to 15 in random order within blocks, and wrote down as many words as they could in any order. At four words recall was flat and high, mean .81, with no effect of position, F(3,162) = 0.802, p > .05. At eight words position mattered, F(7,378) = 10.21, MSE = .090, p < .001, with primacy and recency of about equal size. At fifteen words it mattered again, F(14,756) = 20.50, MSE = .069, p < .001, and the end of the list beat the start. Their second result constrains the first. The proportion of trials on which recall began with the first word fell as lists lengthened, F(14,756) = 127.5, MSE = .048, p < .001, most steeply between four and six words, where each added item cut it by about 17 percentage points. Splitting six-word lists by where recall started, the 35 participants who began at position 1 gave means of 1.00, .67, .59, .59, .46 and .53, positions 2 to 6 not differing, F(4,136) = 1.15, p > .05. The 43 who began in the last four positions gave .48, .32, .44, .54, .79 and .88, F(5,168) = 16.61, MSE = .120, p < .001, which is one item of primacy and extended recency. The familiar U is what those two output strategies look like once they are averaged. On mechanism, Tan and Ward ran seven experiments recording rehearsal out loud. Their abstract reports that primacy items were rehearsed more often and further towards the end of the list than middle items, more so at a slow presentation rate and with high-frequency words. It also reports that a filled delay cut recency and not primacy, and that recency survived a filled retention interval when a fixed rehearsal schedule was imposed.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Hoffmann and Hosch found the curve again in three experiments with number sequences, one of them preregistered, and recency was the half that always appeared.",
+    "detail": "Hoffmann and Hosch tested whether serial position in recall predicts serial position in judgement, which required measuring both. In Experiment 1, 50 students at Konstanz saw 80 sequences of 15 numbers at one a second, recalling the numbers on half the trials and estimating the sequence average on the other half. Data from 46 were analysed. They recalled 32.3% of the numbers correctly, SD 9.2, with a strong recency effect, and the paper reports that the primacy effect was largely absent in serial recall except for linearly increasing sequences. Experiment 3 was preregistered on the Open Science Framework. It moved the task into a shopping context, with nine baskets and prices shown for one second each, and 46 of 50 Bremen students were analysed. Recall was 36.7%, SD 12.7, and numbers presented first and last were recalled better, though the paper calls the effect less pronounced than before. Cortis Mack, Cinel, Davies, Harding and Ward marked the outer boundary by presenting words at one an hour through an iPhone application, running 40 Essex students for 10 days, 40 for 50 days and 44 more split between free and serial recall. Their own summary of the free recall is weak serial position effects with very limited recency. Probability of first recall was heaped on the first item, F(3,117) = 21.5, MSE = 0.030, partial eta squared .355, p < 0.001 over the first four positions, and flat over the last four, F(3,117) = 1.30, MSE = 0.009, partial eta squared 0.032, p = 0.279. Trials begun with the first word gave a flat curve, F(6,156) = 1.12, MSE = 0.091, p = 0.355, and trials begun in the last four positions gave recency, F(7,182) = 5.37, MSE = 0.083, partial eta squared 0.171, p < 0.001. The authors write that they failed to find consistent evidence for strong long-term recency effects with experimenter-controlled stimuli. Preregistration of the classic paradigm exists and its results do not. Uitvlugt and Healey registered two experiments in 2021 as a 60th anniversary update to Murdock, one crossing eight list lengths spaced from 5 to 250 words with a target of at least 100 subjects per condition and 800 in total, the other varying presentation rate, both predicting that primacy and recency would hold across the range. Searches of Crossref, the OSF preprint index and the web found no published report of either.",
+    "study": {
+      "cite": "Hoffmann, J. A., & Hosch, A.-K. (2023). Predicting serial position effects and judgment errors in retrospective evaluations from memory recall. Journal of Economic Psychology, 96, 102622.",
+      "doi": "10.1016/j.joep.2023.102622",
+      "year": 2023,
+      "n": 46
+    }
+  },
+  "limits": "No effect size appears above because none of the papers read here reports one for the curve. This literature quantifies serial position as recall probability by position, tested with analysis of variance, so the structured effect-size fields are empty rather than filled with a number no source contains. Murdock's paper could not be obtained, which means the entry describes the effect through papers that came after it. Rundus, the study usually credited with the rehearsal account of primacy, is closed at Unpaywall and reaches this page only through the sentence Cortis Mack and colleagues devote to it. Tan and Ward was read from its PubMed abstract, so the rehearsal counts behind those seven experiments are not quoted. Both of Bruine de Bruin's papers were read from PubMed abstracts. The applied literature is the weaker half of this entry by a wide margin, and it measures something other than recall probability by position: Dayan and Bar-Hillel measure menu orders, Bruine de Bruin measures competition scores, and Hoffmann and Hosch measure the weight a number carries in an average. Searches covered Crossref, Unpaywall, Semantic Scholar, PubMed, the OSF registry and preprint index, the Internet Archive and web search. They located no meta-analysis of the serial position effect and no multi-laboratory replication project carrying it; the FORRT Replication Database's public interface could not be queried from here, so that source is named as unchecked rather than as empty.",
+  "misreadings": "The commonest error is treating the U as a fixed property of memory. In Ward, Tan and Grenfell-Essam the same participants produced a primacy-heavy curve, a recency-heavy curve or a flat one, depending on list length and on which word they recalled first, and the U is the average of those. The second error is the pedigree. Ebbinghaus is often credited with the observation, and the Ruger and Bussenius translation of his 1885 monograph, read in full here, contains no report of it: searches of all nine chapters and the preface for serial position, position effect, primacy, recency and first and last return nothing. What the monograph studies at length is association between non-adjacent members of a series. The third error is transfer to menus and shop displays. Dayan and Bar-Hillel gave 240 Hebrew University students one of four menu orders, then recorded 459 and 492 real orders across two versions of a Tel Aviv cafe menu. Items at the top or bottom of their category were chosen 56% and 55% of the time against the middle. That is an edge effect in a simultaneous display, not a serial position effect, and their own data show no asymmetry between the ends, 50.5% of choices going to the top half against 49.5% to the bottom. The authors say plainly that they are dismissing the serial position literature, because position there is temporal rather than spatial and the measure is memory rather than choice. The fourth error is assuming the judgement version keeps the shape. Bruine de Bruin reports that ratings rose with serial position in the Eurovision Song Contest under two different scoring procedures, and that the linear order effect held in World and European figure skating, which is a late-is-better gradient rather than a curve with two ends. Hoffmann and Hosch's preregistered experiment is the direct test of the bridge. In the shopping task the correlation between how well a position was recalled and how much weight it carried in the average was 0.13, 95% CI minus 0.09 to 0.35, t(45) = 1.2, p = 0.244, with 21 of 46 participants correlating negatively. For summation judgements it was 0.01, 95% CI minus 0.19 to 0.21. Remembering an item best is not the same as counting it most.",
+  "sources": [
+    {
+      "text": "Murdock, B. B., Jr. (1962). The serial position effect of free recall. Journal of Experimental Psychology, 64(5), 482-488. Closed at Unpaywall with no open location; the record was verified at Crossref and the paper was not read for this entry.",
+      "doi": "10.1037/h0045106",
+      "url": "https://doi.org/10.1037/h0045106",
+      "type": "primary"
+    },
+    {
+      "text": "Ward, G., Tan, L., & Grenfell-Essam, R. (2010). Examining the relationship between free recall and immediate serial recall: The effects of list length and output order. Journal of Experimental Psychology: Learning, Memory, and Cognition, 36(5), 1207-1241. Read in full from the accepted version at City Research Online, twice, for every figure in the evidence section. The cover page of that copy lists the authors in a different order from Crossref, which gives Ward first.",
+      "doi": "10.1037/a0020122",
+      "url": "https://openaccess.city.ac.uk/id/eprint/15528/1/WardTanGrenfell.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Tan, L., & Ward, G. (2000). A recency-based account of the primacy effect in free recall. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26(6), 1589-1625. Read from its PubMed abstract, which is the source for the rehearsal and filled-delay results quoted here.",
+      "doi": "10.1037/0278-7393.26.6.1589",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11185785/",
+      "type": "primary"
+    },
+    {
+      "text": "Hoffmann, J. A., & Hosch, A.-K. (2023). Predicting serial position effects and judgment errors in retrospective evaluations from memory recall. Journal of Economic Psychology, 96, 102622. Read in full from the repository copy at the University of Konstanz, whose recorded MD5 checksum matched the file downloaded here, and re-extracted from a second download.",
+      "doi": "10.1016/j.joep.2023.102622",
+      "url": "https://kops.uni-konstanz.de/server/api/core/bitstreams/8ded071b-b190-4625-8152-9fac333cea2f/content",
+      "type": "replication"
+    },
+    {
+      "text": "Cortis Mack, C., Cinel, C., Davies, N., Harding, M., & Ward, G. (2017). Serial position, output order, and list length effects for words presented on smartphones over very long intervals. Journal of Memory and Language, 97, 61-80. Read in full from the PMC OAI record, fetched twice with matching text, for the participant counts and every statistic quoted.",
+      "doi": "10.1016/j.jml.2017.07.009",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5610173/",
+      "type": "replication"
+    },
+    {
+      "text": "Dayan, E., & Bar-Hillel, M. (2011). Nudge to nobesity II: Menu positions influence food orders. Judgment and Decision Making, 6(4), 333-342. Read in full from the Society for Judgment and Decision Making copy, fetched twice, for the two studies and the authors' own statement about the serial position literature.",
+      "doi": "10.1017/s1930297500001947",
+      "url": "https://journal.sjdm.org/11/11407/jdm11407.html",
+      "type": "replication"
+    },
+    {
+      "text": "Bruine de Bruin, W. (2005). Save the last dance for me: unwanted serial position effects in jury evaluations. Acta Psychologica, 118(3), 245-260. Read from its PubMed abstract; the full text is closed at Unpaywall.",
+      "doi": "10.1016/j.actpsy.2004.08.005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15698823/",
+      "type": "primary"
+    },
+    {
+      "text": "Bruine de Bruin, W. (2006). Save the last dance II: unwanted serial position effects in figure skating judgments. Acta Psychologica, 123(3), 299-311. Read from its PubMed abstract, which describes it as a replication of the 2005 paper on a larger dataset.",
+      "doi": "10.1016/j.actpsy.2006.01.009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16542632/",
+      "type": "replication"
+    },
+    {
+      "text": "Rundus, D. (1971). Analysis of rehearsal processes in free recall. Journal of Experimental Psychology, 89(1), 63-77. Closed at Unpaywall; the record was verified at Crossref and the paper is described here only as Cortis Mack and colleagues describe it.",
+      "doi": "10.1037/h0031185",
+      "url": "https://doi.org/10.1037/h0031185",
+      "type": "primary"
+    },
+    {
+      "text": "Deese, J. (1957). Serial Organization in the Recall of Disconnected Items. Psychological Reports, 3(3), 577-582. Named as an antecedent on the strength of Cortis Mack and colleagues' reference list; the record was verified at Crossref and the paper was not read.",
+      "doi": "10.2466/pr0.1957.3.3.577",
+      "url": "https://doi.org/10.2466/pr0.1957.3.3.577",
+      "type": "primary"
+    },
+    {
+      "text": "Jahnke, J. C. (1965). Primacy and recency effects in serial-position curves of immediate recall. Journal of Experimental Psychology, 70(1), 130-132. Cited beside Murdock by Cortis Mack and colleagues; PubMed carries no abstract for it and the paper was not read.",
+      "doi": "10.1037/h0022013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14315123/",
+      "type": "primary"
+    },
+    {
+      "text": "Ebbinghaus, H. (1885/1913). Memory: A Contribution to Experimental Psychology, translated by H. A. Ruger and C. E. Bussenius. All nine chapters and the preface were downloaded twice from Classics in the History of Psychology and searched for the phrases named in the misreadings section.",
+      "url": "https://psychclassics.yorku.ca/Ebbinghaus/index.htm",
+      "type": "context"
+    },
+    {
+      "text": "Uitvlugt, M., & Healey, M. K. (2021). The Serial Position Effect of Free Recall: A 60th Anniversary Update to Murdock (1962). Preregistration on the Open Science Framework, registered 3 February 2021, with the presentation-rate experiment registered separately on 5 March 2021. Read through the OSF API for the design, the list lengths and the target sample.",
+      "url": "https://osf.io/p9bxm",
+      "type": "context"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
