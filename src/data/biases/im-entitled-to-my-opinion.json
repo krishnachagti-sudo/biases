@@ -1,0 +1,89 @@
+{
+  "no": 544,
+  "slug": "im-entitled-to-my-opinion",
+  "name": "I'm entitled to my opinion",
+  "aliases": [
+    "Everyone is entitled to their opinion",
+    "The right to your opinion",
+    "You're entitled to your opinion"
+  ],
+  "category": "belief",
+  "statement": "Claiming a right to hold a view answers no objection to it, because the entitlement says nothing about whether the view is true.",
+  "meaning": "The move appears at a particular point in an argument. Someone has offered a claim, someone else has given reasons against it, and the first speaker replies that they are entitled to their opinion. Jamie Whyte's argument is that this changes the subject. The original dispute was about whether the claim is true; the reply is about the speaker's rights, which leaves the claim exactly where it was. He then argues the right itself does not survive inspection, on the ground that a right is defined by the duties it imposes on other people. Patrick Stokes makes a different cut, between being free to think and say what you like, which he grants, and having your view treated as a serious candidate for the truth, which he denies. Both writers are describing a conversational move rather than reporting a measurement, and the distinction matters for everything below.",
+  "origin": {
+    "year": 2004,
+    "who": "Jamie Whyte",
+    "where": "Crimes Against Logic (McGraw-Hill)",
+    "note": "The move is the subject of the book's first chapter, \"The Right to Your Opinion\", which opens on page 1. Whyte did not coin the saying, which he describes as so often repeated that a modern Westerner could hardly avoid absorbing it, and no coinage or first use was located for this entry. The piece that carried the argument furthest was Patrick Stokes's \"No, you're not entitled to your opinion\", published in The Conversation on 4 October 2012."
+  },
+  "evidence": "The primary texts are arguments, not studies, and they were read in full. Whyte works through candidate duties that a right to an opinion would impose and rejects each. A duty to agree fails because the right is universal and two people who disagree cannot both discharge it. A duty to listen fails on grounds of time. The weakest candidate, a duty to let a person keep an opinion, is the one he thinks most speakers mean, and he rejects it with the case of a friend stepping into the road in front of a car, where the correct response is to change her opinion at once. His summary is that if the opinions people are entitled to might still be false, the entitlement cannot settle a dispute, because it adds no information about the original matter. Stokes separates opinions of taste, on which he says argument is pointless, from views about policy and from views resting on technical expertise, and argues that the second and third are often treated as unarguable in the way the first is. His example is Australian television coverage of a measles outbreak that balanced medical practitioners against an anti-vaccination campaigner with no medical qualifications. Nothing located for this entry measures the move itself. What has been measured is the neighbouring question of which claims people treat as admitting of a correct answer at all. Goodwin and Darley put 26 statements to 50 Princeton undergraduates, then told each participant that another person in the study disagreed, and scored whether they said the other party must be mistaken. Objectivism fell across categories: factual statements 2.91, ethical 2.56, social convention 2.00, taste 1.34 on a three-point scale, F(3, 102) = 39.54, p < .001. Their second experiment, on 71 undergraduates and five seminarians, reproduced the ordering with one change, in that ethical statements at 2.60 were treated no less objectively than factual ones at 2.70, F(1, 66) = 1.21, p > .2, while both beat convention at 1.97 and taste at 1.43. Variation within the ethical set was wide. In the first experiment 5.86 mean agreement on the wrongness of conscious racial discrimination came with 54% calling it true, while agreement of 4.12 on the permissibility of abortion came with 2%. Only 13 of 50 participants gave the same answer for all eight ethical statements they rated.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study was found that tests the move itself, meaning what happens to an argument after somebody claims a right to their opinion.",
+    "detail": "The searches run for this entry covered Crossref by title and by phrase, Europe PMC, DataCite, Semantic Scholar, the Google Books API and open-web search. A Europe PMC query for the exact phrase \"entitled to my opinion\" returns five records, the most recent a 2009 comment piece in Gastrointestinal Cancer Research and the oldest an 1824 topographical sketch, none of them an experiment. Two neighbouring literatures do have repeats, and both came out in favour of the original. Beebe and Sackris ran the Goodwin and Darley disagreement question on 2,527 people around Buffalo, New York, aged 12 to 88, average age 50. Objectivity attributions fell in the same order: .60 for factual claims, .47 for ethical, .15 for taste, with factual against ethical at Cramer's V = .12 and ethical against taste at V = .33. The ordering held with strength of opinion controlled. It also blurred at the edges, since more of their participants thought there was a right answer about racial discrimination (.81), robbing a bank (.73) and hitting someone (.78) than about global warming (.39) or human evolution (.59). The second literature is belief superiority. Toner, Leary, Asher and Jongman-Sereno measured 527 Americans on nine contentious issues and found dogmatism higher on the right but belief superiority rising at both ends of the spectrum. Harris and Van Bavel repeated that on a quota-sampled Lucid panel, preregistered. They collected 1,319 people and analysed 707 after 612 failed one of two attention checks. The curvilinear effect held: the quadratic attitude term predicted belief superiority at beta = 0.17, t(54.02) = 18.69, p < .001, while the linear term did not, and unlike the original they also found extremity predicting dogmatism. Their figures here are read from the authors' preprint, and the published abstract states the same conclusions.",
+    "indexedBy": "searches listed above"
+  },
+  "limits": "The neighbours are neighbours. Goodwin and Darley measure whether a person thinks a disagreement has a right answer, which is not the same as whether that person invokes a right to their opinion, and not the same as what the invocation does to the listener. Belief superiority is closer to the opposite stance, a claim that one's own view is more correct than other people's rather than a retreat behind entitlement. How the two connect is unmeasured as far as these searches reached. The measurement itself is also contested. Zijlstra's factor analyses of twenty ethical items separate three ways of perceiving moral truth, called Independent Truth, Universal Truth and Divine Truth, each related differently to perceived objectivity, so a single objectivism score compresses more than one thing. Beebe and Sackris's figures come from an author-hosted copy marked \"Under Review\"; the published version in Philosophical Psychology was not obtained, and its numbers were not checked against the ones quoted here. Hall and Raimi's belief superiority work is real and resolves at Crossref, and no readable copy of it was found through Crossref, Europe PMC, Semantic Scholar, APA PsycNet or open-web search, so nothing from it is quoted on this page and no replication of it was located either. Sarkissian and colleagues' finding that objectivist answers fall as the disagreeing parties grow culturally distant is named here from Beebe and Sackris's description of it rather than from the paper, which stayed behind a bot check. The cross-cultural work the brief for this entry pointed at could not be resolved to a citation and is left out.",
+  "misreadings": "The move is often read as a claim about free speech, and neither writer disputes that people may think and say what they like. Whyte's target is narrower, an argumentative move that treats the entitlement as a reply. Stokes grants the free-speech reading and calls it trivial. A second misreading runs the other way, taking Whyte to say that people who are plainly wrong forfeit a right the rest of us keep. His argument is that the right does not exist for anybody, because no duty on other people can be found for it to consist of. A third turns on taste. Stokes exempts preferences from argument, and the research on what people treat as arguable shows the boundary is not where the phrase assumes. Beebe and Sackris found more of their participants thought there was an objective answer about the comparative merits of Beethoven and Britney Spears (.26) than about the goodness of anonymous charitable donation (.17). Finally, the phrase gets treated as a diagnosis of the person saying it. What the literature supports is thinner. People sort claims into arguable and not arguable by content, unevenly, and this entry found nothing that follows what happens to a conversation once the words are said.",
+  "sources": [
+    {
+      "text": "Whyte, J. (2004). Crimes Against Logic: Exposing the Bogus Arguments of Politicians, Priests, Journalists, and Other Serial Offenders. McGraw-Hill. Chapter 1, \"The Right to Your Opinion\". Read in full text from a digitised copy; every quotation above was confirmed against the raw document.",
+      "url": "https://epdf.pub/crimes-against-logic-exposing-the-bogus.html",
+      "type": "primary"
+    },
+    {
+      "text": "Stokes, P. (2012). No, you're not entitled to your opinion. The Conversation, 4 October 2012. Read in full; the date and the author's affiliation at Deakin University are from the article page.",
+      "doi": "10.64628/AA.axvestywd",
+      "url": "https://theconversation.com/no-youre-not-entitled-to-your-opinion-9978",
+      "type": "primary"
+    },
+    {
+      "text": "Goodwin, G. P., & Darley, J. M. (2008). The psychology of meta-ethics: Exploring objectivism. Cognition, 106(3), 1339-1366. Read in full from two separate hosted copies, which agree on every figure quoted here.",
+      "doi": "10.1016/j.cognition.2007.06.007",
+      "url": "https://doi.org/10.1016/j.cognition.2007.06.007",
+      "type": "primary"
+    },
+    {
+      "text": "Beebe, J. R., & Sackris, D. (2016). Moral objectivism across the lifespan. Philosophical Psychology, 29(6), 912-929. Figures here come from the authors' copy hosted at the University at Buffalo, which is marked \"Under Review\"; the published article was not obtained.",
+      "doi": "10.1080/09515089.2016.1174843",
+      "url": "https://www.acsu.buffalo.edu/~jbeebe2/Beebe%20Sackris%20MOAL.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Toner, K., Leary, M. R., Asher, M. W., & Jongman-Sereno, K. P. (2013). Feeling superior is a bipartisan issue: Extremity (not direction) of political views predicts perceived belief superiority. Psychological Science, 24(12), 2454-2462. Described here from the PubMed abstract.",
+      "doi": "10.1177/0956797613494848",
+      "url": "https://doi.org/10.1177/0956797613494848",
+      "type": "primary"
+    },
+    {
+      "text": "Harris, E. A., & Van Bavel, J. J. (2021). Preregistered replication of \"Feeling superior is a bipartisan issue: Extremity (not direction) of political views predicts perceived belief superiority\". Psychological Science, 32(3), 451-458. Numbers read from the authors' preprint; the published abstract was read separately and states the same conclusions.",
+      "doi": "10.1177/0956797620968792",
+      "url": "https://osf.io/download/hfuas/",
+      "type": "replication"
+    },
+    {
+      "text": "Zijlstra, L. (2019). Folk moral objectivism and its measurement. Journal of Experimental Social Psychology, 84, 103807. Read from the published abstract at the University of Groningen research portal; the article itself was not obtained.",
+      "doi": "10.1016/j.jesp.2019.04.005",
+      "url": "https://research.rug.nl/en/publications/folk-moral-objectivism-and-its-measurement/",
+      "type": "commentary"
+    },
+    {
+      "text": "Hall, M. P., & Raimi, K. T. (2018). Is belief superiority justified by superior knowledge? Journal of Experimental Social Psychology, 76, 290-306. Named as existing and confirmed at Crossref; no readable copy was obtained, and nothing on this page is taken from it.",
+      "doi": "10.1016/j.jesp.2018.03.001",
+      "url": "https://doi.org/10.1016/j.jesp.2018.03.001",
+      "type": "primary"
+    },
+    {
+      "text": "Sarkissian, H., Park, J., Tien, D., Wright, J. C., & Knobe, J. (2011). Folk moral relativism. Mind & Language, 26(4), 482-505. Cited by Beebe and Sackris as finding objectivist judgements falling with cultural distance; not read for this entry.",
+      "doi": "10.1111/j.1468-0017.2011.01428.x",
+      "url": "https://doi.org/10.1111/j.1468-0017.2011.01428.x",
+      "type": "replication"
+    },
+    {
+      "text": "Mitchell, A., Gottfried, J., Barthel, M., & Sumida, N. (2018). Distinguishing Between Factual and Opinion Statements in the News. Pew Research Center, 18 June 2018. A survey of 5,035 US adults fielded 22 February to 8 March 2018, in which 26% classified all five factual statements correctly and 35% all five opinion statements. Read in full; relevant to how the fact and opinion boundary is drawn in practice.",
+      "url": "https://www.pewresearch.org/journalism/2018/06/18/distinguishing-between-factual-and-opinion-statements-in-the-news/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
