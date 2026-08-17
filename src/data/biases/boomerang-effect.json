@@ -1,0 +1,107 @@
+{
+  "no": 509,
+  "slug": "boomerang-effect",
+  "name": "Boomerang effect",
+  "aliases": [
+    "Descriptive norm boomerang",
+    "Norms boomerang"
+  ],
+  "category": "social",
+  "statement": "A persuasive message can move its audience the wrong way, and the standard case is norm feedback that nudges already-frugal households up towards the average.",
+  "meaning": "A boomerang effect is an outcome rather than a mechanism. The audience has to finish further from what the message asked for than it started, or further than a comparison group left alone, so a message that merely fails to persuade is not one. The standard demonstration is normative feedback. Telling a household how its electricity use compares with its neighbours gives a heavy user a reason to cut and gives a light user a number sitting above its own behaviour. Psychological reactance is one proposed route to the outcome and not the outcome itself, and this site keeps it in a separate entry. The corrections literature argues over a different reversal again, filed here as the backfire effect. What makes the norms version hard to measure is that the two groups are defined by falling above and below a mean, which is exactly the setting in which regression to the mean draws the same picture.",
+  "origin": {
+    "year": 2007,
+    "who": "P. Wesley Schultz, Jessica M. Nolan, Robert B. Cialdini, Noah J. Goldstein and Vladas Griskevicius",
+    "where": "Psychological Science",
+    "note": "Their field experiment in San Marcos, California gave households weekly feedback on their electricity use against a neighbourhood average, and reported that below-average households consumed more afterwards. The label is older than the paper. Allcott credits it to Clee and Wicklund in 1980, and Byrne and Hart's 2009 review in Communication Yearbook collects boomerang findings from across communication research."
+  },
+  "evidence": "The authors' own 2018 retrospective in Perspectives on Psychological Science records how the 2007 study was run. 290 households were selected and 3 opted out. The local utility refused to release consumption data as proprietary, so the research team read the meters itself, and the campus ethics board would approve an opt-out protocol only for meters visible from the street. Households received weekly hand-delivered feedback comparing their consumption with that of similar households in the neighbourhood. In the second condition that feedback carried a hand-printed smiley face for low users or a frowny face for high users. The abstract of the 2007 paper reports that the descriptive message produced either savings or the boomerang depending on whether a household was already consuming at a low or a high rate, and that adding the injunctive message eliminated the boomerang. The full text was not obtained for this entry. Unpaywall lists one open copy, at the California State University repository, and it returned HTTP 403 to every request made here, so the condition means are not printed on this page. Allcott, who read the paper, records two things about the smiley-face condition. The low users who got it did not use less energy than the low users who did not by a statistically reliable margin. Their own increase in usage was not distinguishable from zero either.\n\nA second strand of the claim sits in public health campaigning. Hornik, Jacobsohn, Orwin, Piesse and Kalton evaluated the US National Youth Anti-Drug Media Campaign. Three nationally representative cohorts of young people were surveyed at home four times between September 1999 and June 2004. Numbers ran from 8,117 respondents in the first round to 5,126 in the fourth. Most analyses showed no effect of the campaign. At one round, more advertising exposure predicted weaker intention to avoid marijuana at the following round, at a coefficient of -0.07 with a 95% confidence interval of -0.13 to -0.01, and weaker antidrug social norms, at -0.05 with an interval of -0.08 to -0.02. Exposure at round three predicted marijuana initiation at round four, at 0.11 with an interval of 0.00 to 0.22. The authors concluded that the campaign was unlikely to have had favourable effects and may have had delayed unfavourable ones.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Descriptive norm feedback produced no boomerang across 600,000 households, and a controlled test found the same rise-and-fall pattern in people who were sent nothing at all.",
+    "detail": "Allcott evaluated 17 randomised experiments run by Opower, the company that built the 2007 finding into mailed Home Energy Reports. His abstract reports data from 600,000 treatment and control households across the United States and an average reduction in consumption of 2.0%. Effects were heterogeneous in the predicted direction without crossing zero. The highest decile of pre-treatment consumption cut usage by 6.3% and the lowest decile by 0.3%, and he writes that the intervention does not cause a descriptive norm boomerang effect. A regression discontinuity design around the cutoffs between the report's 'Great', 'Good' and 'Below Average' labels found little in the labels. Being called 'Good' instead of 'Great' shifted the treatment effect by less than 0.20 percentage points, about a tenth of the average effect. Being called 'Below Average' instead of 'Good' shifted it by less than 0.16. He therefore attributes the absent boomerang to the conservation tips or to features of the injunctive norms shared by all three categories rather than to the labels themselves.\n\nVerkooijen, Stok and Mollen ran the design the 2007 study lacked. Their two studies added no-message control groups, one on fruit consumption with 163 Dutch students and one on unhealthy snacking with 119. Above-average consumers fell and below-average consumers rose in both, and they did so as much in the control conditions as in the norm-message conditions. In study 1 message condition had no main effect, F(1, 159) = 0.17, p = .679, and no interaction with time or with baseline consumption. Study 2 gave F(1, 115) = 0.03, p = .861. Participants furthest from the mean at baseline moved furthest towards it, which is what regression to the mean predicts.\n\nPrince, Reid, Carey and Neighbors reanalysed four college drinking trials, of 252, 214, 342 and 338 students, looking only at the lighter drinkers in each. They found no boomerang in any of the four. In the two computer-delivered feedback samples nothing changed differently by condition; in the two counsellor-delivered samples everybody drank less and the treated group less again.\n\nThe effect does still turn up. Richter, Thogersen and Klockner posted signs about sustainable seafood in Norwegian and German supermarkets and report that in Germany the norm messages produced a decline in sustainable choices against baseline, which they call a boomerang effect. Somasundaram and Wang gave 1,121 Singaporean primary schoolchildren an educational show and a five-minute shower target. In the control condition, which received the show and the target but no pledge, children whose baseline shower ran under five minutes lengthened it by 8.5 seconds, p = .024, while those over five minutes cut theirs by 30.4 seconds, p = .006, leaving no net saving. Private and public pledges removed the pattern.",
+    "study": {
+      "cite": "Allcott, H. (2011). Social norms and energy conservation. Journal of Public Economics, 95(9-10), 1082-1095.",
+      "doi": "10.1016/j.jpubeco.2011.03.003",
+      "year": 2011,
+      "n": 600000
+    }
+  },
+  "limits": "The 2007 design carried no untreated control group, a point Verkooijen and colleagues state plainly and trace to a 2011 piece by Krueger. Without one, a fall among heavy users and a rise among light users is also what regression to the mean looks like, and the two accounts cannot be separated. Allcott's null is a null for a whole letter rather than for a bare descriptive norm. The Home Energy Report carried conservation tips and injunctive labels alongside the neighbour comparison, and he says the absent boomerang must be down to some part of that bundle. Costa and Kahn's work on political ideology is often read as a boomerang. Their NBER working paper, revised in January 2015, puts the point estimate for a conservative household at a 5.7% rise in consumption after a 'good' rather than a 'room for improvement' message. The matching figure for a liberal household is 0.9%. The paper states that the pointwise 95% intervals are large and that the hypothesis of no normative-message effect is not rejected for either group. The same paper reports that both groups cut usage on receiving the report, by 3.6% for its most liberal profile and 1.1% for its most conservative. The published Journal of the European Economic Association version was not obtained, and the figures here are the working paper's. Kuang, Delea, Thulin and Bicchieri registered a systematic review of boomerang effects in 2020 under PROSPERO CRD42020156989; searches of Crossref and Europe PMC in August 2026 returned the protocol and no completed review. Bergquist, Nilsson and Schultz's meta-analysis of social norm field experiments sits behind a paywall these checks did not pass, and nothing is quoted from it here.",
+  "misreadings": "The boomerang effect is not reactance. Reactance is a motivational state aroused by a threat to a freedom somebody believed they held, and the norms boomerang needs no threat, only a number sitting above the reader's own behaviour. The two travel as synonyms, and this site keeps them in separate entries. It is not the backfire effect either. That argument is about what a correction does to belief in a false claim, and this site's backfire-effect entry sets out its replication record, which is clearer and points the other way from the popular story. The smiley face is quoted as a solved problem. On Allcott's reading of the original data, the low users who received it did not differ from the low users who did not by a statistically reliable margin, so the injunctive fix rests on a null. Opower's scale is read as proof that the boomerang is real and manageable, where what it shows is narrower: the packaged letter, tips and labels together, did not push the lowest decile up. And the anti-drug campaign finding is not a randomised boomerang. Hornik and colleagues measured self-reported exposure inside a national cohort study rather than assigning it, which leaves the young people who saw more advertising differing from the rest in other ways.",
+  "sources": [
+    {
+      "text": "Schultz, P. W., Nolan, J. M., Cialdini, R. B., Goldstein, N. J., & Griskevicius, V. (2007). The constructive, destructive, and reconstructive power of social norms. Psychological Science, 18(5), 429-434. Full text not obtained; the abstract deposited at Crossref was read.",
+      "doi": "10.1111/j.1467-9280.2007.01917.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+      "type": "primary"
+    },
+    {
+      "text": "Schultz, P. W., Nolan, J. M., Cialdini, R. B., Goldstein, N. J., & Griskevicius, V. (2018). The constructive, destructive, and reconstructive power of social norms: Reprise. Perspectives on Psychological Science, 13(2), 249-254. The authors' own account of how the 2007 study was run.",
+      "doi": "10.1177/1745691617693325",
+      "url": "https://www.scranton.edu/faculty/nolan/pdfs/social-norms-reprise_perspectives_schultz-et-al2018.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Allcott, H. (2011). Social norms and energy conservation. Journal of Public Economics, 95(9-10), 1082-1095.",
+      "doi": "10.1016/j.jpubeco.2011.03.003",
+      "url": "https://eml.berkeley.edu/~saez/course131/allcott2011.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Verkooijen, K. T., Stok, F. M., & Mollen, S. (2015). The power of regression to the mean: A social norm study revisited. European Journal of Social Psychology, 45(4), 417-425.",
+      "doi": "10.1002/ejsp.2111",
+      "url": "https://dspace.library.uu.nl/handle/1874/465105",
+      "type": "replication"
+    },
+    {
+      "text": "Prince, M. A., Reid, A., Carey, K. B., & Neighbors, C. (2014). Effects of normative feedback for drinkers who consume less than the norm: Dodging the boomerang. Psychology of Addictive Behaviors, 28(2), 538-544.",
+      "doi": "10.1037/a0036402",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4169697/",
+      "type": "replication"
+    },
+    {
+      "text": "Richter, I., Thogersen, J., & Klockner, C. A. (2018). A social norms intervention going wrong: Boomerang effects from descriptive norms information. Sustainability, 10(8), 2848.",
+      "doi": "10.3390/su10082848",
+      "url": "https://doi.org/10.3390/su10082848",
+      "type": "replication"
+    },
+    {
+      "text": "Somasundaram, J., & Wang, Z. (2025). Pledges counteract the boomerang effect in a sustainable showering intervention for children. Communications Psychology, 3, 107.",
+      "doi": "10.1038/s44271-025-00294-7",
+      "url": "https://europepmc.org/articles/PMC12271409",
+      "type": "replication"
+    },
+    {
+      "text": "Hornik, R., Jacobsohn, L., Orwin, R., Piesse, A., & Kalton, G. (2008). Effects of the National Youth Anti-Drug Media Campaign on youths. American Journal of Public Health, 98(12), 2229-2236.",
+      "doi": "10.2105/AJPH.2007.125849",
+      "url": "https://doi.org/10.2105/AJPH.2007.125849",
+      "type": "primary"
+    },
+    {
+      "text": "Byrne, S., & Hart, P. S. (2009). The boomerang effect: A synthesis of findings and a preliminary theoretical framework. Communication Yearbook, 33(1), 3-37. Abstract read at the publisher; full text not obtained.",
+      "doi": "10.1080/23808985.2009.11679083",
+      "url": "https://academic.oup.com/anncom/article/33/1/3/7885513",
+      "type": "commentary"
+    },
+    {
+      "text": "Kuang, J., Delea, M. G., Thulin, E., & Bicchieri, C. (2020). Do descriptive norms messaging interventions backfire? Protocol for a systematic review of the boomerang effect. Systematic Reviews, 9, 267.",
+      "doi": "10.1186/s13643-020-01533-0",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7687726/",
+      "type": "commentary"
+    },
+    {
+      "text": "Costa, D. L., & Kahn, M. E. (2010, revised January 2015). Energy conservation nudges and environmentalist ideology: Evidence from a randomized residential electricity field experiment. NBER Working Paper 15939. Cited here for the working paper's figures; the 2013 Journal of the European Economic Association version was not obtained.",
+      "doi": "10.3386/w15939",
+      "url": "https://www.nber.org/system/files/working_papers/w15939/w15939.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Bergquist, M., Nilsson, A., & Schultz, P. W. (2019). A meta-analysis of field-experiments using social norms to promote pro-environmental behaviors. Global Environmental Change, 59, 101941. Paywalled; nothing is quoted from it on this page.",
+      "doi": "10.1016/j.gloenvcha.2019.101941",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2019.101941",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
