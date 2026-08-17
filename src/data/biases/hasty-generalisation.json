@@ -1,0 +1,102 @@
+{
+  "no": 508,
+  "slug": "hasty-generalisation",
+  "name": "Hasty generalisation",
+  "aliases": [
+    "Hasty generalization",
+    "Faulty generalisation",
+    "Small sample fallacy",
+    "Unrepresentative sample",
+    "Secundum quid",
+    "Anecdotal evidence"
+  ],
+  "category": "belief",
+  "statement": "Hasty generalisation is the step from a few observed cases to a claim about the whole class, and the textbooks fix the error against the strength claimed rather than against any count.",
+  "meaning": "The form runs from observed instances to a statement about the population they came from. It is defective when the sample is too small or too skewed to carry the conclusion at the strength asserted, and that qualification does the work. Induction from a sample is defeasible by design, so a bad generalisation cannot be separated from a good one by counting instances alone. Bradley Dowden's entry in the Internet Encyclopedia of Philosophy states the error as overestimating the strength of an argument based on too small a sample for the implied confidence level or error margin. It adds that no number can be set below which the fallacy is produced. Setting one would need the homogeneity of the population, the margin of error and the confidence level. A small sample is acceptable where the conclusion carries a correspondingly wide margin. The Atlas keeps the probability judgement on a separate page. Insensitivity to sample size covers the hospital problem, the question of whether people track how sampling variance falls as n grows, and the replication record of that literature, and its figures are not restated here. What is at issue on this page is the argument: how many cases license which conclusion, and whether people making the step register that they have made it.",
+  "origin": {
+    "year": 1971,
+    "who": "Amos Tversky and Daniel Kahneman",
+    "where": "Psychological Bulletin",
+    "note": "The name belongs to logic and is far older than any experiment. Hans Hansen's Stanford Encyclopedia entry traces the arrival of inductive fallacies in the standard list to the Port-Royal Logic of Arnauld and Nicole in 1662. That work added a faulty or incomplete induction to the Aristotelian stock. Hansen treats Mill's System of Logic as the first extensive attempt at fallacies of induction, with a class of fallacies of generalization at Book V, chapter v. The 1971 paper claims no priority for the name. What it did was measure the step in professional psychologists, and it is dated here for that reason."
+  },
+  "evidence": "Tversky and Kahneman put a questionnaire to audiences at meetings of the Mathematical Psychology Group and of the American Psychological Association. Asked for the probability that a result obtained on 20 subjects at z = 2.23 would come out significant again on a further group of 10, the median answer of the two groups was .85. Only 9 of 84 respondents answered between .40 and .60, and the paper's own footnote computes .473 as the power of the second test and .478 as the posterior probability under a uniform prior. A second question described a doctoral student who had run 40 animals and found one before-after comparison at t = 2.70. Replication was recommended by 66 of 75 respondents, at a median of 20 animals. They were then told that the replication on 20 animals had returned t = 1.24 in the same direction. Of the respondents, 0 chose to pool and publish, 26 to report a tentative finding, 21 to run another group and 30 to look for an explanation of the difference. Tversky and Kahneman observe that the t for that difference is .53. A third question gave 20 variables scored on 100 subjects, with 27 of the 190 correlations significant at .05 and a mean absolute value of .31, and asked how many would survive at N = 40. The median estimate was 18, against the authors' own generous figure of 8 to 10. Hamill, Wilson and Nisbett tested the step from a single case. In their first study 127 University of Michigan undergraduates read a magazine profile of a long-term welfare recipient, preceded or followed by an editor's note giving state statistics on how long recipients stay on welfare. Attitudes to recipients as a class fell whether the note made the case typical or atypical. The mean was 20.18 for the 39 told it was typical and 20.68 for the 38 told it was atypical, against 23.45 for 47 controls, F(2, 121) = 5.22, p < .0007. The two experimental groups differed from each other by t = .44, p > .25. In their second study 147 undergraduates watched a videotaped interview with a humane or an inhumane prison guard. The guard was described as the most representative of those interviewed, as one of the best or worst, or with no sampling information. Guard humaneness took 26.4% of the variance in opinions about guards as a class, F(1, 102) = 38.43, while the interaction with sampling information took 1.2%, with F below 1. Nisbett, Krantz, Jepson and Kunda showed that the step is not taken indiscriminately. They gave 46 Michigan undergraduates, 85% of whom had taken no statistics course, a scenario about an unexplored island. Each was told of 1, 3 or 20 sampled instances of an object with some property. They then estimated what percentage of the population would share it. For an element that burned green, an element that conducted electricity and the colour of a tribesman, the modal estimate was 100% at every sample size. For the colour of a bird, the nesting site of a bird and the obesity of tribesmen, estimates stayed lower even after 20 instances. The contrast between N = 1 on the first set and N = 20 on the second gave t(31) = 3.00, p < .01. Sample size moved the obesity estimates at p < .001 and the bird colour estimates at p = .11. The reasons participants wrote down sorted the same way, with two coders agreeing on 89% of them.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The single-case demonstrations hold up in some later work and not in others, and the 1971 survey of professional psychologists has not been put to a later cohort of researchers.",
+    "detail": "Michal, Zhong and Shah gave 87 University of Michigan undergraduates two fictitious media articles about flawed studies of classroom interventions, one carrying a personal anecdote and one not, in a within-subjects design. Adding the anecdote moved nothing. Ratings of evidence strength were 2.99 with the anecdote and 2.79 without, persuasiveness 3.29 and 2.93, and likelihood of adopting the intervention 3.62 and 3.60, with every F below 2. They write that they were unable to replicate the finding of Rodriguez, Rhodes and colleagues that anecdotes reduce evidence evaluation. They name two design differences: their within-subjects placement of the anecdote, and their use of two articles rather than eight. Their second experiment, on 110 participants recruited through Prolific, coded what participants spontaneously named as flaws. Small sample size was mentioned by 34% of them for a study of 60 and by 7% for a study of 225, so the complaint tracks the number to some degree. What was not found matters as much. Hong and Feldman have a Registered Report on the 1971 problems with in-principle acceptance at Peer Community in Registered Reports, recommended by Moin Syed on 19 June 2023. Its Stage 1 manuscript targets 1,000 American participants on Amazon Mechanical Turk through CloudResearch. It classifies itself as a far conceptual replication on the LeBel scheme. Under Population it records that the original sample were people or scholars with statistical knowledge, while the replication targets laypersons without it. It manipulates the stated sample sizes by ten and by a hundred as an extension. Its abstract, method and results sections are written against a simulated dataset and carry no findings. No Stage 2 report was located in Crossref, in a listing of the Peer Community DOI prefix 10.24072, in the Open Science Framework preprint index or in open web search. No repetition of the 1971 questionnaire on any later cohort of researchers was located in those places either. That absence is worth stating plainly for a paper this widely cited. Krupat, Smith, Leach and Jackson published a follow-up to Hamill and colleagues in 1997 under the title \"Generalizing From Atypical Cases: How General a Tendency?\". It is closed at the publisher, Unpaywall records no repository copy, and nothing from it is quoted here.",
+    "study": {
+      "cite": "Michal, A. L., Zhong, Y., & Shah, P. (2021). When and why do people act on flawed science? Effects of anecdotes and prior beliefs on evidence-based decision-making. Cognitive Research: Principles and Implications, 6, 28.",
+      "doi": "10.1186/s41235-021-00293-2",
+      "year": 2021,
+      "n": 87
+    }
+  },
+  "limits": "The fallacy has no numerical threshold, and the people who study it say so. Dowden's account holds that a sample of one suffices for a population known to be uniform, and that a small sample is fine where the conclusion carries a wide margin of error. A large sample can still be unrepresentative. His example is a poll of 400,000 Southern Baptists on which religion is best. Hamill, Wilson and Nisbett put the same point from the other side. Refusing to generalise from haphazard samples would, they write, be much too conservative, and would produce ignorance where some knowledge is possible. How much caution is required is, they add, so complicated a question that formal inductivists have not addressed it. Their prison-guard study includes the check that would license the inference. A further 39 students estimated how far the best and worst of 20 guards would differ, and the presumed differences were large on all four questions at p below .0001. The authors conclude that their participants did not hold the homogeneity belief that would have justified ignoring the sample bias. Several documents could not be opened. Krupat and colleagues' 1997 follow-up is closed at Taylor and Francis with no repository copy in Unpaywall. Busche and Kennedy published a note titled \"On Economists' Belief in the Law of Small Numbers\" in Economic Inquiry in 1984, with a reply by Kass and Pautler in the same issue. Both are closed at Wiley. Whether that exchange involved putting questions to economists is not established here. Taylor and Thompson's 1982 review of vividness effects was read only as its ERIC abstract, which states that the proposed processes behind such effects, memorability, imageability and affective impact, are themselves problematic. The 1971 paper was read as a scan whose text layer renders some digits wrongly, and every figure quoted from it above was checked a second time against images of the printed page. Whether people are sensitive to sample size in probability judgements is a separate question with a separate record. It sits on the insensitivity to sample size page, along with Sedlmeier and Gigerenzer's sorting of the task types and the 2025 preregistered replication of the 1972 problems.",
+  "misreadings": "The commonest error is to run hasty generalisation together with its converse. Dowden's list files sweeping generalisation and overgeneralisation under the fallacy of accident, which applies a general rule to a case it does not fit. Hasty generalisation goes the other way, from cases to a rule. The second error is to treat a small sample as the fallacy. It is not: the same list holds that small samples are acceptable with a correspondingly large margin of error, and that the bias in a sample is a separate defect from its size. The third is to read the 1971 paper as a study of ordinary people. Its respondents were psychologists at professional meetings, its questions were about statistical power and about what counts as a failure to replicate, and its point was that training in statistics did not extinguish the intuition. The fourth is to expect the step to be taken indiscriminately. Nisbett and colleagues' participants went to 100% from a single instance where they believed the class uniform and held back after 20 instances where they did not, which is the criterion the logic texts describe being applied, if roughly. The fifth is to assume that a vivid single case always outweighs the numbers. Hamill and colleagues found that it did, and Michal and colleagues found that adding an anecdote to a flawed study report moved evidence-strength, persuasiveness and adoption ratings by less than the noise. The last is to treat the word fallacy as settling whether an inference is wrong. Dowden notes that researchers are divided over how to define the term at all, and that there is no agreement on whether necessary and sufficient conditions exist for separating fallacious from non-fallacious reasoning.",
+  "sources": [
+    {
+      "text": "Tversky, A., & Kahneman, D. (1971). Belief in the law of small numbers. Psychological Bulletin, 76(2), 105-110. Read in full as the journal scan hosted at stats.org.uk, downloaded twice to the same checksum; the digits quoted here were re-read from 300 dpi images of pages 105, 107, 108 and 109 because the text layer renders .85 as .35.",
+      "doi": "10.1037/h0031322",
+      "url": "http://stats.org.uk/statistical-inference/TverskyKahneman1971.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hamill, R., Wilson, T. D., & Nisbett, R. E. (1980). Insensitivity to sample bias: Generalizing from atypical cases. Journal of Personality and Social Psychology, 39(4), 578-589. Read in full from the copy in the University of Michigan Deep Blue repository. Source for both studies' figures and for the authors' remark about formal inductivists.",
+      "doi": "10.1037/0022-3514.39.4.578",
+      "url": "https://deepblue.lib.umich.edu/handle/2027.42/92179",
+      "type": "primary"
+    },
+    {
+      "text": "Nisbett, R. E., Krantz, D. H., Jepson, C., & Kunda, Z. (1983). The use of statistical heuristics in everyday inductive reasoning. Psychological Review, 90(4), 339-363. Read in full from the copy in the University of Michigan Deep Blue repository. Source for the island study, the sample sizes of 1, 3 and 20, and t(31) = 3.00.",
+      "doi": "10.1037/0033-295X.90.4.339",
+      "url": "https://deepblue.lib.umich.edu/handle/2027.42/92168",
+      "type": "primary"
+    },
+    {
+      "text": "Michal, A. L., Zhong, Y., & Shah, P. (2021). When and why do people act on flawed science? Effects of anecdotes and prior beliefs on evidence-based decision-making. Cognitive Research: Principles and Implications, 6, 28. Read as the full-text XML from Europe PMC, PMC8023527.",
+      "doi": "10.1186/s41235-021-00293-2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/",
+      "type": "replication"
+    },
+    {
+      "text": "Hong, C. K., & Feldman, G. (2023). Revisiting the \"Belief in the law of small numbers\": Conceptual replication and extensions Registered Report of problems reviewed in Tversky and Kahneman (1971) [Stage 1]. Read in full as the 96-page Stage 1 manuscript downloaded from the Open Science Framework. Contains no findings; its results sections are written against a simulated dataset.",
+      "url": "https://osf.io/6n8jp/",
+      "type": "replication"
+    },
+    {
+      "text": "Syed, M. (2023). Should we believe in the \"belief in the law of small numbers?\" Peer Community in Registered Reports, 19 June 2023. The Stage 1 recommendation of the Hong and Feldman report; record read at Crossref because the Peer Community site refuses automated requests.",
+      "doi": "10.24072/pci.rr.100410",
+      "url": "https://doi.org/10.24072/pci.rr.100410",
+      "type": "replication"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read in full. Source for the definition of hasty generalisation against the implied confidence level, for the entries on small sample, unrepresentative sample, anecdotal evidence and sweeping generalisation, and for the statement that there is no agreement on necessary and sufficient conditions for fallacious reasoning.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, first published 29 May 2015, substantive revision 30 August 2024. Read in full. Source for the Port-Royal Logic as the entry point of inductive fallacies into the standard list and for Mill's fallacies of generalization at Book V, chapter v.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Krupat, E., Smith, R. H., Leach, C. W., & Jackson, M. A. (1997). Generalizing From Atypical Cases: How General a Tendency? Basic and Applied Social Psychology, 19(3), 345-361. Closed at the publisher, with no repository copy recorded by Unpaywall; named as existing, and nothing from it is quoted.",
+      "doi": "10.1207/s15324834basp1903_5",
+      "url": "https://doi.org/10.1207/s15324834basp1903_5",
+      "type": "replication"
+    },
+    {
+      "text": "Busche, K., & Kennedy, P. E. (1984). On economists' belief in the law of small numbers. Economic Inquiry, 22(4), 602-603, with a reply by Kass and Pautler at 604-606. Closed at Wiley and not obtained; named because its title bears on whether the 1971 survey was ever repeated on another profession.",
+      "doi": "10.1111/j.1465-7295.1984.tb00708.x",
+      "url": "https://doi.org/10.1111/j.1465-7295.1984.tb00708.x",
+      "type": "provenance"
+    },
+    {
+      "text": "Taylor, S. E., & Thompson, S. C. (1982). Stalking the elusive \"vividness\" effect. Psychological Review, 89(2), 155-181. Read only as the ERIC abstract, record EJ270540; the body was not obtained and no figure from it appears above.",
+      "doi": "10.1037/0033-295X.89.2.155",
+      "url": "https://eric.ed.gov/?id=EJ270540",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
