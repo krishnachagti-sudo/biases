@@ -1,0 +1,158 @@
+{
+  "no": 572,
+  "slug": "inflation-of-conflict",
+  "name": "Inflation of conflict",
+  "aliases": [
+    "Inflation of conflict fallacy",
+    "Argument from expert disagreement"
+  ],
+  "category": "belief",
+  "statement": "Treating disagreement among experts as showing that the whole field is unreliable, so a contested point becomes a reason to discount everything the field says.",
+  "meaning": "The move has two steps, and the second is the fallacious one. First, experts are shown disagreeing. Second, the audience concludes that nothing can be known, or that the field itself is not worth listening to. Bo Bennett's fallacy dictionary gives the logical form as \"Authority A disagrees with authority B on issue X. Therefore, we can say nothing meaningful about issue X\", and calls it a form of black and white thinking, either we know the exact truth or we know nothing at all. Wikipedia's list of fallacies gives the same shape, arguing that if experts in a field disagree on a certain point, no conclusion can be reached or the legitimacy of that field is questionable. Bennett states the exception that matters: where the professional disagreement is critical, it should be examined, and his worked case is two doctors each saying the other's medicine would kill the patient. So the error is not attending to disagreement. It is inferring the size of the disagreement, or the state of the field, from the fact that some disagreement was displayed.",
+  "origin": {
+    "year": 2018,
+    "who": "Andy Wible",
+    "where": "Bad Arguments: 100 of the Most Important Fallacies in Western Philosophy (Wiley)",
+    "note": "Wible's two-page chapter is the only publication carrying this title that a Crossref title search returns in the fallacy sense, at pages 280 to 281, with an electronic publication date of 9 May 2018. The chapter itself was not obtained, so nothing in this entry is taken from it. The label travels mainly on fallacy lists rather than in research, and Bennett's own page for it records under References that no academic sources could be found."
+  },
+  "evidence": "Nothing in the psychological literature uses this name, so the evidence has to be read off the two things that are measured: what happens to belief when people are told experts agree, and what happens when they are shown experts disagreeing. Sander van der Linden, Anthony Leiserowitz, Geoffrey Feinberg and Edward Maibach ran the first controlled test on a national quota sample of 1,104 Americans. Estimates of the proportion of climate scientists who accept human-caused climate change rose from a pre-test mean of 66.98% to a post-test mean of 79.72%, and being in one of the ten message conditions rather than the control raised the estimate by 12.8 points, with a bias-corrected bootstrap interval of 8.60 to 17.0. They named the sequence the gateway belief model: the shift in perceived agreement predicts smaller shifts in personal beliefs, which predict support for action. The reverse direction has been measured in the same laboratory. In a study of 2,167 Mechanical Turk participants, a consensus message on its own raised perceived agreement by 19.72 points. A countermessage, an exact copy of the Oregon Global Warming Petition Project claiming that over 31,000 American scientists had signed against the science, moved it by -8.99 points, d = 0.48 against control. Shown one after the other, the pair produced a change of 0.51 points, against 0.35 in a control group that saw neither. The consensus message was cancelled. Fewer than 1% of the petition's signatories had a background in atmospheric or climate science, and the authors note fraudulent entries including Charles Darwin and members of the Spice Girls. Natasha van Antwerpen, Estelle Green, Daniel Sturman and Rachel Searston tested the inference itself in three two-by-two experiments, on an Australian student sample of 105, an online sample of 110 and a general sample of 105. Participants read a scientific claim followed by someone disagreeing, whose domain expertise and vested interest were varied. Whether the dissenter had relevant expertise moved trust in the original scientist in all three, d = 0.39, 0.26 and 0.27, and moved belief in the claim in all three, d = 0.32, 0.14 and 0.24. Whether the dissenter had a vested interest moved trust and belief in the student sample, d = 0.15 and 0.21, and in neither of the others, p = .673 and p = .211 for trust. Health advice gives the closest measure of the conclusion the fallacy draws. Daniel Clark, Rebekah Nagler and Jeff Niederdeppe randomised 901 American adults to six conditions. Those reading two news articles that contradicted each other on carbohydrates and dietary fats scored 3.15 on a five-point confusion scale, against 2.17 for readers of articles on smoking and sun exposure and 2.45 for a group shown nothing. On the Nutritional Backlash Scale, which carries items such as \"Scientists really don't know what diet is good for you\", the contradictory group scored 2.93 against 2.50 and 2.63. Abel Gustafson and Ronald Rice reviewed 48 experiments on communicated uncertainty and sorted them by what kind of uncertainty was shown. Uncertainty expressed as disagreement or conflict in science was where the negative effects sat, and they report that it was never found to have positive effects, while uncertainty expressed as error ranges and probabilities had only positive or null effects.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Showing people that experts agree, or that they do not, reliably moves how much agreement people think there is. Whether that shift carries through to attitudes and policy support has failed as often as it has held.",
+    "detail": "The first stage is one of the better replicated findings in science communication. Van der Linden, Leiserowitz and Maibach repeated their own experiment on 6,301 Americans and got d = 0.88, 95% CI 0.83 to 0.93, on perceived scientific consensus, with a mean gain of 16.81 points. Zhao-Xie Zeng, Jan-Willem van Prooijen, Yong-Yu Guo and van der Linden ran a preregistered replication on a Chinese national quota sample of 1,506 and got d = 1.09. Nadia Said, Luna Frauhammer and Markus Huff ran a preregistered replication on a representative German sample of 1,110 and got d = 0.74. Bojana Većkalov, Sandra Geiger and colleagues ran a preregistered experiment across 27 countries, n = 10,527, and report d = 0.47, 95% CI 0.41 to 0.52, for the classic 97% message against control. Adam van Stekelenburg, Gabi Schaap, Harm Veling, Jonathan van 't Riet and Moniek Buijzen pooled 43 experiments on climate change, genetically modified food and vaccination and put the effect on perceived consensus at g = 0.55. The second stage is where the record splits. In the 6,301-person study the downstream effects were d = 0.14 for belief that global warming is happening, 0.23 for human causation, 0.11 for worry and 0.09 for support for public action. In the German sample none of the four moved: d = 0.01, 0.10, 0.06 and 0.03, with p values of .827, .092, .337 and .609 against a corrected alpha of .01. In the Chinese sample the main effects were present, d = 0.20 to 0.48, and the authors report that their data do not support stage 2 of the model, the step where changed beliefs predict greater support for action. Across the 27 countries the classic message moved belief in the reality of climate change by d = 0.06 and human causation by d = 0.10, worry by d = 0.05, and produced weak evidence against any direct effect on support for public action, d = 0.02, 95% CI -0.03 to 0.08, BF+0 = 0.62. Dan Kahan reanalysed the 1,104-person original after obtaining the deposited data. Comparing the message group with the control group, differences that the paper had not reported, he found the after-message means differing by 1.3 points on belief in climate change, t = 0.51, p = .61, 2.6 on human causation, t = 1.03, p = .30, 2.5 on worry, t = 0.86, p = .39, and 2.5 on support for action, t = 1.09, p = .28. His structural argument is that the original model connected the experimental assignment only to perceived agreement, leaving every other path a correlation across the pooled sample rather than a treatment effect. The 6,301-person study was written as the answer to that objection and specifies the model with the treatment condition included.",
+    "study": {
+      "cite": "Većkalov, B., Geiger, S. J., Bartoš, F., White, M. P., Rutjens, B. T., van Harreveld, F., et al. (2024). A 27-country test of communicating the scientific consensus on climate change. Nature Human Behaviour, 8, 1892-1905.",
+      "doi": "10.1038/s41562-024-01928-2",
+      "year": 2024,
+      "sites": 27,
+      "n": 10527
+    },
+    "replicated": {
+      "es": 0.47,
+      "esType": "d",
+      "ci": [
+        0.41,
+        0.52
+      ],
+      "ciLevel": 95
+    },
+    "indexedBy": "Europe PMC"
+  },
+  "limits": "No study located here tests the fallacy as it is stated. Nobody has shown participants a field's internal disagreement and measured whether they conclude that the field is worthless. What is measured instead is perceived consensus, trust in one scientist, and backlash against one body of advice, and those are narrower. The nearest measure has a hole in it. Clark and colleagues' contradictory group did score higher on backlash than both control groups, and its interval overlapped both convergent conditions, where participants read two articles agreeing with each other about diet. Backlash was raised by reading about nutrition science, not only by reading a conflict. Their intentions results were also mixed, with no difference from the convergent low-carbohydrate condition on intentions to eat a low-fat diet. The effect-size fields on this page carry only the 27-country figure. The 2015 original reports unstandardised regression coefficients, so no comparable d is available from it, and the 12.8-point treatment effect is on a 0 to 100 percentage scale rather than a standardised one. Several documents behind this entry were read in versions other than the published one. The 6,301-person study was read as the accepted manuscript in the Cambridge repository, and the German replication as the preprint deposited at the Open Science Framework, so both may differ from the journal versions. Wible's chapter returned HTTP 403 on two attempts and only its Crossref record was read. Michaël Aklin and Johannes Urpelainen's 2014 experiment on perceived scientific dissent was located but not obtained, and no figure from it appears above. David Michaels and Celeste Monforton's account of manufactured uncertainty, which they define as questioning the validity of the scientific evidence a regulation rests on, is described here from its abstract at Europe PMC alone. For the label itself, the search covered a Crossref title search, which returns Wible's chapter and otherwise macroeconomics, a Europe PMC full-text search for the exact phrase, whose 33 records are about price inflation and armed conflict, and the table of twelve fallacies of climate misinformation that Zanartu and colleagues compiled, which does not carry it.",
+  "misreadings": "The commonest error is to read the fallacy as a rule against noticing disagreement. Bennett's own exception covers the case where the disagreement is critical, and van Antwerpen and colleagues found that people already discriminate: a dissenter without domain expertise raised trust in the original scientist, in all three samples, which is the opposite of the fallacy. The second error is to run it together with the two neighbouring entries here. Argument to moderation takes the midpoint of two positions as true. False equivalence is an editorial practice, a choice about whom to quote, and it can be committed with two accurate quotations. Inflation of conflict is what an audience does with the display afterwards, and this collection's entry on false equivalence covers the reporting side. The third error is treating consensus messaging as the antidote. It moves what people think experts believe, at d around 0.5 to 0.9 depending on the sample, and it left support for public action unmoved across 27 countries and every climate attitude unmoved in Germany. The fourth is reading the gateway belief model's original paper as having demonstrated the whole chain. Kahan's reanalysis of its own data found no reliable treatment effect on any downstream measure, and the model that carried the claim did not connect the treatment to those measures. The larger replication published four years later is the evidence for the chain, not the 2015 paper. The fifth is expecting the damage to be permanent. In the inoculation experiment a forewarning restored a third of the consensus effect in general form and two thirds in a form that named the petition and its signatories.",
+  "sources": [
+    {
+      "text": "Wible, A. (2018). Inflation of Conflict. In R. Arp, S. Barbone & M. Bruce (Eds.), Bad Arguments: 100 of the Most Important Fallacies in Western Philosophy (pp. 280-281). Wiley. Not obtained; the publisher returned HTTP 403 and only the Crossref record was read.",
+      "doi": "10.1002/9781119165811.ch62",
+      "url": "https://doi.org/10.1002/9781119165811.ch62",
+      "type": "primary"
+    },
+    {
+      "text": "Bennett, B. Inflation of Conflict. Logically Fallacious. The source of the logical form, the black and white framing, the doctors exception and the statement that no academic sources could be found.",
+      "url": "https://www.logicallyfallacious.com/logicalfallacies/Inflation-of-Conflict",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia. List of fallacies. Read through the MediaWiki API; the source of the wording quoted about the legitimacy of a field being questionable. An index, not evidence.",
+      "url": "https://en.wikipedia.org/wiki/List_of_fallacies",
+      "type": "commentary"
+    },
+    {
+      "text": "van der Linden, S. L., Leiserowitz, A. A., Feinberg, G. D., & Maibach, E. W. (2015). The scientific consensus on climate change as a gateway belief: Experimental evidence. PLoS ONE, 10(2), e0118489. Full text read from the JATS XML at PLOS, fetched twice with identical checksums.",
+      "doi": "10.1371/journal.pone.0118489",
+      "url": "https://doi.org/10.1371/journal.pone.0118489",
+      "type": "primary"
+    },
+    {
+      "text": "van der Linden, S., Leiserowitz, A., & Maibach, E. (2019). The gateway belief model: A large-scale replication. Journal of Environmental Psychology, 62, 49-58. Read as the accepted manuscript deposited in the University of Cambridge repository; every figure quoted was taken from its results text and Table 1.",
+      "doi": "10.1016/j.jenvp.2019.01.009",
+      "url": "https://www.repository.cam.ac.uk/bitstreams/9989b0d7-bc90-44a1-b721-4850ee9986f0/download",
+      "type": "replication"
+    },
+    {
+      "text": "Kahan, D. (2017). The \"Gateway Belief\" illusion: reanalyzing the results of a scientific-consensus messaging study. Journal of Science Communication, 16(5), A03. Full text read as the open-access PDF at JCOM.",
+      "doi": "10.22323/2.16050203",
+      "url": "https://jcom.sissa.it/article/id/727/download/pdf/",
+      "type": "commentary"
+    },
+    {
+      "text": "Said, N., Frauhammer, L. T., & Huff, M. (2022). Pre-registered replication of the gateway belief model: Results from a representative German sample. Journal of Environmental Psychology, 84, 101910. The published version was not obtained; the figures above were read from the authors' preprint of the same title.",
+      "doi": "10.1016/j.jenvp.2022.101910",
+      "url": "https://doi.org/10.1016/j.jenvp.2022.101910",
+      "type": "replication"
+    },
+    {
+      "text": "Said, N., Frauhammer, L. T., & Huff, M. (2022). Pre-registered Replication of the Gateway Belief Model: Results from a Representative German Sample. PsyArXiv preprint. The document actually read for the German figures.",
+      "doi": "10.31234/osf.io/ngkdp",
+      "url": "https://osf.io/download/ngkdp/",
+      "type": "replication"
+    },
+    {
+      "text": "Zeng, Z.-X., van Prooijen, J.-W., Guo, Y.-Y., & van der Linden, S. (2025). The Gateway Belief Model: A pre-registered large-scale replication in China. Journal of Environmental Psychology, 102, 102542. Full text read as a PDF of the published article hosted at personpsy.org.",
+      "doi": "10.1016/j.jenvp.2025.102542",
+      "url": "https://doi.org/10.1016/j.jenvp.2025.102542",
+      "type": "replication"
+    },
+    {
+      "text": "Većkalov, B., Geiger, S. J., Bartoš, F., White, M. P., Rutjens, B. T., van Harreveld, F., et al. (2024). A 27-country test of communicating the scientific consensus on climate change. Nature Human Behaviour, 8, 1892-1905. Full text read from the JATS XML at Europe PMC; every figure quoted appears in both the abstract and the results.",
+      "doi": "10.1038/s41562-024-01928-2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11493676/",
+      "type": "replication"
+    },
+    {
+      "text": "van Stekelenburg, A., Schaap, G., Veling, H., van 't Riet, J., & Buijzen, M. (2022). Scientific-consensus communication about contested science: A preregistered meta-analysis. Psychological Science, 33, 1989-2008. Not obtained; the abstract was read at Europe PMC and is the source of the two pooled figures.",
+      "doi": "10.1177/09567976221083219",
+      "url": "https://doi.org/10.1177/09567976221083219",
+      "type": "replication"
+    },
+    {
+      "text": "van der Linden, S., Leiserowitz, A., Rosenthal, S., & Maibach, E. (2017). Inoculating the public against misinformation about climate change. Global Challenges, 1(2), 1600008. Full text read from the JATS XML at Europe PMC; the petition figures and the six condition means come from its Table 3 and results.",
+      "doi": "10.1002/gch2.201600008",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6607159/",
+      "type": "primary"
+    },
+    {
+      "text": "van Antwerpen, N., Green, E. B., Sturman, D., & Searston, R. A. (2025). The impacts of expertise, conflict, and scientific literacy on trust and belief in scientific disagreements. Scientific Reports, 15, 11869. Full text read from the JATS XML at Europe PMC.",
+      "doi": "10.1038/s41598-025-96333-8",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11977003/",
+      "type": "primary"
+    },
+    {
+      "text": "Clark, D., Nagler, R. H., & Niederdeppe, J. (2019). Confusion and nutritional backlash from news media exposure to contradictory information about carbohydrates and dietary fats. Public Health Nutrition, 22(18), 3336-3348. Full text read at PubMed Central.",
+      "doi": "10.1017/S1368980019002866",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10260685/",
+      "type": "primary"
+    },
+    {
+      "text": "Nagler, R. H. (2014). Adverse outcomes associated with media exposure to contradictory nutrition messages. Journal of Health Communication, 19, 24-40. The survey that the backlash and confusion measures came from. Not obtained; the abstract was read at Europe PMC, and it is cross-sectional rather than experimental.",
+      "doi": "10.1080/10810730.2013.798384",
+      "url": "https://doi.org/10.1080/10810730.2013.798384",
+      "type": "primary"
+    },
+    {
+      "text": "Gustafson, A., & Rice, R. E. (2020). A review of the effects of uncertainty in public science communication. Public Understanding of Science, 29, 614-633. Not obtained; the abstract was read at Europe PMC and is the source of the count of 48 experiments and of the four-way sorting of uncertainty types.",
+      "doi": "10.1177/0963662520942122",
+      "url": "https://doi.org/10.1177/0963662520942122",
+      "type": "replication"
+    },
+    {
+      "text": "Michaels, D., & Monforton, C. (2005). Manufacturing uncertainty: Contested science and the protection of the public's health and environment. American Journal of Public Health, 95(S1), S39-S48. Not obtained; the abstract was read at Europe PMC, and nothing beyond its own wording is attributed to it here.",
+      "doi": "10.2105/AJPH.2004.043059",
+      "url": "https://doi.org/10.2105/AJPH.2004.043059",
+      "type": "commentary"
+    },
+    {
+      "text": "Aklin, M., & Urpelainen, J. (2014). Perceptions of scientific dissent undermine public support for environmental policy. Environmental Science & Policy, 38, 173-177. Located but not obtained on this pass, and no figure from it appears on this page.",
+      "doi": "10.1016/j.envsci.2013.10.006",
+      "url": "https://doi.org/10.1016/j.envsci.2013.10.006",
+      "type": "primary"
+    },
+    {
+      "text": "Zanartu, F., Cook, J., Wagner, M., & García, J. (2024). A technocognitive approach to detecting fallacies in climate misinformation. Scientific Reports, 14, 27647. Full text read from the JATS XML at Europe PMC; its Table 1 lists twelve fallacies found in climate misinformation and this label is not among them.",
+      "doi": "10.1038/s41598-024-76139-w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11557567/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
