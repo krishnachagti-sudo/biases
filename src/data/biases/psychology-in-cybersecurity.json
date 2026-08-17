@@ -1,0 +1,76 @@
+{
+  "no": 401,
+  "slug": "psychology-in-cybersecurity",
+  "name": "Psychology in cybersecurity",
+  "aliases": ["Human factors in security", "Security awareness training", "Phishing susceptibility"],
+  "category": "social",
+  "statement": "Psychology in cybersecurity is a research field rather than a judgement error, and its most tested claim is that training employees stops them falling for phishing.",
+  "meaning": "This entry is different in kind from most on this site. Psychology in cybersecurity names a field, not a bias, and it arrived in this corpus from a category listing rather than from a single finding. Fields do not replicate; claims do. The claim inside this one that has been tested hardest is the industry practice built on it. Organisations send their own staff simulated phishing emails, and anyone who clicks is shown training material at the moment of the mistake. The practice is called embedded training, and regulators and insurers now expect it. Its premise is that clicking is a knowledge problem, and that supplying the missing knowledge at the teachable moment prevents the next click. That is a prediction, and randomised experiments on real employees can check it. So the record below concerns the intervention. It says nothing about whether attackers exploit human psychology, which no source read here disputes.",
+  "origin": {
+    "year": 2008,
+    "who": "Ponnurangam Kumaraguru, Steve Sheng, Alessandro Acquisti, Lorrie Faith Cranor and Jason Hong",
+    "where": "eCrime Researchers Summit",
+    "note": "The paper is \"Lessons from a real world evaluation of anti-phishing training\", which carried the PhishGuru embedded training system out of the laboratory and into a Portuguese company. It divided 311 employees into 111 controls, 100 given generic training and 100 given spear-phishing training. Of participants who clicked a link, 88% went on to hand personal information to the fake site. The headline result is a within-group contrast: in the generic condition the share who clicked and gave information fell from 42% on day 0 to 15% on day 2, paired t-test p < 0.01, and in the spear condition from 39% to 12%, also p < 0.01. The paper's own Table 4 puts the untrained control at 19% on day 2 and 15% on day 7, against 15% and 12% for the generic condition. Its Table 6 reports that 73.4% of untrained participants identified both test emails correctly, against 70.4% of the generic trained and 58.2% of controls, and the authors write that untrained participants identified phishing emails better than trained ones."
+  },
+  "evidence": "Phishing is one of the few things in this area measured at scale on real people doing real work. Lain, Kostiainen and Čapkun ran a 15-month experiment inside a partner company between July 2019 and October 2020. Their participants clicked 6,680 of 117,864 simulated phishing emails, 5.67%, and 4,729 of 14,733 participants, 32.10%, clicked at least one. Ho and colleagues ran ten campaigns over eight months at UC San Diego Health, ending with 19,789 active full-time employees after cleaning. Their strongest single result is not about people at all. The lure decides the outcome: an Outlook password message drew a 1.82% failure rate and a vacation policy message drew 30.80%, in the same organisation. Across eight months 11,077 of 19,789 employees, 56%, clicked at least one phishing link. Rozema and Davis found the same gradient at a United States financial technology firm using the NIST Phish Scale to grade lures in advance, with click rates of 7.0% on easy lures, 8.7% on medium and 15.0% on hard, F(2, 12086) = 41.415, p < 0.001, eta squared 0.007. On who is susceptible, Lain and colleagues report that age matters, F(5, 14710) = 4.70, p < 0.001, with 18 to 19 year olds the most likely to click and 50 to 59 year olds also at raised risk. Gender does not, F(2, 14710) = 0.23, p = 0.63; the apparent gender gap in their data tracked which jobs men and women held. Their one intervention that worked was a banner on the suspicious email. Participants shown no warning clicked 3,964 times, against 1,427 with a short warning and 1,289 with a detailed one, F(2, 7485) = 564.71, p < 0.001. Their Tukey test found no difference between the short and detailed versions.",
+  "replication": {
+    "state": "failed",
+    "headline": "Four field experiments, the largest on 19,789 employees, find embedded phishing training close to useless, and in one of them the trained group clicked more.",
+    "detail": "Lain, Kostiainen and Čapkun sent half their participants to a training page after a failure and left half untrained. The trained half did worse: 3,593 clicks against 3,087, and 2,730 dangerous actions against 2,155. Among participants who fell more than once, 801 came from the training group and 647 from the control, Welch-corrected ANOVA F(1, 14592) = 18.37, p < 0.001 for clicks and F(1, 14279) = 33.80, p < 0.001 for dangerous actions. Of questionnaire respondents who remembered the training page, 43% chose the option that seeing it made them feel safe and 40% that the company is protecting them from bad emails. Ho and colleagues, with randomised assignment and a genuine no-training control, found embedded training worked and barely mattered. Trained users were 9.5% less likely to fail, OR = 0.905, 95% CI 0.863 to 0.950, P < 0.001, which is 1.7% in absolute terms across the population. Annual awareness training showed no significant association with failure, OR = 0.998 per 30-day increase, 95% CI 0.996 to 1.000, P = 0.06. Between 37.3% and 51.3% of training sessions, depending on the format, recorded zero seconds on the page. Users who completed several static training sessions were more likely to fail the next test, OR = 1.185, 95% CI 1.110 to 1.266. Rozema and Davis ran a reproduction at a fintech firm on 12,511 employees between December 2024 and April 2025, comparing lecture-based training, lecture plus interactive exercises, and no training. Training moved neither clicking, F(2, 12086) = 0.800, p = 0.450, nor reporting, F(2, 12086) = 0.874, p = 0.417, with eta squared of 0.000. Their control group clicked 9.8% of the time and the trained groups 10.5%. Lain and colleagues returned in 2024 with 4,554 employees and separated the parts of the practice. Training alone did not change how often people clicked again compared with the control group. A deterrent email, which carries the reminder without the lesson, did, both for clicking, H(1) = 10.53, p < 0.05, and for the dangerous action, H(1) = 10.26, p < 0.05. Their reading is that whatever benefit the practice has comes from the periodic reminder rather than from the content, which employees mostly do not read.",
+    "study": {
+      "cite": "Ho, G., Mirian, A., Luo, E., Tong, K., Lee, E., Liu, L., Longhurst, C. A., Dameff, C., Savage, S., & Voelker, G. M. (2025). Understanding the efficacy of phishing training in practice. 2025 IEEE Symposium on Security and Privacy.",
+      "doi": "10.1109/sp61157.2025.00076",
+      "year": 2025,
+      "n": 19789
+    },
+    "replicated": { "es": 0.905, "esType": "OR", "ci": [0.863, 0.95], "ciLevel": 95 }
+  },
+  "limits": "The four field experiments measure clicks on simulated emails inside organisations that agreed to be studied, which is not the same as compromise by a real attacker. Ho and colleagues also record that a Microsoft crawler visited some simulated links, so any failure they could not separate from the crawler was dropped, which pushes their failure rates down by an unknown amount. Lain and colleagues give their participant count as 14,773 in the study description and 14,733 as the denominator in their results; the second figure is the one used above. Their training condition was voluntary, and they say their study did not test mandatory training. Rozema and Davis call their training-by-difficulty interaction non-significant while printing p = 0.014 for it, and that inconsistency is left as their paper prints it. Two papers relevant to the persuasion question were closed on this pass. Wright, Jensen, Thatcher, Dinger and Marett report a field experiment on more than 2,600 participants in Information Systems Research; only the abstract at Crossref was read, and it says participants were less vulnerable to influence techniques resting on fictitious prior shared experience and more vulnerable to those offering a high level of self-determination. Tian, Jensen and Durcikova's study of influence techniques across industries in Computers & Security was behind a paywall on ScienceDirect, Crossref, OpenAlex and Semantic Scholar, so no figure from it appears here.",
+  "misreadings": "The largest misreading is that the six Cialdini influence principles are known to drive phishing success. Much of what is offered for that is content analysis. Ferreira and Lenzini took a sample of phishing emails and manually counted the persuasion elements in them, finding authority and distraction common. Counting what emails contain measures what attackers write, not what recipients fall for, and the two questions have different answers: inside one organisation Ho and colleagues' vacation policy lure drew a 30.80% failure rate and their Outlook password lure drew 1.82%. A second misreading is that susceptibility is a stable personal trait. It varies with the message more than with the person, and the demographic claims survive unevenly, with age holding up in Lain and colleagues' data and gender dissolving into job type. A third is that the failure of embedded training means employees cannot be helped. Warnings on the email worked in Lain and colleagues' experiment and worked well. What failed is the teachable moment, the belief that showing someone a lesson after their mistake changes what they do next. Figures from security vendors' annual reports are not evidence for any of this unless the method behind them is published."
+  ,
+  "sources": [
+    {
+      "text": "Kumaraguru, P., Sheng, S., Acquisti, A., Cranor, L. F., & Hong, J. (2008). Lessons from a real world evaluation of anti-phishing training. 2008 eCrime Researchers Summit. Read in full from a copy hosted at Carnegie Mellon; the source for every figure in the origin note.",
+      "doi": "10.1109/ecrime.2008.4696970",
+      "url": "http://www.cs.cmu.edu/~jasonh/publications/apwg2008-realworld-evaluation-of-antiphishing-training.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Lain, D., Kostiainen, K., & Čapkun, S. (2022). Phishing in organizations: Findings from a large-scale and long-term study. 2022 IEEE Symposium on Security and Privacy. Read in full from the arXiv preprint text.",
+      "doi": "10.1109/sp46214.2022.9833766",
+      "url": "https://arxiv.org/abs/2112.07498",
+      "type": "replication"
+    },
+    {
+      "text": "Ho, G., Mirian, A., Luo, E., Tong, K., Lee, E., Liu, L., Longhurst, C. A., Dameff, C., Savage, S., & Voelker, G. M. (2025). Understanding the efficacy of phishing training in practice. 2025 IEEE Symposium on Security and Privacy. Read in full from the authors' copy at UC San Diego.",
+      "doi": "10.1109/sp61157.2025.00076",
+      "url": "https://www.sysnet.ucsd.edu/~voelker/pubs/phishtrain-oakland25.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Lain, D., Jost, T., Matetic, S., Kostiainen, K., & Čapkun, S. (2024). Content, nudges and incentives: A study on the effectiveness and perception of embedded phishing training. Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security. Read in full from the extended arXiv version.",
+      "doi": "10.1145/3658644.3690348",
+      "url": "https://arxiv.org/abs/2409.01378",
+      "type": "replication"
+    },
+    {
+      "text": "Rozema, A. T., & Davis, J. C. (2026). Anti-phishing training (still) does not work: A reproduction of phishing training inefficacy grounded in the NIST Phish Scale. Proceedings of the ACM Web Conference 2026. Read in full from the arXiv version, which carries the word \"large-scale\" in its title.",
+      "doi": "10.1145/3774904.3792467",
+      "url": "https://arxiv.org/abs/2506.19899",
+      "type": "replication"
+    },
+    {
+      "text": "Wright, R. T., Jensen, M. L., Thatcher, J. B., Dinger, M., & Marett, K. (2014). Research note: Influence techniques in phishing attacks: An examination of vulnerability and resistance. Information Systems Research, 25(2), 385-400. Closed access; only the abstract deposited at Crossref was read, and no number from the study appears above.",
+      "doi": "10.1287/isre.2014.0522",
+      "url": "https://doi.org/10.1287/isre.2014.0522",
+      "type": "context"
+    },
+    {
+      "text": "Ferreira, A., & Lenzini, G. (2015). An analysis of social engineering principles in effective phishing. 2015 Workshop on Socio-Technical Aspects in Security and Trust. The published abstract was read, and it describes manually quantifying persuasion elements within a sample of phishing emails.",
+      "doi": "10.1109/stast.2015.10",
+      "url": "https://doi.org/10.1109/stast.2015.10",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
