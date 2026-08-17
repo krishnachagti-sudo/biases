@@ -5,18 +5,18 @@
   "aliases": ["Grounded cognition", "Social embodiment", "Embodied metaphor"],
   "category": "social",
   "statement": "Warm cups and heavy clipboards are said to shift social judgement, on the theory that abstract thought runs on the body's experience of the physical world.",
-  "meaning": "Embodied cognition is a research programme rather than a single bias, and this entry covers one wing of it. Beek and colleagues summarise the underlying theory as the claim that cognitive representations are grounded in the brain's sensorimotor systems, so that a bodily state can trigger a related concept and the reverse. Social psychology turned that into a set of short, cheap experiments. Hand someone a warm drink and they should judge a stranger as warmer. Hand them a heavy clipboard and abstract matters should seem weightier. Those demonstrations are what is assessed here, because they are the ones with a replication record. The site treats two further members of the family separately: see the Macbeth effect for moral cleansing, and facial feedback for the pen-in-mouth study.",
+  "meaning": "Embodied cognition is a research programme rather than a single bias, and this entry covers one wing of it. Beek and colleagues summarise the underlying theory as the claim that cognitive representations are grounded in the brain's sensorimotor systems, so that a bodily state can trigger a related concept and the reverse. Social psychology turned that into a set of short, cheap experiments. Hand someone a warm drink and they should judge a stranger as warmer. Hand them a heavy clipboard and abstract matters should seem weightier. Those two demonstrations are what is assessed here, because they are the ones with a replication record, and the verdict below is about them rather than about grounding as a theory. The site treats other members of the family separately: see the Macbeth effect, no. 14, for moral cleansing, facial feedback, no. 3, for the pen-in-mouth study, social priming, no. 156, for the elderly and professor primes, and metaphoric structuring of time, no. 457, for the spatial metaphor work.",
   "origin": {
     "year": 2008,
     "who": "Lawrence E. Williams and John A. Bargh",
     "where": "Science",
     "note": "Their paper is \"Experiencing Physical Warmth Promotes Interpersonal Warmth\". The wider embodiment programme in cognitive science is older, and this date marks the demonstration that made temperature and weight priming a standard social-psychology paradigm rather than the programme's founding."
   },
-  "evidence": "Two paradigms carried most of the weight. In Williams and Bargh's first study 41 people briefly held a hot or iced coffee and then rated a stranger's personality, an effect Chabris and colleagues put at r = 0.31. In the second, participants evaluated a hot or cold therapeutic pack and then chose a reward for themselves or a friend: 75% of the cold-pack group chose for themselves against 46% of the warm-pack group, an odds ratio of 3.52 with a 95% interval from 1.06 to 11.73, on 50 analysed participants. The clipboard line ran in parallel. Jostmann, Lakens and Schubert had 51 Dutch students complete a questionnaire on a 2.25 lb or a 1.45 lb clipboard, and those on the heavy board rated it more important that a university committee hear students out, 5.27 against 4.21, d = 0.59 with a 95% interval from 0.01 to 1.16. Ackerman, Nocera and Bargh reported in Science that a 2,041 g clipboard rather than a 340 g one made a job candidate seem better overall and more seriously interested in the post.",
+  "evidence": "Two paradigms carried most of the weight, and each original test sat just under the conventional threshold. Williams and Bargh recruited 41 undergraduates who briefly held a hot or iced coffee in a lift and then rated a stranger. The hot group rated the target 4.71 on the warm-cold traits against 4.25 for the iced group, F(1, 39) = 4.08, P = 0.05, an effect Chabris and colleagues put at r = 0.31. A separate group of 53 evaluated a hot or cold therapeutic pad and then chose a reward for themselves or a friend. The paper reports that 75% of the cold-primed group chose for themselves against 46% of the warm-primed group, and gives its test as a logistic regression interaction with the reward framing, B = 2.85, P < 0.05. Lynott and colleagues restate that comparison as an odds ratio of 3.52, 95% interval 1.06 to 11.73, on an analysed sample of 50, and record that the original result held in one framing condition and not the other. The clipboard line ran in parallel. Jostmann, Lakens and Schubert had 51 Dutch students, 28 heavy and 23 light, complete a questionnaire on a 2.25 lb or a 1.45 lb clipboard. Those on the heavy board rated it more important that a university committee hear students out, 5.27 against 4.21, t(49) = 2.08, p = .043, d = .59 with a 95% interval from .01 to 1.16. The 2009 paper is paywalled at Sage and no open copy was found through Unpaywall or Semantic Scholar, so those figures are quoted from Many Labs 3's report of it. Ackerman, Nocera and Bargh then had 54 passersby review a job candidate's resume on a 340.2 g or a 2,041.2 g clipboard. The heavy group rated the candidate better overall, F(1, 52) = 4.08, P = 0.049, and as showing more serious interest in the post, F(1, 52) = 4.40, P = 0.041. Rabelo, Keller, Pilati and Wicherts later pooled the published weight-to-importance experiments and found d = .57, 95% interval 0.47 to 0.67, on a homogeneity test of Q = 4.70 with 24 degrees of freedom and p = .999993. They read that excess homogeneity as publication bias, confirmed it with p-uniform at L = 5.1, p < .001, and report that the bias-corrected estimate came out negative.",
   "replication": {
     "state": "failed",
-    "headline": "Twenty labs ran the heavy-clipboard study on 2,285 people and the gap in judged importance was 0.02 points on a seven-point scale.",
-    "detail": "Many Labs 3 repeated the Jostmann clipboard study across 20 participant pools. The heavy group rated the issue 6.16 and the light group 6.14, giving d = 0.03 with a 95% interval from -0.06 to 0.11 against an original of 0.59. The same project ran a second embodiment item, in which reading about a warm person had made Polish students estimate the room as warmer, d = 0.86. Across 3,119 people the two descriptions produced estimates of 71.42 and 71.38 degrees, d = 0.01 with a 95% interval from -0.06 to 0.08. The coffee-cup line failed on its own. Lynott and six colleagues ran three preregistered replications of the heat-pack study on 861 people, with the experimenters blind to condition, and found an odds ratio of 0.77, 95% interval 0.58 to 1.02, pointing away from the original prediction. Chabris and colleagues rebuilt both Williams and Bargh studies in the field with 128 and 177 participants and reported r = -0.03 and 0.02 against originals of 0.31 and 0.28. A preregistered Bayesian test of the Ackerman resume study on 117 people, with Jostmann among its authors, found the data 16 times more likely under no difference than under the predicted one.",
+    "headline": "Twenty labs repeated the heavy-clipboard study, and the 2,285 people in the analysis rated the issue 6.16 against 6.14 on a seven-point scale.",
+    "detail": "Many Labs 3 repeated the Jostmann clipboard study in 20 participant pools, each collecting 135.40 people on average, SD 63.00, in a range from 45 to 321. The clipboard ran in the lab only, and 2,285 participants entered its analysis after exclusions for anything that took the weight off the board, such as sitting down or resting it on a table. The heavy group rated the issue 6.16, SD 1.02, and the light group 6.14, SD 1.03, t(2283) = 0.61, p = .543, d = .03 with a 95% interval from -.06 to .11, against an original of .59. Sites agreed with each other: Q(19) = 12.25, p = .87, I-squared below 0.005%. Three sites used a metal clipboard like the original, at d = .07, 95% interval -.14 to .28, and the rest used plastic, at d = .02, -.07 to .11. The same project ran a second embodiment item, in which reading about a communal person had made Polish students estimate the room as warmer, t(78) = 3.85, p < .001, d = .86. That item ran online as well as in the lab, so it rests on a larger slate. Across 3,119 people the two descriptions produced estimates of 71.42 and 71.38 degrees Fahrenheit, t(3117) = 0.22, p = .827, d = .01 with a 95% interval from -.06 to .08. The coffee-cup line failed on its own. Lynott and six colleagues ran three preregistered replications of the heat-pack study with research assistants blind to condition, recruiting 306, 305 and 250 people at Kenyon College, Manchester and Michigan State and analysing 294, 282 and 237. The combined test gave an odds ratio of 0.77, 95% interval 0.58 to 1.02, chi-squared(1) = 3.402, p = .065, pointing away from the original prediction rather than towards it. The Kenyon site alone reached significance in that opposite direction, odds ratio 0.61, 95% interval 0.38 to 0.98. Chabris and colleagues rebuilt both Williams and Bargh studies in the field, with 128 and 177 participants and double-blind procedures. Against originals of .31 and .28 they reported r = -.03, t(126) = 0.33, p = .74, and r = .02, chi-squared = 0.14, p = .71. Their Bayes factors favoured no effect at 6.16 and 5.01. Koppang, Harem, Mayiwar and Pineda tried the coffee study again in 2024, on 127 students in San Diego and Oslo. Cup temperature had no main effect, F = 1.23, p = 0.270, partial eta-squared 0.010, with a Bayes factor of 3.94 for the null. On the clipboard side, a preregistered Bayesian test of the Ackerman resume study, with Jostmann among its authors, tested 132 people and analysed 117. The heavy group rated the candidate 5.92 and the light group 6.10, and the overall evaluation gave a Bayes factor of 16.41 for no difference under the preregistered prior and 11.75 under a narrower one.",
     "study": {
       "cite": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
       "doi": "10.1016/j.jesp.2015.10.012",
@@ -27,23 +27,23 @@
     "original": { "es": 0.59, "esType": "d", "ci": [0.01, 1.16], "ciLevel": 95 },
     "replicated": { "es": 0.03, "esType": "d", "ci": [-0.06, 0.11], "ciLevel": 95, "weighting": "aggregate" }
   },
-  "limits": "What failed is the social-priming wing, not embodiment as a whole. The sensorimotor-grounding literature in cognitive science is a separate body of work with its own unsettled record: Courson and Tremblay's 2020 review calls the nature of the motor system's involvement in action language processing \"still controversial\" and reads the evidence as pointing to a cognitive rather than a purely motoric role, while 18 labs testing the action-sentence compatibility effect found a meta-analytic estimate near zero. Neither result is about warm cups, and neither is settled. Two caveats attach to the clipboard replication itself. Ratings in both conditions sat within a point of the scale ceiling, which cost the test power, and the original sample was Dutch where Many Labs 3 sampled North America. Its authors say separating a real population difference from an unusual original sample would need a replication run in the Netherlands. One caution about the Chabris paper. Its abstract lists the two original effects as r = 0.28 and 0.31 alongside samples of 41 and 53, while its text and its power calculations assign 0.31 to the coffee study and 0.28 to the heat-pack study. The figures on this page follow the text.",
-  "misreadings": "The commonest error is to read these failures as a verdict on embodied cognition in general. They are a verdict on a family of brief social-priming manipulations, and the grounding claims in language and concept research stand or fall on their own evidence. The second error runs the other way. Bargh and Melnikoff answered Chabris by arguing that fresh shop coffee is piping hot rather than pleasantly warm, and that the predicted pattern appears among the fourth and fifth people to hold a given cup, at p = 0.08; they describe this as a post hoc story requiring further testing, which is how it should be quoted. The third is scale. Warm-cup and heavy-clipboard studies still appear in management writing and popular science as established, usually citing samples of 41 or 51 people against replications running past 2,000.",
+  "limits": "What failed is the social-priming wing, not embodiment as a whole. The sensorimotor-grounding literature in cognitive science is a separate body of work with its own unsettled record. Courson and Tremblay's 2020 review, read here in its abstract, calls the nature of the motor system's involvement in action language processing \"still controversial\" and reads the evidence as pointing to a cognitive rather than a purely motoric role. Morey and colleagues then ran the action-sentence compatibility effect in 18 laboratories, recruiting 1,492 people and analysing 1,278 after 214 exclusions, and report that no lab found a reliable effect and that the meta-analytic estimate was essentially zero. Neither result is about warm cups. Two caveats attach to the clipboard replication itself. Ratings in both conditions sat within a point of the scale ceiling, which cost the test power, and the original sample was Dutch where Many Labs 3 sampled North America. Its authors say separating a real population difference from an unusual original sample would need a replication run in the Netherlands. Jostmann, Lakens and Schubert replied in the same volume with a two-page commentary recommending pre-testing; its text could not be obtained through Elsevier, the UvA-DARE repository or the Eindhoven research portal, so nothing is quoted from it here. Rabelo and colleagues also took the Ackerman resume study to 100 passersby in Brazil, using clipboards of 423 g and 2,260 g. The candidate came out at 4.77 on the heavy board against 5.07 on the light one, F(1, 98) = 2.33, p = .13. One caution about the Chabris paper. Its abstract lists the two original effects as r = .28 and .31 alongside samples of 41 and 53, while its text and its power calculations assign .31 to the coffee study and .28 to the heat-pack study. The figures on this page follow the text. Those power calculations are one-tailed, as are the Bayesian tests in the Ackerman replication.",
+  "misreadings": "The commonest error is to read these failures as a verdict on embodied cognition in general. They are a verdict on a family of brief social-priming manipulations, and the grounding claims in language and concept research stand or fall on their own evidence. The second error runs the other way. Bargh and Melnikoff answered Chabris by arguing that fresh shop coffee is piping hot rather than pleasantly warm, and that the predicted pattern appears among the fourth and fifth people to hold a given cup, at p = .08. They describe this as a post hoc story requiring further testing, which is how it should be quoted. The third is scale, and it comes with a matching error about strength. Warm-cup and heavy-clipboard studies still appear in management writing and popular science as established, usually citing samples of 41, 51 or 54 people against replications running past 2,000. The three founding tests also came in at P = 0.05, p = .043 and P = 0.049, which is not a comfortable distance from the threshold.",
   "sources": [
     {
-      "text": "Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. Science, 322(5901), 606-607.",
+      "text": "Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. Science, 322(5901), 606-607. Read in the author manuscript at PubMed Central, PMC2737341.",
       "doi": "10.1126/science.1162548",
       "url": "https://doi.org/10.1126/science.1162548",
       "type": "primary"
     },
     {
-      "text": "Jostmann, N. B., Lakens, D., & Schubert, T. W. (2009). Weight as an embodiment of importance. Psychological Science, 20(9), 1169-1174.",
+      "text": "Jostmann, N. B., Lakens, D., & Schubert, T. W. (2009). Weight as an embodiment of importance. Psychological Science, 20(9), 1169-1174. Paywalled at Sage, with no open copy located through Unpaywall or Semantic Scholar; its figures are quoted here from Many Labs 3.",
       "doi": "10.1111/j.1467-9280.2009.02426.x",
       "url": "https://doi.org/10.1111/j.1467-9280.2009.02426.x",
       "type": "primary"
     },
     {
-      "text": "Ackerman, J. M., Nocera, C. C., & Bargh, J. A. (2010). Incidental haptic sensations influence social judgments and decisions. Science, 328(5986), 1712-1715.",
+      "text": "Ackerman, J. M., Nocera, C. C., & Bargh, J. A. (2010). Incidental haptic sensations influence social judgments and decisions. Science, 328(5986), 1712-1715. Read in the author manuscript at PubMed Central, PMC3005631.",
       "doi": "10.1126/science.1189993",
       "url": "https://doi.org/10.1126/science.1189993",
       "type": "primary"
@@ -55,15 +55,21 @@
       "type": "replication"
     },
     {
-      "text": "Lynott, D., Corker, K. S., Wortman, J., Connell, L., Donnellan, M. B., Lucas, R. E., & O'Brien, K. (2014). Replication of \"Experiencing physical warmth promotes interpersonal warmth\" by Williams and Bargh (2008). Social Psychology, 45(3), 216-222.",
+      "text": "Lynott, D., Corker, K. S., Wortman, J., Connell, L., Donnellan, M. B., Lucas, R. E., & O'Brien, K. (2014). Replication of \"Experiencing physical warmth promotes interpersonal warmth\" by Williams and Bargh (2008). Social Psychology, 45(3), 216-222. The total of 861 in its abstract is the number recruited across the three sites.",
       "doi": "10.1027/1864-9335/a000187",
       "url": "https://doi.org/10.1027/1864-9335/a000187",
       "type": "replication"
     },
     {
-      "text": "Chabris, C. F., Heck, P. R., Mandart, J., Benjamin, D. J., & Simons, D. J. (2019). No evidence that experiencing physical warmth promotes interpersonal warmth: Two failures to replicate Williams and Bargh (2008). Social Psychology, 50(2), 127-132. Read in the authors' accepted manuscript at https://osf.io/mvn9b/.",
+      "text": "Chabris, C. F., Heck, P. R., Mandart, J., Benjamin, D. J., & Simons, D. J. (2019). No evidence that experiencing physical warmth promotes interpersonal warmth: Two failures to replicate Williams and Bargh (2008). Social Psychology, 50(2), 127-132. Read in the submitted version of the accepted manuscript at https://osf.io/mvn9b/.",
       "doi": "10.1027/1864-9335/a000361",
       "url": "https://doi.org/10.1027/1864-9335/a000361",
+      "type": "replication"
+    },
+    {
+      "text": "Koppang, H., Harem, T., Mayiwar, L., & Pineda, J. (2024). Physical and social warmth. Royal Society Open Science, 11(5), 231575.",
+      "doi": "10.1098/rsos.231575",
+      "url": "https://doi.org/10.1098/rsos.231575",
       "type": "replication"
     },
     {
@@ -72,9 +78,21 @@
       "type": "replication"
     },
     {
-      "text": "Bargh, J. A., & Melnikoff, D. (2019). Does physical warmth prime social warmth? Reply to Chabris et al. (2019). Social Psychology, 50(3), 207-210.",
+      "text": "Rabelo, A. L. A., Keller, V. N., Pilati, R., & Wicherts, J. M. (2015). No effect of weight on judgments of importance in the moral domain and evidence of publication bias from a meta-analysis. PLOS ONE, 10(8), e0134808.",
+      "doi": "10.1371/journal.pone.0134808",
+      "url": "https://doi.org/10.1371/journal.pone.0134808",
+      "type": "replication"
+    },
+    {
+      "text": "Bargh, J. A., & Melnikoff, D. (2019). Does physical warmth prime social warmth? Reply to Chabris et al. (2019). Social Psychology, 50(3), 207-210. Read in the copy at https://acmelab.yale.edu/sites/default/files/bargh_melnikoff_reply_to_chabris_et_al_2019.pdf.",
       "doi": "10.1027/1864-9335/a000387",
       "url": "https://doi.org/10.1027/1864-9335/a000387",
+      "type": "commentary"
+    },
+    {
+      "text": "Jostmann, N. B., Lakens, D., & Schubert, T. W. (2016). A short history of the weight-importance effect and a recommendation for pre-testing: Commentary on Ebersole et al. (2016). Journal of Experimental Social Psychology, 67, 93-94. Cited for its existence only; the text was not obtained.",
+      "doi": "10.1016/j.jesp.2015.12.001",
+      "url": "https://doi.org/10.1016/j.jesp.2015.12.001",
       "type": "commentary"
     },
     {
@@ -84,11 +102,11 @@
       "type": "context"
     },
     {
-      "text": "Courson, M., & Tremblay, P. (2020). Neural correlates of manual action language: Comparative review, ALE meta-analysis and ROI meta-analysis. Neuroscience & Biobehavioral Reviews, 116, 221-238.",
+      "text": "Courson, M., & Tremblay, P. (2020). Neural correlates of manual action language: Comparative review, ALE meta-analysis and ROI meta-analysis. Neuroscience & Biobehavioral Reviews, 116, 221-238. Read in the abstract at Europe PMC; the full text is paywalled at Elsevier.",
       "doi": "10.1016/j.neubiorev.2020.06.025",
       "url": "https://doi.org/10.1016/j.neubiorev.2020.06.025",
       "type": "context"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
