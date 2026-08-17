@@ -1,0 +1,140 @@
+{
+  "no": 483,
+  "slug": "rat-park",
+  "name": "Rat Park",
+  "aliases": [
+    "Rat Park experiment",
+    "Rat Park studies",
+    "Alexander colony housing studies"
+  ],
+  "category": "social",
+  "statement": "Rats living in a large enriched colony drank less morphine solution than rats in standard isolated cages, which is read as showing that environment drives addiction.",
+  "meaning": "The claim is about where the pull comes from. Skinner-box studies had rats press a lever for opioid infusions while housed alone in bare cages, and the reading taken from them was that the drug compels on its own. Bruce Alexander's group at Simon Fraser University held the drug constant and changed the housing instead. If intake tracks the cage, the pharmacology is not sufficient. The measure was oral, a choice between tap water and a morphine solution that was sweetened in two of the three studies, which is not the measure the Skinner-box work used. Alexander and Hadaway set out the interpretation in Psychological Bulletin in 1982. Khoo summarises that argument as opioid use serving to cope with chronic distress rather than following from the intrinsic neuropharmacological effects of opioids.",
+  "origin": {
+    "year": 1978,
+    "who": "Bruce K. Alexander, Robert B. Coambs and Patricia F. Hadaway",
+    "where": "Psychopharmacology",
+    "note": "The name Rat Park belongs to the enclosure rather than to any of the papers, none of which use it in their titles. Three papers make up the series, in Psychopharmacology in 1978 and 1979 and in Pharmacology Biochemistry and Behavior in 1981, with a fourth paper in 1980 describing the drop dispenser built to measure individual drinking inside the colony."
+  },
+  "evidence": "The colony was an L-shaped enclosure of 8.8 square metres holding rats of both sexes, floored with cedarwood sawdust and stocked with boxes, tubes, open-topped cages and a climbing pole. In the 1978 study, rats housed from weaning either alone or in the colony were given 0.5 mg/ml morphine hydrochloride as their only fluid for 57 days, then run through three-day cycles taken from Nichols and colleagues, then a period of abstinence. Its abstract reports that on morphine and water choice days late in forced consumption, between the Nichols cycles and during abstinence, the isolated rats drank more morphine solution than the social rats and the females drank more than the males, both differences called significant. Across the four choice days in the Nichols period the isolated rats increased their intake while the colony rats cut theirs. Gage and Sumnall, reading the papers for Addiction, give the starting groups as four isolated females, six isolated males, ten colony females and twelve colony males, with four rats dying during forced consumption and a fifth during abstinence. They also record that during forced consumption itself, when morphine was the only fluid, mean intake was higher in the colony at 18.6 mg per rat against 13.3 mg in the cages, and that the limited-access data were not reported because of measurement error. The 1979 study used morphine-naive rats, nine of each sex per condition, offered water against a series of morphine and sucrose mixtures. Its abstract reports that in the phase with the greatest consumption the isolated females drank five times as much morphine per kilogram as the colony females, and the isolated males sixteen times as much as the colony males. Gage and Sumnall add that the housing difference appeared only where sucrose was at 10%, and was largest at the weakest morphine concentration. The 1981 study raised rats in one setting, moved half of each group to the other at 65 days, and tested from 80 days against four morphine concentrations and three control solutions. Rats living in the colony when tested drank less morphine solution than isolated rats and no less of the control solutions. Early housing mattered little, reaching significance only at the lowest morphine concentration.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The published direct replication attempt failed. Later work in other paradigms mostly supports enrichment reducing opioid intake, and several studies in that literature found nothing.",
+    "detail": "Petrie ran two studies on outbred Wistar rats at New Mexico Tech and reported in Psychological Reports in 1996 that the earlier finding could not be replicated, because consumption of sucrose-morphine by the isolated animals was reduced in his hands. His abstract raises a strain difference introduced during a colony conversion at the supplier as one possible cause. Khoo's 2020 review found no successful direct replication and argues that further direct attempts are not worth making, given lost data, animal deaths and the different intake measures used for the two housing conditions. A two-bottle study that came before Rat Park points the same way on morphine. Hill and Powell reared Wistar rats in enriched or impoverished conditions for 100 days after weaning and found the enriched animals consumed more cocaine, with no significant difference for morphine. The conceptual record is stronger and it is not uniform. Schenk, Lacelle, Gorman and Amit, whom Alexander names as the first replication, used intravenous cocaine rather than oral morphine: grouped rats failed to self-administer it reliably while isolated rats acquired the operant readily. The same group then found that housing did not affect intravenous amphetamine self-administration. Bozarth, Murray and Wise found isolated rats learned to self-administer heroin earlier than group-housed rats but that both reached similar levels by the fifth week, and that cocaine self-administration did not differ at all, concluding that isolation is not a necessary condition for the injections to reinforce. Two later opioid studies favour enrichment. Hofford and colleagues raised rats enriched, standard or isolated and found the enriched rats lever-pressed for remifentanil at between 9% and 40% of the isolated rats' rate, failing to acquire the response at the lower training dose. Imperio and colleagues found standard and enriched rats self-administered similar amounts of heroin over 14 days, with enrichment cutting progressive-ratio, extinction and reinstatement responding after 14 days of abstinence. Venniro and colleagues gave rats an operant choice between drug and social interaction, and report that social reward prevented drug self-administration across sex, drug class, dose and housing. Direction is not constant across paradigms. Khoo writes that conditioned place preference for opioids is stronger, not weaker, in socially or environmentally enriched animals, and that stimulant place-preference results run both ways.",
+    "study": {
+      "cite": "Petrie, B. F. (1996). Environment is not the most important variable in determining oral morphine consumption in Wistar rats. Psychological Reports, 78(2), 391-400.",
+      "doi": "10.2466/pr0.1996.78.2.391",
+      "year": 1996
+    }
+  },
+  "limits": "The measure is how much of a sweetened solution a rat drinks, which is several steps from human addiction, and the papers themselves do not bridge that gap. Gage and Sumnall write that nowhere in the three papers do the authors connect their findings to human addiction or to deprivation. Khoo notes that human opioid users do not typically drink morphine solutions, that morphine is bitter and that sweetening it makes sucrose preference and drug preference hard to separate. The two housing conditions were also measured differently. Isolated rats had their bottles weighed against a bottle on an empty cage, while colony rats had to enter a tube and break a light beam for each drop, which Gage and Sumnall call an opportunity for systematic bias and Khoo calls a fundamentally different measurement. Groups were small, the 1978 study ending with as few as two isolated females, and the colony bred, which the papers do not say how they handled. None of the three primary papers could be obtained for this entry; all three sit behind paywalls at Springer and Elsevier, and Unpaywall and OpenAlex list no open copy. Their designs and results here come from the PubMed abstracts and from the accepted manuscript of Gage and Sumnall's Addiction Classics piece, which is labelled at each figure. Petrie's full text was not obtained either, and only his published abstract was read. No effect size in a standardised metric was found in any source read. Alexander writes on his own site that a new graduate student in the lab failed to replicate one of the original experiments and got no statistically significant result, and that the question was never resolved because Rat Park closed. Whether that account and Petrie's paper describe the same work was not established here. Searches covered PubMed, Crossref, OpenAlex, Unpaywall, PsychArchives and open-web search.",
+  "misreadings": "The strongest version of the story, that the rats in Rat Park would not touch morphine, is wrong. Gage and Sumnall say so directly, and Khoo puts colony intake at levels near the roughly 1 mg/kg Hill and Powell recorded against up to 20 mg/kg for the isolated animals. The housing difference also did not run one way throughout. During the 57-day forced consumption period of the 1978 study the colony rats drank more, 18.6 mg per rat against 13.3 mg, and the reported advantage belongs to the choice days. Alexander's own summary of the papers was narrow, and Gage and Sumnall quote it: sex and housing are important variables, and theories that ignore them risk oversimplification. The claim about journal rejections traces to one magazine interview rather than to the papers. Robert Hercz reported in The Walrus in 2007 that Science and Nature both rejected the work and quoted Barry Beyerstein's recollection of a reviewer objection, that he could not put a finger on what was wrong but knew it had to be wrong. Alexander's own 2010 account of Rat Park does not mention rejection and says the results were published in psychopharmacology journals. The replications Alexander cites are also not repeats of his experiment: the 1987 study he names first used intravenous cocaine in isolated against grouped rats, not oral morphine in a colony. Paradigm matters throughout this literature, and conditioned place preference, intravenous self-administration and oral consumption do not always move together or in the same direction.",
+  "sources": [
+    {
+      "text": "Alexander, B. K., Coambs, R. B., & Hadaway, P. F. (1978). The effect of housing and gender on morphine self-administration in rats. Psychopharmacology, 58(2), 175-179. Paywalled; read from the PubMed abstract only.",
+      "doi": "10.1007/BF00426903",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/98787/",
+      "type": "primary"
+    },
+    {
+      "text": "Hadaway, P. F., Alexander, B. K., Coambs, R. B., & Beyerstein, B. (1979). The effect of housing and gender on preference for morphine-sucrose solutions in rats. Psychopharmacology, 66(1), 87-91. Paywalled; read from the PubMed abstract only, which is the source for the five-fold and sixteen-fold figures.",
+      "doi": "10.1007/BF00431995",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/120547/",
+      "type": "primary"
+    },
+    {
+      "text": "Alexander, B. K., Beyerstein, B. L., Hadaway, P. F., & Coambs, R. B. (1981). Effect of early and later colony housing on oral ingestion of morphine in rats. Pharmacology Biochemistry and Behavior, 15(4), 571-576. Paywalled; read from the PubMed abstract only.",
+      "doi": "10.1016/0091-3057(81)90211-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7291261/",
+      "type": "primary"
+    },
+    {
+      "text": "Alexander, B. K., & Hadaway, P. F. (1982). Opiate addiction: The case for an adaptive orientation. Psychological Bulletin, 92(2), 367-381. The theoretical statement of the position. Not read for this entry; the Crossref record was verified and the characterisation above is Khoo's.",
+      "doi": "10.1037/0033-2909.92.2.367",
+      "url": "https://doi.org/10.1037/0033-2909.92.2.367",
+      "type": "primary"
+    },
+    {
+      "text": "Gage, S. H., & Sumnall, H. R. (2019). Rat Park: How a rat paradise changed the narrative of addiction. Addiction, 114(5), 917-922. Accepted manuscript read in full from the Liverpool John Moores repository; the source for every group size and for the 18.6 mg against 13.3 mg figures.",
+      "doi": "10.1111/add.14481",
+      "url": "https://researchonline.ljmu.ac.uk/id/eprint/9728/1/Rat-Park-acceptedmanuscript.docx",
+      "type": "critique"
+    },
+    {
+      "text": "Khoo, S. Y.-S. (2020). Have we reproduced Rat Park? Conceptual but not direct replication of the protective effects of social and environmental enrichment in addiction. Journal for Reproducibility in Neuroscience, 1, 1318. Read in full as PDF from PsychArchives.",
+      "doi": "10.31885/jrn.1.2020.1318",
+      "url": "https://pada.psycharchives.org/bitstream/3038d07b-6f77-4bda-baef-b011d0be8874",
+      "type": "critique"
+    },
+    {
+      "text": "Petrie, B. F. (1996). Environment is not the most important variable in determining oral morphine consumption in Wistar rats. Psychological Reports, 78(2), 391-400. Paywalled; read from the PubMed abstract only.",
+      "doi": "10.2466/pr0.1996.78.2.391",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9148292/",
+      "type": "replication"
+    },
+    {
+      "text": "Hill, S. Y., & Powell, B. J. (1976). Cocaine and morphine self-administration: Effects of differential rearing. Pharmacology Biochemistry and Behavior, 5(6), 701-704. Read from the PubMed abstract.",
+      "doi": "10.1016/0091-3057(76)90315-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1023236/",
+      "type": "replication"
+    },
+    {
+      "text": "Schenk, S., Lacelle, G., Gorman, K., & Amit, Z. (1987). Cocaine self-administration in rats influenced by environmental conditions: Implications for the etiology of drug abuse. Neuroscience Letters, 81(1-2), 227-231. Named by Alexander as the first replication. Read from the PubMed abstract.",
+      "doi": "10.1016/0304-3940(87)91003-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3696469/",
+      "type": "replication"
+    },
+    {
+      "text": "Schenk, S., Robinson, B., & Amit, Z. (1988). Housing conditions fail to affect the intravenous self-administration of amphetamine. Pharmacology Biochemistry and Behavior, 31(1), 59-62. Read from the PubMed abstract.",
+      "doi": "10.1016/0091-3057(88)90311-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3252261/",
+      "type": "replication"
+    },
+    {
+      "text": "Bozarth, M. A., Murray, A., & Wise, R. A. (1989). Influence of housing conditions on the acquisition of intravenous heroin and cocaine self-administration in rats. Pharmacology Biochemistry and Behavior, 33(4), 903-907. Read from the PubMed abstract.",
+      "doi": "10.1016/0091-3057(89)90490-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2616610/",
+      "type": "replication"
+    },
+    {
+      "text": "Hofford, R. S., Chow, J. J., Beckmann, J. S., & Bardo, M. T. (2017). Effects of environmental enrichment on self-administration of the short-acting opioid remifentanil in male rats. Psychopharmacology, 234(23-24), 3499-3506. Read from the PubMed abstract, which is the source for the 9% to 40% figure.",
+      "doi": "10.1007/s00213-017-4734-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28916995/",
+      "type": "replication"
+    },
+    {
+      "text": "Imperio, C. G., McFalls, A. J., Hadad, N., et al. (2018). Exposure to environmental enrichment attenuates addiction-like behavior and alters molecular effects of heroin self-administration in rats. Neuropharmacology, 139, 26-40. Read from the PubMed abstract.",
+      "doi": "10.1016/j.neuropharm.2018.06.037",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29964093/",
+      "type": "replication"
+    },
+    {
+      "text": "Venniro, M., Zhang, M., Caprioli, D., et al. (2018). Volitional social interaction prevents drug addiction in rat models. Nature Neuroscience, 21(11), 1520-1529. Read from the PubMed abstract.",
+      "doi": "10.1038/s41593-018-0246-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30323276/",
+      "type": "replication"
+    },
+    {
+      "text": "Alexander, B. K. (2010). Addiction: The view from Rat Park. Author's own website. Read in full; the source for his account of the unresolved in-lab non-replication and for his description of where the work was published.",
+      "url": "https://www.brucekalexander.com/articles-speeches/rat-park/148-addiction-the-view-from-rat-park",
+      "type": "commentary"
+    },
+    {
+      "text": "Hercz, R. (2007). Rat Trap. The Walrus, December 2007. Read in full; the source for the claim that Science and Nature rejected the work and for the Beyerstein quotation.",
+      "url": "https://thewalrus.ca/2007-12-health/",
+      "type": "commentary"
+    },
+    {
+      "text": "Alexander, B. K. Rat Park versus The New York Times. Author's own website. Read in full; the source for his naming of Schenk and colleagues (1987) as the first replication and of Slater (2004) and Hari (2015) as popular vectors.",
+      "url": "https://www.brucekalexander.com/articles-speeches/281-rat-park-versus-the-new-york-times",
+      "type": "commentary"
+    },
+    {
+      "text": "Coambs, R. B., Alexander, B. K., Davis, C. M., Hadaway, P. F., & Tressel, W. R. (1980). A drug dispenser to measure individual drinking in rat colonies. Pharmacology Biochemistry and Behavior, 13(4), 593-595. The apparatus paper, describing the runway, dye marks and video system. Read from the PubMed abstract.",
+      "doi": "10.1016/0091-3057(80)90287-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7433490/",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
