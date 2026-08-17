@@ -1,0 +1,77 @@
+{
+  "no": 581,
+  "slug": "historical-fallacy",
+  "name": "Historical fallacy",
+  "aliases": ["Philosophic fallacy"],
+  "category": "belief",
+  "statement": "John Dewey's name for reading conditions that hold only because a process is finished back into the process that produced them.",
+  "meaning": "Dewey puts it in one sentence. \"A set of considerations which hold good only because of a completed process, is read into the content of the process which conditions this completed result.\" A state of things characterising an outcome is then treated as a true description of the events which led up to it. Dewey's test is that \"if this outcome had already been in existence, there would have been no necessity for the process\". The setting is psychology rather than history. Dewey is objecting to accounts that cut a coordination into a stimulus and a response, and his point is that those two terms describe an organisation already attained, not the process by which it is attained. He names the error as \"virtually the psychological or historical fallacy\", pairing both names in the same clause and citing nobody for either. The APA Dictionary of Psychology keeps the name, glossing it as \"an error of interpretation in which one reads into a process, either as a cause or an essential element, what only comes about as the result of the process\". This is a charge about the structure of an explanation rather than a measurement of a mind. Its measured neighbours are hindsight bias and retrospective determinism, which this site treats separately and whose figures are on those pages.",
+  "origin": {
+    "year": 1896,
+    "who": "John Dewey",
+    "where": "Psychological Review",
+    "note": "The phrase appears on page 367 of \"The Reflex Arc Concept in Psychology\", in volume III, number 4, dated July 1896, an article running from page 357 to page 370 under the DOI 10.1037/h0070405. It occupies four sentences and no more. Dewey neither defines the two names he pairs nor separates them, and he does not return to the phrase in the rest of the article. He restated the same error thirty years later under a third name, calling it in Experience and Nature \"the common philosophic fallacy of converting an eventual function into an antecedent force or cause\"."
+  },
+  "evidence": "The 1896 article is an argument, with no experiment, no sample and no rate. Dewey's target is the reflex arc as an organising idea for psychology, and his complaint is that it leaves stimulus and response as \"disjointed fragments\" rather than phases of one coordination. His worked case is borrowed from William James, the baby who sees a candle flame, reaches for it and is burnt, cited as \"James, Psychology, Vol. I, p. 25\". Dewey's reading is that the seeing is already a sensori-motor act, so the sensation does not precede the movement as its cause. The fallacy passage arrives late, after Dewey has argued that considerations valid of an attained organisation get used to describe a process which only occurs because such an organisation is not yet at hand. James is named once in the article, for that diagram, and not in connection with the fallacy. Dewey used the same charge elsewhere under adjacent names. In Essays in Experimental Logic he writes that to treat the mutual reference of earth and sun \"as if it were simply a case of conjunction of mental events produced by psycho-physical irritation and association is a profound case of the psychological fallacy\". In Experience and Nature the generalised form is called the philosophic fallacy, and Dewey applies it to the idealist account of consciousness as a power that modifies events. The APA Dictionary's worked example is likewise invented rather than observed: a man loses his wallet, finds it in the first place he looks, and concludes he knew where it was, whereas the knowledge is a product of the search.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study was found that measures Dewey's fallacy or turns it into a rate. The searched indexes return the phrase only in unrelated uses and in dictionary definitions.",
+    "detail": "PubMed returns four records for the quoted phrase \"historical fallacy\", in Zootaxa, Clinical Nutrition, Medicina nei Secoli and the American Journal of Clinical Nutrition, and the subjects are tardigrade taxonomy, saline solution, evolutionary medicine and diarrhoeal dehydration. Pairing the phrase with Dewey in PubMed returns nothing. Europe PMC holds the same four records in its title and abstract index, returns nothing for the phrase in its full-text index, and holds two records for \"historic fallacy\", one in PLOS One on primates and mangroves and one in eLife on Hamilton's rule. Crossref by bibliographic query degrades to loose matching and offers Robert Cooke's 1964 chapter \"The Historical Fallacy\" in American Studies in Transition and Rex Li's 2020 chapter on Dewey's psychological fallacy, neither of which is a study of the error as a bias. The nearest measured things carry other names. Fischhoff's outcome-knowledge experiments and the work descending from them are collected on this site's hindsight bias entry, and the judgement that an event was bound to happen is collected on the retrospective determinism entry, whose figures are not repeated here. Neither literature tests Dewey's claim as he framed it, which is about how a psychological explanation is built rather than about what a reader of a narrative estimates."
+  },
+  "limits": "The search covered PubMed, Europe PMC in both its title-abstract and full-text indexes, Crossref by bibliographic query and by DOI, the APA Dictionary of Psychology, and general web search. Absence of a study is a statement about those places. OpenAlex could not be queried, because its API reported the day's budget exhausted, and no psychology-specific database such as PsycINFO was searched. Two located works were not obtained: Cooke's 1964 chapter and Li's 2020 chapter, both resolved at Crossref and neither read, so what Li says about Dewey's psychological fallacy is not reported here. Baldwin's Dictionary of Philosophy and Psychology was not obtained on this pass, because the Internet Archive metadata endpoint returned repeated failures. Whether it carries the term is therefore not settled either way. The Mead Project transcription of the article at Brock University returned a bot check and was not read. Experience and Nature was read as an Internet Archive scan of the 1929 second edition whose optical character recognition mangles the chapter I passage, so the wording quoted here is the cleaner occurrence in the chapter on existence, ideas and consciousness. The 1896 article itself was read as three independent renderings, and the page number comes only from the journal scan.",
+  "misreadings": "The commonest error runs the arrow backwards. Wikipedia summarises the fallacy as occurring \"when a person believes that results occur only because of the process taken to obtain them\", which makes it a claim about causes being overrated. Dewey's sentence says the opposite direction: what belongs to the finished result is read into the process, and his complaint is that the process is then described in terms it could not have had while it was running. A second error is to take the name as a claim about historians. It sits in a paper on the reflex arc, and the word historical is doing the work of saying that a description holds only after the event. This site's historian's fallacy entry covers David Hackett Fischer's separate coinage of 1970, which credits James rather than Dewey. Fischer's book carries the name Dewey once, inside a quotation from Louis Hartz, and the phrase \"historical fallacy\" does not appear in its text, which was searched in full. A third error is to treat Dewey's phrase as a straight borrowing from James. Dewey writes \"the psychological or historical fallacy\" without a citation, and the single reference to James in the article is to the baby-and-candle diagram at page 25 of the Principles, a page James himself later cites for the same figure. James's own term is the psychologist's fallacy, possessive and singular, and it names the confusion of an observer's standpoint with the mental fact reported on, which this site treats at its own entry. Whether Dewey had that phrase in mind is not settled by anything in the article. The fourth error is to expect an effect size. There is none, and a reader wanting numbers should read them off hindsight bias and retrospective determinism, noticing that both measure judgements about narratives rather than the construction of a psychological explanation.",
+  "sources": [
+    {
+      "text": "Dewey, J. (1896). The reflex arc concept in psychology. Psychological Review, 3(4), 357-370. Read as the scanned journal PDF, which carries the running head and the page number 367 for the fallacy passage. The same file was downloaded twice with an identical checksum.",
+      "doi": "10.1037/h0070405",
+      "url": "http://wexler.free.fr/library/files/dewey%20(1896)%20the%20reflex%20arc%20concept%20in%20psychology.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dewey, J. (1896). The Reflex Arc Concept in Psychology. Read in Christopher Green's Classics in the History of Psychology transcription, a second rendering of the same article, and checked against a third at marxists.org. Source for the quoted definition, the James citation and the \"disjointed fragments\" wording.",
+      "url": "https://psychclassics.yorku.ca/Dewey/reflex.htm",
+      "type": "primary"
+    },
+    {
+      "text": "James, W. (1890). The Principles of Psychology, volume I. Read as the Project Gutenberg plain text. Source for the baby-and-candle passage that Dewey cites at page 25, and for James's own later reference to \"the diagram of the baby and the candle (see page 25)\".",
+      "url": "https://www.gutenberg.org/cache/epub/57628/pg57628.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Dewey, J. (1916). Essays in Experimental Logic. Read as the Project Gutenberg plain text. Source for the single use of \"the psychological fallacy\", in the passage on thinking earth and sun in their relation to each other.",
+      "url": "https://www.gutenberg.org/cache/epub/40794/pg40794.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Dewey, J. (1929). Experience and Nature, second edition. La Salle: Open Court. Read as the Internet Archive scan text. Source for the philosophic fallacy, named in chapter I as the conversion of eventual functions into antecedent existence and quoted here from the chapter on existence, ideas and consciousness.",
+      "url": "https://archive.org/details/in.ernet.dli.2015.260059",
+      "type": "primary"
+    },
+    {
+      "text": "APA Dictionary of Psychology, entry \"historical fallacy\", carrying a corrected date of 19 April 2018. Read as the dictionary's own definition record, fetched twice with identical content. Source for the definition and the lost-wallet example, and for the attribution to Dewey's 1896 paper.",
+      "url": "https://dictionary.apa.org/historical-fallacy",
+      "type": "commentary"
+    },
+    {
+      "text": "Fischer, D. H. (1970). Historians' Fallacies: Toward a Logic of Historical Thought. New York: Harper & Row. Read as the Internet Archive scan text and searched in full for Dewey and for the phrase \"historical fallacy\". Source for the finding that Fischer's separate coinage credits James.",
+      "url": "https://archive.org/details/HistoriansFallaciesTowardALogicOfHistoricalThought",
+      "type": "commentary"
+    },
+    {
+      "text": "Li, R. (2020). Psychological Fallacy, How We Think, and Human Nature and Conduct. In Rediscovering John Dewey. Located by DOI at Crossref and not obtained.",
+      "doi": "10.1007/978-981-15-7941-7_7",
+      "type": "commentary"
+    },
+    {
+      "text": "Cooke, R. J. (1964). The Historical Fallacy. In American Studies in Transition. Located by DOI at Crossref and not obtained; the title matches the phrase and the subject was not established.",
+      "doi": "10.9783/9781512815900-012",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Historical fallacy. Read as the article's wiki source. Used to find the APA Dictionary entry and quoted here as the carrier of the reversed summary, not relied on for anything else.",
+      "url": "https://en.wikipedia.org/wiki/Historical_fallacy",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
