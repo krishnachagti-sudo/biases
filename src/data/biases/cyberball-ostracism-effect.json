@@ -1,0 +1,108 @@
+{
+  "no": 482,
+  "slug": "cyberball-ostracism-effect",
+  "name": "Cyberball ostracism effect",
+  "aliases": [
+    "Cyberostracism",
+    "Ostracism need-threat effect"
+  ],
+  "category": "social",
+  "statement": "Being left out of a short online ball-tossing game lowers self-reported belonging, self-esteem, control and meaningful existence.",
+  "meaning": "Cyberball is an animated ball game in which the participant believes two or more other people are playing. Hartgerink and colleagues describe the manipulation plainly: ostracised players are not passed the ball after two initial tosses, while included players get an equal share of them. What is measured straight afterwards is a short questionnaire about how the person felt during the game, scored for belonging, self-esteem, control and meaningful existence. Kipling Williams frames these four as fundamental needs and sets them in a temporal need-threat model with three stages, reflexive, reflective and resignation. Only the first two can be reached in a laboratory, and the resignation stage needs months or years of exposure. The claim on this page is about the reflexive stage, the minute or two after the game ends. Everything the paradigm has been used to argue about afterwards, aggression, conformity, helping, is a separate claim with a separate record.",
+  "origin": {
+    "year": 2000,
+    "who": "Kipling D. Williams, Christopher K. T. Cheung and Wilma Choi",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The 2000 studies did not use the graphical program that now carries the name. Study 1 asked 1,486 participants from 62 countries to use mental visualisation while playing a tossing game over the Internet. The program called Cyberball was published by Williams and Jarvis in Behavior Research Methods in 2006."
+  },
+  "evidence": "The abstract of the original paper reports that the more participants were ostracised, the more they said they felt bad, had less control and were losing a sense of belonging, and that ostracised participants in Study 2 were more likely to conform on a later task. Its full text was not obtained, so no figure from inside it is quoted here. The quantitative record is Hartgerink, van Beest, Wicherts and Williams, who preregistered their selections and hypotheses and collated 120 Cyberball experiments with 11,869 participants. They took the first and the last dependent measure of each study and excluded manipulation checks. On the first measure the random-effects estimate is d = -1.36, p < .001, 95% CI -1.54 to -1.18, with Q(119) = 1395, p < .001, I-squared of 92.99% and tau-squared of 0.90, 95% CI 0.70 to 1.24. On the last measure, taken a mean of 4.85 minutes later, the mixed-effects intercept is d = -0.76, p < .001, 95% CI -0.91 to -0.61, and estimated time since the game did not predict it, b = 0.0069, p = .187. A subset of 19 studies matching the standard recipe, three players, 30 throws, under five minutes, immediate need measures, gave d = -2.05, 95% CI -2.44 to -1.65. Meta-regressions on country, proportion male, mean age, number of players, game length, number of throws and which needs scale was used produced no overall moderation on either measure, Q_M(11) = 10.75, p = .465 on the first and Q_M(11) = 6.00, p = .873 on the last. The three needs scales did not differ from each other.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Across 120 Cyberball experiments with 11,869 participants the pooled immediate effect is d = -1.36, and country, age, gender and the structure of the game did not predict it.",
+    "detail": "The effect survives the tests that usually shrink an effect. Hartgerink and colleagues found no moderation by sample or by game design, and heterogeneity stayed at I-squared of 83% even in the 19 studies that used an identical setup, which they read as unidentified moderators rather than as an artefact of pooling different measures. Two independent lines add to it. Wolf and colleagues built a separate social-media exclusion paradigm, compared it against Cyberball by Bayesian analysis of variance, and found analogous effects on need-threat and mood in both. Fayant, Muller, Hartgerink and Lantian ran a direct replication of Gonsalkorale and Williams's despised-outgroup study and report, with a small-scale meta-analysis including the original, that ostracism effects are not diminished when the source is a despised outgroup. Three qualifications belong with the headline number. The meta-analysis abstract gives the average effect as d greater than 1.4 in absolute value and the conclusion says it approaches 1.5 standard deviations, where the result reported in the paper is 1.36. A random-effects Egger's test on the first measure showed funnel asymmetry, Z = -6.14, p < .001; the authors attribute it to the size of the effect rather than to publication bias, which is their judgement rather than a test. And the moderation that Williams's model predicts would be absent on immediate measures was found, Δd = -0.46, p < .001, 95% CI -0.64 to -0.28 across 52 factorial experiments, which is why the authors propose modifying the model.",
+    "study": {
+      "cite": "Hartgerink, C. H. J., van Beest, I., Wicherts, J. M., & Williams, K. D. (2015). The ordinal effects of ostracism: A meta-analysis of 120 Cyberball studies. PLOS ONE, 10(5), e0127002.",
+      "doi": "10.1371/journal.pone.0127002",
+      "year": 2015,
+      "n": 11869
+    },
+    "replicated": {
+      "es": -1.36,
+      "esType": "d",
+      "ci": [-1.54, -1.18],
+      "ciLevel": 95,
+      "weighting": "random-effects across 120 studies, first dependent measure"
+    }
+  },
+  "limits": "The measure is the limit. What replicates is a self-report questionnaire administered seconds after the manipulation, with items asking how the person felt during the game, and that is the easiest kind of effect to obtain in social psychology. Hartgerink and colleagues excluded manipulation checks from their coding, so the needs scale is treated as an outcome, but it sits next to one. They also note that the needs measures have no proper psychometric validation despite their wide use. Gerber, Chang and Reimel tested that directly, comparing the 12-item scale against the Sheldon needs scale in two samples totalling 192 participants; their abstract reports that a four-factor model fitted poorly and that exploratory factor analysis found two factors, so the four needs the scale names are not four things it measures. The sampled populations are narrow. Across the meta-analysis about 52% of studies were run in the United States, 45% in other Western countries and 3% in Asian countries, mean sample age was about 20.5 years with study means running from 10 to 32.5, and the mean proportion of male participants was about 39%. Only two of 120 studies were estimated to last longer than five minutes. Four papers could not be obtained and are named rather than dropped: the 2000 original, Zadro, Williams and Richardson's computer-opponent study, Gonsalkorale and Williams's despised-outgroup study, and Fayant and colleagues' replication of it. The last three are described here from their abstracts and their titles, and the effect sizes attached to them come from Hartgerink and colleagues' Table 2 rather than from the papers. Searches for a multi-laboratory or many-labs replication of Cyberball covered Crossref, PubMed, Semantic Scholar, Unpaywall, the project list on the Psychological Science Accelerator site and web search, and found none. Fayant and colleagues' paper appeared in Social Psychology 45(6), while the preregistered replication special issue that Nosek and Lakens introduced was 45(3), so no preregistration is claimed for it here.",
+  "misreadings": "The first misreading is treating the four needs as four findings. Gerber and colleagues could not recover a four-factor structure, and Hartgerink and colleagues point out that the scales were never validated, so the honest reading is that exclusion moves a general distress score which the scale divides by convention. The second is carrying the size of the immediate effect over to what people do next. Hartgerink and colleagues found interpersonal measures weaker on the first measure than intrapersonal ones and more open to moderation. Quarmley and colleagues meta-analysed rejection paradigms of all kinds and put aggression at d = 0.41, 95% CI 0.24 to 0.59 across 19 studies, a third of the immediate need-threat effect. In their prosocial analysis the type of rejection mattered: explicit rejection gave d = 1.02, 95% CI 0.32 to 1.73, and ostracism gave d = 0.26, 95% CI 0.01 to 0.52, p = .06. Conformity, which the original paper's Study 2 reported, did not appear in either paradigm Wolf and colleagues tested, though they conformed participants to the people who had excluded them rather than to neutral others. This site's entries on the Asch conformity effect and the bystander effect cover those neighbouring claims. The third misreading is Williams's own proposition that the reflexive response is immune to context. The meta-analysis tested it and found moderation on the first measure across the board, with the predicted pattern surviving only in the narrow subset that used composite need satisfaction at both time points, where the delayed estimate rests on three studies. The striking variants are better stated than paraphrased. Gonsalkorale and Williams report that ostracism by despised outgroup members was no less aversive than ostracism by rival outgroup or ingroup members, and that ostracised participants reported more outgroup negativity only when the co-players were the despised group. The claim about computer players comes from the title of Zadro, Williams and Richardson, and the numbers behind it were not read here. Kipling Williams is also an author of the paper that named social loafing, and this site's entry on that effect shows the opposite pattern of records: a large pooled estimate that dissolves under moderators.",
+  "sources": [
+    {
+      "text": "Williams, K. D., Cheung, C. K. T., & Choi, W. (2000). Cyberostracism: Effects of being ignored over the Internet. Journal of Personality and Social Psychology, 79(5), 748-762. Full text not obtained; the abstract was read at PubMed and at the publisher's record, and nothing from inside the paper is quoted here.",
+      "doi": "10.1037/0022-3514.79.5.748",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11079239/",
+      "type": "primary"
+    },
+    {
+      "text": "Hartgerink, C. H. J., van Beest, I., Wicherts, J. M., & Williams, K. D. (2015). The ordinal effects of ostracism: A meta-analysis of 120 Cyberball studies. PLOS ONE, 10(5), e0127002. Every figure on this page from this paper was read from the JATS XML of the article, not from a rendering of it.",
+      "doi": "10.1371/journal.pone.0127002",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127002",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Zadro, L., Williams, K. D., & Richardson, R. (2004). How low can you go? Ostracism by a computer is sufficient to lower self-reported levels of belonging, control, self-esteem, and meaningful existence. Journal of Experimental Social Psychology, 40(4), 560-567. Paywalled and not obtained; only its title is used here.",
+      "doi": "10.1016/j.jesp.2003.11.006",
+      "url": "https://doi.org/10.1016/j.jesp.2003.11.006",
+      "type": "primary"
+    },
+    {
+      "text": "Gonsalkorale, K., & Williams, K. D. (2007). The KKK won't let me play: Ostracism even by a despised outgroup hurts. European Journal of Social Psychology, 37(6), 1176-1186. Paywalled; described here from the abstract deposited at Crossref by the publisher.",
+      "doi": "10.1002/ejsp.392",
+      "url": "https://doi.org/10.1002/ejsp.392",
+      "type": "primary"
+    },
+    {
+      "text": "Fayant, M.-P., Muller, D., Hartgerink, C. H. J., & Lantian, A. (2014). Is ostracism by a despised outgroup really hurtful? A replication and extension of Gonsalkorale and Williams (2007). Social Psychology, 45(6), 489-494. Full text not obtained through Hogrefe, the Tilburg repository or HAL; described here from the abstract deposited at Crossref.",
+      "doi": "10.1027/1864-9335/a000209",
+      "url": "https://doi.org/10.1027/1864-9335/a000209",
+      "type": "replication"
+    },
+    {
+      "text": "Wolf, W., Levordashka, A., Ruff, J. R., Kraaijeveld, S., Lueckmann, J. M., & Williams, K. D. (2015). Ostracism Online: A social media ostracism paradigm. Behavior Research Methods, 47(2), 361-373. Read from the abstract at PubMed.",
+      "doi": "10.3758/s13428-014-0475-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24878596/",
+      "type": "replication"
+    },
+    {
+      "text": "Quarmley, M., Feldman, J., Grossman, H., Clarkson, T., Moyer, A., & Jarcho, J. M. (2022). Testing effects of social rejection on aggressive and prosocial behavior: A meta-analysis. Aggressive Behavior, 48(5), 529-545. Full text read from the PubMed Central XML.",
+      "doi": "10.1002/ab.22026",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9519812/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Gerber, J. P., Chang, S.-H., & Reimel, H. (2017). Construct validity of Williams' ostracism needs threat scale. Personality and Individual Differences, 115, 50-53. Paywalled; described here from its abstract as published on the Macquarie University research portal.",
+      "doi": "10.1016/j.paid.2016.07.008",
+      "url": "https://researchers.mq.edu.au/en/publications/construct-validity-of-williams-ostracism-needs-threat-scale/",
+      "type": "critique"
+    },
+    {
+      "text": "Williams, K. D., & Jarvis, B. (2006). Cyberball: A program for use in research on interpersonal ostracism and acceptance. Behavior Research Methods, 38(1), 174-180. Cited for the date and title of the program paper only; its text was not obtained.",
+      "doi": "10.3758/BF03192765",
+      "url": "https://doi.org/10.3758/BF03192765",
+      "type": "method"
+    },
+    {
+      "text": "Williams, K. D., & Nida, S. A. (2011). Ostracism: Consequences and coping. Current Directions in Psychological Science, 20(2), 71-75. Full text read; used here for how the temporal need-threat model is stated by its authors.",
+      "doi": "10.1177/0963721411402480",
+      "url": "http://nwkpsych.rutgers.edu/~kharber/selectedtopicsinsocialpsychology/READINGS/Williams%20&%20Nida.%20Ostracism.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Nosek, B. A., & Lakens, D. (2014). Registered reports: A method to increase the credibility of published results. Social Psychology, 45(3), 137-141. Read for the scope of the preregistered replication special issue, which is 15 articles in issue 3.",
+      "doi": "10.1027/1864-9335/a000192",
+      "url": "https://pure.tue.nl/ws/files/3867735/22561785537065.pdf",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
