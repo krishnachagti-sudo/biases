@@ -1,0 +1,81 @@
+{
+  "no": 469,
+  "slug": "grammatical-aspect-and-intentionality",
+  "name": "Grammatical aspect and intentionality",
+  "aliases": [
+    "Verb aspect and attributions of intent",
+    "Imperfective aspect effect"
+  ],
+  "category": "social",
+  "statement": "Describing an action as what a person was doing, rather than what they did, was reported to make the act look more intentional.",
+  "meaning": "Aspect is the grammatical marking that says whether an action is presented as unfolding or as finished. English marks the first with the progressive, 'was firing', and the second with the simple past, 'fired'. Reading research had already shown that the imperfective gets a reader to picture an action in progress and the perfective to picture it complete. Hart and Albarracín proposed that this carries over into judgements about the actor. If the imperfective makes a reader imagine more of the component actions, the reader has more material from which to read off goals, and so should rate the actor as acting more on purpose. The claim mattered because it was made about a criminal vignette, which puts it a short step from advice on how a prosecutor should phrase a closing statement.",
+  "origin": {
+    "year": 2011,
+    "who": "William Hart and Dolores Albarracín",
+    "where": "Psychological Science",
+    "note": "Three experiments, 54, 37 and 48 undergraduates. The first two used neutral behaviour by a character called Keith; the third used a shooting, and it is the one that was later replicated."
+  },
+  "evidence": "In Experiment 1 the imperfective group completed more word stems with intention words than the perfective group, 3.89 against 2.68, F(1, 53) = 13.31, p = .001, d = 1.00. In Experiment 2 they rated Keith higher on three items from the Mind Attribution Scale, 5.55 against 4.63, F(1, 35) = 9.28, p = .004, d = 1.00, and tallied more action segments, 4.64 against 2.72, d = 1.23. Experiment 3 put 48 students in the role of a judge reading a five-line report of a shooting after a dice game, adapted from a real case. Rating how knowingly, intentionally and deliberately the shooter caused harm, on three scales running from -5 to +5 averaged together, the imperfective group gave 4.89 and the perfective group 3.69, F(1, 46) = 7.02, p = .01, d = 0.76. The same participants rated the imperfective report easier to picture, 5.40 against 4.48, d = 0.73. Bootstrapped mediation put the indirect effect of aspect on criminal intentionality, through that ease of picturing, between 0.06 and 1.15 with 95% confidence.",
+  "replication": {
+    "state": "failed",
+    "headline": "Eleven laboratories plus an online study ran Experiment 3 to a vetted protocol and the difference came out slightly the wrong way.",
+    "detail": "Eerland and colleagues ran a registered replication of Experiment 3 alone, with the protocol vetted by Hart. Where the original found intentionality ratings 1.2 points higher under the imperfective, the random-effects meta-analysis of the 11 laboratory studies found 0.24 points in the other direction, 95% confidence interval -0.49 to 0.03 in the running text and -0.50 to 0.02 in the forest plot. Eight of the 11 laboratories and the online study pointed away from the original. The ease-of-picturing measure gave 0.08 points against the original 0.92, and the Mind Attribution measure 0.001 points against the original 0.55. The mediation did not survive either: detailed processing carried no indirect effect, d = 0.02, bias-corrected bootstrap interval -0.12 to 0.15. Two things a reader should know about these numbers. They are raw differences on the study's own rating scales, which is how the results section and all three forest plots present them, although the abstract prints them with a d in front. And the replication changed one clause of the imperfective vignette, from 'was pulling out his gun' to 'pulled out his gun', because the original wording implied the shooter drew and aimed at the same moment. Kurby and Kibbe then ran the unaltered original vignette on a further 44 people outside the preregistered set and got d = 0.05, again away from the original.",
+    "study": {
+      "cite": "Eerland, A., Sherrill, A. M., Magliano, J. P., Zwaan, R. A., et al. (2016). Registered Replication Report: Hart & Albarracín (2011). Perspectives on Psychological Science, 11(1), 158-171.",
+      "doi": "10.1177/1745691615605826",
+      "year": 2016,
+      "sites": 11
+    },
+    "original": {
+      "es": 1.2,
+      "esType": "md",
+      "unit": "scale points"
+    },
+    "replicated": {
+      "es": -0.24,
+      "esType": "md",
+      "unit": "scale points",
+      "ci": [
+        -0.49,
+        0.03
+      ],
+      "ciLevel": 95,
+      "weighting": "random-effects"
+    }
+  },
+  "limits": "Every participant in the replication was a native English speaker. Laboratories in the United States, Canada and the Netherlands took part, and the Dutch team ran its study on American workers through Mechanical Turk so that the materials needed no translation. So the report says nothing about whether the effect holds in a language whose aspect system works differently, and it was not designed to. One later study bears on that. Coppola and Matlock ran three experiments in French on students at Toulouse, using a vignette about a discarded syringe and HIV transmission, with the passé simple for the perfective and a periphrastic progressive for the imperfective. Their Experiment 2, on 122 students, found intentionality ratings of 4.98 against 4.26, F(1, 118) = 19.05, d = 0.78, and their effects were larger when the accused had a criminal record and near zero when he did not. That is a different language, a different crime, a different design and an added moderator, so it is an extension rather than a test of the original, and it leaves the direct replication record where it was. The replication also carries more heterogeneity than chance on the intentionality measure, I² = 44.94%, Q(10) = 18.626, p = .045, which the authors say could reflect an unidentified moderator.",
+  "misreadings": "What was measured in all this is narrow. It is a rating of one fictional shooting on three scales, by undergraduates told to imagine sentencing the shooter, and neither the original nor the replication watched anybody attribute intent to a real person. Reading either result as settling how people assign intention in general goes well past the vignette. The failure also does not touch grammatical aspect itself: the replication authors note that aspect reliably changes whether an event is understood as ongoing or complete. They suggest that judgement of intentionality sits further from the words than the effects that hold. Sherrill, Eerland, Zwaan and Magliano tested that directly across four mock-juror experiments before the replication was published. The effect on intentionality appeared in two of the four and not in the other two. The effect on perceived temporal detail appeared in all three experiments that measured it, and in their Experiment 3, on 307 people, imperfective murder wording raised the estimated number of blows from 1.25 to 5.74. Their serial mediation ran from aspect to number of actions to intentionality to a first-degree verdict, indirect effect -0.62, 95% bias-corrected bootstrap interval -0.96 to -0.32, and the reverse order got no support. The same group's five experiments on blame judgements found no effect of aspect on blame at all. Read together, the mechanism claim that survives is about how many actions a reader pictures, not about intention.",
+  "sources": [
+    {
+      "text": "Hart, W., & Albarracín, D. (2011). Learning about what others were doing: Verb aspect and attributions of mundane and criminal intent for past actions. Psychological Science, 22(2), 261-266.",
+      "doi": "10.1177/0956797610395393",
+      "url": "https://doi.org/10.1177/0956797610395393",
+      "type": "primary"
+    },
+    {
+      "text": "Eerland, A., Sherrill, A. M., Magliano, J. P., Zwaan, R. A., et al. (2016). Registered Replication Report: Hart & Albarracín (2011). Perspectives on Psychological Science, 11(1), 158-171.",
+      "doi": "10.1177/1745691615605826",
+      "url": "https://doi.org/10.1177/1745691615605826",
+      "type": "replication"
+    },
+    {
+      "text": "Sherrill, A. M., Eerland, A., Zwaan, R. A., & Magliano, J. P. (2015). Understanding how grammatical aspect influences legal judgment. PLOS ONE, 10(10), e0141181.",
+      "doi": "10.1371/journal.pone.0141181",
+      "url": "https://doi.org/10.1371/journal.pone.0141181",
+      "type": "secondary"
+    },
+    {
+      "text": "Eerland, A., Sherrill, A. M., Magliano, J. P., & Zwaan, R. A. (2017). The blame game: An investigation of grammatical aspect and blame judgments. Collabra: Psychology, 3(1), 29. Abstract read at Crossref; the article itself could not be opened.",
+      "doi": "10.1525/collabra.113",
+      "url": "https://doi.org/10.1525/collabra.113",
+      "type": "secondary"
+    },
+    {
+      "text": "Coppola, V., & Matlock, T. (2026). Verb aspect and its role in reasoning about guilt. Psychology of Language and Communication, 30(1), 23-56.",
+      "doi": "10.58734/plc-2026-0002",
+      "url": "https://doi.org/10.58734/plc-2026-0002",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
