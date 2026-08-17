@@ -230,6 +230,29 @@ delegation is safe enough to do at all. See the header of
 `build/check-sources.mjs` for what it does and for the two bugs its own first
 run had.
 
+## The working paper is a different paper
+
+A preprint and its published version share a title and often little else.
+Five entries were caught on this in one day. Usually the drift is small: a
+meta-analysis reporting 86 studies where its preprint said 89, another giving
+a mathematics estimate over seven studies where its preprint said six, a third
+whose sample doubles between the working paper and the journal.
+
+Once it was not small. The lump-of-labour entry reported a work-sharing study
+as finding employment rose across 201 industries over six years. That is the
+1996 working paper. The article published three years later analyses 30
+industries over eleven years and concludes the opposite, that shorter hours
+came at the likely price of lower overall employment. The industry count on our
+page appears nowhere in the published article. One correction of that kind also
+reverses whatever else the entry said by comparison: a second study described
+as finding the opposite sign turned out to find the same one.
+
+So: cite the published version where one exists, say which version a figure
+came from, and when both are open, check whether they agree. Where they differ,
+print the published figure and record the other rather than quietly preferring
+whichever was easier to fetch. A working paper is fine as a source when it is
+all there is, and it must be labelled as one.
+
 ## An unobtainability claim is a claim, and it decays
 
 Saying a paper is paywalled is not a disclaimer. It is a statement about the
