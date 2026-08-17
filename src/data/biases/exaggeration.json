@@ -1,0 +1,86 @@
+{
+  "no": 394,
+  "slug": "exaggeration",
+  "name": "Exaggeration",
+  "aliases": ["Overstatement", "Hyperbole", "Symptom exaggeration"],
+  "category": "social",
+  "statement": "Exaggeration becomes testable as symptom exaggeration: about a third of North American medico-legal examinees are judged to be overstating, and the rate rises with the incentive.",
+  "meaning": "Exaggeration is a rhetorical device rather than a judgement error, and it reached this atlas as a heading in a category list rather than with a paradigm attached. The word covers overstatement in speech, in advertising, in a job application and in a press release, and most of that has never been instrumented. One sense has criteria, tests and base rates behind it, and this page is about that one. In medico-legal assessment, symptom exaggeration means an examinee reporting or performing worse than the documented condition can account for. It is judged by known-group criteria that combine three kinds of signal: an external incentive such as a claim or a lawsuit, failure on forced-choice tests built to be easy, and discrepancies between what is claimed, what the records hold and what the examiner observes. Slick, Sherman and Iverson set out the criteria most of this literature uses. The term is deliberately weaker than malingering, which presumes intent, and Darzi and thirteen colleagues argue for the weaker word on the grounds that intent is what an examiner cannot establish. Two other candidate senses of exaggeration are measured elsewhere in this corpus. Overstatement between a journal article and the news story about it belongs to entry 410 on correlation and causation, which carries the press-release coding. Over-reporting of respectable behaviour in surveys, such as turnout, belongs to entry 114 on social desirability bias, which carries the validated-record comparisons.",
+  "origin": {
+    "year": 1999,
+    "who": "Daniel J. Slick, Elisabeth M. S. Sherman and Grant L. Iverson",
+    "where": "The Clinical Neuropsychologist",
+    "note": "Their paper proposed diagnostic criteria for malingered neurocognitive dysfunction, and 28 of the 46 cohorts in the 2025 pooled prevalence estimate rest on it. The word exaggeration is far older than any of this work and no paper coined it. Two earlier dates matter for the claim rather than the name. Binder and Rohling pooled the financial-incentive literature in 1996, and Mittenberg, Patton, Canyock and Condit put the phrase symptom exaggeration in a title in 2002. Crossref renders that 2002 title as 'Base Rates of Malingering and Symptom Exeggeration', which is a typographical error in the metadata rather than in the journal."
+  },
+  "evidence": "The pooled figure comes from a 2025 systematic review by Andrea Darzi and thirteen colleagues, who searched CINAHL, EMBASE, MEDLINE and PsycINFO from inception to 8 July 2024. Of 20,405 unique citations, 44 studies met their criteria, reporting 46 cohorts and 9,794 patients, all of them independent medical evaluations in North America. Thirty-one cohorts were traumatic brain injury, eleven were chronic pain, and the median of the mean ages was 40, with an interquartile range of 38 to 42. Prevalence of symptom exaggeration ran from 17% to 67% across studies, median 33%, and the pooled estimate was 35%, with a 95% confidence interval of 31% to 39%. The authors rate that low certainty evidence under GRADE. Their one subgroup result concerns sex. Studies in which women were 40% or more of the sample gave 46.9%, 95% confidence interval 35.6% to 58.3%, from 9 studies and 1,137 patients, against 31.4%, 28.1% to 34.6%, from 33 studies and 7,891 patients, with a test of interaction at p = 0.02. No subgroup effect appeared for type of clinical condition, at p = 0.95, for confidence in the reference standard, at p = 0.84, or for similar age and education between the groups, at p = 0.47. Egger's test gave p = 0.13 overall. A survey reached a similar place two decades earlier by a different route. Mittenberg, Patton, Canyock and Condit asked members of the American Board of Clinical Neuropsychology to estimate rates across 33,531 annual cases, and got 29% of personal injury cases, 30% of disability, 19% of criminal and 8% of medical. Broken out by claim, they report 39% of mild head injury, 35% of fibromyalgia or chronic fatigue, 31% of chronic pain, 27% of neurotoxic and 22% of electrical injury. The evidence the respondents said they relied on was cumulative: severity of impairment inconsistent with the condition in 65% of cases, pattern of impairment in 64%, scores below cutoffs on forced-choice tests in 57%, and discrepancies among records, self-report and observed behaviour in 56%.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Both halves of the claim have come back in independent samples: the rate sits near a third in medico-legal settings, and it tracks the incentive rather than the setting.",
+    "detail": "The incentive gradient was first pooled by Binder and Rohling in 1996, across 17 reports, 18 study groups and 2,353 subjects after closed-head injury. They report a moderate overall effect size of 0.47, strongest for mild head trauma, with more abnormality and disability among patients who had financial incentives despite less severe injuries. Belanger, Curtiss, Demery, Lebowitz and Vanderploeg found the same shape in 39 studies of mild traumatic brain injury, 1,463 cases against 1,191 controls. Their overall figure was d = .54, and it split by sampling. Unselected or prospective samples showed no residual impairment by three months, d = .04, while clinic-based samples gave d = .74 and samples including litigants d = .78 at three months or later. Litigation went with stable or worsening cognition over time. Schroeder, Clark and Martin then held the setting fixed. Among 242 patients referred for routine clinical evaluation who had Social Security Disability as an external incentive, 46.0% produced invalid data, rising to 58.6% among those already receiving it, against 8.5% of clinically referred patients with no known external incentive. Their reading is that the incentive rather than the evaluation setting drives the rate. Roor, Peters, Dandachi-FitzGerald and Ponds pooled the ordinary clinical end of the same measure: 47 studies, 6,484 patients, a base rate of performance validity test failure of 16%, 95% confidence interval 14% to 19%, with Q = 697.97, p < .001 and I-squared of 91%. The four studies that excluded patients with potential external gain gave 10%, 5% to 15%, against 16%, 13% to 19%, for the 42 that did not. One study points the other way. Williamson and four colleagues found that failure on the Word Memory Test among 91 patients with psychogenic non-epileptic seizures went with reported abuse and not with financial incentives.",
+    "study": {
+      "cite": "Schroeder, R. W., Clark, H. A., & Martin, P. K. (2022). Base rates of invalidity when patients undergoing routine clinical evaluations have social security disability as an external incentive. The Clinical Neuropsychologist, 36(8), 1902-1914.",
+      "doi": "10.1080/13854046.2021.1895322",
+      "year": 2022,
+      "n": 242
+    }
+  },
+  "limits": "The reference standard is the weak point, and the review that produces the headline number says so. None of the known-group criteria used to identify exaggeration has been through reliability or validity testing, which is why Darzi and colleagues rated the evidence low certainty. No included study said its assessors were blind to the reference standard, and only 14 of the 44 described how they sampled. Prevalence across studies ran from 17% to 67%, so the pooled 35% is an average over designs that disagree by a factor of four. The population is narrow: North America, and mostly mild traumatic brain injury or chronic pain, with four cohorts covering anything else. The incentive evidence is observational throughout. Nobody randomises a claimant to a compensation scheme, so incentive travels with injury type, employment and legal representation. Figures from Binder and Rohling, Belanger and colleagues, Schroeder and colleagues, Williamson and colleagues, and Mittenberg and colleagues were read from their abstracts, which were the only text obtained here, and the metric behind the 0.47 is not named in Binder and Rohling's abstract, so it is quoted without one. Two other senses of the word were checked and handed off rather than covered. Searches of Europe PMC by title for experimental work on whether audiences detect and discount exaggeration returned five papers, all of them instruments for detecting symptom exaggeration in patients, and a general web search returned work on press-release wording and on consumer reviews rather than on discounting. This corpus's entries on straw man and cherry picking hold what was found on the detection question.",
+  "misreadings": "The first error is to read the number as a count of liars. Symptom exaggeration as these criteria define it says nothing about intent, which is the reason Darzi and colleagues prefer the term to malingering, and a person can overstate a real impairment. Binder and Rohling's incentive groups had more disability with less severe injuries, and Belanger's acute effects were large where the samples were unselected, at d = 1.03 for delayed memory and d = .89 for fluency. The second error is to convert a failed test into a verdict on a person. Roor and colleagues work an example: a validity test with sensitivity 0.69 and specificity 0.90 gives a positive predictive value of 43% at a 10% base rate and 57% at 16%, so a single failure leaves the question open, which is why the guidance is to use several. The third error is to take the sex difference at face value. It is a between-study comparison, rated low certainty and of low to moderate credibility by the authors' own instrument, and it does not agree with itself: the subgroup test gives p = 0.02, while the meta-regression on the proportion of women across 42 studies gives p = 0.16. The fourth is to treat any account of Mittenberg's survey as interchangeable with the survey. Darzi and colleagues describe it as finding 41% for mild head injuries and 2% for vascular dementia; Mittenberg's own abstract gives 39% for mild head injury and names no dementia figure. The fifth is to read exaggeration as a property of claimants. Roor and colleagues found rates varying by diagnosis from 6% in Parkinson's disease to 33% in psychogenic non-epileptic seizures, and by test from the TOMM to the Word Memory Test, so the measured rate carries the instrument and the setting along with the examinee.",
+  "sources": [
+    {
+      "text": "Darzi, A. J., Wang, L., Riva, J. J., Morsi, R. Z., Charide, R., Couban, R. J., Karam, S. G., Torabiardakani, K., Lok, A., Ebrahim, S., Bance, S., Kunz, R., Guyatt, G. H., & Busse, J. W. (2025). Prevalence of symptom exaggeration among North American independent medical evaluation examinees: A systematic review of observational studies. PLOS One, 20(6), e0324684. Read in full as the JATS XML from Europe PMC. The source for the pooled prevalence, the sex subgroup, the GRADE rating and the criteria counts.",
+      "doi": "10.1371/journal.pone.0324684",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193048/",
+      "type": "review"
+    },
+    {
+      "text": "Mittenberg, W., Patton, C., Canyock, E. M., & Condit, D. C. (2002). Base rates of malingering and symptom exaggeration. Journal of Clinical and Experimental Neuropsychology, 24(8), 1094-1102. Abstract read at Europe PMC; the full text was not obtained. Crossref carries the title with 'Exeggeration' misspelled.",
+      "doi": "10.1076/jcen.24.8.1094.8379",
+      "url": "https://europepmc.org/article/MED/12650234",
+      "type": "primary"
+    },
+    {
+      "text": "Slick, D. J., Sherman, E. M. S., & Iverson, G. L. (1999). Diagnostic criteria for malingered neurocognitive dysfunction: proposed standards for clinical practice and research. The Clinical Neuropsychologist, 13(4), 545-561. Citation verified at Crossref; the paper was not obtained, and it is named here only as the criteria most of the pooled cohorts used.",
+      "doi": "10.1076/1385-4046(199911)13:04;1-Y;FT545",
+      "url": "https://doi.org/10.1076/1385-4046(199911)13:04;1-Y;FT545",
+      "type": "primary"
+    },
+    {
+      "text": "Binder, L. M., & Rohling, M. L. (1996). Money matters: a meta-analytic review of the effects of financial incentives on recovery after closed-head injury. American Journal of Psychiatry, 153(1), 7-10. Abstract read at Europe PMC; the full text was not obtained, and the abstract does not name the metric behind the 0.47.",
+      "doi": "10.1176/ajp.153.1.7",
+      "url": "https://europepmc.org/article/MED/8540596",
+      "type": "review"
+    },
+    {
+      "text": "Belanger, H. G., Curtiss, G., Demery, J. A., Lebowitz, B. K., & Vanderploeg, R. D. (2005). Factors moderating neuropsychological outcomes following mild traumatic brain injury: a meta-analysis. Journal of the International Neuropsychological Society, 11(3), 215-227. Abstract read at Europe PMC; the full text was not obtained.",
+      "doi": "10.1017/s1355617705050277",
+      "url": "https://europepmc.org/article/MED/15892898",
+      "type": "review"
+    },
+    {
+      "text": "Schroeder, R. W., Clark, H. A., & Martin, P. K. (2022). Base rates of invalidity when patients undergoing routine clinical evaluations have social security disability as an external incentive. The Clinical Neuropsychologist, 36(8), 1902-1914. Abstract read at Europe PMC; the full text was not obtained. The source for the 46.0% and 8.5% figures.",
+      "doi": "10.1080/13854046.2021.1895322",
+      "url": "https://europepmc.org/article/MED/33706657",
+      "type": "primary"
+    },
+    {
+      "text": "Roor, J. J., Peters, M. J. V., Dandachi-FitzGerald, B., & Ponds, R. W. H. M. (2024). Performance validity test failure in the clinical population: a systematic review and meta-analysis of prevalence rates. Neuropsychology Review, 34(1), 299-319. Read in full as the JATS XML from Europe PMC. The source for the 16% base rate, the incentive contrast, the diagnosis breakdown and the worked predictive-value example.",
+      "doi": "10.1007/s11065-023-09582-7",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10920461/",
+      "type": "review"
+    },
+    {
+      "text": "Williamson, D. J., Holsman, M., Chaytor, N., Miller, J. W., & Drane, D. L. (2012). Abuse, not financial incentive, predicts non-credible cognitive performance in patients with psychogenic non-epileptic seizures. The Clinical Neuropsychologist, 26(4), 588-598. Abstract read at Europe PMC; the full text was not obtained.",
+      "doi": "10.1080/13854046.2012.670266",
+      "url": "https://europepmc.org/article/MED/22439651",
+      "type": "primary"
+    },
+    {
+      "text": "Puente-López, E., Pina, D., López-López, R., González Ordi, H., Bošković, I., & Merten, T. (2023). Prevalence estimates of symptom feigning and malingering in Spain. Psychological Injury and Law, 16(1), 1-17. Abstract read at Europe PMC. Cited only as a survey outside North America: of 1,003 participants, 61.5% of them women, about one third disclosed having feigned symptoms themselves, and expert respondents estimated 20% to 40%.",
+      "doi": "10.1007/s12207-022-09458-w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9321279/",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
