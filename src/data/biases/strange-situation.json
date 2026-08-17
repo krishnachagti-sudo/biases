@@ -1,0 +1,122 @@
+{
+  "no": 486,
+  "slug": "strange-situation",
+  "name": "Strange Situation",
+  "aliases": ["Strange Situation procedure", "Ainsworth Strange Situation", "Infant attachment classification", "SSP"],
+  "category": "social",
+  "statement": "Infant behaviour across a scripted set of separations and reunions sorts into secure, avoidant and resistant patterns, held to predict later social and emotional development.",
+  "meaning": "What gets coded is one infant's behaviour towards one caregiver on one afternoon. The infant, usually around a year old, is given about three minutes in an unfamiliar room with toys. A stranger enters, sits, speaks to the caregiver and then approaches the infant. The caregiver leaves and returns twice. Coders watch the reunions and assign group B for secure, A for avoidant, or C for resistant and ambivalent. Ainsworth's argument was that reunion behaviour reveals what the infant has learned to expect from that caregiver when frightened. Two claims sit on top of each other here and come apart under testing. The first is that the coding sorts infants consistently. The second is that the sorting forecasts how the child turns out.",
+  "origin": {
+    "year": 1970,
+    "who": "Mary D. S. Ainsworth and Silvia M. Bell",
+    "where": "Child Development",
+    "note": "Their paper set out the procedure and the shifting balance between exploration and attachment behaviour. The three groups had been distinguished earlier, from Ainsworth's Baltimore families. She first called them prematurely independent, secure and disturbed; Bowlby objected in 1967 that the names were shot through with value judgements, and proposed the labels A, B and C instead. The coding manual is the 1978 book Patterns of Attachment."
+  },
+  "evidence": "The classification came out of a very small sample. Ainsworth's Baltimore study followed 26 families, fifteen observed from 1963 to 1964 and eleven from 1966 to 1967. Twenty-three of those 26 dyads were seen in the Strange Situation, and the three groups were drawn from those 23: six prematurely independent, thirteen secure, four disturbed. Patterns of Attachment, in 1978, pooled Ainsworth's samples with doctoral projects by Silvia Bell and Mary Main and reported on 106 infants, of whom 66% were secure, 21% avoidant and 13% resistant. Forty-two percent of the 106 fell into the B3 subgroup alone. Duschinsky's archival history records that the Baltimore sample was described in print as randomly selected, and that Ainsworth said in a late interview that the paediatricians who recruited for her tended to pick mothers who interested them. She applied repeatedly for funding to re-run the study without changes, and was turned down each time. Where modern cohorts report coding agreement it is high. In the Minnesota Longitudinal Study of Risk and Adaptation, inter-rater agreement on the three-way classification was 89% at 12 months and 92% at 18 months, and 86% for disorganisation. In the NICHD Study of Early Child Care and Youth Development, agreement on the four-way system was 83% at 15 months, with kappa of 0.69; at the 36-month assessment in the same cohort it was 75.7%, kappa 0.58.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The coding is consistent and the distribution reproduces widely, but the prediction to later behaviour is small, and registered analyses of the two landmark cohorts found it smaller still.",
+    "detail": "Three meta-analyses set the scale. Groh and colleagues, from 80 independent samples and 4,441 children, put security against peer social competence at d = 0.39, interval 0.32 to 0.47, with the level not stated in the abstract. Fearon and colleagues, from 69 samples and 5,947 children, put insecurity against externalising problems at d = 0.31, 95% CI 0.23 to 0.40. Within that, disorganisation gave d = 0.34, 95% CI 0.18 to 0.50, avoidance d = 0.12, 95% CI 0.03 to 0.21, and resistance d = 0.11, 95% CI -0.04 to 0.26. Groh and colleagues put insecurity against internalising symptoms at d = 0.15, interval 0.06 to 0.25, with resistance and disorganisation not significant. Nivison and colleagues then ran registered analyses on both landmark cohorts. In the Minnesota sample, teacher-rated social competence correlated r = .20 with the proportion of times an infant was classified secure, close to the pooled r = .19. Externalising and internalising ran from r = -.05 to -.16. After partialling child sex, race and ethnicity, family socioeconomic status and maternal education, every socioemotional partial correlation was r of .14 or below and none was significant, on n = 170. Academic skills, which the theory does not privilege, held at r = .25, p < .01. In the larger NICHD cohort the bivariate figures were weaker again: r = .06 to .09 for social competence, -.01 to -.08 for externalising, -.01 to -.10 for internalising. The same authors report that the median study in the pooled reviews had 44, 51 and 56 children for the three outcomes, with median one-tailed power of 37%, 30% and 15%, and that the reviews show evidence of publication bias.",
+    "study": {
+      "cite": "Nivison, M. D., Caldo, P. D., Magro, S. W., Raby, K. L., Groh, A. M., Vandell, D. L., Booth-LaForce, C., Fraley, R. C., Carlson, E. A., Simpson, J. A., & Roisman, G. I. (2025). The predictive validity of the Strange Situation procedure: Evidence from registered analyses of two landmark longitudinal studies. Development and Psychopathology, 37(1), 147-163.",
+      "doi": "10.1017/s0954579423001487",
+      "year": 2025
+    },
+    "indexedBy": "Europe PMC"
+  },
+  "limits": "Stability over time is moderate and decays. Pinquart, Feussner and Ahnert pooled 127 papers, 21,072 attachments and 225 intervals running from half a month to 29 years, and obtained an overall stability of r = .39. They found no significant stability across intervals longer than 15 years, and higher coefficients over intervals under two years and in middle-class rather than at-risk samples. The figure usually quoted is older and much larger. Waters saw 50 middle-class dyads at 12 and 18 months in 1978, and 48 of the 50 kept their classification. Duschinsky notes that the same small group of experts coded both time points, that the infants were first-born children in intact middle-class families with no regular out-of-home care, and that the result sits far above later studies.\n\nCross-cultural distributions vary, and what the variation means is contested. van IJzendoorn and Kroonenberg's 1988 meta-analysis examined about 2,000 classifications from eight countries and reported that intracultural differences were substantial, with the data also suggesting a pattern of cross-cultural differences. The two samples usually cited are the outliers rather than the pattern. The Grossmanns' 1981 Bielefeld study in northern Germany found more avoidant than secure dyads. Later German samples did not. Regensburg gave 62% secure, 27.5% avoidant and 5% resistant, and a Berlin sample gave 77.5% secure, 17.5% avoidant and 5% resistant. Takahashi's 1986 Sapporo study of 60 Japanese dyads reported 68% secure, 32% resistant and no avoidant infants at all, and concluded the procedure was culturally specific. Duschinsky's history records that Takahashi set a two-minute maximum on episodes of distress, against Ainsworth's repeated instruction to curtail sooner. It also records a blind recoding of the Sapporo tapes by the Grossmanns, giving 76% secure, 11% resistant, 2% avoidant and 11% unclassifiable, and agreeing with only 43% of the cases originally coded C. That recoding was reported in a university annual report and a conference paper, and is quoted here from Duschinsky rather than read off the original documents.\n\nThe fourth category came later and stands on different ground. Main and Solomon described a disorganised or disoriented pattern in a 1986 chapter and published coding procedures in a 1990 one; Duschinsky dates its emergence to the years 1979 to 1982. van IJzendoorn, Schuengel and Bakermans-Kranenburg pooled nearly 80 studies and more than 6,000 infant-parent dyads in 1999. They report that coders manage to become reliable and that stability is modest in the short and long term. About 15% of infants in normal middle-class families are classified disorganised, with the rate two or three times higher in clinical and maltreatment samples. Duschinsky puts the short-term test-retest stability of the classification at r = .35, and states in his history that no psychometric study of the infant disorganised classification has been reported.\n\nAdult attachment is a separate literature with its own measurement dispute, and results there are not evidence about this procedure. Crowell, Treboux and Waters found that 81% of adults classified secure-autonomous on the Adult Attachment Interview also called themselves secure on a self-report questionnaire, while only 42% of those the interview classified insecure reported themselves insecure. They argued the two traditions measure different constructs while borrowing the same vocabulary.",
+  "misreadings": "A classification is not a trait of a child. Main and Weston saw 46 families in the procedure with both parents. An infant's classification with one parent had a weak and statistically insignificant association with the classification with the other, and there was no significant association on the proximity-seeking, contact-maintaining, avoidance or resistance scales. The working title of their report was that security of attachment characterises relationships, not infants. What the coding fixes is a single short observation of behaviour towards one adult, at around twelve to eighteen months, and the stability figures above are the honest statement of how far that reaches.\n\nThe effect sizes are widely believed to be larger than the published pooled estimates. The three meta-analyses give d = 0.39 for peer competence, d = 0.31 for externalising and d = 0.15 for internalising, and the registered analyses of Minnesota and NICHD came out at or below those figures. In Minnesota the socioemotional partial correlations were all non-significant once four demographic variables were controlled, while academic skills, which attachment theory does not claim as its territory, survived at r = .25. Nivison and colleagues describe that result as unexpected.\n\nThe German and Japanese samples are usually cited as showing that the measure does not travel. The published record is more particular than that. Later German samples fall in the ordinary range, and the Sapporo distribution is entangled with a departure from the coding instructions and with a blind recoding that disagreed with more than half of the original resistant classifications. van IJzendoorn and Kroonenberg's own conclusion was that differences within countries were substantial.\n\nThe procedure is used to argue for and against particular parenting practices. This entry reports what the measurements are and who made them, and takes no position on what follows from them for parents.",
+  "sources": [
+    {
+      "text": "Ainsworth, M. D. S., & Bell, S. M. (1970). Attachment, exploration, and separation: Illustrated by the behavior of one-year-olds in a strange situation. Child Development, 41(1), 49-67.",
+      "doi": "10.2307/1127388",
+      "url": "https://doi.org/10.2307/1127388",
+      "type": "primary"
+    },
+    {
+      "text": "Duschinsky, R. (2020). Cornerstones of Attachment Research. Oxford University Press.",
+      "doi": "10.1093/med-psych/9780198842064.001.0001",
+      "url": "https://library.oapen.org/handle/20.500.12657/114742",
+      "type": "review"
+    },
+    {
+      "text": "Nivison, M. D., Caldo, P. D., Magro, S. W., Raby, K. L., Groh, A. M., Vandell, D. L., Booth-LaForce, C., Fraley, R. C., Carlson, E. A., Simpson, J. A., & Roisman, G. I. (2025). The predictive validity of the Strange Situation procedure: Evidence from registered analyses of two landmark longitudinal studies. Development and Psychopathology, 37(1), 147-163.",
+      "doi": "10.1017/s0954579423001487",
+      "url": "https://doi.org/10.1017/s0954579423001487",
+      "type": "replication"
+    },
+    {
+      "text": "Fearon, R. P., Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., Lapsley, A. M., & Roisman, G. I. (2010). The significance of insecure attachment and disorganization in the development of children's externalizing behavior: A meta-analytic study. Child Development, 81(2), 435-456.",
+      "doi": "10.1111/j.1467-8624.2009.01405.x",
+      "url": "https://doi.org/10.1111/j.1467-8624.2009.01405.x",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Groh, A. M., Fearon, R. P., Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., Steele, R. D., & Roisman, G. I. (2014). The significance of attachment security for children's social competence with peers: A meta-analytic study. Attachment & Human Development, 16(2), 103-136.",
+      "doi": "10.1080/14616734.2014.883636",
+      "url": "https://doi.org/10.1080/14616734.2014.883636",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Groh, A. M., Roisman, G. I., van IJzendoorn, M. H., Bakermans-Kranenburg, M. J., & Fearon, R. P. (2012). The significance of insecure and disorganized attachment for children's internalizing symptoms: A meta-analytic study. Child Development, 83(2), 591-610.",
+      "doi": "10.1111/j.1467-8624.2011.01711.x",
+      "url": "https://doi.org/10.1111/j.1467-8624.2011.01711.x",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Pinquart, M., Feussner, C., & Ahnert, L. (2013). Meta-analytic evidence for stability in attachments from infancy to early adulthood. Attachment & Human Development, 15(2), 189-218.",
+      "doi": "10.1080/14616734.2013.746257",
+      "url": "https://doi.org/10.1080/14616734.2013.746257",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "van IJzendoorn, M. H., Schuengel, C., & Bakermans-Kranenburg, M. J. (1999). Disorganized attachment in early childhood: Meta-analysis of precursors, concomitants, and sequelae. Development and Psychopathology, 11(2), 225-249.",
+      "doi": "10.1017/S0954579499002035",
+      "url": "https://doi.org/10.1017/S0954579499002035",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "van IJzendoorn, M. H., & Kroonenberg, P. M. (1988). Cross-cultural patterns of attachment: A meta-analysis of the strange situation. Child Development, 59(1), 147-156.",
+      "doi": "10.2307/1130396",
+      "url": "https://doi.org/10.2307/1130396",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Waters, E. (1978). The reliability and stability of individual differences in infant-mother attachment. Child Development, 49(2), 483-494.",
+      "doi": "10.2307/1128714",
+      "url": "https://doi.org/10.2307/1128714",
+      "type": "replication"
+    },
+    {
+      "text": "Main, M., & Weston, D. R. (1981). The quality of the toddler's relationship to mother and to father: Related to conflict behavior and the readiness to establish new relationships. Child Development, 52(3), 932-940.",
+      "doi": "10.2307/1129097",
+      "url": "https://doi.org/10.2307/1129097",
+      "type": "primary"
+    },
+    {
+      "text": "Grossmann, K. E., Grossmann, K., Huber, F., & Wartner, U. (1981). German children's behavior towards their mothers at 12 months and their fathers at 18 months in Ainsworth's strange situation. International Journal of Behavioral Development, 4(2), 157-181.",
+      "doi": "10.1177/016502548100400202",
+      "url": "https://doi.org/10.1177/016502548100400202",
+      "type": "primary"
+    },
+    {
+      "text": "Takahashi, K. (1986). Examining the strange-situation procedure with Japanese mothers and 12-month-old infants. Developmental Psychology, 22(2), 265-270.",
+      "doi": "10.1037/0012-1649.22.2.265",
+      "url": "https://doi.org/10.1037/0012-1649.22.2.265",
+      "type": "primary"
+    },
+    {
+      "text": "Wartner, U. G., Grossmann, K., Fremmer-Bombik, E., & Suess, G. (1994). Attachment patterns at age six in south Germany: Predictability from infancy and implications for preschool behavior. Child Development, 65(4), 1014-1027.",
+      "doi": "10.2307/1131301",
+      "url": "https://doi.org/10.2307/1131301",
+      "type": "primary"
+    },
+    {
+      "text": "Duschinsky, R. (2015). The emergence of the disorganized/disoriented (D) attachment classification, 1979-1982. History of Psychology, 18(1), 32-46.",
+      "doi": "10.1037/a0038524",
+      "url": "https://doi.org/10.1037/a0038524",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
