@@ -2,7 +2,12 @@
   "no": 40,
   "slug": "anthropomorphism",
   "name": "Anthropomorphism",
-  "aliases": ["Mind attribution to non-humans", "Three-factor theory of anthropomorphism", "SEEK theory", "Humanising non-human agents"],
+  "aliases": [
+    "Mind attribution to non-humans",
+    "Three-factor theory of anthropomorphism",
+    "SEEK theory",
+    "Humanising non-human agents"
+  ],
   "category": "social",
   "statement": "People attribute human minds to machines, animals and gods, and the standard theory says they do it most when they need to predict the thing or lack company.",
   "meaning": "Two claims travel under one name. The descriptive claim is that people credit non-human things with intentions, feelings and free will, and that they differ from one another in how readily they do it. The causal claim is the three-factor theory of Epley, Waytz and Cacioppo, which names elicited agent knowledge, effectance motivation and sociality motivation as the determinants. Elicited agent knowledge is the pull of a humanlike face or voice. Effectance is the drive to predict and control a thing. Sociality is the need for company. The descriptive claim and the causal one have separate evidence and separate fates, and the second is usually cited as though the first supported it.",
@@ -12,62 +17,73 @@
     "where": "Psychological Review",
     "note": "\"On seeing human: A three-factor theory of anthropomorphism\" gave the field its framework rather than its subject. Merriam-Webster dates the first known English use of the word to 1650 and traces it to the Greek anthropomorphos, having human form."
   },
-  "evidence": "Epley, Waytz and Cacioppo set out the three factors in a 2007 review, not an experiment. The empirical arm arrived alongside it. Epley, Akalis, Waytz and Cacioppo ran three studies in Psychological Science on the sociality leg. In their Study 1, twenty undergraduates rated four gadgets on five anthropomorphic items and then completed a three-item loneliness scale; loneliness correlated with the anthropomorphic ratings at r(18) = .53, p = .02. Their later studies moved from correlation to induction, using film clips to make people feel disconnected. Waytz, Morewedge, Epley, Monteleone, Gao and Cacioppo tested the effectance leg across five studies in the Journal of Personality and Social Psychology, manipulating how unpredictable an agent seemed or how much a person stood to gain from predicting it, and reported neuroimaging alongside the behaviour. The measurement arm is the Individual Differences in Anthropomorphism Questionnaire. Waytz, Cacioppo and Epley built it from 348 participants in one study and 609 in another, settling on 15 items with a two-factor structure separating animal from non-animal targets. Retested after 12 to 19 weeks it gave r(67) = .55, p < .0001. It predicted attributing secondary emotions to animals, beta = .61, t(38) = 4.71, p < .0001, and trust in technology, beta = .30, t(51) = 2.29, p < .05. The applied case people cite most is Waytz, Heafner and Epley's driving simulator. One hundred participants drove a normal car, an autonomous one, or the same autonomous car named Iris and given a female voice. Overall trust rose from the agentic to the anthropomorphic condition, t(97) = 2.34, p = .02, d = .48. Cullen, Kanai, Bahrami and Rees scanned 83 young adults and found anthropomorphism of animals correlated with grey-matter volume in the left temporoparietal junction.",
+  "evidence": "Epley, Waytz and Cacioppo set out the three factors in a 2007 review in Psychological Review. That article argues from existing literature and reports no experiment of its own. The empirical arm arrived alongside it. Epley, Akalis, Waytz and Cacioppo ran three studies in Psychological Science on the sociality leg. Study 1 was an online survey of twenty volunteers, 14 women and 6 men, who read descriptions of four gadgets, among them a wheeled alarm clock that runs away from the sleeper and a torso-shaped pillow that hugs. They rated each gadget on five anthropomorphic items and then completed a three-item loneliness scale. Loneliness correlated with the anthropomorphic ratings at r(18) = .53, p = .02, prep = .93, and the correlation held with the non-anthropomorphic ratings controlled, r(17) = .49, p = .03. Study 3 moved from correlation to induction, showing 57 Harvard undergraduates a three-minute clip from Cast Away, The Silence of the Lambs or Major League. A companion paper in Social Cognition found the same pattern for pets in 166 Harvard undergraduates, r(164) = -.18, p = .02, and had 132 laboratory visitors rate a predictable or an unpredictable dog, F(1, 130) = 11.50, p = .001. Waytz, Morewedge, Epley, Monteleone, Gao and Cacioppo tested the effectance leg across five studies in the Journal of Personality and Social Psychology, manipulating how unpredictable an agent seemed or how much a person stood to gain from predicting it, and reported neuroimaging alongside the behaviour. The measurement arm is the Individual Differences in Anthropomorphism Questionnaire. Waytz, Cacioppo and Epley built it from 348 people drawn from the University of Chicago population and 609 from the general population, settling on 15 items whose factor structure separates animal from non-animal targets. Retested after 12 to 19 weeks it gave r(67) = .55, p < .0001. It predicted attributing secondary emotions to animals, beta = .61, t(38) = 4.71, p < .0001, and trust in technology, beta = .30, t(51) = 2.29, p < .05. The applied case people cite most is Waytz, Heafner and Epley's driving simulator. One hundred participants drove a normal car, an autonomous one, or the same autonomous car named Iris and given a female voice. Overall trust rose from the agentic to the anthropomorphic condition, t(97) = 2.34, p = .02, d = .48. Cullen, Kanai, Bahrami and Rees scanned 83 healthy young adults and found anthropomorphism of animals correlated with grey-matter volume in the left temporoparietal junction.",
   "replication": {
     "state": "mixed",
     "headline": "A registered report with 885 participants found a correlation of .02 between loneliness and anthropomorphism of gadgets, where the original found .53, while the design and measurement findings have held.",
-    "detail": "The sociality leg has failed twice under high power. Xiao, Elsherif, Chu, Tang, Wong, Wu, Pomareda and Feldman ran a registered report accepted by Peer Community in Registered Reports, replicating Study 1 of Epley and colleagues with 885 US participants after exclusions. Chronic loneliness correlated with anthropomorphic ratings of gadgets at r(883) = .02, 95% CI [-.04, .09], one-sided p = .261 on the UCLA scale, and .04, 95% CI [-.02, .11], on the short scale. Controlling for non-anthropomorphic ratings lifted the partial correlation to .07, 95% CI [.01, .14], p = .031. Loneliness ran the wrong way for pets, r(883) = -.02, and for belief in supernatural beings, r(883) = -.11, p = .001. Epley and colleagues printed no interval around the original .53; the replication team calculated one as [.11, .79] and noted that the original data are no longer available. The experimental induction failed earlier. Sandstrom and Dunn replicated Study 3 for the Reproducibility Project: Psychology, planning 81 undergraduates for 95% power and showing clips from Cast Away, The Silence of the Lambs and Major League. The predicted interaction did not appear, F(4, 150) = .58, p = .68, and the disconnection group's belief in supernatural agents did not differ from the other two combined, t(78) = .18, p = .86. Between the two sits Bartz, Tchalova and Fenerci, who replicated the loneliness correlation in 178 people and showed that reminding people of a supportive relationship reduced anthropomorphism, but reported attachment anxiety as the stronger predictor. Other legs fare better. Roesler, Manzey and Onnasch pooled 78 studies, about 6,000 participants and 187 effect sizes on anthropomorphic robot design, and report a medium positive overall effect with no positive effect for perceived safety, empathy or task performance. Blut, Wang, Wünderlich and Brock pooled 108 samples and 11,053 individuals on service robots and chatbots. Folk, Heine and Dunn found the questionnaire moderating felt connection to a chatbot in a preregistered study of 1,034 people, B = 0.100, p = .013, after B = 0.218, p = .013 in an exploratory sample of 240. The brain claim is the weakest. Hortensius, Kent, Darda, Jastrzab, Koldewyn, Ramsey and Cross examined 108 people across four datasets and found no consistent relationship between dispositional anthropomorphism and activity in the theory-of-mind network, with a posterior regression coefficient of 0.04 and a 95% credibility interval of [-0.04, 0.12]. In a preregistered follow-up with 311 people, only situational anthropomorphism predicted understanding of a film's characters.",
+    "detail": "The sociality leg has failed twice under high power. Xiao, Elsherif, Chu, Tang, Wong, Wu, Pomareda and Feldman ran a registered report accepted by Peer Community in Registered Reports, replicating Study 1 of Epley and colleagues. They started with 1,091 people, 1,002 completed the survey, and 885 remained after preregistered exclusions. Chronic loneliness correlated with anthropomorphic ratings of gadgets at r(883) = .02, 95% CI [-.04, .09], one-sided p = .261 on the UCLA scale, and .04, 95% CI [-.02, .11], one-sided p = .111 on the short scale. Controlling for non-anthropomorphic ratings lifted the partial correlation to .07, 95% CI [.01, .14], p = .031, which is the one confirmatory test on gadgets that cleared .05, and the short-scale version of it did not. Loneliness ran the wrong way for pets, r(883) = -.02, and for belief in supernatural beings, r(883) = -.11, p = .001. The original prints p and prep and no interval around the .53; the replication team calculated one as [.11, .79] with MBESS and recorded that the original data are no longer accessible, so its reproducibility could not be checked. The experimental induction failed earlier. Sandstrom and Dunn replicated Study 3 for the Reproducibility Project: Psychology, planning 81 undergraduates for 95% power against the original eta squared of .12 and analysing 81 after three further exclusions. The predicted interaction did not appear, F(4, 150) = .58, p = .68, and the disconnection group's belief in supernatural agents did not differ from the other two combined, t(78) = .18, p = .86. Between the two sits Bartz, Tchalova and Fenerci, whose abstract reports a direct replication of the loneliness correlation in 178 people and shows that reminding people of a supportive relationship reduces anthropomorphism, with attachment anxiety the stronger predictor of the two. Other legs fare better. Roesler, Manzey and Onnasch pooled 78 studies, around 6,000 participants and 187 effect sizes on anthropomorphic robot design, and their abstract reports a medium positive overall effect with no positive effect for perceived safety, empathy or task performance. Blut, Wang, Wünderlich and Brock pooled 108 independent samples and 11,053 individuals on service robots and chatbots; the anthropomorphism to intention-to-use link rests on 30 of those effect sizes and 2,160 people, and comes out at a reliability-adjusted r of .35, 95% CI [.30, .41]. Klein pooled 800 effect sizes from 199 datasets in 142 papers on text-based chatbots, 41,642 people in total, and found a small effect of human-likeness on social responses, g = 0.36, 95% CI [0.27, 0.44]. The subgroup figures split: perception g = 0.51, trust g = 0.44, behavioural outcomes g = 0.17, 95% CI [0.07, 0.27], and negative affect g = 0.05, 95% CI [-0.21, 0.30]. Egger's test flagged funnel asymmetry for the overall model, p = 0.001. Folk, Heine and Dunn found the questionnaire moderating felt connection to a chatbot in a preregistered study of 1,034 people, B = 0.100, p = .013, after B = 0.218, p = .013 in an exploratory sample of 240. The brain claim is the weakest. Hortensius, Kent, Darda, Jastrzab, Koldewyn, Ramsey and Cross examined 108 people across four datasets and found no consistent relationship between dispositional anthropomorphism and activity in the theory-of-mind network, with a posterior regression coefficient of 0.04 and a 95% credibility interval of [-0.04, 0.12]. In a preregistered follow-up with 311 people, only situational anthropomorphism predicted understanding of a film's characters.",
     "study": {
       "cite": "Xiao, Q., Elsherif, M. M., Chu, H. Y., Tang, M. C., Wong, T. H. A., Wu, Y., Pomareda, C., & Feldman, G. (2024). Registered report: Insufficient evidence of a positive association between chronic loneliness and anthropomorphism: Replication and extension of Epley, Akalis, et al. (2008). Psychology of Consciousness: Theory, Research, and Practice, 11(3), 415-431.",
       "doi": "10.1037/cns0000401",
       "year": 2024,
       "n": 885
     },
-    "original": { "es": 0.53, "esType": "r" },
-    "replicated": { "es": 0.02, "esType": "r", "ci": [-0.04, 0.09], "ciLevel": 95 },
+    "original": {
+      "es": 0.53,
+      "esType": "r"
+    },
+    "replicated": {
+      "es": 0.02,
+      "esType": "r",
+      "ci": [
+        -0.04,
+        0.09
+      ],
+      "ciLevel": 95
+    },
     "indexedBy": "FORRT Replications and Reversals"
   },
-  "limits": "The verdict covers a theory with three legs, and the legs were tested by different literatures with different rigour. Sociality has two well-powered non-replications and one supportive study of 178 people. Elicited agent knowledge has two meta-analyses of applied design work, neither of which tests the theory as Epley and colleagues stated it. Effectance has no high-powered replication that this search located. A search of Crossref, PubMed, Europe PMC, OSF and Peer Community in Registered Reports found no Many Labs or Psychological Science Accelerator project on anthropomorphism. Two numbers are missing from this page because they could not be read at source. Roesler and colleagues report a medium positive overall effect in their abstract and the article is paywalled, so no pooled g appears here. Blut and colleagues state their sample and their moderators in an open abstract without printing a correlation for anthropomorphism and use intention. The Hortensius interval is Bayesian and is quoted in prose rather than entered as an effect size, because a credibility interval and a confidence interval answer different questions. The .17 partial correlation often attached to Bartz and colleagues comes from the Xiao replication's description of their result rather than from the Bartz abstract, and is recorded here as such. Voice assistants were searched for and produced no preregistered experiment at a scale worth printing.",
-  "misreadings": "The commonest error is to read the loneliness failure as a verdict on anthropomorphism itself. What failed is one of three proposed causes. People do attribute minds to gadgets and pets, the questionnaire that measures the tendency is stable over three months, and anthropomorphic design changes behaviour towards robots. A second error runs the other way, treating anthropomorphism as the same process as reading other people's minds. Hortensius and colleagues tested that directly and found the two dissociate at the level of personality. A third is to treat the Reproducibility Project result as a test of the correlation. It was a test of the film-clip induction, and the correlation was tested separately, by Xiao and colleagues, twelve years later. A fourth is to quote Roesler and colleagues as showing that humanlike robots work. Their own abstract records no positive effect for perceived safety, empathy or task performance, and their conclusion is that the benefit depends on moderators. The last is to date the idea to 2007. The word is 350 years older, and Epley, Waytz and Cacioppo were naming a theory rather than a phenomenon.",
+  "limits": "The verdict covers a theory with three legs, and the legs were tested by different literatures with different rigour. Sociality has two well-powered non-replications and one supportive study of 178 people. Elicited agent knowledge has three meta-analyses of applied design work, none of which tests the theory as Epley and colleagues stated it. Effectance has no high-powered replication located in Crossref, PubMed, Europe PMC, OSF or Peer Community in Registered Reports. The nearest thing found is a 2025 paper by David and Spatola in the International Journal of Social Robotics whose title names effectance motivation, unpredictability and uncontrollability. It is paywalled, no abstract is deposited at Crossref, it was not read, and nothing from it is used here. The same search found no Many Labs or Psychological Science Accelerator project on anthropomorphism. Roesler and colleagues report a medium positive overall effect in their abstract and no pooled g appears here, because the article was not obtained: Science Robotics is behind a subscription and blocks automated access, Europe PMC records it as subscription-only, OpenAlex and Semantic Scholar record no open copy, and the TU Berlin DepositOnce record served no file. The same team's 2022 follow-up in ACM Transactions on Human-Robot Interaction was located and refused download, so its pooled figure is left off rather than quoted from a listing. Bartz and colleagues are quoted from their PubMed abstract; the full text was not obtained, and the .17 partial correlation often attached to them comes from the Xiao replication's power analysis rather than from the abstract, so it is not printed as their result. The Hortensius interval is Bayesian and is quoted in prose rather than entered as an effect size, because a credibility interval and a confidence interval answer different questions. The nearby entries carry the neighbouring material: the Heider and Simmel animation and the god-detection argument belong to agent detection, entry no. 173, the uncanny valley and the computers-are-social-actors work to human-robot interaction, entry no. 398, and children's projection of biology from humans outward to anthropocentrism, entry no. 392.",
+  "misreadings": "The commonest error is to read the loneliness failure as a verdict on anthropomorphism itself. What failed is one of three proposed causes. People do attribute minds to gadgets and pets, the questionnaire that measures the tendency is stable over three months, and anthropomorphic design changes behaviour towards robots. A second error runs the other way, treating anthropomorphism as the same process as reading other people's minds. Hortensius and colleagues tested that directly and found the two dissociate at the level of personality. A third is to treat the Reproducibility Project result as a test of the correlation. It was a test of the film-clip induction, and the correlation was tested separately, by Xiao and colleagues, sixteen years later. A fourth is to quote the robot meta-analyses as showing that humanlike machines work. Roesler and colleagues record no positive effect for perceived safety, empathy or task performance, and in Klein's pooled figures the outcome that moves least is behaviour, g = 0.17, against g = 0.51 for how the chatbot is perceived. Design shifts what people say about a machine more than what they do with it. The last is to date the idea to 2007. The word is 350 years older, and Epley, Waytz and Cacioppo were naming a theory rather than a phenomenon.",
   "sources": [
     {
-      "text": "Epley, N., Waytz, A., & Cacioppo, J. T. (2007). On seeing human: A three-factor theory of anthropomorphism. Psychological Review, 114(4), 864-886.",
+      "text": "Epley, N., Waytz, A., & Cacioppo, J. T. (2007). On seeing human: A three-factor theory of anthropomorphism. Psychological Review, 114(4), 864-886. Read in full as the author-hosted PDF on nicholasepley.com; it is a theoretical review and reports no new experiment.",
       "doi": "10.1037/0033-295X.114.4.864",
-      "url": "https://doi.org/10.1037/0033-295X.114.4.864",
+      "url": "https://cdn.prod.website-files.com/699728903166dd3429c6b4fd/699728903166dd3429c6b5a8_EpleyWaytzCacioppo2007.pdf",
       "type": "primary"
     },
     {
-      "text": "Epley, N., Akalis, S., Waytz, A., & Cacioppo, J. T. (2008). Creating social connection through inferential reproduction: Loneliness and perceived agency in gadgets, gods, and greyhounds. Psychological Science, 19(2), 114-120. Abstract read at PubMed; Study 1 statistics read from the Xiao and colleagues replication, which reproduces them.",
+      "text": "Epley, N., Akalis, S., Waytz, A., & Cacioppo, J. T. (2008). Creating social connection through inferential reproduction: Loneliness and perceived agency in gadgets, gods, and greyhounds. Psychological Science, 19(2), 114-120. Read in full as the author-hosted PDF on nicholasepley.com; every Study 1 and Study 3 figure on this page was taken from that document.",
       "doi": "10.1111/j.1467-9280.2008.02056.x",
-      "url": "https://doi.org/10.1111/j.1467-9280.2008.02056.x",
+      "url": "https://cdn.prod.website-files.com/699728903166dd3429c6b4fd/699728903166dd3429c6b5ab_EpleyAkalisWaytzCacioppo2008.pdf",
       "type": "primary"
     },
     {
-      "text": "Epley, N., Waytz, A., Akalis, S., & Cacioppo, J. T. (2008). When we need a human: Motivational determinants of anthropomorphism. Social Cognition, 26(2), 143-155. Cited as the companion motivational paper; full text not opened during this check.",
+      "text": "Epley, N., Waytz, A., Akalis, S., & Cacioppo, J. T. (2008). When we need a human: Motivational determinants of anthropomorphism. Social Cognition, 26(2), 143-155. Read in full as the author-hosted PDF on nicholasepley.com.",
       "doi": "10.1521/soco.2008.26.2.143",
-      "url": "https://doi.org/10.1521/soco.2008.26.2.143",
+      "url": "https://cdn.prod.website-files.com/699728903166dd3429c6b4fd/699728903166dd3429c6b5af_EpleyWaytzAkalisCacioppo2008.pdf",
       "type": "primary"
     },
     {
-      "text": "Waytz, A., Morewedge, C. K., Epley, N., Monteleone, G., Gao, J. H., & Cacioppo, J. T. (2010). Making sense by making sentient: Effectance motivation increases anthropomorphism. Journal of Personality and Social Psychology, 99(3), 410-435.",
+      "text": "Waytz, A., Morewedge, C. K., Epley, N., Monteleone, G., Gao, J. H., & Cacioppo, J. T. (2010). Making sense by making sentient: Effectance motivation increases anthropomorphism. Journal of Personality and Social Psychology, 99(3), 410-435. Read as the author-hosted PDF on adamwaytz.com.",
       "doi": "10.1037/a0020240",
       "url": "https://doi.org/10.1037/a0020240",
       "type": "primary"
     },
     {
-      "text": "Waytz, A., Cacioppo, J., & Epley, N. (2010). Who sees human? The stability and importance of individual differences in anthropomorphism. Perspectives on Psychological Science, 5(3), 219-232.",
+      "text": "Waytz, A., Cacioppo, J., & Epley, N. (2010). Who sees human? The stability and importance of individual differences in anthropomorphism. Perspectives on Psychological Science, 5(3), 219-232. Read in full at PubMed Central, PMC4021380.",
       "doi": "10.1177/1745691610369336",
       "url": "https://doi.org/10.1177/1745691610369336",
       "type": "primary"
     },
     {
-      "text": "Waytz, A., Heafner, J., & Epley, N. (2014). The mind in the machine: Anthropomorphism increases trust in an autonomous vehicle. Journal of Experimental Social Psychology, 52, 113-117.",
+      "text": "Waytz, A., Heafner, J., & Epley, N. (2014). The mind in the machine: Anthropomorphism increases trust in an autonomous vehicle. Journal of Experimental Social Psychology, 52, 113-117. Read in full as the author-hosted PDF on nicholasepley.com.",
       "doi": "10.1016/j.jesp.2014.01.005",
-      "url": "https://doi.org/10.1016/j.jesp.2014.01.005",
+      "url": "https://cdn.prod.website-files.com/699728903166dd3429c6b4fd/699728903166dd3429c6b5bf_WaytzHeafnerEpley2014.pdf",
       "type": "primary"
     },
     {
-      "text": "Cullen, H., Kanai, R., Bahrami, B., & Rees, G. (2014). Individual differences in anthropomorphic attributions and human brain structure. Social Cognitive and Affective Neuroscience, 9(9), 1276-1280.",
+      "text": "Cullen, H., Kanai, R., Bahrami, B., & Rees, G. (2014). Individual differences in anthropomorphic attributions and human brain structure. Social Cognitive and Affective Neuroscience, 9(9), 1276-1280. Published online 4 September 2013; read in full at PubMed Central, PMC4158361.",
       "doi": "10.1093/scan/nst109",
       "url": "https://doi.org/10.1093/scan/nst109",
       "type": "primary"
@@ -90,12 +106,12 @@
       "type": "commentary"
     },
     {
-      "text": "Sandstrom, G. M., & Dunn, E. W. Replication of Epley, Akalis, Waytz & Cacioppo (2008, Psychological Science, Study 3). Replication report filed under the Reproducibility Project: Psychology.",
+      "text": "Sandstrom, G. M., & Dunn, E. W. Replication of Epley, Akalis, Waytz & Cacioppo (2008, Psychological Science, Study 3). Replication report filed under the Reproducibility Project: Psychology. Final report read in full at https://osf.io/download/m5a2c/.",
       "url": "https://osf.io/yuybh/",
       "type": "replication"
     },
     {
-      "text": "Bartz, J. A., Tchalova, K., & Fenerci, C. (2016). Reminders of social connection can attenuate anthropomorphism. Psychological Science, 27(12), 1644-1650.",
+      "text": "Bartz, J. A., Tchalova, K., & Fenerci, C. (2016). Reminders of social connection can attenuate anthropomorphism: A replication and extension of Epley, Akalis, Waytz, and Cacioppo (2008). Psychological Science, 27(12), 1644-1650. Abstract read at PubMed; the full text was not obtained.",
       "doi": "10.1177/0956797616668510",
       "url": "https://doi.org/10.1177/0956797616668510",
       "type": "replication"
@@ -107,21 +123,33 @@
       "type": "replication"
     },
     {
-      "text": "Roesler, E., Manzey, D., & Onnasch, L. (2021). A meta-analysis on the effectiveness of anthropomorphism in human-robot interaction. Science Robotics, 6(58), eabj5425. Abstract read at PubMed; the article is paywalled and no pooled effect size is quoted here.",
+      "text": "Roesler, E., Manzey, D., & Onnasch, L. (2021). A meta-analysis on the effectiveness of anthropomorphism in human-robot interaction. Science Robotics, 6(58), eabj5425. Abstract read at Europe PMC; the article was not obtained and no pooled effect size is quoted here.",
       "doi": "10.1126/scirobotics.abj5425",
       "url": "https://doi.org/10.1126/scirobotics.abj5425",
       "type": "replication"
     },
     {
-      "text": "Blut, M., Wang, C., Wünderlich, N. V., & Brock, C. (2021). Understanding anthropomorphism in service provision: A meta-analysis of physical robots, chatbots, and other AI. Journal of the Academy of Marketing Science, 49(4), 632-658.",
+      "text": "Blut, M., Wang, C., Wünderlich, N. V., & Brock, C. (2021). Understanding anthropomorphism in service provision: A meta-analysis of physical robots, chatbots, and other AI. Journal of the Academy of Marketing Science, 49(4), 632-658. Open access; read in full from the publisher PDF, from which Table 2 was taken.",
       "doi": "10.1007/s11747-020-00762-y",
       "url": "https://doi.org/10.1007/s11747-020-00762-y",
       "type": "replication"
     },
     {
-      "text": "Folk, D., Heine, S. J., & Dunn, E. (2025). Individual differences in anthropomorphism help explain social connection to AI companions. Scientific Reports, 15, 36548.",
+      "text": "Folk, D., Heine, S. J., & Dunn, E. (2025). Individual differences in anthropomorphism help explain social connection to AI companions. Scientific Reports, 15, 36548. Read in full from the publisher PDF.",
       "doi": "10.1038/s41598-025-19212-2",
       "url": "https://doi.org/10.1038/s41598-025-19212-2",
+      "type": "replication"
+    },
+    {
+      "text": "David, D., & Spatola, N. (2025). Effectance motivation: Unpredictability and uncontrollability in the anthropomorphism strategy. International Journal of Social Robotics. Recorded because it was located and could not be obtained; nothing on this page rests on it.",
+      "doi": "10.1007/s12369-025-01306-6",
+      "url": "https://doi.org/10.1007/s12369-025-01306-6",
+      "type": "reference"
+    },
+    {
+      "text": "Klein, S. H. (2025). The effects of human-like social cues on social responses towards text-based conversational agents: a meta-analysis. Humanities and Social Sciences Communications, 12(1). Open access; read in full from the publisher PDF, from which Table 3 was taken.",
+      "doi": "10.1057/s41599-025-05618-w",
+      "url": "https://doi.org/10.1057/s41599-025-05618-w",
       "type": "replication"
     },
     {
@@ -130,5 +158,5 @@
       "type": "reference"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-17"
 }
