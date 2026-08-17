@@ -4789,7 +4789,7 @@
    "replication_es_global": -0.04,
    "replication_ci95": [
     -0.09,
-    -0.004
+    0.004
    ],
    "replication_es_label": "global effect size across all replication samples (Table 2 ‘Global effect size’ column; Table 2 also reports a median across samples, which is not this figure)",
    "original_n": 116,
@@ -4797,7 +4797,7 @@
    "replication_slate": 1,
    "replication_samples_in_slate": 64,
    "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
-   "entry": null,
+   "entry": "sociometric-status-and-well-being",
    "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
   },
   {
