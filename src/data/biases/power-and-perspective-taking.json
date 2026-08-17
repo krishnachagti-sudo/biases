@@ -1,0 +1,92 @@
+{
+  "no": 448,
+  "slug": "power-and-perspective-taking",
+  "name": "Power and perspective taking",
+  "aliases": [
+    "Power and perspectives not taken",
+    "Power decreases perspective taking",
+    "The E-on-the-forehead effect"
+  ],
+  "category": "social",
+  "statement": "Making people feel powerful is said to make them worse at working out how a situation looks to somebody else.",
+  "meaning": "The claim is about a state, not a trait. Participants write for a few minutes about a time they had power over another person, or a time somebody had power over them, and are then given a task that rewards seeing things from another vantage point. The prediction is that the high-power group anchors on its own view and adjusts too little. Two things travel under this heading and behave differently. One is the experimental prime, which is what almost all of the famous evidence uses. The other is a real difference in rank, role or standing, which is a separate literature with its own results and sometimes the opposite sign. The page below is about the prime, because that is what the original studies and the replication both manipulated.",
+  "origin": {
+    "year": 2006,
+    "who": "Adam D. Galinsky, Joe C. Magee, M. Ena Inesi and Deborah H Gruenfeld",
+    "where": "Psychological Science",
+    "note": "Their paper is titled \"Power and perspectives not taken\" and reports four experiments plus a correlational study. It gives prep values rather than p values throughout, a convention the journal pushed briefly in the mid-2000s, so most of its results carry no p value at all. The authors chose a priming procedure over a role manipulation on the grounds that structural manipulations of power add cognitive load."
+  },
+  "evidence": "Experiment 1 is the one everybody quotes. Fifty-seven undergraduates, 41 women and 16 men with an average age of 20.02, wrote a high-power or low-power recall essay. They then allocated lottery tickets, snapped their fingers five times, and were told to draw a capital E on their forehead with a marker. An E drawn legibly to the writer is backwards to an onlooker. Controlling for handedness and sex, the only reliable predictor was the power condition, B = -1.51, SE = 0.76, prep = .88. Thirty-three percent of high-power participants drew a self-oriented E, 8 of 24, against 12% of low-power participants, 4 of 33. Experiment 2a took a different route with 42 undergraduates. They read that they and a colleague had eaten badly at a restaurant recommended by the colleague's friend. The colleague then emailed the friend to say \"About the restaurant, it was marvelous, just marvelous.\" Asked how the friend would read it on a six-point scale running from sarcastic to sincere, high-power participants answered 3.74, SD = 1.54, against 4.84, SD = 1.30, for low-power participants, t(40) = 2.47, prep = .93, d = 0.77. Experiment 2b reversed which reading the privileged knowledge supported, with 51 subjects, and found the mirror pattern, 3.31, SD = 1.46, against 2.36, SD = 1.35, t(49) = 2.4, prep = .93, d = 0.68. Experiment 3 compared 70 students given the power prime against a control condition who described their previous day, scoring 24 faces from the DANVA2. The high-power group made more errors, M = 4.54, SD = 2.80, than controls, M = 3.11, SD = 1.57, F(1, 66) = 10.81, prep = .98. A correlational study of 32 students regressed a perspective-taking scale on a sense-of-power scale and found B = -0.35, SE = 0.17, prep = .88.",
+  "replication": {
+    "state": "failed",
+    "headline": "Twenty laboratories and an online sample repeated the sarcasm experiment on 2,969 people and got d = 0.03, against 0.77 in the original.",
+    "detail": "Many Labs 3 selected Experiment 2a as one of 10 effects run in 20 university participant pools, N = 2,696, and one online sample, N = 737. This was a genuinely multi-laboratory project rather than one team in one room, and the 20 pools spanned universities in the United States and Canada. The aggregate analysis of the sarcasm task covered 2,969 participants. High-power participants gave a mean of 3.75, SD = 1.55, and low-power participants 3.80, SD = 1.57, t(2967) = 0.89, p = 0.37, d = 0.03, 95% CI [-.04, .10]. Ebersole and colleagues restate the original as t(40) = 2.47, p = .02, d = 0.77, 95% CI [.12, 1.41], so the replication interval sits well below the original point estimate. Three checks close off the obvious escapes. Sites did not disagree with each other: apart from two other effects in the project, \"all other effects showed little inter-site variation (Q < 22.40, p > .288)\". Time of semester did not qualify it, and neither did task order. Engagement with the prime did not either. A test of whether the character length of the power essay moderated the sincerity rating gave F(1, 2961) = 0.39, p = .53. Across the whole project, only the availability heuristic was reliably moderated by the instructional attention check. The authors' own qualifier is worth keeping: they write that the results do not show the observed nulls are always null, only that those effects \"are not distinguishable from zero with the samples, settings, materials, and procedure employed here\".",
+    "study": {
+      "cite": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., Skulborstad, H. M., Allen, J. M., Banks, J. B., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82. The power and perspective taking section is 4.5.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "year": 2016,
+      "sites": 20,
+      "n": 2969
+    },
+    "original": {
+      "es": 0.77,
+      "esType": "d",
+      "ci": [0.12, 1.41],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": 0.03,
+      "esType": "d",
+      "ci": [-0.04, 0.1],
+      "ciLevel": 95,
+      "weighting": "aggregate analysis of the pooled replication data"
+    }
+  },
+  "limits": "The verdict covers one experiment. Many Labs 3 repeated Experiment 2a and nothing else from the paper, so the E-drawing result, the emotion-recognition result and the correlational study are untested by it. Searches of Crossref, Europe PMC, OpenAlex and web search for a direct repeat of the E-drawing experiment turned up none. Galinsky, Rucker and Magee published a two-page reply, \"Power and perspective-taking: A critical examination\", in the same issue of the journal. It is closed at the publisher, has no repository copy according to Unpaywall, and nothing on this page is taken from it, so a reader who wants the original authors' answer has to obtain it separately. The evidence here is about a writing prime and not about holding power. Sturm and Antonakis argue that the recall task is not ecologically valid and that it tells participants what the experiment is about, so a high-power essay invokes a script the participant then completes. On their account the demand effect correlates positively with the treatment, and whether a result comes from the manipulation or from the participant doing what is asked cannot be settled. They also note that the usual manipulation check counts power themes in the essay, which establishes that the participant wrote what they were told to write and not that anything was induced. Their preferred alternatives are subtler primes of the kind Chen and colleagues used, and designs from experimental economics that hand people real stakes. The E-drawing measure carries a confound the original authors flag themselves. Hass pointed out when he introduced the task in 1984 that handedness can affect which way the letter comes out. Experiment 1 controls for it among 49 right-handed and 8 left-handed participants.",
+  "misreadings": "The commonest error is to attach the replication failure to the wrong experiment. The E on the forehead is Experiment 1. What Many Labs 3 repeated is Experiment 2a, the restaurant email, a different task with a different logic. Saying that the E study failed to replicate states something no source on this page supports. The second error is to read the finding as a fact about powerful people. Every experiment above manipulated a feeling by asking for an essay, and rank, role and standing are a separate question. Blader, Shirako and Chen make the sharpest version of the point across five studies. They predict and find that high status raises perspective taking while high power lowers it, and treat the two as distinct bases of hierarchy. Their evidence comes from one team, which is worth holding against the 20 pools that produced the null above. The third error is to treat the direction as settled even for the prime. Schmid Mast, Jonas and Hall ran four studies, one of them using the same recall prime on 96 participants. High power produced more interpersonal sensitivity than low power in all four, with feeling respected and proud partly accounting for it. That result runs against Experiment 3 rather than against Experiment 2a, and the two are not in competition for the same evidence. A last point connects to entry 437 on automatic perspective taking, where the same broad question about what a perspective-taking measure measures was answered by putting a lightbulb where the other mind had been. A task can be named for perspective taking and be driven by something else, and that possibility is live for the E as well as for the ball.",
+  "sources": [
+    {
+      "text": "Galinsky, A. D., Magee, J. C., Inesi, M. E., & Gruenfeld, D. H. (2006). Power and perspectives not taken. Psychological Science, 17(12), 1068-1074. Every original figure on this page was read from the full text.",
+      "doi": "10.1111/j.1467-9280.2006.01824.x",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/Galinsky_et_al_Power-and-Perspectives-Not-Taken.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Ebersole, C. R., Atherton, O. E., Belanger, A. L., Skulborstad, H. M., Allen, J. M., Banks, J. B., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "url": "https://existentialpsych.sites.tamu.edu/wp-content/uploads/sites/152/2016/09/Many-Labs-3.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Galinsky, A. D., Rucker, D. D., & Magee, J. C. (2016). Power and perspective-taking: A critical examination. Journal of Experimental Social Psychology, 67, 91-92. The original authors' reply to Many Labs 3. Closed at the publisher with no repository copy located, and nothing in this entry is taken from it.",
+      "doi": "10.1016/j.jesp.2015.12.002",
+      "url": "https://doi.org/10.1016/j.jesp.2015.12.002",
+      "type": "commentary"
+    },
+    {
+      "text": "Sturm, R. E., & Antonakis, J. (2015). Interpersonal power: A review, critique, and research agenda. Journal of Management, 41(1), 136-163. Read from the author copy hosted at Southeastern Oklahoma State University.",
+      "doi": "10.1177/0149206314555769",
+      "url": "https://homepages.se.edu/cvonbergen/files/2013/01/Interpersonal-Power-A-Review-Critique-and-Research-Agenda.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Blader, S. L., Shirako, A., & Chen, Y.-R. (2016). Looking out from the top: Differential effects of status and power on perspective taking. Personality and Social Psychology Bulletin, 42(6), 723-737. Described here from its abstract at PubMed; the full text was not obtained.",
+      "doi": "10.1177/0146167216636628",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27036500/",
+      "type": "secondary"
+    },
+    {
+      "text": "Schmid Mast, M., Jonas, K., & Hall, J. A. (2009). Give a person power and he or she will show interpersonal sensitivity: The phenomenon and its why and when. Journal of Personality and Social Psychology, 97(5), 835-850. Described here from its abstract at PubMed; the full text was not obtained.",
+      "doi": "10.1037/a0016234",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19857005/",
+      "type": "secondary"
+    },
+    {
+      "text": "Hass, R. G. (1984). Perspective taking and self-awareness: Drawing an E on your forehead. Journal of Personality and Social Psychology, 46(4), 788-798. Named by Galinsky and colleagues as the source of the task and of the handedness caveat; closed at the publisher and not read for this entry.",
+      "doi": "10.1037/0022-3514.46.4.788",
+      "url": "https://doi.org/10.1037/0022-3514.46.4.788",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
