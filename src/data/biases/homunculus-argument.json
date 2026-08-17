@@ -1,0 +1,96 @@
+{
+  "no": 534,
+  "slug": "homunculus-argument",
+  "name": "Homunculus argument",
+  "aliases": [
+    "Homunculus fallacy",
+    "Cartesian theatre",
+    "Cartesian materialism"
+  ],
+  "category": "belief",
+  "statement": "Explaining a mental capacity by putting inside the person an agent that already has it postpones the explanation instead of giving one.",
+  "meaning": "This is a charge against a form of explanation, not a measured effect. Seeing gets explained by an inner viewer of an inner picture, deciding by an inner decider, understanding by an inner reader. Each inner agent then needs the account that was owed in the first place, and the regress is the diagnostic rather than the complaint. Daniel Dennett's dictionary definition puts the test as whether the theory 'risks an infinite regress', since one can ask whether there is a little man in the little man's head. Two mistakes travel under the one name and Daniel De Haan separates them. The first is ascribing to a part what can only be said of the whole animal, which Maxwell Bennett and Peter Hacker call the mereological fallacy. The second is offering as the explanation a thing that reintroduces what was to be explained. Kenny's own formulation covers the first, his examples turn on the second, and the two come apart.",
+  "origin": {
+    "year": 1971,
+    "who": "Anthony Kenny",
+    "where": "Interpretations of Life and Mind, edited by Marjorie Grene",
+    "note": "Kenny's essay names the charge. Quoted by De Haan and by Hans-Johann Glock from the 1984 reprint, it reads: 'I shall call the reckless application of human-being predicates to insufficiently human-like objects the \"homunculus fallacy\", since its most naive form is tantamount to the postulation of a little man within a man to explain human experience and behaviour.' Kenny's text was not obtained for this entry and both quotations here are at one remove. The essay runs to pages 65 to 74 of the Grene volume and was reprinted at pages 125 to 136 of The Legacy of Wittgenstein in 1984, which is the pagination both later papers cite. The argument is older than the name, and Ryle's 1949 regress is the version usually meant by it. No earlier use of the phrase was found in the searches described below."
+  },
+  "evidence": "Ryle's version does not mention little men. Chapter 2 of The Concept of Mind attacks what he calls the intellectualist legend, the doctrine that an intelligent act is always preceded and steered by an inner act of considering the right proposition. His objection, at page 19 of the sixtieth anniversary edition read here, is that considering a proposition is itself an operation that can be done well or badly, so the legend requires a prior intelligent operation for every intelligent operation. 'If they had to plan what to think before thinking it they would never think at all; for this planning would itself be unplanned.' He closes at page 20: 'The regress is infinite, and this reduces to absurdity the theory that for an operation to be intelligent it must be steered by a prior intellectual operation.' The word homunculus appears nowhere in that edition, and Ryle's target is an inner operation rather than an inner person. Kenny's target is the person. On his account the trouble with Descartes on vision is that 'exactly the same sorts of problems arise about Descartes' explanation as about his explicandum', so the fallacy 'conceals what is left to be explained'. Dennett gave the perceptual version its modern name. Writing with Marcel Kinsbourne in Behavioral and Brain Sciences in 1992, he calls the residue that survives when Descartes' dualism is dropped Cartesian materialism, the view that keeps 'the associated imagery of a central (but material) theater where \"it all comes together\"'. Their objection is double. As they put it, nothing in the functional neuroanatomy of the brain suggests such a general meeting place, and positing the centre 'would apparently be the first step in an infinite regress of too-powerful homunculi'. Their alternative is the Multiple Drafts model, in which a discrimination once made does not have to be sent anywhere to be discriminated again by a master discriminator. The other half of Dennett's position is a licence. Brainstorms, in 1978, argues that homunculi 'are bogeymen only if they duplicate entire the talents they are rung in to explain. If one can get a team or committee of relatively ignorant, narrow-minded, blind homunculi to produce the intelligent behavior of the whole, this is progress.' Nesting the boxes far enough 'lands you with homunculi so stupid ... that they can be, as one says, \"replaced by a machine\"'. Those two sentences come from pages 123 and 124 and are quoted here from Stephen Stich's 1980 review, which Dennett answers in the same issue with 'I have no quarrel with Stich's summary of my views', and from Dennett's own entry in the Cambridge Dictionary of Philosophy. He restates the licence in Cognition in 2001: 'As long as your homunculi are more stupid and ignorant than the intelligent agent they compose, the nesting of homunculi within homunculi can be finite, bottoming out, eventually, with agents so unimpressive that they can be replaced by machines.' Both halves sit in that one paper, which also says that in the brain there is 'no King, no Official Viewer of the State Television Program, no Cartesian Theater'.",
+  "replication": {
+    "state": "none-located",
+    "headline": "There is no effect here to repeat, and no experiment on the charge was found. The nearest measured question is where in the brain conscious content is carried, and a preregistered test on 256 people found it in several places at once.",
+    "detail": "The search covered Crossref by bibliographic query for the homunculus fallacy, the homunculus argument and the Kenny essay, Europe PMC for both phrases, the Tufts Digital Library holdings of Dennett's papers, the Internet Archive, and general web search. Europe PMC returns 20 records for 'homunculus fallacy' and one for 'homunculus argument'. The two of them read for this entry, Glock's paper and De Haan's, argue about the charge rather than test it. Crossref returns commentary, a legal paper and a paper in the history of economics, and no Kenny record at all. What can be measured is the empirical claim Dennett and Kinsbourne attach to the argument, that there is no place where it all comes together. The Cogitate Consortium ran a preregistered adversarial test of global neuronal workspace theory against integrated information theory, with 256 participants viewing suprathreshold stimuli for variable durations while activity was recorded by functional magnetic resonance imaging, magnetoencephalography and intracranial electroencephalography. They found information about conscious content in visual, ventrotemporal and inferior frontal cortex, sustained responses in occipital and lateral temporal cortex tracking stimulus duration, and content-specific synchronisation between frontal and early visual areas. Both theories took damage: integrated information theory from a lack of sustained synchronisation within the posterior cortex, and global neuronal workspace theory from the general lack of ignition at stimulus offset and the limited representation of some conscious dimensions in the prefrontal cortex. That study was designed to separate two theories, not to test a philosophical charge, and it is reported here as the nearest thing measured. The other neighbour is the readiness potential, which has its own entry on this site."
+  },
+  "limits": "The charge does not decide any particular case, and Dennett's own work shows why. Brainstorms worries at page 216 that a modeller can appear to make progress by devising lesser homunculi for menial jobs while 'driving into the center of our system an all-powerful executive homunculus whose duties require an almost Godlike omniscience'. Whether a decomposition has done that is a judgement about the model, and the regress argument does not supply it. There is also a dispute about what kind of error this is. Glock records that the neo-Aristotelians concede it is not strictly a fallacy, since it is an illicit predication rather than an invalid argument, though it leads to invalid inferences. Dennett goes further and denies there is an error at all in the cases Bennett and Hacker press on him, writing that subsystems are credited with an attenuated sort of belief and desire, 'stripped of many of their everyday connotations', and that the resulting descent is 'a finite, not infinite, regress that bottoms out when we reach agents so stupid that they can be replaced by a machine'. Two documents could not be obtained. Kenny's essay was not found in any open location through Crossref, the Internet Archive or web search, and everything attributed to him here is quoted from De Haan or Glock. Consciousness Explained was not read: the Internet Archive copies are lending items whose text and search-inside endpoints returned nothing to these checks, so the book is cited for nothing, and the material above comes from Dennett's journal papers of 1992, 1994 and 2001, his 1995 dictionary entries and his 2007 reply to Bennett and Hacker.",
+  "misreadings": "The retellings keep the debunking and drop the licence, which reverses Dennett's position. He does not hold that inner agents are illegitimate; he holds that they are legitimate exactly when each one is stupider than the thing it helps compose, and he describes the method of artificial intelligence as 'the gradual elimination of the intentional through a cascade of homunculi' until all of them 'have been discharged, replaced by machines'. Second, the Cartesian theatre is a claim about a place, not only about a little person. What Dennett and Kinsbourne attack is the idea of a centre where presentation is completed, and a theory can commit to that without any homunculus in it. Third, the charge is treated as identical to the mereological fallacy. De Haan separates them: ascribing seeing to a part of an animal is one mistake, and explaining seeing by an inner seer is another, and a theory can make either without the other. Fourth, Libet's finding is read as putting us in the theatre with a delay, watching decisions taken elsewhere. Dennett and Kinsbourne call that picture 'compelling but incoherent', because the veto it leaves us would itself be a conscious decision needing the same treatment. Fifth, the argument is often stated as though every inner agent starts an infinite regress. The regress is infinite only if each level repeats the capacity of the level above.",
+  "sources": [
+    {
+      "text": "Ryle, G. (1949). The Concept of Mind. London: Hutchinson. Read here in the sixtieth anniversary edition, Routledge, 2009, with the commentary by Julia Tanney; the regress passages are at pages 19 and 20.",
+      "doi": "10.4324/9780203875858",
+      "url": "https://doi.org/10.4324/9780203875858",
+      "type": "primary"
+    },
+    {
+      "text": "Kenny, A. (1971). The homunculus fallacy. In M. Grene (Ed.), Interpretations of Life and Mind (pp. 65-74). London: Routledge and Kegan Paul. Reprinted in The Legacy of Wittgenstein (1984), pp. 125-136. Not obtained; quoted here from De Haan (2019) and Glock (2020).",
+      "url": "https://philpapers.org/rec/KENTHF",
+      "type": "primary"
+    },
+    {
+      "text": "Dennett, D. C., & Kinsbourne, M. (1992). Time and the observer: The where and when of consciousness in the brain. Behavioral and Brain Sciences, 15(2), 183-247. Read from the scan of the published article held in the Daniel C. Dennett papers at Tufts.",
+      "doi": "10.1017/S0140525X00068229",
+      "url": "https://dl.tufts.edu/concern/pdfs/wp988x36n",
+      "type": "primary"
+    },
+    {
+      "text": "Dennett, D. C. (2001). Are we explaining consciousness yet? Cognition, 79(1-2), 221-237. Read from Dennett's final draft at Tufts, paginated to the published version.",
+      "doi": "10.1016/S0010-0277(00)00130-X",
+      "url": "https://dl.tufts.edu/concern/pdfs/3197xz197",
+      "type": "primary"
+    },
+    {
+      "text": "Dennett, D. C. (1995). Definitions of homunculus, intentionality, Mentalese, mentalism, and topic-neutral. In R. Audi (Ed.), Cambridge Dictionary of Philosophy, p. 337 for homunculus. Dennett's own definition, quoting Brainstorms.",
+      "url": "https://dl.tufts.edu/concern/pdfs/b27746887",
+      "type": "primary"
+    },
+    {
+      "text": "Stich, S. P. (1980). Headaches: a critical notice of Brainstorms. Philosophical Books, 21(2), 65-73, with Dennett's reply at 73-76. The source of the Brainstorms quotations at pages 123 and 124; no DOI was found for it at Crossref.",
+      "url": "https://dl.tufts.edu/concern/pdfs/q237j4495",
+      "type": "commentary"
+    },
+    {
+      "text": "Dennett, D. C. (1978). Toward a cognitive theory of consciousness. In Brainstorms. The executive homunculus worry is at page 216 of the scan.",
+      "url": "https://dl.tufts.edu/concern/pdfs/0c483w54g",
+      "type": "primary"
+    },
+    {
+      "text": "Dennett, D. C. (1994). Cognitive science as reverse engineering: several meanings of 'top-down' and 'bottom-up'. In D. Prawitz, B. Skyrms & D. Westerstahl (Eds.), Logic, Methodology and Philosophy of Science IX, pp. 680-689.",
+      "url": "https://dl.tufts.edu/concern/pdfs/5h73q692x",
+      "type": "primary"
+    },
+    {
+      "text": "Dennett, D. C. (2007). Philosophy as naive anthropology: comment on Bennett and Hacker. In M. Bennett, D. Dennett, P. Hacker & J. Searle, Neuroscience and Philosophy: Brain, Mind, and Language. New York: Columbia University Press.",
+      "url": "https://dl.tufts.edu/concern/pdfs/rx914152b",
+      "type": "primary"
+    },
+    {
+      "text": "De Haan, D. (2019). McGilchrist's hemispheric homunculi. Religion, Brain & Behavior, 9(4), 368-379. Open access; the source of the Kenny quotations and of the split between the homunculus and mereological charges.",
+      "doi": "10.1080/2153599X.2019.1604417",
+      "url": "https://doi.org/10.1080/2153599X.2019.1604417",
+      "type": "commentary"
+    },
+    {
+      "text": "Glock, H.-J. (2020). Minds, brains, and capacities: situated cognition and neo-Aristotelianism. Frontiers in Psychology, 11, 566385.",
+      "doi": "10.3389/fpsyg.2020.566385",
+      "url": "https://doi.org/10.3389/fpsyg.2020.566385",
+      "type": "commentary"
+    },
+    {
+      "text": "Cogitate Consortium, Ferrante, O., Gorska-Klimowska, U., Henin, S., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. Nature, 642(8066), 133-142.",
+      "doi": "10.1038/s41586-025-08888-1",
+      "url": "https://doi.org/10.1038/s41586-025-08888-1",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
