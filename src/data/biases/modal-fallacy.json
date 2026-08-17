@@ -1,0 +1,117 @@
+{
+  "no": 547,
+  "slug": "modal-fallacy",
+  "name": "Modal fallacy",
+  "aliases": [
+    "Modal scope fallacy"
+  ],
+  "category": "belief",
+  "statement": "The modal fallacy moves a necessity operator from a whole conditional onto its consequent, so what follows necessarily from a supposition is read as necessary in itself.",
+  "meaning": "Two sentences that sound alike in English say different things. 'Necessarily, if p then q' puts the necessity on the link between p and q. 'If p then necessarily q' puts it on q alone. The first, with p, gives q. It does not give necessarily q. Norman Swartz sets the difference out with a family: if Paul has one daughter and two sons then he has to have at least one son, and Paul does have two sons, yet 'he does not have to have any', since how many children he has is contingent. Swartz writes that English tends to move the operator, 'which, as it were, applies to the entire conditional sentence, inside the sentence, more exactly, onto the consequent', and that the fallacy consists in 'constricting the scope of the necessity from the entire conditional (wide scope) to just its consequent (narrow scope)'. This page is about that scope error. Several other things are called modal fallacies, and they are listed under misreadings rather than treated here.",
+  "origin": {
+    "year": 1993,
+    "who": "Norman Swartz",
+    "where": "Simon Fraser University, course notes titled \"'The' Modal Fallacy\"",
+    "note": "The notes carry the line 'Copyright © Norman Swartz 1993, 1999, 2010, 2011' and a revision date of 21 July 2011, which is the earliest date attached to the label in any document opened for this entry rather than a claim of priority. The distinction the label names is far older. Boethius drew it in the sixth century and Aquinas in the thirteenth, and neither used this name. The Fallacy Files credits the term to Swartz and to Bradley and Swartz's Possible Worlds (Hackett, 1979), pp. 330-332, a book not read here."
+  },
+  "evidence": "The distinction has a long textual record. Boethius, in Book V of the Consolation of Philosophy, writes that 'there are two necessities, one simple, as that men are necessarily mortal; the other conditioned, as that, if you know that someone is walking, he must necessarily be walking', and adds that the conditioned kind 'is not imposed by the thing's own proper nature, but by the addition of a condition'. Quotations are from H. R. James's translation. Aquinas states the argument being answered in the Summa Theologica, I, q. 14, a. 13, objection 2: 'every conditional proposition of which the antecedent is absolutely necessary must have an absolutely necessary consequent', applied to 'If God knew that this thing will be, it will be'. His reply to objection 3 splits the sentence 'Everything known by God must necessarily be' in two. Read of the thing 'it is divided and false', read of the saying 'it is composite and true'. Swartz's encyclopedia article gives the modern reconstruction. Maimonides' argument runs from God knowing what a person will do to that person being compelled, and Swartz shows the step needs a third premise, gKD ⊃ ☐D, which he holds is false and commits the fallacy. Without it the argument is invalid, and with it 'the argument becomes valid but unsound'. On where the label lives, a Crossref title search for 'modal fallacy' returned four records: Lewis on Parmenides in Phronesis, Westphal on van Inwagen in Analysis, a chapter on Goodman, and a chapter on Tarski. None concerns foreknowledge. The string does not occur in the text of either Stanford Encyclopedia entry read for this page, on fatalism and on foreknowledge and free will. It is a taxonomic heading at The Fallacy Files, where 'Modal Scope Fallacy' sits under 'Fallacy of Modal Logic' and carries 'The Modal Fallacy' as an alias. On the psychology, the nearest work measures how people handle necessity and possibility, not how they place the operator. Bell and Johnson-Laird gave 20 Princeton undergraduates two-premise problems about a one-on-one basketball game and asked whether a player can or must be in the game. Correct 'yes' answers ran at 91% for possibility questions and 71% for necessity questions, with 65% and 81% for correct 'no' answers. Evans, Handley, Harper and Johnson-Laird tested 120 Plymouth undergraduates, 60 asked whether conclusions were necessary and 60 whether they were possible, then ran the same people on all syllogistic premise and conclusion pairs. Endorsement was higher under possibility instructions, F(1, 118) = 50.89, p < .001. Their striking result is that some fallacies are made and others withheld. Ninety percent of participants judged that 'some A are not C' follows necessarily from 'all A are B' and 'some B are not C', which it does not, and judgements of possibility were also 90%. For 'all C are A' from 'some A are B' and 'all C are B', only 3% said necessary and 43% said possible. A third experiment on 80 students was run to check that the split was reliable.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment putting the scope error itself to participants was located, and the modal-reasoning experiments that exist ask a different question.",
+    "detail": "The claim on this page is a claim about a form of argument, so what a replication would be is not obvious. The nearest testable version is whether people read 'necessarily, if p then q' as licensing 'necessarily q', and no study doing that was found. Searches covered Crossref by bibliographic query and by title, for 'modal fallacy', 'modal scope', conditional necessity with participants, modal scope ambiguity with negation, and children's reasoning about necessity and possibility, together with open web search for experimental work on foreknowledge and fatalism intuitions. What the searches returned was the mental-model literature on necessity and possibility described above, which measures endorsement rates for modal conclusions rather than operator placement. Quelhas, Rasga and Johnson-Laird open their 2024 paper on quantified modal inference with the statement that 'no previous psychological study of them appears to be in the literature', which is their assessment of their own topic and is quoted here from the abstract. Neither Bell and Johnson-Laird's 20 participants nor the 120 in Evans and colleagues' first two experiments were asked anything about the scope of a necessity operator over a conditional."
+  },
+  "limits": "Whether the classic case is a fallacy at all is disputed by the philosophers who work on it, and this page takes no side. Hugh Rice, writing on fatalism for the Stanford Encyclopedia, notes that the move from truth to necessity 'looks, indeed, suspiciously like a fallacious move' of exactly this shape, then says 'such suspicions are probably ill-founded' and offers a reading on which the argument turns on a correspondence theory of truth instead. David Hunt and Linda Zagzebski, writing on foreknowledge and free will for the same encyclopedia, set out a ten-step argument for theological fatalism and report 'a consensus that this argument or something close to it is valid', which leaves the compatibilist to attack a premise rather than the logic. Their candidates are the supposition of infallible foreknowledge, the necessity of the past, the transfer principle and the principle of alternate possibilities. The transfer principle they defend against counterexample is not the one the fallacy charge targets: it moves the fixed, accidental necessity of the past across an entailment, and they state that the logical version, box p and box (p implies q) therefore box q, is valid. So the charge of a scope error and the modern argument it is aimed at are not obviously about the same premise. Swartz's own note warns that a nonvalid form in an artificial language does not prove the original argument invalid, since the reconstruction may lose content. Nothing on this page is quantitative about the fallacy itself. Bradley and Swartz's Possible Worlds was not obtained. Westphal's Analysis paper and Lewis's Phronesis paper were identified through Crossref and not read, so they are cited only for the fact that the phrase appears in journal titles. The full text of Quelhas, Rasga and Johnson-Laird was not obtained; the publisher returned 403 and no repository copy was found, so only the abstract is used.",
+  "misreadings": "The commonest error is to treat the name as a verdict. A fallacy list can show that one reading of an argument is invalid, and the philosophical literature on foreknowledge is a dispute about which premise is false, not about whether a box can be moved. The second error is to assume everyone means the same thing by the phrase. The Fallacy Files makes 'Fallacy of Modal Logic' the parent category and the scope error a subfallacy, so under the wider heading fall confusions of alethic, temporal, deontic and epistemic modality alike. Swartz's own notes file the grandfather-paradox argument against time travel, an argument against omnipotence, the argument that knowledge requires certainty and the argument from foreknowledge together under the one label. His deontic case is Forrester's paradox: it is obligatory that if Smith murders Jones he does so gently, Smith is going to murder Jones, therefore Smith is obliged to murder Jones. Swartz reads this as the operator sliding onto the consequent again, where the deontic logicians took it as a problem in its own right, with Sinnott-Armstrong offering a solution in 1985 and Goble reporting in 1991 that the paradox deepens. The third error is to read the psychology as a measurement of this fallacy. Evans and colleagues found people endorsing conclusions that are only possible as necessary, at 90% for one syllogism, which is a failure to look for a counterexample rather than a misplaced operator. One citation in Swartz's notes is worth correcting. He attributes the report of Forrester's paradox to 'Paradoxes, by R.M. Stanley, Cambridge University Press, 1988'. The book of that title and year from that publisher is by R. M. Sainsbury. The Forrester citation itself, Journal of Philosophy volume 81, 1984, pages 193 to 197, resolves at Crossref and is correct.",
+  "sources": [
+    {
+      "text": "Swartz, N. \"Foreknowledge and Free Will\". Internet Encyclopedia of Philosophy. Read in full as raw HTML, downloaded twice. Source for the Maimonides reconstruction, the third premise gKD ⊃ ☐D, and the sentence that the error 'has come to bear the name The Modal Fallacy'.",
+      "url": "https://iep.utm.edu/foreknow/",
+      "type": "primary"
+    },
+    {
+      "text": "Swartz, N. \"'The' Modal Fallacy\". Simon Fraser University, copyright 1993, 1999, 2010, 2011, revised 21 July 2011. Read in full as raw HTML, downloaded twice. Source for the Paul example, the wide and narrow scope wording, the Forrester case and the note on nonvalid forms.",
+      "url": "https://www.sfu.ca/~swartz/modal_fallacy.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Boethius. The Consolation of Philosophy, translated by H. R. James, Book V. Read as the plain-text Project Gutenberg edition, eBook 14328, downloaded twice. Source for the two necessities, simple and conditioned.",
+      "url": "https://www.gutenberg.org/cache/epub/14328/pg14328.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Thomas Aquinas. Summa Theologica, I, q. 14, a. 13, in the Fathers of the English Dominican Province translation. Read as raw HTML at New Advent, downloaded twice. Source for objection 2 on the absolutely necessary consequent and for the divided and composite senses in the reply to objection 3.",
+      "url": "https://www.newadvent.org/summa/1014.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Rice, H. (2023). \"Fatalism\". Stanford Encyclopedia of Philosophy, first published 2002, substantive revision 23 February 2023. Read in full as raw HTML, downloaded twice. Source for the suspected fallacious move and for the judgement that the suspicion is probably ill-founded.",
+      "url": "https://plato.stanford.edu/entries/fatalism/",
+      "type": "commentary"
+    },
+    {
+      "text": "Hunt, D., & Zagzebski, L. (2026). \"Foreknowledge and Free Will\". Stanford Encyclopedia of Philosophy, first published 2004, substantive revision 17 February 2026. Read in full as raw HTML, downloaded twice. Source for the ten-step argument, the consensus on its validity and the transfer of necessity section.",
+      "url": "https://plato.stanford.edu/entries/free-will-foreknowledge/",
+      "type": "commentary"
+    },
+    {
+      "text": "Curtis, G. N. \"Modal Scope Fallacy\" and \"Fallacy of Modal Logic\". The Fallacy Files. Read as raw HTML. Source for the taxonomy, the alias, and the credit to Swartz and to Bradley and Swartz's Possible Worlds.",
+      "url": "https://www.fallacyfiles.org/modlscop.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Bell, V. A., & Johnson-Laird, P. N. (1998). A model theory of modal reasoning. Cognitive Science, 22(1), 25-51. Read as the PDF at modeltheory.org, downloaded twice. Source for the 20 participants and the percentages in its Table 3.",
+      "doi": "10.1207/s15516709cog2201_2",
+      "url": "http://www.modeltheory.org/papers/1998modal.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Evans, J. St. B. T., Handley, S. J., Harper, C. N. J., & Johnson-Laird, P. N. (1999). Reasoning about necessity and possibility: A test of the mental model theory of deduction. Journal of Experimental Psychology: Learning, Memory, and Cognition, 25(6), 1495-1513. Read as the PDF at modeltheory.org, downloaded twice. Source for the 120 and 80 participants, the F value and the 90%, 3% and 43% figures.",
+      "doi": "10.1037/0278-7393.25.6.1495",
+      "url": "http://modeltheory.org/papers/1999necc&prob.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Quelhas, A. C., Rasga, C., & Johnson-Laird, P. N. (2024). Reasoning from quantified modal premises. Cognitive Science, 48(8), e13485. Publisher returned 403 and no repository copy was found; the quoted sentence is from the abstract in the Crossref record, fetched twice.",
+      "doi": "10.1111/cogs.13485",
+      "url": "https://doi.org/10.1111/cogs.13485",
+      "type": "primary"
+    },
+    {
+      "text": "Lewis (2009). Parmenides' Modal Fallacy. Phronesis, 54, 1-8. Identified through a Crossref title search and not read. Cited for the appearance of the phrase in a journal title; Crossref records only the family name.",
+      "doi": "10.1163/156852808x375228",
+      "url": "https://doi.org/10.1163/156852808x375228",
+      "type": "provenance"
+    },
+    {
+      "text": "Westphal, J. (2011). Is there a modal fallacy in van Inwagen's 'First Formal Argument'? Analysis, 72, 36-41. Identified through a Crossref title search and not read. Cited for the appearance of the phrase in a journal title.",
+      "doi": "10.1093/analys/anr138",
+      "url": "https://doi.org/10.1093/analys/anr138",
+      "type": "provenance"
+    },
+    {
+      "text": "Forrester, J. W. (1984). Gentle murder, or the adverbial Samaritan. The Journal of Philosophy, 81(4), 193-197. Verified at Crossref; the article was not read.",
+      "doi": "10.2307/2026120",
+      "url": "https://doi.org/10.2307/2026120",
+      "type": "provenance"
+    },
+    {
+      "text": "Sinnott-Armstrong, W. (1985). A solution to Forrester's paradox of gentle murder. Journal of Philosophy, 82, 162-168. Verified at Crossref; not read. Cited for the existence of a deontic-logic literature on the case.",
+      "doi": "10.2307/2026353",
+      "url": "https://doi.org/10.2307/2026353",
+      "type": "provenance"
+    },
+    {
+      "text": "Goble, L. (1991). Murder most gentle: The paradox deepens. Philosophical Studies, 64(3), 217-227. Verified at Crossref; not read. Cited for the existence of a deontic-logic literature on the case.",
+      "doi": "10.1007/bf00404830",
+      "url": "https://doi.org/10.1007/bf00404830",
+      "type": "provenance"
+    },
+    {
+      "text": "Cargile, J. (1990). Paradoxes by R. M. Sainsbury, Cambridge University Press, 1988. Philosophy. Verified at Crossref and used only to establish the author and publisher of the book Swartz cites as by R. M. Stanley.",
+      "doi": "10.1017/s0031819100064329",
+      "url": "https://doi.org/10.1017/s0031819100064329",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
