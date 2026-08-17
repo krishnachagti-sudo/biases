@@ -1,0 +1,59 @@
+{
+  "no": 537,
+  "slug": "invincible-ignorance-fallacy",
+  "name": "Invincible ignorance fallacy",
+  "aliases": ["Invincible ignorance", "Apriorism"],
+  "category": "belief",
+  "statement": "Refusing to look at any evidence against a position is named as a fallacy, though the book credited with naming it treats it as a cast of mind rather than a fault in an argument.",
+  "meaning": "The charge is about a person, not about a piece of reasoning. Fearnside and Holther put it in Part II of their book, under psychological fallacies, and the introduction to that part says plainly that if fallacy is going to mean faulty reasoning in argument, then these appeals and devices are not real fallacies. The section it sits in is called Biased Misconstructions, and the group is defined by the speaker having already deceived himself, so that anyone he beguiles he beguiles incidentally. Their own summary of the phenomenon is a cast of mind which seems peculiarly closed to evidence, where the facts are ignored or brushed aside as somehow deceptive and the principles reaffirmed. That is a claim about a disposition. It fixes what a test of the fallacy would have to measure, which is whether counter-evidence moves the person, and no test under that name was found.",
+  "origin": {
+    "year": 1959,
+    "who": "W. Ward Fearnside and William B. Holther",
+    "where": "Fallacy: The Counterfeit of Argument, Prentice-Hall, Englewood Cliffs",
+    "note": "The book lists it as fallacy 28, \"Apriorism: invincible ignorance\", and the running head in its table of contents pairs the two names. The authors do not present the phrase as their own. Their text reads that one seems confronted with what has been called invincible ignorance, which records a usage already in circulation rather than coining one. The theological sense is centuries older and means something close to the opposite."
+  },
+  "evidence": "The book argues its case from worked examples rather than from data. The chapter opens with Galileo inviting learned men to look at the moons of Jupiter, and their refusal on the ground that anything they saw would be an illusion, since astronomy had already fixed the number of the heavenly bodies. Three further examples are set out with commentary. A woman told that ten years of fluoridation cut tooth decay in schoolchildren by 60% replies that she opposes experimentation on human beings, children especially. A speaker declares that government regulation is a noose around the neck of initiative and that he is not even interested in hearing the reasons for uniform accounting rules. A union member deduces from the principle that companies exist to make money that three more weeks of negotiation would be wasted. The theological term the phrase came from is documented independently. Aquinas, in the Summa Theologiae, writes that ignorance of what a man is unable to know is called invincible because it cannot be overcome by study, and that no invincible ignorance is a sin. The 1910 Catholic Encyclopedia gives the same division, calling ignorance invincible when a person cannot rid himself of it despite moral diligence, and adding that such ignorance is involuntary and therefore not imputable. In that literature the word excuses the person. In the fallacy literature it accuses him.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study measuring this fallacy under its own name was found. The nearest measured thing is belief perseverance, where a retraction moved opinions back by d = 0.46 and still left them d = 0.80 from where they started.",
+    "detail": "Searches for empirical work under the name covered Crossref, OpenAlex, PubMed and open web search. Crossref returns the phrase in military ethics, moral theology, history and a physics essay, and PubMed returns two papers that use it in passing. None of them measures anything. The measured neighbour is belief perseverance, which has its own entry here. Siebert and Siebert gave 366 participants a fabricated study summary and two case studies on a firefighting question, then retracted them, measuring opinions four times. After the misinformation 312 participants, 85%, had shifted in the intended direction. The retraction moved opinions back, t(365) = 8.79, d = 0.46, and left them apart from where they began, t(365) = -15.26, d = 0.80, with 251 participants, 68.5% of the sample, still displaced. That is a partial failure of correction, not an immovable belief. The nearest thing to a measure of the refusal itself is Friesen, Campbell and Kay on unfalsifiability. Their abstract reports four experiments in which unfalsifiable framing lets religious adherents hold beliefs with more conviction and political partisans criticise opponents more extremely, and in which people shift towards unfalsifiable justifications when facts threaten them, construing a political question as moral opinion rather than a matter of facts. The paper is closed access and was not read beyond that abstract, so no figure from it appears here. No replication of it was found in its 82 citing works indexed by OpenAlex, in Crossref, or in open web search. Evidence in the other direction is stronger than the fallacy's name suggests. Anglin, Rath, Yuodsnukis and Miller report three preregistered experiments on capital punishment, gun control, and video games and aggression, in which participants shifted their beliefs towards the evidence and held the shift a day later, with the shift concentrated among those shown belief-inconsistent evidence. Their abstract, read at Crossref, adds that belief commitment, actively open-minded thinking, social desirability and affect were not associated with belief change, while perceived evidence quality and scientific certainty were."
+  },
+  "limits": "The authors hedge the fallacy harder than anyone who cites them. They write that whenever people predict from principles that something will or will not occur they are in a sense deducing facts in advance, and that it is hard to see where a line can be drawn between apriorism and ordinary prediction. They defend the astronomers, noting that optics was poorly understood, that nobody in Galileo's day could explain clearly how a telescope worked, and that cautious men were being asked to invest enormous intellectual capital in what might look like a conjurer's apparatus. Their section closes by saying they do not suppose there is a use of principle that is apriorist in itself. So the book supplies no criterion for telling the fallacy from prudence, and none has been located since. How the phrase crossed from moral theology to logic could not be traced. Searches of Crossref, OpenAlex, PubMed and the open web produced no account of who moved it or when, and the reference works that assert a migration cite the 1959 book without a chain of use behind it. Nothing here rests on a numbered study of the fallacy, because none was found.",
+  "misreadings": "It is not the argument from ignorance, which has its own entry and its own experiments. That one infers a claim from the absence of evidence against it, and people rate it as weak rather than worthless. This one is a refusal to look. The theological sense is not a milder version of the same idea, it is the reverse: Aquinas concludes that no invincible ignorance is a sin, and the 1910 encyclopedia calls it involuntary and therefore not imputable, because the person could not have known. Reference pages gloss the fallacy as a pigheaded denial of empirical facts in favour of preconceived notions. That wording is not in the section, which never calls anyone pigheaded; the book's two uses of pig-headed sit in its chapter on emotive language, offered as an example of pejorative connotation alongside firm and obstinate. The name also promises more than the evidence carries. Corrections do move people, in the belief perseverance studies and in the preregistered work on scientific evidence, so an ignorance that no fact can touch is a description of a rhetorical impasse rather than a measured state.",
+  "sources": [
+    {
+      "text": "Fearnside, W. W., & Holther, W. B. (1959). Fallacy: The Counterfeit of Argument. Englewood Cliffs, NJ: Prentice-Hall. Library of Congress catalog card 59-9517. Fallacy 28 is \"Apriorism: invincible ignorance\". Read in full text from a scanned transcription; every quotation above comes from that document.",
+      "url": "https://archive.org/details/FallacyTheCounterfeitOfArgumentByWWardFearnsideAndWilliamBHolther",
+      "type": "primary"
+    },
+    {
+      "text": "Aquinas, T. Summa Theologiae, First Part of the Second Part, Question 76, Article 2. Translated by the Fathers of the English Dominican Province, second and revised edition, 1920. The source for the wording that no invincible ignorance is a sin.",
+      "url": "https://www.newadvent.org/summa/2076.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Delany, J. (1910). Ignorance. In The Catholic Encyclopedia, Vol. 7. New York: Robert Appleton Company. The source for the vincible and invincible division and for the phrase involuntary and therefore not imputable.",
+      "url": "https://www.newadvent.org/cathen/07648a.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Siebert, J., & Siebert, J. U. (2023). Effective mitigation of the belief perseverance bias after the retraction of misinformation: Awareness training and counter-speech. PLOS ONE, 18(3), e0282202. Figures read from the article XML.",
+      "doi": "10.1371/journal.pone.0282202",
+      "url": "https://doi.org/10.1371/journal.pone.0282202",
+      "type": "replication"
+    },
+    {
+      "text": "Friesen, J. P., Campbell, T. H., & Kay, A. C. (2015). The psychological advantage of unfalsifiability: The appeal of untestable religious and political ideologies. Journal of Personality and Social Psychology, 108(3), 515-529. Closed access; described here from the abstract at PubMed, and no figure from it is quoted.",
+      "doi": "10.1037/pspp0000018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25402678/",
+      "type": "replication"
+    },
+    {
+      "text": "Anglin, S. M., Rath, M., Yuodsnukis, B. T., & Miller, A. (2025). Predictors and persistence of belief change in response to scientific evidence: A replication and extension of Anglin (2019). Collabra: Psychology, 11(1). The article page returned 403 on this pass; described here from the abstract at Crossref.",
+      "doi": "10.1525/collabra.133914",
+      "url": "https://doi.org/10.1525/collabra.133914",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
