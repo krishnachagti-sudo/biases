@@ -2,21 +2,21 @@
   "no": 18,
   "slug": "question-order-effect",
   "name": "Question order effect",
-  "aliases": ["Assimilation and contrast in surveys", "Part-whole question sequence effect", "Order effect"],
+  "aliases": ["Assimilation and contrast in surveys", "Part-whole question sequence effect", "Item-order effect", "Order effect"],
   "category": "belief",
-  "statement": "Asking about one part of someone's life before asking about their life as a whole is said to change what the general answer means.",
-  "meaning": "Survey answers are assembled on the spot from whatever is in mind, so the previous question is part of the instrument. The classic version pairs a specific question with a general one: how satisfied are you with your relationship, and how satisfied are you with your life. Ask the specific one first and the relationship is loaded and ready, so it feeds into the general answer and the two responses correlate strongly. Ask it second and the general answer draws on whatever else was available, so the correlation is weak. Schwarz and colleagues explained this through conversational logic: a respondent who has just discussed their relationship may also read the later general question as being about everything else.",
+  "statement": "What a survey answer means depends on the questions asked before it, and a specific question asked first is said to reshape a later general one.",
+  "meaning": "Two claims travel under this name and they have different evidence behind them. The broad one is that the questions preceding an item change the answers to it, which survey methodologists test by splitting a sample and putting the same pair of questions in opposite orders. The narrow one is Schwarz, Strack and Mai's part-whole prediction about correlations. Ask people how satisfied they are with their relationship and then with life as a whole, and the relationship is loaded and ready, so it feeds the general answer and the two correlate strongly. Ask the general question first and the correlation is weak. Their explanation is conversational rather than mechanical. A respondent who has just been asked about their relationship, and who takes both questions to belong to one exchange, may read the general question as being about everything else, and the correlation collapses again. The 1991 paper tests that reading directly and finds it.",
   "origin": {
     "year": 1991,
     "who": "Norbert Schwarz, Fritz Strack and Hans-Peter Mai",
     "where": "Public Opinion Quarterly",
-    "note": "Their paper is \"Assimilation and Contrast Effects in Part-Whole Question Sequences: A Conversational Logic Analysis\". Order effects in surveys were documented long before it; what this study added was a mechanism and a specific prediction about correlations."
+    "note": "Their paper is \"Assimilation and contrast effects in part-whole question sequences: A conversational logic analysis\", volume 55, pages 3 to 23. It circulated first as ZUMA-Arbeitsbericht 90/01 in Mannheim in 1990, and the copy read for this entry is the published reprint deposited in that series at SSOAR. Order effects in surveys were documented long before it. The paper says of its own central result that it replicates Strack, Martin and Schwarz (1988); what it added was the conversational mechanism and a test of it."
   },
-  "evidence": "One hundred participants answered a question about relationship satisfaction and a question about life satisfaction, in one order or the other. Specific first produced a correlation of r = 0.67 between the two answers. Specific second produced r = 0.32. The difference between those correlations was the effect, tested as z = 2.32, p < 0.01, and summarised as q = 0.48 with a 95% confidence interval from 0.07 to 0.88. Those last two figures are quoted from Many Labs 2, which recalculated the original effect size and its interval from the reported cell sizes. The 1991 article could not be obtained during this check.",
+  "evidence": "The study was a self-administered survey run in the pedestrian mall of a German city, on a convenience sample of 456 adults, of whom about 20% of those approached took part. Demographic questions were left off the form by mistake, so the paper cannot describe its own sample. The design was 2 by 4 with a control group, giving nine conditions of about 50 people each, one of 56. Satisfaction was rated from 1 to 11. The famous pair of numbers is a comparison of two of those cells. Where the general question came first, relationship and life satisfaction correlated r = 0.32; where one specific question came first, r = 0.67, z = 2.32, p < 0.01. A footnote states that all reported tests are one-tailed unless otherwise indicated. The rest of Table 1 is the part the retellings drop. Introducing the same two questions with a joint lead-in, so that they read as one exchange, gave r = 0.18, and an explicit instruction to leave the relationship aside gave r = 0.20; neither is marked significant. Putting three specific questions before the general one instead of one gave r = 0.46, and the paper reports that increase as not significant, z = 0.803. Many Labs 2 computed the original effect as Cohen's q = 0.48, 95% CI 0.07 to 0.88, from the reported correlations. The antecedent the paper credits, Strack, Martin and Schwarz on American students and dating frequency, gave r = -0.12 with the general question first and r = 0.66 with it second; that pair is quoted here from Schwarz and Strack's own later chapter rather than from the 1988 article, which was not obtained.",
   "replication": {
-    "state": "failed",
-    "headline": "Across 7,460 people the two correlations came out the wrong way round: 0.38 for specific-first against 0.44 for specific-second.",
-    "detail": "Many Labs 2 split its 28 replications across two protocols, and this pair of questions sat in the second, which 61 of its 125 samples took. Where the original found the correlation much stronger when the specific question came first, the replication found it slightly stronger when the specific question came second: 0.44 against 0.38. The difference was q = -0.07 with a 95% confidence interval from -0.12 to -0.02, so it is small, reliably non-zero, and pointing the opposite way to the prediction. The original pattern of 0.67 against 0.32 does not appear at any size.",
+    "state": "mixed",
+    "headline": "The part-whole correlation prediction reversed across 7,460 people in Many Labs 2, while question order kept moving answers in 70 national surveys and in a 2025 field experiment.",
+    "detail": "Many Labs 2 split its 28 replications across two protocols, and this pair of questions sat in the second, which 61 of its 125 samples took. Where the original found the correlation stronger with the specific question first, the replication found it slightly stronger with the specific question second: 0.44 against 0.38. The difference was z = -3.03, p = 0.002, q = -0.07, 95% CI -0.12 to -0.02, small, reliably non-zero, and pointing the opposite way to the prediction. It is one of three effects in that project whose pooled estimate came out significantly reversed. The narrow prediction had already been tested and missed once. Schimmack and Oishi ran five studies on life satisfaction judgements and report in their abstract that Study 1, with 225 participants, failed to replicate a widely cited finding of strong item-order effects, that item order had a relatively small effect in Studies 2 to 4 with 100, 200 and 222 participants, and that their meta-analyses found weak effects of the order of domain and global satisfaction items. The broad claim did better. Wang, Solloway, Shiffrin and Busemeyer assembled 70 nationally representative surveys that put two questions in both orders, most with more than 1,000 respondents and each with between 651 and 3,006, of which 66 were Pew surveys run between 2001 and 2011. Order effects were the premise rather than the finding there, and all three Gallup polls they tabulate show them: chi-square(3) = 10.14, p < 0.05 for whether Bill Clinton and Al Gore are honest and trustworthy, 73.04 and 67.19, both p < 0.001, for the other two. Their own result is a constraint on the shape of those effects, the quantum question equality, which predicts that the two cells of a diagonal cancel. Across 72 datasets the pairs fell along the predicted line of slope -1, r = -0.82, or -0.73 with two extreme points dropped.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
@@ -25,21 +25,62 @@
       "n": 7460
     }
   },
-  "limits": "No structured effect sizes are printed above because the measure is Cohen's q, a difference between two correlations, and this site's schema covers standardised mean differences, correlations, odds ratios and the like rather than differences between correlations. The four correlations and the two q values are in the paragraph instead. There is a second limit the replication authors flag themselves: the original had these two questions preceded by nothing at all, whereas in a large multi-study protocol they sit inside a longer session. Since the effect is about what the preceding context makes available, a longer preceding context is a real difference and not only a nuisance. The authors tested it. Among the 470 participants who met this pair of questions first, both orders gave r = 0.41, q = 0.00 with a 95% confidence interval from -0.18 to 0.18. That subsample shows neither the original effect nor the reversal. What has not failed is the broader finding that survey answers move with question order, which is one of the best-documented facts in survey methodology; what failed is this specific part-whole prediction about correlations.",
-  "misreadings": "The result is often cited as proof that survey responses are meaningless, which is far more than either the original or the replication supports. It is also frequently confused with the general phenomenon of order effects, which is much better established and rests on a different kind of evidence, mostly split-ballot experiments in real surveys rather than a correlation comparison in a laboratory. An entry that let this failure stand for that whole literature would be making the same mistake in reverse.",
+  "limits": "No structured effect sizes are printed above because the measure is Cohen's q, a difference between two correlations, and this site's schema covers standardised mean differences, correlations, odds ratios and the like rather than differences between correlations. The four correlations and the two q values are in the paragraphs instead. The replication authors flag a limit themselves. The original had these two questions preceded by nothing at all, whereas in a large multi-study protocol they sit inside a longer session, and since the effect is about what the preceding context makes available, a longer preceding context is a real difference. They tested it. Among the 470 participants who met this pair first, both orders gave r = 0.41, q = 0.00 with a 95% confidence interval from -0.18 to 0.18, which shows neither the original effect nor the reversal. The same paper reports that the authors of four of its 28 originals, this one among them, warned in advance that their finding might be sensitive to task order, and that none of the four showed systematic variation in effect magnitude by task order. Size is the limit on the broad claim. Greco, Fabbri, Dutt and Powell-Jackson randomised women in Uttar Pradesh into four groups of 871, 866, 851 and 853, each meeting a different run-up to the wellbeing questions. Reported happiness did not move at all. Life satisfaction moved by -0.111 points on a five-point scale when a question about the state of the province was added, p < 0.01, and by 0.075 when a question about the treatment of women was added, significant only at the 10% level, and a buffer question cancelled the first. Searches for further tests of the part-whole prediction covered Crossref, OpenAlex, Unpaywall, PubMed, Europe PMC and general web search, in the psychology and the survey-methodology literatures; they returned Schimmack and Oishi's meta-analyses and Many Labs 2 and no other multi-study synthesis of it. The meta-analytic effect size in Schimmack and Oishi could not be obtained, because the article is paywalled at the American Psychological Association and no repository copy was located, so only its abstract is used here.",
+  "misreadings": "The commonest error is treating this entry's failure as a verdict on question order in general. It is a verdict on one prediction about one pair of correlations, and the split-ballot literature that Wang and colleagues drew on is a different paradigm resting on different evidence, in which order shifts the marginal percentages of national samples. Reading the failure the other way is the same mistake reversed, and the ballot order effect, the forbid/allow asymmetry and the response scale range effect are separate entries for the same reason. The original study is also retold as smaller and simpler than it was. Many Labs 2 describes it as one hundred participants randomly assigned to a question order, which is the two cells it compared and not the study, which ran 456 people through nine conditions. In the condition producing r = 0.32 the general question was followed by three specific questions rather than one. And the 1991 paper does not claim that a specific question asked first always raises the correlation: a joint lead-in over the same two questions in the same order cut it to 0.18. A result whose sign depends on a printed introduction is a weaker instrument than the phrase 'question order effect' suggests.",
   "sources": [
     {
-      "text": "Schwarz, N., Strack, F., & Mai, H.-P. (1991). Assimilation and contrast effects in part-whole question sequences: A conversational logic analysis. Public Opinion Quarterly, 55(1), 3-23.",
+      "text": "Schwarz, N., Strack, F., & Mai, H.-P. (1991). Assimilation and contrast effects in part-whole question sequences: A conversational logic analysis. Public Opinion Quarterly, 55(1), 3-23. Read in full as the published reprint deposited at SSOAR in the ZUMA-Arbeitsbericht series; Table 1 and the results section were extracted twice and the table was also read from a page image.",
       "doi": "10.1086/269239",
-      "url": "https://doi.org/10.1086/269239",
+      "url": "https://www.ssoar.info/ssoar/handle/document/6718",
       "type": "primary"
     },
     {
-      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Read as the accepted manuscript in the LSE repository; every figure above was extracted twice from the raw text.",
       "doi": "10.1177/2515245918810225",
-      "url": "https://doi.org/10.1177/2515245918810225",
+      "url": "http://eprints.lse.ac.uk/91159/1/Kappes_Many-labs-2.pdf",
       "type": "replication"
+    },
+    {
+      "text": "Schimmack, U., & Oishi, S. (2005). The influence of chronically and temporarily accessible information on life satisfaction judgments. Journal of Personality and Social Psychology, 89(3), 395-406. Abstract only, read at PubMed; the full text is paywalled and no repository copy was located, so no effect size from it appears above.",
+      "doi": "10.1037/0022-3514.89.3.395",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16248721/",
+      "type": "replication"
+    },
+    {
+      "text": "Wang, Z., Solloway, T., Shiffrin, R. M., & Busemeyer, J. R. (2014). Context effects produced by question orders reveal quantum nature of human judgments. Proceedings of the National Academy of Sciences, 111(26), 9431-9436. Read in full as the PDF rendered by Europe PMC from PMC4084470; Table 1 and the correlation were extracted twice.",
+      "doi": "10.1073/pnas.1407756111",
+      "url": "https://europepmc.org/articles/PMC4084470",
+      "type": "replication"
+    },
+    {
+      "text": "Wang, Z., & Busemeyer, J. R. (2013). A quantum question order model supported by empirical tests of an a priori and precise prediction. Topics in Cognitive Science, 5(4), 689-710. The model the 2014 test derives from. Record verified at Crossref; the article itself was not obtained and nothing above is taken from it.",
+      "doi": "10.1111/tops.12040",
+      "url": "https://doi.org/10.1111/tops.12040",
+      "type": "secondary"
+    },
+    {
+      "text": "Moore, D. W. (2002). Measuring new types of question-order effects: Additive and subtractive. Public Opinion Quarterly, 66(1), 80-91. The source of the three Gallup polls tabulated above. Paywalled at Oxford Academic and not obtained; the proportions and chi-square values are quoted from Wang and colleagues, who reanalysed them.",
+      "doi": "10.1086/338631",
+      "url": "https://doi.org/10.1086/338631",
+      "type": "primary"
+    },
+    {
+      "text": "Greco, G., Fabbri, C., Dutt, V., & Powell-Jackson, T. (2025). Happiness and life satisfaction: understanding the effects of question order on subjective wellbeing measures in India. Journal of Happiness Studies, 27(1), article 4. Read in full as the accepted manuscript in the LSHTM repository.",
+      "doi": "10.1007/s10902-025-00975-4",
+      "url": "https://researchonline.lshtm.ac.uk/id/eprint/4680153/1/Greco-etal-2025-Happiness-and-life-satisfaction.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Schwarz, N., & Strack, F. (2004). How to think (and not to think) about your life: Some lessons from social judgment research. Chapter draft read as a PDF at the author's site; the source of the Strack, Martin and Schwarz (1988) dating-frequency correlations, quoted at one remove.",
+      "url": "https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/schwarz_strack_happiness_einstein-ch_2004.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "Strack, F., Martin, L. L., & Schwarz, N. (1988). Priming and communication: Social determinants of information use in judgments of life satisfaction. European Journal of Social Psychology, 18(5), 429-442. The study the 1991 paper says it replicates. Paywalled at Wiley and not obtained; its record was verified at Crossref.",
+      "doi": "10.1002/ejsp.2420180505",
+      "url": "https://doi.org/10.1002/ejsp.2420180505",
+      "type": "primary"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
