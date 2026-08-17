@@ -1,0 +1,86 @@
+{
+  "no": 533,
+  "slug": "proving-too-much",
+  "name": "Proving too much",
+  "aliases": [
+    "Proves too much",
+    "Qui nimium probat nihil probat",
+    "Refutation by parallel argument",
+    "Parody objection"
+  ],
+  "category": "belief",
+  "statement": "An argument whose form would equally establish an obviously false conclusion is broken, and building that parallel refutes it without disputing a premise.",
+  "meaning": "The charge is about the shape of an argument rather than its subject. A critic grants the premises for the sake of the exercise, then builds a second argument of the same shape whose conclusion nobody will accept. If the two really do share a form, either both are valid or both are invalid, so the collapse of the second is the collapse of the first. What the move buys is narrow. The conclusion under attack is left unsupported by that argument, not shown to be false, and the arguer is free to support it some other way. Moti Mizrahi's paper on the charge argues that it can be understood in at least three different ways, and asks anyone levelling it to decide which one they have in mind.",
+  "origin": {
+    "year": 2013,
+    "who": "Moti Mizrahi",
+    "where": "Acta Analytica",
+    "note": "Mizrahi's six-page paper is the earliest journal article located whose title is the charge, and it treats the objection as already common rather than introducing it. Springer's article page prints volume 28, pages 353 to 358, and the year 2013; the Crossref record dates it to 30 November 2012, which is the online-first date. The move itself is far older than any of that. The Stanford Encyclopedia's timeline puts Anselm's Proslogion at 1078 with Gaunilo's critique On Behalf of the Fool following soon after, and that critique carries the standard first example. Who attached the English name, and whether the Latin tag qui nimium probat nihil probat has any traceable author, could not be established here."
+  },
+  "evidence": "There are no experiments here, and the record is a philosophical one. Gaunilo's reply to Anselm is the case every later discussion starts from. In David Burr's translation he reports that people speak of an island in the ocean, called the lost island because of the impossibility of finding what does not exist, which has all manner of riches and delights, more of them than the Isles of the Blest, and which having no owner or inhabitant is superior in the abundance of its riches to all other lands. Gaunilo says he can understand that description without difficulty. He then imagines the arguer adding, as if stating a logical consequence, that the island must therefore exist, since it is more excellent to exist in reality than in the mind alone. His answer is that he would either think the arguer joking, or have a hard time deciding who was the bigger fool, himself for believing it or the arguer for thinking it proved. The Stanford Encyclopedia's entry on ontological arguments sets the two arguments out premise by premise, in six steps each, differing only in that every occurrence of the thing than which no greater can be conceived is replaced by the island than which no greater island can be conceived. Its reading of the structure is the general form of the move: since the arguments have the same logical form, either they are both valid or they are both invalid, and if they are both valid then a defender must find a premise pair whose first member an atheist would accept and whose second member the same atheist would reject. The entry works through the four candidate pairs and finds none. Andre Juthe's paper in Argumentation is the closest thing located to a general treatment of the technique. Its abstract describes it as the method by which an argument is refuted by a parallel argument, since the flaw of the parallel argument is clearly displayed, and says the method is explicated, examined and compared with two other general methods. The charge also has a place in fallacy compendia. Wiley's Bad Arguments, subtitled 100 of the Most Important Fallacies in Western Philosophy, gives it chapter 41, pages 201 to 203, written by Kimberly Baltzer-Jaray.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment on this move was found, and the nearest measured thing is a different move in the same family of ratings.",
+    "detail": "The search covered Crossref by title and by bibliographic query, Europe PMC, Springer's Argumentation, and general web search. Europe PMC returns nothing at all for the phrases 'refutation by parallel' and 'parody argument'. Its 45 hits for 'proving too much' are, in the ten inspected, ordinary uses of those words in papers about other things. Crossref's title search returns Mizrahi's article, Baltzer-Jaray's chapter and a review essay in New Testament studies that borrows the phrase, none of which reports data. The closest measured programme is Frans van Eemeren, Bart Garssen and Bert Meuffels's work on judgements of reasonableness, which showed ordinary arguers short dialogues and asked them to rate one contribution on a seven-point scale anchored at 1 for very unreasonable, 4 for neither, and 7 for very reasonable. Van Eemeren and Garssen's 2023 summary says 24 types of fallacy were examined and prints 20 numbered rows. No row is this move. The nearest row is false analogy, at 3.14 against 5.31 for its reasonable counterpart in the argumentation stage, and false analogy is the opposite case: a weak comparison used to support a standpoint, rather than a matching argument used to break one. Slippery slope sits at 3.31 against 5.31 and the argumentum ad ignorantiam at 2.56 against 5.56. The brief that commissioned this entry suggested refutational two-sided messages as a possible match, and they are a different construct. Okuno and colleagues' randomised study of 1,184 people in a Japanese online panel varied whether a vaccine message was one-sided, two-sided without refutation, or two-sided with refutation, then measured willingness to be vaccinated before and after an attack message. That is a question about how a persuader handles opposing arguments in advance, not about showing that an argument's form proves too much. OpenAlex refused requests during this pass, its API reporting an exhausted daily budget, and PhilPapers and PhilArchive returned 403 to every request."
+  },
+  "limits": "Two of the three scholarly items on this page were read only through their abstracts. Mizrahi's article is closed at Springer and no open copy was obtained, so the three interpretations he distinguishes are named here as existing and not described. Juthe's article is closed on the same terms, and the two other methods he compares his own with are not named here for the same reason. Baltzer-Jaray's chapter was not obtained either; only its Crossref record was seen, which is the source for its title, pages and author. The Latin tag was not traced. It appears in proverb collections and on reference sites, and Black's Law Dictionary of 1910, searched in full, carries no occurrence of qui nimium probat; the only maxims in it containing nimium are Nimium altercando veritas amittitur and its inversion. HathiTrust's full-text search and the Google Books API both refused requests on this pass, so no printed trace of the tag was searched. The Stanford Encyclopedia entry on fallacies and the Internet Encyclopedia of Philosophy entry on fallacies were fetched and searched in full for the English name and the tag, and neither occurs in either, though the second lists more than two hundred named fallacies. That is a fact about those two documents rather than about the literature. The move also has a well known failure mode that the encyclopedia states plainly: particular parodies are tied to particular formulations, and a parallel that fails to match the original in one premise establishes nothing about it. Plantinga's answer to Gaunilo is the standard instance, denying that there is an intrinsic maximum for the greatness of an island as there is for knowledge, since any island can be improved by more palm trees.",
+  "misreadings": "The commonest error is to treat the move as a disproof. Showing that an argument would also establish something absurd shows that the argument fails, and leaves its conclusion exactly where it was. Gaunilo was a monk writing on behalf of the fool, and his island does not argue that God does not exist. The second error is to confuse the move with false analogy, which runs in the other direction and is a weak comparison offered in support of a standpoint. A parallel argument has to share the original's form, and the whole dispute in any real case is whether it does. Third, the island is usually misquoted. Gaunilo's own text calls it the lost island, presents it as something other people say exists, and never claims it is the greatest island conceivable; the label 'perfect island parody' is the encyclopedia's, not his. Last, the name points at two different people. Wiley's fallacy compendium files proving too much among a hundred fallacies, which makes it a defect in the argument under attack, while Juthe treats refutation by parallel argument as a method of refutation, which makes it a move by the critic. Both usages are current and they describe opposite ends of the same exchange.",
+  "sources": [
+    {
+      "text": "Gaunilo of Marmoutiers, How Someone Writing on Behalf of the Fool Might Reply to All This. Translated by David Burr, Internet Medieval Sourcebook, Fordham University. Read in full; the source for every quotation of the lost island passage above.",
+      "url": "https://sourcebooks.fordham.edu/source/anselm.asp",
+      "type": "primary"
+    },
+    {
+      "text": "Oppy, G., Rasmussen, J., & Schmid, J. (2024). Ontological Arguments. Stanford Encyclopedia of Philosophy, substantive revision 3 June 2024. Read in full. Source for the timeline date of 1078, for the six-step parallel reconstruction, and for the Plantinga reply about palm trees.",
+      "url": "https://plato.stanford.edu/entries/ontological-arguments/",
+      "type": "primary"
+    },
+    {
+      "text": "Mizrahi, M. (2013). On proving too much. Acta Analytica, 28(3), 353-358. Closed access; only the published abstract was read, and no claim on this page comes from the article body.",
+      "doi": "10.1007/s12136-012-0179-8",
+      "url": "https://doi.org/10.1007/s12136-012-0179-8",
+      "type": "primary"
+    },
+    {
+      "text": "Juthe, A. (2009). Refutation by parallel argument. Argumentation, 23(2), 133-169. Closed access; only the published abstract was read, and the sentence quoted above is from it.",
+      "doi": "10.1007/s10503-008-9109-8",
+      "url": "https://doi.org/10.1007/s10503-008-9109-8",
+      "type": "primary"
+    },
+    {
+      "text": "Baltzer-Jaray, K. (2018). Proving too much. In R. Arp, S. Barbone & M. Bruce (Eds.), Bad Arguments: 100 of the Most Important Fallacies in Western Philosophy, pp. 201-203. Wiley. Not obtained; the record was verified at Crossref, which is the source for the title, pages and volume subtitle given above.",
+      "doi": "10.1002/9781119165811.ch41",
+      "url": "https://doi.org/10.1002/9781119165811.ch41",
+      "type": "commentary"
+    },
+    {
+      "text": "van Eemeren, F. H., & Garssen, B. (2023). The pragma-dialectical approach to the fallacies revisited. Argumentation, 37(2), 167-180. Open access. The count of 24 types and every reasonableness figure quoted here were read from the article and its Table 1, fetched separately and transcribed twice.",
+      "doi": "10.1007/s10503-023-09605-w",
+      "url": "https://link.springer.com/article/10.1007/s10503-023-09605-w",
+      "type": "replication"
+    },
+    {
+      "text": "Okuno, R., Arai, H., Suzuki, T., & Kikkawa, T. (2022). Impact of refutational two-sided messages on attitudes toward novel vaccines against emerging infectious diseases during the COVID-19 pandemic. Frontiers in Public Health, 10, 775486. Read from the published abstract; named here to distinguish message sidedness from the move this entry is about.",
+      "doi": "10.3389/fpubh.2022.775486",
+      "url": "https://doi.org/10.3389/fpubh.2022.775486",
+      "type": "replication"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy. Fetched and searched in full for 'proving too much', 'proves too much' and 'nimium', none of which occurs in it.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Fetched and searched in full for the same three strings, none of which occurs in its list of more than two hundred named fallacies.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Black, H. C. (1910). Black's Law Dictionary, 2nd edition. Searched in full for 'nimium'; the maxim qui nimium probat nihil probat does not appear in it.",
+      "url": "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
