@@ -1,0 +1,83 @@
+{
+  "no": 520,
+  "slug": "etymological-fallacy",
+  "name": "Etymological fallacy",
+  "aliases": ["Root fallacy", "Appeal to etymology"],
+  "category": "belief",
+  "statement": "Taking a word's origin as its true meaning is listed as a fallacy, and the case against it is linguistic rather than experimental.",
+  "meaning": "The claim is about words, not about arguments. An etymology records where a form came from, and the error is to read that history as a statement of what the word now means. The ground for the objection is Ferdinand de Saussure's separation of synchronic from diachronic description. Saussure, whom Thiselton dates 1857 to 1913, wrote that a linguist who wants to understand a language state 'must discard all knowledge of everything that produced it and ignore diachrony'. He illustrated it from chess. To understand the state of a game it is unnecessary to know how the players arrived at it. Thiselton reports that in the years between Saussure and James Barr the priority of synchronic description became a standard principle in semantics. Barr's line, as Thiselton quotes it, is the whole of the subject. 'The main point is that the etymology of a word is not a statement about its meaning but about its history.' Three neighbouring entries take the arguments this one leaves out. Dismissing a belief for where it came from is the genetic fallacy, treating age as warrant is the appeal to tradition, and treating an idea as spent because it is dated is chronological snobbery. What is left here is the narrow claim about sense, and a word carrying a historical sense in one premise and a current sense in another is nearer to equivocation than to any of the three.",
+  "origin": {
+    "year": 1961,
+    "who": "James Barr",
+    "where": "The Semantics of Biblical Language, Oxford University Press",
+    "note": "Barr applied Saussure's priority of synchronic description to biblical scholarship, and his book is the treatment that carried the argument into the humanities. The name is older than the book, and nothing read for this entry traces who coined it, so the year marks the treatment rather than the coinage. The book was not obtained. It is quoted here at one remove through Thiselton, who cites it at pages 108, 109 and 149 to 151. Thiselton dates Saussure's Cours de linguistique générale, published posthumously, to 1915."
+  },
+  "evidence": "The linguistic case is argued from examples rather than from data. Thiselton sets out the standard ones. English 'nice' is said to derive from Latin nescius, ignorant, and ignorant is not the basic meaning of nice. 'Hussy' is etymologically a doublet of housewife, and calling someone a hussy does not properly mean calling her a housewife. 'Dandelion' no more literally means dent de lion than a dead metaphor means what it once pictured. His New Testament cases run the same way. A Greek word for service is glossed as a work performed by the people, when by Aristotle's time it had become general. A verb for showing compassion is read through the internal organs its noun once named, which Thiselton compares to losing heart in English. At the far end an interpreter reaches the claim that a New Testament word for power properly means dynamite. Barr's own targets were wider, and included what he called illegitimate totality transfer, where the senses a word carries across many passages are summed and the total read into one verse.\n\nNothing measured carries the name. A Europe PMC search for the exact phrase, run twice, returns one record, a 2012 commentary in the International Journal of Forensic Mental Health. An OpenAlex full-text search for the phrase returns work dominated by biblical studies, Qur'anic studies, philology and prescriptivism, with no experiment among the first twenty-five by relevance.\n\nThe nearest measured literature asks a narrower question: whether a reader breaks a word into an apparent stem, and whether meaning has to follow for that to happen. Rastle, Davis and New tested 62 undergraduates at Royal Holloway on 150 prime and target pairs in masked priming. Primes were semantically transparent (cleaner and CLEAN), apparently morphological but semantically unrelated (corner and CORN), or related only in form (brothel and BROTH). Priming was 27 msec in the transparent condition, 22 msec in the opaque condition and 4 msec in the form condition. The first two did not differ, F1(1,60) < 1, and both beat the form condition, transparent against form F1(1,60) = 13.52, opaque against form F1(1,60) = 5.06. Their conclusion is that segmentation runs on any printed word containing a stem and an affix, 'irrespective of semantic transparency (or indeed of an etymological relationship between the complex word and its stem)'. The same paper reports that their own earlier work had found opaque priming indistinguishable from form priming, which is the ambiguity the experiment was built to settle.\n\nMorris, Frank, Grainger and Holcomb ran the comparison again with event-related potentials at Tufts, on 25 adults, three dropped for eye-movement artefact and one more for equipment failure. Their behavioural priming was 43 msec for transparent items, 27 msec for opaque and 1 msec for orthographic. The Prime Type by Relatedness interaction was F(2,40) = 17.3, p < .001, and the linear trend across the three conditions F(1,20) = 31.2, p < .001. Their abstract says that only transparent items gave rise to priming. Their results section says that pairwise comparisons put both transparent, p < .001, and opaque, p < .005, above orthographic, and that transparent and opaque did not differ, p > .1. Both statements are printed here because the paper carries both.\n\nA third literature asks where intuitions about origins come from. Ramonda collected semantic transparency ratings from fifteen native English speakers on 222 metaphorical idioms, with explanations for thirty of them, and cross-referenced etymological information from idiom dictionaries. His abstract reports that pragmatic inference from everyday world knowledge does much of the work, and names Keysar and Bly's two papers as the ones that raised the question of whether such intuitions are arbitrary.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment testing the etymological fallacy was located. The nearest measured question is different, and its answer holds: readers split a word into an apparent stem whether or not the meaning follows.",
+    "detail": "The searches for an experiment covered three indexes. Europe PMC by exact phrase, run twice, returned one record, and that record is a commentary. An OpenAlex full-text search of the phrase returned essays and exegesis through its first twenty-five results by relevance. A Crossref title search returned the Hutton article, a Wiley reference chapter and work on Qur'anic studies. General web searches for an experiment on etymological knowledge and usage judgement produced teaching studies on idiom learning in second-language journals, and nothing testing the reasoning error. The masked priming work described above does replicate across two laboratories, 22 msec of opaque priming in Rastle, Davis and New and 27 msec in Morris and colleagues, but it is a replication of something else. Corner and corn are not related in origin, so what the paradigm shows is segmentation on orthographic form. It is evidence about what a reader's eye does with a string, not about whether anyone consults a word's history when deciding what it means."
+  },
+  "limits": "Most of this entry stands on documents read at one remove, and the page says so rather than hiding it. Barr's book was not obtained, and every phrase attributed to him here is quoted from Thiselton's chapter with Thiselton's page references. Saussure is quoted the same way. Christopher Hutton's article, which argues against the doctrine in a linguistics journal, is closed access. Only the ERIC abstract was read, and the phrases quoted from him below are the ones that abstract puts in quotation marks. Keysar and Bly's 1995 paper is closed at the publisher and has no open repository copy, so nothing is quoted from it and it is named through Ramonda. A 2025 meta-analysis of masked morphological priming, which reports pooled figures for native and non-native readers, returned 403 on two attempts and no figure from it appears here. The coinage of the phrase was not traced: HathiTrust's full-text search was behind a bot check on three attempts, and no scholarly source read here dates the term. Ramonda's study is fifteen raters, which is a small base for a claim about native speakers in general.",
+  "misreadings": "The commonest confusion is with the genetic fallacy, which is about beliefs and arguments. This one is about the sense of a word, and the two come apart. A person can accept that a claim's origin has nothing to do with its truth and still insist that decimate must mean to cut by a tenth.\n\nThe doctrine has a critic in the linguistics literature, and citing it as settled misses him. Hutton's article rejects what he calls 'the etymological fallacy' theory, 'which seeks to minimize the role of etymology in the study of semantics'. He argues instead that etymology is 'a perfectly coherent philosophy of language' where a culture is grounded in law or sacred texts. The abstract is all that was read of it, so the argument is named rather than assessed.\n\nNeither Saussure nor Barr rules diachronic study out. Thiselton is explicit on this: tracing a term's historical evolution is proper, provided synchronic description comes first at each stage and semantic change is taken seriously.\n\nThe priming results get recruited to the wrong side. That readers split corner into corn and er is not evidence that speakers reach for word histories, because corner and corn have no shared history to reach for. The effect is orthographic, and it appears before meaning has been consulted.\n\nThe stock examples are histories, not measurements. Nice from nescius and hussy from housewife are two well-documented careers of two words. They show that the inference can fail, which is what a counterexample does, and they put no number on how often anyone draws it.",
+  "sources": [
+    {
+      "text": "Thiselton, A. C. (1977). Semantics and New Testament interpretation. In I. H. Marshall (ed.), New Testament Interpretation: Essays on Principles and Methods, pp. 75-104. Exeter: Paternoster Press. Read in full as a scan of the chapter; the source for every quotation of Barr and Saussure in this entry, and for the worked examples.",
+      "url": "https://biblicalstudies.org.uk/pdf/nt-interpretation/nti_04.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Barr, J. (1961). The Semantics of Biblical Language. Oxford University Press. Not obtained. The DOI attached here resolves to the Scottish Journal of Theology review, 'The Semantics of Biblical Language. By James Barr. Oxford University Press, 1961', which is how the imprint and year were confirmed.",
+      "doi": "10.1017/s0036930600010747",
+      "url": "https://doi.org/10.1017/s0036930600010747",
+      "type": "provenance"
+    },
+    {
+      "text": "Rastle, K., Davis, M. H., & New, B. (2004). The broth in my brother's brothel: Morpho-orthographic segmentation in visual word recognition. Psychonomic Bulletin & Review, 11(6), 1090-1098. Read in full as the author's PDF, downloaded twice to the same checksum, with the priming figures and F values re-extracted by a second tool because the first dropped the comparison symbols.",
+      "doi": "10.3758/BF03196742",
+      "url": "https://www.mrc-cbu.cam.ac.uk/personal/matt.davis/pubs/rastle_davis_new.pbr2004.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Morris, J., Frank, T., Grainger, J., & Holcomb, P. J. (2007). Semantic transparency and masked morphological priming: An ERP investigation. Psychophysiology, 44(4), 506-521. Read in full as the PubMed Central author manuscript; the reaction times, priming effects and statistics were taken from Table 1 and the results section and checked on a second fetch.",
+      "doi": "10.1111/j.1469-8986.2007.00538.x",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2750868/",
+      "type": "replication"
+    },
+    {
+      "text": "Hutton, C. (1998). Semantics and the 'etymological fallacy' fallacy. Language Sciences, 20(2), 189-200. Closed access. Only the ERIC abstract was read, and the phrases quoted in this entry are the ones that abstract places in quotation marks.",
+      "doi": "10.1016/s0388-0001(97)00025-9",
+      "url": "https://eric.ed.gov/?id=EJ565265",
+      "type": "commentary"
+    },
+    {
+      "text": "Ramonda, K. (2019). The role of encyclopedic world knowledge in semantic transparency intuitions of idioms. English Language and Linguistics, 23(1), 31-53. Described here from its abstract, read at the publisher and again in the Crossref record.",
+      "doi": "10.1017/S1360674317000284",
+      "url": "https://doi.org/10.1017/S1360674317000284",
+      "type": "primary"
+    },
+    {
+      "text": "Keysar, B., & Bly, B. (1995). Intuitions of the transparency of idioms: Can one keep a secret by spilling the beans? Journal of Memory and Language, 34(1), 89-109. Closed at the publisher with no open repository copy located, and named here only because Ramonda's abstract names it. Nothing is quoted from it.",
+      "doi": "10.1006/jmla.1995.1005",
+      "url": "https://doi.org/10.1006/jmla.1995.1005",
+      "type": "primary"
+    },
+    {
+      "text": "Kolb, D. (2018). Etymological Fallacy. In Bad Arguments, pp. 266-269. Wiley. Cited from its Crossref record as evidence that the error is catalogued under this name in a reference work; the chapter itself was not read.",
+      "doi": "10.1002/9781119165811.ch58",
+      "url": "https://doi.org/10.1002/9781119165811.ch58",
+      "type": "index"
+    },
+    {
+      "text": "Cara, R. (2013). Word-study fallacies. Ligonier. A teaching article, cited for the alias: it gives 'root fallacy' as the other name for assuming that the origin of a word is its true meaning.",
+      "url": "https://learn.ligonier.org/articles/word-study-fallacies",
+      "type": "commentary"
+    },
+    {
+      "text": "Europe PMC search for the exact phrase 'etymological fallacy', run twice, one record returned. Cited for where the search for an experiment looked.",
+      "url": "https://europepmc.org/search?query=%22etymological%20fallacy%22",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
