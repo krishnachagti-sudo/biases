@@ -1,0 +1,92 @@
+{
+  "no": 561,
+  "slug": "argumentum-ad-crumenam",
+  "name": "Argumentum ad crumenam",
+  "aliases": ["Appeal to wealth", "Argument to the purse", "Argumentum ad lazarum", "Appeal to poverty"],
+  "category": "belief",
+  "statement": "Wealth is offered as evidence that a claim is right, and poverty as evidence that it is honest; only the first half has been measured.",
+  "meaning": "Two Latin tags name one move in opposite directions, and both are covered here. Ad crumenam argues from a speaker's money to the truth of what he says. Ad lazarum, its mirror, argues from his lack of money to his honesty or his virtue. The logical complaint and the psychological finding are different claims and this page keeps them apart. A logician objects that a bank balance is not a premise about the world, and says so about an argument written out in full. The measured literature asks something narrower: whether an economic cue attached to a stranger moves the traits that stranger is credited with. It does, reliably, and the trait it moves most is competence. Nothing located here tests the inference in its stated form, with a claim, a premise about the arguer's wealth, and a rated conclusion. What is tested is the perception such an inference would have to rest on. Argument from authority is the neighbouring entry for credentials, and halo effect for the general spread of one impression into judgements it has no bearing on.",
+  "origin": {
+    "year": 1760,
+    "who": "Laurence Sterne",
+    "where": "The Life and Opinions of Tristram Shandy, Gentleman",
+    "note": "The tag has a literary paper trail and no located coinage in logic. It appears twice in Sterne's novel. In the first passage Tristram decrees that his invented Argumentum Fistulatorium shall \"rank hereafter with the Argumentum Baculinum and the Argumentum ad Crumenam\", which treats the name as already in circulation. The second passage shows what it then meant: Walter Shandy, \"making use of the argument Ad Crumenam\", offers to lay twenty guineas to a single crown-piece that Stevinus was an engineer. That is money staked on a bet, not money offered as a credential, and the modern reading of the tag is not Sterne's. The text was read in the Project Gutenberg edition, which carries no imprint date; the Internet Archive catalogue dates a Dodsley printing of Volume I to 1760. An earlier use was not traced. The Oxford English Dictionary has an entry headed \"ad crumenam, adv.\", dated 2023 in its Crossref record, which was not read because the dictionary is behind a subscription."
+  },
+  "evidence": "The strongest test of the underlying perception is Oh, Shafir and Todorov, who ran nine studies pairing the same faces with upper-body clothing that independent judges had rated richer or poorer. The manipulation was subtle by design: no one in a separate group described the clothes as notably rich or poor, and descriptions of the richer and poorer items did not differ in valence, F(2, 4893) = 1.57, p = .208. Faces in richer clothes were rated more competent in every rating study. Generalised eta squared ran from .03 to .37: study 1, 24 undergraduates, F(1, 23) = 70.52, p < .001, .37 with a 90% interval of .31 to .45; study 2, 52 older participants, F(1, 51) = 73.95, p < .001, .15 [.12 to .18]; study 6, 200 participants, F(1, 199) = 151.96, p < .001, .03 [.03 to .04]. The measures taken against the effect did not remove it. Telling participants to focus on the person and ignore features such as the clothes left it standing, F(1, 35) = 56.52, p < .001. Telling them the pictured people all worked in sales and earned around $80,000 left it standing, F(1, 35) = 79.32, p < .001. Replacing every suit and tie with plain shirts left it standing, F(1, 35) = 36.62, p < .001. Offering a $100 prize for the most accurate ratings left it standing, F(1, 62) = 24.29, p < .001, and the authors note the effect size was almost identical to study 7, which used the same images without the reward. In study 9, 64 participants chose between pairs of faces previously rated equally competent, and picked the one in richer clothes 69% of the time, t(63) = 11.56, p < .001, 95% CI 66% to 72%. Half of them had been warned that clothing bears no relation to competence, and the warning changed nothing, F(1, 62) = 0.49, p = .486. Qi, Li and Du took the question into money. In their second experiment 33 students played a trust game against faces labelled with a monthly income of about 2,000 yuan or about 10,001 yuan. Partners labelled high income received more of the 10-yuan stake, 5.19 against 4.89, F(1, 32) = 5.96, ηp2 = .132, a difference of about 0.3 yuan. The rating effect was narrower: income raised trustworthiness ratings for Caucasian faces, t(31) = 3.39, p = .002, and not for Asian faces, t(34) = 1.33, p = .193, in a Chinese sample. In their first experiment the same design labelled faces with a country instead, and national wealth moved neither ratings nor money. Kraus, Torrez, Park and Ghayebi carried the question into hiring using speech rather than clothes. Their abstract reports that brief speech identifies a speaker's social class above chance, that pronunciation carries the cue over and above content, and that people with hiring experience judged the fit, competence, starting salary and signing bonus of higher-class applicants more favourably. The full text was not obtained and no figure from that paper appears here.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The perception holds wherever it has been looked for. Across 32 societies and 5,504 people, a wealthy target was rated 1.19 points more competent than a poor one on a seven-point scale, 95% CI 1.15 to 1.23.",
+    "detail": "Oh, Shafir and Todorov's nine studies are one laboratory working from one family of stimulus sets, and no independent repeat of that clothing paradigm was located in the 60 citing records Semantic Scholar returns for the paper, nor in open-web search. What the finding has instead is agreement from other designs. Tanjitpiyanond and 40 colleagues asked 5,504 people in 32 societies to imagine one person from the top 5% of their country's wealth distribution and one poor person, and to rate each on 24 traits on seven-point scales. The wealthy target scored 1.19 points higher on the five competence items, standard error .02, 95% CI 1.15 to 1.23, p < .001, and 2.03 points higher on assertiveness, 95% CI 2.00 to 2.07. That study is not a replication of the clothing experiments and is quoted here as an independent measurement of the same association. Its own preregistered hypothesis came out backwards, which is the sharpest disagreement in this literature. It predicted, from earlier work, that perceiving more inequality would amplify the stereotype; instead people who perceived more inequality rated the wealthy less competent and the poor more competent, interaction coefficient -0.65, 95% CI -0.75 to -0.55. Exploratory analysis put that reversal in societies with lower social mobility, lower democracy scores and higher corruption. So the base association is well attested and its moderators are not settled. The trust-game result of Qi, Li and Du is the weakest leg: 33 participants, a difference of 0.3 yuan in 10, and a rating effect confined to other-race faces.",
+    "study": {
+      "cite": "Tanjitpiyanond, P., Jetten, J., Peters, K., et al. (2022). A 32-society investigation of the influence of perceived economic inequality on social class stereotyping. European Journal of Social Psychology, 53(2), 367-382. Preregistered; 5,504 participants after exclusions, rating both a wealthy and a poor target.",
+      "doi": "10.1002/ejsp.2908",
+      "year": 2022,
+      "sites": 32,
+      "n": 5504
+    },
+    "replicated": {
+      "es": 1.19,
+      "esType": "md",
+      "unit": "points on a seven-point competence scale",
+      "ci": [1.15, 1.23],
+      "ciLevel": 95
+    }
+  },
+  "limits": "Every study above measures what a stranger is credited with, not whether anyone reasons from wealth to truth. A competence rating is not assent to an argument, and no experiment was located in which the wealth of a source is manipulated and the acceptance of that source's claim is the outcome. The search for one covered Crossref bibliographic queries on advice taking with adviser wealth, income and socioeconomic status, a PubMed title search on advice crossed with wealth, affluence and social class, which returned 23 records and nothing on the topic, and open-web search. The nearest thing found is the trust game, where the outcome is money handed over rather than a proposition believed. The ad lazarum direction is worse served. Nothing located tests whether poverty is taken as evidence for a claim, and the one large study here measured the poor target as less competent rather than more credible. Tanjitpiyanond and colleagues also rated morality and friendliness traits, which is where the mirror would show if it showed anywhere, and those results are in supplementary material that was not obtained. Three papers were read short of full text. The Kraus hiring study is quoted from its abstract in PubMed Central because the PNAS full text refused every route tried, including the publisher's syndication link, Europe PMC and the PubMed Central rendering. Oh, Shafir and Todorov was read as the authors' accepted manuscript on the Open Science Framework, not the published Nature Human Behaviour version, and every figure above was re-extracted from that document on a second download. The Oxford English Dictionary entry for the tag was not read. A 2019 corrigendum to Qi, Li and Du was read and corrects the funding statement only.",
+  "misreadings": "The commonest error is to treat the Latin tag as though it were a finding. It is a name from fallacy lists, and the empirical work on wealth cues was not done to test it. Hansen's survey of fallacies in the Stanford Encyclopedia of Philosophy, searched in full, discusses ad baculum, ad populum, ad verecundiam, ad ignorantiam and ad misericordiam, and mentions neither ad crumenam nor ad lazarum. Crossref returns one peer-reviewed article with ad crumenam in its title, Rosiak-Zieba's analysis of ethos in the argument, published in Polish in an issue of Res Rhetorica themed on rhetoric and money, and returns nothing at all for ad lazarum. Sterne, the earliest use found here, meant a wager. The second error is symmetry. The two tags are usually printed as a matched pair, and the measurements are not a pair: the rich-are-competent side has a 32-society estimate and nine experiments behind it, and the poor-are-honest side has nothing located. The third is to read the clothing effect as a considered inference. It survived instructions to ignore the clothes, information equalising the targets' incomes, removal of all formal attire, a warning that clothing bears no relation to competence, exposures as short as 129 ms, and a $100 accuracy incentive. Reading it as deliberate snobbery misses that the people doing it had been told not to and were paid to stop.",
+  "sources": [
+    {
+      "text": "Sterne, L. The Life and Opinions of Tristram Shandy, Gentleman. Read in the Project Gutenberg text, eBook 1079. The phrase Argumentum ad Crumenam occurs twice, in the chapters numbered XXI and XXXVII there, and both quotations above were read in it.",
+      "url": "https://www.gutenberg.org/cache/epub/1079/pg1079.txt",
+      "type": "provenance"
+    },
+    {
+      "text": "ad crumenam, adv. Oxford English Dictionary. The record was found in Crossref, dated 2 March 2023. The entry is behind a subscription and was not read; it is cited only to record that the tag has a dictionary entry.",
+      "doi": "10.1093/oed/9683610834",
+      "url": "https://doi.org/10.1093/oed/9683610834",
+      "type": "provenance"
+    },
+    {
+      "text": "Rosiak-Zieba, E. (2019). O niektorych aspektach zwiazanych z etosem w argumentum ad crumenam. Res Rhetorica, 6(3). The only peer-reviewed article Crossref returns with the tag in its title. Landing page and Polish abstract read; the argument is treated there as a rhetorical technique analysed through speech-act theory and implicature.",
+      "doi": "10.29107/rr2019.3.4",
+      "url": "https://resrhetorica.com/index.php/RR/article/view/388",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Fetched in full and searched for both tags; neither appears.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Oh, D. W., Shafir, E., & Todorov, A. (2020). Economic status cues from clothes affect perceived competence from faces. Nature Human Behaviour, 4(3), 287-293. Read as the authors' accepted manuscript on the Open Science Framework; every statistic quoted was re-extracted from that PDF twice.",
+      "doi": "10.1038/s41562-019-0782-4",
+      "url": "https://osf.io/download/49vpf/",
+      "type": "primary"
+    },
+    {
+      "text": "Tanjitpiyanond, P., Jetten, J., Peters, K., et al. (2022). A 32-society investigation of the influence of perceived economic inequality on social class stereotyping. European Journal of Social Psychology, 53(2), 367-382. Read as the repository copy at KU Leuven; the coefficients were re-extracted on a second download of the same file.",
+      "doi": "10.1002/ejsp.2908",
+      "url": "https://lirias.kuleuven.be/retrieve/3cedac3b-0984-4584-9747-8a08dd2aaa52",
+      "type": "replication"
+    },
+    {
+      "text": "Qi, Y., Li, Q., & Du, F. (2018). Are rich people perceived as more trustworthy? Perceived socioeconomic status modulates judgments of trustworthiness and trust behavior based on facial appearance. Frontiers in Psychology, 9, 512. Read as the PubMed Central full text and re-checked on a second fetch.",
+      "doi": "10.3389/fpsyg.2018.00512",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5902732/",
+      "type": "primary"
+    },
+    {
+      "text": "Corrigendum: Are rich people perceived as more trustworthy? Perceived socioeconomic status modulates judgments of trustworthiness and trust behavior based on facial appearance (2019). Frontiers in Psychology, 10, 2316. Read in full; it corrects the funding statement and nothing else.",
+      "doi": "10.3389/fpsyg.2019.02316",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6798957/",
+      "type": "commentary"
+    },
+    {
+      "text": "Kraus, M. W., Torrez, B., Park, J. W., & Ghayebi, F. (2019). Evidence for the reproduction of social class in brief speech. Proceedings of the National Academy of Sciences, 116(46), 22998-23003. Abstract read in the PubMed Central record; the full text was not obtained and no number from it appears on this page.",
+      "doi": "10.1073/pnas.1900500116",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6859342/",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
