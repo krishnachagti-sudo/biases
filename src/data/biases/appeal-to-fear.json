@@ -1,0 +1,130 @@
+{
+  "no": 494,
+  "slug": "appeal-to-fear",
+  "name": "Appeal to fear",
+  "aliases": ["Fear appeal", "Threat appeal", "Scare tactics", "Argumentum ad metum"],
+  "category": "belief",
+  "statement": "Frightening an audience moves attitudes and behaviour a small amount on average, which is a fact about persuasion and not a licence to treat the fear as a reason.",
+  "meaning": "Two questions travel under one name and they have different answers. The first is empirical: does a message that emphasises harm change what people think and do? Decades of experiments answer that, and the answer is a small positive effect that depends on what else the message contains. The second is logical: does the fear the message produces count as evidence for the claim it advances? Hansen's survey of the fallacies keeps the two apart by use. Argumentum ad baculum, the appeal to the stick, is a threat of harm from the speaker, and Hansen's example is a landlord who promises eviction unless you join a demonstration. Such threats give a listener a reason to act, and it is when they are offered as grounds for believing something that the charge of fallacy bites. Bentham's Handbook of Political Fallacies, as Hansen describes it, labelled a whole class of tactics ad metum, the appeal to fear or threats. A public health warning fits neither label cleanly. The harm it describes is not one the speaker will inflict, and if the harm is real the warning is information."
+  ,
+  "origin": {
+    "year": 1953,
+    "who": "Irving L. Janis and Seymour Feshbach",
+    "where": "The Journal of Abnormal and Social Psychology",
+    "note": "The paper runs to pages 78 to 92 of volume 48 and is the study the field dates itself from. Its full text could not be obtained for this entry, so no figure from it is quoted here. Crossref titles it \"Effects of fear-arousing communications\" and PubMed titles it \"Effect of fear-arousing communications\", from the same DOI and page range. The fallacy label is much older than the experiment: Hansen's survey places ad metum among the labels Bentham attached to his political fallacies in 1824."
+  },
+  "evidence": "Four meta-analytic teams have pooled this literature and all four report a positive average. Witte and Allen found 98 studies meeting their criteria, 93 of which entered the main effects analysis. The correlation between the strength of the fear manipulation and attitude change was .147 across 34 studies and 7,514 participants, .126 for intentions across 43 studies and 9,686 participants, and .158 for behaviour across 28 studies and 4,666 participants. They tested the shape of the relationship and found it linear and positive, t = 5.09, p < .0001, with no support for an inverted U, t = -.054, p = .999. Tannenbaum and colleagues assembled the largest database, 127 articles of which 9% were unpublished, giving 248 independent samples and 27,372 participants. The average random-effects effect on a composite of attitudes, intentions and behaviours was d = 0.29, 95% CI 0.22 to 0.35, with Q(247) = 1,287 and I-squared of 85.11. Across the 71 samples carrying a manipulation check, treatment groups reported more fear than comparison groups at d = 1.00, 95% CI 0.83 to 1.18. Three of their moderators separated. Messages with efficacy statements gave 0.43, 95% CI 0.31 to 0.55, k = 92, against 0.21, 95% CI 0.13 to 0.29, k = 154 without. One-time behaviours gave 0.43, 95% CI 0.30 to 0.56, k = 82, against 0.21, 95% CI 0.14 to 0.29, k = 166 for repeated ones. Messages high on both depicted susceptibility and severity gave 0.39, 95% CI 0.28 to 0.50, k = 78, against 0.12, 95% CI -0.03 to 0.27, k = 17 for messages high on neither. Comparing moderate with high depicted fear across 21 samples gave d = -0.05, 95% CI -0.34 to 0.24, which the authors read as diminishing returns rather than a backfire. A metaregression on the percentage of the sample that was female gave b = 0.0031, SE 0.0012, 95% CI 0.0007 to 0.0055, which they translate as about d = 0.03 for each 10 percentage points. Sheeran, Harris and Epton approached the same question through risk appraisal rather than fear. Their published abstract reports d+ = .31 across 217 comparisons for intention and d+ = .23 across 93 for behaviour. Raising risk appraisal, response efficacy and self-efficacy together gave .98 and .45. Bigsby and Albarracín pooled 158 comparisons and 19,736 participants and put the overall effect at d = 0.31 with I-squared of 22.94. Splitting by content, fear appeals carrying positive response efficacy information gave .35, 95% CI 0.33 to 0.37, against .18, 95% CI 0.08 to 0.27, without it, while adding self-efficacy information made no difference, .29 against .31.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The small positive average reproduces in four independent meta-analyses, and two tests applying stricter criteria find no effect of threat by itself.",
+    "detail": "Peters, Ruiter and Kok re-analysed the field under conditions they argue a fair test requires: threat and efficacy manipulated in a full factorial design, and behaviour measured. Of the 295 publications cited in earlier reviews, nine studies survived, seven of them supplying the interaction, and six after they dropped one study whose outcome measure was willingness rather than behaviour. The interaction between threat and efficacy was significant, p = 0.004. Threat had no effect when efficacy was low, d = -0.31, p = 0.061, and an effect when efficacy was high, d = 0.31, p = 0.036. Efficacy did nothing under low threat, d = 0.07, p = 0.689, and a great deal under high threat, d = 0.71, p < 0.0001. They report the low-efficacy figure as borderline significant and negative. Kok, Peters, Kessels, ten Hoor and Ruiter took that further in 2018, concluding that the evidence does not support positive effects of fear appeals. Health Psychology Review ran commentaries against them from Borland, from Roberto, Mongeau and Liu, from Malouff, from Niederdeppe and Kemp, from White and Albarracín, and from Brewer, Hall and Noar, followed by a rejoinder from Peters and colleagues. Brewer, Hall and Noar answered with a field trial rather than an argument. Brewer and seven colleagues, registering the trial at ClinicalTrials.gov as NCT02247908, put pictorial or text-only warnings on the cigarette packs of 2,149 adult smokers in California and North Carolina for four weeks. In intention-to-treat analysis, 40% of the pictorial group attempted to quit against 34% of the text-only group, odds ratio 1.29, 95% CI 1.09 to 1.54, and 5.7% against 3.8% had quit for at least the previous seven days, odds ratio 1.53, 95% CI 1.02 to 2.29. A preregistered test pointing the other way exists too. Yang, Wu, Sasaki and Yamada published a registered report on the extended parallel process model, recruiting 521 people through Yahoo! Crowdsourcing in Japan and analysing 326 after their registered exclusions. Perceived efficacy predicted intention to comply, beta = 0.766, p < 0.001, and perceived threat did not predict it at all.",
+    "study": {
+      "cite": "Tannenbaum, M. B., Hepler, J., Zimmerman, R. S., Saul, L., Jacobs, S., Wilson, K., & Albarracín, D. (2015). Appealing to fear: A meta-analysis of fear appeal effectiveness and theories. Psychological Bulletin, 141(6), 1178-1204.",
+      "doi": "10.1037/a0039729",
+      "year": 2015,
+      "n": 27372
+    },
+    "replicated": {
+      "es": 0.29,
+      "esType": "d",
+      "ci": [0.22, 0.35],
+      "ciLevel": 95,
+      "weighting": "random effects, composite of attitudes, intentions and behaviours"
+    }
+  },
+  "limits": "The 1953 experiment could not be read. Its DOI resolves at Crossref, and the publisher's full-text PDF sits behind a bot filter. Searches at Unpaywall, OpenAlex, Semantic Scholar, Europe PMC and the Internet Archive found no open copy. The conformity percentages that circulate for it therefore appear nowhere on this page. Duke published a critique of it in 1967 which is named here and was not read. de Hoog, Stroebe and de Wit's meta-analysis is closed at Unpaywall and OpenAlex, so only its abstract was read. That gap matters. Tannenbaum's introduction cites the paper as having found null effects, while its own abstract says the findings were consistent with the authors' stage model. Kok and colleagues in 2018 and Sheeran and colleagues in 2014 were read as abstracts only. The commentaries and the rejoinder are named from their Crossref records, apart from Brewer, Hall and Noar, which is open at PubMed Central. The corrigendum to Peters and colleagues was not read. Tannenbaum's own limitations section is the sharpest caveat available. The analysis compares exposure to more or less frightening content, not frightened people against calm ones, and 177 of the 248 samples measured no subjective fear at all. Every included study was an experiment, so generalisation to real campaigns is an assumption. Heterogeneity in that pooled estimate is high, I-squared of 85.11, and the moderator comparisons are correlational.",
+  "misreadings": "The tidy story has the 1950s finding that fear backfires and modern meta-analysis reversing it. The reversal is older than that telling suggests. Witte and Allen tested the inverted U in 2000 and found nothing supporting it, and Tannenbaum's paper describes the curvilinear model as already unsupported by prior meta-analyses when they set out. The opposite overstatement is as common. Tannenbaum's conclusion, that there are no identified circumstances under which fear appeals backfire, is a statement about the moderator levels they coded. Witte and Allen measured the defensive side directly. The stronger the fear appeal, the greater the defensive responses, r = .195 across 13 studies and 1,431 participants, and those responses correlated negatively with message acceptance at r = -.18. Peters and colleagues report threat under low efficacy at d = -0.31. The size gets inflated as well. The pooled effects sit near d = 0.3 and near r = .15, which is a nudge across a population and not a conversion. The largest mistake is treating effectiveness as vindication of the argument. A frightened person who accepts a claim has not thereby been given evidence for it, and the two literatures measure different things: none of the 248 samples Tannenbaum pooled asked whether anyone believed something they had no grounds to believe. The fallacy runs the other way too. Cummings argues that threat and fear appeal arguments in public health are rationally warranted forms rather than fallacies, because they work as shortcuts in reasoning that is otherwise biased. Hansen locates the fallacy in the doxastic use of such appeals rather than in the practical one. Naming a warning ad baculum implies a threat the speaker will carry out, which a warning about cancer is not."
+  ,
+  "sources": [
+    {
+      "text": "Tannenbaum, M. B., Hepler, J., Zimmerman, R. S., Saul, L., Jacobs, S., Wilson, K., & Albarracín, D. (2015). Appealing to fear: A meta-analysis of fear appeal effectiveness and theories. Psychological Bulletin, 141(6), 1178-1204. Read as the full-text PDF; every figure quoted from it here was taken twice from the document text.",
+      "doi": "10.1037/a0039729",
+      "url": "https://socialactionlab.org/wp-content/uploads/2024/01/Tannenbaum_Appealing-to-Fear-A-Meta-Analysis-of-Fear-Appeal-Effectiveness-and-Theories_2015.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Witte, K., & Allen, M. (2000). A meta-analysis of fear appeals: Implications for effective public health campaigns. Health Education & Behavior, 27(5), 591-615. Read as a full-text PDF; the correlations, study counts and the linearity tests were taken from the document text.",
+      "doi": "10.1177/109019810002700506",
+      "url": "https://regulatorwatch.com/wp-content/uploads/2020/06/Witte-and-Allen-2000-A-Meta-Analysis-of-Fear-Appeals-Implications-for-.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Peters, G.-J. Y., Ruiter, R. A. C., & Kok, G. (2013). Threatening communication: a critical re-analysis and a revised meta-analytic test of fear appeal theory. Health Psychology Review, 7(sup1), S8-S31. Read as the open full text at PubMed Central.",
+      "doi": "10.1080/17437199.2012.703527",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3678850/",
+      "type": "replication"
+    },
+    {
+      "text": "Bigsby, E., & Albarracín, D. (2022). Self- and response efficacy information in fear appeals: A meta-analysis. Journal of Communication, 72(2), 241-263. Read as the author copy hosted by the Annenberg School.",
+      "doi": "10.1093/joc/jqab048",
+      "url": "https://www.asc.upenn.edu/sites/default/files/2022-06/Bigsby%20and%20Albarracin.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Sheeran, P., Harris, P. R., & Epton, T. (2014). Does heightening risk appraisals change people's intentions and behavior? A meta-analysis of experimental studies. Psychological Bulletin, 140(2), 511-543. Read as the published abstract only.",
+      "doi": "10.1037/a0033065",
+      "url": "https://doi.org/10.1037/a0033065",
+      "type": "replication"
+    },
+    {
+      "text": "Brewer, N. T., Hall, M. G., Noar, S. M., Parada, H., Stein-Seroussi, A., Bach, L. E., Hanley, S., & Ribisl, K. M. (2016). Effect of pictorial cigarette pack warnings on changes in smoking behavior: A randomized clinical trial. JAMA Internal Medicine, 176(7), 905-912. Registered as NCT02247908.",
+      "doi": "10.1001/jamainternmed.2016.2621",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5458743/",
+      "type": "replication"
+    },
+    {
+      "text": "Yang, J., Wu, X., Sasaki, K., & Yamada, Y. (2021). No significant association of repeated messages with changes in health compliance in the COVID-19 pandemic: a registered report on the extended parallel process model. PeerJ, 9, e11559. Protocol peer reviewed and registered before data collection.",
+      "doi": "10.7717/peerj.11559",
+      "url": "https://doi.org/10.7717/peerj.11559",
+      "type": "replication"
+    },
+    {
+      "text": "Kok, G., Peters, G.-J. Y., Kessels, L. T. E., ten Hoor, G. A., & Ruiter, R. A. C. (2018). Ignoring theory and misinterpreting evidence: the false belief in fear appeals. Health Psychology Review, 12(2), 111-125. Read as the published abstract only.",
+      "doi": "10.1080/17437199.2017.1415767",
+      "url": "https://doi.org/10.1080/17437199.2017.1415767",
+      "type": "commentary"
+    },
+    {
+      "text": "Brewer, N. T., Hall, M. G., & Noar, S. M. (2018). Pictorial cigarette pack warnings increase quitting: a comment on Kok et al. Health Psychology Review, 12(2), 129-132. Read as the open author manuscript at PubMed Central.",
+      "doi": "10.1080/17437199.2018.1445544",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5906160/",
+      "type": "commentary"
+    },
+    {
+      "text": "Peters, G.-J. Y., Ruiter, R. A. C., ten Hoor, G. A., Kessels, L. T. E., & Kok, G. (2018). Towards consensus on fear appeals: a rejoinder to the commentaries on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). Health Psychology Review, 12(2), 151-156. Named from its Crossref record; not read.",
+      "doi": "10.1080/17437199.2018.1454846",
+      "url": "https://doi.org/10.1080/17437199.2018.1454846",
+      "type": "commentary"
+    },
+    {
+      "text": "de Hoog, N., Stroebe, W., & de Wit, J. B. F. (2007). The impact of vulnerability to and severity of a health risk on processing and acceptance of fear-arousing communications: A meta-analysis. Review of General Psychology, 11(3), 258-285. Closed access at Unpaywall and OpenAlex; only the publisher's abstract was read, and no figure from it appears here.",
+      "doi": "10.1037/1089-2680.11.3.258",
+      "url": "https://doi.org/10.1037/1089-2680.11.3.258",
+      "type": "replication"
+    },
+    {
+      "text": "Janis, I. L., & Feshbach, S. (1953). Effects of fear-arousing communications. The Journal of Abnormal and Social Psychology, 48(1), 78-92. The founding experiment; its full text was not obtained for this entry and nothing is quoted from it.",
+      "doi": "10.1037/h0060732",
+      "url": "https://doi.org/10.1037/h0060732",
+      "type": "primary"
+    },
+    {
+      "text": "Duke, J. D. (1967). Critique of the Janis and Feshbach study. The Journal of Social Psychology, 72(1), 71-80. Named as existing; not read.",
+      "doi": "10.1080/00224545.1967.9922300",
+      "url": "https://doi.org/10.1080/00224545.1967.9922300",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Source for ad baculum as the appeal to the stick, for the practical against doxastic distinction, and for Bentham's ad metum label of 1824.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Cummings, L. (2012). Scaring the public: Fear appeal arguments in public health reasoning. Informal Logic, 32(1). Read as the open PDF from the journal.",
+      "doi": "10.22329/il.v32i1.3146",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/3146/2764",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
