@@ -1,0 +1,100 @@
+{
+  "no": 441,
+  "slug": "affirming-the-consequent",
+  "name": "Affirming the consequent",
+  "aliases": ["Affirmation of the consequent", "Converse error", "Fallacy of the converse", "AC inference"],
+  "category": "belief",
+  "statement": "Affirming the consequent runs from 'if p then q' and q to p, and how often people accept the invalid step moves with how many other things could have produced q.",
+  "meaning": "The form has two premises and a conclusion. The conditional says if p then q. The minor premise asserts q. The conclusion asserts p. Nothing licenses that step, because q may hold for reasons that have nothing to do with p. Denying the antecedent is the other invalid form and is a different argument: it asserts not-p and concludes not-q. The two are often named in the same breath and swapped, and the experimental literature keeps them apart because they respond to different features of the material. In the laboratory the four conditional forms are studied together. Modus ponens and modus tollens are valid, affirming the consequent and denying the antecedent are not, and participants accept all four at rates well above zero. What varies is how far the invalid two are accepted, and the variation is not noise. It tracks how easy it is to think of an alternative route to q. It also tracks the instruction: told to draw only necessary conclusions, people accept the form less than when told to judge how likely the conclusion is. The Atlas covers a neighbouring inference task under false dilemma, where the major premise states an incompatibility rather than an implication. There the invalid forms are the denials, and Brisson and colleagues show the same dependence on how many third options the premise leaves open. That page carries the figures and they are not restated here."
+  ,
+  "origin": {
+    "year": 1991,
+    "who": "Denise D. Cummins, Todd Lubart, Olaf Alksnis and Robert Rist",
+    "where": "Memory & Cognition",
+    "note": "The name is far older than any experiment and belongs to logic rather than to a founding paper. Laboratory measurement of the four conditional forms predates 1991 as well. Valerie Thompson's 1994 review cites Taplin in 1971, Taplin and Staudenmayer in 1973, Staudenmayer in 1975 and Marcus and Rips in 1979 as the work showing that people frequently make invalid inferences, and cites Markovits in 1984 as showing that participants aware of alternative antecedents were less likely to draw the affirming and denying inferences. No priority is claimed for the 1991 paper. What it did was cross the number of alternative causes with the number of disabling conditions and show that the two invalid forms answer to the first and not the second."
+  },
+  "evidence": "Cummins and colleagues gave 27 Yale students, none of whom had studied logic, 64 arguments built from 16 causal conditionals. Each conditional was rated by a separate group of 22 students for how many alternative causes and how many disabling conditions it allowed. Participants rated each conclusion on a six-point scale from minus three to plus three. All four cell means were positive, including affirming the consequent, which the authors read as a biconditional interpretation. Acceptance of affirming the consequent varied with the number of alternative causes, F(1,26) = 21.33, p < .01, and did not vary with disabling conditions, F(1,26) = 0.73, ns. Modus ponens ran the other way and answered to disabling conditions, F(1,26) = 16.07. Coding each participant's four answers as a pattern, the biconditional pattern of accepting everything and the conditional pattern of accepting only the valid two together covered 52% of response patterns, and 92% of participants produced at least one biconditional pattern. Biconditional patterns were commoner where few alternative causes existed, F(1,26) = 19.91, p < .001. Thompson replaced causes with perceived necessity and sufficiency. Her Experiment 1 gave 40 undergraduates at Western Ontario 32 conditional statements crossing necessity, sufficiency and four pragmatic relations, each in forward and reversed order, with yes, no or maybe as the answer. For affirming the consequent, 'maybe' is the correct answer. Necessity produced a main effect on affirming the consequent within every one of the four pragmatic relations, F(1,39) at least 34.20, p < .001, with more 'maybe' answers for non-necessary relations. Disabling conditions and sufficiency drove modus ponens and modus tollens instead. Experiment 2 ran another 40 students on a truth-table evaluation task and found the same split. Instructions matter as much as materials. Singmann and Klauer gave one group instructions to treat the premises as given and draw only necessary conclusions, and another group instructions to reason as in everyday life, then crossed formal validity with whether the conclusion was plausible. Their Experiment 1 data, 40 participants and 640 observations, ship with the R package afex and are reanalysed there by Singmann. On the affirmation problems, which are modus ponens and affirming the consequent, the validity effect was 35.8 scale points under deductive instructions and 0.4 under probabilistic ones. The plausibility effect was 30.8 points under probabilistic instructions and minus 3.3 under deductive ones. A plausible instance of affirming the consequent scored 67.0 under deductive instructions and 90.5 under probabilistic ones. Singmann, Klauer and Over asked 30 people in Freiburg for numerical probabilities rather than yes or no. In the deductive part of that study, using letter and number conditionals, endorsement fell from modus ponens to modus tollens, z = 2.87, p = .002, and from modus tollens to the two invalid forms, z = 1.36, p = .09, with no difference between affirming the consequent and denying the antecedent, z = -0.38, p = .65. On the probabilistic part, 60% of responses to affirming the consequent fell inside Pfeifer and Kleiter's coherence intervals against 58% expected by chance from the width of those intervals, an excess of 0.02 that did not differ from zero, z = 0.22, p = 0.82. The same participants cleared chance on modus ponens by 0.40, z = 4.14, p < .001. Fitting the dual-source model to those data, 81% of participants gave the logical form of the inference a weight above zero, ranging from 0.02 to 0.70 with a mean of 0.31."
+  ,
+  "replication": {
+    "state": "replicated",
+    "headline": "The central finding repeats across four decades, several laboratories and three different response formats: people accept affirming the consequent often, and they accept it less as alternative routes to the consequent become easier to see.",
+    "detail": "Cummins and colleagues in 1991 found the effect with causal conditionals, a rating scale and 27 participants. Thompson found it in 1994 with a different construct, perceived necessity, a different response format of yes, no or maybe, and 40 participants, then again in her Experiment 2 with a truth-table task and another 40. Her necessity effect on affirming the consequent held inside each of four pragmatic relations separately, permission, obligation, causal and definition, F(1,39) at least 34.20, p < .001. The ordering of the four forms also repeats. Singmann, Klauer and Over report the standard pattern in their deductive task, modus ponens highest, then modus tollens, then the two invalid forms with no reliable gap between them. Eva, Hartmann and Singmann describe the meta-analytic acceptance rates for the abstract task as .97 for modus ponens, .74 for modus tollens, .64 for affirming the consequent and .56 for denying the antecedent, which they attribute to Schroyens, Schaeken and d'Ydewalle in 2001. Those four figures were read in the Warwick accepted manuscript, not in the meta-analysis, and see the limits below. No attempt has been made here to assess whether the meta-analysis itself has been repeated.",
+    "study": {
+      "cite": "Thompson, V. A. (1994). Interpretational factors in conditional reasoning. Memory & Cognition, 22(6), 742-758.",
+      "doi": "10.3758/BF03209259",
+      "year": 1994,
+      "n": 80
+    }
+  },
+  "limits": "The meta-analysis everyone quotes could not be read. Schroyens, Schaeken and d'Ydewalle's 2001 article in Thinking and Reasoning is closed at the publisher, has no repository copy according to Unpaywall, OpenAlex or Semantic Scholar, and returned 403 at Taylor and Francis. Its four acceptance rates are quoted on this page at one remove, from the text of Eva, Hartmann and Singmann's accepted manuscript in the Warwick repository, and they are not entered as effect sizes. The brief that commissioned this entry circulated a different set of numbers, 97, 72, 63 and 55, and three of the four disagree with the ones actually printed in a document that was opened. Its own title shows the paper is about how negations are processed, so the rates it reports are averages over a negations design and are not a general endorsement rate. Singmann and Klauer's 2011 article is also paywalled and was not obtained. The figures given here come from its Experiment 1 data as distributed with the R package afex and reanalysed in the package vignette by Singmann himself, who notes there that his 'inductive' instruction is called probabilistic in the vignette and that the plausibility factor is a recoding of factors the manuscript used. Oaksford, Chater and Larkin's 2000 article was read only as its PubMed abstract. The double dissociation between instruction and problem type holds on the affirmation problems. On the denial problems, modus tollens and denying the antecedent, the validity effect reached significance in neither instruction group, so a reader should not carry the crossover across to denying the antecedent. Every rate on this page belongs to its materials and its instruction condition, and the two together move endorsement by tens of points. The probabilistic rehabilitation has a boundary. Adams' notion of p-validity, as Singmann, Klauer and Over set it out, classifies modus ponens and modus tollens as p-valid and affirming the consequent and denying the antecedent as not, exactly parallel to classical logic. Pfeifer and Kleiter's coherence interval for affirming the consequent has a lower bound of zero, so a coherent reasoner may hold the conclusion to be arbitrarily improbable. Where the premises are certain the form stays invalid on any of these standards. What the probabilistic accounts change is the scoring key when the premises are uncertain."
+  ,
+  "misreadings": "The commonest error is to swap the two invalid forms. Affirming the consequent asserts q and concludes p. Denying the antecedent asserts not-p and concludes not-q. They are separately invalid and they answer to different things in the materials: in Cummins' design both moved with alternative causes, while modus ponens and modus tollens moved with disabling conditions. A second error treats the endorsement rate as a property of people rather than of the task. Singmann and Klauer's participants gave a plausible instance of the form 67.0 out of 100 when told to draw only necessary conclusions and 90.5 when told to reason as in everyday life. The materials matter as much: the same form is close to safe where the consequent has one plausible cause and clearly wrong where it has many. A third error reads the word 'fallacy' as settling the matter. Whether accepting the form is an error depends on the standard applied. Oaksford, Chater and Larkin proposed a model in which conditional inference is a direct function of conditional probabilities, and Schroyens and Schaeken's abstract states that the authors of that model then set the probability of the minor premise to one and conditionalise on it, so the conclusion of affirming the consequent should be believed to the degree that p is probable given q. On that reading a high rate is not a mistake. The dispute is live and this page takes no side in it. Schroyens and Schaeken evaluated the model against their own meta-analyses and concluded that a purely probabilistic model is deficient and incomplete and that a mental models account fits better; the PubMed record shows a reply printed with it at pages 150 to 156. Oberauer and Wilhelm, testing what the conditional means rather than what follows from it, report judgments strongly influenced by the ratio of pq to p-not-q cases, which supports the conditional probability account, alongside effects of the frequency of pq cases and of pragmatic utility, which do not. The last error is to expect the form to be rejected outright once someone sees the point. Even under deductive instructions, and even with abstract letter and number materials, endorsement of the two invalid forms does not fall to zero, and it did not for the 30 participants Singmann, Klauer and Over tested."
+  ,
+  "sources": [
+    {
+      "text": "Cummins, D. D., Lubart, T., Alksnis, O., & Rist, R. (1991). Conditional reasoning and causation. Memory & Cognition, 19(3), 274-282. Read in full as the PDF at Springer. Source for the 27 participants, the F values, the response-pattern proportions and the 52% figure.",
+      "doi": "10.3758/BF03211151",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03211151.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Thompson, V. A. (1994). Interpretational factors in conditional reasoning. Memory & Cognition, 22(6), 742-758. Read in full as the PDF at Springer. Source for the necessity effect on affirming the consequent, the two samples of 40, and the list of earlier work on invalid inferences quoted in the origin note.",
+      "doi": "10.3758/BF03209259",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03209259.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Singmann, H., Klauer, K. C., & Over, D. (2014). New normative standards of conditional reasoning and the dual-source model. Frontiers in Psychology, 5, 316. Read as the JATS XML from PubMed Central, PMC4029011. Source for the coherence intervals, the endorsement ordering, the 81% and the mean weight of 0.31.",
+      "doi": "10.3389/fpsyg.2014.00316",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4029011/",
+      "type": "primary"
+    },
+    {
+      "text": "Singmann, H. (2025). ANOVA and Post-Hoc Contrasts: Reanalysis of Singmann and Klauer (2011). Vignette for the R package afex, dated 14 December 2025. Read in full. Source for the design description, the estimated marginal means and the contrast estimates quoted from Experiment 1.",
+      "url": "https://cran.r-project.org/web/packages/afex/vignettes/afex_anova_example.html",
+      "type": "primary"
+    },
+    {
+      "text": "Singmann, H., & Klauer, K. C. (2011). Deductive and inductive conditional inferences: Two modes of reasoning. Thinking & Reasoning, 17(3), 247-281. Paywalled and not obtained; its Experiment 1 data were read through the afex vignette above.",
+      "doi": "10.1080/13546783.2011.572718",
+      "url": "https://doi.org/10.1080/13546783.2011.572718",
+      "type": "provenance"
+    },
+    {
+      "text": "Eva, B., Hartmann, S., & Singmann, H. (2019). A New Probabilistic Explanation of the Modus Ponens-Modus Tollens Asymmetry. Read in full as the accepted manuscript PDF in the Warwick Research Archive Portal, eprint 117468. Source for the four acceptance rates attributed there to Schroyens, Schaeken and d'Ydewalle.",
+      "url": "https://wrap.warwick.ac.uk/id/eprint/117468/1/WRAP-new-probabilistic-explanation-Modus-Ponens%E2%80%93Modus-Tollens-asymmetry-Singmann-2019.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Schroyens, W., Schaeken, W., & d'Ydewalle, G. (2001). The processing of negations in conditional reasoning: A meta-analytic case study in mental model and/or mental logic theory. Thinking & Reasoning, 7(2), 121-172. Closed at the publisher and not obtained; cited for provenance of the acceptance rates quoted at one remove.",
+      "doi": "10.1080/13546780042000091",
+      "url": "https://doi.org/10.1080/13546780042000091",
+      "type": "provenance"
+    },
+    {
+      "text": "Oaksford, M., Chater, N., & Larkin, J. (2000). Probabilities and polarity biases in conditional inference. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26(4), 883-899. Abstract read at PubMed, PMID 10946369; full text not obtained.",
+      "doi": "10.1037/0278-7393.26.4.883",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10946369/",
+      "type": "primary"
+    },
+    {
+      "text": "Schroyens, W., & Schaeken, W. (2003). A critique of Oaksford, Chater, and Larkin's (2000) conditional probability model of conditional reasoning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29(1), 140-149. Abstract read at PubMed, PMID 12549590, which also records a discussion at pages 150 to 156.",
+      "doi": "10.1037/0278-7393.29.1.140",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12549590/",
+      "type": "commentary"
+    },
+    {
+      "text": "Oberauer, K., & Wilhelm, O. (2003). The meaning(s) of conditionals: conditional probabilities, mental models, and personal utilities. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29(4), 680-693. Abstract read at PubMed, PMID 12924867; full text not obtained.",
+      "doi": "10.1037/0278-7393.29.4.680",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12924867/",
+      "type": "commentary"
+    },
+    {
+      "text": "Brisson, J., Markovits, H., Robert, S., & Schaeken, W. (2018). Reasoning from an incompatibility: False dilemma fallacies and content effects. Memory & Cognition, 46(5), 657-670. Not obtained here; named only to point at the Atlas entry on false dilemma, which carries its figures.",
+      "doi": "10.3758/s13421-018-0804-x",
+      "url": "https://doi.org/10.3758/s13421-018-0804-x",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
