@@ -1,0 +1,103 @@
+{
+  "no": 516,
+  "slug": "fallacy-of-the-single-cause",
+  "name": "Fallacy of the single cause",
+  "aliases": [
+    "Causal oversimplification",
+    "Causal reductionism",
+    "Single-cause fallacy",
+    "Reductive fallacy"
+  ],
+  "category": "belief",
+  "statement": "Offered two symptoms that one disease explains and two diseases explain jointly, 96% of Lombrozo's participants took the single disease, and a third kept it against 10 to 1 odds.",
+  "meaning": "The claim is about which explanation people choose, not about how many causes an event has. Lombrozo measured simplicity as the number of causes an explanation invokes, and set that count against stated frequencies, so a participant had to choose between the tidier story and the likelier one. Two things can go wrong at that point. A person can refuse to update on the probabilities, or a person can update properly from a starting point that already favours the single cause. Lombrozo's data separate these, and the second is what she found. Later work narrowed the count that matters: what people track is the number of causes an explanation leaves unexplained, so three causes descending from one starting point can beat a pair of independent ones.",
+  "origin": {
+    "year": 2007,
+    "who": "Tania Lombrozo",
+    "where": "Cognitive Psychology",
+    "note": "\"Simplicity and probability in causal explanation\", volume 55, pages 232 to 257, is the paper that made the fallacy measurable, using four experiments on a fictional planet called Zorg. The name is older and comes from logic teaching rather than from a paper, and who coined it was not identified here. The nearest classical ancestor is not the same claim. Mill's System of Logic, Book III, Chapter X, is titled \"Of Plurality of Causes, and of the Intermixture of Effects\". His plurality of causes is the point that one effect may arise from A on one occasion and from B on another. His intermixture of effects, treated separately in the same chapter, is the case where several causes contribute to one outcome."
+  },
+  "evidence": "Experiment 1 gave 48 undergraduates an alien with sore minttels and purple spots, one disease that causes both, and two diseases that cause one each. With no frequency information, 96% chose the one-disease explanation. Of those, 17% justified the choice by simplicity, 39% by sufficiency and 39% by probability. Experiment 2 put 144 participants into eight conditions of 18, printing how common each disease was, so the single cause ran from 15 times more likely than the pair to 10 times less. Choices tracked the frequencies, and 71% still chose the single disease overall. A logistic regression gave a slope of 0.795 against the ideal agent's 1, which is not the signature of ignoring evidence, and a constant of -1.306, standard error 0.248, which is. Translated onto one scale, participants entered the task rating the single cause about four times likelier than the pair, 2.3 to 6 at 95%, a prior of about 79%, 69 to 86% at 95%. At 10 to 1 against, 39% held to it. Experiment 3 replaced the printed numbers with 75 sampled aliens per disease shown on screen, and 108 participants behaved much the same way, 63% overall, 41% at the 10 to 1 ratio, prior 68%, 57 to 78% at 95%. Those who committed to the unlikely single cause then misremembered how common it was. At the 1:2 ratio they put it at 19%, against 8% from those who chose the pair, t(14.6) = 2.18, p < .05. Across the two hardest ratios the main effect of explanation choice was F(1, 50) = 7.93, p < .01. Experiment 4 removed the arithmetic by printing the joint probabilities as well, and the preference collapsed: 17% chose the single cause, against 61% at the same 2:3 ratio in Experiment 2.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The alien-disease preference holds up in preregistered work on thousands of people, and with real explanations taken off the internet the sign flips and the account naming more causes is rated better.",
+    "detail": "Vrantsidis and Lombrozo ran Lombrozo's scenarios again on Prolific, fully preregistered, 233 adults in each of two studies. Simpler explanations were preferred in Study 1, B = 36.14, p < .001, on both probability and satisfaction ratings. The preference survived controlling for the priors and likelihoods participants themselves supplied, B = 27.01, p < .001, and survived being handed those values outright in Study 2, B = 18.54, p < .001. One result there went the other way from Johnson, Valenti and Keil, who had reported complexity used as a cue to fit: Vrantsidis and Lombrozo found higher likelihoods assigned to simple explanations, 80.54 against 66.14. Sehl, Denison and Friedman report seven preregistered experiments with a total of 2,820 participants. Their abstract, which is all that was read here, states that simple methods were preferred as explanations and as processes where no statistical information was given. It also states that the preferences diminished and often reversed once that information was supplied. Pacer and Lombrozo changed what the count should be. Across four experiments on Mechanical Turk they contrasted node simplicity, the number of causes, with root simplicity, the number of unexplained causes. Experiment 1 gave 36 analysed participants a choice between naming every cause they had learned about and naming only the proximate ones. Where the causes formed a chain, the fuller answer was taken 44% of the time. Where they formed a diamond under a single root, it was taken 83% of the time, though it invokes three causes against two. The trade-off with frequency evidence appeared again in Experiment 2, with 291 analysed out of 575, and so did the memory distortion. The disagreement is with naturalistic materials. Zemla, Sloman, Bechlivanidis and Lagnado had 235 people rate 24 explanations taken from Reddit's Explain Like I'm Five and elsewhere. The four authors coded the causal model behind each explanation. The number of root causes predicted rated quality at R = .64, p = .005, and longer explanations were rated better, R = .60, p = .004. Their second experiment built two separate mechanisms for each of six questions and a concatenation of both. The concatenation won every time, and 75 of 90 participants rated it above its components. Lim and Oppenheimer offer the reconciliation, on 286, 201, 523 and 253 participants: people want the explanation to match the event. Satisfaction rose 0.52 points per unit of explanation complexity for complex scenarios and 0.24 for simple ones."
+    ,
+    "study": {
+      "cite": "Sehl, C. G., Denison, S., & Friedman, O. (2024). Doing things efficiently: Testing an account of why simple explanations are satisfying. Cognitive Psychology, 154, 101692.",
+      "doi": "10.1016/j.cogpsych.2024.101692",
+      "year": 2024,
+      "n": 2820
+    }
+  },
+  "limits": "No standardised effect size is quoted here, because the papers that repeated the paradigm report proportions and regression coefficients rather than d or r. The stimuli are also narrow. Every experiment in the Lombrozo line uses fictional diseases on an invented planet with deterministic causal links and no prior beliefs to draw on, which is the feature Zemla and colleagues objected to. Lombrozo's own Experiment 4 shows how fragile the preference is: printing the joint probabilities took it from 61% to 17%. Johnson, Valenti and Keil report two moderators, a stronger simplicity preference in deterministic than stochastic contexts and in physical than social systems. Both are read from the published abstract. Their article is closed at the publisher, marked closed by Unpaywall, and no copy was found at OpenAlex or Semantic Scholar. Sehl and colleagues' article was reachable only as an abstract on this pass. The applied claim is the weakest part. No study measuring a preference for single-cause accounts among accident investigators was located in searches of Crossref, OpenAlex, PubMed, Semantic Scholar and the open web. The nearest work found is Thallapureddy and colleagues, who ran simulated investigation interviews with 34 experienced construction investigators and report confirmation bias, anchoring and the fundamental attribution error, not this one. On the other side, an audit of 214 root cause analysis reports from 43 Hong Kong public hospitals over two years counted 504 root causes, an average of 2.4 per report, so investigations there were not settling on one cause.",
+  "misreadings": "The fallacy is usually stated as though people ignore evidence in favour of a neat story, and Lombrozo's regression says otherwise. Her participants weighted the frequency information about as an ideal agent would, and the whole of the bias sat in where they started. It is also not a preference for fewer causes. Pacer and Lombrozo's participants took a three-cause chain over a two-cause pair when the chain had one unexplained starting point, so the thing being minimised is loose ends, not entities. Two neighbouring entries name different errors. Post hoc ergo propter hoc, entry 415, is about reading causation off temporal order, and the Texas sharpshooter fallacy, entry 52, is about drawing the target after the shots land. The conjunction fallacy, entry 75, points the other way, and the two coexist: people rate a conjunction of properties as likelier than one of its parts, while preferring an explanation that invokes one cause rather than two. Mill is often cited as the source, and his plurality of causes is a different claim about the same effect having different causes on different occasions. Root cause analysis in accident investigation is often called an instance of the fallacy. That is an argument about method, and no measurement of it was found here.",
+  "sources": [
+    {
+      "text": "Lombrozo, T. (2007). Simplicity and probability in causal explanation. Cognitive Psychology, 55(3), 232-257. Read in full as PDF text; every figure in the evidence section above comes from it.",
+      "doi": "10.1016/j.cogpsych.2006.09.006",
+      "url": "https://doi.org/10.1016/j.cogpsych.2006.09.006",
+      "type": "primary"
+    },
+    {
+      "text": "Pacer, M., & Lombrozo, T. (2017). Ockham's razor cuts to the root: Simplicity in causal explanation. Journal of Experimental Psychology: General, 146(12), 1761-1780. Read in full as PDF text.",
+      "doi": "10.1037/xge0000318",
+      "url": "https://doi.org/10.1037/xge0000318",
+      "type": "replication"
+    },
+    {
+      "text": "Vrantsidis, T. H., & Lombrozo, T. (2022). Simplicity as a cue to probability: Multiple roles for simplicity in evaluating explanations. Cognitive Science, 46(7), e13169. Preregistered; read in full as PDF text.",
+      "doi": "10.1111/cogs.13169",
+      "url": "https://doi.org/10.1111/cogs.13169",
+      "type": "replication"
+    },
+    {
+      "text": "Sehl, C. G., Denison, S., & Friedman, O. (2024). Doing things efficiently: Testing an account of why simple explanations are satisfying. Cognitive Psychology, 154, 101692. Marked open access by Unpaywall, which lists no PDF, and the publisher page did not return the article here; described from the published abstract, read at OpenAlex and again at Semantic Scholar.",
+      "doi": "10.1016/j.cogpsych.2024.101692",
+      "url": "https://doi.org/10.1016/j.cogpsych.2024.101692",
+      "type": "replication"
+    },
+    {
+      "text": "Johnson, S. G. B., Valenti, J. J., & Keil, F. C. (2019). Simplicity and complexity preferences in causal explanation: An opponent heuristic account. Cognitive Psychology, 113, 101222. Closed access; the moderators quoted here are from the abstract at PubMed.",
+      "doi": "10.1016/j.cogpsych.2019.05.004",
+      "url": "https://doi.org/10.1016/j.cogpsych.2019.05.004",
+      "type": "replication"
+    },
+    {
+      "text": "Zemla, J. C., Sloman, S., Bechlivanidis, C., & Lagnado, D. A. (2017). Evaluating everyday explanations. Psychonomic Bulletin & Review, 24(5), 1488-1500. Read in full as PDF text.",
+      "doi": "10.3758/s13423-017-1258-z",
+      "url": "https://doi.org/10.3758/s13423-017-1258-z",
+      "type": "replication"
+    },
+    {
+      "text": "Lim, J. B., & Oppenheimer, D. M. (2020). Explanatory preferences for complexity matching. PLoS ONE, 15(4), e0230929. Read in full as PDF text.",
+      "doi": "10.1371/journal.pone.0230929",
+      "url": "https://doi.org/10.1371/journal.pone.0230929",
+      "type": "replication"
+    },
+    {
+      "text": "Mill, J. S. A System of Logic, Ratiocinative and Inductive, eighth edition, Book III, Chapter X. Read from the Project Gutenberg text, ebook 27942, for the chapter title and the plurality of causes passage.",
+      "url": "https://www.gutenberg.org/cache/epub/27942/pg27942.txt",
+      "type": "provenance"
+    },
+    {
+      "text": "Thallapureddy, S., Sherratt, F., Bhandari, S., Hallowell, M. R., & Hansen, H. (2023). Exploring bias in incident investigations: An empirical examination using construction case studies. Journal of Safety Research, 86, 336-345. Described from the structured abstract, read at OpenAlex and again at Semantic Scholar.",
+      "doi": "10.1016/j.jsr.2023.07.012",
+      "url": "https://doi.org/10.1016/j.jsr.2023.07.012",
+      "type": "commentary"
+    },
+    {
+      "text": "Kwok, Y. T. A., Mah, A. P., & Pang, K. M. (2020). Our first review: an evaluation of effectiveness of root cause analysis recommendations in Hong Kong public hospitals. BMC Health Services Research, 20, 507. The count of 504 root causes across 214 reports is from its abstract.",
+      "doi": "10.1186/s12913-020-05356-6",
+      "url": "https://doi.org/10.1186/s12913-020-05356-6",
+      "type": "commentary"
+    },
+    {
+      "text": "Lundberg, J., Rollenhagen, C., & Hollnagel, E. (2009). What-You-Look-For-Is-What-You-Find: The consequences of underlying accident models in eight accident investigation manuals. Safety Science, 47(10), 1297-1311. Located during the search of the applied literature and not obtained; nothing on this page comes from it.",
+      "doi": "10.1016/j.ssci.2009.01.004",
+      "url": "https://doi.org/10.1016/j.ssci.2009.01.004",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
