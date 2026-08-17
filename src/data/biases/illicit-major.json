@@ -1,0 +1,95 @@
+{
+  "no": 555,
+  "slug": "illicit-major",
+  "name": "Illicit major",
+  "aliases": ["Illicit process", "Illicit process of the major term", "Illicit major term", "Illicit minor", "Illicit process of the minor term", "Illicit minor term"],
+  "category": "belief",
+  "statement": "An argument whose conclusion speaks about all of a term that its premise spoke about only part of proves nothing, and most people accept it anyway.",
+  "meaning": "A categorical syllogism has three terms. The two that appear in the conclusion are the major term, its predicate, and the minor term, its subject. A term is distributed in a proposition when the proposition speaks about every member of it. 'All A are B' distributes A alone. 'No A is B' distributes both. 'Some A are B' distributes neither, and 'Some A are not B' distributes B alone. The fourth of Stock's seven rules forbids distributing in the conclusion any term that was not distributed in the premises. Break that rule on the major term and the result is called illicit major; break it on the minor term and it is illicit minor. The two are one rule and travel together as illicit process. 'All B are A, all B are C, therefore all A are C' is the standard illicit minor, because A is the predicate of an affirmative premise and so covers only part of its class, while the conclusion speaks about all of it. 'All B are A, no C is B, therefore no C is A' is the standard illicit major. In both, the term shared by the premises is properly distributed, which is what separates these from the undistributed middle. Psychology does not study the fallacy under this name. Its measured record sits inside the task that presents all 64 pairs of syllogistic premises, which the Atlas describes on the entry for the fallacy of the undistributed middle.",
+  "origin": {
+    "year": 1888,
+    "who": "St George Stock",
+    "where": "Deductive Logic",
+    "note": "The name is scholastic and no publication established it. Stock's textbook is the earliest full statement obtained for this entry, and it was read in full. It lays down seven primary rules of the syllogism, of which the third guards the middle term and the fourth guards the terms of the conclusion, and it names both species of the violation. Stock's ground for the rule is that a term used in its whole extent in the conclusion, having been used in part in its premise, argues from the part to the whole. His illicit minor is 'All Radicals are covetous, all Radicals are poor, therefore all poor men are covetous'. The oldest psychological account of why such conclusions get accepted is the atmosphere paper of 1935, which the Atlas covers on the undistributed-middle entry."
+  },
+  "evidence": "The record comes from the task in which people see two premises and choose or produce a conclusion. Khemlani and Johnson-Laird pooled six such experiments, all using the same 64 premise pairs, and their Table 6 gives the percentage of each of the nine possible responses to each pair. None of those sources labels its items by the traditional rule, so the sorting below applies Stock's rule to the premise pairs they print. Take the illicit minor first. Given 'All B are A' and 'All B are C', the valid conclusions are 'Some A are C' and 'Some C are A', and 16% gave one of them. 49% concluded 'All A are C' and 10% concluded 'All C are A'. Each of those distributes in the conclusion a term its own premise left undistributed. 22% answered that nothing follows. The illicit-major pairs are worse, and they are the hardest in the whole set. Given 'All B are A' and 'No C is B', 1% produced the valid 'Some A are not C', while 53% concluded 'No C is A' and 26% concluded 'No A is C'. That pair ranks 64th of 64 for accuracy. Given 'No A is B' and 'All B are C', 3% produced the valid 'Some C are not A' and 71% concluded 'No A is C'. That pair ranks 63rd. The five pairs ranked 60th to 64th are all ones whose commonest answer breaks the rule for the conclusion rather than the rule for the middle term. 'All B are A' with 'No B is C' drew 51% for 'No A is C' against 8% correct. 'No A is B' with 'Some B are C' drew 53% for the same conclusion, again against 8% correct. 'No B is A' with 'All B are C' drew 45% for 'No A is C' and 21% for 'No C is A', against 9% correct. The same participants scored 78% on 'No B is A' with 'All C are B'.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Six experiments run in the United States and Italy agree that these premise pairs are the hardest of the 64, and on the two worst of them 1% and 3% of answers are the valid one.",
+    "detail": "Khemlani and Johnson-Laird tested the agreement of their six studies before pooling them, and the rank orders of difficulty were concordant both for the valid syllogisms and for the 37 that support no conclusion interrelating the end terms. The Atlas entry on the undistributed middle carries those statistics and the composition of the six samples. What holds for illicit process in particular is the position of these pairs in the pooled order: they occupy ranks 60 to 64, and the two pairs that no other syllogism beats for difficulty are both ones whose modal answer is an illicit major. Ragni, Dames, Brand and Riesterer take the illicit-minor pair as the worked example that opens their paper, and print 49% for 'All A are C' against 16% for the valid answers, which is the same row read a second time by another group. Their own online sample repeated all 64 pairs and is described on the undistributed-middle entry. The theory predictions come apart here in a way they do not for the undistributed middle. Table 7 of the meta-analysis sets out what each account expects. For 'No A is B' with 'Some B are C' the atmosphere hypothesis predicts 'some are not' conclusions, matching predicts negative universals and illicit conversion predicts that nothing follows. The observed answers were 53% for 'No A is C' and 6% for 'No C is A', 4% and 8% for the two 'some are not' conclusions, and 19% for nothing follows. On the illicit-minor pair the three accounts predict the same two conclusions, so that pair separates nothing.",
+    "study": {
+      "cite": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457.",
+      "doi": "10.1037/a0026841",
+      "year": 2012
+    }
+  },
+  "limits": "No preregistered or multi-laboratory replication of these acceptance rates was located. Crossref searches on the distribution doctrine and on illicit process, a Europe PMC full-text search for 'illicit major' across open-access biomedical and psychological journals, an arXiv search on syllogistic reasoning, and open web searches all returned either the same modelling literature or nothing. No psychological source read here classifies its own items as illicit major or illicit minor, so the mapping between the traditional rule and the premise pairs is made on this page rather than quoted from a paper. The percentages are response frequencies rather than standardised effect sizes, so none of them appear in this entry's effect-size fields, and the underlying materials are abstract letters and short noun phrases given to students. Four documents were not obtained. Woodworth and Sells and Chapman and Chapman are closed at the publisher, and the accounts named after them are described here from the meta-analysis. Geach's 1956 paper is closed at Oxford, and Parsons' reply is closed at Taylor and Francis, whose page returned a 403 to two attempts. The summary of Parsons below is read from his published abstract as reconstructed by OpenAlex. No wording of Geach's own is quoted anywhere on this page. Elsby's reference chapter on the two fallacies is closed at Wiley and was not obtained.",
+  "misreadings": "The commonest error is to file this with the undistributed middle, which the Atlas covers separately. That fallacy fails on the term the premises share; this one fails on a term of the conclusion, and in these premise pairs the shared term is distributed as the rules require. A second error treats illicit major and illicit minor as two different mistakes. They are one rule broken at two places, and which place depends on which term of the conclusion outruns its premise. A third error reads a high acceptance rate as evidence for a particular mechanism. Rates can bear on that question, and here they do, but only because the accounts disagree about these pairs; where they agree the number decides nothing. A fourth error treats an invalid form as one with a false conclusion. 'All B are A, all B are C' leaves 'All A are C' open rather than ruling it out. The last error is to take the distribution apparatus for settled. Peter Geach argued that the notion is incoherent, a claim Terence Parsons sets out and rejects in his history of the doctrine. Wallace Murphree grants that the concept is coherent and denies that it is what makes syllogisms work, calling the practice of framing rules of validity in terms of it specious and misleading. His own paper is the qualification. He finds eleven syllogisms that satisfy the other rules and are still invalid, so that the rule for the conclusion cannot be dropped, and his worked case and one of the ten he lists beside it are an illicit major and an illicit minor.",
+  "sources": [
+    {
+      "text": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457. Read in full as the PDF hosted at modeltheory.org, downloaded twice to the same checksum, with Table 6 extracted by column position and checked against each row's printed accuracy. Source for every percentage and rank quoted here and for the theory predictions in Tables 3 and 7.",
+      "doi": "10.1037/a0026841",
+      "url": "https://modeltheory.org/papers/ssk/ssk2012syllogisms-meta-analysis.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Stock, St George William Joseph (1888). Deductive Logic. Read in full as the Project Gutenberg text, ebook 6560. Source for the seven primary rules, for the naming of illicit process of the major and of the minor term, and for the worked examples in the origin note.",
+      "url": "https://www.gutenberg.org/ebooks/6560",
+      "type": "primary"
+    },
+    {
+      "text": "Ragni, M., Dames, H., Brand, D., & Riesterer, N. (2019). When does a reasoner respond: Nothing follows? Proceedings of the 41st Annual Meeting of the Cognitive Science Society, 2640-2646. Read in full as the eScholarship PDF. Source for the illicit-minor pair being their opening example and for their statement of what the atmosphere and matching accounts can and cannot predict.",
+      "url": "https://escholarship.org/uc/item/2zk82992",
+      "type": "replication"
+    },
+    {
+      "text": "Murphree, W. A. (1994). The irrelevance of distribution for the syllogism. Notre Dame Journal of Formal Logic, 35(3), 433-449. Read in full as the publisher's PDF, retrieved twice to the same checksum. Source for the verdict that distribution-based rules of validity are specious, for the note that Geach's criticisms prompted defenders to clarify the concept, and for the eleven syllogisms on which the rule for the conclusion cannot be dropped.",
+      "doi": "10.1305/ndjfl/1040511349",
+      "url": "https://doi.org/10.1305/ndjfl/1040511349",
+      "type": "commentary"
+    },
+    {
+      "text": "Parsons, T. (2006). The doctrine of distribution. History and Philosophy of Logic, 27(1), 59-74. Closed at the publisher, which returned a 403; the abstract was read through OpenAlex, and it is the source for the statement that Geach called the notion incoherent and that Parsons rejects his arguments.",
+      "doi": "10.1080/01445340500321543",
+      "url": "https://doi.org/10.1080/01445340500321543",
+      "type": "commentary"
+    },
+    {
+      "text": "Geach, P. T. (1956). The doctrine of distribution. Mind, 65(1), 67-74. Closed at the publisher and not obtained; the bibliographic record was confirmed at Crossref, and the position is described here only through Parsons and Murphree.",
+      "doi": "10.1093/mind/65.1.67",
+      "url": "https://doi.org/10.1093/mind/65.1.67",
+      "type": "provenance"
+    },
+    {
+      "text": "Toms, E. (1965). Mr. Geach on distribution. Mind, 74(295), 428-431. Not obtained; named as one of the replies Murphree credits with clarifying the concept.",
+      "doi": "10.1093/mind/lxxiv.295.428",
+      "url": "https://doi.org/10.1093/mind/lxxiv.295.428",
+      "type": "provenance"
+    },
+    {
+      "text": "Elsby, C. (2018). Illicit major and minor terms. In Bad Arguments, 60-62. Closed at Wiley and not obtained; named as a modern reference treatment of the two fallacies under their traditional names.",
+      "doi": "10.1002/9781119165811.ch6",
+      "url": "https://doi.org/10.1002/9781119165811.ch6",
+      "type": "provenance"
+    },
+    {
+      "text": "Woodworth, R. S., & Sells, S. B. (1935). An atmosphere effect in formal syllogistic reasoning. Journal of Experimental Psychology, 18(4), 451-460. Closed at the publisher and not obtained; the record was confirmed at Crossref and the account is described here from the meta-analysis.",
+      "doi": "10.1037/h0060520",
+      "url": "https://doi.org/10.1037/h0060520",
+      "type": "provenance"
+    },
+    {
+      "text": "Wetherick, N. E., & Gilhooly, K. J. (1995). 'Atmosphere', matching, and logic in syllogistic reasoning. Current Psychology, 14(3), 169-178. Not obtained; the matching account is described here from the meta-analysis.",
+      "doi": "10.1007/BF02686906",
+      "url": "https://doi.org/10.1007/BF02686906",
+      "type": "provenance"
+    },
+    {
+      "text": "Chapman, L. J., & Chapman, J. P. (1959). Atmosphere effect re-examined. Journal of Experimental Psychology, 58(3), 220-226. Closed at the publisher and not obtained; named as the source of the illicit conversion account, which is described here from the meta-analysis.",
+      "doi": "10.1037/h0041961",
+      "url": "https://doi.org/10.1037/h0041961",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
