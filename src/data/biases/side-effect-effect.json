@@ -8,23 +8,23 @@
   ],
   "category": "social",
   "statement": "A foreseen side effect the actor did not care about is called intentional when it does harm and unintentional when it does good.",
-  "meaning": "The vignette holds everything fixed except whether the outcome is good or bad. A chairman is told a new programme will raise profits and, as a side effect, help or harm the environment. He says he does not care at all about the environment and starts the programme anyway. Asked whether he brought the side effect about intentionally, people say yes when it was harm and no when it was help. The mental state is identical in both versions and the answers are opposite, which means the judgement of intention is running partly on a moral evaluation rather than only on what the actor knew and wanted. That was a problem for philosophy of action, which had generally assumed the reverse order: work out what was intended, then assign blame.",
+  "meaning": "The vignette holds everything fixed except whether the outcome is good or bad. A chairman is told a new programme will raise profits and, as a side effect, help or harm the environment. He says he does not care at all about the environment and starts the programme anyway. Asked whether he brought the side effect about intentionally, people say yes when it was harm and no when it was help. The mental state is identical in both versions and the answers are opposite, which means the judgement of intention is running partly on a moral evaluation rather than only on what the actor knew and wanted. That was a problem for philosophy of action, which had generally assumed the reverse order: work out what was intended, then assign blame. Two neighbouring entries cover different questions. Intentionality bias, entry 295, asks how often an ambiguous act is read as deliberate. Moral luck, entry 119, varies the outcome of a careless act rather than its moral direction.",
   "origin": {
     "year": 2003,
     "who": "Joshua Knobe",
     "where": "Analysis",
     "note": "The paper is short and reports two questionnaire studies run on people in a Manhattan public park, 78 subjects in the first and 42 in the second. It became one of the founding results of experimental philosophy."
   },
-  "evidence": "In the first experiment 82% said the chairman harmed the environment intentionally and 23% said he helped it intentionally, χ2(1, N = 78) = 27.2, p < .001. The second swapped the corporate story for a lieutenant sending a squad into or out of enemy fire. There 77% called the harmful side effect intentional and 70% said the helpful one was not, χ2(1, N = 42) = 9.5, p < .01. Knobe then pooled the two experiments to compare blame with praise. Blame in the harm conditions averaged 4.8 on a scale of 0 to 6 and praise in the help conditions 1.4, t(120) = 8.4, p < .001, and the rating correlated with the intentionality judgement at r(120) = .53. That correlation is the link the effect turns on, and it rests on the two experiments together rather than on the chairman vignette alone.",
+  "evidence": "In the first experiment 82% of the harm group said the chairman brought the side effect about intentionally, and 77% of the help group said he did not, χ2(1, N = 78) = 27.2, p < .001. Many Labs 2 states the same result as 23% calling the help intentional. The second experiment swapped the corporate story for a lieutenant sending a squad into or out of enemy fire. There 77% called the harmful side effect intentional and 70% said the helpful one was not, χ2(1, N = 42) = 9.5, p < .01. Knobe then pooled the two experiments to compare blame with praise. Blame in the harm conditions averaged 4.8 and praise in the help conditions 1.4, t(120) = 8.4, p < .001, and the rating correlated with the intentionality judgement at r(120) = .53, p < .001. That correlation is the link the effect turns on, and it rests on the two experiments together rather than on the chairman vignette alone. Knobe prints those praise and blame scales as running from 0 to 6; Many Labs 2 describes them as running from 1 to 7.",
   "replication": {
     "state": "replicated",
-    "headline": "Across 7,982 people at the 61 sites that ran this vignette the asymmetry came back larger than in the original park questionnaire.",
-    "detail": "Many Labs 2 replaced the yes-or-no question with a seven-point scale, which is a more sensitive measure of the same judgement. Participants in the harm condition rated the side effect as intentional at 5.34 and those in the help condition at 2.17, giving d = 1.75, 95% CI 1.70 to 1.80. The original figure was d = 1.45, with a confidence interval running from 0.79 to 2.77 on a sample of 78. The vignette sat in the project's second slate, which 61 of the 125 samples completed. Effects this large surviving a preregistered test at this scale are uncommon in this literature.",
+    "headline": "Across 7,982 people in the 59 Many Labs 2 samples that contributed the asymmetry came back larger than in the original park questionnaire.",
+    "detail": "Many Labs 2 replaced the yes-or-no question with a seven-point scale, which is a more sensitive measure of the same judgement. Participants in the harm condition rated the side effect as intentional at 5.34, SD 1.94, and those in the help condition at 2.17, SD 1.69, t(7,843.86) = 78.11, d = 1.75, 95% CI 1.70 to 1.80. The original figure was d = 1.45, with a confidence interval running from 0.79 to 2.77 on a sample of 78. Blame and praise were run as a secondary replication and moved further apart than in 2003, 6.03 against 2.54, d = 2.42, 95% CI 2.36 to 2.48.\n\nThe per-effect numbers are smaller than the project's. Many Labs 2 as a whole collected 15,305 participants in 125 samples across 28 effects, and this vignette sat in the second slate, which 61 samples ran. Its heterogeneity test is Q(58) = 631.72, so 59 samples entered the analysis of this effect. The median sample-level estimate was d = 1.94. The effect was significant and in the expected direction in 94.92% of samples, was not significant in 5.08%, and ran the other way in none.\n\nA larger population test exists and could not be read. Schmidt-Petri, Labarca-Pinto and Schröder put the vignette to a German panel as a module of SOEP-IS 2023, whose documentation lists 2,400 respondents, and published the analysis in Philosophical Psychology in 2026. Every request for the article returned a bot check, so no figure from it appears here.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
       "year": 2018,
-      "sites": 61,
+      "sites": 59,
       "n": 7982
     },
     "original": {
@@ -47,21 +47,62 @@
       "weighting": "aggregate"
     }
   },
-  "limits": "The effect was one of the least uniform in Many Labs 2. Its I² ran above 75%, a level only one other effect in the project reached, and it was one of three whose size was moderated by whether the sample came from a WEIRD country. A large average therefore hides real variation between sites. What is not settled by any of this is why the asymmetry happens. Competing accounts have it as a fact about the concept of intentional action, as blame leaking into an unrelated judgement, and as people reading the chairman's indifference to harm as itself a kind of endorsement. The experiment separates none of these, and a robust effect with three live explanations is a smaller result than it looks.",
-  "misreadings": "It is often presented as showing that people are incoherent about intention. A more careful reading is that the everyday concept of doing something intentionally may simply include a moral component, in which case the answers are consistent and the philosophical theory was the thing that was wrong. It is also cited as evidence that moral judgement precedes all reasoning, which is a much larger claim than one vignette supports.",
+  "limits": "The effect was one of the least uniform in Many Labs 2. Its I² was 93%, 95% CI 92% to 97%, and the only other effect above 75% was Huang, Tse and Cho's cardinal-direction result. It was also one of three effects the project found to be moderated by how WEIRD the sample was, Q = 26.43, p < .001. A large average therefore hides real variation between sites.\n\nWhy the asymmetry happens is not settled. Laurent, Clark and Schweitzer report that side-effect asymmetries disappear when the response options let people separate actions, goals and side effects, and argue that people reinterpret the standard question as one about intentional action. Cova, Lantian and Boudesseul answer that the standard measure does not overstate the judgement and that moral evaluation still mediates the effect once non-moral factors are held constant. Both were read as abstracts at Europe PMC, and neither full text was obtained.\n\nThe asymmetry is not confined to harm. Hernández-Conde and Vicente put Knobe's environment vignette and two new ones to 99 neurotypical adults at three Spanish universities and 99 autistic adults recruited through Prolific. Among the neurotypical group 82% called the harmful side effect intentional against 12% for the helpful one, χ2(1, N = 99) = 45.5, p < .001. An aesthetic version gave 65% against 34%, χ2(1, N = 99) = 8.4, p = .004. A version turning on a false rather than a true belief gave 74% against 26%, χ2(1, N = 99) = 20.4, p < .001. Starita, Degni, Dalbagno and Ciaramelli found the asymmetry absent in 11 people with ventromedial prefrontal lesions and present in 23 healthy controls, d = 1.38, interaction F(1,32) = 5.08, p = .031. Twenty-four controls were recruited and one was dropped for not completing the task. Their materials were 20 short scenarios rather than Knobe's two.\n\nNo meta-analysis of the intentionality version was found in searches of Crossref, Europe PMC and Semantic Scholar in August 2026. The epistemic version of the effect, which asks about knowledge rather than intention, has one: Maćkiewicz, Kuś, Paprzycka-Hausman and Zaręba in Episteme.",
+  "misreadings": "It is often presented as showing that people are incoherent about intention. A more careful reading is that the everyday concept of doing something intentionally may simply include a moral component, in which case the answers are consistent and the philosophical theory was the thing that was wrong. It is also cited as evidence that moral judgement precedes all reasoning, which is a much larger claim than one vignette supports. The Many Labs 2 headline numbers are misquoted in the same direction: 15,305 participants, 125 samples and 36 countries describe the whole project, while this vignette rests on 7,982 people in 59 samples.",
   "sources": [
     {
-      "text": "Knobe, J. (2003). Intentional action and side effects in ordinary language. Analysis, 63(3), 190-194.",
+      "text": "Knobe, J. (2003). Intentional action and side effects in ordinary language. Analysis, 63(3), 190-194. Read as the copy the author hosts at Yale, whose own header gives the pages as 190-193.",
       "doi": "10.1093/analys/63.3.190",
-      "url": "https://doi.org/10.1093/analys/63.3.190",
+      "url": "https://campuspress.yale.edu/joshuaknobe/files/2016/02/Side-Effect-2jd52ts.pdf",
       "type": "primary"
     },
     {
-      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Numbers read from the published copy in the George Fox University repository and checked against the preprint at LSE Research Online.",
       "doi": "10.1177/2515245918810225",
       "url": "https://doi.org/10.1177/2515245918810225",
       "type": "replication"
+    },
+    {
+      "text": "Hernández-Conde, J. V., & Vicente, A. (2026). Assessing the Knobe Effect in Autistic and Non-Autistic Individuals. Review of Philosophy and Psychology, 17, 119-145.",
+      "doi": "10.1007/s13164-025-00792-x",
+      "url": "https://doi.org/10.1007/s13164-025-00792-x",
+      "type": "replication"
+    },
+    {
+      "text": "Starita, F., Degni, L. A. E., Dalbagno, D., & Ciaramelli, E. (2025). Lesion to the vmPFC abolishes intentionality (mis)attribution in the Knobe effect. Scientific Reports, 15, article 21639.",
+      "doi": "10.1038/s41598-025-03457-y",
+      "url": "https://doi.org/10.1038/s41598-025-03457-y",
+      "type": "extension"
+    },
+    {
+      "text": "Laurent, S. M., Clark, B. A. M., & Schweitzer, K. A. (2015). Why side-effect outcomes do not affect intuitions about intentional actions: Properly shifting the focus from intentional outcomes back to intentional actions. Journal of Personality and Social Psychology, 108(1), 18-36. Read as the abstract at Europe PMC, PMID 25111302.",
+      "doi": "10.1037/pspa0000011",
+      "url": "https://europepmc.org/article/MED/25111302",
+      "type": "critique"
+    },
+    {
+      "text": "Cova, F., Lantian, A., & Boudesseul, J. (2016). Can the Knobe Effect Be Explained Away? Methodological Controversies in the Study of the Relationship Between Intentionality and Morality. Personality and Social Psychology Bulletin, 42, 1295-1308. Read as the abstract at Europe PMC, PMID 27424330.",
+      "doi": "10.1177/0146167216656356",
+      "url": "https://europepmc.org/article/MED/27424330",
+      "type": "critique"
+    },
+    {
+      "text": "Schmidt-Petri, C., Labarca-Pinto, D., & Schröder, C. (2026). Quantifying the Knobe effect: population-level patterns and heterogeneity analyses. Philosophical Psychology. Metadata verified at Crossref; the full text could not be retrieved.",
+      "doi": "10.1080/09515089.2026.2676274",
+      "url": "https://doi.org/10.1080/09515089.2026.2676274",
+      "type": "replication"
+    },
+    {
+      "text": "SOEP-IS Companion, Innovative Modules, Survey Year 2023: Knobe-Effect. Lists Schmidt-Petri and Schröder as the module's authors and 2,400 respondents.",
+      "url": "https://companion-is.soep.de/Innovative%20Modules/2023/Knobe-Effect.html",
+      "type": "provenance"
+    },
+    {
+      "text": "Maćkiewicz, B., Kuś, K., Paprzycka-Hausman, K., & Zaręba, M. (2024). Epistemic Side-Effect Effect: A Meta-Analysis. Episteme, 21(2), 609-643.",
+      "doi": "10.1017/epi.2022.21",
+      "url": "https://doi.org/10.1017/epi.2022.21",
+      "type": "context"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
