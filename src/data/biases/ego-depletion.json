@@ -15,11 +15,11 @@
     "where": "Journal of Personality and Social Psychology",
     "note": "Their paper asked the question in its title: \"Ego depletion: Is the active self a limited resource?\" The model became one of the most influential ideas in social psychology, and a 2010 meta-analysis of 83 studies by Hagger, Wood, Stiff and Chatzisarantis in Psychological Bulletin reported a medium-sized effect across the literature."
   },
-  "evidence": "Almost every test uses the same shape, the sequential-task paradigm: participants perform an initial task demanding self-control, then a second unrelated one, and the second task's performance is compared against a control group who skipped the first. Hundreds of experiments of this form were published, and the 2010 meta-analysis pooled 83 of them into a medium-sized effect. Carter and McCullough reapplied small-study corrections to that same body of data in 2014 and found what they called very strong signals of publication bias, with an indication that the effect was no different from zero. Their analysis is what prompted the field to test the paradigm directly rather than pool it again.",
+  "evidence": "Almost every test uses the same shape, the sequential-task paradigm: participants perform an initial task demanding self-control, then a second unrelated one, and the second task's performance is compared against a control group who skipped the first. Hundreds of experiments of this form were published. The 2010 meta-analysis covered 83 studies and drew 198 tests from them. A second strand asked what the resource was made of. Gailliot and colleagues proposed in 2007 that it was blood glucose, reporting that acts of self-control lowered glucose, that low glucose predicted worse performance on the next task, and that a glucose drink removed the impairment. Carter and McCullough reapplied small-study corrections to Hagger's data in 2014 and found what they called very strong signals of publication bias, with an indication that the effect was no different from zero. Their own regression estimate of the underlying effect was -0.10, 95% CI -0.23 to 0.02. That analysis is what prompted the field to test the paradigm directly rather than pool it again.",
   "replication": {
     "state": "failed",
     "headline": "Twenty-three laboratories ran the same preregistered protocol on 2,141 people and found an effect indistinguishable from zero.",
-    "detail": "The Registered Replication Report used a single standardised protocol, agreed in advance, based on a sequential-task design from Sripada and colleagues. The depleting task was the letter \"e\" task: the depletion group had to press a button for words containing an \"e\" but withhold the response when the \"e\" sat next to or one letter from a vowel, while the control group simply responded to every \"e\". The second task was the multi-source interference task, and the primary outcome was variability in reaction times on its incongruent trials. Pooled across all 23 labs by random-effects meta-analysis the estimate was d = 0.04, with a 95% confidence interval from -0.07 to 0.15. That interval spans zero and rules out an effect of the size the earlier literature reported. The manipulation itself did something: the depletion version of the letter task cut accuracy heavily (d = -1.82) and was rated as harder and more frustrating than the control version. Roy Baumeister was one of three researchers who vetted the protocol before it ran. It tests one protocol run identically everywhere, not every version of the paradigm ever published.",
+    "detail": "The Registered Replication Report used a single standardised protocol, agreed in advance, based on a sequential-task design from Sripada and colleagues. The depleting task was the letter \"e\" task: the depletion group had to press a button for words containing an \"e\" but withhold the response when the \"e\" sat next to or one letter from a vowel, while the control group simply responded to every \"e\". The second task was the multi-source interference task, and the primary outcome was variability in reaction times on its incongruent trials. Pooled across all 23 labs by random-effects meta-analysis the estimate was d = 0.04, with a 95% confidence interval from -0.07 to 0.15. That interval spans zero and rules out an effect of the size the earlier literature reported. The manipulation itself did something: the depletion version of the letter task cut accuracy heavily (d = -1.82) and was rated as harder and more frustrating than the control version. Roy Baumeister was one of three researchers who vetted the protocol before it ran. He and Kathleen Vohs then argued that the letter task did not demand enough exertion, and Junhua Dang argued that it kept only one of the original task's three features, leaving participants no habit to override. Hagger and Chatzisarantis answered that all but one lab predicted a substantive effect in advance, and that three labs found a non-zero effect, one of them against the predicted direction. It tests one protocol run identically everywhere, not every version of the paradigm ever published.",
     "study": {
       "cite": "Hagger, M. S., Chatzisarantis, N. L. D., Alberts, H., et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science, 11(4), 546-573.",
       "doi": "10.1177/1745691616652873",
@@ -39,8 +39,8 @@
     },
     "indexedBy": "FReD"
   },
-  "limits": "No original effect size is printed in the fields above, because the 2010 meta-analysis is paywalled and its abstract at PubMed carries no figure. Its pooled estimate of d = 0.62 is quoted here from the replication report, which prints it for comparison. That is a number read at one remove, which is why it stays out of the structured fields. The same report gives Carter and colleagues' 2015 rework of that data as g = 0.24 by trim-and-fill and g = 0.003 by the PET regression, also at one remove. Two later multilab tests split on whether anything survives. Vohs and colleagues ran 36 laboratories and 3,531 people in 2021 and their preregistered analysis returned d = 0.06, nonsignificant, with the data four times more likely under the null. Dang and colleagues ran 12 laboratories and 1,775 people on a Stroop task followed by an antisaccade task and found d = 0.10, small and significant. Neither figure is near 0.62.",
-  "misreadings": "The result is often reported as proof that self-control is not a limited resource. It is not that. It is strong evidence against one specific prediction, tested through one specific task, at the size the literature claimed. Self-control still varies within a person over a day, and that variation still needs an explanation; what has failed is the fuel-tank account of it. The opposite misreading is also common: that a null result at 23 labs is just one study among hundreds. A preregistered protocol run identically across 23 sites is not one study among hundreds. It is the only kind designed so that its answer could not be chosen after the fact. A third error is to treat the 2016 and 2021 multilab reports as one result. They are separate projects with different lead authors, different tasks and different samples, and they happen to agree.",
+  "limits": "No original effect size is printed in the fields above, because the 2010 meta-analysis is paywalled, its abstract at PubMed carries no figure, and OpenAlex records no open copy of it. Its pooled estimate of d = 0.62, 95% CI 0.57 to 0.67, is quoted here from Carter and McCullough, who print it for comparison. That is a number read at one remove, which is why it stays out of the structured fields. Carter and colleagues' 2015 paper is a fresh meta-analysis rather than a rework of Hagger's data, built from published and unpublished experiments under its own inclusion rules. It put the combined effect at g = 0.43, 95% CI 0.34 to 0.52, and trim-and-fill cut that to g = 0.24, 95% CI 0.13 to 0.34. On the same combined set its PET regression gave -0.27, 95% CI -0.52 to -0.01, and its PEESE regression gave 0.003, 95% CI -0.14 to 0.15. Two later multilab tests split on whether anything survives. Vohs and colleagues ran 36 laboratories and 3,531 people in 2021 across two protocols, and their preregistered analysis returned d = 0.06, 95% CI -0.02 to 0.14, with the data 4.4 times more likely under the null. Ignoring the exclusion rules moved that to d = 0.08 and significant. Dang and colleagues ran 12 laboratories and 1,775 people on a Stroop task followed by an antisaccade task, a pairing picked because a preregistered study had got a substantial effect from it, and found d = 0.10, 95% CI 0.01 to 0.19. No figure from the three is near 0.62. The glucose account has its own replication record. Dang's 2016 meta-analysis found none of its three predictions supported. Lange and Eggert found no effect of sugar ingestion or of a glucose mouth rinse in experiments of 70 and 115 people. Vadillo, Gold and Osman's p-curve of 19 glucose studies came out flat, the shape expected when significant results are false positives.",
+  "misreadings": "The result is often reported as proof that self-control is not a limited resource. It is not that. It is strong evidence against one specific prediction, tested through one specific task, at the size the literature claimed. Self-control still varies within a person over a day, and that variation still needs an explanation; what has failed is the fuel-tank account of it. The opposite misreading is also common: that a null result at 23 labs is just one study among hundreds. A preregistered protocol run identically across 23 sites is not one study among hundreds. It is the only kind designed so that its answer could not be chosen after the fact. A third error is to treat the 2016 and 2021 multilab reports as one result. They are separate projects with different lead authors, different tasks and different samples, and they happen to agree. Dang and colleagues' significant d = 0.10 is sometimes read the other way, as a vindication. It sits far below the 0.62 the model was sold on.",
   "sources": [
     {
       "text": "Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology, 74(5), 1252-1265.",
@@ -67,7 +67,7 @@
       "type": "secondary"
     },
     {
-      "text": "Carter, E. C., Kofler, L. M., Forster, D. E., & McCullough, M. E. (2015). A series of meta-analytic tests of the depletion effect: Self-control does not seem to rely on a limited resource. Journal of Experimental Psychology: General, 144(4), 796-815. Its bias-corrected figures are quoted here from the 2016 replication report, not from this paper.",
+      "text": "Carter, E. C., Kofler, L. M., Forster, D. E., & McCullough, M. E. (2015). A series of meta-analytic tests of the depletion effect: Self-control does not seem to rely on a limited resource. Journal of Experimental Psychology: General, 144(4), 796-815. Its figures are read here from the accepted manuscript at https://pages.ucsd.edu/~memccullough/Papers/EgoDepletionMetaAnalysis_Text_Revision_for_circulation.pdf, and they agree with the figures the 2016 replication report quotes.",
       "doi": "10.1037/xge0000083",
       "url": "https://doi.org/10.1037/xge0000083",
       "type": "secondary"
@@ -85,11 +85,65 @@
       "type": "replication"
     },
     {
+      "text": "Baumeister, R. F., & Vohs, K. D. (2016). Misguided Effort With Elusive Implications. Perspectives on Psychological Science, 11(4), 574-575. Paywalled; its criticism of the letter task is described here from Drummond and Philipp's open commentary.",
+      "doi": "10.1177/1745691616652878",
+      "url": "https://doi.org/10.1177/1745691616652878",
+      "type": "secondary"
+    },
+    {
+      "text": "Drummond, A., & Philipp, M. C. (2017). Commentary: \"Misguided Effort with Elusive Implications\" and \"A Multi-Lab Pre-Registered Replication of the Ego Depletion Effect\". Frontiers in Psychology, 8, 273.",
+      "doi": "10.3389/fpsyg.2017.00273",
+      "url": "https://doi.org/10.3389/fpsyg.2017.00273",
+      "type": "secondary"
+    },
+    {
+      "text": "Dang, J. (2016). Commentary: A Multilab Preregistered Replication of the Ego-Depletion Effect. Frontiers in Psychology, 7, 1155.",
+      "doi": "10.3389/fpsyg.2016.01155",
+      "url": "https://doi.org/10.3389/fpsyg.2016.01155",
+      "type": "secondary"
+    },
+    {
+      "text": "Hagger, M. S., & Chatzisarantis, N. L. D. (2016). Commentary: Misguided Effort with Elusive Implications, and Sifting Signal from Noise with Replication Science. Frontiers in Psychology, 7, 621.",
+      "doi": "10.3389/fpsyg.2016.00621",
+      "url": "https://doi.org/10.3389/fpsyg.2016.00621",
+      "type": "secondary"
+    },
+    {
+      "text": "Englert, C., & Bertrams, A. (2021). Again, No Evidence for or Against the Existence of Ego Depletion: Opinion on \"A Multi-Site Preregistered Paradigmatic Test of the Ego Depletion Effect\". Frontiers in Human Neuroscience, 15, 658890.",
+      "doi": "10.3389/fnhum.2021.658890",
+      "url": "https://doi.org/10.3389/fnhum.2021.658890",
+      "type": "secondary"
+    },
+    {
+      "text": "Gailliot, M. T., Baumeister, R. F., DeWall, C. N., Maner, J. K., Plant, E. A., Tice, D. M., Brewer, L. E., & Schmeichel, B. J. (2007). Self-control relies on glucose as a limited energy source: Willpower is more than a metaphor. Journal of Personality and Social Psychology, 92(2), 325-336.",
+      "doi": "10.1037/0022-3514.92.2.325",
+      "url": "https://doi.org/10.1037/0022-3514.92.2.325",
+      "type": "primary"
+    },
+    {
+      "text": "Lange, F., & Eggert, F. (2014). Sweet delusion. Glucose drinks fail to counteract ego depletion. Appetite, 75, 54-63.",
+      "doi": "10.1016/j.appet.2013.12.020",
+      "url": "https://doi.org/10.1016/j.appet.2013.12.020",
+      "type": "replication"
+    },
+    {
+      "text": "Vadillo, M. A., Gold, N., & Osman, M. (2016). The Bitter Truth About Sugar and Willpower: The Limited Evidential Value of the Glucose Model of Ego Depletion. Psychological Science, 27(9), 1207-1214.",
+      "doi": "10.1177/0956797616654911",
+      "url": "https://doi.org/10.1177/0956797616654911",
+      "type": "secondary"
+    },
+    {
+      "text": "Dang, J. (2016). Testing the role of glucose in self-control: A meta-analysis. Appetite, 107, 222-230.",
+      "doi": "10.1016/j.appet.2016.07.021",
+      "url": "https://doi.org/10.1016/j.appet.2016.07.021",
+      "type": "secondary"
+    },
+    {
       "text": "Roseler, L., et al. FORRT Replication Database (FReD) and FORRT Library of Reproduction and Replication Attempts (FLoRA). OSF, 2022. Used to locate the replication above, not as the source for what it found.",
       "doi": "10.17605/OSF.IO/9R62X",
       "url": "https://doi.org/10.17605/OSF.IO/9R62X",
       "type": "index"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
