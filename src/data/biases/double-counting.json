@@ -1,0 +1,101 @@
+{
+  "no": 582,
+  "slug": "double-counting",
+  "name": "Double counting",
+  "aliases": [
+    "Correlation neglect",
+    "Persuasion bias",
+    "Double counting of evidence"
+  ],
+  "category": "belief",
+  "statement": "Evidence that arrives twice is counted twice, so several reports tracing back to one source move belief as far as several independent ones would.",
+  "meaning": "The claim is about a subtraction a Bayesian has to perform and people mostly do not. Four reports built on one shared signal carry less information than four separate signals, and using them correctly means backing out the underlying independent pieces before averaging. Enke and Zimmermann write the failure as a single parameter. A naive receiver reads a signal off a message as a weighted blend of the message and the true signal. The weight on the redundant part is the size of the bias. One is complete neglect, zero is rational updating. The same arithmetic covers a reader who takes four newspapers that all quote one wire report, an analyst pooling correlated indicators, and a meta-analyst combining two papers that report the same patients.",
+  "origin": {
+    "year": 2003,
+    "who": "Peter M. DeMarzo, Dimitri Vayanos and Jeffrey Zwiebel",
+    "where": "The Quarterly Journal of Economics",
+    "note": "Their paper models what they call persuasion bias, the failure to adjust for possible repetition in the information a person receives. Their example is two people who each spoke to a common third party and then to each other, and who therefore double-count that third party's opinion. It is a theory paper, and the experiments measuring the bias came later."
+  },
+  "evidence": "The clean measurement is Enke and Zimmermann's laboratory task. Subjects estimated an unknown quantity from four computer-generated signals, paid for accuracy, with the data-generating process explained and tested by a quiz. One condition delivered four independent signals. The other delivered four messages, each of which averaged the common signal of computer A with one independent signal, so the rational belief was the same in both. It was not what people reported. A total of 234 subjects took part in the individual belief formation treatments, 94 in the baseline, 94 in a high stakes version and 46 in a reading time version. In nine of the ten estimation tasks beliefs differed between conditions on a Wilcoxon rank-sum test, in the direction double counting predicts. Baseline subjects in the correlated condition earned about 2.70 euros less than the uncorrelated group, p = 0.0025, and tripling the stakes changed nothing, with the gap at 5.40 euros and p = 0.0887. The distribution of the naivety parameter in the correlated condition has two peaks, one at rational updating and one at full neglect, so the average conceals two ways of doing the task rather than one middling error. The social version has been tested with news articles. Yousif, Aboody and Keil gave 240 Mechanical Turk participants five fake reports on the Japanese economy, four positive and one negative, and varied whether the four positive articles cited four different experts or the same one. Confidence that the economy would improve rose 15 points on a 100-point scale against a two-article baseline when the sources were separate, d = 0.74, and 13 points when the four articles all cited one expert, d = 0.61. The gap between the two was 2 points and not significant, t(158) = 0.69. Participants were not confusing the sources: a signal detection analysis put source identification above chance in every condition. Foster, Huthwaite, Yesberg, Garry and Loftus separated repetition from sources in an eyewitness design. Sixty-four students watched a filmed crime and read three reports carrying misleading details, attributed either to one witness or to three. Repeated misinformation cut accuracy from 0.63 to 0.49, t(62) = 2.53, Cohen's d = 0.64, and the number of witnesses made no difference. In their second experiment 96 students who had not seen the film rated repeated specific claims at 4.44 on a five-point confidence scale, against 3.80 for unrepeated ones, t(94) = 4.50, d = 0.92. Again the number of witnesses did nothing. Weaver, Garcia, Schwarz and Miller reported six experiments on the same point for opinions, and their abstract states that a familiar opinion is inferred to be a prevalent one even when its familiarity comes from one group member repeating it.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The updating bias holds up in preregistered work with 1,999 subjects. The consensus version shrinks or disappears once the relationship between the sources is made plain.",
+    "detail": "Rees-Jones, Shorrer and Tergiman carried the task into school choice, where a pupil lists two of three programmes and admissions run either off one common priority score or off independent ones. Under correlation, applicants dropped the safety option and applied to two selective programmes. Their second experiment was preregistered, ran online with 1,999 subjects, and reproduced the pattern. Five debiasing arms mostly moved behaviour a little and not significantly. The exception was an intervention modelled on the UK admissions service, which cut the effect of correlation by about half. Their third experiment, with 165 participants, is the sharpest test: a risk-neutral chooser would pick the aggressive list 22 percentage points more often when priorities are independent, and the observed difference was 3 points. Their structural estimate of the Enke and Zimmermann parameter came out at full neglect. Those figures are read from the April 2023 revision of the working paper; the published article was not obtained. Hossain and Okui ran a separate belief-updating experiment and report in their abstract that subjects consistently neglect correlation while also misperceiving signal variance, which makes them overvalue strongly correlated signals and undervalue weakly correlated ones. The consensus literature has gone the other way. Connor Desai, Xie and Hayes ran four experiments. They found the illusion where the independence of the primary sources was ambiguous. They found the opposite where the design highlighted that independence and measured confidence against a balanced no-consensus baseline: claims backed by genuinely separate sources were then weighted more. Connor Desai, Fai, Lee and Hayes ran four further experiments on a poll-reporting task. Independent consensus was again the more persuasive, and supplying a reason for the repetition moved the persuasiveness of dependent consensus up or down. Both are described here from their abstracts.",
+    "study": {
+      "cite": "Connor Desai, S., Xie, B., & Hayes, B. K. (2022). Getting to the source of the illusion of consensus. Cognition, 223, 105023.",
+      "doi": "10.1016/j.cognition.2022.105023",
+      "year": 2022
+    }
+  },
+  "limits": "The bias is a function of the environment as much as of the person. Enke and Zimmermann's own low-complexity treatments, with 94 subjects, removed the correlated dummy's effect on beliefs entirely, and a treatment that alternated the correlated and uncorrelated structures cut naivety by 0.25 units without teaching any mathematics. Their market experiments sit in an online appendix that was not opened for this entry. The results are quoted from the article's own summary of them: trading feedback did not teach the neglect types, and prices moved with the bias. Yousif and colleagues also found a boundary. In their bear-sighting experiment, where one person either did or did not see the animal, participants discounted the repeated source by 19 points, d = 0.77. Their abstract describes four experiments while the article reports five, and the fifth is the one that limits the claim. Weaver and colleagues, Connor Desai and colleagues twice, and Hossain and Okui were read only as abstracts, so no figure from those four papers appears above beyond what their abstracts state. Searches at Crossref, PubMed, the AEA and open web for a measured study of double counting by intelligence analysts returned work on the analysis of competing hypotheses and on evidence diagnosticity rather than a measurement of this bias.",
+  "misreadings": "Double counting is not the information cascade, which has its own entry here. In a cascade everyone is rational and the loss comes from private evidence never entering the public record; in double counting the arithmetic is wrong and the same evidence enters twice. The applied case that has been costed is medical, not intelligence. Tramèr, Reynolds, Moore and McQuay searched for full reports of randomised trials of ondansetron for postoperative sickness. They found 84 trials covering 11,980 patients given the drug. Nine of those trials had been published again in 14 further reports, duplicating 3,335 patients, none carrying a clear cross reference. The number needed to treat to prevent vomiting was 9.5, 95% CI 6.9 to 15, across the 16 reports never duplicated, and 3.9, 3.3 to 4.8, in the three that were, p < 0.00001. Pooling everything gave 4.9, and their conclusion is that including the duplicated data overstated the drug's efficacy by 23%. Senn later catalogued the ways the same evidence gets counted twice in meta-analysis, and states plainly that he makes no attempt to quantify how often it happens. The other common error is to read the consensus experiments as showing that people cannot tell sources apart. They could: source identification ran above chance in every condition of every experiment Yousif and colleagues report.",
+  "sources": [
+    {
+      "text": "DeMarzo, P. M., Vayanos, D., & Zwiebel, J. (2003). Persuasion bias, social influence, and unidimensional opinions. The Quarterly Journal of Economics, 118(3), 909-968. Read from the April 2003 authors' copy hosted at the London School of Economics; the published article was not opened.",
+      "doi": "10.1162/00335530360698469",
+      "url": "https://personal.lse.ac.uk/vayanos/papers/persu_qje03.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Enke, B., & Zimmermann, F. (2019). Correlation neglect in belief formation. The Review of Economic Studies, 86(1), 313-332. Read in full from a copy of the published article; the source for every figure quoted from that experiment.",
+      "doi": "10.1093/restud/rdx081",
+      "url": "https://doi.org/10.1093/restud/rdx081",
+      "type": "primary"
+    },
+    {
+      "text": "Yousif, S. R., Aboody, R., & Keil, F. C. (2019). The illusion of consensus: A failure to distinguish between true and false consensus. Psychological Science, 30(8), 1195-1204. Read in full from the first author's hosted copy.",
+      "doi": "10.1177/0956797619856844",
+      "url": "https://doi.org/10.1177/0956797619856844",
+      "type": "primary"
+    },
+    {
+      "text": "Foster, J. L., Huthwaite, T., Yesberg, J. A., Garry, M., & Loftus, E. F. (2012). Repetition, not number of sources, increases both susceptibility to misinformation and confidence in the accuracy of eyewitnesses. Acta Psychologica, 139(2), 320-326. Read in full.",
+      "doi": "10.1016/j.actpsy.2011.12.004",
+      "url": "https://doi.org/10.1016/j.actpsy.2011.12.004",
+      "type": "primary"
+    },
+    {
+      "text": "Weaver, K., Garcia, S. M., Schwarz, N., & Miller, D. T. (2007). Inferring the popularity of an opinion from its familiarity: A repetitive voice can sound like a chorus. Journal of Personality and Social Psychology, 92(5), 821-833. Only the published abstract was read; no figure from it appears here.",
+      "doi": "10.1037/0022-3514.92.5.821",
+      "url": "https://doi.org/10.1037/0022-3514.92.5.821",
+      "type": "primary"
+    },
+    {
+      "text": "Connor Desai, S., Xie, B., & Hayes, B. K. (2022). Getting to the source of the illusion of consensus. Cognition, 223, 105023. Closed access on this pass; described from the published abstract.",
+      "doi": "10.1016/j.cognition.2022.105023",
+      "url": "https://doi.org/10.1016/j.cognition.2022.105023",
+      "type": "replication"
+    },
+    {
+      "text": "Connor Desai, S., Fai, C., Lee, M., & Hayes, B. K. Explaining away the illusion of consensus. Memory & Cognition. Closed access; described from the published abstract, which reports four experiments.",
+      "doi": "10.3758/s13421-025-01831-9",
+      "url": "https://doi.org/10.3758/s13421-025-01831-9",
+      "type": "replication"
+    },
+    {
+      "text": "Rees-Jones, A., Shorrer, R., & Tergiman, C. (2024). Correlation neglect in student-to-school matching. American Economic Journal: Microeconomics, 16(3), 1-42. The published abstract was read at the AEA; the sample sizes and percentages quoted here come from the April 2023 revision of NBER working paper 26734.",
+      "doi": "10.1257/mic.20200407",
+      "url": "https://www.nber.org/system/files/working_papers/w26734/w26734.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Hossain, T., & Okui, R. (2024). Belief formation under signal correlation. Games and Economic Behavior, 146, 160-183. Closed access; described from the publisher abstract as listed at RePEc.",
+      "doi": "10.1016/j.geb.2024.05.004",
+      "url": "https://doi.org/10.1016/j.geb.2024.05.004",
+      "type": "replication"
+    },
+    {
+      "text": "Tramèr, M. R., Reynolds, D. J., Moore, R. A., & McQuay, H. J. (1997). Impact of covert duplicate publication on meta-analysis: A case study. BMJ, 315(7109), 635-640. The figures quoted here are from the article's abstract, read at PubMed Central and again in the PubMed record.",
+      "doi": "10.1136/bmj.315.7109.635",
+      "url": "https://doi.org/10.1136/bmj.315.7109.635",
+      "type": "replication"
+    },
+    {
+      "text": "Senn, S. J. (2009). Overstating the evidence: Double counting in meta-analysis and related problems. BMC Medical Research Methodology, 9(1), Article 10. Read at PubMed Central.",
+      "doi": "10.1186/1471-2288-9-10",
+      "url": "https://doi.org/10.1186/1471-2288-9-10",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
