@@ -1,0 +1,86 @@
+{
+  "no": 578,
+  "slug": "fallacy-of-exclusive-premises",
+  "name": "Fallacy of exclusive premises",
+  "aliases": ["Exclusive premises", "Exclusive premisses", "Fallacy of exclusive premisses", "Fallacy of two negative premises", "Two negative premises", "Negative premises fallacy"],
+  "category": "belief",
+  "statement": "Two negative premises license no conclusion about the terms they do not share, and most people given such a pair name one anyway.",
+  "meaning": "A categorical syllogism joins two end terms through a middle term that appears in both premises. Each premise takes one of four forms. 'All A are B' and 'Some A are B' are affirmative; 'No A is B' and 'Some A are not B' are negative. The rule at issue says that if both premises are negative, nothing follows about the end terms. The ground is that a premise which only denies tells you where the middle term is not. Two such denials place both end terms outside the middle term without ever placing them with respect to each other. Sixteen of the 64 pairs of syllogistic premises are negative on both sides, and every one of them is invalid. Psychology does not study the fallacy under this name. Its measured record sits inside the task that presents all 64 premise pairs, which the Atlas describes on the entry for the fallacy of the undistributed middle. What that task measures is how often people answer that nothing follows, and what they answer instead when they do not. The rule broken here is a different one from the rule that governs the middle term, covered on the same entry, and from the rule that governs the terms of the conclusion, covered under illicit major."
+  ,
+  "origin": {
+    "year": 1888,
+    "who": "St George Stock",
+    "where": "Deductive Logic",
+    "note": "The rule is scholastic and no publication established it. Stock's textbook is the earliest full statement obtained for this entry, and it was read in full. His fifth primary rule of the syllogism reads 'Two negative premisses prove nothing', and he derives it from the axiom that knowing two terms to disagree with the same third term gives no ground for inferring anything about each other. His illustration is 'Ruminants are not oviparous, Sheep are not oviparous', of which he writes that sheep may or may not be ruminants. The name used here is not his. Stock files the fallacy under the heading 'Negative Premisses and Conclusion', and his worked instance is 'All salmon are fish, for neither salmon nor fish belong to the class mammalia'. The label 'exclusive premises' belongs to later textbooks, and Charlene Elsby's 2018 reference chapter carries it as a title."
+  },
+  "evidence": "The record comes from the task in which people see two premises and choose or produce a conclusion. Khemlani and Johnson-Laird pooled six such experiments, all using the same 64 premise pairs, and their Table 6 gives the percentage of each of the nine possible responses to each pair. No source read here labels its items by the traditional rule, so the sorting below applies that rule to the premise pairs they print. Across the sixteen pairs with two negative premises, the share answering that nothing follows runs from 28% to 76%. These pairs sit at the easy end of the invalid set rather than the hard end. Six of the 37 invalid pairs rank in the top 15 of all 64 for accuracy, and five of the six are negative on both sides. Where people do answer, the wrong answer tracks the mood of the premises. Given 'No A is B' and 'No B is C', 46% concluded 'No A is C' against 44% who answered that nothing follows. Given 'No B is A' and 'No B is C', 22% concluded 'No A is C' and 66% answered that nothing follows. Given 'Some B are not A' and 'Some B are not C', 21% concluded 'Some A are not C' and 66% answered that nothing follows. Two pairs break the pattern. Given 'Some A are not B' and 'Some B are not C', 47% concluded 'Some A are not C' and 37% answered that nothing follows, which is the only one of the sixteen where a conclusion beats the correct response. Given 'No A is B' and 'Some B are not C', 24% concluded 'Some A are not C', 19% concluded 'No A is C', 10% concluded 'All C are A' and 28% answered that nothing follows. That pair carries the highest response entropy printed in the table, 2.64 bits, and it ranks 47th of 64 for accuracy."
+  ,
+  "replication": {
+    "state": "replicated",
+    "headline": "Six experiments run in the United States and Italy agree that these premise pairs are among the easier invalid ones, and in an independent online sample the traditional rule predicts where people answer that nothing follows without a single false alarm.",
+    "detail": "Khemlani and Johnson-Laird checked the agreement of their six studies before pooling them, and the rank orders of difficulty were concordant; the Atlas entry on the undistributed middle carries those statistics and the composition of the six samples. The independent test comes from the Amazon Mechanical Turk study of Ragni, Dames, Brand and Riesterer, whose 139 analysed participants each answered all 64 pairs, and which the same entry describes. Riesterer, Brand, Dames and Ragni reanalysed that dataset by bolting candidate rules for predicting 'no valid conclusion' onto the seven theories of the syllogism. One of their five rules, which they call negativity, is the traditional rule itself, stated as the assumption that the information carried by two negative premises does not suffice to license a valid conclusion. Attaching it to the atmosphere, matching and probability heuristics models raised each one's accuracy at predicting the most frequent answer by 25.0%, removing 16 missed predictions and introducing no false alarms at all. Attaching it to the conversion model and to PSYCOP changed nothing, because both already predict that nothing follows here. The three heuristic accounts come apart on these pairs. Table 7 of the meta-analysis has the atmosphere hypothesis predicting negative conclusions throughout, matching predicting negative universal conclusions except where both premises are particular, and illicit conversion predicting that nothing follows for all sixteen. On 'Some B are not A' with 'No C is B' the observed answers were 51% for nothing follows, 18% for 'No C is A' and 10% for 'No A is C', and 3% and 6% for the two 'some are not' conclusions, which favours conversion first and matching second. On 'Some A are not B' with 'Some B are not C' the order reverses, and the 'some are not' conclusion that atmosphere and matching both predict outpolls the answer conversion predicts.",
+    "study": {
+      "cite": "Riesterer, N., Brand, D., Dames, H., & Ragni, M. (2020). Modeling human syllogistic reasoning: The role of 'No Valid Conclusion'. Topics in Cognitive Science, 12(1), 446-459.",
+      "doi": "10.1111/tops.12487",
+      "year": 2020,
+      "n": 139
+    }
+  },
+  "limits": "No preregistered or multi-laboratory replication of these acceptance rates was located. Crossref bibliographic searches on registered reports and preregistered replications of syllogistic reasoning, on the fallacy of exclusive premises and on two negative premises returned only textbook chapters and unrelated work. A Europe PMC full-text search for 'exclusive premises' across its corpus returned two records, on truffle cultivation and on a 1950 British Medical Journal supplement. An OSF Registries title search for 'syllogistic' returned 14 registrations, on emotion, eye-tracking, political ideology and response options, none of them a replication of these rates. An OpenAlex title search on the same terms was started and its search quota ran out before it returned, so that index was not searched. The two datasets behind the modern figures are not independent of each other: Ragni and colleagues' 2019 paper and the 2020 modelling paper analyse the same 139 participants. The percentages are response frequencies rather than standardised effect sizes, so none of them appear in this entry's effect-size fields, and the materials are abstract letters and short noun phrases given to students and to paid online workers. Five documents were not obtained. Woodworth and Sells, Chapman and Chapman, and Wetherick and Gilhooly are closed at their publishers, and the accounts named after them are described here from the meta-analysis. Galotti, Baron and Sabini's 1986 paper is closed at the American Psychological Association with no repository copy in OpenAlex, and is cited only because Khemlani and Johnson-Laird name it when they write that some individuals come to grasp the principle that no valid syllogistic conclusion follows from two negative premises. Elsby's chapter is closed at Wiley.",
+  "misreadings": "The commonest error is to treat this as the same rule as the one about mixing negatives and affirmatives. Those are separate rules, and they forbid an affirmative conclusion from a negative premise and a negative conclusion from two affirmative premises. This rule forbids the pair of premises outright, whatever the conclusion. A second error reads the fallacy as a claim about sentences containing 'not'. Stock's own caution covers it. He gives an argument that appears to break the rule and reasons correctly, and shows that it does so by carrying four terms rather than three, so that the minor premise becomes affirmative once the middle term is made the same in both. A third error treats an invalid form as one with a false conclusion. Two negative premises leave the conclusion open rather than ruling it out. A fourth error assumes people are as bad here as they are elsewhere in the task. They are not. This is the rule ordinary reasoners come closest to grasping without training, and the pair the Atlas names on the undistributed-middle entry as the easiest of the 37 invalid syllogisms is one of the sixteen. The last error is to read a rate as evidence for one mechanism. Where the accounts make the same prediction the number decides nothing, and on the negative-universal pairs atmosphere and matching predict the same two conclusions.",
+  "sources": [
+    {
+      "text": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457. Read in full as the PDF hosted at modeltheory.org, downloaded twice to the same checksum, with Table 6 extracted twice by two pdftotext modes and the columns of both pages of the table located from their own headers. Source for every percentage, rank and entropy quoted here, for the theory predictions in Table 7, and for the remark that some individuals grasp the two-negative-premises principle.",
+      "doi": "10.1037/a0026841",
+      "url": "https://modeltheory.org/papers/ssk/ssk2012syllogisms-meta-analysis.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Stock, St George William Joseph (1888). Deductive Logic. Read in full as the Project Gutenberg text, ebook 6560. Source for the fifth primary rule, for the axiom behind it, for the ruminants and salmon examples, for the heading under which the fallacy is filed, and for the apparent violation that turns out to carry four terms.",
+      "url": "https://www.gutenberg.org/ebooks/6560",
+      "type": "primary"
+    },
+    {
+      "text": "Riesterer, N., Brand, D., Dames, H., & Ragni, M. (2020). Modeling human syllogistic reasoning: The role of 'No Valid Conclusion'. Topics in Cognitive Science, 12(1), 446-459. Read in full as the CC BY version deposited at the University of Southern Denmark research portal. Source for the negativity rule and its statement, and for the accuracy change, misses and false alarms in Table 3.",
+      "doi": "10.1111/tops.12487",
+      "url": "https://findresearcher.sdu.dk/ws/files/172972792/Open_Access_Version.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Ragni, M., Dames, H., Brand, D., & Riesterer, N. (2019). When does a reasoner respond: Nothing follows? Proceedings of the 41st Annual Meeting of the Cognitive Science Society, 2640-2646. Read in full as the eScholarship PDF, retrieved twice to the same checksum. Source for the online sample behind the 2020 reanalysis and for the statement that the atmosphere and matching theories derive only the quantifier of the response and so cannot explain an answer that nothing follows.",
+      "url": "https://escholarship.org/uc/item/2zk82992",
+      "type": "replication"
+    },
+    {
+      "text": "Elsby, C. (2018). Exclusive premises. In Bad Arguments, 49-54. Closed at Wiley and not obtained; the record was confirmed at Crossref, and it is named as a modern reference treatment carrying the title used for this entry.",
+      "doi": "10.1002/9781119165811.ch4",
+      "url": "https://doi.org/10.1002/9781119165811.ch4",
+      "type": "provenance"
+    },
+    {
+      "text": "Galotti, K. M., Baron, J., & Sabini, J. P. (1986). Individual differences in syllogistic reasoning: Deduction rules or mental models? Journal of Experimental Psychology: General, 115(1), 16-25. Closed at the publisher, with no full text in any repository listed by OpenAlex, and not obtained. Named because Khemlani and Johnson-Laird cite it for the claim that some reasoners come to grasp the two-negative-premises principle.",
+      "doi": "10.1037/0096-3445.115.1.16",
+      "url": "https://doi.org/10.1037/0096-3445.115.1.16",
+      "type": "provenance"
+    },
+    {
+      "text": "Woodworth, R. S., & Sells, S. B. (1935). An atmosphere effect in formal syllogistic reasoning. Journal of Experimental Psychology, 18(4), 451-460. Closed at the publisher and not obtained; the record was confirmed at Crossref and the account is described here from the meta-analysis.",
+      "doi": "10.1037/h0060520",
+      "url": "https://doi.org/10.1037/h0060520",
+      "type": "provenance"
+    },
+    {
+      "text": "Wetherick, N. E., & Gilhooly, K. J. (1995). 'Atmosphere', matching, and logic in syllogistic reasoning. Current Psychology, 14(3), 169-178. Not obtained; the matching account is described here from the meta-analysis and from the 2020 modelling paper.",
+      "doi": "10.1007/BF02686906",
+      "url": "https://doi.org/10.1007/BF02686906",
+      "type": "provenance"
+    },
+    {
+      "text": "Chapman, L. J., & Chapman, J. P. (1959). Atmosphere effect re-examined. Journal of Experimental Psychology, 58(3), 220-226. Closed at the publisher and not obtained; named as the source of the illicit conversion account, which is described here from the meta-analysis.",
+      "doi": "10.1037/h0041961",
+      "url": "https://doi.org/10.1037/h0041961",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
