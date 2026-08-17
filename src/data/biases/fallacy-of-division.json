@@ -1,0 +1,88 @@
+{
+  "no": 496,
+  "slug": "fallacy-of-division",
+  "name": "Fallacy of division",
+  "aliases": ["Division fallacy", "Fallacy of wrong distribution", "Argument of division"],
+  "category": "belief",
+  "statement": "Division reads a property of the whole onto its parts, and the transfer holds only where the property is absolute and independent of how the parts are arranged.",
+  "meaning": "The argument runs from a property held by the whole to the same property held by each part. Van Eemeren and Grootendorst reconstruct it in two steps: X has property Z, therefore all parts of X have property Z, and Y is a part of X, therefore Y has property Z. The second step is valid. Everything turns on the first, which they treat as a sign relation carried by an unexpressed premise, that what applies to the properties of X also applies to the properties of all its parts. Whether that premise holds depends on two features of the property. A property is absolute when it can be checked without an implied comparison, and relative when a standard is doing hidden work. It is structure-independent when it does not depend on how the parts are arranged. Only a property that is both absolute and structure-independent transfers, in either direction. This chair is white, so its legs are white, goes through. This chair is heavy, so its lining is heavy, does not, because heavy is relative. A jigsaw puzzle is rectangular and its pieces are not, because rectangular is structure-dependent. Van Eemeren and Grootendorst call the whole-to-parts case the fallacy of wrong distribution, against wrong combination for the reverse. Woods and Walton call the properties that survive divisionally hereditary. The collection treats composition separately at entry 450, and the two are not mirror images. The statistical version of the same move, reading an aggregate as a description of the individuals inside it, is the ecological fallacy at entry 423.",
+  "origin": {
+    "year": 1977,
+    "who": "John Woods and Douglas Walton",
+    "where": "Studia Logica",
+    "note": "The name is inherited from logic textbooks rather than founded by a paper. Woods and Walton's 'Composition and division', Studia Logica 36(4), 381 to 406, is the article Finocchiaro calls attention to as the modern formal treatment of the pair; Crossref confirms the record and its text was not obtained here. The usual ancestry is wrong. Aristotle's Sophistical Refutations lists division of words as one of six ways of producing a false appearance of argument that depend on language, alongside ambiguity, amphiboly, combination, accent and form of expression, and his examples are about how words are grouped: that 5 is 2 and 3, and odd, that the greater is equal, and the line 'God-like Achilles left fifty a hundred men'. Hansen's Stanford Encyclopedia article states that Aristotle's combination and division fallacies differ significantly from modern treatments of composition and division. Hansen also traces the pair through the Port-Royal Logic of 1662, Whately's semi-logical fallacies, Mill's fallacies of confusion, and Copi's fallacies of ambiguity in 1961. When the part-whole reading replaced the word-grouping one was not established here."
+  },
+  "evidence": "The analysis is philosophical and the demonstrations are statistical. Van Eemeren and Grootendorst set out the four-cell grid that decides transferability: absolute against relative, structure-independent against structure-dependent. Their transferable terms are red, white, blue, glass, iron and wooden. Their worked division cases are the heavy chair whose lining is not heavy, the rectangular jigsaw whose pieces are not rectangular, and a cabinet that is irresolute although every minister in it is resolute, where the cabinet's indecision comes from ministers wanting different things. Section 8's summary sentence contains a typographical slip, printing 'transferable' where the grid requires 'non-transferable'. Two quantitative studies show the inference failing on real data. Mirman, Curry and Mirman modelled crash rates for newly licensed drivers. Population crash rates fall smoothly after licensure, and the standard reading is that each driver's risk falls smoothly. They simulated 10,000 drivers whose risk instead drops abruptly at a randomly sampled moment, aggregated the individual curves, and fitted the result to population data from New Jersey, 410,230 drivers, North Carolina, 629,144, Nova Scotia, 40,661, and Victoria, Australia, where the count is not reported. Their Table 1 gives quasi-R-squared for the incremental power-law model against the phase-transition model: 0.955 against 0.977 in North Carolina, 0.959 against 0.979 in Victoria, 0.930 against 0.962 in New Jersey, and 0.941 against 0.934 in Nova Scotia. Their Table 2 writes the argument out as a syllogism, whole A has properties X and Y, P is part of A, therefore P has properties X and Y, and runs it on drivers, on pregnancy rates rising from age 20 to 35, and on a coin whose aggregate is 50% heads. The paper names the error an ecological fallacy in statistics and the fallacy of division in formal logic. Fisher, Medaglia and Jeronimus measured the gap directly. Across six repeated-measures samples of 87 to 94 participants, each with an equal number of assessments, means agreed reasonably between groups and individuals, while the variance around the expected value was two to four times larger within individuals than within groups. Their keywords include the ecological fallacy. Robinson's 1930 census figures are the older case and belong to entry 423: foreign birth and illiteracy correlate at 0.118 across people in his Table 3, against minus 0.619 across the nine census divisions and minus 0.526 across the 48 states.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment testing whether people commit the part-to-whole inference in the division direction was found, so nothing exists to replicate.",
+    "detail": "The searches were these. A PubMed search for the exact phrase 'fallacy of division' returns one record, Mirman, Curry and Mirman's modelling paper, which uses the term to name an inference about data rather than testing it on participants. A Europe PMC search for the same phrase returns ten records; judged from their titles, the rest are clinical, epidemiological and philosophical papers using the term as a caution. A Crossref bibliographic search returns the philosophical literature and a 2009 teaching note in Think. The composition direction has been measured, in trainee mathematics teachers, and this collection records those studies at entry 450; nothing equivalent turned up for division. The nearest measured psychological effect is the group attribution error at entry 300, where observers read a group's decision as the attitude of its members even when the voting rule decided the outcome. That is one route into a division error rather than the general form. OpenAlex and Semantic Scholar were also queried and both refused the request on rate limits, so neither contributed."
+  },
+  "limits": "Division is valid for a large class of properties, and the condition is stateable, so a blanket prohibition is the least useful thing to take from the idea. Finocchiaro argues the two directions should not be paired at all: composition resembles universal generalisation, which is deductively invalid, while division resembles universal instantiation, which is deductively valid, and he expects composition to be problematic in ways division is not. He adds that arguments and fallacies of composition are common and important in ways that have no counterpart for division, and declines to write about a single fallacy of composition and division. The two statistical results have limits of their own. Mirman and colleagues fit models to aggregate curves rather than observing individual drivers, and in Nova Scotia the incremental model they argue against fitted slightly better, 0.941 against 0.934. Fisher and colleagues drew two commentaries in the same journal, one by Adolf and Fried titled 'Ergodicity is sufficient but not necessary for group-to-individual generalizability' and one by Hamaker and Ryan titled 'A squared standard error is not a measure of individual differences', with a reply to each; only the titles were obtained here, so what they argue is not described on this page. Relative terms are where the condition bites hardest and where it is easiest to miss, because the same word is used of the whole and of the parts. A machine built of light parts need not be a light machine, since lightness in a part is judged against alternative materials and lightness in a machine against other machines.",
+  "misreadings": "The commonest error is the ancestry. Aristotle is credited with composition and division, and his division of words is a fallacy about grouping, not about parts and wholes. The primary text puts it under the six modes that depend on language and gives as instances that 5 is 2 and 3, and odd, and the line about Achilles leaving fifty a hundred men. Aristotle adds that an expression depending on division is not an ambiguous one, and his remedy in chapter 23 is mechanical: if the argument depends on combination the solution is division, and the other way about. That is a claim about phrasing. The second error is treating division and the ecological fallacy as one thing, which Mirman and colleagues do explicitly and which is close enough to be useful and wrong in detail. The ecological fallacy is arithmetic. An individual correlation depends on the cell counts inside each area and an ecological one depends only on the row and column totals, and one set of totals is consistent with many interiors, so the two can differ in sign. Division is about whether a predicate carries, and its answer depends on which predicate. Entry 423 holds the statistical case, including the reanalysis of Robinson's own 1930 tables by Subramanian, Jones, Kaddour and Krieger, who fitted a multilevel logistic model to the same census data and found state-level segregation laws predicting individual illiteracy. The third error is symmetry. Composition and division are usually taught as one item with an arrow pointing each way, and Finocchiaro's asymmetry argument is the reason to doubt that. The fourth is scope. Ascribing a group's decision to its members is measured under its own name at entry 300, and the lump of labour fallacy at entry 456 is a particular economic claim rather than an instance of this form.",
+  "sources": [
+    {
+      "text": "Aristotle. On Sophistical Refutations, translated by W. A. Pickard-Cambridge. Full text read from the PDF, downloaded twice with matching checksums; the title page names the translator and chapter 4 carries the six language-dependent modes, the 'walk while sitting' combination example and the division examples of 5 being 2 and 3, the slave and free man, and Achilles leaving fifty a hundred men. Chapter 23 carries the rule that combination is solved by division and division by combination.",
+      "url": "https://www.documentacatholicaomnia.eu/03d/-384_-322,_Aristoteles,_01_Organon_6_On_Sophistical_Refutations,_EN.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Read from the retrieved HTML; the source for the statement that Aristotle's combination and division fallacies differ significantly from modern treatments, for the investigative-team example of division, and for the lineage through the Port-Royal Logic, Whately, Mill and Copi.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., & Grootendorst, R. (1999). The fallacies of composition and division. In J. Gerbrandy, M. Marx, M. de Rijke & Y. Venema (Eds.), JFAK: Essays Dedicated to Johan van Benthem. Amsterdam: Amsterdam University Press. Full text read from the PDF; sections 3 to 8 carry the two-step reconstruction, the absolute and relative distinction, the structured and unstructured distinction, the four-cell grid, the chair, jigsaw, cabinet and machine examples, and the note attributing divisionally hereditary properties to Woods and Walton (1982: 206-207).",
+      "url": "https://festschriften.illc.uva.nl/j50/contribs/eemeren/eemeren.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Woods, J., & Walton, D. (1977). Composition and division. Studia Logica, 36(4), 381-406. Crossref confirms authors, title, journal, volume, issue, pages and year. Full text not obtained; it is cited here as the formal treatment of the pair and on Finocchiaro's description of it.",
+      "doi": "10.1007/bf02120673",
+      "url": "https://doi.org/10.1007/bf02120673",
+      "type": "secondary"
+    },
+    {
+      "text": "Finocchiaro, M. A. (2016). Economic reasoning and fallacy of composition: pursuing a Woods-Walton thesis. In P. Bondy & L. Benacquista (Eds.), Proceedings of the 11th International Conference of the Ontario Society for the Study of Argumentation. Windsor: OSSA. Full text read from the UNLV repository PDF; its opening section carries the generalisation and instantiation asymmetry, the claim that composition is common and important in ways division is not, and his refusal to treat the pair as one fallacy.",
+      "url": "https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=1029&context=philosophy_fac_articles",
+      "type": "primary"
+    },
+    {
+      "text": "Mirman, J. H., Curry, A. E., & Mirman, D. (2019). Learning to drive: a reconceptualization. Transportation Research Part F: Traffic Psychology and Behaviour, 62, 316-326. Full text read from the JATS XML of the author manuscript at PubMed Central, downloaded twice with matching checksums; the methods carry the 10,000 simulated drivers and the four jurisdictions with their counts, Table 1 the quasi-R-squared values and Table 2 the syllogism.",
+      "doi": "10.1016/j.trf.2019.01.010",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6392458/",
+      "type": "primary"
+    },
+    {
+      "text": "Fisher, A. J., Medaglia, J. D., & Jeronimus, B. F. (2018). Lack of group-to-individual generalizability is a threat to human subjects research. Proceedings of the National Academy of Sciences, 115(27), E6106-E6115. Abstract and significance statement read from the JATS XML at PubMed Central, downloaded twice with matching checksums; they carry the six samples of 87 to 94 participants and the two to four times larger within-individual variance. The full text is not deposited there and was not obtained.",
+      "doi": "10.1073/pnas.1711978115",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6142277/",
+      "type": "primary"
+    },
+    {
+      "text": "Adolf, J. K., & Fried, E. I. (2019). Ergodicity is sufficient but not necessary for group-to-individual generalizability. Proceedings of the National Academy of Sciences, 116(14), 6540-6541. Crossref record verified. Text not obtained; only the title is used here.",
+      "doi": "10.1073/pnas.1818675116",
+      "url": "https://doi.org/10.1073/pnas.1818675116",
+      "type": "secondary"
+    },
+    {
+      "text": "Hamaker, E. L., & Ryan, O. (2019). A squared standard error is not a measure of individual differences. Proceedings of the National Academy of Sciences, 116(14), 6544-6545. Crossref record verified. Text not obtained; only the title is used here.",
+      "doi": "10.1073/pnas.1818033116",
+      "url": "https://doi.org/10.1073/pnas.1818033116",
+      "type": "secondary"
+    },
+    {
+      "text": "Robinson, W. S. (1950). Ecological correlations and the behavior of individuals. American Sociological Review, 15(3), 351-357. Read from a scanned PDF; Table 3 and the surrounding text carry the 0.118 individual correlation and the ecological values of minus 0.619 on divisions and minus 0.526 on states. Entry 423 holds the fuller account.",
+      "doi": "10.2307/2087176",
+      "url": "https://www.stats.uwo.ca/faculty/aim/2015/9938/articles/Robinson1950AmericanSociologicalReview.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Subramanian, S. V., Jones, K., Kaddour, A., & Krieger, N. (2009). Revisiting Robinson: the perils of individualistic and ecologic fallacy. International Journal of Epidemiology, 38(2), 342-360. Structured abstract read from the JATS XML at PubMed Central; it states that the study reanalyses Robinson's 1930 census data with a binomial multilevel logistic model and reports effects of Jim Crow education laws on illiteracy. The body was not read here.",
+      "doi": "10.1093/ije/dyn359",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2663721/",
+      "type": "secondary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
