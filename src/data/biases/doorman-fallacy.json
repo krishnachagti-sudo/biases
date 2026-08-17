@@ -1,0 +1,84 @@
+{
+  "no": 569,
+  "slug": "doorman-fallacy",
+  "name": "Doorman fallacy",
+  "category": "decision",
+  "statement": "A role is defined by its most visible function, that function is automated, and the parts of the job nobody wrote down go with it.",
+  "meaning": "The claim has two steps and the error sits in the first. Step one defines a job by the single task an observer can see. Step two replaces that task with a machine and books the wage as saving. Sutherland's case is a hotel doorman defined as a man who opens a door. He lists what the definition leaves out: hailing taxis, security, discouraging vagrants, recognising customers, and signalling the status of the hotel. His conclusion is a conditional rather than a finding. The doorman, he writes, may actually increase what a hotel can charge for a night's stay. The fallacy is about valuation rather than about technology. A door that opens itself better than a doorman does is still the wrong purchase if door-opening was never the job.",
+  "origin": {
+    "year": 2019,
+    "who": "Rory Sutherland",
+    "where": "Alchemy (William Morrow)",
+    "note": "The phrase appears in section 1.19, headed \"An automatic door does not replace a doorman: why efficiency doesn't always pay\", on pages 126 and 127. Sutherland writes \"the 'doorman fallacy', as I call it\", claiming the coinage. Read in the Internet Archive's scan of the first United States edition, ISBN 978-0-06-238841-4. The same book was published in the United Kingdom by WH Allen in 2019 under the title Alchemy: The Surprising Power of Ideas that Don't Make Sense."
+  },
+  "evidence": "The passage carries no study. Sutherland names no hotel, prints no figure, and cites nothing; the book's endnotes run to pages 66, 105, 116, 121, 161, 222, 224, 240, 295, 297 and 299, so the doorman pages have no note against them. That text was downloaded twice from the Internet Archive and the two copies matched on checksum. Searching the scanned text of the whole book for Goodhart, Campbell, Ridgway and Bainbridge returned nothing. What has been measured is a different mechanism. Bevan and Hood describe governance by targets as resting on synecdoche, taking a part to stand for a whole, which is the doorman's structure stated in a peer-reviewed abstract, and they draw their evidence from the English public health service. Jacob and Levitt built an algorithm to detect teacher cheating from Chicago Public Schools test data. It puts serious cases at 4 to 5% of elementary school classrooms a year, running from 3.4 to 5.6% across the 3 x 3 grid of cutoffs they report. This site's surrogation entry covers the accounting experiments in which a measure a manager is paid on displaces the goal it stands for. None of these tests the doorman claim. All of them turn on somebody responding to a measure, and the doorman fallacy needs nobody to respond to anything.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No test of the doorman fallacy was found. The phrase appears in one indexed scholarly document, a 2025 commentary that argues from news reports rather than from data.",
+    "detail": "A Crossref search for the phrase surfaced one relevant record, Gediminas Lipnickas's article of 3 November 2025 in The Conversation, which reads recent artificial intelligence rollouts through Sutherland's idea. Its cases are a Commonwealth Bank of Australia decision reversed after a union challenge, and Taco Bell's drive-through voice system, both taken from news coverage. Its one quantitative claim is that up to 55% of companies replacing staff with artificial intelligence now say they moved too quickly. That article sources the figure to a report by the software vendor Orgvue, which was not opened here, so it is reported as the article's rather than used as a finding. DataCite returns nothing for the phrase, PubMed nothing and Europe PMC nothing. A Semantic Scholar search surfaced no paper carrying it. OpenAlex refused the query on a rate limit and so was not searched. Open-web searching returned newsletters, blog posts and video clips. The entry's own question is whether automating a narrowly defined role loses the functions nobody recorded. The nearest measurement located is Adrian Beck's paper on self-scan checkouts and retail loss in Security Journal. It sits behind a paywall these checks did not pass, and is named here rather than described."
+  },
+  "limits": "The claim is put in a form that cannot fail. Sutherland says the doorman may increase what a hotel can charge, and offers no hotel, no number and no comparison with a hotel that kept its doorman. An automation that goes badly can be called the doorman fallacy afterwards, and one that goes well can be said to have involved a role with nothing hidden in it. The idea also assumes the unrecorded functions are worth more than the wage, which is the question rather than the answer. Ridgway's 1956 paper in Administrative Science Quarterly on the dysfunctional consequences of performance measurements is the earliest printed statement of the surrounding problem found here; it was paywalled during this check and is named rather than quoted. Lindgren's 2024 paper applying Bainbridge's ironies of automation to public services is open access. Both routes to its full text, the publisher and the Linköping University repository, were refused by the network used for this check, so nothing is taken from it. Searches covered Crossref, DataCite, PubMed, Europe PMC, Semantic Scholar, Unpaywall and open-web search.",
+  "misreadings": "The doorman fallacy is filed with Goodhart's law and Campbell's law, and the mechanisms differ. Those accounts describe a measure that decays because people are judged on it and change what they do, which is the shape of Jacob and Levitt's teachers altering answer sheets. The doorman fallacy needs no response from anybody. The loss is already inside the definition, before the door is automated and before anyone games anything. No primary text of Goodhart's formulation was read for this entry, so no wording of it is quoted here. The second confusion is with surrogation, where a manager paid on a measure comes to treat the measure as the goal. Surrogation is a claim about what a manager believes and has experiments behind it; this is a claim about a job description being short. The third is reading the idea as an argument against automation. Sutherland's target is the accounting, and his own example of getting it right is a call centre whose staff, in the client's words, were probably overpaid. The retellings that have multiplied since 2023 attach the fallacy to artificial intelligence as though the automation results were in, and they mostly cite consultancy surveys and news of firms rehiring, which do not measure what a role contained.",
+  "sources": [
+    {
+      "text": "Sutherland, R. (2019). Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life. New York: William Morrow. ISBN 978-0-06-238841-4. Section 1.19, pages 126-127, is the source of the name and of every quotation here. Read in the Internet Archive scan.",
+      "url": "https://archive.org/details/alchemy-the-dark-art-and-curious-science-of-creating-magic-in-brands-business-an",
+      "type": "primary"
+    },
+    {
+      "text": "Lipnickas, G. (2025). The 'doorman fallacy': why careless adoption of AI backfires so easily. The Conversation, 3 November 2025. The one scholarly record a Crossref search for the phrase surfaced.",
+      "doi": "10.64628/aa.wcv5gjecg",
+      "url": "https://doi.org/10.64628/aa.wcv5gjecg",
+      "type": "commentary"
+    },
+    {
+      "text": "Bevan, G., & Hood, C. (2006). What's measured is what matters: targets and gaming in the English public health care system. Public Administration, 84(3), 517-538. The synecdoche wording is read from the abstract at Crossref; the article was not opened.",
+      "doi": "10.1111/j.1467-9299.2006.00600.x",
+      "url": "https://doi.org/10.1111/j.1467-9299.2006.00600.x",
+      "type": "commentary"
+    },
+    {
+      "text": "Jacob, B. A., & Levitt, S. D. (2003). Rotten apples: An investigation of the prevalence and predictors of teacher cheating. The Quarterly Journal of Economics, 118(3), 843-877. The figures here were read in NBER working paper 9413 at https://www.nber.org/system/files/working_papers/w9413/w9413.pdf.",
+      "doi": "10.1162/00335530360698441",
+      "url": "https://doi.org/10.1162/00335530360698441",
+      "type": "primary"
+    },
+    {
+      "text": "Jacob, B. A., & Levitt, S. D. (2003). Catching cheating teachers: The results of an unusual experiment in implementing theory. Brookings-Wharton Papers on Urban Affairs, 2003, 185-220. A prospective retest of 117 Chicago classrooms, 76 of them flagged in advance. Read in NBER working paper 9414 at https://www.nber.org/system/files/working_papers/w9414/w9414.pdf.",
+      "doi": "10.1353/urb.2003.0010",
+      "url": "https://doi.org/10.1353/urb.2003.0010",
+      "type": "replication"
+    },
+    {
+      "text": "Choi, J., Hecht, G., & Tayler, W. B. (2012). Lost in translation: The effects of incentive compensation on strategy surrogation. The Accounting Review, 87(4), 1135-1163. The surrogation experiments, covered in this site's surrogation entry and not opened for this one.",
+      "doi": "10.2308/accr-10273",
+      "url": "https://doi.org/10.2308/accr-10273",
+      "type": "related"
+    },
+    {
+      "text": "Ridgway, V. F. (1956). Dysfunctional consequences of performance measurements. Administrative Science Quarterly, 1(2), 240-247. Named as existing; paywalled, and nothing is quoted from it here.",
+      "doi": "10.2307/2390989",
+      "url": "https://doi.org/10.2307/2390989",
+      "type": "background"
+    },
+    {
+      "text": "Beck, A. (2011). Self-scan checkouts and retail loss: Understanding the risk and minimising the threat. Security Journal, 24(3), 199-215. The nearest located measurement of what is lost when a checkout role is automated; paywalled, and no figure from it appears here.",
+      "doi": "10.1057/sj.2011.13",
+      "url": "https://doi.org/10.1057/sj.2011.13",
+      "type": "related"
+    },
+    {
+      "text": "Lindgren, I. (2024). Ironies of automation and their implications for public service automation. Government Information Quarterly, 41(4), 101974. Open access, but neither the publisher nor the Linköping University repository copy could be retrieved during this check.",
+      "doi": "10.1016/j.giq.2024.101974",
+      "url": "https://doi.org/10.1016/j.giq.2024.101974",
+      "type": "related"
+    },
+    {
+      "text": "Bainbridge, L. (1983). Ironies of automation. Automatica, 19(6), 775-779. The paper Lindgren's title revisits; not read for this entry.",
+      "doi": "10.1016/0005-1098(83)90046-8",
+      "url": "https://doi.org/10.1016/0005-1098(83)90046-8",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
