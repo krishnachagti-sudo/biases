@@ -1,0 +1,95 @@
+{
+  "no": 575,
+  "slug": "fallacy-of-relative-privation",
+  "name": "Fallacy of relative privation",
+  "aliases": [
+    "Appeal to worse problems",
+    "Not as bad as fallacy",
+    "Relative privation",
+    "Appeal to bigger problems"
+  ],
+  "category": "belief",
+  "statement": "Naming a worse problem is supposed to dispose of a smaller complaint, and the nearest measured work finds that scaling condemnation down is what an audience punishes.",
+  "meaning": "The move rejects a claim by pointing at something more serious. Tracy Bowell states it as an argument being rejected by appeal to some other, more serious, problem, and records that it is sometimes called the not as bad as fallacy. The label describes the shape of the move rather than an error inside it. What decides whether a given case is fallacious is the premise hiding under the comparison, which is that attention or money spent on the lesser problem cannot also be spent on the greater one. Where that premise is false, the argument is a false dilemma with a comparison in front of it. Where it is true, the comparison is how priorities get set. Bowell also notes that the move can run the other way, drawing attention to a serious problem that is being neglected, and that this is a different argument from telling a complainant to be quiet.",
+  "origin": {
+    "year": 2012,
+    "who": "an anonymous Wikipedia editor writing as Dennymeta",
+    "where": "Wikipedia",
+    "note": "No coiner was identified. The earliest dated appearance this entry could verify is the Wikipedia article created on 1 April 2012 under the title \"Appeal to worse problems\", per the page's first revision in the MediaWiki revisions API. The term was already circulating on fallacy lists by then, and Bo Bennett's Logically Fallacious carries it as \"relative privation\" with the note that no academic sources could be found. The earliest peer-reviewed use located is Bowell's 2023 paper in Informal Logic, which lists \"fallacy of relative privation\" among its keywords."
+  },
+  "evidence": "Two scholarly venues use the label. Bowell's paper in Informal Logic treats relative privation as one variety of the what-about move and works through cases, including a radio listener answering a proposed ban on vape flavours with \"What about guns?\". Her verdict on that case is that reading it as an argument against the ban would make it a false dilemma, since there are no reasons to believe that there are insufficient resources to tackle both. The MAFALDA benchmark, at NAACL 2024, puts \"appeal to worse problems\" in its taxonomy under fallacies of emotion, defines it as dismissing an issue by claiming that more important issues exist, and says in the same entry that it is also known as the relative privation fallacy. Its authors added the category because they found the red herring label too vague during annotation, and they record that the category is present in only one other dataset. Neither paper measures what the move does to a reader. The closest measurement is Geiser, Silver and Small, who ran seven preregistered experiments on 6,075 US adults, all of them recruited through Prolific, on the direction in which people compare two wrongs. Study 1 gave 1,168 participants the sexual-misconduct cases of Harvey Weinstein, accused by more than 80 women, and Louis CK, accused by five. Participants rated punishment from 0 to 10 and outrage from 0 to 10, one case per page. Those who started with Weinstein and had to scale down adjusted punishment by 2.09 points, against 2.93 for those who started with Louis CK and scaled up, t(1166) = -7.71, p < .001. Refusing to differentiate at all was three times as common when scaling down, 16.8% against 5.8%, chi-squared(1, N = 1,168) = 34.74, p < .001. Louis CK drew more punishment when he came second, 5.49 against 4.92, t(1166) = 4.73, p < .001, which is the reverse of what the comparison to a worse case is supposed to do. Outrage moved the same way, adjusted by 1.69 points scaling down and 2.35 scaling up, t(1166) = -5.86, p < .001. Study 2a repeated the pattern on 585 participants using crime pairs with prison sentences as the outcome. For the two sexual-assault cases, participants scaling up shortened the sentence for the lesser case by 7.85 years and gave 76.0% of them some adjustment, while those scaling down cut 2.47 years and adjusted in 33.8% of cases. Study 6 asked what an audience makes of the person doing the comparing. Its 785 participants read about someone asked either whether the worse celebrity deserved more punishment or whether the lesser one deserved less. Saying the lesser case deserved less punishment left the speaker rated less moral than refusing to draw the distinction, 4.42 against 5.16 on a seven-point scale, b = -0.74, SE = 0.14, t(781) = -5.41, p < .001. In the upward frame the same distinction paid, 5.51 against 3.58, b = 1.92, SE = 0.14, t(781) = 14.01, p < .001. A separate literature bears on the premise rather than the move. Eskreis-Winkler, Troncoso Peres and Fishbach report 15 studies on 2,636 participants in which people told how prevalent a problem is inferred that it caused less harm, an effect their abstract names the big problem paradox and traces to an assumption that widespread problems have already been addressed.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment testing whether naming a worse problem changes what an audience thinks of the lesser complaint was located, and the label itself returns no empirical literature.",
+    "detail": "Searches were run at Crossref by bibliographic query on \"relative privation fallacy\" and \"appeal to worse problems fallacy\", at Europe PMC on the quoted phrases \"relative privation\", \"appeal to worse problems\" and \"not as bad as fallacy\", and on the open web. Europe PMC returned 12 records for the first phrase, none of them about argument, and none for the second. Crossref returned work on relative deprivation, which is a different subject, and books whose titles share words. What the searches did return is analysis rather than measurement, in Bowell and in the MAFALDA taxonomy, and the adjacent experimental work described above. Geiser, Silver and Small repeat their own result across seven preregistered studies, with real cases in Study 1 and controlled pairs in Studies 2a and 2b, so the asymmetry has internal support in two designs and two stimulus types. No independent replication of it was located in the same searches, and the paper is recent, published in Psychological Science in 2025. Kendall's paper on comparison with worse harms among perpetrator groups was located at Crossref and not obtained, and no figure from it appears here."
+  },
+  "limits": "Nothing quoted here tests the everyday form of the move, which is a complaint about a person's own circumstances met with a reference to somebody worse off. Geiser and colleagues compare two wrongs done by other people, and their outcomes are condemnation, outrage and prison sentences among US adults on one recruitment platform. Their own discussion names two alternative accounts they cannot rule out: outrage from a serious case spilling over onto the next case in sequential designs, and a conversational norm against calling one bad thing less bad than another in simultaneous designs. They report that Study 4 casts some doubt on the second by finding a smaller asymmetry for would than for should judgements. The Eskreis-Winkler paper is paywalled and only its published abstract was read, so nothing from it appears here beyond the abstract's own wording and counts. Wills's 1981 review of downward comparison resolves at Crossref and could not be obtained through the publisher, Semantic Scholar, Unpaywall or open-web copies, so no claim rests on it. The two triage papers were read as abstracts at Europe PMC and their full texts were not obtained. Compassion fade and scope insensitivity, which have their own entries here, vary the number of victims or the size of the good on offer, and neither pits one problem against a worse one, so neither is evidence about this move.",
+  "misreadings": "The commonest error is treating every appeal to a worse problem as a fallacy. Bowell's own example of a good one is Owen Jones asking why the climate crisis does not get the urgency the coronavirus pandemic got, an argument that uses the comparison to demand more action rather than less. The legitimate version has a formal name in medicine. Iserson and Moskop define triage as the sorting of patients for treatment in situations of at least modest resource scarcity, according to an assessment of the patient's medical condition and an established sorting plan, and their companion paper reports that triage systems tend to promote the values of human life, health, efficient use of resources and fairness, and analyses three principles of distributive justice proposed to guide such decisions. Sorting by severity when resources really are rival is a practice with an ethics literature behind it. The fallacy is the assertion of scarcity where none exists, which is why Bowell files the bad cases under false dilemma. The second error is treating this as another word for whataboutism. Chow and Levin's survey experiments, which supply the measured effect on this site's whataboutism entry, describe their manipulation as accusing critics of similar faults, and a charge of hypocrisy is a different move from a comparison of magnitudes. The third error is assuming the move works. No study measuring its effect on an audience was found, and the closest evidence points against it, since Geiser's participants condemned the lesser case more after seeing the worse one, and the speaker who called the lesser case less serious was judged less moral for saying so.",
+  "sources": [
+    {
+      "text": "Bowell, T. (2023). Whataboutisms: The Good, the Bad and the Ugly. Informal Logic, 43(1), 91-112. Open access. Full text read as the journal's PDF, and the source for the definition, the vape and guns case, the false dilemma reading and the Owen Jones case.",
+      "doi": "10.22329/il.v43i1.7304",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/7304",
+      "type": "primary"
+    },
+    {
+      "text": "Helwe, C., Calamai, T., Paris, P.-H., Clavel, C., & Suchanek, F. (2024). MAFALDA: A Benchmark and Comprehensive Study of Fallacy Detection and Classification. NAACL 2024, 4810-4845. Read as the arXiv PDF of version 2, including the taxonomy figure and the definitions in Appendix A.",
+      "doi": "10.18653/v1/2024.naacl-long.270",
+      "url": "https://arxiv.org/abs/2311.09761",
+      "type": "primary"
+    },
+    {
+      "text": "Geiser, A. E., Silver, I., & Small, D. A. (2025). Reluctance to Downplay: Asymmetric Sensitivity to Differences in the Severity of Moral Transgressions. Psychological Science, 36(3), 184-203. Full text read as the published PDF hosted by an author. Every figure quoted here appears in its running text or in Table 1.",
+      "doi": "10.1177/09567976251314972",
+      "url": "https://doi.org/10.1177/09567976251314972",
+      "type": "primary"
+    },
+    {
+      "text": "Eskreis-Winkler, L., Troncoso Peres, L. T., & Fishbach, A. (2025). The bigger the problem the littler: When the scope of a problem makes it seem less dangerous. Journal of Personality and Social Psychology, 128(4), 790-806. Paywalled; only the published abstract was read, and the study count, sample size and mechanism above are the abstract's own.",
+      "doi": "10.1037/pspa0000409",
+      "url": "https://doi.org/10.1037/pspa0000409",
+      "type": "primary"
+    },
+    {
+      "text": "Iserson, K. V., & Moskop, J. C. (2007). Triage in medicine, part I: Concept, history, and types. Annals of Emergency Medicine, 49(3), 275-281. Abstract read at Europe PMC; the full text was not obtained.",
+      "doi": "10.1016/j.annemergmed.2006.05.019",
+      "url": "https://doi.org/10.1016/j.annemergmed.2006.05.019",
+      "type": "commentary"
+    },
+    {
+      "text": "Moskop, J. C., & Iserson, K. V. (2007). Triage in medicine, part II: Underlying values and principles. Annals of Emergency Medicine, 49(3), 282-287. Abstract read at Europe PMC; the values and the three principles of distributive justice are the abstract's own wording.",
+      "doi": "10.1016/j.annemergmed.2006.07.012",
+      "url": "https://doi.org/10.1016/j.annemergmed.2006.07.012",
+      "type": "commentary"
+    },
+    {
+      "text": "Chow, W. M., & Levin, D. H. (2024). The Diplomacy of Whataboutism and US Foreign Policy Attitudes. International Organization, 78(1), 103-133. Only the abstract was read for this entry, which is the source for the description of the manipulation as accusing critics of similar faults.",
+      "doi": "10.1017/S002081832400002X",
+      "url": "https://doi.org/10.1017/S002081832400002X",
+      "type": "primary"
+    },
+    {
+      "text": "Wills, T. A. (1981). Downward comparison principles in social psychology. Psychological Bulletin, 90(2), 245-271. The record resolves at Crossref. The article and its published abstract could not be obtained, and no claim in this entry rests on it.",
+      "doi": "10.1037/0033-2909.90.2.245",
+      "url": "https://doi.org/10.1037/0033-2909.90.2.245",
+      "type": "commentary"
+    },
+    {
+      "text": "Kendall, J. (2026). We Could Have Been Worse: 'Whataboutism' and Defensive Memory Among Perpetrator Groups. Political Behavior. Record verified at Crossref and dated 6 April 2026. Not obtained; no figure from it is quoted here.",
+      "doi": "10.1007/s11109-026-10133-y",
+      "url": "https://doi.org/10.1007/s11109-026-10133-y",
+      "type": "primary"
+    },
+    {
+      "text": "Bennett, B. Relative Privation. Logically Fallacious. Gives the alternative names 'it could be worse, it could be better' and states that no academic sources could be found for it.",
+      "url": "https://www.logicallyfallacious.com/logicalfallacies/Relative-Privation",
+      "type": "provenance"
+    },
+    {
+      "text": "Wikipedia. Fallacy of relative privation, first revision. Read through the MediaWiki revisions API, which dates the page's creation to 1 April 2012 by the editor Dennymeta, under the title 'Appeal to worse problems'.",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fallacy_of_relative_privation&dir=prev&action=history",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
