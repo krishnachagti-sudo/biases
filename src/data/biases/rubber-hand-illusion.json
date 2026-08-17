@@ -1,0 +1,112 @@
+{
+  "no": 479,
+  "slug": "rubber-hand-illusion",
+  "name": "Rubber hand illusion",
+  "aliases": [
+    "RHI"
+  ],
+  "category": "perception",
+  "statement": "Watching a rubber hand stroked in time with one's own hidden hand leads people to agree that the rubber hand felt like their own.",
+  "meaning": "The claim has two halves, measured in different ways, and they come apart. The subjective half is agreement with statements such as 'I felt as if the rubber hand were my hand', rated on a scale. The objective half is proprioceptive drift, a shift in where people judge their real hand to be, towards the rubber one. Botvinick and Cohen reported both and treated the second as evidence that the first involved a real distortion of position sense rather than a form of words. Everything contested about the illusion sits in the gap between the two: whether drift tracks ownership, whether the questionnaire measures an experience or an expectation, and whether asynchronous stroking controls for anything beyond visuotactile timing.",
+  "origin": {
+    "year": 1998,
+    "who": "Matthew Botvinick and Jonathan Cohen",
+    "where": "Nature",
+    "note": "A one-page item in the Scientific Correspondence section, published on 19 February 1998, from the Department of Psychiatry at the University of Pittsburgh and the Department of Psychology at Carnegie Mellon."
+  },
+  "evidence": "Each of ten subjects sat with the left arm on a small table, hidden behind a standing screen, while a life-sized rubber left hand and arm sat directly in front of them. Two small paintbrushes stroked the rubber hand and the hidden hand, with the timing synchronised as closely as possible. After ten minutes subjects completed a two-part questionnaire: an open-ended description of the experience, then nine specific perceptual effects rated on a seven-step visual-analogue scale running from 'agree strongly' to 'disagree strongly'. Three of the nine described the predicted phenomena, two of referred touch and one of ownership. Those three are underlined in the paper's figure, which reports for them a significant tendency to evoke affirmative responses, P<0.002, and P<0.018 after correcting for multiple comparisons. Eight of ten subjects used terms of ownership unprompted in their free descriptions. A second experiment exposed subjects to the same conditions for a longer period and probed position sense with three intermanual reaches before and after. With eyes closed the right index finger was drawn along a straight edge below the table until judged in line with the left index finger. Reaches after the viewing period were displaced rightward towards the rubber hand, and the size of that shift rose with the reported duration of the illusion, least-squares fit y = 0.09x - 1.4, r2 0.47, p<0.03. A control group was given a small asynchrony between the two brushes. It reported the illusion for a mean 7% of the exposure period against 42% for the synchronous group, P<0.01. Its reaches moved a mean 13 mm away from the rubber hand, against 23 mm towards it in the experimental group, P<.04. The report gives ten subjects for the first experiment and no sample size for the second experiment or the control group.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The questionnaire contrast between synchronous and asynchronous stroking reproduces in samples of hundreds, and what it measures is disputed, while proprioceptive drift behaves differently from ownership.",
+    "detail": "The largest single dataset comes from Lush and colleagues, who ran the illusion on 353 participants alongside the Sussex-Waterloo Scale of Hypnotizability. In the synchronous condition, hypnotisability predicted agreement with the three ownership and referred-touch statements, b = 0.57 rating points per SWASH unit, t(347) = 5.86, p < 0.001, R2 = 0.09, and predicted proprioceptive drift, b = 0.58 cm per SWASH unit, t(347) = 2.65, p = 0.008, R2 = 0.02. Ehrsson, Fotopoulou, Radziun, Longo and Tsakiris reanalysed the same 353 records using the synchronous-minus-asynchronous difference the study had preregistered. That contrast showed no relationship with hypnotisability for the illusion ratings, rho = -0.066, p = 0.219, 95% CI [-0.169, 0.039], BF01 = 5.685, or for drift, rho = 0.047, p = 0.376, 95% CI [-0.057, 0.151], BF01 = 1.657. Splitting the sample into hypnotisability quartiles, all four showed a significant synchronous-against-asynchronous difference in illusion ratings, p < 0.001, and all four rated the synchronous condition above zero, p < 0.001. Lush and colleagues' own attempt to move the illusion by telling participants which condition would work failed, with no significant difference between the group told synchronous, the group told asynchronous and the group told nothing. The two measures diverge. Rohde, Di Luca and Ernst measured perceived finger position repeatedly during stroking in 20 and then 30 participants. Drift appeared in asynchronous stroking and in vision alone as well as in synchronous stroking, and drift under synchronous stroking was never higher than under vision alone, t(9) = 0.3, p = 0.76, while asynchronous stroking differed from vision alone, t(9) = 4.8, p < 0.001. Their questionnaire told the opposite story: the three ownership items were rated positive in the synchronous group and not in the asynchronous one. Tosi, Mentesana and Romano ran a Bayesian meta-analysis of the drift-embodiment correlation and report evidence strongly favouring a correlation of around .35, which they read as the two indices capturing different facets of the illusion.",
+    "study": {
+      "cite": "Ehrsson, H. H., Fotopoulou, A., Radziun, D., Longo, M. R., & Tsakiris, M. (2022). No specific relationship between hypnotic suggestibility and the rubber hand illusion. Nature Communications, 13, 564. A reanalysis of the 353 participants collected by Lush et al. (2020).",
+      "doi": "10.1038/s41467-022-28177-z",
+      "year": 2022,
+      "n": 353
+    }
+  },
+  "limits": "Proprioceptive drift is not a proxy for ownership. Holle, McLatchie, Maurer and Ward found in two experiments that a rubber hand rotated by 180 degrees produced more drift under synchronous stroking while producing no reported ownership. Abdulkarim and Ehrsson moved participants' hands mechanically without their noticing during the illusion, and found that changing sensed hand position closer to or further from the rubber hand left illusion strength unchanged, which cuts the causal link the original paper's second experiment was designed to suggest. Riemer, Trojan, Beauchamp and Fuchs, reviewing the paradigm, describe a literature whose contradictory findings track differences in setup, induction method, quantification and analysis rather than differences in the effect. Not everyone gets it. Zbinden and Ortiz-Catalan tried to induce the illusion in a prosthetic hand in four people with transhumeral amputation, using electrical stimulation of severed afferent nerves. None of the four experienced it, including on their intact hand. All four used neuromusculoskeletal prostheses daily and described those prostheses as part of their body. Their control study of 30 able-bodied participants induced ownership in about two thirds, whether the touch was tapping or stroking. They conclude that the illusion is a fallible way to study ownership of prosthetic limbs, which is the clinical use they set out to validate. Searches of Europe PMC, PubMed and Crossref for a meta-analysis of the illusion in schizophrenia, eating disorders or borderline personality disorder returned reviews of body ownership in those conditions but no meta-analysis of the illusion itself, so no clinical effect size is quoted here.",
+  "misreadings": "What the original measured was agreement with statements, not ownership observed from outside. Lush's quasi-experiment makes the difference concrete. Twenty participants who never underwent the procedure, and who only read a short description and watched a 62-second video, rated how much of each effect they expected. Expectancy for the three illusion statements in the synchronous condition, M = 1.7, SD = 0.9, exceeded expectancy for the six control statements, M = 0.0, SD = 1.3, t(1,19) = 6.24, p < .001, Cohen's d = 1.40. It also exceeded expectancy for the same three statements under asynchronous stroking, M = 0.4, SD = 1.3, t(19) = 4.68, p < .001, d = 1.05. The pattern people expect is the pattern the studies report. Tsuji and Imaizumi repeated this in Japanese samples of 27 and 185, found the same, and added that participants shown the asynchronous condition first expected more illusion in it than participants shown the synchronous condition first. Ehrsson and colleagues answer that the illusion still appears in the least suggestible quartile of a 353-person sample. The three statements also do not move together. Lush and Seth report that in those same 353 records mean agreement on a scale to 3 was 1.9 for the first referred-touch statement and 1.2 for the second, against 0.7 for the ownership statement. The item the illusion is named for is the weakest of the three. Two smaller confusions are worth separating. The drift Botvinick and Cohen measured came from the reaching task, not from the questionnaire item about the hand drifting, which was one of the six statements they did not predict and which Lush's classification treats as a control. And the standard synchronous-versus-asynchronous comparison is a contrast between two active conditions, so Rohde's result that vision alone produces as much drift as synchronous stroking is not the same claim as drift being absent.",
+  "sources": [
+    {
+      "text": "Botvinick, M., & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. Nature, 391, 756. Read for this entry from a PDF scan of the printed page.",
+      "doi": "10.1038/35784",
+      "url": "https://petit.ucdavis.edu/sites/g/files/dgvnsk13046/files/inline-files/botvinik%20cohen%20rubber%20hand.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Lush, P., Botan, V., Scott, R. B., Seth, A. K., Ward, J., & Dienes, Z. (2020). Trait phenomenological control predicts experience of mirror synaesthesia and the rubber hand illusion. Nature Communications, 11, 4853.",
+      "doi": "10.1038/s41467-020-18591-6",
+      "url": "https://doi.org/10.1038/s41467-020-18591-6",
+      "type": "replication"
+    },
+    {
+      "text": "Ehrsson, H. H., Fotopoulou, A., Radziun, D., Longo, M. R., & Tsakiris, M. (2022). No specific relationship between hypnotic suggestibility and the rubber hand illusion. Nature Communications, 13, 564.",
+      "doi": "10.1038/s41467-022-28177-z",
+      "url": "https://doi.org/10.1038/s41467-022-28177-z",
+      "type": "replication"
+    },
+    {
+      "text": "Lush, P., & Seth, A. K. (2022). Reply to: No specific relationship between hypnotic suggestibility and the rubber hand illusion. Nature Communications, 13, 563.",
+      "doi": "10.1038/s41467-022-28178-y",
+      "url": "https://doi.org/10.1038/s41467-022-28178-y",
+      "type": "commentary"
+    },
+    {
+      "text": "Rohde, M., Di Luca, M., & Ernst, M. O. (2011). The rubber hand illusion: feeling of ownership and proprioceptive drift do not go hand in hand. PLoS ONE, 6(6), e21659.",
+      "doi": "10.1371/journal.pone.0021659",
+      "url": "https://doi.org/10.1371/journal.pone.0021659",
+      "type": "replication"
+    },
+    {
+      "text": "Lush, P. (2020). Demand characteristics confound the rubber hand illusion. Collabra: Psychology, 6(1), 22. Preregistered at osf.io/89m7j.",
+      "doi": "10.1525/collabra.325",
+      "url": "https://doi.org/10.1525/collabra.325",
+      "type": "replication"
+    },
+    {
+      "text": "Tsuji, N., & Imaizumi, S. (2024). Order effects on the rubber hand illusion expectancy: a replication and extension of Lush (2020). Collabra: Psychology, 10(1), 116190. Described here from the abstract deposited at Crossref; the publisher's full text could not be retrieved.",
+      "doi": "10.1525/collabra.116190",
+      "url": "https://doi.org/10.1525/collabra.116190",
+      "type": "replication"
+    },
+    {
+      "text": "Tosi, G., Mentesana, B., & Romano, D. (2023). The correlation between proprioceptive drift and subjective embodiment during the rubber hand illusion: a meta-analytic approach. Quarterly Journal of Experimental Psychology, 76(10), 2197-2207. Paywalled; described here from the abstract at PubMed, which gives the correlation as 'around .35' without an interval.",
+      "doi": "10.1177/17470218231156849",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36880657/",
+      "type": "replication"
+    },
+    {
+      "text": "Holle, H., McLatchie, N., Maurer, S., & Ward, J. (2011). Proprioceptive drift without illusions of ownership for rotated hands in the 'rubber hand illusion' paradigm. Cognitive Neuroscience, 2(3-4), 171-178. Described here from the abstract at PubMed.",
+      "doi": "10.1080/17588928.2011.603828",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24168532/",
+      "type": "replication"
+    },
+    {
+      "text": "Abdulkarim, Z., & Ehrsson, H. H. (2016). No causal link between changes in hand position sense and feeling of limb ownership in the rubber hand illusion. Attention, Perception, & Psychophysics, 78(2), 707-720. Described here from the abstract at PubMed.",
+      "doi": "10.3758/s13414-015-1016-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26555651/",
+      "type": "replication"
+    },
+    {
+      "text": "Zbinden, J., & Ortiz-Catalan, M. (2021). The rubber hand illusion is a fallible method to study ownership of prosthetic limbs. Scientific Reports, 11, 4423. Described here from the abstract deposited at Crossref.",
+      "doi": "10.1038/s41598-021-83789-7",
+      "url": "https://doi.org/10.1038/s41598-021-83789-7",
+      "type": "replication"
+    },
+    {
+      "text": "Riemer, M., Trojan, J., Beauchamp, M., & Fuchs, X. (2019). The rubber hand universe: on the impact of methodological differences in the rubber hand illusion. Neuroscience and Biobehavioral Reviews, 104, 268-280. Described here from the abstract at PubMed.",
+      "doi": "10.1016/j.neubiorev.2019.07.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31336114/",
+      "type": "commentary"
+    },
+    {
+      "text": "Roseboom, W., & Lush, P. (2022). Serious problems with interpreting rubber hand 'illusion' experiments. Collabra: Psychology, 8(1), 32274. Described here from the abstract deposited at Crossref.",
+      "doi": "10.1525/collabra.32274",
+      "url": "https://doi.org/10.1525/collabra.32274",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
