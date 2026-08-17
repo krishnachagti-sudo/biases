@@ -1,0 +1,100 @@
+{
+  "no": 477,
+  "slug": "misattribution-of-arousal",
+  "name": "Misattribution of arousal",
+  "aliases": [
+    "Suspension bridge effect",
+    "Arousal misattribution"
+  ],
+  "category": "social",
+  "statement": "Arousal from one cause can be read as a feeling about whatever is at hand, so fear on a high bridge is reported as attraction to the person at the end of it.",
+  "meaning": "Two separate claims travel under this name and they carry different evidence. The first is Schachter and Singer's two-factor theory: bodily arousal is undifferentiated, and the emotion a person reports depends on the label the situation supplies. On that account misattribution needs the real cause of the arousal to be unclear. The second is Dutton and Aron's, that arousal raises sexual attraction even when its source is obvious, since a man on a swaying bridge knows perfectly well why his heart is going. Dutton and Aron said plainly that their reading required loosening the source-ambiguity condition of the theory they were building on. Confusing the two claims makes the bridge study look like a test of the 1962 theory when it contradicts part of it.",
+  "origin": {
+    "year": 1974,
+    "who": "Donald G. Dutton and Arthur P. Aron",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their paper is \"Some evidence for heightened sexual attraction under conditions of high anxiety\", and it reports three studies rather than one. The theory it draws on is twelve years older: Schachter and Singer's 1962 Psychological Review paper, which introduced the arousal-plus-label account and is described in the evidence below."
+  },
+  "evidence": "Schachter and Singer injected male introductory psychology students at the University of Minnesota with epinephrine or saline, calling it a vitamin compound named Suproxin, then left each man with a confederate acting euphoric or angry. All but one of 185 agreed to the injection. Eleven were dropped as too suspicious and five more because the drug produced no symptoms. On the euphoria self-report index the means ran 0.98 for men correctly told what they would feel, 1.78 for those told nothing, 1.90 for those misinformed and 1.61 for placebo, with 25 or 26 per condition. The behavioural activity index ran 12.72, 18.28, 22.56 and 16.00. Placebo against any epinephrine condition was not significant on either measure. Only in the anger conditions did the injected men differ from placebo, on the observers' anger index, 2.28 against 0.79, p < .05. The paper calls the placebo pattern \"a particularly troubling pattern\" that \"raises serious questions about our entire theoretical structure\". It then rescues the comparison twice over. Men who had linked their symptoms to the shot were dropped, and placebo men were split on whether their pulse rose. Dutton and Aron's own paper could not be obtained for this entry, and the figures that follow are quoted from Szczucka's reanalysis, which prints them with page citations to the original. On the Capilano suspension bridge, 450 feet long and 230 feet above a canyon, a female interviewer approached 33 men and 23 filled in her questionnaire; on a low stable bridge 22 of 33 did. Stories written on the suspension bridge scored higher for sexual imagery, 2.47 against 1.41, t = 3.19, df = 36. Eighteen of 23 took her telephone number against 16 of 22, and nine of the 18 rang her against two of 16. A male interviewer produced no bridge difference, t = 0.36.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Four studies including an exact copy of Dutton and Aron's laboratory experiment found no effect of fear on attraction, while a roller-coaster field study found the transfer at d = 0.45.",
+    "detail": "Kenrick, Cialdini and Linder set out to replicate and extend the finding and reported four failures. Experiment 3 copied Dutton and Aron's laboratory study in every detail they could identify, and Experiment 4 was near exact within its neutral condition. The fear manipulation worked, with state anxiety at F(1, 115) = 18.78, p < .001. High fear raised attributions of excitement to the experiment, F(1, 189) = 4.64, p < .03, and not to the woman, F(1, 189) < 1, with the difference between the two attributions at F(1, 189) = 9.07, p < .005. Liking, desire to date and desire to kiss all came out at F < 1. Their female-confederate cells held 16 and 16, 21 and 22, 16 and 31, and 37 and 38 men. Their reading is that arousal from an unambiguous threat is assigned to the threat, which is what the 1962 theory predicts and what Dutton and Aron's account does not. Meston and Frohlich went the other way at two amusement parks, approaching 165 men and 135 women entering or leaving a roller coaster and asking them to rate a photograph of a stranger. Self-reported arousal was higher on the way out, F(1, 244) = 16.14, p < .001. Time interacted with who the rider sat beside, F(1, 221) = 4.53, p = .035 for attractiveness and F(1, 221) = 3.93, p = .049 for dating desirability. Among riders whose seatmate was not a romantic partner, those leaving rated the photograph higher, t(135) = -2.48, p = .014 and t(135) = -2.56, p = .012, which they put at d = 0.45 and d = 0.44. Riders sitting with a partner showed no difference. Szczucka recomputed the bridge data and found the behavioural result thinner than its billing. Accepting the telephone number differed between bridges in neither field study, odds ratio 1.35 in the first and 1.26 in the second. Calling back reached odds ratio 7, p < .02, in the first study only. In the second, the printed control figure of seven callers out of 23 is impossible, because only 19 of those controls had been given a number; on 7 of 19 the comparison falls to p = .08.",
+    "study": {
+      "cite": "Kenrick, D. T., Cialdini, R. B., & Linder, D. E. (1979). Misattribution under fear-producing circumstances: Four failures to replicate. Personality and Social Psychology Bulletin, 5(3), 329-334.",
+      "doi": "10.1177/014616727900500312",
+      "year": 1979
+    }
+  },
+  "limits": "The second bridge experiment is not the comparison the retellings describe. Both groups had crossed the suspension bridge, and the controls were approached at least ten minutes after crossing, so it tests how fast arousal fades rather than which bridge a man walked over. Dutton and Aron ran it because they saw the self-selection problem themselves: the men who choose a swaying bridge may differ from the men who choose a solid one. They also raised the alternative that the situation made the interviewer look like a lady in distress, and ran a laboratory study with anticipated electric shock to answer it. Szczucka notes that the third study reports 80 participants while its table implies five cells of 20. Sexual imagery in that study produced a significant interaction, F = 4.73, p < .05, with the main effect of expected shock strength at F = 4.22, p = .07. Four papers named here were not read. Dutton and Aron's own article is paywalled and no copy was reached through Crossref, Unpaywall, OpenAlex, Semantic Scholar, CORE or web search, so every figure attributed to it here comes through Szczucka. Foster, Witcher, Campbell and Green's 1998 paper reports a meta-analysis of arousal and attraction and no figure from it is quoted here. Reisenzein's 1983 review of the two-factor theory, Marshall and Zimbardo's 1979 study and Maslach's 1979 study are named because they bear directly on whether unexplained arousal can be labelled either way, and none of the three could be opened.",
+  "misreadings": "The bridge study is quoted as advice about taking a date somewhere frightening, and what it measured was telephone calls from nine men. Its own numbers are smaller and messier than the retelling: 23 men filled in the questionnaire on the suspension bridge, 20 stories were usable, and the striking contrast rests on 18 men against 16. The 1962 experiment is treated as the confirmed foundation, when its central comparison, aroused against unaroused, was not significant on the euphoria measures and reached significance only after subjects were removed. And the two claims get merged. Schachter and Singer require the cause of the arousal to be unclear. A man who has just crossed a canyon on a plank walkway is therefore the wrong case for their theory, which is the point Kenrick and colleagues make in explaining their failures. Those authors closed by suggesting that social psychologists \"might well be cautioned to reevaluate their current enthusiasm for publicizing this theory to the lay community\", which is roughly the opposite of how the bridge has been used since.",
+  "sources": [
+    {
+      "text": "Schachter, S., & Singer, J. E. (1962). Cognitive, social, and physiological determinants of emotional state. Psychological Review, 69(5), 379-399. Read in full for this entry.",
+      "doi": "10.1037/h0046234",
+      "url": "https://gwern.net/doc/psychology/1962-schachter.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dutton, D. G., & Aron, A. P. (1974). Some evidence for heightened sexual attraction under conditions of high anxiety. Journal of Personality and Social Psychology, 30(4), 510-517. Paywalled; no copy was obtained, and the figures attributed to it here are quoted from Szczucka (2012).",
+      "doi": "10.1037/h0037031",
+      "url": "https://doi.org/10.1037/h0037031",
+      "type": "primary"
+    },
+    {
+      "text": "Szczucka, K. (2012). Attraction at first fright? What Datton & Aron really demonstrated almost 40 years ago. Polish Psychological Bulletin, 43(3), 191-198. A reanalysis that quotes the original with page citations; read in full for this entry. The misspelling of Dutton is the journal's.",
+      "doi": "10.2478/v10059-012-0021-6",
+      "url": "https://journals.pan.pl/Content/99711/PDF/05.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Kenrick, D. T., Cialdini, R. B., & Linder, D. E. (1979). Misattribution under fear-producing circumstances: Four failures to replicate. Personality and Social Psychology Bulletin, 5(3), 329-334. Read in full for this entry.",
+      "doi": "10.1177/014616727900500312",
+      "url": "https://gwern.net/doc/psychology/1979-kenrick.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Meston, C. M., & Frohlich, P. F. (2003). Love at first fright: Partner salience moderates roller-coaster-induced excitation transfer. Archives of Sexual Behavior, 32(6), 537-544. Read in full for this entry.",
+      "doi": "10.1023/A:1026037527455",
+      "url": "http://labs.la.utexas.edu/mestonlab/files/2016/05/excitation-transfer.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Foster, C. A., Witcher, B. S., Campbell, W. K., & Green, J. D. (1998). Arousal and attraction: Evidence for automatic and controlled processes. Journal of Personality and Social Psychology, 74(1), 86-101. Reports a meta-analysis of arousal and attraction; paywalled, and no figure from it is quoted here.",
+      "doi": "10.1037/0022-3514.74.1.86",
+      "url": "https://doi.org/10.1037/0022-3514.74.1.86",
+      "type": "replication"
+    },
+    {
+      "text": "Reisenzein, R. (1983). The Schachter theory of emotion: Two decades later. Psychological Bulletin, 94(2), 239-264. The standard review of what happened to the two-factor theory; paywalled, and nothing in this entry is taken from it.",
+      "doi": "10.1037/0033-2909.94.2.239",
+      "url": "https://doi.org/10.1037/0033-2909.94.2.239",
+      "type": "commentary"
+    },
+    {
+      "text": "Marshall, G. D., & Zimbardo, P. G. (1979). Affective consequences of inadequately explained physiological arousal. Journal of Personality and Social Psychology, 37(6), 970-988. Named as bearing on the 1962 result; paywalled and not read.",
+      "doi": "10.1037/0022-3514.37.6.970",
+      "url": "https://doi.org/10.1037/0022-3514.37.6.970",
+      "type": "replication"
+    },
+    {
+      "text": "Maslach, C. (1979). Negative emotional biasing of unexplained arousal. Journal of Personality and Social Psychology, 37(6), 953-969. Named as bearing on the 1962 result; paywalled and not read.",
+      "doi": "10.1037/0022-3514.37.6.953",
+      "url": "https://doi.org/10.1037/0022-3514.37.6.953",
+      "type": "replication"
+    },
+    {
+      "text": "White, G. L., Fishbein, S., & Rutsein, J. (1981). Passionate love and the misattribution of arousal. Journal of Personality and Social Psychology, 41(1), 56-62. The exercise-induced arousal study usually cited alongside the bridge; paywalled and not read.",
+      "doi": "10.1037/0022-3514.41.1.56",
+      "url": "https://doi.org/10.1037/0022-3514.41.1.56",
+      "type": "replication"
+    },
+    {
+      "text": "Allen, J. L., Kenrick, D. T., Linder, D. E., & McCall, M. A. (1989). Arousal and attraction: A response-facilitation alternative to misattribution and negative-reinforcement models. Journal of Personality and Social Psychology, 57(2), 261-270. The source of the response-facilitation alternative; paywalled and not read.",
+      "doi": "10.1037/0022-3514.57.2.261",
+      "url": "https://doi.org/10.1037/0022-3514.57.2.261",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
