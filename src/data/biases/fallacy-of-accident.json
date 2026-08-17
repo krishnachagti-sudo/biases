@@ -1,0 +1,102 @@
+{
+  "no": 535,
+  "slug": "fallacy-of-accident",
+  "name": "Fallacy of accident",
+  "aliases": [
+    "Accident fallacy",
+    "A dicto simpliciter ad dictum secundum quid",
+    "Dicto simpliciter",
+    "Sweeping generalisation"
+  ],
+  "category": "belief",
+  "statement": "The fallacy of accident applies a rule that holds in general to a case its exceptions cover, and the mistake Aristotle gave that name to is a different one.",
+  "meaning": "Copi's textbook defines it as a generalisation mistakenly applied to a particular case to which the generalisation does not apply, and files it among the fallacies of presumption rather than among the fallacies of induction. The complaint is not that the rule is false. A rule of thumb can be worth keeping and still fail on a case whose circumstances take it out, and Copi's example is the hearsay rule, which bars out-of-court statements and then may not apply when the person quoted is dead. Gary Curtis's Fallacy Files gives the form as: Xs are normally Ys, A is an X, therefore A is a Y, where A is abnormal. His illustration is Tweety the penguin. He also reads the modern fallacy as the shadow of defeasible reasoning, the study of rules that hold by default and can be overridden, which he credits to research in artificial intelligence. Three Atlas entries sit next to this one and are easy to confuse with it. Hasty generalisation runs the step the other way, from a few cases to a rule, and Copi calls that converse accident. Special pleading exempts a case the rule does cover, on grounds that do nothing to explain the exemption. Denying the antecedent carries the experimental work on how a further condition attached to a conditional stops people drawing an inference, and those figures are not restated here.",
+  "origin": {
+    "year": 2014,
+    "who": "Irving M. Copi, Carl Cohen and Kenneth McMahon",
+    "where": "Introduction to Logic, fourteenth edition, Pearson",
+    "note": "The name is Aristotle's and far older than this edition, which is dated here because it is the standard treatment that was read in full for this entry. No publication establishing the modern sense was located. Aristotle lists accident first among the seven kinds of fallacy independent of language in Sophistical Refutations, and his account is not the modern one. Fallacies that depend on accident, he writes, 'occur whenever any attribute is claimed to belong in like manner to a thing and to its accident', and his example is that Coriscus, being different from 'man', is different from himself, since he is a man. Hans Hansen calls it the most elusive fallacy on Aristotle's list and ties it to a distinction between counterpredicable properties and accidents, citing SR 5 166b28. The modern reading, a rule meeting an exceptional case, is closer to the second item on Aristotle's list, the use of an expression absolutely or with some qualification of respect, place, time or relation, which he illustrates with the man who is black and yet white in respect of his teeth. Allan Bäck's 2015 article in Vivarium argues that the fallacy lost the original justification for its name in the late Greek period, and that the medieval reading which replaced it 'has led to confusion over the fallacy of accident in millennia of logic books'."
+  },
+  "evidence": "The evidence here is textual, and the texts do not agree. Copi, Cohen and McMahon place accident as the first of three fallacies of presumption and gloss it in the glossary as a generalisation applied to individual cases that it does not properly govern. Their worked case is a person fined for ignoring a 'No Swimming' sign while jumping in to rescue someone from drowning. They also distinguish it from division, which argues from a whole to its parts, and they state the direction that separates accident from its converse: converse accident, which they equate with hasty generalisation, moves carelessly from individual cases to a generalisation, while accident moves from a generalisation to particulars it does not cover. Bradley Dowden's list at the Internet Encyclopedia of Philosophy defines accident as reasoning with a generalisation as if it had no exceptions, calls it the fallacy of sweeping generalisation, and sends the reader from 'secundum quid' to accident and converse accident as its two versions. Curtis is blunter about the history: he says several distinct fallacies have been discussed under the name, that the examples Aristotle gives do not seem to have anything in common, and that the reading he sets out 'has little except an historical relationship to Aristotle'. Hansen's Stanford Encyclopedia article reports that Copi's 1961 edition put accident and converse accident among the fallacies of relevance, where the fourteenth edition splits them between presumption and defective induction. That 1961 edition was not obtained. The scholarly literature on the Aristotelian fallacy is substantial and separate, running from Philoponus through the medieval controversy over the dictum de omni to Bäck, Bueno, Botting and Ferreira. No experiment on the fallacy under any of its names was located, and the nearest measured work is described below.",
+  "replication": {
+    "state": "mixed",
+    "headline": "No experiment on the fallacy itself was located. The nearest measured effect, the tendency to call a case a rule violation when the rule's text covers it and its purpose does not, replicated across 15 countries and reversed in two of them.",
+    "detail": "Struchiner, Hannikainen and de Almeida built four studies around Schauer's distinction between overinclusion, where a rule's text proscribes an act that does not offend its purpose, and underinclusion, where the purpose is offended and the text is not. Overinclusion is the fallacy's case, put to people as a question rather than named as an error. Study 1 gave 272 volunteers a restaurant rule banning dogs, stated as banning dogs in order to avoid nuisance to customers, and eight putative infractions. A misbehaved dog was called a violation by 96%, a goldfish by 7%, and the guide dog, which the text covers and the purpose does not, by 48%. Study 2 recruited 200 volunteers and manipulated text and purpose in a Latin square across four rules, including no vehicles in the park. Overinclusion cases came out at a predicted probability of .62 against .22 for underinclusion, OR = 5.60, z = 6.73, p < .001. Study 4, on 364 people, reproduced the case-type effect within the same paper, F(1, 262) = 7.52, p = .007, and found it depended on whether a moral prompt was present: without one, overinclusion at M = 4.58 and underinclusion at M = 3.45, and with none of the prompts the two were indistinguishable, M = 3.46 against M = 3.54. Hannikainen and colleagues then ran a preregistered survey experiment in 15 countries and report it as replicating that evidence. Among 4,120 lay participants, overinclusive cases were judged transgressions more than underinclusive ones, M = 4.23 against M = 3.73, B = 0.51, t = 7.23, partial eta squared 0.01, p < .001. The country by case-type interaction was significant, and the simple effect was in the textualist direction in Brazil, Canada, Finland, Germany, Italy, Lithuania and Poland, was not significant in Mexico, Colombia, India, Latvia, the United Kingdom and the United States, and reversed in Spain and the Netherlands. Among 775 legal experts from four countries the effect was much larger, M = 4.67 against M = 3.14, B = 1.53, t = 9.91, partial eta squared 0.11, and it appeared in all four countries taken separately. None of this measures the fallacy. It measures which way people resolve a case where a rule's letter and its point come apart, and the studies take no position on which answer is the error.",
+    "study": {
+      "cite": "Hannikainen, I. R., et al. (2022). Coordination and expertise foster legal textualism. Proceedings of the National Academy of Sciences, 119(44), e2206531119. Total n = 5,794 across 15 countries.",
+      "doi": "10.1073/pnas.2206531119",
+      "year": 2022,
+      "n": 5794
+    },
+    "original": {
+      "es": 5.6,
+      "esType": "OR"
+    }
+  },
+  "limits": "Nothing found here measures a person committing the fallacy. Europe PMC holds three records containing the phrase 'fallacy of accident', and all three were opened: a 2023 article in Argumentation on misplaced presumption, a 2014 Japanese study of workplace smoking bans, and a 1959 note in the Canadian Medical Association Journal. The same index holds none for 'dicto simpliciter'. OpenAlex returns 92 works for the phrase and the first twenty-five were listed, all of them historical or philosophical. Crossref and open-web searches produced the same picture. Several documents named on this page were not obtained. Botting's 'Fallacies of Accident' in Argumentation, Bäck's 2015 Vivarium article and his 1987 piece on Philoponus, and Bueno's 1988 article in the Journal of the History of Philosophy are all closed at their publishers and record no repository copy at Unpaywall, so Bäck's argument is quoted from the abstract in his Crossref record and nothing is taken from the other three. Copi was read in the fourteenth edition only; the 1961 classification is Hansen's report of it. The Aristotle text is the Pickard-Cambridge translation as transcribed by the Internet Classics Archive, whose file covers the parts it numbers 1 to 10 and stops well before chapter 24, where Curtis says Aristotle's own solution to the fallacy is set out, so that chapter was not read. On the measured side, the two effect-size fields are not filled symmetrically. The odds ratio quoted is the pairwise comparison from Study 2 of the 2020 paper, and the 2022 replication reports its case-type effect as a partial eta squared with a regression coefficient, so the two are not printed side by side. The 2022 paper's supplementary appendix, which carries its preregistered analyses, was not read. Neither research group set out to test a fallacy, and reading their results as a rate at which people commit one would be a use their designs do not support.",
+  "misreadings": "The first error is to treat the modern fallacy as Aristotle's. Aristotle's accident is about attributes claimed alike of a thing and of its accident, and the general rule met by an exceptional case is closer to the second fallacy on his list, the absolute statement taken without its qualification. Curtis says the modern reading has little but a historical relationship to Aristotle, and Bäck traces the drift to the late Greek period. A page that presents Aristotle as the author of the rule-and-exception fallacy is repeating a name, not a definition. The second error is direction. Accident goes from a rule to a case it should not cover; hasty generalisation, which Copi calls converse accident, goes from a few cases to a rule. The Latin tags make this worse rather than better, because 'secundum quid' is used by the Internet Encyclopedia of Philosophy for both directions at once. The third error is to confuse it with special pleading, which is the mirror image: accident forces a rule onto a case the rule should exempt, and special pleading exempts a case the rule covers. The fourth is to read the fallacy as an argument against rules. Copi's point is the opposite one, that there is hardly any rule or general principle without plausible exceptions, and that the rules are still worth having. The last error concerns the experiments. When most people in a study say the guide dog broke the no-dogs rule, they have not been shown to be reasoning badly. Whether a rule reaches a case its purpose does not is the question Hart and Fuller disagreed about, and the studies were built to measure that disagreement rather than to settle it.",
+  "sources": [
+    {
+      "text": "Aristotle. On Sophistical Refutations, translated by W. A. Pickard-Cambridge. Read in the Internet Classics Archive transcription, twice, from two fetches with identical checksums. Source for the list of seven fallacies independent of language, for the definition of the fallacy of accident and the Coriscus example, and for the absolute-and-qualified fallacy and its example about teeth.",
+      "url": "https://classics.mit.edu/Aristotle/sophist_refut.1.1.html",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy, first published 2015, substantive revision 30 August 2024. Read whole as page text. Source for accident being the most elusive fallacy on Aristotle's list, for the SR 5 166b28 reference, and for the classification in Copi's 1961 edition.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Copi, I. M., Cohen, C., & McMahon, K. Introduction to Logic, Fourteenth Edition. Pearson Education Limited, 2014. Read as text extracted from this PDF, downloaded twice with identical checksums. Source for the placement of accident among the fallacies of presumption, for the hearsay and No Swimming examples, for the equation of converse accident with hasty generalisation, and for the contrast with division.",
+      "url": "http://www.uop.edu.pk/ocontents/Book-Introductiontologic.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read in full. Source for the definition of accident, for the name sweeping generalisation, for the converse accident entry, and for secundum quid being sent to both.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Curtis, G. N. The Fallacy of Accident. The Fallacy Files. Source for the alias a dicto simpliciter ad dictum secundum quid, for the rule-of-thumb form and the penguin example, for the link to defeasible reasoning, and for the statement that the modern reading has little except a historical relationship to Aristotle.",
+      "url": "https://www.fallacyfiles.org/accident.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Bäck, A. (2015). How the Fallacy of Accident Got Its Name (and Lost It). Vivarium, 53(2-4), 142-169. Read as the abstract in the Crossref metadata record; the article is closed and Unpaywall records no copy.",
+      "doi": "10.1163/15685349-12341295",
+      "url": "https://doi.org/10.1163/15685349-12341295",
+      "type": "commentary"
+    },
+    {
+      "text": "Bäck, A. (2009). Mistakes of Reason: Practical Reasoning and the Fallacy of Accident. Phronesis, 54(2), 101-135. Read as the abstract in the Crossref metadata record; the article was not obtained.",
+      "doi": "10.1163/156852809x403649",
+      "url": "https://doi.org/10.1163/156852809x403649",
+      "type": "commentary"
+    },
+    {
+      "text": "Bueno, A. A. (1988). Aristotle, the Fallacy of Accident, and the Nature of Predication: A Historical Inquiry. Journal of the History of Philosophy, 26(1), 5-24. Named as existing; not obtained, and nothing here is taken from it.",
+      "doi": "10.1353/hph.1988.0001",
+      "url": "https://doi.org/10.1353/hph.1988.0001",
+      "type": "commentary"
+    },
+    {
+      "text": "Botting, D. (2011). Fallacies of Accident. Argumentation, 26(2), 267-289. Named as existing; not obtained, and nothing here is taken from it.",
+      "doi": "10.1007/s10503-011-9255-2",
+      "url": "https://doi.org/10.1007/s10503-011-9255-2",
+      "type": "commentary"
+    },
+    {
+      "text": "Struchiner, N., Hannikainen, I. R., & de Almeida, G. da F. C. F. (2020). An experimental guide to vehicles in the park. Judgment and Decision Making, 15(3), 312-329. Read in full at the journal archive, twice, from two fetches with identical checksums.",
+      "doi": "10.1017/s1930297500007130",
+      "url": "https://www.sas.upenn.edu/~baron/journal/19/191125/jdm191125.html",
+      "type": "primary"
+    },
+    {
+      "text": "Hannikainen, I. R., et al. (2022). Coordination and expertise foster legal textualism. Proceedings of the National Academy of Sciences, 119(44), e2206531119. Figures read from the JATS XML at Europe PMC, PMC9636918, downloaded twice with identical checksums.",
+      "doi": "10.1073/pnas.2206531119",
+      "url": "https://europepmc.org/article/MED/36282920",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
