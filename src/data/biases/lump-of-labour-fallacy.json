@@ -1,0 +1,125 @@
+{
+  "no": 456,
+  "slug": "lump-of-labour-fallacy",
+  "name": "Lump of labour fallacy",
+  "aliases": ["Lump of labor fallacy", "Lump of work fallacy", "Theory of the Lump of Labour", "Fixed amount of work fallacy"],
+  "category": "belief",
+  "statement": "The claim names a belief that a fixed quantity of work exists, so that a person who works more, or a worker who arrives, must take employment from someone else.",
+  "meaning": "Two separate claims travel under this name and the entry keeps them apart. The first is psychological: that ordinary people hold a fixed-work belief and reason from it to policy. The second is economic: that hours cuts, later retirement, immigration and automation do not move employment one for one, so the belief is wrong. Neither claim settles the other. Schloss, who named the theory, described it as the view that there is a certain fixed amount of work to be done, and that each worker should take care not to do too much, so that the Lump of Labour may be spread out thin over the whole body of work-people. His target was restriction of output by workers on piece-wage, and his analogy was the popular objection to machinery. Daniel Kinderman, quoted by Walker, notes that the fixed amount can mean two different things, a ceiling on labour demand or an assumption that labour demand does not respond to labour cost, and the two carry different arguments. This collection covers the general part-to-whole error at entry 450 and the wider fixed-pie belief at entry 105. The lump of labour is narrower than either. It is a claim about one market, and it is usually deployed against a named policy rather than as a description of reasoning.",
+  "origin": {
+    "year": 1891,
+    "who": "David F. Schloss",
+    "where": "The Economic Review",
+    "note": "Walker traces the earliest known reference to a fallacious theory of the lump of labour to Schloss's article 'Why Working-Men Dislike Piece-Work', and gives its pages as 1(3), 312 to 326; Wels and Macnicol give 311 to 326 for the same article, and it was not obtained here, so the discrepancy is unresolved. What was read directly is chapter V of the second edition of Schloss's book, where the theory occupies pages 43 to 47. The argument that shorter hours rest on a fixed-work belief was made three years later by John Rae, in Eight Hours for Work. Rae favoured the eight-hour day and denied it would relieve unemployment, writing that it was not a simple sum in arithmetic. Charles Beardsley answered him in the Quarterly Journal of Economics in 1895, arguing that Rae relied on the wages-fund doctrine he attributed to others. Walker records that a 1901 London Times series and a 1904 National Association of Manufacturers pamphlet turned the phrase against the eight-hour day itself."
+  },
+  "evidence": "The psychological claim has been measured by survey. Achim Kemmerling used Eurobarometer data on agreement that people in their late 50s should give up work to make way for the young and unemployed, and reports that agreement ranges from about a quarter in the United Kingdom to more than 90% in Greece. Those country figures are read from his own summary of the article rather than from the article, which is paywalled and was not obtained. His abstract states that voters in some European countries do not think an employment trade-off between older and younger workers exists while in others it is the dominant view, and that the belief tracks policy preferences on early retirement. Special Eurobarometer 469, on the integration of immigrants, put a flat statement to respondents. 39% agreed that immigrants take jobs away from workers in their country and 57% disagreed, against 72% who agreed that immigrants make it easier to fill jobs for which it is hard to find workers. Bryan Caplan measured the gap between the public and economists on related items in the Survey of Americans and Economists on the Economy. Ordered logits on an economist dummy give a coefficient of -2.77, z = -17.50, for whether technology displacing workers is a reason the economy is not doing better, and -2.72, z = -18.54, for company downsizing. On the twenty-year outlook for new technology, foreign competition and downsizing, economists averaged 1.92 on a scale where 2 is good, and Caplan writes that the public remained neutral. The economic claim has been tested against particular episodes and the results do not point one way. Simonetta Longhi, Peter Nijkamp and Jacques Poot pooled 165 estimates from nine studies of regional labour markets and found an unweighted mean elasticity of native employment to immigration of -0.024, meaning a 1% rise in immigration lowers local native employment by 0.024%. The mean was -0.005 on United States data and -0.032 elsewhere. Jennifer Hunt used 201 German manufacturing industries from 1984 to 1989 and found that a one-hour fall in standard hours raised employment of hourly workers by 0.3% to 0.7% and of salaried workers by 0.2% to 0.3%, while worker-hours of hourly workers fell 2% to 3%. Bruno Crepon and Francis Kramarz studied the French cut from 40 hours to 39 in February 1982 and found the opposite sign. Workers on 40 hours or more in March 1981 became less likely to be employed in 1982 than comparable workers on 36 to 39 hours, with estimated effects between 2.6% and 3.9%, and a lower bound of 4.1% in their second design. Their table 4 gives one-year employment losses in 1982 of 8.2% for workers on 40 hours against 6.6% for those on 39, and two-year cumulated losses of 16.5% against 12.6%.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The belief is found wherever it is looked for, and the economic proposition the fallacy label asserts comes out differently in different episodes.",
+    "detail": "On the psychological side the results agree. Eurobarometer 469 puts agreement that immigrants take jobs away at 39% across the European Union, Kemmerling's Eurobarometer series puts agreement with an age trade-off between about 25% and over 90% depending on country, and Caplan's lay-expert gaps on technological displacement and downsizing are among the largest in his set. On the economic side they do not. Longhi, Nijkamp and Poot's pooled elasticity of -0.024 is close to zero and its sign is negative, and the same meta-analysis finds -0.005 for the United States against -0.032 elsewhere, so the pooled figure hides a split. The Mariel boatlift, which raised the Miami labour force by 7%, is the sharpest case. David Card reported virtually no effect on the wages or unemployment rates of less-skilled workers. George Borjas, restricting attention to high school dropouts, reported that their wages fell by 10% to 30%, implying an elasticity between -0.5 and -1.5. Giovanni Peri and Vasil Yasenov applied the synthetic control method to non-Cuban high school dropouts and found no significant wage difference, and argued that Borjas's result depends on small sub-samples and a short pre-1979 series. Work-sharing splits the same way. Hunt found employment rises in Germany from 1984 to 1989 and reports that industry-level results for 1990 to 1994 suggest employment fell when standard hours fell. Crepon and Kramarz found job losses in France in 1982. On retirement, Ignacio Apella's panel of 11 Latin American countries from 2002 to 2019 found a positive correlation between the employment rates of older adults and young people, while Jacques Wels and John Macnicol's British time-series found employment of the over-65s positively associated with youth unemployment and inactivity in their preferred lagged model, adjusted R-squared 0.37, Durbin-Watson 2.26. On automation, Daron Acemoglu and Pascual Restrepo estimate that one more industrial robot per thousand workers reduces the United States employment-to-population ratio by about 0.18 to 0.34 percentage points and wages by 0.25% to 0.5%, a displacement effect that is real and far short of one for one.",
+    "study": {
+      "cite": "Longhi, S., Nijkamp, P., & Poot, J. (2006). The impact of immigration on the employment of natives in regional labour markets: a meta-analysis. IZA Discussion Paper No. 2044.",
+      "doi": "10.2139/ssrn.894042",
+      "url": "https://docs.iza.org/dp2044.pdf",
+      "year": 2006
+    }
+  },
+  "limits": "The label has a published critic and the criticism is about its use rather than about labour economics. Tom Walker argues in the Review of Social Economy that the authenticity of the fallacy claim is questionable and that explanations of it are inconsistent and contradictory. He counts no fewer than 17 articles in The Economist decrying the supposed fallacy between 1993 and 2005, and lists policy papers for the French Ministry of Finance, the UK Department for Work and Pensions, the OECD and the International Labour Organization that deploy it. His substantive point is that the claim is used in place of an argument. Sydney Chapman's 1909 theory of the hours of labour, which Hicks in 1932 called the classical statement of the theory of hours in a free market, holds that shorter hours can raise output through recovery from fatigue, and that competition between employers pushes the working day past its optimum. Walker writes that Chapman's analysis has never been refuted, only displaced by a simplifying assumption, and that Keynes, Pasinetti and Commons all treated reduced working time as a route to fuller employment without being answered. Wels and Macnicol make the parallel complaint about retirement, that the fallacy is used as an assumption rather than examined, and that Ros Altman's 2015 government report called the idea roundly discredited by academic studies while citing three sources in a few lines. Their own counter-calculation should be read as what it is. Converting British part-time jobs to half a full-time equivalent, they put 1951 at about 21,710,000 full-time equivalents and 2018 at 27,981,000, a rise of 29% against population growth of just over 30%, and conclude that there is a lump of labour. That is an accounting exercise on aggregate stocks, not an estimate of a policy effect, and the 50% conversion factor is their choice. Every economic figure quoted on this page is an estimate for one episode under one design. Two of them, Hunt's German result and Acemoglu and Restrepo's robot estimates, were read off working papers rather than the published articles, so the published figures may differ. The psychological figures have the mirror problem. Agreement with a survey statement about immigrants or older workers is not the same act as inferring that total work is capped, and no instrument located here separates the two.",
+  "misreadings": "The commonest error is about Schloss. He aimed the phrase at workers restricting their output on piece-wage, and the modern use, against policies that shorten hours, comes from Rae rather than from him. Schloss says on page 47 that with the question of the length of the working-day we have here nothing to do, and adds that a reduction of the hours of labour, say to eight in the day, may readily be admitted to be, on grounds both economic and social, highly desirable. The examples he gives are the Bradford lodge of the Labourers' Union cautioning members against doing double the work, and a Trades Union Magazine passage holding that a man earning 40s by task-work where the day rate is 20s robs his fellow of a week's employment. The second error is to treat the fallacy claim and the empirical claim as one. Showing that a fixed-work belief is common says nothing about whether a given policy displaces workers, and showing that a policy does not displace workers says nothing about why anyone believed it would. Walker's complaint is that the label lets an author skip the second question by winning the first. The third is direction. In several settings the disputed finding runs against the fallacy claim rather than for it, and the arguments are then between economists. Borjas against Card and Peri on Mariel, and Crepon and Kramarz against Hunt on work-sharing, are disputes inside the literature, not between economists and the public. The fourth is scope. Zero-sum thinking at entry 105 is a general belief about social relations with its own scales and its own correlates, and the fallacy of composition at entry 450 is a form of argument. This entry is neither. It is a specific economic proposition about the quantity of work, which is why the evidence for it consists of employment elasticities rather than of judgement tasks. No experiment locating a lump of labour belief in individuals, as distinct from a survey item measuring agreement with one, was found in searches of Crossref, PubMed and the open web.",
+  "sources": [
+    {
+      "text": "Schloss, D. F. (1894). Methods of Industrial Remuneration (2nd ed.). London: Williams and Norgate. Full text read from the Internet Archive scan. Chapter V, pages 43 to 47, carries the naming of the theory of the Lump of Labour, its definition, the dockyard washer-maker's remark, the Bradford lodge rule, the Trades Union Magazine passage, the steam-plough analogy and the endorsement of the eight-hour day on page 47. The index entry gives pages 38, 38n and 43 to 47.",
+      "url": "https://archive.org/stream/methodsofindustr00schluoft/methodsofindustr00schluoft_djvu.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Walker, T. (2007). Why economists dislike a lump of labor. Review of Social Economy, 65(3), 279-291. Full text read from the PDF at timeworkweb.com. Source for the attribution to Schloss 1891, for Rae, Beardsley, the 1901 Times series and the 1904 manufacturers' pamphlet, for the count of 17 Economist articles between 1993 and 2005, for Kinderman's ceiling-or-floor point, and for the account of Chapman, Hicks, Keynes, Pasinetti and Commons.",
+      "doi": "10.1080/00346760701635809",
+      "url": "https://timeworkweb.com/Why%20Economists%20Dislike%20a%20Lump%20of%20Labor.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Schloss, D. F. (1891). Why working-men dislike piece-work. The Economic Review, 1(3). Named by Walker as the earliest known use of the phrase, at pages 312 to 326, and by Wels and Macnicol at pages 311 to 326. The article was not obtained here and no DOI for it was found at Crossref, so it carries no identifier.",
+      "url": "https://archive.org/details/methodsofindustr00schluoft",
+      "type": "secondary"
+    },
+    {
+      "text": "Kemmerling, A. (2016). The end of work or work without end? How people's beliefs about labour markets shape retirement politics. Journal of Public Policy, 36(1), 109-138. Crossref confirms author, title, journal, volume, issue, pages and year, and its abstract was read there. The article is closed access and was not obtained. The country figures of about 25% in the United Kingdom and over 90% in Greece, and the Eurobarometer 2001 series behind them, come from the author's own summary of the article on the LSE European Politics blog.",
+      "doi": "10.1017/s0143814x14000324",
+      "url": "https://blogs.lse.ac.uk/politicsandpolicy/why-the-lump-of-labour-fallacy-helps-explain-some-countries-being-more-anti-austerity-than-others/",
+      "type": "primary"
+    },
+    {
+      "text": "European Commission (2018). Special Eurobarometer 469: Integration of immigrants in the European Union. Summary read from the Commission PDF; it carries the 39% agreeing and 57% disagreeing that immigrants take jobs away from workers, the 72% on hard-to-fill jobs, and the wording of question QA9.",
+      "url": "https://webgate.ec.europa.eu/ebsm/api/public/deliverable/download?doc=true&deliverableId=65414",
+      "type": "primary"
+    },
+    {
+      "text": "Caplan, B. (2002). Systematically biased beliefs about economics: robust evidence of judgemental anomalies from the Survey of Americans and Economists on the Economy. The Economic Journal, 112(479), 433-458. Full text read from the PDF at George Mason University. Table 3 carries the ordered-logit coefficients and z statistics on the economist dummy, including TECH at -2.77 and DOWNSIZE at -2.72, and the surrounding text carries the 1.92 mean on CHANGE20. The paper does not use the phrase 'lump of labour'.",
+      "doi": "10.1111/1468-0297.00041",
+      "url": "https://econfaculty.gmu.edu/bcaplan/pdfs/systematicallybiased.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Longhi, S., Nijkamp, P., & Poot, J. (2006). The impact of immigration on the employment of natives in regional labour markets: a meta-analysis. IZA Discussion Paper No. 2044. Full text read from the IZA PDF; the abstract and Table 2 carry the 165 estimates from nine studies, the unweighted mean of -0.024, and the -0.005 and -0.032 sub-sample means.",
+      "doi": "10.2139/ssrn.894042",
+      "url": "https://docs.iza.org/dp2044.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Card, D. (1990). The impact of the Mariel boatlift on the Miami labor market. ILR Review, 43(2), 245-257. Abstract read at Crossref; it is the source for the 7% rise in the Miami labour force and for the finding of virtually no effect on wages or unemployment rates of less-skilled workers. Full text not obtained.",
+      "doi": "10.1177/001979399004300205",
+      "url": "https://doi.org/10.1177/001979399004300205",
+      "type": "primary"
+    },
+    {
+      "text": "Borjas, G. J. (2017). The wage impact of the Marielitos: a reappraisal. ILR Review, 70(5), 1077-1110. Abstract read at Crossref; it is the source for the 60% dropout share, the 10% to 30% wage fall and the elasticity of -0.5 to -1.5. Full text not obtained.",
+      "doi": "10.1177/0019793917692945",
+      "url": "https://doi.org/10.1177/0019793917692945",
+      "type": "primary"
+    },
+    {
+      "text": "Peri, G., & Yasenov, V. (2019). The labor market effects of a refugee wave: applying the synthetic control method to the Mariel boatlift. Journal of Human Resources, 54(2), 267-309. Crossref confirms journal, volume, issue and pages. The abstract quoted here was read from NBER working paper 21801, revised June 2017; the published text was not obtained.",
+      "doi": "10.3368/jhr.54.2.0217.8561r1",
+      "url": "https://www.nber.org/system/files/working_papers/w21801/w21801.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hunt, J. (1999). Has work-sharing worked in Germany? The Quarterly Journal of Economics, 114(1), 117-148. Crossref confirms journal, volume, issue and pages. The figures on this page were read from NBER working paper 5724 of August 1996, whose conclusions carry the 201 industries, the 0.3% to 0.7% and 0.2% to 0.3% employment rises, the 2% to 3% fall in worker-hours and the 1990 to 1994 caveat. The published article was not obtained and its figures may differ.",
+      "doi": "10.1162/003355399555963",
+      "url": "https://www.nber.org/system/files/working_papers/w5724/w5724.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Crepon, B., & Kramarz, F. (2002). Employed 40 hours or not employed 39: lessons from the 1982 mandatory reduction of the workweek. Journal of Political Economy, 110(6), 1355-1389. Full text read from a PDF of the published article; the introduction carries the 2.6% to 3.9% and 4.1% estimates and Table 4 carries the 8.2, 6.6, 16.5 and 12.6 transition rates.",
+      "doi": "10.1086/342807",
+      "url": "http://gesd.free.fr/creponk2.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Wels, J., & Macnicol, J. (2019). Is the 'lump of labour' a self-evident fallacy? The case of Great Britain. In Social Policy Review 31 (pp. 221-242). Bristol: Policy Press. Full text read from the working-paper PDF in the ULB repository, which carries Tables 1 and 2, the adjusted R-squared of 0.37, the Durbin-Watson of 2.26, the full-time-equivalent calculation for 1951 and 2018, and the Altman quotation. Crossref confirms the book chapter's pages.",
+      "doi": "10.1332/policypress/9781447343981.003.0010",
+      "url": "https://dipot.ulb.ac.be/dspace/bitstream/2013/283343/3/lump.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Apella, I. (2024). The fallacy of the lump of labour theory: evidence for Latin America. International Labour Review, 163(1), 49-71. Abstract read at Crossref; it is the source for the 11 countries, the 2002 to 2019 window and the positive correlation between older and younger employment rates. Full text not obtained.",
+      "doi": "10.1111/ilr.12396",
+      "url": "https://doi.org/10.1111/ilr.12396",
+      "type": "primary"
+    },
+    {
+      "text": "Acemoglu, D., & Restrepo, P. (2020). Robots and jobs: evidence from US labor markets. Journal of Political Economy, 128(6), 2188-2244. Crossref confirms journal, volume, issue and pages. The 0.18 to 0.34 percentage-point and 0.25% to 0.5% figures were read from the abstract of NBER working paper 23285 of March 2017; the published article is behind a paywall and was not obtained, so its figures may differ.",
+      "doi": "10.1086/705716",
+      "url": "https://www.nber.org/system/files/working_papers/w23285/w23285.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Chapman, S. J. (1909). Hours of labour. The Economic Journal, 19(75), 353-373. Named by Walker as the theory the fallacy claim displaced. Crossref confirms author, title, journal, volume, issue and start page; full text not obtained.",
+      "doi": "10.2307/2221102",
+      "url": "https://doi.org/10.2307/2221102",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
