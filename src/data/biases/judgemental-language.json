@@ -1,0 +1,90 @@
+{
+  "no": 583,
+  "slug": "judgemental-language",
+  "name": "Judgemental language",
+  "aliases": ["Judgmental language", "Prejudicial language", "Emotive language", "Agentive framing", "Linguistic frame effect"],
+  "category": "belief",
+  "statement": "Wording an event so that it carries a verdict shifts the verdict: an agentive account of a restaurant fire drew $247 more in fines, and calling a gunman a terrorist added 3.8 years.",
+  "meaning": "Judgemental language is wording that hands down a verdict while appearing to report. The writer picks a pejorative or approving word, or a grammar that puts a person at the centre of the damage, and the reader arrives at the judgement without an argument having been made for it. Two claims travel under the name. The first is a charge in argument, that insulting wording is doing work reasoning should do, and it is settled by analysis rather than measurement. The second is a claim about readers, and it is the one this entry rates. Its experiments hold the facts of a case fixed, vary how those facts are worded, and then ask for blame, for intent, for money or for a prison term. Four neighbours mark the boundaries. Entry 7, the framing effect, varies the description of an outcome whose arithmetic is held fixed. Entry 573, the loaded label, renames a policy inside a survey question. Entry 419, the loaded question, puts the freight in a presupposition. Entry 227, the persuasive definition, moves what a prized word covers while keeping its warmth. Entry 35 carries Loftus and Palmer, where swapping the verb changed a reported speed rather than a verdict.",
+  "origin": {
+    "year": 2010,
+    "who": "Caitlin M. Fausey and Lera Boroditsky",
+    "where": "Psychonomic Bulletin & Review",
+    "note": "Their paper is the measured form of the claim, and it is not the source of the name. Who first listed judgemental language as a fallacy could not be established here. Crossref title queries for judgmental language fallacy, judgemental language fallacy and prejudicial language fallacy returned philosophy and linguistics and no experiment, and a Europe PMC query for the phrase with fallacy returned three records, none of them a study of the thing. Wikipedia's list of fallacies carries the definition in one line, and Stevenson's emotive meaning, which entry 227 covers, is the philosophical ancestor."
+  },
+  "evidence": "Fausey and Boroditsky ran the cleanest version of the manipulation. Two accounts of a restaurant fire used the same nouns, verbs and adjectives and differed only in transitive against intransitive frames. One had Mrs Smith flop her napkin on a candle and reported that 'She had ignited the napkin', the other that 'The napkin had ignited'. In Study 1, 236 Stanford students read one account each, 116 agentive and 120 non-agentive. Blame came out at 4.83 against 4.01, t(234) = 4.04, p < .001, d = .53. Fines came out at $935.17 against $688.75, a gap of $247 or 36%, t(234) = 3.99, p < .001, d = .52. Study 2 gave 179 students the same accounts and also told them an independent panel had rated Mrs Smith's blame as 1, 4 or 7 on a nine-point scale. Wording still moved the money, $730.75 against $577.77, F(1,173) = 5.53, p = .02, eta squared = .03, with a main effect of the panel's rating and no interaction between the two. The grammar moved the punishment after blame had been settled by somebody else. William Hart and Dolores Albarracín tested a subtler cue, tense rather than charge. Their third experiment gave 48 students a case report modelled on a shooting after a dice game, with the shooter either pulling out his gun and firing or having pulled it out and fired. Rated criminal intentionality came out at 4.89 against 3.69, F(1,46) = 7.02, p = .01, d = 0.76. Their first experiment, on 54 students reading fifteen neutral sentences about a man called Keith, found more word stems completed with intention words in the imperfective condition, 3.89 against 2.68, F(1,53) = 13.31, p = .001, d = 1.00. The label case is the one closest to the everyday complaint. Stephane Baele, Olivier Sterck, Thibaut Slingeneyer and Gregoire Lits gave 481 Belgian social science students a fake newspaper report of a shooting. Three versions were identical apart from whether the men who fired were called terrorists, Islamists or shooters. Asked what sentence the men should serve, the shooter group gave a mean of 14.1 years, the Islamist group 16.4 and the terrorist group 17.9. The authors report the Islamist gap as reaching the 5% level and the terrorist gap the 1% level, with the difference between the two labels not reaching statistical significance. Readers of the two loaded versions also rated the shooter as less rational, were more likely to attribute political or religious motives, and shifted their preferred response from justice and police towards the intelligence services and the army. A related literature measures something else. Anne Maass, Daniela Salvi, Luciano Arcuri and Gerard Semin recruited 51 members of two competing contrade before the palio in Ferrara. Subjects described cartoon episodes by picking among Semin and Fiedler's four levels of abstraction, from descriptive action verbs up to adjectives. The same desirable act was encoded more abstractly for an in-group actor and the same undesirable act more abstractly for an out-group actor, interaction F(1,46) = 9.49, p < .01, on means of 2.69, 2.51, 2.47 and 2.82 on a four-point abstraction scale. Their third experiment showed 20 uninvolved readers the sentences alone and found that more abstract wording implied more about the protagonist and a higher chance of repetition. That is a measure of how general a description is, not of how hostile its words are.",
+  "replication": {
+    "state": "mixed",
+    "headline": "A preregistered replication with 530 American adults recovered the blame effect at d = 0.58 and recovered it only in part in Croatian; a preregistered twelve-study replication of the verb-aspect version found nothing.",
+    "detail": "Mirjana Tonković, Denis Vlašiček and Francesca Dumančić preregistered direct replications of Fausey and Boroditsky's first two experiments, run in English on United States residents and in Croatian on students, and report no deviations from the plan. In English, agentive wording raised blame, t(528) = 6.71, p < .001, d = 0.58, 95% CI 0.41 to 0.76, and raised the fine, t(528) = 5.35, p < .001, d = 0.47, 95% CI 0.28 to 0.64. Both sit near the original values of .53 and .52. Their replication of the second experiment in English also held, with agency moving the fine at F(1,486) = 7.89, p = 0.005, eta squared = .013. Croatian went the other way. Blame moved at d = 0.18, 95% CI 0.01 to 0.35, less than half the original, and the fine did not move, d = 0.09, 95% CI -0.09 to 0.26. In the second experiment agency moved neither the manipulation check nor the fine, F(1,564) = 0.32, p = 0.571. The authors conclude that the effect is confirmed in English and that its size in Croatian remains to be determined. The verb-aspect version was tested harder and did not survive. Anita Eerland, Andrew Sherrill, Joseph Magliano, Rolf Zwaan and colleagues ran a Registered Replication Report of Hart and Albarracín's third experiment, with a protocol vetted by Hart and twelve direct replication studies, one of them online. Eleven laboratory studies entered the meta-analysis, each required to run at least 30 people per condition. Where the original found intentionality ratings 1.20 points higher under the imperfective, the pooled estimate was 0.24 points in the opposite direction, and its interval crossed zero. The forest plot prints -0.24 with a 95% interval of -0.50 to 0.02, and the running text gives the same estimate with an interval of -0.49 to 0.03. Intention attribution came out at 0.001, 95% interval -0.08 to 0.08, against 0.55 in the original. Detailed processing came out at 0.08 in the opposite direction, 95% interval -0.23 to 0.07, against 0.92. Heterogeneity was at or near zero on all three measures, and eight of the eleven laboratories plus the online study pointed the wrong way on criminal intentionality.",
+    "study": {
+      "cite": "Tonković, M., Vlašiček, D., & Dumančić, F. (2022). Preregistered direct replication of the linguistic frame effect on perceived blame and financial liability. Legal and Criminological Psychology, 27(2), 354-369. Study 1b, blame.",
+      "doi": "10.1111/lcrp.12219",
+      "year": 2022,
+      "n": 530
+    },
+    "original": {
+      "es": 0.53,
+      "esType": "d"
+    },
+    "replicated": {
+      "es": 0.58,
+      "esType": "d",
+      "ci": [0.41, 0.76],
+      "ciLevel": 95
+    },
+    "indexedBy": "Crossref"
+  },
+  "limits": "The named fallacy is about pejorative words, and the two experiments with preregistered replications behind them are about grammar. Agentive against non-agentive frames and imperfective against perfective aspect both leave the vocabulary of blame untouched, so what they show is that syntax can carry a verdict, which is a narrower thing than what the fallacy alleges. The label experiment is the one that varies a charged word, and it is a single study. Baele and colleagues ran it once, in Belgium, in the spring of 2015, on 481 social science students, with no preregistration reported. A search for a repeat covered general web search and a Crossref query for a replication of the terrorist label experiment, and found none; OpenAlex could not be queried, because the interface refused the request for want of quota. Several documents could not be obtained. Montiel and Shah's terrorist against freedom fighter experiment, which Baele and colleagues describe as the first attempt at this design, is closed at the publisher and Unpaywall indexes no open copy, so what it found is reported here only as Baele and colleagues render it. The same holds for Woods, whose null result on threat perception is described by them as splitting 172 participants across eight conditions. Baele and colleagues' figures were read from the authors' accepted manuscript deposited at Figshare, not from the published version in Studies in Conflict and Terrorism. The Tonković figures were read from the Stage 2 manuscript on the Open Science Framework, and the published version at Wiley is closed. Crossref carries a second record for that title, 10.1111/lcrp.12244, dated 2023 and paginated 58, and which of the two the journal treats as the article of record was not established. The replication report prints no total sample size across its studies, so none is quoted here. Its abstract describes the pooled figures as Cohen's d, while the forest plots and the running text describe them as raw differences in scale points, and the numbers quoted above are the ones the plots carry. Whether the linguistic intergroup bias has been replicated was not assessed here, and the entry rates only the wording claim.",
+    "misreadings": "The commonest error is to read the replication report as a verdict on judgemental language. It tested one manipulation, the difference between was firing and fired, in one vignette. Nothing in it touches whether calling a man a terrorist changes what readers would do to him. The second error runs the other way, treating the agentive result as proof that charged words work. Mrs Smith is never insulted in either version of the fire, and the words that describe her are identical. The third error is to file the linguistic intergroup bias with this. It measures which level of abstraction a speaker reaches for, from action verb up to adjective, and its finding is about who is being described rather than about how harsh the wording is. The fourth is to expect the effect to survive translation. Tonković and colleagues found it in English at close to the original size and found it small or absent in Croatian, and they name the manipulation check as the place where the Croatian version came apart. The fifth is to treat the sentencing gap in the label study as persuasion. Nobody in it was argued into anything, and readers of the terrorist version may have taken the word as evidence about the event rather than as a description of it. The last is to expect a fallacy to have an effect size at all. This one is a charge about how an argument is conducted, and the experiments above are about what a description does to a reader who is not arguing back.",
+  "sources": [
+    {
+      "text": "Fausey, C. M., & Boroditsky, L. (2010). Subtle linguistic cues influence perceived blame and financial liability. Psychonomic Bulletin & Review, 17(5), 644-650. Studies 1 and 2 were read from a PDF of the published article, downloaded twice with identical checksums, and every figure above was matched against the document text on both copies.",
+      "doi": "10.3758/PBR.17.5.644",
+      "url": "https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/teaching/WiSe14_15/PM_geschuetzte-Literatur/Materialien/LiteraturSprachbeschreibung_16614/FauseyBoroditskyetal_subtlelinguisticcues.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Tonković, M., Vlašiček, D., & Dumančić, F. (2022). A preregistered direct replication of the linguistic frame effect on perceived blame and financial liability. Stage 2 manuscript, Open Science Framework. The published article is at doi 10.1111/lcrp.12219 in Legal and Criminological Psychology, 27(2), 354-369, and is closed at the publisher; the figures above come from this manuscript.",
+      "doi": "10.31234/osf.io/vn4jc",
+      "url": "https://osf.io/download/at2hj/",
+      "type": "replication"
+    },
+    {
+      "text": "Hart, W., & Albarracín, D. (2011). Learning about what others were doing: Verb aspect and attributions of mundane and criminal intent for past actions. Psychological Science, 22(2), 261-266. The author's PDF was downloaded twice with identical checksums and the experiment 1 and experiment 3 figures were confirmed on both.",
+      "doi": "10.1177/0956797610395393",
+      "url": "https://socialactionlab.org/wp-content/uploads/2024/01/Hart_Learning-About-What-Others-Were-Doing-Verb-Aspect-and-Attributions-of-Mundane-and-Criminal-Intent-for-Past-Actions_2011.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Eerland, A., Sherrill, A. M., Magliano, J. P., Zwaan, R. A., et al. (2016). Registered replication report: Hart & Albarracín (2011). Perspectives on Psychological Science, 11(1), 158-171. Read from the copy in the Utrecht University repository, downloaded twice with identical checksums; the forest plot values and the interval discrepancy noted above were confirmed on both.",
+      "doi": "10.1177/1745691615605826",
+      "url": "https://dspace.library.uu.nl/bitstream/handle/1874/357501/1745691615605826.pdf?sequence=1",
+      "type": "replication"
+    },
+    {
+      "text": "Baele, S. J., Sterck, O. C., Slingeneyer, T., & Lits, G. P. (2019). What does the 'terrorist' label really do? Measuring and explaining the effects of the 'terrorist' and 'Islamist' categories. Studies in Conflict & Terrorism, 42(5), 520-540. The sentencing means and the design were read from the authors' accepted manuscript at Figshare, downloaded twice with identical checksums. It also supplies this entry's account of Montiel and Shah and of Woods.",
+      "doi": "10.1080/1057610X.2017.1393902",
+      "url": "https://figshare.com/articles/journal_contribution/What_Does_the_Terrorist_Label_Really_Do_Measuring_and_Explaining_the_Effects_of_the_Terrorist_and_Islamist_Categories/29736368",
+      "type": "primary"
+    },
+    {
+      "text": "Montiel, C. J., & Shah, A. A. (2008). Effects of political framing and perceiver's social position on trait attributions of a terrorist/freedom fighter. Journal of Language and Social Psychology, 27(3), 266-275. The experiment that varied terrorist against freedom fighter. Closed at the publisher, with no open copy indexed by Unpaywall, and not obtained.",
+      "doi": "10.1177/0261927X08317951",
+      "url": "https://doi.org/10.1177/0261927X08317951",
+      "type": "primary"
+    },
+    {
+      "text": "Maass, A., Salvi, C., Arcuri, L., & Semin, G. R. (1989). Language use in intergroup contexts: The linguistic intergroup bias. Journal of Personality and Social Psychology, 57(6), 981-993. Read in full from the Vrije Universiteit Amsterdam repository copy. Cited here for what it measures, which is level of abstraction rather than evaluative charge.",
+      "doi": "10.1037/0022-3514.57.6.981",
+      "url": "https://research.vu.nl/ws/files/74115526/8922",
+      "type": "related"
+    },
+    {
+      "text": "Wikipedia, List of fallacies, wikitext as fetched on 17 August 2026. Carries the line 'Judgmental language - using insulting or pejorative language in an argument'. An index, quoted here only as evidence of how the name is used.",
+      "url": "https://en.wikipedia.org/wiki/List_of_fallacies",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
