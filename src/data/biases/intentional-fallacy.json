@@ -1,0 +1,84 @@
+{
+  "no": 552,
+  "slug": "intentional-fallacy",
+  "name": "Intentional fallacy",
+  "category": "belief",
+  "statement": "The author's intention is neither available nor desirable as a standard for judging a work of literary art, and critical questions are not settled by asking the author.",
+  "meaning": "The claim is about what a critic may treat as evidence. Wimsatt and Beardsley grant that a poem is designed. \"A poem does not come into existence by accident,\" they write, and its words \"come out of a head, not out of a hat.\" What they deny is that the design can serve as the measure of the result. Their argument is a dilemma. If the poet succeeded, \"then the poem itself shows what he was trying to do,\" so the intention adds nothing. If the poet did not succeed, \"then the poem is not adequate evidence, and the critic must go outside the poem\" for the intention that failed to take effect. Either way the standard does no work. The essay then sorts evidence into three kinds. Internal evidence is public, discovered through \"the semantics and syntax of a poem\" and through the language and culture at large. External evidence is private or idiosyncratic, consisting of \"revelations (in journals, for example, or letters or reported conversations) about how or why the poet wrote the poem.\" A third, intermediate kind covers the author's character and the \"private or semi-private meanings attached to words or topics by an author or by a coterie of which he is a member.\" Only the second is put outside criticism.",
+  "origin": {
+    "year": 1946,
+    "who": "W. K. Wimsatt Jr and M. C. Beardsley",
+    "where": "The Sewanee Review",
+    "note": "The essay opens by saying that the same two authors had already argued the point in \"a short article entitled 'Intention' for a dictionary of literary criticism\" but could not pursue it at length there. Hirsch's 1960 footnote records the reprint in Wimsatt's The Verbal Icon, Lexington, Kentucky, 1954, and library catalogue records give the same year and the University of Kentucky Press."
+  },
+  "evidence": "There is no study. The intentional fallacy is an argument about critical method, and the 1946 essay proceeds by five propositions and a series of worked examples. Judging a poem, the authors write, \"is like judging a pudding or a machine. One demands that it work. It is only because an artifact works that we infer the intention of an artificer.\" They set poetry against \"practical messages, which are successful if and only if we correctly infer the intention.\" The central case is a line near the end of Eliot's \"The Love Song of J. Alfred Prufrock,\" \"I have heard the mermaids singing, each to each,\" which resembles a line in a song by Donne. Two ways of asking whether it is an allusion are set out. One is exegesis, which asks whether the poem makes sense if Prufrock is thinking about Donne. The other, available because Eliot was then alive, is to write to him and ask what he meant. The first is called \"the true and objective way of criticism.\" The second is refused in the closing sentence: \"Critical inquiries are not settled by consulting the oracle.\"",
+  "replication": {
+    "state": "none-located",
+    "headline": "The thesis is a rule for critics rather than an empirical claim, and no attempt to test or replicate it was found.",
+    "detail": "Searches ran over Crossref, Europe PMC, Semantic Scholar and open-web search, using the essay's title, both authors' names, and terms for authorial intention, interpretation and aesthetic judgement. Nothing they returned tests the 1946 thesis, which tells critics what to count as evidence rather than predicting a result. Psychology has tested a narrower question, whether intention can be read off a work, which bears on the second of the essay's propositions. Hawley-Dolan and Winner showed art and non-art students paired images, one by an abstract expressionist and one by a child or an animal, first unlabelled and then with labels that were either correct or reversed. Participants preferred the professional paintings and judged them better even when the labels were reversed, and both groups justified their choices in terms of artists' intentions more often for the professional works. Snapper, Oranç, Hawley-Dolan, Nissel and Winner reran the design with a direct question, which painting is by the artist, and people unfamiliar with abstract expressionism picked the artists' works above chance, singly as well as in pairs. Their third study attributes that discrimination to perceived intentionality and perceived structure. Both papers are described here from their abstracts at Europe PMC. Neither speaks to whether a critic ought to judge a poem by what its author meant to do.",
+    "indexedBy": "Europe PMC"
+  },
+  "limits": "The principle is stated for poetry, and the essay exempts practical messages, which it says succeed if and only if the intention is correctly inferred. It does not bar biography either. Literary biography is called \"a legitimate and attractive study in itself,\" and biographical evidence \"need not involve intentionalism, because while it may be evidence of what the author intended, it may also be evidence of the meaning of his words.\" The counter-argument is live. Hirsch held in PMLA in 1960 that a text's permanent meaning \"is, and can be, nothing other than the author's meaning,\" and that the interpreter's task is to show one reading more probable than another. Carroll wrote in 2000 that intentionalist interpretation, \"regarded for decades as a fallacy,\" had begun to attract a following among philosophers of art. He defends modest actual intentionalism, on which a correct interpretation must be compatible with the author's actual intention, and that intention must itself be supported by the work. He argues against hypothetical intentionalism, which he describes as holding that correct interpretation is constrained by the best hypotheses about the artist's intentions. Levinson defends the hypothetical position in the British Journal of Aesthetics. Both positions are quoted here from Carroll's abstract, because neither article was obtained in full. Two texts of the 1946 essay were read for this entry and they differ. The transcription used as the second copy drops \"or morals\" from one sentence and prints \"might\" where the JSTOR scan prints \"may.\" Whether it reproduces the 1954 revision could not be established. No record fetched here confirmed the page range of the original printing; the scan read runs to page 488 of volume 54.",
+  "misreadings": "The essay is quoted as ruling authorial intention out of the meaning of a text. Its own formula is narrower, holding that intention is \"neither available nor desirable as a standard for judging the success of a work of literary art.\" Meaning is still in scope, since the section on evidence opens by distinguishing internal from external evidence \"for the meaning of a poem,\" and readers took it that way at the time. Hirsch described it in 1960 as taking the position, \"albeit modified by certain qualifications,\" that the text \"means what the speech community takes it to mean.\" A second misreading turns it into a ban on biography and literary history, which the essay declines to impose. A third hears \"fallacy\" as a fault in logic. What the authors offer is a principle of criticism, one whose acceptance or rejection they say \"points to the polar opposites of classical 'imitation' and romantic expression.\" A fourth treats the question as closed. Philosophers have argued the other side for sixty years, from Hirsch in 1960 through Knapp and Michaels in 1982 to Dickie and Wilson's defence of Beardsley in 1995 and the intentionalisms Carroll surveys in 2000.",
+  "sources": [
+    {
+      "text": "Wimsatt, W. K., Jr., & Beardsley, M. C. (1946). The intentional fallacy. The Sewanee Review, 54. Read for this entry as a 21-page scan of the original printing whose running heads end at page 488.",
+      "url": "https://web.english.upenn.edu/~cavitch/pdf-library/WimsattBeardsley_Intentional.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Wimsatt, W. K., Jr., & Beardsley, M. C. (1946). The intentional fallacy. Transcription used as an independent second copy for checking every quotation in this entry. Its wording differs from the scan at several points.",
+      "url": "http://www.pfgpowell.plus.com/Pages%201/Resources/The%20Intentional%20Fallacy.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hirsch, E. D., Jr. (1960). Objective interpretation. PMLA, 75(4), 463-479.",
+      "doi": "10.2307/460609",
+      "url": "https://sites.english.unt.edu/~simpkins/Hirsch-Objective-Interpretation.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Carroll, N. (2000). Interpretation and intention: The debate between hypothetical and actual intentionalism. Metaphilosophy, 31(1-2), 75-95. Described here from the abstract deposited at Crossref; the full article was not obtained.",
+      "doi": "10.1111/1467-9973.00131",
+      "url": "https://doi.org/10.1111/1467-9973.00131",
+      "type": "commentary"
+    },
+    {
+      "text": "Levinson, J. (2010). Defending hypothetical intentionalism. The British Journal of Aesthetics, 50(2), 139-150. Named as existing; the publisher's page returned 403 to these checks and nothing is quoted from it.",
+      "doi": "10.1093/aesthj/ayp072",
+      "url": "https://doi.org/10.1093/aesthj/ayp072",
+      "type": "commentary"
+    },
+    {
+      "text": "Irvin, S. (2006). Authors, intentions and literary meaning. Philosophy Compass, 1(2), 114-128. A survey of the positions; read here as its abstract only.",
+      "doi": "10.1111/j.1747-9991.2006.00016.x",
+      "url": "https://doi.org/10.1111/j.1747-9991.2006.00016.x",
+      "type": "commentary"
+    },
+    {
+      "text": "Dickie, G., & Wilson, W. K. (1995). The intentional fallacy: Defending Beardsley. The Journal of Aesthetics and Art Criticism, 53(3), 233-250. Named as existing; not read for this entry.",
+      "doi": "10.1111/1540_6245.jaac53.3.0233",
+      "url": "https://doi.org/10.1111/1540_6245.jaac53.3.0233",
+      "type": "commentary"
+    },
+    {
+      "text": "Knapp, S., & Michaels, W. B. (1982). Against theory. Critical Inquiry, 8(4), 723-742. Named as existing; not read for this entry.",
+      "doi": "10.1086/448178",
+      "url": "https://doi.org/10.1086/448178",
+      "type": "commentary"
+    },
+    {
+      "text": "Hawley-Dolan, A., & Winner, E. (2011). Seeing the mind behind the art: People can distinguish abstract expressionist paintings from highly similar paintings by children, chimps, monkeys, and elephants. Psychological Science, 22(4), 435-441. Described here from its abstract at Europe PMC.",
+      "doi": "10.1177/0956797611400915",
+      "url": "https://doi.org/10.1177/0956797611400915",
+      "type": "primary"
+    },
+    {
+      "text": "Snapper, L., Oranç, C., Hawley-Dolan, A., Nissel, J., & Winner, E. (2015). Your kid could not have done that: Even untutored observers can discern intentionality and structure in abstract expressionist art. Cognition, 137, 154-165. Described here from its abstract at Europe PMC.",
+      "doi": "10.1016/j.cognition.2014.12.009",
+      "url": "https://doi.org/10.1016/j.cognition.2014.12.009",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
