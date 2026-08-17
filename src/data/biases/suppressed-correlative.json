@@ -1,0 +1,65 @@
+{
+  "no": 562,
+  "slug": "suppressed-correlative",
+  "name": "Suppressed correlative",
+  "aliases": [
+    "Fallacy of the suppressed correlative",
+    "Suppressed relative",
+    "Errors of suppressed correlatives"
+  ],
+  "category": "belief",
+  "statement": "A term is widened until its opposite has no instances left, so the word divides nothing and the claim it carries can no longer fail.",
+  "meaning": "The charge is about a pair of words, not about a step in an inference. Alexander Bain's starting point is that we are not made conscious without a change of state, so knowledge is knowledge of contrasts: heavy is relative to light, up supposes down, being awake implies the state of sleep. Words like mysterious, dignified and selfish work the same way. Widen one member of the pair until the other has no possible instances and the surviving word applies to everything, which is to say it sorts nothing. Bain files this under errors of relativity, which he places inside the class he calls Fallacies of Confusion. The test the idea implies is a question rather than a measurement: after the redefinition, what does the term still exclude? Where the answer is nothing, no observation can count against the sentence, and the disagreement it appeared to settle is still open. Joel Feinberg later attached the name to psychological egoism, where every act is called selfish and no act is left that could be unselfish.",
+  "origin": {
+    "year": 1884,
+    "who": "Alexander Bain",
+    "where": "Practical Essays, D. Appleton, New York",
+    "note": "Essay II of the book is titled \"Errors of Suppressed Correlatives\" and runs from page 43 to page 65 in the Appleton edition. Its opening footnote gives the Fortnightly Review, October 1868, as first publication; the title that article carried was not verified for this entry. Bain also writes of \"a fallacy of the suppressed relative\", using the two words for one idea. Feinberg's application to psychological egoism came much later, in an essay his own footnote-writers date to 1958 and which was printed in his anthology Reason and Responsibility from 1965 onward."
+  },
+  "evidence": "Bain argues from worked cases rather than from data, and most of them are about rhetoric. To praise simplicity of style is a merit only where the prevailing manner is artificial. To extol knowledge is to reprobate ignorance, and the same speakers who praise the enlightened man also praise the untaught sagacity of the people, which is the correlative statement suppressed. Authority is cited with a flourish when it agrees and pitied as half-informed when it does not. On the dignity of labour he is blunt: \"Make all labour alike dignified, and nothing is dignified; you simply abolish dignity by depriving it of the contrast that it subsists upon.\" On the seventeenth-century theory of occasional causes, in which the Deity acts by a perpetual miracle, he writes that \"The very idea of miracle is abolished if every act is to be alike miraculous.\" The longest case is mystery, a term he says supposes certain things that are plain, intelligible, knowable, and refers by contrast to things that are not. Feinberg's essay makes the argument about one word. Section 19 is titled \"The Fallacy of the Suppressed Correlative\", and it lists selfish-unselfish beside good-bad, large-small and mental-physical as pairs that operate together. On the psychological egoist's usage he writes that there are not only no actual cases of unselfish voluntary action, there are \"not even any theoretically possible or conceivable\" ones, so the theory reduces to a tautology that is \"empty, uninteresting, and trivial\". His summary is that the egoist \"has so blown up the sense of\" selfish that \"like inflated currency, it will no longer buy anything\". He then grants that the redefinition could be adopted, and predicts we would coin \"selfitic\" and \"unselfitic\" to do the old work, which is his reason for calling the manoeuvre useless rather than false. The Stanford Encyclopedia of Philosophy makes the same point without the name: if self-interest is identified with the satisfaction of all of one's preferences then psychological egoism \"turns out to be trivially true\", and on that version the soldier who smothers a grenade and the soldier who pushes someone onto it come out equally selfish.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study measuring this fallacy, or measuring how people respond to a term redefined until its opposite is empty, was found.",
+    "detail": "The search covered Crossref, PubMed and open web search. PubMed returns nothing for the phrase in titles or abstracts, and a full-phrase query returns four papers, on foreign-language effects, fruit flies, EEG artefacts and statistics in orthopaedic research, none of which is about this. Crossref surfaces only unrelated senses of the word correlative, mostly in microscopy and grammar. PhilPapers, the venue most likely to hold philosophical work under the name, returned a Cloudflare challenge on every attempt and was not searched. OpenAlex refused the queries for exhausted quota, so it was not searched either. Two neighbouring literatures are measured and both already have pages here. Entry 537 on the invincible ignorance fallacy covers Friesen, Campbell and Kay on the appeal of unfalsifiable religious and political claims, and Siebert and Siebert on how far a retraction moves belief back. Entry 227 on persuasive definition covers the survey work on renaming a referent and Levari and colleagues on concepts whose extension moves with how often instances appear. Neither line of work presents anyone with a redefined correlative pair. On the psychological egoism case, the Stanford Encyclopedia's entry describes Daniel Batson's experiments testing egoistic hypotheses one at a time against an altruistic one and reports that the altruistic hypothesis always made superior predictions. Those experiments test the egoist's empirical claim, not the redefinition, and the Batson papers were not read for this entry."
+  },
+  "limits": "The fallacy names a defect in a definition and supplies no rule for telling a vacuous broadening from a useful one. Bain applies it to positions people hold for other reasons, including the claim that virtue is determined by the moral nature of God and the claim that all labour is equally dignified, where what is really in dispute is the position rather than a slip in the wording. J. L. Mackie's reply to a similar argument in the problem of evil is that the point is about language rather than about the world: if everything were red we should not notice redness and so should have no word for it, which does not make universal redness impossible. That quotation is taken from Bruce Hauptli's course supplement, which cites Mackie's \"Evil and Omnipotence\" from a Reason and Responsibility reprint, and the Mackie paper itself was not read here. Feinberg's version is disputed on its own ground. Zhang, writing in 2024, argues that psychological egoism is not an analytic statement and that its defenders do not redefine selfish and unselfish in the way the argument requires. Nothing on this page rests on a numbered study, because none was found.",
+  "misreadings": "It is not the no true Scotsman move, which has its own entry. That one narrows a category so a counterexample falls outside it; this one widens a term until nothing falls outside it. The two are mirror images and both leave a generalisation that no case can touch. The name is often credited to Fearnside and Holther's Fallacy: The Counterfeit of Argument of 1959. The word correlative does not occur in the digitised edition of that book at the Internet Archive, read here as both a transcription and the scanned PDF. Its fallacy 41 is Suppressed Quantification, a different thing, and the nearest section in substance is fallacy 6, the all-or-nothing mistake, which is about forcing a graded matter into two boxes rather than collapsing two boxes into one. The book does use the standard example, in its first chapter, where \"No human act is truly disinterested\" is offered as a generalisation for which nobody can say what a crucial test would be. Breadth alone is not the fallacy. A definition can be wide and still exclude things, and the charge only lands when the correlative has no possible instances left. The charge is also not a finding about people. It says a sentence has stopped dividing the world, not that anyone was measured believing it.",
+  "sources": [
+    {
+      "text": "Bain, A. (1884). \"Errors of Suppressed Correlatives\", Essay II in Practical Essays. Project Gutenberg text, ebook 17522. The source for the quotations on labour, on miracle, on mystery and on the Fallacies of Confusion.",
+      "url": "https://www.gutenberg.org/files/17522/17522-8.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Bain, A. (1884). Practical Essays. New York: D. Appleton and Company. Scan of the Appleton printing at the Internet Archive, item practicalessays00bain. Essay II runs from page 43 to page 65, and the same quotations were read a second time here, with the footnote giving the Fortnightly Review, October 1868.",
+      "url": "https://archive.org/details/practicalessays00bain",
+      "type": "primary"
+    },
+    {
+      "text": "Feinberg, J. Psychological Egoism. Read from an uploaded scan of an anthology reprint. Section 19 is \"The Fallacy of the Suppressed Correlative\". The scan is two-column OCR whose lines interleave, so each phrase quoted above was checked as a string on two separate fetches.",
+      "url": "https://idoc.pub/documents/feinberg-psychological-egoism-pqn8dky18841",
+      "type": "primary"
+    },
+    {
+      "text": "Hauptli, B. W. (2013). Supplement on Feinberg's \"Psychological Egoism\". Florida International University. Notes to the reprint in Pojman and Fieser, Ethical Theory: Classical and Contemporary Readings, sixth edition, 1995, pages 75 to 86. The source for Feinberg's line that to know the meaning of one term in the pair we must know the meaning of the correlative term with which it is contrasted, and for the Mackie objection quoted at one remove.",
+      "url": "https://faculty.fiu.edu/~hauptli/Feinberg'sPsychologicalEgoism.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Shaver, R. (2023). Egoism. Stanford Encyclopedia of Philosophy, substantive revision 9 January 2023. The source for the trivially true version of psychological egoism, for the two soldiers, and for the description of Batson's experiments.",
+      "url": "https://plato.stanford.edu/entries/egoism/",
+      "type": "commentary"
+    },
+    {
+      "text": "Zhang, Z. (2024). Has Joel Feinberg Refuted Psychological Egoism? Scientific Journal of Humanities and Social Sciences, 6(12), 73-78. Read as the publisher's PDF. Argues that psychological egoism is not an analytic statement.",
+      "url": "https://bcpublication.org/index.php/SJOHSS/article/download/7708/7672/9399",
+      "type": "commentary"
+    },
+    {
+      "text": "Fearnside, W. W., & Holther, W. B. (1959). Fallacy: The Counterfeit of Argument. Englewood Cliffs, NJ: Prentice-Hall. Digitised edition at the Internet Archive, read as the transcription text and again as the scanned PDF. Checked for the word correlative, which does not appear in either rendering.",
+      "url": "https://archive.org/details/FallacyTheCounterfeitOfArgumentByWWardFearnsideAndWilliamBHolther",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
