@@ -1,0 +1,114 @@
+{
+  "no": 564,
+  "slug": "appeal-to-accomplishment",
+  "name": "Appeal to accomplishment",
+  "aliases": [
+    "Appeal to success",
+    "Appeal to achievement"
+  ],
+  "category": "belief",
+  "statement": "Dismissing a claim because its author has not achieved enough in the field is a named fallacy whose earliest located definition is a Wikipedia article of 18 May 2010.",
+  "meaning": "The move withholds standing instead of answering. Bo Bennett's fallacy site gives the label two logical forms. In the first, an accomplished person's claim is accepted because the person is accomplished. In the second, a critic is told to be quiet until as accomplished as the person criticised. This entry takes the second, the dismissal of a claim for want of achievement in the field, which is the form Wikipedia's article defines and the form its examples show. Two neighbouring entries hold the ground either side. The courtier's reply, entry 524 here, demands reading rather than achievement. Argument from authority, entry 417, covers the positive case, where an expert is cited in support of a claim. What is left is the demand that a speaker earn the right to be heard, and the question of when a record of success tracks anything a listener should weigh.",
+  "origin": {
+    "year": 2010,
+    "who": "a Wikipedia editor writing as Toussaint",
+    "where": "Wikipedia",
+    "note": "The article was created on 18 May 2010 at the misspelled title 'Appeal to accomlishment' and moved to the correct spelling two minutes later, according to the revision history read through the MediaWiki API. Its first version called the move a genetic fallacy, gave four examples, and cited nothing at all. The revision of 4 June 2012, revid 495969427, already carries the citation to Bo Bennett's Logically Fallacious, which the article still leads with. Bennett's page closes with the line 'This a logical fallacy frequently used on the Internet. No academic sources could be found.' The searches described below found no earlier definition."
+  },
+  "evidence": "Nothing has been published under this name as research, so the record splits into the textual and the neighbouring. Bennett's page names an exception in the same breath as the fallacy: 'When one's accomplishments are directly related to the argument, it is more meaningful.' The current Wikipedia article adds that the move can be cogent where all sides of a discussion agree on the reliability of the authority, and hangs that sentence on Marcin Lewiński's 2008 comment in Argumentation and on a 2010 book by Frans van Eemeren. Lewiński's comment was read in full as the publisher's PDF. It runs to about 2,400 words, contains no occurrence of the word accomplishment, and is about black box arguments and the dilemma Willard set out, that deference to authority is presumptively rational while invoking authority aborts debate. The label does reach a peer-reviewed venue as a category name. Jin and colleagues list 'Appeal to accomplishment' among the synonyms and subtypes of their Fallacy of Credibility class, in the annotation scheme for the LOGIC dataset published in Findings of EMNLP 2022. Hong and colleagues then reproduce Bennett's definition word for word in an arXiv paper on language-model reasoning. The measured work sits next door and asks whether success in one place buys attention in another. Brand, Mesoudi and Morgan ran an online general-knowledge quiz with a starting sample of 397 adults, four topics of 25 binary questions each, in which players could answer or copy another player. Prestige was emergent, being the count of times a player had been copied, with no deception. Given a domain-specific and a cross-domain prestige cue, players took the domain-specific one, mean estimate 3.05 with an 89% credible interval of 2.42 to 3.73. They preferred domain-general to cross-domain cues at 2.51, interval 1.90 to 3.16, and domain-specific to domain-general at 2.84, interval 2.24 to 3.46. Offered only a cross-domain cue against a random player ID they still took the cross-domain cue, 2.10, interval 1.34 to 2.87, and copied far less often, 7% of the time against 14% to 20% in the other three conditions. Their Table 2 shows why cross-domain cues are worth something rather than nothing: a player's score on one topic predicted the same topic later at r = 0.71 for art and 0.47 to 0.59 elsewhere, and predicted the other topics at r = 0.29 to 0.55. Whether a record of getting things right predicts getting things right later has been measured directly in geopolitical forecasting. Himmelstein, Atanasov and Budescu scored 326 forecasters over 188 questions and split the questions into halves of 94. The same accuracy measure taken on the two halves correlated .36 for the simple measure, .40 for the hierarchical one and .36 for the item-response one, against within-half correlations between different measures of .71 to .92. Psychometric tests did less well: matrix reasoning, numeracy, cognitive reflection, actively open-minded thinking and political knowledge correlated with accuracy at .10 to .22, and the whole set of individual differences cut the variance between forecasters by 14%, chi-square(7) = 35.11, p < .001. Atanasov and Himmelstein's review of over 40 skill measures puts the median absolute correlation of the non-accuracy measures at r = 0.20. It reports the cross-sample reliability of accuracy measures at about r = 0.74 across random subsamples of questions, and quotes about r = 0.45 for test-retest across seasons. That last figure is their report of Atanasov and colleagues rather than a number read here at its source.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment on this move was found. On the nearest measured question, whether a track record predicts later accuracy, 326 forecasters scored on two halves of 188 questions correlated between .36 and .40 with themselves, while tests of intelligence and thinking style correlated with accuracy at .10 to .22.",
+    "detail": "The Good Judgment Project result usually quoted here is stronger and less clean. Mellers and colleagues ranked the forecasters at the end of the tournament's first year, took the top five from each of 12 experimental conditions as 60 superforecasters, and did the same again a year later, from annual pools of 2,200 to 3,900 forecasters. Averaged over Years 2 and 3, superforecasters had standardised Brier scores of -0.34 against -0.14 for the next best forecasters on regular teams and 0.04 for the other 1,498, with area under the curve of 96 against 84 and 75, all differences from the superforecasters significant at the .01 level. Lower Brier scores are better. Their Table 3 gives the correlates of accuracy in the wider field as -.07 to -.23, t(1774) for each. The catch is that superforecasters were also put into elite teams, so the design does not separate what the track record predicted from what the new team produced, and the authors describe superforecasters as partly discovered and partly created. Kahneman and Klein set the condition under which any of this transfers: skilled intuition needs 'an environment of sufficiently high validity and adequate opportunity to practice the skill'. They report Tetlock's long-term political forecasters as 'not superior to untrained readers of newspapers', and Hogarth's wicked environments as the case where experience teaches the wrong lesson. Both of those readings are theirs, quoted here at one remove, because neither Tetlock's 2005 book nor Hogarth's was obtained. For the move itself, Europe PMC returned a 503 to three attempts from this machine, so it was not searched. PubMed has no record for the phrase as a phrase, its own translation of the query having split it into separate words for 426 unrelated hits. Crossref by title returned nothing carrying the name. OpenAlex full-text search returned 12 works, of which the only one using the label as a fallacy name is Jin and colleagues. Web search restricted to Springer, Cambridge, Oxford, Sage, Taylor and Francis, JSTOR, ScienceDirect, Brill and the ACL Anthology surfaced only computational papers reusing the LOGIC taxonomy. The Stanford Encyclopedia of Philosophy survey of fallacies was searched in full for the word accomplishment and has none; the Internet Encyclopedia of Philosophy list has one, the plural, in a passage on something else. The nearest experiment on withholding standing from a scientist is in entry 524 and is Barnes and colleagues, whose education condition told readers a scientist's doctorate came from an institution known to have low standards. It moved attitudes by d = .05 in 439 undergraduates and d = .06 in 199 adults, against d = .41 to .58 for attacks on misconduct, conflict of interest or the data. Those figures were re-read from the PLOS manuscript file for this entry."
+  },
+  "limits": "The neighbours answer a different question from the one the label names. Brand and colleagues measured whom people choose to copy in a quiz, not what people conclude when a critic is told to go and achieve something first. The forecasting figures are about the informativeness of a record, not about the fairness of demanding one, and they come from tournaments with resolvable questions and scored feedback, which is the environment Kahneman and Klein say is the favourable case. Nothing found here measures the move as an argumentative tactic, and the two effect-size fields are empty because there is no original and no replication to put in them. Brand and colleagues report 89% Bayesian credible intervals, which is why their numbers appear in prose and not in the structured fields. Three documents were not obtained. Ballantyne's 'Epistemic Trespassing' in Mind, the philosophical treatment of experts ruling on questions outside their field, is paywalled at Oxford and PhilArchive refused this machine, as it did the machine that wrote entry 524; nothing on this page comes from it. Van Eemeren's 2010 book, cited by Wikipedia at page 203, was not obtained either. Tetlock's 2005 book is quoted only as Kahneman and Klein describe it. The Atanasov and Himmelstein chapter was read as the author preprint at OSF rather than as the published Springer chapter.",
+  "misreadings": "The label is not the courtier's reply, though the two are often run together. A courtier's reply demands that a critic read the literature; this demands that a critic have done the thing. Both withhold standing, and only the second can be met by a career. It is also not the plain ad hominem, which attacks the arguer to discredit the claim rather than ruling the arguer out of the conversation. The second error is to read the label as settling anything. Bennett's page carries the exception in its own text, Wikipedia's carries a sentence on when the appeal is cogent, and neither gives a test for telling the two apart. The third is to take the superforecaster result as proof that a record earns deference. It shows a record predicting later accuracy inside a tournament with scored questions and elite teams, and the honest single number for the predictive strength of a record on its own is nearer .36 to .40 than certainty. The fourth runs the other way, treating cross-domain success as pure noise. In Brand and colleagues' quiz, players preferred a cross-domain prestige cue to a random player, and scores on one topic did predict scores on the others at r = 0.29 to 0.55, so a record from elsewhere carried some signal in a task where all the topics were general knowledge. Last, the label's own provenance is misread. It is not a term of art from argumentation theory. Its citation trail runs from a 2010 Wikipedia article with no source, through a fallacy website that says no academic sources could be found, to a machine-learning annotation scheme that adopted the list.",
+  "sources": [
+    {
+      "text": "Appeal to accomplishment. Wikipedia. Current wikitext read through action=raw, and the revision history and first revision read through the MediaWiki API. Source for the creation date of 18 May 2010, the misspelled original title, the genetic-fallacy classification, the examples, and the citations the article now carries.",
+      "url": "https://en.wikipedia.org/wiki/Appeal_to_accomplishment",
+      "type": "provenance"
+    },
+    {
+      "text": "Bennett, B. Appeal to Accomplishment. Logically Fallacious. The definition, the two logical forms, the exception, and the closing line that no academic sources could be found, all read from the page.",
+      "url": "https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Accomplishment",
+      "type": "primary"
+    },
+    {
+      "text": "Jin, Z., Lalwani, A., Vaidhya, T., Shen, X., Ding, Y., Lyu, Z., Sachan, M., Mihalcea, R., & Schölkopf, B. (2022). Logical Fallacy Detection. Findings of the Association for Computational Linguistics: EMNLP 2022, 7180-7198. Read as the ACL Anthology PDF; the label appears in the appendix listing subtypes of the Fallacy of Credibility class.",
+      "doi": "10.18653/v1/2022.findings-emnlp.532",
+      "url": "https://aclanthology.org/2022.findings-emnlp.532.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hong, R., Zhang, H., Pang, X., Yu, D., & Zhang, C. (2023). A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning. arXiv:2311.07954. Read as the arXiv PDF; it reproduces Bennett's definition of the label verbatim in its fallacy list.",
+      "url": "https://arxiv.org/pdf/2311.07954",
+      "type": "commentary"
+    },
+    {
+      "text": "Lewiński, M. (2008). Comments on 'Black box arguments'. Argumentation, 22(3), 447-451. Open access; read in full as the publisher's PDF. Cited by Wikipedia for the cogency of the appeal, and it does not contain the word accomplishment.",
+      "doi": "10.1007/s10503-008-9095-x",
+      "url": "https://link.springer.com/content/pdf/10.1007/s10503-008-9095-x.pdf",
+      "type": "provenance"
+    },
+    {
+      "text": "Brand, C. O., Mesoudi, A., & Morgan, T. J. H. (2021). Trusting the experts: The domain-specificity of prestige-biased social learning. PLOS ONE, 16(8), e0255346. Read as the article XML; every figure quoted was confirmed against a second download.",
+      "doi": "10.1371/journal.pone.0255346",
+      "url": "https://doi.org/10.1371/journal.pone.0255346",
+      "type": "primary"
+    },
+    {
+      "text": "Himmelstein, M., Atanasov, P., & Budescu, D. V. (2021). Forecasting forecaster accuracy: Contributions of past performance and individual differences. Judgment and Decision Making, 16(2), 323-362. Read as the Cambridge PDF; Tables 2 and 3 supply the stability and individual-difference correlations.",
+      "doi": "10.1017/s1930297500008597",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1930297500008597",
+      "type": "primary"
+    },
+    {
+      "text": "Mellers, B., Stone, E., Murray, T., Minster, A., Rohrbaugh, N., Bishop, M., Chen, E., Baker, J., Hou, Y., Horowitz, M., Ungar, L., & Tetlock, P. (2015). Identifying and Cultivating Superforecasters as a Method of Improving Probabilistic Predictions. Perspectives on Psychological Science, 10(3), 267-281. Read as the PDF hosted by Wharton; Table 1 and Table 3 supply the figures quoted.",
+      "doi": "10.1177/1745691615577794",
+      "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2015/07/2015---superforecasters.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Atanasov, P., & Himmelstein, M. (2022). Talent Spotting in Crowd Prediction. Preprint of a chapter in Seifert, M. (Ed.), Judgment in Predictive Analytics. Read as the OSF PDF. Source for the median correlation of non-accuracy measures and for the reliability figures, one of which it quotes from Atanasov and colleagues.",
+      "doi": "10.31234/osf.io/rm49a",
+      "url": "https://osf.io/download/rm49a/",
+      "type": "primary"
+    },
+    {
+      "text": "Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American Psychologist, 64(6), 515-526. Read as a PDF of the published article; source for the two conditions, for their reading of Tetlock's forecasters, and for Hogarth's wicked environments.",
+      "doi": "10.1037/a0016755",
+      "url": "https://gwern.net/doc/psychology/2009-kahneman.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Barnes, R. M., Johnston, H. M., MacKenzie, N., Tobin, S. J., & Taglang, C. M. (2018). The effect of ad hominem attacks on the evaluation of claims promoted by scientists. PLOS ONE, 13(1), e0192025. The measured neighbour shared with entry 524; the education and sloppy figures were re-read from the manuscript file for this entry.",
+      "doi": "10.1371/journal.pone.0192025",
+      "url": "https://doi.org/10.1371/journal.pone.0192025",
+      "type": "replication"
+    },
+    {
+      "text": "DiPaolo, J. (2022). What's wrong with epistemic trespassing? Philosophical Studies, 179, 223-243. Read as the PubMed Central full text. The scholarly literature on experts ruling outside their field, which is the mirror of the demand this entry describes.",
+      "doi": "10.1007/s11098-021-01657-6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8131877/",
+      "type": "commentary"
+    },
+    {
+      "text": "Ballantyne, N. Epistemic Trespassing. Mind, 128(510), 367-395, dated 12 February 2018 in the Crossref record and carried in the 2019 volume. Paywalled at Oxford, and PhilArchive refused this machine; listed as a lead, and nothing on this page comes from it.",
+      "doi": "10.1093/mind/fzx042",
+      "url": "https://doi.org/10.1093/mind/fzx042",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Searched in full for this entry; the word accomplishment does not occur in it.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Searched in full for this entry; its one occurrence of the word is the plural, in a passage on another subject.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
