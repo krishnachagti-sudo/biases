@@ -146,6 +146,17 @@ means with t values, 1.76% and t = 0.65, 0.35% and t = 0.11, −0.13% and
 t = −0.04. None of them are in the article. Every figure on that page was
 re-extracted from the JATS XML.
 
+The variant to watch for is the one that agrees with you. An agent auditing the
+fear-of-missing-out entry found an interval on the page, 0.33 to 0.41, that is
+not in the paper it was attributed to. It fetched that paper's page to check,
+and the fetch returned the entry's own wrong interval back, together with a
+platform breakdown nobody had asked for. A raw fetch of the same page contains
+neither. The article gives 0.34 to 0.41. Had the agent stopped at that first
+check, the audit would have confirmed the error and recorded it as verified,
+and the page would now carry a fabricated figure with a fresh date against it.
+Corroboration that arrives in the shape you expected is the case where the
+second raw fetch matters most.
+
 The worst case so far returned the wrong paper. An agent downloaded a URL for
 the Finkel Registered Replication Report and got back a complete and entirely
 plausible document: an abstract, a Table 1 with a total of 2,284, the priming
