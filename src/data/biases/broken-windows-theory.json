@@ -1,0 +1,111 @@
+{
+  "no": 480,
+  "slug": "broken-windows-theory",
+  "name": "Broken windows theory",
+  "aliases": [
+    "Broken windows",
+    "Cross-norm inhibition effect",
+    "Spreading of disorder",
+    "Order-maintenance policing"
+  ],
+  "category": "social",
+  "statement": "Visible disorder is held to signal that norms go unenforced, which licenses further norm violation and, on the policing version of the claim, more serious crime.",
+  "meaning": "Wilson and Kelling's essay carries three claims that are usually run together. The first is behavioural: someone who sees a norm being broken becomes readier to break other norms, because the unrepaired window signals that nobody cares. The second is about policing: if officers attend to minor disorder, serious crime falls. The third is historical: New York's crime drop in the 1990s is offered as that policy working. Each is tested by a different literature at a different scale, and evidence for one does not transfer to another. A flyer dropped in an alley and a homicide rate are not the same outcome. Wilson and Kelling supplied no data of their own, and their essay opens by reporting that Newark's foot patrol programme had not reduced crime rates. Keizer, Lindenberg and Steg named the behavioural mechanism the cross-norm inhibition effect, and argued that seeing one rule broken weakens the goal of acting appropriately in general rather than prompting imitation of the specific act.",
+  "origin": {
+    "year": 1982,
+    "who": "James Q. Wilson and George L. Kelling",
+    "where": "The Atlantic Monthly",
+    "note": "The essay is headed 'The police and neighborhood safety: BROKEN WINDOWS'. Keizer, Lindenberg and Steg cite it as Atlantic Monthly, March 1982, page 29. Its central sentence is that if a window is broken and left unrepaired, all the rest of the windows will soon be broken, and that this is as true in nice neighbourhoods as in run-down ones. The only experiment it reports is Philip Zimbardo's abandoned-car demonstration in the Bronx and Palo Alto, which Wilson and Kelling date to 1969. Beate Volker describes that demonstration as famous but never scientifically published."
+  },
+  "evidence": "Keizer, Lindenberg and Steg ran six field experiments in Groningen and reported them in Science in 2008. Each set a contextual norm that passers-by saw violated against a target norm they could violate themselves. With graffiti on the alley walls, 69% of cyclists littered a flyer left on their handlebars, against 33% with clean walls, N = 77 per condition, chi-square(1, 154) = 20.367, P < 0.001. With bicycles locked to a fence carrying a sign forbidding it, 82% stepped through a gap rather than walk a 200 m detour, against 27%, chi-square(1, 93) = 27.791, P < 0.001. Unreturned shopping trolleys raised littering from 30% to 58%, chi-square(1, 120) = 9.766, P = 0.002. Illegal firecrackers heard but not seen raised littering from 52% to 80%, chi-square(1, 96) = 8.587, P = 0.003. In the two theft studies, an envelope showing a 5 euro note was taken by 13% at a clean mailbox, by 27% when the mailbox was covered in graffiti, chi-square(1, 131) = 4.122, P = 0.035, and by 25% when the ground was littered, chi-square(1, 143) = 3.545, P = 0.047. Condition sizes ran from 44 to 77 people. The policing claim has its own literature. Braga, Welsh and Schnell's Campbell review, published in September 2019, pooled 28 studies giving 30 tests completed before 2013, nine of them randomised. Disorder policing produced a mean effect of d = 0.210, 95% CI 0.130 to 0.290, with heterogeneity of I-squared = 93.194. The split by tactic is the finding that matters: community and problem-solving programmes gave 0.271, 95% CI 0.169 to 0.373, while aggressive order-maintenance programmes gave 0.058, not significant, 95% CI -0.041 to 0.158. By outcome, the review reports 0.227 for violent crime across 15 tests, 0.187 for property across 16, and 0.266 for disorder and drug offences across nine. Fifteen tests measuring spatial spillover gave 0.091, 95% CI 0.072 to 0.111, favouring diffusion of benefit over displacement. On the historical claim, Harcourt and Ludwig reanalysed New York precinct data for 1989 to 1998 and argued that the pattern Kelling and Sousa attributed to misdemeanour enforcement is equally consistent with mean reversion, because the precincts policed hardest were those with the largest crack-era increases in violent crime. They then used Moving to Opportunity, in which about 4,600 low-income families in five cities were randomly assigned housing vouchers between 1994 and 1997. Moving cut reported physical and social disorder, and did not on net reduce arrests or self-reported offending. Female youth offended less, and other subgroups offended more. Sampson and Raudenbush had already put the correlational version to a harder test, videotaping face blocks on more than 23,000 streets across 196 Chicago neighbourhoods and interviewing about 3,800 residents. Once neighbourhood structure and collective efficacy were controlled, the disorder-crime link vanished in most instances, and of five crime measures only robbery kept a direct association with observed disorder. Homicide did not.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The behavioural effect survives repetition in the same direction and shrinks by roughly an order of magnitude, and the closest direct repeat of Keizer's letter experiment found nothing.",
+    "detail": "Volker ran the largest test. Eighty-four field experiments in 33 neighbourhoods across Amsterdam, Amersfoort, Utrecht, Rotterdam and The Hague, in the first three months of 2015, observed 12,528 people. The outcome was other-regarding behaviour: posting a dropped letter, posting one containing a 5 euro note without taking the money, or righting a fallen bicycle. It occurred in 4.7% of cases overall, 5.9% of 6,248 in the order condition and 3.5% of 6,280 in the disorder condition, chi-square(1/12528) = 42.743, p < 0.001. Across the 33 neighbourhoods a paired t test gave t = 2.899, df = 32, p < 0.006. Volker puts Cohen's d at 0.12, and notes the treatment effect is much lower than Keizer's. In many neighbourhoods the difference was not significant and in some it reversed, with more helping under disorder than under order. At least a quarter of the variation sat between neighbourhoods rather than between conditions. Volker also repeated the original letter experiment on the same Groningen street and reports no cue effects at all, adding that it is unclear why Keizer's findings could not be established. Keuschnigg and Wolbring ran three field experiments in Munich and found the cross-norm effect in the same direction as Keizer at smaller magnitude. Litter around a mailbox raised theft of a dropped letter from 13.3% to 20.4%, chi-square(1, 540) = 4.771, p = 0.029, and cut helping from 19.3% to 11.9%, chi-square(1, 540) = 5.639, p = 0.018. Their incentive manipulation is the sharpest limit anyone has published on the effect. With a 5 euro note visible, theft went from 10.0% clean to 21.1% under disorder, chi-square(1, 180) = 4.229, p = 0.040. With 10 euro the effect weakened, chi-square(1, 180) = 2.756, p = 0.097. With 100 euro it disappeared, chi-square(1, 180) = 0.000, p = 1.000. They also report the deteriorating effect of social disorder on jaywalking as 31.7 percentage points larger in high than in low social capital districts. Wicherts and Bakker's critique in Group Processes and Intergroup Relations attacked Keizer's design and statistics, and Volker summarises their verdict as leaving the effect of cues still to be seen. Bergquist and six colleagues published two replications and a meta-analysis of the cross-norm effect in the Journal of Environmental Psychology in 2023. Its full text could not be read here: ScienceDirect returned 403 on repeated fetches, and Unpaywall, OpenAIRE and OpenAlex list no repository copy, so no figure from it appears on this page. O'Brien, Farrell and Welsh meta-analysed the public health branch of the theory, screening 198 studies and pooling 152. Perceived disorder tracked mental health, substance abuse and general health, with no consistent evidence for physical health or risky behaviour, and they conclude that support for the theory's hypotheses has been overstated through data censoring and through omitting covariates such as socioeconomic status and collective efficacy. On the policing side, Braga, Schnell and Welsh's 2024 update reached 56 studies and 59 independent tests, close to twice the earlier count, and reports the same split: community and problem-solving work at hot spots produced the strongest effects, aggressive order maintenance produced no significant crime reduction.",
+    "study": {
+      "cite": "Volker, B. (2017). Revisiting Broken Windows: The Role of Neighborhood and Individual Characteristics in Reaction to Disorder Cues. Sociological Science, 4, 528-551.",
+      "doi": "10.15195/v4.a22",
+      "year": 2017,
+      "n": 12528
+    },
+    "replicated": {
+      "es": 0.12,
+      "esType": "d"
+    }
+  },
+  "limits": "Nothing in the field-experiment literature tests violent crime. The outcomes are a discarded flyer, a 200 m detour, a jaywalking, an unposted letter and a 5 euro note, and the largest incentive anyone has manipulated is 100 euro, at which point Keuschnigg and Wolbring find no disorder effect at all. Braga and colleagues' effect sizes come from police-recorded crime in geographic units and carry no mechanism, so they cannot be read as confirming the individual-level story. The Campbell review's prose and its Table 6 disagree slightly on two figures, giving 0.231 and 0.192 for violent and property crime in the text against 0.227 and 0.187 in the table; the table values are used above. The review's own heterogeneity is high, and its quasi-experimental studies gave d = 0.239 against d = 0.149 for the randomised ones. Wilson and Kelling's 1982 essay could be read here in a reproduction hosted by the Manhattan Institute rather than in The Atlantic's own archive. Wicherts and Bakker's critique was not obtained; the description of it above is Volker's. Bergquist and colleagues' 2023 meta-analysis was not obtained either, and is named rather than quoted. The 2024 update of the Campbell review sits behind Wiley, and the count of 56 studies and 59 tests comes from the abstract as reproduced on the authors' laboratory page at the University of Pennsylvania. Sampson and Raudenbush's figures on this page come from the National Institute of Justice research brief of February 2001, which summarises their American Journal of Sociology article with the publisher's permission. Zimbardo's abandoned-car demonstration was not located in any peer-reviewed form. The policy question here is live and contested, and this page reports what the evaluations measured without taking a position on what police should do.",
+  "misreadings": "The commonest error is treating the three claims as one. Keizer's flyers are evidence about littering and about a 5 euro envelope, not about robbery or assault, and the Campbell review's d = 0.210 is a property of police programmes in places, not of individuals seeing graffiti. The second error is reading disorder policing as zero tolerance. Braga and colleagues split the literature in two and found the community and problem-solving half working and the aggressive order-maintenance half not, which is close to the opposite of what the popular version of the theory recommends. A review that supports policing disorder therefore does not support mass misdemeanour arrests. The third concerns New York. The city's crime fell steeply in the 1990s, and Harcourt and Ludwig's point is not that policing did nothing but that the precincts given the most misdemeanour enforcement were the ones with the furthest to fall. They also record Wilson telling the New York Times in 2004, as quoted in their article, that people had not understood this was a speculation, and that he still did not know whether improving order reduced crime. The fourth is treating Volker as a refutation. Her pooled effect points the same way as Keizer's and is significant across 12,528 people; what failed was the size and the constancy of it, and one direct repeat on the original street. The fifth is Zimbardo's cars. The demonstration is quoted as an experiment in almost every retelling, and Wilson and Kelling reported that the Palo Alto car sat untouched until Zimbardo took a sledgehammer to it himself."
+  ,
+  "sources": [
+    {
+      "text": "Wilson, J. Q., & Kelling, G. L. (1982). Broken windows: The police and neighborhood safety. The Atlantic Monthly, March 1982. Read here in the reproduction hosted by the Manhattan Institute.",
+      "url": "https://media4.manhattan-institute.org/pdf/_atlantic_monthly-broken_windows.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Keizer, K., Lindenberg, S., & Steg, L. (2008). The spreading of disorder. Science, 322(5908), 1681-1685.",
+      "doi": "10.1126/science.1161405",
+      "url": "https://doi.org/10.1126/science.1161405",
+      "type": "primary"
+    },
+    {
+      "text": "Volker, B. (2017). Revisiting Broken Windows: The Role of Neighborhood and Individual Characteristics in Reaction to Disorder Cues. Sociological Science, 4, 528-551.",
+      "doi": "10.15195/v4.a22",
+      "url": "https://doi.org/10.15195/v4.a22",
+      "type": "replication"
+    },
+    {
+      "text": "Keuschnigg, M., & Wolbring, T. (2015). Disorder, social capital, and norm violation: Three field experiments on the broken windows thesis. Rationality and Society, 27(1), 96-126.",
+      "doi": "10.1177/1043463114561749",
+      "url": "https://epub.ub.uni-muenchen.de/42100/1/1043463114561749.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Wicherts, J. M., & Bakker, M. (2014). Broken windows, mediocre methods, and substandard statistics. Group Processes & Intergroup Relations, 17(3), 388-403. Not obtained; described on this page as Volker describes it.",
+      "doi": "10.1177/1368430213502557",
+      "url": "https://doi.org/10.1177/1368430213502557",
+      "type": "commentary"
+    },
+    {
+      "text": "Bergquist, M., Helferich, M., Thiel, M., Berg Hellquist, S., Skipor, S., Ubianuju, W., & Ejelöv, E. (2023). Are broken windows spreading? Evaluating the robustness and strengths of the cross-norm effect using replications and a meta-analysis. Journal of Environmental Psychology, 88, 102027. Full text not obtained; named rather than quoted.",
+      "doi": "10.1016/j.jenvp.2023.102027",
+      "url": "https://doi.org/10.1016/j.jenvp.2023.102027",
+      "type": "replication"
+    },
+    {
+      "text": "Braga, A. A., Welsh, B. C., & Schnell, C. (2019). Disorder policing to reduce crime: A systematic review. Campbell Systematic Reviews, 15(3), e1050. Read from the open PMC copy, PMC8356497.",
+      "doi": "10.1002/cl2.1050",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8356497/",
+      "type": "replication"
+    },
+    {
+      "text": "Braga, A. A., Schnell, C., & Welsh, B. C. (2024). Disorder policing to reduce crime: An updated systematic review and meta-analysis. Criminology & Public Policy. Paywalled; the study count quoted here is from the abstract as reproduced by the authors' Crime and Justice Policy Lab.",
+      "doi": "10.1111/1745-9133.12667",
+      "url": "https://crimejusticelab.org/publication/disorder-policing-to-reduce-crime-an-updated-systematic-review-and-meta-analysis/",
+      "type": "replication"
+    },
+    {
+      "text": "Sampson, R. J., & Raudenbush, S. W. (1999). Systematic social observation of public spaces: A new look at disorder in urban neighborhoods. American Journal of Sociology, 105(3), 603-651.",
+      "doi": "10.1086/210356",
+      "url": "https://doi.org/10.1086/210356",
+      "type": "primary"
+    },
+    {
+      "text": "Sampson, R. J., & Raudenbush, S. W. (2001). Disorder in urban neighborhoods: Does it lead to crime? National Institute of Justice Research in Brief, February 2001. Source for the Chicago figures quoted on this page.",
+      "url": "https://www.ojp.gov/pdffiles1/nij/186049.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Harcourt, B. E., & Ludwig, J. (2006). Broken windows: New evidence from New York City and a five-city social experiment. The University of Chicago Law Review, 73(1), 271-320.",
+      "url": "https://harris.uchicago.edu/files/inline-files/Broken_windows_2006.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "O'Brien, D. T., Farrell, C., & Welsh, B. C. (2019). Broken (windows) theory: A meta-analysis of the evidence for the pathways from neighborhood disorder to resident health outcomes and behaviors. Social Science & Medicine, 228, 272-292.",
+      "doi": "10.1016/j.socscimed.2018.11.015",
+      "url": "https://doi.org/10.1016/j.socscimed.2018.11.015",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
