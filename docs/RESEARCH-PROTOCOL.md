@@ -108,6 +108,16 @@ The general form is that an assertion about the absence or the exhaustiveness
 of evidence is far more expensive to verify than an assertion about a number,
 and both look equally confident on the page.
 
+The third case is the one that shows why these have to be audited rather than
+merely discouraged. The Dunning-Kruger entry said that no large preregistered
+project had re-run the 1999 protocol. Jansen, Rafferty and Griffiths had, in
+Nature Human Behaviour in 2021, on about 4,000 participants per study, and
+their conclusion cuts against the way that entry leans. Nobody noticed for
+eight days, because the sentence reads like diligence. That entry is also one
+of the three exemplars every delegated agent is told to read, so a false
+absence claim there is a template. Absence claims now name the venues searched,
+and the exemplars are audited like anything else.
+
 ## The fetching tool is not a source either
 
 An agent writing the attentional-bias entry fetched a meta-analysis and got

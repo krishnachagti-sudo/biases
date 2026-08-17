@@ -12,11 +12,11 @@
     "where": "Journal of Personality and Social Psychology",
     "note": "Their paper is titled \"Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments\". The phrase \"Dunning-Kruger effect\" appears nowhere in it. The label came later, and this entry could not verify who coined it."
   },
-  "evidence": "Four studies, on humour, logical reasoning and English grammar. Participants took a test and then estimated their standing against their classmates. The famous pair of figures, a 12th percentile score against a 62nd percentile self-rating, is the abstract's summary across all four studies rather than a result from any one of them. The individual studies differ. In the humour study the bottom quartile scored at the 12th percentile and claimed the 58th. In the logical reasoning study they scored at the 12th, rated their general ability at the 68th and their test score at the 62nd. In the grammar study they scored at the 10th and claimed the 67th and the 61st. The picture that made the finding famous is the graph, which plots self-assessment against measured ability in four quartiles and shows the two lines converging as ability rises.",
+  "evidence": "Four studies, on 65, 45, 84 and 140 Cornell undergraduates, testing humour, logical reasoning and English grammar. Participants took a test and then estimated their standing against their classmates. The famous pair of figures, a 12th percentile score against a 62nd percentile self-rating, is the abstract's summary across all four studies. The individual studies differ. In the humour study the bottom quartile scored at the 12th percentile and claimed the 58th. In the logical reasoning study they scored at the 12th, rated their general ability at the 68th and their test score at the 62nd. In the grammar study they scored at the 10th and claimed the 67th and the 61st. The fourth study repeated the logical reasoning test, with the bottom quartile at the 13th percentile claiming the 55th and the 53rd, and then trained half the sample in logical reasoning. Kruger and Dunning later summarised that training as taking the bottom quartile from a 36 point percentile overestimate to a 17 point one. The picture that made the finding famous is the graph, which plots self-assessment against measured ability in four quartiles and shows the two lines converging as ability rises.",
   "replication": {
     "state": "mixed",
-    "headline": "The graph reproduces almost everywhere it is tried, and so does a graph built from random numbers, which is the problem.",
-    "detail": "Nobody disputes that the quartile plot comes out the way Kruger and Dunning drew it. What is disputed is whether the plot is evidence of anything. Two artefacts produce the same shape without any metacognitive deficit: regression to the mean, since a test score is a noisy measure and extreme scorers regress on any second measurement, and the better-than-average effect, since most people place themselves above the middle regardless of skill. Gignac and Zajenkowski tested the hypothesis on 929 general community participants, using self-assessed intelligence and the Advanced Raven's Progressive Matrices. If self-assessment really is less accurate at the low end, the spread of errors should shrink as ability rises. It did not. The Glejser test correlation was r = -0.05, with 927 degrees of freedom, and not significant, and adding a quadratic term raised R2 by 0.01 or less, F(1, 926) = 0.37, p = .545. Dunkel, Nedelec and van der Linden ran the same two tests on 13,977 Add Health participants and got significance where the first study got none: Glejser r = -0.07, p < .0001, and a quadratic term worth 1.1% of variance, F(1, 13,974) = 162.10, p < .001. They call that magnitude minimal. Gignac later modelled the size of the effect in two field samples of about 3,500 each and put the largest overestimation at 7 to 9 percentile points, confined to around 0.2% of participants, all of whom scored at chance. Nuhfer and colleagues reached a similar conclusion from a different direction, with 1,154 paired measures of science literacy, and argued the consensus rested on how the data had been graphed.",
+    "headline": "Both camps draw the same quartile graph, and simulated data holding no metacognitive deficit draw it too, which is what the argument is about.",
+    "detail": "The argument is about what the plot shows rather than whether it appears. Gignac and Zajenkowski in 2020, and Dunkel, Nedelec and van der Linden in 2023, each produced the familiar quartile pattern in their own data before testing it by other means. Two artefacts produce the same shape without any metacognitive deficit: regression to the mean, since a test score is a noisy measure and extreme scorers regress on any second measurement, and the better-than-average effect, since most people place themselves above the middle regardless of skill. Krueger and Mueller put that case in 2002, reporting that the asymmetry between top and bottom scorers went away once either regression or the better-than-average effect was removed statistically. Kruger and Dunning replied in the same issue that the tests behind it were unreliable, Spearman-Brown 0.17 and 0.56, and that on the more reliable one low scorers still overestimated by about 30 percentile points after correction. Correcting their own fourth study, whose test reached 0.93, left an overestimate of nearly 40 points. Dunning answered a second statistical account with data in 2013, with Schlösser, Johnson and Kruger, and reported that Krajc and Ortmann's floor-effect model failed to anticipate the misperceptions of poor performers. Gignac and Zajenkowski tested the hypothesis on 929 general community participants, using self-assessed intelligence and the Advanced Raven's Progressive Matrices. If self-assessment really is less accurate at the low end, the spread of errors should shrink as ability rises. It did not. The Glejser test correlation was r = -0.05, with 927 degrees of freedom, and not significant, and adding a quadratic term raised R2 by 0.01 or less, F(1, 926) = 0.37, p = .545. Dunkel and colleagues ran the same two tests on 13,977 Add Health participants and got significance where the first study got none: Glejser r = -0.07, p < .0001, and a quadratic term worth 1.1% of variance, F(1, 13,974) = 162.10, p < .001. They call that magnitude minimal. Gignac later modelled the size of the effect in two field samples of about 3,500 each, tested on grammar and logical reasoning, and put the largest overestimation at 7 to 9 percentile points, confined to around 0.2% of participants, all of whom scored at chance. Nuhfer and colleagues reached a similar conclusion from a different direction, with 1,154 paired measures of science literacy, and argued the consensus rested on how the data had been graphed. The largest re-run of the original protocol points the other way. Jansen, Rafferty and Griffiths tested about 4,000 participants in each of two studies, on grammar and logical reasoning, and their model comparison supported low performers being less able to judge whether they were right.",
     "study": {
       "cite": "Gignac, G. E., & Zajenkowski, M. (2020). The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data. Intelligence, 80, 101449.",
       "doi": "10.1016/j.intell.2020.101449",
@@ -24,14 +24,38 @@
       "n": 929
     }
   },
-  "limits": "None of this is a multi-laboratory replication of Kruger and Dunning's own protocol, and the distinction matters. No large preregistered project has re-run that protocol, so what is being challenged is the inference from the graph rather than the data behind it. Gignac and Zajenkowski also stop short of saying the phenomenon is absent: their conclusion is that it may hold to some degree for some skills and that the size of it may be much smaller than reported. Their measure is self-assessed intelligence against a reasoning test, which is one domain, and generalising from it to grammar or humour is the same move the original paper is criticised for. Gignac's 2024 paper adds a further caution: conditional reliability falls to about 0.40 at the extremes of the distribution, which is where the whole argument is being fought.",
-  "misreadings": "Almost every popular use of the name is wrong in the same way. The effect is not that stupid people are too stupid to know they are stupid: it is domain-specific, about a particular skill rather than about a person, and the original authors made no claim about general intelligence. It is also not a claim that poor performers think they are excellent. Averaged across the four 1999 studies, the bottom quartile rated themselves at the 62nd percentile, which is above average and a long way below expert. The inverted claim, that top performers underrate themselves, is in the original paper rather than bolted on later, and Kruger and Dunning give it a different cause. They put it down to the false-consensus effect: top-quartile participants assumed their peers had done as well as they had, and corrected themselves once shown five peers' marked tests. In their words, the miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others. The confident-idiot curve people share online, with a peak labelled \"Mount Stupid\", appears nowhere in the 1999 paper.",
+  "limits": "Most of the critical work re-tests the hypothesis in a new domain rather than re-running Kruger and Dunning's protocol, and the distinction matters. A search of Crossref, PubMed and general web indexes located no multi-laboratory or preregistered replication of the 1999 studies, which leaves Jansen and colleagues' online replication as the largest direct re-run. Gignac and Zajenkowski stop short of saying the phenomenon is absent: their conclusion is that it may hold to some degree for some skills and that the size of it may be much smaller than reported. They add that the gaps reported in some samples, including the first 1999 study, look too large for the two artefacts to account for fully. Their measure is self-assessed intelligence against a reasoning test, which is one domain, and generalising from it to grammar or humour is the same move the original paper is criticised for. Gignac's 2024 paper adds a further caution: conditional reliability falls to about 0.40 at the extremes of the distribution, which is where the whole argument is being fought.",
+  "misreadings": "Almost every popular use of the name is wrong in the same way. The effect is not that stupid people are too stupid to know they are stupid: it is domain-specific, about a particular skill rather than about a person, and the original authors made no claim about general intelligence. It is also not a claim that poor performers think they are excellent. Averaged across the four 1999 studies, the bottom quartile rated themselves at the 62nd percentile, which is above average and a long way below expert. The inverted claim, that top performers underrate themselves, is in the original paper rather than bolted on later, and Kruger and Dunning give it a different cause. They put it down to the false-consensus effect: top-quartile participants assumed their peers had done as well as they had, and corrected themselves after grading five of their peers' tests. In their words, the miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others. The confident-idiot curve people share online, with a peak labelled \"Mount Stupid\", appears nowhere in the 1999 paper.",
   "sources": [
     {
       "text": "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134.",
       "doi": "10.1037/0022-3514.77.6.1121",
       "url": "https://doi.org/10.1037/0022-3514.77.6.1121",
       "type": "primary"
+    },
+    {
+      "text": "Krueger, J., & Mueller, R. A. (2002). Unskilled, unaware, or both? The better-than-average heuristic and statistical regression predict errors in estimates of own performance. Journal of Personality and Social Psychology, 82(2), 180-188.",
+      "doi": "10.1037/0022-3514.82.2.180",
+      "url": "https://doi.org/10.1037/0022-3514.82.2.180",
+      "type": "commentary"
+    },
+    {
+      "text": "Kruger, J., & Dunning, D. (2002). Unskilled and unaware, but why? A reply to Krueger and Mueller (2002). Journal of Personality and Social Psychology, 82(2), 189-192.",
+      "doi": "10.1037/0022-3514.82.2.189",
+      "url": "https://sites.lsa.umich.edu/sasi/wp-content/uploads/sites/275/2015/11/krugerdunning02.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Schlösser, T., Dunning, D., Johnson, K. L., & Kruger, J. (2013). How unaware are the unskilled? Empirical tests of the \"signal extraction\" counterexplanation for the Dunning-Kruger effect in self-evaluation of performance. Journal of Economic Psychology, 39, 85-100.",
+      "doi": "10.1016/j.joep.2013.07.004",
+      "url": "https://doi.org/10.1016/j.joep.2013.07.004",
+      "type": "commentary"
+    },
+    {
+      "text": "Jansen, R. A., Rafferty, A. N., & Griffiths, T. L. (2021). A rational model of the Dunning-Kruger effect supports insensitivity to evidence in low performers. Nature Human Behaviour, 5(6), 756-763.",
+      "doi": "10.1038/s41562-021-01057-0",
+      "url": "https://doi.org/10.1038/s41562-021-01057-0",
+      "type": "replication"
     },
     {
       "text": "Gignac, G. E., & Zajenkowski, M. (2020). The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data. Intelligence, 80, 101449.",
@@ -52,7 +76,13 @@
       "type": "replication"
     },
     {
-      "text": "Nuhfer, E., Fleisher, S., Cogan, C., Wirth, K., & Gaze, E. (2017). How random noise and a graphical convention subverted behavioral scientists' explanations of self-assessment data. Numeracy, 10(1), Article 4.",
+      "text": "Nuhfer, E., Cogan, C., Fleisher, S., Gaze, E., & Wirth, K. (2016). Random number simulations reveal how random noise affects the measurements and graphical portrayals of self-assessed competency. Numeracy, 9(1), Article 4.",
+      "doi": "10.5038/1936-4660.9.1.4",
+      "url": "https://doi.org/10.5038/1936-4660.9.1.4",
+      "type": "commentary"
+    },
+    {
+      "text": "Nuhfer, E., Fleisher, S., Cogan, C., Wirth, K., & Gaze, E. (2017). How random noise and a graphical convention subverted behavioral scientists' explanations of self-assessment data: Numeracy underlies better alternatives. Numeracy, 10(1), Article 4.",
       "doi": "10.5038/1936-4660.10.1.4",
       "url": "https://doi.org/10.5038/1936-4660.10.1.4",
       "type": "replication"
@@ -70,5 +100,5 @@
       "type": "commentary"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
