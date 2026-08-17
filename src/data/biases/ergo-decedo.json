@@ -1,0 +1,126 @@
+{
+  "no": 558,
+  "slug": "ergo-decedo",
+  "name": "Ergo decedo",
+  "aliases": ["Argumentum ergo decedo", "Traitorous critic fallacy", "Love it or leave it"],
+  "category": "belief",
+  "statement": "Answering criticism by telling the critic to leave puts group membership where the reply should be, and the same criticism is rated worse when an outsider makes it.",
+  "meaning": "The move has two steps. The critic's standing in the group is questioned, and the remedy offered is departure rather than an answer. 'If you dislike it here, go somewhere else' is the everyday form. Textbooks would call it a fallacy because whether a criticism is true does not depend on who is entitled to make it. What earns it an entry is that the assumption underneath it is measurable and holds up: whether criticism is accepted does turn on whether the critic belongs. Psychologists call that the intergroup sensitivity effect, and it has been tested at scale. The atlas covers the personal attack under ad hominem, the pre-emptive discredit under poisoning the well, the imputed interest under appeal to motive, the counter-accusation under whataboutism, and the diagnosis offered in place of a refutation under bulverism. This entry takes the demand to leave.",
+  "origin": {
+    "year": 2015,
+    "who": "an English Wikipedia editor posting as Esidov",
+    "where": "English Wikipedia",
+    "note": "The Latin tag could not be traced to any scholarly source. The earliest use this entry could date is the English Wikipedia article 'Ergo decedo', created on 8 April 2015 in revision 655490851 by an account named Esidov, read once through the MediaWiki API and again through the XTools page service. The article's two references are books given without page numbers, Irving Copi's Introduction to Logic for the label 'traitorous critic fallacy' and Charles Taylor's Philosophical Arguments for the definition. Neither could be checked here; the copies of Copi on the Internet Archive are lending items whose full-text search returned 'Item not available', and Google Books and HathiTrust were both unavailable on this pass. Searches that produced no occurrence of the phrase covered the whole text of the Stanford Encyclopedia of Philosophy entry on fallacies, the whole text of the Internet Encyclopedia of Philosophy entry on fallacies, Crossref and Europe PMC. Web results were fallacy-list sites, blogs and Wikipedia mirrors. The Latin is odd on its own terms. Dictionaries head the verb at decedo, the first person singular, which Lewis and Short gloss as to go away, depart, withdraw, so the tag says 'therefore I leave' while the move it names tells somebody else to go. Wikipedia's own lead translates it that way, and an anonymous comment on the article's talk page has raised the point since 2018."
+  },
+  "evidence": "No experiment on the move itself was located under any of its names. The measured neighbour is the intergroup sensitivity effect, the finding that group members take criticism of their group from an insider and reject the same words from an outsider. Hornsey, Oppes and Svensson ran the first experiments on Australians and on university students, and their abstract reports that ingroup criticisms were tolerated well while outgroup criticisms met defensiveness, with perceived legitimacy and constructiveness as the mediators. Hornsey and Imani then asked whether the outsider's problem is inexperience. Their abstract reports three experiments in which foreigners who criticised Australia met more defensiveness than Australians who did, whatever their experience of the country, while Experiment 3 found that a lack of experience does damage an ingroup critic. Neither paper was obtained, and nothing beyond those abstracts is taken from them. The studies read in full here reproduce the pattern in three settings. Adelman and Verkuyten showed a poster about the refugee crisis to 808 ethnic Dutch respondents, varying whether the critic was ethnic Dutch or Middle Eastern and whether the target was the Dutch or refugees. Agreement carried a critic by target interaction, F(1, 800) = 25.45, p < .001, partial eta squared = .031: a Dutch critic was agreed with more when he criticised the Dutch than when he criticised refugees, means 3.75 against 2.96, t(800) = -5.17, p < .001, d = -.37. Their third measure is the closest thing in the literature to the move this entry describes. Asked whether the poster should be taken down, participants wanted it removed more when the critic was Middle Eastern than when he was Dutch, means 4.80 against 4.53, F(1, 800) = 8.23, p = .004, partial eta squared = .010. Thürmer, Stadler and McCrea moved the design to diet, with 260 meat eaters reading a call for a plant-based diet attributed either to a fellow meat eater or to a vegan. The vegan's comment was rated less constructive, means 5.36 against 4.58, F(1, 256) = 35.33, p < .001, eta squared = 0.12, more threatening, 4.63 against 3.20, F(1, 256) = 86.88, eta squared = 0.25, and its author was rated lower, 3.86 against 2.93, F(1, 256) = 40.53, eta squared = 0.14. Engagement followed: 45% of those criticised by a meat eater actively sought to join the Veganuary campaign against 32% of those criticised by a vegan, chi-squared (2, N = 260) = 4.66, p = .031, phi = 0.134. Video watch time did not move, F(1, 248) = 0.23, p = .633.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The effect underneath the move holds in a pre-registered experiment on 2,207 people in Canada, China and Japan, and in two pre-registered US studies by another group, at effect sizes well below the ones the older literature reports.",
+    "detail": "Thürmer, McCrea and Beck ran a 2 by 2 within-participants experiment on 2,207 participants recruited in Canada (n = 666), China (n = 786) and Japan (n = 755). Each read four identical criticisms of a national group, varied by whether the target was their own group and whether the commenter came from inside or outside the criticised group, and could then deny the commenter lottery tickets at a cost to their own chance of a bonus. The pre-registration was peer reviewed in the Leibniz Institute for Psychology lab-track scheme before any data were collected. Criticism of the participants' own group from an outside source was rated less constructive, d = 0.32, 95% CI 0.28 to 0.36, its author was rated lower, d = 0.25, 0.21 to 0.28, it produced more anger, d = -0.21, -0.25 to -0.17, and it was punished with fewer lottery tickets, d = 0.20, 0.15 to 0.24. The pattern held on every measure in all three countries, with the Chinese sample the strongest on four of the five: constructiveness d = 0.36, commenter evaluation d = 0.34, anger d = -0.27, tickets d = 0.28. A bystander version, in which the criticism targeted a group the participant did not belong to, was larger in the full sample, constructiveness d = 0.39, 0.34 to 0.43, and appeared throughout in Canada and Japan. In China it appeared on constructiveness and threat but not on commenter evaluation, anger or the ticket measure, which the authors read as the Chinese sample defending its own group rather than policing a conversational norm. Reiman and Killoran reached the same conclusion from US party identity in two pre-registered MTurk studies, 637 participants criticising and 647 insulting a party. Where the target was the participant's own party, the critic was evaluated more positively if he shared it, b = 0.75, t(621) = 6.60, p < .001, partial r = .26, 95% CI .18 to .34, and the insulter likewise, b = 0.70, t(631) = 5.72, p < .001, partial r = .22, .15 to .30. The black sheep effect ran alongside it at a similar size, so the two literatures describe one design rather than a contradiction. Size is where the record has moved. The same authors' data paper gives the older self-report literature as typically between d = .630 and d = 1.005, with a behavioural effect of d = .269 in their own 2018 study, and the abstract of their 2021 registered report says classic studies were largely underpowered and used inconsequential self-reports. That data paper describes two registered reports, its own and McCrea, Erion and Thürmer's experiment on more than 800 people, as attesting to the robustness of the effect.",
+    "study": {
+      "cite": "Thürmer, J. L., McCrea, S. M., & Beck, H. (2025). Message source effects on rejection and costly punishment of criticism across cultures. Communications Psychology, 3, 64.",
+      "doi": "10.1038/s44271-025-00248-z",
+      "year": 2025,
+      "n": 2207
+    },
+    "replicated": {
+      "es": 0.32,
+      "esType": "d",
+      "ci": [0.28, 0.36],
+      "ciLevel": 95,
+      "weighting": "full sample, constructiveness rating, within-participants contrast"
+    },
+    "indexedBy": "Europe PMC"
+  },
+  "limits": "The gap between the name and the evidence is the main thing to hold on to. The intergroup sensitivity effect measures how a critic and a criticism are received, not what happens when somebody replies by telling the critic to go. No study of that reply was found, and the searches covered Crossref, Europe PMC, OSF preprints and general web search under ergo decedo, argumentum ergo decedo, traitorous critic fallacy and love it or leave it. The nearest measured outcome is Adelman and Verkuyten's question about taking the poster down. Several papers here were named rather than read. Hornsey and Imani, Hornsey with Oppes and Svensson, Thürmer and McCrea's 2021 registered report, McCrea with Erion and Thürmer, and White and colleagues on racial groups in the United States are all closed access, and only their published abstracts were read, so no figure from any of them appears above. The comparison of effect sizes across decades is loose in a way the numbers hide: the older figures come from between-participants designs and the 2025 figures from a within-participants one, and they are quoted here from the authors' own power analysis rather than from a meta-analysis. No meta-analysis of the intergroup sensitivity effect was located in those searches. The samples that were read are Dutch, German-speaking, American, Canadian, Chinese and Japanese adults recruited online, and the 2025 authors note that earlier work was almost entirely Australian, American and European.",
+  "misreadings": "The commonest error is to treat every appeal to group membership as this fallacy. The experimental record says the insider is not merely tolerated better but is heard differently: Adelman and Verkuyten's participants judged internal critics more constructive and better informed, which is a reason and not only a bias. A second error runs the other way, reading the intergroup sensitivity effect as proof that the demand to leave works. Nothing measured here tests that reply, and the effect concerns the reception of a comment rather than the effect of a rebuke. The name itself invites a third error. It looks like a piece of classical logic and behaves like one in citation, and no scholarly source for it was found; a reader meeting 'argumentum ergo decedo' in a list beside argumentum ad baculum should not assume the two have the same pedigree. Finally, the effect is not confined to nations. It has been shown for diet, for political parties and for attitudes to refugees, and it appears even when the group being criticised is one the reader does not belong to.",
+  "sources": [
+    {
+      "text": "Ergo decedo. English Wikipedia. Article text and its two book references read as raw wikitext; the creation date and account read from the MediaWiki revision API and confirmed at XTools.",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ergo_decedo&oldid=655490851",
+      "type": "provenance"
+    },
+    {
+      "text": "Lewis, C. T., & Short, C. A Latin Dictionary, entry decedo, at the Perseus Digital Library. The source for the gloss and for the first-person headword form.",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=decedo",
+      "type": "provenance"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Searched in full for the phrase; no occurrence of decedo.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Searched in full for the phrase; no occurrence of decedo and none of traitorous.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Thürmer, J. L., McCrea, S. M., & Beck, H. (2025). Message source effects on rejection and costly punishment of criticism across cultures. Communications Psychology, 3, 64. Read as the Europe PMC full-text XML; every figure quoted here was read from Tables 2 and 3 of that document.",
+      "doi": "10.1038/s44271-025-00248-z",
+      "url": "https://doi.org/10.1038/s44271-025-00248-z",
+      "type": "replication"
+    },
+    {
+      "text": "Thürmer, J. L., & McCrea, S. M. (2025). Data from Message Source Effects on Rejection and Costly Punishment of Criticism Across Cultures. Journal of Open Psychology Data, 13, 6. The source for the older literature's typical effect sizes and for the count of registered reports.",
+      "doi": "10.5334/jopd.133",
+      "url": "https://doi.org/10.5334/jopd.133",
+      "type": "data"
+    },
+    {
+      "text": "Reiman, A.-K., & Killoran, T. C. (2023). When group members dissent: A direct comparison of the black sheep and intergroup sensitivity effects. Journal of Experimental Social Psychology, 104, 104408. Read as the authors' accepted manuscript on OSF.",
+      "doi": "10.1016/j.jesp.2022.104408",
+      "url": "https://osf.io/download/633b155f24289c0868c149c4/",
+      "type": "replication"
+    },
+    {
+      "text": "Adelman, L., & Verkuyten, M. (2020). Rules of engagement: Reactions to internal and external criticism in public debate. British Journal of Social Psychology, 59(2), 405-424. Read as the Europe PMC full-text XML.",
+      "doi": "10.1111/bjso.12351",
+      "url": "https://doi.org/10.1111/bjso.12351",
+      "type": "replication"
+    },
+    {
+      "text": "Thürmer, J. L., Stadler, J., & McCrea, S. M. (2022). Intergroup sensitivity and promoting sustainable consumption: Meat eaters reject vegans' call for a plant-based diet. Sustainability, 14(3), 1741. Read as the publisher's PDF.",
+      "doi": "10.3390/su14031741",
+      "url": "https://doi.org/10.3390/su14031741",
+      "type": "replication"
+    },
+    {
+      "text": "Thürmer, J. L., & McCrea, S. M. (2021). Disentangling the intergroup sensitivity effect: Defending the ingroup or enforcing general norms? European Journal of Social Psychology, 51(7), 1061-1072. Open access at the publisher but blocked on every attempt from here; only the abstract was read.",
+      "doi": "10.1002/ejsp.2748",
+      "url": "https://doi.org/10.1002/ejsp.2748",
+      "type": "replication"
+    },
+    {
+      "text": "McCrea, S. M., Erion, C. J. G., & Thürmer, J. L. (2022). Why punish critical outgroup commenters? Social identity, general norms, and retribution. British Journal of Social Psychology, 61, 711-728. Closed access; only the abstract was read, and no figure from it appears here.",
+      "doi": "10.1111/bjso.12508",
+      "url": "https://doi.org/10.1111/bjso.12508",
+      "type": "replication"
+    },
+    {
+      "text": "Hornsey, M. J., & Imani, A. (2004). Criticizing groups from the inside and the outside: An identity perspective on the intergroup sensitivity effect. Personality and Social Psychology Bulletin, 30(3), 365-383. Closed access; described from the abstract at Crossref.",
+      "doi": "10.1177/0146167203261295",
+      "url": "https://doi.org/10.1177/0146167203261295",
+      "type": "primary"
+    },
+    {
+      "text": "Hornsey, M. J., Oppes, T., & Svensson, A. (2002). 'It's OK if we say it, but you can't': Responses to intergroup and intragroup criticism. European Journal of Social Psychology, 32(3), 293-307. Closed access; described from the abstract at Crossref.",
+      "doi": "10.1002/ejsp.90",
+      "url": "https://doi.org/10.1002/ejsp.90",
+      "type": "primary"
+    },
+    {
+      "text": "White, K. R. G., Bray, J., Lang, J. C., McLeroy, A., Hernandez, S., & McLaughlin, C. (2022). The intergroup sensitivity effect among racial groups in the United States. Group Processes & Intergroup Relations. Closed access; named as a further replication, described from the abstract at Crossref.",
+      "doi": "10.1177/13684302211069962",
+      "url": "https://doi.org/10.1177/13684302211069962",
+      "type": "replication"
+    },
+    {
+      "text": "Burris, E. R. (2012). The risks and rewards of speaking up: Managerial responses to employee voice. Academy of Management Journal, 55(4), 851-875. The organisational study of loyalty and challenging voice; closed access and not obtained, and nothing from it appears above.",
+      "doi": "10.5465/amj.2010.0562",
+      "url": "https://doi.org/10.5465/amj.2010.0562",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
