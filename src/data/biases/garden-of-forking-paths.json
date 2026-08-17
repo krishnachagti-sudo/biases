@@ -1,0 +1,104 @@
+{
+  "no": 560,
+  "slug": "garden-of-forking-paths",
+  "name": "Garden of forking paths",
+  "aliases": ["Forking paths", "Researcher degrees of freedom without fishing", "Data-contingent analysis"],
+  "category": "belief",
+  "statement": "The garden of forking paths is the claim that an analysis chosen in light of the data carries a multiple-comparisons problem, even when only one test is run.",
+  "meaning": "Gelman and Loken set out four ways of arriving at a test. The first is a single classical test fixed in advance. The second picks from a preregistered set of options, covering control variables, transformations, coding and exclusion rules. The third computes one test on the observed data, in an environment where different data would have prompted a different test. The fourth is fishing, running many tests and reporting the best one. Their claim is that researchers do the third and hear an accusation of the fourth. A p value describes what would have happened across data sets that never occurred, so an analysis contingent on the data breaks it whether or not anybody went looking. The Texas sharpshooter fallacy, entry 52, covers the wider habit of drawing the target around the shots. This page covers the narrower claim, which is that one honest analysis is enough to do it. The name comes from the Borges story quoted at the head of the paper.",
+  "origin": {
+    "year": 2013,
+    "who": "Andrew Gelman and Eric Loken",
+    "where": "Department of Statistics, Columbia University",
+    "note": "The paper that carries the phrase in its title is an unpublished working paper dated 14 Nov 2013, titled 'The garden of forking paths: Why multiple comparisons can be a problem, even when there is no \"fishing expedition\" or \"p-hacking\" and the research hypothesis was posited ahead of time'. Its own first footnote says a slightly edited version appeared in American Scientist as 'The Statistical Crisis in Science'. That 2014 article is the peer-reviewed citation, and it carries the phrase in its standfirst rather than its title. Two versions of the working paper sit on Gelman's site under different filenames, and the one without the American Scientist footnote is the earlier of them."
+  },
+  "evidence": "The working paper argues from published studies rather than from an experiment. Petersen and colleagues reported that men's arm circumference interacted with socioeconomic status to predict attitudes to redistribution, with no main effect, and their supplement records dropping two survey items after finding them unreliable, at which point 'the interaction effect becomes significant'. Gelman and Loken note that a main effect in either direction would also have had a story ready. Beall and Tracy reported that women at peak fertility were three times more likely to wear red or pink. The comparison used days 6 to 14 of the cycle; Durante and colleagues, publishing in the same journal in the same year on a similar hypothesis, used days 7 to 14 against days 17 to 25 and excluded the rest. Both sets of authors replied that they had tested one pre-formed hypothesis, and Gelman and Loken take them at their word, since the objection is about what would have been done with other data. Their summary is that multiple comparisons 'does not have to come from \"fishing\" but can arise more generally from reasonable processing and analysis decisions that are contingent on data'. The measured evidence comes from crowdsourced analysis. Silberzahn and colleagues gave 29 teams of 61 analysts one data set and one question, whether football referees give more red cards to dark-skinned players. Estimates ran from 0.89 to 2.93 in odds-ratio units with a median of 1.31, 20 teams (69%) found a statistically significant positive effect and nine (31%) did not, and the 29 analyses used 21 unique combinations of covariates. Botvinik-Nezer and colleagues gave one functional MRI data set and nine hypotheses to 70 teams, and report that no two teams chose identical workflows. Breznau and colleagues put 161 researchers in 73 teams on one hypothesis about immigration and support for social policy, and more than 95% of the variance in their numerical results was left unexplained after every identifiable workflow decision was coded. Gould and colleagues ran the largest version, recruiting 174 analyst teams of 246 analysts on two ecological data sets. For the blue tit data the mean effect was negative, Zr = −0.35 with a 95% interval of ±0.06, and the 141 usable effects ran from −1.55 to 0.38. Total I² was 97.61% for the blue tit effects and 98.59% for the Eucalyptus effects, and reviewer ratings of the analyses did not predict how far a result sat from the meta-analytic mean.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The crowdsourced-analysis demonstration has been run in psychology, neuroimaging, sociology, finance and ecology, and the spread of estimates appeared every time. The largest run put 174 teams on two data sets and found total I² above 97%.",
+    "detail": "What repeats is the demonstration, not an effect measured on volunteers. Silberzahn's 29 teams in 2018 are the first case, spanning 0.89 to 2.93 in odds-ratio units. Botvinik-Nezer's 70 fMRI teams found no two identical workflows. Breznau's 73 teams left more than 95% of the variance in results unexplained by their coded decisions. Menkveld and colleagues had 164 teams test the same hypotheses on the same financial data and call the resulting dispersion nonstandard errors, reporting that they are smaller for more reproducible or higher rated research and that adding peer-review stages reduces them. Gould and colleagues then ran the design in ecology and evolutionary biology with 174 teams and 246 analysts, yielding 141 usable effects for a blue tit data set and 85 for a Eucalyptus data set. Total I² was 97.61% and 98.59% respectively, meaning almost none of the variation among results is attributable to sampling error. For the blue tit question the average effect was negative and some analyses crossed the significance threshold in the opposite direction; for the Eucalyptus question about a third of effects crossed it in one direction or the other. Neither the similarity of variable sets, nor the random-effects structure, nor peer ratings of the analyses predicted deviation from the meta-analytic mean. The spread is not universal. In the Many-Analysts Religion Project, 120 teams working on 10,535 participants from 24 countries were asked two questions. On the first, all 99 teams whose beta could be extracted reported a positive value with an interval excluding zero, median 0.120. On the second, 66 of 101 (65%) had an interval excluding zero, median 0.039.",
+    "study": {
+      "cite": "Gould, E., Fraser, H. S., Parker, T. H., Nakagawa, S., et al. (2025). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. BMC Biology, 23(1), 35.",
+      "doi": "10.1186/s12915-024-02101-x",
+      "year": 2025,
+      "sites": 174,
+      "n": 246
+    }
+  },
+  "limits": "The claim is about what a researcher would have done with data they did not get, which no study can observe. Gelman and Loken accept this, and answer that frequentist reasoning already requires modelling what would have happened under other data. Nothing here measures a person, and a search of Europe PMC, PubMed, Crossref and general web search for an experiment testing individual susceptibility to forking paths returned crowdsourced-analysis projects and commentary rather than any study of volunteers. The many-analysts studies also measure something broader than the idea they are used to support. Silberzahn and colleagues say so themselves, noting that they asked analysts to test one specified relationship, which limits the room for the process Gelman and Loken describe, and that variability in estimates can appear even where nobody looked at patterns first. How large the spread looks depends on the scale it is read on. Mathur, Covington and VanderWeele replied to Breznau that 90% of the standardised estimates fell within [−0.037, 0.037], and that a meta-analytic treatment puts 90% of population effects within [−0.014, 0.014], which they call more than fivefold smaller than a conventional small effect. Breznau, Rinke and Wuttke agreed that effect sizes deserve the emphasis, and noted that 28.5% of their teams still concluded the hypothesis was supported. Silberzahn was read as the accepted manuscript deposited at OSF rather than the SAGE typeset version, which returned 403 to every fetch attempted here. Botvinik-Nezer and Menkveld were read as their abstracts at PubMed Central and Crossref. The American Scientist version was read as a scanned copy on Gelman's site, so its wording here comes from optical character recognition.",
+  "misreadings": "The commonest error is to read the phrase as a polite name for p-hacking. Gelman and Loken wrote the paper to separate the two, and say that describing this work as fishing expeditions 'was a mistake', because fishing and p-hacking imply an active pursuit of statistical significance. They also say that refining a hypothesis in light of the data is good scientific practice, and that their own applied work is full of analyses contingent on data. The second error is to treat preregistration as the answer. Silberzahn and colleagues address it directly and conclude that preregistering the 29 analysis plans 'would not have prevented the observed variability in effect estimates across teams in our study'. The Many-Analysts Religion Project is the closest thing to a test: every one of its 120 teams fixed an analysis plan before executing it, half by preregistration and half by planning on a blinded version of the data, and the teams still returned mostly unique effect sizes, with 65% agreement on the second question. Sarafoglou, Hoogeveen and Wagenmakers randomised those two methods, 61 teams to preregistration and 59 to blinding, and found strong evidence (Bayes factor 71.40) that blinding produced fewer deviations from the plan. That is a result about adherence rather than about the width of the spread. The one procedural change reported to narrow the spread is peer review, in Menkveld's finance project. Gelman and Loken's own recommendations are pre-publication replication with a separate confirmatory protocol, and analysing all the relevant comparisons rather than one, since they judge much observational research impossible to preregister.",
+  "sources": [
+    {
+      "text": "Gelman, A., & Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no 'fishing expedition' or 'p-hacking' and the research hypothesis was posited ahead of time. Unpublished working paper, Department of Statistics, Columbia University, 14 Nov 2013. PDF downloaded and read in full.",
+      "url": "http://www.stat.columbia.edu/~gelman/research/unpublished/forking.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Gelman, A., & Loken, E. (2014). The Statistical Crisis in Science. American Scientist, 102(6), 460. The peer-reviewed version of the working paper above; its standfirst carries the phrase. Read as the scanned copy on the author's site.",
+      "doi": "10.1511/2014.111.460",
+      "url": "http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Silberzahn, R., Uhlmann, E. L., Martin, D. P., et al. (2018). Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results. Advances in Methods and Practices in Psychological Science, 1(3), 337-356. Read as the accepted manuscript deposited at OSF.",
+      "doi": "10.1177/2515245917747646",
+      "url": "https://osf.io/download/j5v8f/",
+      "type": "replication"
+    },
+    {
+      "text": "Botvinik-Nezer, R., Holzmeister, F., Camerer, C. F., et al. (2020). Variability in the analysis of a single neuroimaging dataset by many teams. Nature, 582(7810), 84-88. Abstract read at PubMed Central, PMC7771346.",
+      "doi": "10.1038/s41586-020-2314-9",
+      "url": "https://doi.org/10.1038/s41586-020-2314-9",
+      "type": "replication"
+    },
+    {
+      "text": "Breznau, N., Rinke, E. M., Wuttke, A., et al. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. Proceedings of the National Academy of Sciences, 119(44), e2203150119. Abstract read at Crossref.",
+      "doi": "10.1073/pnas.2203150119",
+      "url": "https://doi.org/10.1073/pnas.2203150119",
+      "type": "replication"
+    },
+    {
+      "text": "Mathur, M. B., Covington, C., & VanderWeele, T. J. (2023). Variation across analysts in statistical significance, yet consistently small effect sizes. Proceedings of the National Academy of Sciences, 120(3), e2218957120. Read as the full text at PubMed Central.",
+      "doi": "10.1073/pnas.2218957120",
+      "url": "https://doi.org/10.1073/pnas.2218957120",
+      "type": "critique"
+    },
+    {
+      "text": "Breznau, N., Rinke, E. M., & Wuttke, A. (2023). Reply to Mathur et al.: Many-analyst studies should consider effect sizes and CIs. Proceedings of the National Academy of Sciences, 120(3), e2219555120. Read as the full text at PubMed Central.",
+      "doi": "10.1073/pnas.2219555120",
+      "url": "https://doi.org/10.1073/pnas.2219555120",
+      "type": "commentary"
+    },
+    {
+      "text": "Gould, E., Fraser, H. S., Parker, T. H., Nakagawa, S., et al. (2025). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. BMC Biology, 23(1), 35. Read as the full text at PubMed Central, PMC11804095.",
+      "doi": "10.1186/s12915-024-02101-x",
+      "url": "https://doi.org/10.1186/s12915-024-02101-x",
+      "type": "replication"
+    },
+    {
+      "text": "Menkveld, A. J., Dreber, A., Holzmeister, F., et al. (2024). Nonstandard Errors. The Journal of Finance, 79(3), 2339-2390. Abstract read at Crossref and confirmed at OpenAlex; the full text was not obtained.",
+      "doi": "10.1111/jofi.13337",
+      "url": "https://doi.org/10.1111/jofi.13337",
+      "type": "replication"
+    },
+    {
+      "text": "Hoogeveen, S., Sarafoglou, A., Aczel, B., et al. (2023). A many-analysts approach to the relation between religiosity and well-being. Religion, Brain & Behavior, 13(3), 237-283. Read as the preprint deposited at PsyArXiv.",
+      "doi": "10.1080/2153599X.2022.2070255",
+      "url": "https://osf.io/download/q6ruc/",
+      "type": "replication"
+    },
+    {
+      "text": "Sarafoglou, A., Hoogeveen, S., & Wagenmakers, E.-J. (2023). Comparing Analysis Blinding With Preregistration in the Many-Analysts Religion Project. Advances in Methods and Practices in Psychological Science, 6(1). Abstract read at Crossref.",
+      "doi": "10.1177/25152459221128319",
+      "url": "https://doi.org/10.1177/25152459221128319",
+      "type": "method"
+    },
+    {
+      "text": "Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology. Psychological Science, 22(11), 1359-1366. The paper whose vocabulary Gelman and Loken cite and then decline to use; its simulated false-positive rates are set out at entry 52 and were not re-read here.",
+      "doi": "10.1177/0956797611417632",
+      "url": "https://doi.org/10.1177/0956797611417632",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
