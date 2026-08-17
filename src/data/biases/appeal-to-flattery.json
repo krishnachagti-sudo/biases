@@ -1,0 +1,103 @@
+{
+  "no": 563,
+  "slug": "appeal-to-flattery",
+  "name": "Appeal to flattery",
+  "aliases": [
+    "Argumentum ad superbiam",
+    "Appeal to vanity",
+    "Apple polishing",
+    "Ingratiation"
+  ],
+  "category": "belief",
+  "statement": "Flattery is offered as a reason to agree, and what has been measured is its effect on liking and on ratings of the flatterer rather than on whether an argument is accepted.",
+  "meaning": "The fallacy is named for a substitution. A speaker compliments the audience, the audience warms to the speaker, and that warmth is treated as though it bore on whether the claim is true. Stated that way the charge is about relevance, and it is the same charge brought against the appeal to pity and the appeal to fear. The research literature underneath it is about something narrower. Psychologists study ingratiation, meaning tactics whose goal is to be liked, and they measure liking, sincerity ratings, interview scores and appraisal scores. E. E. Jones set out the problem the tactic faces, which Gordon calls the ingratiator's dilemma: the more the flatterer stands to gain, the more visible the motive, and the less the compliment is worth. So the interesting question is not whether flattery is pleasant. It is what survives once the target has spotted why it was offered.",
+  "origin": {
+    "year": 1964,
+    "who": "E. E. Jones",
+    "where": "Appleton-Century-Crofts",
+    "note": "Jones's book Ingratiation set the research programme, and this entry takes its account of the book from Gordon's 1996 meta-analysis rather than from the book, which was not obtained. Gordon reports Jones restricting the term to tactical impression management whose goal is increased liking, and reports his description of the ingratiator's dilemma. The imprint and the date are read from the reference list of Higgins, Judge and Ferris. The fallacy label is older and its scholarly footing is thin. A Crossref bibliographic search for the phrase with the word fallacy returned entries on the appeal to nature, the appeal to pity and the appeal to popularity, and nothing on this one, and a Europe PMC search for the exact phrase returned no records. Hansen's Stanford Encyclopedia survey of the fallacies, read here in full, contains no occurrence of \"flattery\", \"vanity\" or \"superbiam\" while treating ad misericordiam, ad baculum and ad populum at length."
+  },
+  "evidence": "Three meta-analyses pool the measured version. Gordon assembled 69 effect sizes covering 6,509 people. The mean weighted effect, corrected for sample-size bias, was d = 0.20, 95% CI 0.16 to 0.24, and the individual effects ran from -1.33 to 3.64 with a significant homogeneity test, Qw(68) = 700.19, p < .00001. Of the 69, 36 were significantly positive and 23 were not significant. What the moderators do to that average matters more than the average. Liking gave d = 0.51 and ratings of competence or performance gave d = 0.11. Targets of the flattery gave d = 0.36 and bystanders who merely watched it gave d = -0.01. Laboratory studies gave d = 0.38 and field studies gave d = -0.07, both significant and opposite in sign. Rated transparency of the attempt accounted for 14.4% of the variance in effect size, more than any other moderator, and the relationship had a significant quadratic term. Higgins, Judge and Ferris pooled ingratiation against work outcomes across 50 correlations and 6,065 people, giving an observed r of 0.17 and a corrected estimate of 0.23, 95% CI 0.20 to 0.26. Split by criterion, ingratiation tracked performance assessments at 0.35, 95% CI 0.31 to 0.39, and extrinsic success at 0.11, 95% CI 0.06 to 0.16. Peck and Levashina, updating the interview literature, put other-focused tactics against interview ratings at a corrected 0.17 across 12 correlations and 1,277 people, 95% CI 0.08 to 0.26, and against job performance ratings at 0.25 across 4 correlations and 4,113 people, 95% CI 0.23 to 0.28. Their credibility intervals are wide in most cells, which is their own reason for reporting moderators. The study usually cited for flattery working on a target who has seen through it is Chan and Sengupta. Fifty-five students read a leaflet from a fictional store telling them their dress sense was classy and chic, then rated the store either under a five-second deadline or with unlimited time. A pretest of 25 others found 19 of them, 76%, describing the leaflet as flattery with an ulterior motive. Speeded ratings were higher than unhurried ones, 5.71 against 5.02 on a nine-point scale, F(1, 53) = 4.03, p < .05, with sincerity showing the same gap, 5.35 against 4.55, F(1, 53) = 6.17, p < .05. Delayed purchase intention correlated .75 with the speeded rating and .14 with the unhurried one. A within-subjects run on 66 people gave 5.06 against 4.33, F(1, 64) = 17.14, p < .001, in both measurement orders. In a third study with 200 people in total, 80% chose the flattering store's coupon after three days against 64% immediately, and 59% in a control group who saw the leaflet with the compliments removed. A fourth study on 105 people found the gap only among those asked first to write about a flaw, 5.14 against 4.32, and not among those asked to write about a strength, 4.19 against 4.41. Two studies reach past liking towards assent. Park, Westphal and Stern surveyed 451 American chief executives, drawn from 572 respondents at a 42% response rate, alongside 3,135 directors and managers who might flatter them, running from 2001 to 2007. Flattery and opinion conformity aimed at the chief executive predicted self-enhancing views of his own strategic judgement, and those views predicted persisting with a strategy after poor performance. Bjarnøe, Hansen, Schraff and Thau ran survey experiments in Denmark and the United States in which respondents received appeals to their self-identified social class with different kinds of flattery attached. Their abstract reports that adding flattery boosted the appeals among strong class identifiers, and that high-status and low-status groups responded similarly.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Ingratiation pools to d = 0.20 across 69 effect sizes and 6,509 people, and the setting decides the sign: d = 0.38 in the laboratory against d = -0.07 in the field.",
+    "detail": "The phenomenon has been repeated for sixty years and the repetitions disagree in ways no single number settles. Gordon's pooled estimate is positive and its field subset is negative. The two later pooled estimates are built mostly from field data and are positive, at a corrected 0.35 for ingratiation against performance assessments and a corrected 0.25 for other-focused tactics against job performance ratings. Those are correlations between rated tactics and rated outcomes, where Gordon's field cases were coded on a scale that mixed such designs with others, so the disagreement is partly about what counts as a field study and partly about what counts as ingratiation. The dependent measure splits the same way in every one of them: flattery moves liking, at d = 0.51 in Gordon, and moves judgements of competence much less, at d = 0.11. Bystanders were not moved at all, d = -0.01. No direct replication of Chan and Sengupta was located. The Semantic Scholar citation list for that paper was read in full, 113 works, and none of the titles is a replication of it; Crossref and open-web searches returned none either. Its own authors call for a repeat in a face-to-face setting rather than a leaflet, and none was found. The fallacy proper, which is whether flattery makes a listener accept a claim, is where these searches found least. Bjarnøe and colleagues' 2026 political-appeal experiments test something adjacent to it, and only their abstract was read. The other current line is machine sycophancy. Ye, Kraut and Rathje report two preregistered experiments on 1,590 people, then pool them with two earlier studies for six interventions and 3,982 people, and find that warnings and demonstrations made a flattering chatbot seem less objective and less trustworthy while none of the six reduced its persuasiveness. That paper is a preprint and has not been through review. A search for experimental work under the fallacy's own name came up empty: Europe PMC returns no records for the exact phrase, and a Crossref bibliographic search surfaced work on other appeals instead.",
+    "study": {
+      "cite": "Gordon, R. A. (1996). Impact of ingratiation on judgments and evaluations: A meta-analytic investigation. Journal of Personality and Social Psychology, 71(1), 54-70.",
+      "doi": "10.1037/0022-3514.71.1.54",
+      "year": 1996,
+      "n": 6509
+    },
+    "replicated": {
+      "es": 0.2,
+      "esType": "d",
+      "ci": [0.16, 0.24],
+      "ciLevel": 95,
+      "weighting": "sample-size weighted and corrected for sample-size bias, across 69 effect sizes"
+    }
+  },
+  "limits": "The page carries no number for whether a flattered listener accepts an argument, because none was found. What the meta-analyses measure is liking, sincerity, interview scores and appraisal scores, and the two of those closest to a judgement of merit are the weakest, d = 0.11 in Gordon and a corrected 0.11 for extrinsic success in Higgins and colleagues. Several sources were not obtained. Barrick, Shaffer and DeGrassi's 2009 meta-analysis of self-presentation in interviews is closed at the publisher and its PubMed abstract prints no effect size; the figures attributed to it here, r = 0.47 for interview ratings and r = 0.15 for job performance ratings, are quoted by Peck and Levashina and reach this entry through them. Shin, Moon, Nam and Nam's 2026 paper on flattery in artificial-intelligence fact-checking is named below and was not obtained, and nothing is claimed about what it found. Bjarnøe and colleagues sit behind a paywall and only their abstract was read, so no coefficient of theirs appears. Park and colleagues' parameter table survives in the copy obtained only as damaged optical character recognition, with standard errors and path estimates that cannot be told apart, so their direction is reported and none of their coefficients is. Chan and Sengupta's own no-flattery comparison is a study they did not publish, described in two paragraphs of their general discussion, and it is the study on which the claim that discounting stops at neutral rests. Their implicit measure is not an implicit association test. It is the same nine-point rating scale under a five-second deadline, a choice they defend in a footnote on the ground that using different instruments would have manufactured the dissociation they were testing for. All their studies were run in Hong Kong on students, and the authors themselves suggest that consumers with richer persuasion schemas may judge flattery more harshly.",
+  "misreadings": "The headline of Chan and Sengupta's title is read as saying that flattery works on people who know it is insincere. Their explicit ratings are the discounted ones, and what persisted was a speeded rating. On their own unpublished comparison the discounting brought conscious judgements down to the level of no flattery at all, and they cite Campbell and Kirmani and Main, Dahl and Darke as finding that flattery can push those judgements below a no-flattery control. Working out is not the same as going unnoticed. A second confusion is between being liked and being believed. Gordon's split is the cleanest statement of it, d = 0.51 for liking against d = 0.11 for competence, and the fallacy is a charge about the second. Third, the effect is treated as automatic, when the strongest moderator found was how transparent the attempt looked, which took 14.4% of the variance and did so along a curve rather than a straight line. Fourth, observers are not targets. Watching someone else be flattered moved bystanders' judgements by d = -0.01, so what the tactic buys is bought from the person it is aimed at. The site's halo effect entry covers the separate claim that one favourable impression contaminates unrelated ratings, and the reciprocity entry covers compliance after a gift or favour. This entry is about the compliment itself, and about an inference from a compliment to a conclusion that nothing in the compliment supports.",
+  "sources": [
+    {
+      "text": "Gordon, R. A. (1996). Impact of ingratiation on judgments and evaluations: A meta-analytic investigation. Journal of Personality and Social Psychology, 71(1), 54-70. Read in full from a scan downloaded twice, with every figure quoted above present in both copies; the source for the pooled d, the interval and all the moderator effects.",
+      "doi": "10.1037/0022-3514.71.1.54",
+      "url": "http://www.communicationcache.com/uploads/1/0/8/8/10887248/impact_of_ingratiation_on_judgments_and_evaluations-_a_meta-analytic_investigation.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Higgins, C. A., Judge, T. A., & Ferris, G. R. (2003). Influence tactics and work outcomes: A meta-analysis. Journal of Organizational Behavior, 24(1), 89-106. Read in full from a scan downloaded twice; the source for the ingratiation correlations and their intervals, and for the bibliographic details of Jones's 1964 book.",
+      "doi": "10.1002/job.181",
+      "url": "http://www.communicationcache.com/uploads/1/0/8/8/10887248/influence_tactics_and_work_outcomes-_a_meta-analysis.pdf",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Peck, J. A., & Levashina, J. (2017). Impression management and interview and job performance ratings: A meta-analysis of research design with tactics in mind. Frontiers in Psychology, 8, 201. Open access; read from the article XML at PubMed Central. Also the route by which the Barrick, Shaffer and DeGrassi figures reach this entry.",
+      "doi": "10.3389/fpsyg.2017.00201",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5309241/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Chan, E., & Sengupta, J. (2010). Insincere flattery actually works: A dual attitudes perspective. Journal of Marketing Research, 47(1), 122-133. Read in full from an author copy hosted by the Hong Kong University of Science and Technology, downloaded twice to the same checksum; the text carries both authors' names and every figure above was read from it.",
+      "doi": "10.1509/jmkr.47.1.122",
+      "url": "https://mark.hkust.edu.hk/files/staff/Jaideep/Jaideep%20JMR-Feb%202010.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Park, S. H., Westphal, J. D., & Stern, I. (2011). Set up for a fall: The insidious effects of flattery and opinion conformity toward corporate leaders. Administrative Science Quarterly, 56(2), 257-302. Read from a scanned copy whose parameter table is illegible; the sample sizes and the direction of the findings are taken from the text and the abstract.",
+      "doi": "10.1177/0001839211429102",
+      "url": "http://homepages.se.edu/cvonbergen/files/2012/12/Set-up-for-a-Fall_The-Insidious-Effects-of-Flattery-and-Opinion-Conformity-toward-Corporate-Leaders1.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Bjarnøe, C., Hansen, K. M., Schraff, D., & Thau, M. (2026). Flattering social groups: Do warmth and competence descriptions impact the effectiveness of group appeals? Political Behavior. Paywalled; only the published abstract was read, and no figure from it appears above.",
+      "doi": "10.1007/s11109-026-10157-4",
+      "url": "https://link.springer.com/article/10.1007/s11109-026-10157-4",
+      "type": "primary"
+    },
+    {
+      "text": "Ye, M., Kraut, R., & Rathje, S. (2026). Individual-level interventions against sycophantic AI reduce its appeal but not its persuasiveness. arXiv:2607.25166. A preprint, not peer reviewed; the sample sizes and the finding are read from the abstract served by the arXiv API.",
+      "doi": "10.48550/arXiv.2607.25166",
+      "url": "https://arxiv.org/abs/2607.25166",
+      "type": "primary"
+    },
+    {
+      "text": "Barrick, M. R., Shaffer, J. A., & DeGrassi, S. W. (2009). What you see may not be what you get: Relationships among self-presentation tactics and ratings of interview and job performance. Journal of Applied Psychology, 94(6), 1394-1411. Closed at the publisher, and its PubMed abstract prints no effect size; quoted here only as Peck and Levashina quote it.",
+      "doi": "10.1037/a0016532",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19916651/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Shin, J., Moon, W.-K., Nam, J., & Nam, G. (2026). Is flattery in AI fact-checking helpful or harmful? Effects on tool favorability and epistemic verification. Journal of Broadcasting & Electronic Media. Named as existing and not obtained: the publisher returned 403 and neither Crossref nor Semantic Scholar carries an abstract.",
+      "doi": "10.1080/08838151.2026.2694043",
+      "url": "https://doi.org/10.1080/08838151.2026.2694043",
+      "type": "related"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Read in full and searched for the terms; cited for what it does not contain rather than for what it says.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
