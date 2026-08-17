@@ -1,0 +1,114 @@
+{
+  "no": 495,
+  "slug": "appeal-to-novelty",
+  "name": "Appeal to novelty",
+  "aliases": [
+    "Argumentum ad novitatem",
+    "Appeal to modernity",
+    "Mere newness preference"
+  ],
+  "category": "belief",
+  "statement": "Appeal to novelty treats an option as better for being newer, and people pay a premium for the newer date even where the date carries no information.",
+  "meaning": "Three separate things share this name and the page keeps them apart. The first is a fallacy label in informal logic lists, argumentum ad novitatem, the charge that an argument has moved from new to good without an intervening reason. The second is a measured preference. Jie and Li call it mere newness preference and define it as chronological newness that confers no substantive benefit, as against being substantively newer in the way that fresher food, more relevant news or trendier clothes are. Their test is to attach a date, a promotion day or a purchase day to two options that are otherwise the same, and see which one people take. The third is the effect of a revision label. Garcia-Rada, John, O'Brien and Norton hold the object fixed and change only the word attached to it, so that the same resume, game or product set is presented as revised or as original. Their hypothesis is that people cannot separate genuine improvement from superficial change and assume all revised things are better. None of the three is Rogers's pro-innovation bias, which is a charge about what diffusion researchers choose to study, and none is novelty seeking, which is a taste for the unfamiliar rather than a claim about quality.",
+  "origin": {
+    "year": 2022,
+    "who": "Yun Jie and Ye Li",
+    "where": "Journal of Retailing",
+    "note": "No priority is claimed for the name. The fallacy label is older than any of this work, and its coinage could not be dated here. The Internet Encyclopedia of Philosophy's fallacy article indexes it under Ad Novitatem without a source, and Wikipedia's article carries one citation and a one-source flag. Four routes to older printed uses closed: HathiTrust's full-text search returned a 403 behind Cloudflare, the Google Books API was out of quota, the Internet Archive's Wayback machine was unreachable, and the Pirie volume is lending-restricted. Jie and Li's paper is placed here because it is the first located publication that defines the effect, names the fallacy it corresponds to and measures it. Garcia-Rada, John, O'Brien and Norton's studies of revision labels are older as a manuscript, dating to a 2019 Harvard Business School working paper, and remain unpublished."
+  },
+  "evidence": "Jie and Li report eight preregistered studies with 2,216 participants, six of them experiments with 1,557. Two pilots establish the association. An implicit association test set old and new against worse and better. Mean D was 0.77 in 267 business undergraduates, t(235) = 34.80, p < 0.001, and 0.82 in 294 United States adults from Lucid, t(276) = 35.22, p < 0.001. About 96% of each sample scored positive, and about 80% sat at D of 0.5 or above. A second pilot had 98 participants rate 39 product categories: 21 came out newer is better, 8 older is better, 9 date does not matter, and cheese split at 46% against 33%. The experiments then attach dates that carry no information. Of 306 participants choosing headphones for a friend, 58.2% picked the pair labelled today's Product of the Day rather than yesterday's, chi-square(1) = 7.85, p = 0.005. The same model was chosen by 71.3% when it held today's label and 54.5% when it held yesterday's, chi-square(1) = 8.58, p = 0.003. Under an incentive-compatible bidding procedure, 266 undergraduates bid $10.93 for this month's randomly drawn book of the month against $9.43 for last month's, t(265) = 8.09, p < 0.001, a 16% premium. Two hundred and four participants bid $11.93 for a box of chocolates bought today against $8.31 for one bought a week earlier, t(202) = 2.53, p = 0.01, a 43.6% premium. Both boxes were stated to share an expiration date and a fridge. For a 24-pack of Post-its, 279 participants bid $17.26 for the 2020 production date, $14.42 with no date and $12.43 for 2017, which the authors split into a 19.7% newness premium and a 13.8% oldness penalty against the control. The revision-label studies work the other way round, by changing the label rather than the date. Resumes revised by 33 MBA students were rated no better than their originals when both were shown unlabelled to 204 observers, 5.01 against 5.07, F(1, 202) = 0.99, p = .321. Shown to 453 observers with labels, the one labelled revised scored 5.25 against 4.89, F(1, 451) = 51.61, p < .001, and the gap held when the labels were swapped, 5.24 against 4.94, F(1, 451) = 18.83, p < .001. In an incentive-compatible choice among 602 participants, the shorter selfie stick was taken by 30.9% of those told it was a newer version, against 14.5% of those shown no label, chi-square(1, N = 602) = 23.14, p < .001. In a second study on 401 people, a guidebook listing permanently closed restaurants was taken by 43.0% of those told it was an updated edition, against 21.9% of controls, chi-square(1, N = 401) = 20.39, p < .001. They also spent 1.49 minutes over the choice against 2.02.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Where the date is incidental the preference repeats across products, samples and outcome measures. Where age itself signals quality it shrinks or reverses, and the same author who found the newness premium found that most people prefer older drugs.",
+    "detail": "The positive side is consistent. Jie and Li found mere newness preference in every experiment they report, across headphones, books, chocolates, Post-its, beer, wine and short videos. The measures were choice and willingness to pay, within-subjects and between-subjects. A further preregistered study had 150 people bet on the more recent of two coin tosses, 64.7%, chi-square(1) = 12.33, p < 0.001. Garcia-Rada and colleagues found the revision-label effect in six studies, five of them preregistered, and twice showed it disappears when quality is easy to judge. In their product-set task, 1,008 participants judged whether sets were complete for a bonus per correct answer. With large sets, those seeing a revised label scored 5.02 of ten against 5.62, F(1, 1004) = 8.88, p = .003, an 11% cut in bonus pay. With small sets the label did nothing, 8.95 against 8.88, p = .731. The reversals are the other half. Jie and Li's own study 5 gave 301 participants a choice between two bottles allocated to yesterday's or today's cancelled experiment: 78.0% took today's beer and 64.9% took today's wine, a reliable difference, chi-square(1) = 6.33, p = 0.01. Their second pilot found eight of 39 categories where most people say older is better, six of them collectibles. In medicine the direction flips outright. Jie's 2020 paper reports that most consumers prefer older drugs when both are claimed equally safe and effective, that most believe the older drug is both safer and more efficacious, and that a sample of practising doctors cross-validated the finding. The nearest opposed laboratory literature also runs against novelty. Eidelman, Crandall and Pattershall's five studies report that people treat the mere existence of something as evidence of its goodness, and that an existing state is rated above an alternative. Jie and Li describe the same group's follow-up as a longevity bias, a preference for things that have existed longer, and take it as the contrast case for their own result. No direct replication of either the mere newness studies or the revision-label studies by an independent group was located.",
+    "study": {
+      "cite": "Jie, Y., & Li, Y. (2022). Chronological cues and consumers' preference for mere newness. Journal of Retailing, 98(3), 527-541.",
+      "doi": "10.1016/j.jretai.2021.11.003",
+      "year": 2022,
+      "n": 2216
+    }
+  },
+  "limits": "The evidence is about buying things, not about arguments. Nothing located tests whether presenting a claim as new changes how people rate the claim, which is what the fallacy label is about. The searches covered Crossref, Europe PMC, Semantic Scholar, Unpaywall, the Internet Encyclopedia of Philosophy and general web search. OpenAlex refused the request for want of quota, no psychology-specific database such as PsycINFO was searched, and the absence is therefore a statement about those places. The samples are narrow. Every Jie and Li experiment ran on Amazon Mechanical Turk or on one undergraduate pool. The only sample described as representative of the United States population, 294 adults from Lucid, took the implicit association test rather than any choice study. Garcia-Rada and colleagues used Mechanical Turk, Prolific and community members at one American laboratory. No experiment outside the United States was found, and both papers name culture as untested. Two documents behind the figures are not settled publications. Garcia-Rada, John, O'Brien and Norton's paper is Harvard Business School working paper 19-087, carrying copyright dates from 2019 to 2025. The same manuscript sits on SSRN under the different title The Revision Bias. Crossref holds the SSRN record and no journal version. Jie and Li was read in the accepted manuscript deposited at eScholarship, which Unpaywall lists as the only open copy and labels a submitted version, so the Elsevier text was not compared against it. That paper also disagrees with itself on scope: the abstract gives eight preregistered studies and 2,216 participants, the general discussion gives six experimental studies and 1,557, and the difference matches the two pilots. Several documents were not obtained. Eidelman, Pattershall and Crandall's Longer is Better is closed access with no open copy listed by Unpaywall, and everything said about it here is said as Jie and Li say it. Jie's 2020 drug paper is closed at Wiley and is quoted here only from the abstract deposited at Crossref, read twice. Madsen Pirie's How to Win Every Argument, the single source behind Wikipedia's article, is lending-restricted at the Internet Archive and its Bloomsbury chapters are paywalled, so whether it contains an entry on novelty was not settled. Liu, Crosno, Cui and Freling's 2026 Journal of Business Research paper on new product bias was located, is closed access with no abstract at Crossref, and nothing here is taken from it.",
+  "misreadings": "The commonest error is to read the fallacy label and the measured effect as one thing. They are different objects with different evidence, and the second does not certify the first: showing that a date on a box moves a bid says nothing about whether an argument from newness is valid. The reference works do not agree on the label either. The Internet Encyclopedia of Philosophy's fallacy article does not give appeal to novelty an entry of its own. It indexes Ad Novitatem and folds the idea into the bandwagon fallacy, writing that 'the Latin term for this Fallacy of Appeal to Novelty is Argumentum ad Novitatem'. Bandwagon reasoning is about how many people believe something, which is a different premise from how recent it is. Wiley's Bad Arguments runs to a hundred numbered chapters, and the chapter records Crossref holds for the volume include Appeal to Tradition and Chronological Snobbery and none on novelty. Wikipedia's article rests on a single citation to Pirie, flagged as such by the encyclopedia itself, and the DOI attached to that citation resolves to a chapter titled 'How to argue'. A second error is to expect the preference everywhere. It is smaller for wine than for beer, absent or reversed for collectibles, and pointed the other way for medicines, where Jie found that most people take the older drug and believe it the safer one. Popular accounts also inflate the revision studies. The Harvard Business School write-up describes dozens of experiments and a gummy-candy taste test; the working paper reports six studies, and the word gummy does not appear in it. Its manager survey is likewise 126 MBA students, of whom 46.0% said they had worked for a company that launched a revision that was not an improvement. Finally, this is not Rogers's pro-innovation bias. He defines that as 'the implication of most diffusion research that an innovation should be diffused and adopted by all members of a social system, that it should be diffused more rapidly, and that the innovation should be neither re-invented nor rejected'. That is a claim about a research literature. Nor is it food neophobia, which Pliner and Hobden defined as a reluctance to eat novel foods and built a scale to measure. Nor is it the novelty preference of the perception literature. Park, Shimojo and Shimojo found familiarity preferred for faces and novelty preferred for natural scenes in the same participants.",
+  "sources": [
+    {
+      "text": "Jie, Y., & Li, Y. (2022). Chronological cues and consumers' preference for mere newness. Journal of Retailing, 98(3), 527-541. Read in full as the accepted manuscript deposited at eScholarship, the copy Unpaywall lists; the source for every mere newness figure above.",
+      "doi": "10.1016/j.jretai.2021.11.003",
+      "url": "https://escholarship.org/content/qt1nf9k770/qt1nf9k770.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Garcia-Rada, X., John, L. K., O'Brien, E., & Norton, M. I. A Preference for Revision Absent Improvement. Harvard Business School working paper 19-087, copyright dated 2019 to 2025. Read in full as the PDF at the URL below, downloaded twice to the same checksum; the source for every revision-label figure above.",
+      "url": "https://www.hbs.edu/ris/Publication%20Files/19-087_0cd2c25a-0319-4069-acd2-26b44b08f9aa.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Garcia-Rada, X., John, L. K., O'Brien, E., & Norton, M. I. (2019). The Revision Bias. SSRN Electronic Journal. The same manuscript under a different title, cited here for the discrepancy; Crossref holds this record and no journal version.",
+      "doi": "10.2139/ssrn.3329340",
+      "type": "primary"
+    },
+    {
+      "text": "Jie, Y. (2020). Older is better: Consumers prefer older drugs. Psychology & Marketing, 37(11), 1498-1510. Closed at the publisher; quoted here only from the abstract deposited at Crossref, read twice at that endpoint.",
+      "doi": "10.1002/mar.21395",
+      "type": "replication"
+    },
+    {
+      "text": "Eidelman, S., Crandall, C. S., & Pattershall, J. (2009). The existence bias. Journal of Personality and Social Psychology, 97(5), 765-775. Abstract read at Europe PMC, PMID 19857000; the source for the five studies and the status quo finding.",
+      "doi": "10.1037/a0017058",
+      "url": "https://europepmc.org/article/MED/19857000",
+      "type": "commentary"
+    },
+    {
+      "text": "Eidelman, S., Pattershall, J., & Crandall, C. S. (2010). Longer is better. Journal of Experimental Social Psychology, 46(6), 993-998. Not obtained; closed access with no open copy listed by Unpaywall. Described here only as Jie and Li describe it.",
+      "doi": "10.1016/j.jesp.2010.07.008",
+      "type": "commentary"
+    },
+    {
+      "text": "Pliner, P., & Hobden, K. (1992). Development of a scale to measure the trait of food neophobia in humans. Appetite, 19(2), 105-120. Abstract read at Europe PMC, PMID 1489209; the source for the definition of food neophobia.",
+      "doi": "10.1016/0195-6663(92)90014-w",
+      "url": "https://europepmc.org/article/MED/1489209",
+      "type": "commentary"
+    },
+    {
+      "text": "Park, J., Shimojo, E., & Shimojo, S. Roles of familiarity and novelty in visual preference judgments are segregated across object categories. Proceedings of the National Academy of Sciences, 107, 14552-14555. Abstract read at Crossref, whose record dates the item to 2 August 2009 while placing it in volume 107; the source for the split between faces and natural scenes.",
+      "doi": "10.1073/pnas.1004374107",
+      "type": "commentary"
+    },
+    {
+      "text": "Rogers, E. M. (1983). Diffusion of Innovations, third edition. New York: The Free Press. Chapter 3, the section on the pro-innovation bias, read in the scanned PDF below; the source for the definition quoted here.",
+      "url": "https://teddykw2.wordpress.com/wp-content/uploads/2012/07/everett-m-rogers-diffusion-of-innovations.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read in full; the source for the Ad Novitatem index entry and for the sentence folding appeal to novelty into the bandwagon fallacy. The page carries no publication date.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Michaud, N. (2018). Appeal to Tradition. In Bad Arguments, 121-124. Wiley, ISBN 9781119165811. The chapter records Crossref holds for this volume were enumerated for this entry: chapter 19 is Appeal to Tradition, chapter 71 is Chronological Snobbery, and the hundred numbered chapters include none on novelty. The chapter itself was not obtained.",
+      "doi": "10.1002/9781119165811.ch19",
+      "type": "index"
+    },
+    {
+      "text": "How to argue. In Madsen Pirie's How to Win Every Argument, Bloomsbury Academic, dated 2015 in its Crossref record, which lists no author. This is the chapter the DOI in Wikipedia's citation resolves to. Paywalled and not obtained; nothing here is taken from it.",
+      "doi": "10.5040/9781474245296.0006",
+      "type": "index"
+    },
+    {
+      "text": "Wikipedia, Appeal to novelty. Used to find sources and quoted here as the carrier of the single-citation problem, not relied on for anything else.",
+      "url": "https://en.wikipedia.org/wiki/Appeal_to_novelty",
+      "type": "index"
+    },
+    {
+      "text": "Blanding, M. (2022). Latest Isn't Always Greatest: Why Product Updates Capture Consumers. Harvard Business School Working Knowledge. Read in full; cited as the popular account whose gummy-candy study and dozens of experiments are not in the working paper.",
+      "url": "https://www.library.hbs.edu/working-knowledge/latest-isnt-always-greatest-why-products-updates-capture-consumers",
+      "type": "commentary"
+    },
+    {
+      "text": "Liu, L., Crosno, J. L., Cui, A. P., & Freling, T. H. (2026). Unwrapping new product bias: Understanding and measuring consumer's implicit preference for new products. Journal of Business Research, 203, 115800. Located and not obtained; closed access, no abstract at Crossref, and nothing here is taken from it.",
+      "doi": "10.1016/j.jbusres.2025.115800",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
