@@ -1,0 +1,96 @@
+{
+  "no": 527,
+  "slug": "two-wrongs-make-a-right",
+  "name": "Two wrongs make a right",
+  "aliases": ["Two wrongs fallacy", "Two wrongs reasoning"],
+  "category": "social",
+  "statement": "Being wronged makes people readier to do wrong in return, and participants cheated in a bargaining game cheated back with lower arousal on a lie detector.",
+  "meaning": "The claim has a logical half and a behavioural half, and they come apart. The logical half is that another party's wrong can justify an act that would otherwise be wrong. Informal logic textbooks file that move as a fallacy. The behavioural half is that people act as though it worked, doing to an offender what the offender did to them. An argument can be worthless and still be persuasive, and retaliation can be common without being excused. Leo Groarke argues that the blanket version of the fallacy is wrong, because self-defence, punishment, civil disobedience and declarations of war all reason from a prior wrong to an act that would otherwise be unacceptable. He sets two conditions for the reasoning to hold. The act has to be a response that tries to alleviate the unjust consequences of the earlier wrong, and there has to be no morally preferable response of equal effect.",
+  "origin": {
+    "year": 1976,
+    "who": "Howard Kahane",
+    "where": "Logic and Contemporary Rhetoric (Belmont: Wadsworth)",
+    "note": "The proverb is much older than the fallacy label and this entry obtained no dating of it. The earliest statement of the labelled fallacy it could read is Kahane's, and it was read at one remove, as a verbatim quotation in Groarke's 1983 paper, whose note cites page 28 of the 1976 printing. Groarke quotes two other textbooks of the same decade, Vincent Barry's Practical Logic (2nd edition, 1980, page 60) and Ralph Johnson and J. Anthony Blair's Logical Self-Defense (1977, page 78), and cites Nicholas Capaldi's The Art of Deception (1971). The Stanford Encyclopedia of Philosophy dates Kahane's first edition to 1971 and Logical Self-Defense to 1977. Whether the 1971 edition already carried the fallacy was not checked, because no copy of any of the four books was obtained."
+  },
+  "evidence": "The logical treatment is well developed and the empirical treatment is thin. Kahane's version, as Groarke quotes it, is that politicians defend themselves 'by using the fallacious idea that two wrongs make a right', on the rationale that if the other side does it then it is all right for us. Barry's is that the fallacy 'is an argument that attempts to justify what is considered wrong by appealing to other instances of the same action'. Johnson and Blair go further, calling it an attempt 'to do the impossible', to prove that a wrong act is not wrong. Their three-clause definition is that M's action X is criticised, that someone defends X by citing similar actions whose wrongness is granted, and that those actions have no relevance to the defence. Groarke keeps the first two clauses and replaces the third with his two conditions, which lets the definition indict the cases the textbooks meant while sparing self-defence and civil disobedience. The Stanford Encyclopedia of Philosophy lists two wrongs reasoning among the traditional fallacies that 'define patterns of reasoning which can play a legitimate logical role', alongside ad hominem, guilt by association and appeal to pity, and gives Martin Luther King on civil disobedience as an example that cannot be dismissed as the fallacy. Bradley Dowden's Internet Encyclopedia of Philosophy list takes the older line, defining the move as defending your wrong action as right because someone else acted wrongly first, and calling it a special kind of ad hominem. The behavioural work runs under other names. Dar Peleg and colleagues put participants through a bargaining game and then gave them a chance to cheat the same opponent for money. In Study 1, 197 Tel Aviv University students played one round of an ultimatum game in which the proposer was fair or unfair and honest or dishonest about the size of the pie. Unfair offers were rejected far more often than fair ones, 32.4% acceptance against 86%, chi-square (1, n = 197) = 56.485, p < 0.001. Cheating on the later dots task varied with the proposer's conduct, F(2, 194) = 3.06, p = 0.049, partial eta squared 0.031. Cheating was scored as the gap in percentage points between errors that paid and errors that cost. Among the 110 participants who had accepted the offer, and so had not already retaliated, that index ran at 50.7 against an unfair and dishonest proposer, 24.0 against a fair and honest one and 20.6 against an unfair but honest one. Participants then took a lie detector test measuring skin conductance. Arousal was highest in the fair and honest condition, at 0.698 against 0.312 and 0.390, F(2, 189) = 3.31, p = 0.039, partial eta squared 0.034. Those who had been mistreated cheated more and showed less of the arousal that cheating usually carries. Study 2 replaced the ultimatum game with a dictator game and the students with 231 Prolific participants, and revealed unfairness and dishonesty at the same moment. The opponent's dishonesty raised cheating, F(1, 229) = 7.521, p = 0.007, partial eta squared 0.032, and unfairness fell short of the conventional threshold, F(1, 229) = 3.397, p = 0.067. The same index stood at 15.5 against a fair and honest allocator and 37.3 against an unfair and dishonest one, Cohen's d = 0.596. A separate line asks whether being wronged licenses selfishness towards third parties. Emily Zitek and colleagues report three experiments in which recalling a time when life was unfair, or losing a game to a programming glitch, made people less willing to help and readier to allocate money to themselves, with self-reported entitlement mediating the effect. That description comes from the published abstract, read at Europe PMC; the article was not obtained and no figure from it is quoted here.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Retaliation repeats across dozens of samples, at a 16% rejection rate pooled from 37 ultimatum game papers. That the prior wrong excuses the second one rests on two studies by one team, whose behavioural and physiological results point different ways.",
+    "detail": "Peleg and colleagues ran the licensing claim twice, with different games, different populations and different countries of recruitment, and the two runs agree on the headline. Being cheated raised later cheating against the same opponent in both, at partial eta squared 0.031 in Study 1 and 0.032 in Study 2. Those two figures come from different contrasts, a three-level condition factor and the honesty factor of a two-by-two, so they are not a matched pair. Study 1's two halves disagree with each other, which the authors say in as many words. Behaviour tracked the specific kind of mistreatment, with dishonesty rather than unfairness driving the cheating. Arousal tracked mistreatment in general, with unfair and dishonest opponents both producing less of it than fair and honest ones. Only the second pattern supports the excuse reading, so the paper's own evidence for a clear conscience is the half that its behavioural evidence does not match. The retaliation half is on much firmer ground. Hessel Oosterbeek, Randolph Sloof and Gijs van de Kuilen pooled 37 papers and 75 results from ultimatum game experiments and report a mean offer of 40% of the pie and a rejection rate of 16%, with rejection falling as the offer rises. People pay to punish those who treat them badly, across dozens of samples. What retaliation does not do is stay level. Sukhwinder Shergill and colleagues had six pairs take turns pressing on each other's finger with instructions to match the force just applied to them. Starting from 0.25 N, force rose by an average of 3.2 N over eight turns, a mean escalation of 38% per turn, F(1, 5) = 12.1, p < 0.05, and every pair escalated at p < 0.05. Their explanation is perceptual. A self-generated force feels weaker than the same force applied by someone else, so matching by feel overshoots. The perceptual half has been repeated at scale. Noham Wolpe and colleagues ran the force-matching task on 322 people aged 18 to 88 from a population cohort of 325, and 315 of them, 98%, overcompensated. Mean overcompensation was 1.198 N when the force was applied directly against 0.052 N when it went through a slider. No repetition of the six-pair escalation experiment itself was located.",
+    "study": {
+      "cite": "Peleg, D., Hochman, G., Levine, T., Klar, Y., & Ayal, S. (2021). Revenge is not blind: Testing the ability of retribution to justify dishonesty. Judgment and Decision Making, 16(6), 1525-1548. Study 2, n = 231.",
+      "doi": "10.1017/S1930297500008536",
+      "year": 2021,
+      "n": 231
+    }
+  },
+  "limits": "Neither of the two studies that test the licensing claim directly appears to be preregistered, and neither mentions preregistration in its text. Both come from one group. Searches at Crossref, Europe PMC and general web search, pairing the titles and authors with replication terms and pairing revenge, retaliation and victim entitlement with terms for replication and registered reports, produced no independent repetition of either. The Zitek article stayed closed on this pass and only its abstract was read. No experiment testing whether an audience accepts a two wrongs defence was found in the same searches, and the nearest measured thing is the persuasive effect of naming the accuser's own fault, which is set out in this site's whataboutism entry. The Groarke paper carries a date discrepancy: the journal's own metadata gives 1983 and volume 5, issue 1, and Crossref registers the same DOI with a date of 1 January 1984. Its quotations of Kahane, Barry, and Johnson and Blair are the only text from those books this entry has seen. Herrmann, Thöni and Gächter's Science paper is cited from its published abstract, not its full text. The four books named in the origin note were not obtained in any edition.",
+  "misreadings": "The proverb is often taken to have settled the logic, and the specialists disagree with it. Groarke's counterexamples are self-defence, punishment, lying to a would-be murderer, civil disobedience and retaliation in war, and the Stanford Encyclopedia lists two wrongs reasoning among the fallacies that have legitimate instances. His test is whether the second act responds to the first in a way that tries to alleviate its unjust consequences, and whether a better option was available. On that test the Kenora park occupation he analyses still fails, because no case is made that milder means would not have worked. The second error is treating the move as the same thing as tu quoque or whataboutism. Those answer a charge by turning it round, and this one justifies an act, so the target differs even when the words are similar. This site files tu quoque under ad hominem and gives whataboutism its own entry. The third error runs it together with moral licensing, where a person's own good deed loosens the constraint on their own later bad one. The sequence is different, and the licensing evidence has weakened: Irene Blanken, Niels van de Ven and Marcel Zeelenberg pooled 91 studies and 7,397 participants for d = 0.31, with published studies beating unpublished ones, and a registered replication by Qinyu Xiao and colleagues with 932 participants found d = 0.02 to 0.08 in one scenario and d = -0.50 to -0.38 in the other. This site's self-licensing entry sets that out. The fourth error is reading the retaliation evidence as evidence that the excuse works. People do retaliate, and that says nothing about whether the retaliation is justified or whether anyone else accepts it. Nor does an eye for an eye stay even. Instructed to match the force they had just received, Shergill's pairs raised it by 38% a turn while believing they were matching it. Retaliation in kind is also not always aimed at wrongdoers. Benedikt Herrmann, Christian Thöni and Simon Gächter report antisocial punishment, the sanctioning of people who behave prosocially, across 16 comparable participant pools, with some pools punishing high contributors as much as low ones.",
+  "sources": [
+    {
+      "text": "Groarke, L. (1983). When Two Wrongs Make A Right. Informal Logic, 5(1), 10-13. Open access; full text read from the journal's PDF. Source for the Kahane, Barry, and Johnson and Blair definitions quoted here, and for the two conditions. Crossref registers this DOI with a date of 1 January 1984 against the journal's own 1983.",
+      "doi": "10.22329/il.v5i1.2742",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2742",
+      "type": "primary"
+    },
+    {
+      "text": "Groarke, L. Informal Logic. The Stanford Encyclopedia of Philosophy. Read in full for the placement of two wrongs reasoning among fallacies with legitimate instances, the civil disobedience example, and the dates of Kahane (1971) and Johnson and Blair (1977).",
+      "url": "https://plato.stanford.edu/entries/logic-informal/",
+      "type": "secondary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read for the entry 'Two Wrongs do not Make a Right', which defines the move and files it as a kind of ad hominem.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "secondary"
+    },
+    {
+      "text": "Peleg, D., Hochman, G., Levine, T., Klar, Y., & Ayal, S. (2021). Revenge is not blind: Testing the ability of retribution to justify dishonesty. Judgment and Decision Making, 16(6), 1525-1548. Open access under CC BY. Full text read from the publisher's PDF, twice; every figure quoted here appears in its running text.",
+      "doi": "10.1017/S1930297500008536",
+      "url": "https://doi.org/10.1017/S1930297500008536",
+      "type": "primary"
+    },
+    {
+      "text": "Zitek, E. M., Jordan, A. H., Monin, B., & Leach, F. R. (2010). Victim entitlement to behave selfishly. Journal of Personality and Social Psychology, 98(2), 245-255. Not obtained; three attempts at author copies failed. The three experiments are described here from the abstract at Europe PMC, and no number from the paper is quoted.",
+      "doi": "10.1037/a0017168",
+      "url": "https://doi.org/10.1037/a0017168",
+      "type": "primary"
+    },
+    {
+      "text": "Oosterbeek, H., Sloof, R., & van de Kuilen, G. (2004). Cultural Differences in Ultimatum Game Experiments: Evidence from a Meta-Analysis. Experimental Economics, 7(2), 171-188. The 37 papers, 75 results, 40% mean offer and 16% rejection rate are read from the publisher's abstract as deposited at Crossref; the article itself was not obtained.",
+      "doi": "10.1023/b:exec.0000026978.14316.74",
+      "url": "https://doi.org/10.1023/b:exec.0000026978.14316.74",
+      "type": "replication"
+    },
+    {
+      "text": "Shergill, S. S., Bays, P. M., Frith, C. D., & Wolpert, D. M. (2003). Two Eyes for an Eye: The Neuroscience of Force Escalation. Science, 301(5630), 187. Full text read from a hosted scan, downloaded twice with matching checksums. Source for the six pairs, the 3.2 N rise and the 38% per turn.",
+      "doi": "10.1126/science.1085327",
+      "url": "http://wexler.free.fr/library/files/shergill%20(2003)%20two%20eyes%20for%20an%20eye.%20the%20neuroscience%20of%20force%20escalation.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Wolpe, N., Ingram, J. N., Tsvetanov, K. A., et al. (2016). Ageing increases reliance on sensorimotor prediction through structural and functional differences in frontostriatal circuits. Nature Communications, 7, 13034. Open access. Results section read twice for the 315 of 322 and the two overcompensation means.",
+      "doi": "10.1038/ncomms13034",
+      "url": "https://doi.org/10.1038/ncomms13034",
+      "type": "replication"
+    },
+    {
+      "text": "Herrmann, B., Thöni, C., & Gächter, S. (2008). Antisocial Punishment Across Societies. Science, 319(5868), 1362-1367. Described here from the published abstract at Crossref; the full text was not obtained.",
+      "doi": "10.1126/science.1153808",
+      "url": "https://doi.org/10.1126/science.1153808",
+      "type": "commentary"
+    },
+    {
+      "text": "Blanken, I., van de Ven, N., & Zeelenberg, M. (2015). A Meta-Analytic Review of Moral Licensing. Personality and Social Psychology Bulletin, 41(4), 540-558. The 91 studies, 7,397 participants and d = 0.31 are read from the published abstract at Crossref. No interval is quoted here because none appears there.",
+      "doi": "10.1177/0146167215572134",
+      "url": "https://doi.org/10.1177/0146167215572134",
+      "type": "secondary"
+    },
+    {
+      "text": "Xiao, Q., Li, L. C., Au, Y. L., Tan, S. N., Chung, W. T., & Feldman, G. (2024). Licensing via Credentials: Replication Registered Report of Monin and Miller (2001) with Extensions. International Review of Social Psychology, 37(1), 10. Open access; the abstract was read at the publisher for the sample of 932 and the two ranges of d.",
+      "doi": "10.5334/irsp.945",
+      "url": "https://doi.org/10.5334/irsp.945",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
