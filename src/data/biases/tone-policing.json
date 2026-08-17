@@ -1,0 +1,118 @@
+{
+  "no": 499,
+  "slug": "tone-policing",
+  "name": "Tone policing",
+  "aliases": [
+    "Tone argument",
+    "Tone police"
+  ],
+  "category": "social",
+  "statement": "Objecting to how something was said, rather than to what was said, works as a way of setting the argument aside.",
+  "meaning": "The claim has two halves and only the second can be measured easily. The first is that objections to tone are raised selectively, more often against some speakers than others making the same point. The second is that the objection costs the speaker something: influence, credibility, status. Criticising a tone is not by itself a fallacy, and the claim is not that it always is. What the claim asserts is a mismatch between the stated reason for dismissal and the thing actually driving it. Turned into an experiment, that means holding the words fixed, varying the delivery or the speaker, and reading off what observers then do. Almost all the research described below runs that experiment. None of it studies the critic who complains about tone, which is the person the term names.",
+  "origin": {
+    "year": 2015,
+    "who": "Robot Hugs",
+    "where": "Everyday Feminism",
+    "note": "The comic \"No, We Won't Calm Down – Tone Policing Is Just Another Way to Protect Privilege\", dated 7 December 2015, is the widely cited vector by which the term spread. It did not coin it, and this entry could not establish who did or when. The phrase circulated in activist writing before that date, and the Oxford English Dictionary published an entry for the noun on 10 July 2025 whose dating evidence sits behind a subscription these checks did not pass."
+  },
+  "evidence": "The term has an activist rather than an academic origin, and the empirical literature attached to it grew up separately under other names. The closest thing to a direct measurement is a field and experimental study by Lee and colleagues of a neighbourhood social media platform. Five toxicity classifiers rated 1,025 disclosures of racial discrimination against 1,009 disclosures of negative interpersonal experience. All five flagged the discrimination posts more often. Rates ran from 4.59% for Google's Perspective API to 59.61% for ChatGPT, against 1.39% and 41.82% for the comparison set. Human neighbours flagged 36.10% of the discrimination disclosures, 95% CI [33.27, 39.12], against 13.68% of the comparison posts, 95% CI [11.60, 16.06]. Negative-emotion words predicted human flagging for the discrimination disclosures but not for the comparison posts, which is the paper's ground for the term: readers appeared to use tone as a non-racial reason to remove race talk. Explicit mention of white identity predicted flagging, b = 0.57, p < .001, and language marking the poster's belonging in the neighbourhood predicted less of it, b = -0.42, p < .05. The older literature is about the speaker's emotion rather than the critic's response to it. Brescoll and Uhlmann ran three experiments on adults recruited by flyer in a Connecticut public park and paid a dollar or a lottery ticket. In the first, 69 people watched a videotaped job interview in which a professional described feeling angry or sad. Status conferral showed a gender by emotion interaction, F(1, 64) = 16.38, and the angry man scored 6.47 against the angry woman's 3.75 on an 11-point composite, with suggested salaries of $37,807 and $23,464. The second study used 180 people and the third 133. Salerno and Peter-Hagene put the same question to a scripted mock jury, where a lone holdout dissenter expressed no emotion, anger or fear under a male or a female name. Their abstract reports that anger from male holdouts lowered participants' confidence in their own verdict while anger from female holdouts raised it. Salerno and colleagues later repeated the paradigm across gender and race, and separately tested attorneys expressing anger in a closing argument on samples of 120, 294 and 273. Motro and colleagues tested the same backlash for black women in the workplace across two studies totalling 555 people. A related literature points the other way about emotion in general. Nitschke, McKimmie and Vanman's meta-analysis of 20 effect sizes on 3,128 people found that visibly distressed rape complainants were judged more credible than controlled ones, g = 0.38, 95% CI [0.25, 0.51], with a p-curve analysis giving no sign of reporting bias.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The nearest measurable claim, that anger costs a woman influence, held in some repeats and came out backwards in others.",
+    "detail": "McCormick-Huhn and Shields set out to extend Brescoll and Uhlmann and got the opposite sign. Across four studies on 1,095 people, samples of 234, 268, 297 and 296, women shown angry at work were rated better than white men shown angry at work. In the first study the white woman was rated more appropriate in emotion type, F(1, 228) = 7.77, p = .006, d = 0.36, 95% CI [0.11, 0.63]. She was also conferred more status, F(1, 228) = 6.72, p = .010, d = 0.34, 95% CI [0.08, 0.60]. The white man was the one rated higher in dispositional emotionality, F(1, 228) = 7.90, p = .005, d = 0.39. Competence and salary did not differ. The reversal repeated on a worker sample and again with black women as protagonists, and its size tracked how much news participants consumed and how strongly they believed workplace opportunities are gendered. The authors read it as a period effect of #MeToo rather than as a flaw in the original, and label it a failure to conceptually replicate. A separate test went the same way. Choi, Nuñez and Wilkowski had 455 jury-eligible participants hear a male or female prosecutor deliver a closing statement with authentic anger, inauthentic anger or none. Authentic anger raised the odds of a guilty verdict and improved ratings of the prosecutor's competence, and the attorney's gender did not moderate any of it. On the other side, Radke and Hanson found that a woman candidate who expressed anger about gender inequality was evaluated worse than one who did not, on samples of 227 and 254. Their design carries no male comparison, so it does not test the asymmetry. The broader backlash literature that these studies belong to has been pooled once. Williams and Tiedens meta-analysed reactions to dominant behaviour. Dominance costs women likability relative to men at d = -0.19 across 63 effects, and hireability at d = -0.58 across 20. Perceived competence did not differ by gender, d = 0.02 across 31. Splitting by how the dominance was expressed, explicit forms cost women likability at d = -0.28 and implicit forms at d = 0.03.",
+    "study": {
+      "cite": "McCormick-Huhn, K., & Shields, S. A. (2021). Favorable evaluations of Black and White women's workplace anger during the era of #MeToo. Frontiers in Psychology, 12, 594260.",
+      "doi": "10.3389/fpsyg.2021.594260",
+      "year": 2021,
+      "n": 1095
+    }
+  },
+  "limits": "No study located here tests tone policing as the term defines it. Every experiment above varies what a speaker did and measures what observers thought of the speaker. None varies a critic's objection to tone and measures whether the underlying argument then gets a hearing, which is the causal step the term asserts. The evidence is also thin where it is oldest. Brescoll and Uhlmann's first study put 69 people across four cells, and the paper reports prep, a probability-of-replication statistic, rather than p values, and prints no standardised effect sizes, so none are quoted here. Their samples came from one Connecticut park. No multi-laboratory or registered replication of any of this work was found. That search covered Crossref, Europe PMC, Unpaywall, Semantic Scholar's list of 53 works citing the 2015 mock jury paper, and open-web search. A Europe PMC query for the phrase \"tone policing\" returns 21 records, none of them an experiment on the phenomenon. The one preregistration in this group belongs to Lee and colleagues, and it covers an intervention rather than a replication. Reframed moderation guidelines cut flagging of a discrimination disclosure to 36.26% from the 51.65% produced by conventional guidelines, b = -0.79, 95% CI [-1.23, -0.35]. The preregistered comparison against showing no guidelines at all, 44.50%, did not come out, b = 0.35, 95% CI [-0.08, 0.78], p = .11. Their tone-policing measure is a lexicon of negative-emotion words applied to field data, so it is correlational. Four papers cited here were read only as abstracts, because the full texts stayed behind paywalls on this pass: both Salerno mock jury papers, the Motro workplace studies and the Williams and Tiedens meta-analysis. No sample size is quoted for the 2015 mock jury study for that reason.",
+  "misreadings": "The name invites a general reading, that showing emotion always costs a speaker credibility, and the largest meta-analysis in the neighbourhood points the other way for one kind of emotion. Distressed rape complainants are judged more credible than composed ones at g = 0.38. What the backlash studies measure is narrower: a penalty attached to anger from particular speakers, in particular settings, not a penalty on emotion. The 2008 status finding is quoted as settled and large, and it rests on 69 people in its first study and has since been repeated with the sign reversed on 1,095. The term is also often given an origin it has not been shown to have. Writers assign it a coiner and a date, and this entry could find neither in any source it opened. Finally, the claim is sometimes stated as though any objection to tone were a fallacy. The claim under test is about selectivity, meaning the same tone drawing an objection from one speaker and not from another, which is what the flagging asymmetry in the neighbourhood platform data is evidence for.",
+  "sources": [
+    {
+      "text": "Robot Hugs (2015). No, We Won't Calm Down – Tone Policing Is Just Another Way to Protect Privilege. Everyday Feminism, 7 December 2015. The comic that spread the term; not a coinage, and not evidence for anything but its own date.",
+      "url": "https://everydayfeminism.com/2015/12/tone-policing-and-privilege/",
+      "type": "commentary"
+    },
+    {
+      "text": "Oxford English Dictionary (2025). tone policing, n. Entry published 10 July 2025. The record was confirmed through Crossref; the entry itself, including its earliest-use evidence, is behind a subscription these checks did not pass.",
+      "doi": "10.1093/oed/8495426920",
+      "url": "https://doi.org/10.1093/oed/8495426920",
+      "type": "commentary"
+    },
+    {
+      "text": "Lee, C., Gligorić, K., Kalluri, P. R., Harrington, M., Durmus, E., Sanchez, K. L., San, N., Tse, D., Zhao, X., Hamedani, M. G., Markus, H. R., Jurafsky, D., & Eberhardt, J. L. (2024). People who share encounters with racism are silenced online by humans and machines, but a guideline-reframing intervention holds promise. Proceedings of the National Academy of Sciences, 121(38). Read in full; every figure quoted from it was confirmed on two separate fetches.",
+      "doi": "10.1073/pnas.2322764121",
+      "url": "https://doi.org/10.1073/pnas.2322764121",
+      "type": "primary"
+    },
+    {
+      "text": "Brescoll, V. L., & Uhlmann, E. L. (2008). Can an angry woman get ahead? Status conferral, gender, and expression of emotion in the workplace. Psychological Science, 19(3), 268-275. Read in full from a scan hosted by one of the authors.",
+      "doi": "10.1111/j.1467-9280.2008.02079.x",
+      "url": "https://www.socialjudgments.com/docs/Brescoll%20and%20Uhlmann%202008.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "McCormick-Huhn, K., & Shields, S. A. (2021). Favorable evaluations of Black and White women's workplace anger during the era of #MeToo. Frontiers in Psychology, 12, 594260. Read in full; the paper records no preregistration.",
+      "doi": "10.3389/fpsyg.2021.594260",
+      "url": "https://doi.org/10.3389/fpsyg.2021.594260",
+      "type": "replication"
+    },
+    {
+      "text": "Salerno, J. M., & Peter-Hagene, L. C. (2015). One angry woman: Anger expression increases influence for men, but decreases influence for women, during group deliberation. Law and Human Behavior, 39(6), 581-592. Closed access; described here from the published abstract, read at Europe PMC and again at the authors' institutional repository.",
+      "doi": "10.1037/lhb0000147",
+      "url": "https://doi.org/10.1037/lhb0000147",
+      "type": "primary"
+    },
+    {
+      "text": "Salerno, J. M., Peter-Hagene, L. C., & Jay, A. C. V. (2019). Women and African Americans are less influential when they express anger during group decision making. Group Processes & Intergroup Relations, 22(1), 57-79. Closed access; described from the abstract deposited at Crossref.",
+      "doi": "10.1177/1368430217702967",
+      "url": "https://doi.org/10.1177/1368430217702967",
+      "type": "replication"
+    },
+    {
+      "text": "Salerno, J. M., Phalen, H. J., Reyes, R. N., & Schweitzer, N. J. (2018). Closing with emotion: The differential impact of male versus female attorneys expressing anger in court. Law and Human Behavior, 42(4), 385-401. Closed access; the three sample sizes are read from the published abstract.",
+      "doi": "10.1037/lhb0000292",
+      "url": "https://doi.org/10.1037/lhb0000292",
+      "type": "primary"
+    },
+    {
+      "text": "Choi, S., Nuñez, N., & Wilkowski, B. M. (2023). The influence of attorney anger on juror decision making. Psychiatry, Psychology and Law, 30(3), 271-298. Described from the published abstract.",
+      "doi": "10.1080/13218719.2021.2006099",
+      "url": "https://doi.org/10.1080/13218719.2021.2006099",
+      "type": "replication"
+    },
+    {
+      "text": "Motro, D., Evans, J. B., Ellis, A. P. J., & Benson, L. (2022). Race and reactions to women's expressions of anger at work: Examining the effects of the \"angry Black woman\" stereotype. Journal of Applied Psychology, 107(1), 142-152. Closed access; described from the published abstract.",
+      "doi": "10.1037/apl0000884",
+      "url": "https://doi.org/10.1037/apl0000884",
+      "type": "primary"
+    },
+    {
+      "text": "Radke, H. R. M., & Hanson, A. (2025). Women are derogated for expressing group-based anger which undermines collective action for gender equality. The Journal of Social Psychology. Closed access; the two sample sizes are read from the published abstract.",
+      "doi": "10.1080/00224545.2025.2529850",
+      "url": "https://doi.org/10.1080/00224545.2025.2529850",
+      "type": "replication"
+    },
+    {
+      "text": "Williams, M. J., & Tiedens, L. Z. (2016). The subtle suspension of backlash: A meta-analysis of penalties for women's implicit and explicit dominance behavior. Psychological Bulletin, 142(2), 165-197. Closed access; the pooled effect sizes quoted here are the ones printed in the published abstract, and the full text was not obtained.",
+      "doi": "10.1037/bul0000039",
+      "url": "https://doi.org/10.1037/bul0000039",
+      "type": "replication"
+    },
+    {
+      "text": "Nitschke, F. T., McKimmie, B. M., & Vanman, E. J. (2019). A meta-analysis of the emotional victim effect for female adult rape complainants: Does complainant distress influence credibility? Psychological Bulletin, 145(10), 953-979. The accepted manuscript was read in full from the authors' preprint, and the pooled figure was confirmed twice against it.",
+      "doi": "10.1037/bul0000206",
+      "url": "https://osf.io/preprints/psyarxiv/euqap",
+      "type": "replication"
+    },
+    {
+      "text": "Biddle, C., & Hufnagel, E. (2019). Navigating the \"danger zone\": Tone policing and the bounding of civility in the practice of student voice. American Journal of Education, 125(4), 487-520. Named as the earliest scholarly article located whose title carries the term; not read for this entry.",
+      "doi": "10.1086/704097",
+      "url": "https://doi.org/10.1086/704097",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
