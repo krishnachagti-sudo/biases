@@ -12,7 +12,7 @@
     "where": "Quarterly Journal of Experimental Psychology",
     "note": "Wason's paper is \"On the Failure to Eliminate Hypotheses in a Conceptual Task\", and it reports the 2-4-6 task. It does not contain the phrase confirmation bias. Wason writes about enumerative and eliminative induction, and about Bacon's induction by simple enumeration. The phrase itself appears in the title of Mynatt, Doherty and Tweney's 1977 paper in the same journal. The observation is older than either: Nickerson quotes Francis Bacon describing the habit in the Novum Organum of 1620."
   },
-  "evidence": "Wason's task gives the sequence 2-4-6, says it follows a rule, and asks the participant to work the rule out by proposing further triples. The rule is three numbers in increasing order of magnitude. People guess something narrower, such as ascending even numbers, and then test triples that fit the guess, which can only ever return a yes. Twenty-nine psychology undergraduates took part, 17 men and 12 women. Six announced the correct rule with no wrong announcement before it, 13 announced one wrong rule, nine announced two or more, and one announced no rule at all. The selective-exposure branch of the literature runs on a different task. Participants choose which articles to read from a set that varies in whether it agrees with a position they hold, and the measure is what they pick. Hypothesis testing, biased evaluation and selective exposure carry separate evidence, and a result in one does not settle the others.",
+  "evidence": "Wason's task gives the sequence 2-4-6, says it follows a rule, and asks the participant to work the rule out by proposing further triples. The rule is three numbers in increasing order of magnitude. People guess something narrower, such as ascending even numbers, and then test triples that fit the guess, which can only ever return a yes. Twenty-nine psychology undergraduates took part, 17 men and 12 women. Six announced the correct rule with no wrong announcement before it, 13 announced one wrong rule, nine announced two or more, and one announced no rule at all. The four-card selection task is a separate experiment. Wason reported it as a pilot study in 1966 and published tests of it in 1968, on 36 first-year students at University College London and 26 at Edinburgh. He summarised the usual pattern as nearly all participants turning the card named in the antecedent, 60 to 75 per cent turning the one named in the consequent, and only a minority turning the card that could falsify the rule. The selective-exposure branch of the literature runs on a different task. Participants choose which articles to read from a set that varies in whether it agrees with a position they hold, and the measure is what they pick. Hypothesis testing, biased evaluation and selective exposure carry separate evidence, and a result in one does not settle the others.",
   "replication": {
     "state": "replicated",
     "headline": "A meta-analysis of 91 studies and just under 8,000 people found a moderate average preference for information that agrees with you.",
@@ -31,14 +31,26 @@
       "weighting": "weighted, fixed-effects"
     }
   },
-  "limits": "The meta-analysis covers selective exposure, which is one of the habits the name is used for, so a verdict on it is not a verdict on the whole idea. The participant total is reported by the authors as just under 8,000 and is given here as that round figure rather than an exact count. There is also a live argument that the 2-4-6 result is not a bias at all. Klayman and Ha argued in 1987 that most of what gets labelled confirmation bias is a positive test strategy, a tendency to test cases expected to have the property of interest, and that this strategy is a good heuristic for finding out whether a hypothesis is true under realistic conditions. It misleads when the true rule is broader than the guess, which is the trap Wason built. On that reading the task shows a strategy that is usually reasonable rather than a defect.",
-  "misreadings": "The strongest version in circulation is that people cannot process disconfirming evidence at all, or that showing someone a fact that contradicts them makes them believe it more. The second of those is the backfire effect, which is a different claim. Wood and Porter enrolled more than 8,100 people across four experiments covering 36 issues and found a single issue that produced backfire, whether weapons of mass destruction were found in Iraq, and even that went away with a less elaborate survey item. Wason's four-card selection task is also offered as a demonstration of confirmation bias, and Nickerson argues it does not work as one: people are at least as likely to turn the vowel card as the even-number card, and the vowel card is a genuine falsification test, so the usual pattern is not avoidance of disconfirming evidence. Confirmation bias is further used as a way to dismiss an opponent's reasoning without engaging it, which is a rhetorical move rather than a finding. And a moderate average preference is not a description of any particular person: d = 0.36 is a distribution with a great deal of overlap.",
+  "limits": "The meta-analysis covers selective exposure, which is one of the habits the name is used for, so a verdict on it is not a verdict on the whole idea. The participant total is reported by the authors as just under 8,000 and is given here as that round figure rather than an exact count. Later work at scale puts a bound on what the preference does. Nyhan and colleagues report that the median adult American Facebook user saw 50.4% of their content from like-minded sources in 2020, against 14.7% from cross-cutting ones. They then cut like-minded exposure by about a third for 23,377 users through the presidential election. None of eight preregistered attitude measures moved, and the authors say they can rule out effects of 0.12 standard deviations or more on each. A common diet of agreeable material is therefore compatible with that material changing nothing measurable. There is also a live argument that the 2-4-6 result is not a bias at all. Klayman and Ha argued in 1987 that most of what gets labelled confirmation bias is a positive test strategy, a tendency to test cases expected to have the property of interest, and that this strategy is a good heuristic for finding out whether a hypothesis is true under realistic conditions. It misleads when the true rule is broader than the guess, which is the trap Wason built. On that reading the task shows a strategy that is usually reasonable rather than a defect.",
+  "misreadings": "The strongest version in circulation is that people cannot process disconfirming evidence at all, or that showing someone a fact that contradicts them makes them believe it more. The second of those is the backfire effect, which is a different claim. Wood and Porter enrolled more than 8,100 people across four experiments covering 36 issues and found a single issue that produced backfire, whether weapons of mass destruction were found in Iraq, and even that went away with a less elaborate survey item. Wason's four-card selection task is also offered as a demonstration of confirmation bias, and Nickerson argues it does not work as one: people are at least as likely to turn the vowel card as the even-number card, and the vowel card is a genuine falsification test, so the usual pattern is not avoidance of disconfirming evidence. Evans and Lynch had made a sharper claim in 1973. They varied negatives in the rule so that picking the cards it names no longer coincided with trying to verify it, and found significant matching on four independent measures. With that matching bias cancelled out, they reported no evidence of a verification bias, and the logically correct cards were the ones chosen most often. On their reading the standard result records which values the rule mentions rather than which evidence people avoid. Confirmation bias is further used as a way to dismiss an opponent's reasoning without engaging it, which is a rhetorical move rather than a finding. And a moderate average preference is not a description of any particular person: d = 0.36 is a distribution with a great deal of overlap.",
   "sources": [
     {
       "text": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140. Full text read for this entry; the phrase \"confirmation bias\" does not appear in it.",
       "doi": "10.1080/17470216008416717",
       "url": "https://doi.org/10.1080/17470216008416717",
       "type": "primary"
+    },
+    {
+      "text": "Wason, P. C. (1968). Reasoning about a rule. Quarterly Journal of Experimental Psychology, 20(3), 273-281. Full text read for this entry from a scanned copy hosted at web.mit.edu; the source of the selection-task sample sizes and of Wason's summary of the card frequencies, which he attributes to a 1966 pilot study and a replication by Hughes.",
+      "doi": "10.1080/14640746808400161",
+      "url": "https://doi.org/10.1080/14640746808400161",
+      "type": "primary"
+    },
+    {
+      "text": "Evans, J. St. B. T., & Lynch, J. S. (1973). Matching bias in the selection task. British Journal of Psychology, 64(3), 391-397. The abstract was read at Crossref; the full text was not retrieved.",
+      "doi": "10.1111/j.2044-8295.1973.tb01365.x",
+      "url": "https://doi.org/10.1111/j.2044-8295.1973.tb01365.x",
+      "type": "critique"
     },
     {
       "text": "Mynatt, C. R., Doherty, M. E., & Tweney, R. D. (1977). Confirmation bias in a simulated research environment: An experimental study of scientific inference. Quarterly Journal of Experimental Psychology, 29(1), 85-95. Cited here for its title, which carries the phrase; the full text was not retrieved.",
@@ -65,11 +77,17 @@
       "type": "commentary"
     },
     {
+      "text": "Nyhan, B., Settle, J., Thorson, E., Wojcieszak, M., Barbera, P., Chen, A. Y., et al. (2023). Like-minded sources on Facebook are prevalent but not polarizing. Nature, 620, 137-144. Figures read from the JATS XML of the open-access copy at PMC10396953. An author correction of the same year, 10.1038/s41586-023-06795-x, removes one row from a supplementary table and touches none of the figures quoted here.",
+      "doi": "10.1038/s41586-023-06297-w",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10396953/",
+      "type": "extension"
+    },
+    {
       "text": "Wood, T., & Porter, E. (2019). The elusive backfire effect: mass attitudes' steadfast factual adherence. Political Behavior, 41(1), 135-163. The published abstract could not be retrieved; the counts quoted here were read from the authors' 2016 working-paper version, which reports four experiments, 36 issues and more than 8,100 subjects.",
       "doi": "10.1007/s11109-018-9443-y",
       "url": "https://www.djflynn.org/wp-content/uploads/2016/08/elusive-backfire-effect-wood-porter.pdf",
       "type": "replication"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
