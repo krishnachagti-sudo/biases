@@ -1,0 +1,102 @@
+{
+  "no": 579,
+  "slug": "logic-chopping",
+  "name": "Logic chopping",
+  "aliases": [
+    "Trivial objections",
+    "Quibbling",
+    "Nit-picking",
+    "Splitting hairs",
+    "Chop logic"
+  ],
+  "category": "belief",
+  "statement": "Pressing precise objections to details that leave an argument's main claim untouched, so the reply is correct in every part and useless against the case it answers.",
+  "meaning": "The label picks out a reply that is accurate and beside the point. Bo Bennett's fallacy entry defines it as \"Using the technical tools of logic in an unhelpful and pedantic manner by focusing on trivial details instead of directly addressing the main issue in dispute\", glossed as \"Irrelevant over precision\". Madsen Pirie makes the same claim under the name trivial objections: \"The trivial objections are possibly valid; the point is that they are also trivial, and not adequate to the work of demolishing the case which is presented. The fallacy is committed because they are not up to the task to which they are assigned, not because they are erroneous.\" So the test on offer is adequacy rather than truth. That is also where the difficulty sits, because an objector who thinks a detail is load-bearing and an objector who is stalling produce the same sentences.",
+  "origin": {
+    "year": 2006,
+    "who": "Harry J. Gensler",
+    "where": "Historical Dictionary of Logic, The Scarecrow Press",
+    "note": "The earliest scholarly appearance of the label found in this work's searches. Gensler's dictionary carries an entry treating logic chopping as a fallacy at page 124. That entry was not obtained. Its existence and its page number are read off Hans V. Hansen's review in Informal Logic, which lists among the things one can learn from the book \"that logic chopping is considered a fallacy (p. 124)\". The review gives the imprint as Lanham, Toronto and Oxford, The Scarecrow Press, 2006, xvii + 306 pages, ISBN 0810855311. The words are far older than the fallacy label. Merriam-Webster defines the phrase \"chop logic\" as \"to argue with sophistical reasoning and minute distinctions\" and dates its first known use to 1533. Bennett's fallacy entry gives one reference, Henry Byerly's A Primer of Logic, Harper & Row, 1973, which could not be opened during this work."
+  },
+  "evidence": "There is no experiment behind this entry, and the honest description of the label is where it lives. It lives on fallacy lists. Bennett's Logically Fallacious carries it with two invented dialogues, one about pushing a broken-down car and one about a tyre salesman, and lists quibbling, nit-picking, smokescreen, splitting-hairs and trivial objections as other names for the same move. Wikipedia's List of fallacies carries a one-line bullet reading \"Logic chopping fallacy (nit-picking, trivial objections)\", placed among the red herring fallacies, and cites Bennett and Byerly. That bullet has a traceable birth. It was added in revision 1025709660, made on 29 May 2021 by the editor Libertarianandy2, with the summary \"added a logic chopping fallacy, could be moved into another category\". Both citations were in it from that first revision, and the Byerly reference was carried across from Bennett's page. A raw fetch of the Wikipedia title \"Logic chopping\" returns a Wikimedia error page rather than an article, and an insource search of the encyclopaedia for the phrase returns nine articles, List of fallacies among them. The one treatment of any length is Pirie's, which runs from page 199 to page 201 of the second edition of How to Win Every Argument under the heading Trivial objections. Pirie calls the fallacy \"akin to that of the straw man\", on the ground that only a few aspects of the opposing case are confronted, and notes that trivial objections \"tend to appear when the central thrust of the argument is difficult to oppose\". His examples are a new road opposed because it dates the town maps and a land war opposed for its effect on long-life milk supplies. His practical advice is the giveaway: list the objections, because \"your audience will be impressed more by their weight of numbers than by their lack of substance\". Neither the phrase logic chopping nor pooh-pooh appears anywhere in his book.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study measuring the move was found. The nearest measured work sits on the other side of the exchange, where listeners judge replies that are fluent and unresponsive, and it finds them rated as well as responsive ones.",
+    "detail": "Searches at Crossref, Europe PMC, Semantic Scholar, the Informal Logic archive and the open web returned no experiment on logic chopping or on trivial objections under any of the names above. The closest thing to a measurement of fallacies as such is van Eemeren, Garssen and Meuffels' project on conceptions of reasonableness, summarised in van Eemeren and Garssen's 2023 paper. Ordinary respondents rated discussion moves on a 7-point scale where 1 is very unreasonable and 4 neither. Their Table 1 covers 20 rule violations against their non-fallacious counterparts: the argumentum ad populum scores 2.77 against 5.88, shifting the burden of proof 2.37 against 4.51, the argumentum ad ignorantiam 2.56 against 5.56. Their own summary is that \"except for the tu quoque variant of the argumentum ad hominem, all fallacious contributions to the discussion are rated below the neutral point (4)\", tu quoque itself scoring 4.45. Logic chopping is not one of the 20 they tested. The measured neighbour is Rogers and Norton on question dodging, and it runs in the other direction: the speaker is unresponsive rather than the objector. Figures here are read from Harvard Business School working paper 09-048, because the published article in Journal of Experimental Psychology: Applied was paywalled on this pass. In their first study, 333 listeners heard a mock political debate in which the second speaker always answered a question about healthcare. Those who heard him asked the healthcare question identified it afterwards 85% of the time, against 45% of those who heard him asked about the drug problem, chi-square(1) = 60.7, p < .001. In their third study, 275 listeners saw one of three versions and rated the speaker on trust, liking, honesty and capability. A good answer to the correct question scored 3.31, SD 1.13, a good answer to a similar question 3.24, SD 1.28, and the correct answer delivered with pauses and fillers 2.78, SD 1.12, F(2, 272) = 5.26, p < .01. The first two did not differ, t(188) = .45, p > .65. So a fluent answer to the wrong question beat a halting answer to the right one."
+  },
+  "limits": "The chain of provenance has two broken links and both are recorded rather than smoothed over. Byerly's A Primer of Logic, the only reference Bennett gives and the second reference Wikipedia gives, was not obtained. Internet Archive, Open Library and the archive.org full-text service all refused connections through this session's proxy, HathiTrust returned a Cloudflare challenge, and the Google Books API had exhausted its daily quota. Whether the phrase appears in Byerly at all is therefore unverified. Gensler's own entry was not obtained either, for the same reasons, so the page number and the fact of the entry rest on Hansen's review. T. Edward Damer's Attacking Faulty Reasoning, cited by Wikipedia at page 206 for trivial objections, was not opened. Daly and Redlick's 2015 experiment on how handling questions and objections affects audience judgements of speakers is named below and quoted from nowhere: the publisher's page is closed and the abstract is suppressed at Semantic Scholar. OpenAlex was tried and returned a budget error rather than results, so it is not among the places this entry can say it searched. The Rogers and Norton figures come from a working paper whose abstract differs from the published one, which frames the mechanism as goal-directed attention where the working paper says inattentional blindness, and no figure from the published article is quoted here. That study also measures the wrong party for this page. Nothing found measures how an audience judges an objector who presses a precise point about a detail.",
+  "misreadings": "The neighbouring labels on Wikipedia's list are not one thing. Trivial objections is the same move under a different name, and the sources say so themselves. Bennett lists trivial objections as an alias of logic chopping, and the Wikipedia bullet prints the two names in the same parenthesis. Pirie's objection that is valid but not adequate to the case is Bennett's definition in other words. Pooh-pooh is a different move. Wikipedia's article defines it as dismissing an argument as unworthy of serious consideration, and its list places it under appeal to emotion, alongside appeal to ridicule. That is a failure to engage at all, where logic chopping is engagement aimed at the wrong part, so the two sit at opposite ends of the same complaint. The second misreading is treating the label as a licence. An accusation of logic chopping is itself an objection, and Pirie's own test asks whether the objection is adequate to the case rather than whether it is false, which means the accusation carries the same burden as the thing it names. The third is the claim that argumentation theory offers no way to tell rigour from evasion. It offers two, and both are contextual rather than mechanical. Walton's test of material relevance is whether \"the actual argument given can be extrapolated forward so that it meets up with another line of argument that would give a good reason for accepting or rejecting the proposal being discussed\", which requires reading the whole transcript. Van Eemeren and Garssen locate fallacy in the violation of a rule for critical discussion, and are candid about what that leaves. Sound and fallacious moves \"are not distinguished from each other by their appearance\". A mode of manoeuvring has \"a continuum of possible realizations that goes from argumentative moves that are unquestionably sound to argumentative moves that are indisputably fallacious\". And \"the criteria for deciding whether an argumentative move is to be regarded sound may vary to some extent depending on the institutional macro-context\". A criterion that needs the context is not the same as no criterion.",
+  "sources": [
+    {
+      "text": "Bennett, B. Logic Chopping. Logically Fallacious. Read in full and fetched twice with matching checksums; the source for the definition, the alias list, the two examples and the exception. Its only reference is Byerly (1973).",
+      "url": "https://www.logicallyfallacious.com/logicalfallacies/Logic-Chopping",
+      "type": "primary"
+    },
+    {
+      "text": "Wikipedia. List of fallacies. Read as raw wikitext. Source for the bullet wording, its placement under red herring fallacies, and the separate placement of pooh-pooh under appeal to emotion.",
+      "url": "https://en.wikipedia.org/wiki/List_of_fallacies",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia. List of fallacies, revision 1025709660 of 29 May 2021 by Libertarianandy2. The revision that added the logic chopping bullet, with both of its citations. Revision text, timestamp, user and edit summary read from the MediaWiki API.",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_fallacies&oldid=1025709660",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia. Trivial objections. Read as raw wikitext. Gives Pirie and Damer as its sources and treats the fallacy as a special case of red herring.",
+      "url": "https://en.wikipedia.org/wiki/Trivial_objections",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia. Pooh-pooh. Read as raw wikitext. Source for the claim that pooh-pooh is a separate move, defined as dismissing an argument as unworthy of serious consideration.",
+      "url": "https://en.wikipedia.org/wiki/Pooh-pooh",
+      "type": "commentary"
+    },
+    {
+      "text": "Pirie, M. (2015). How to Win Every Argument: The Use and Abuse of Logic, second edition. Bloomsbury, London. The Trivial objections entry runs from page 199 to page 201. Every sentence quoted from Pirie was read in a full-text copy and confirmed on a second independent fetch. Neither logic chopping nor pooh-pooh appears in the book.",
+      "url": "https://dokumen.pub/how-to-win-every-argument-the-use-and-abuse-of-logicsecond-edition-9781472529121-9781474245296-9781472523969.html",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. V. (2005). Gensler's Historical Dictionary of Logic. Informal Logic, 25(2), 185-188. Read in full from the journal's own PDF. The sentence recording a logic chopping entry at page 124 of Gensler's dictionary is the only scholarly mention of the label located here.",
+      "doi": "10.22329/il.v25i2.1120",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/1120",
+      "type": "primary"
+    },
+    {
+      "text": "Merriam-Webster. Chop logic. Source for the definition \"to argue with sophistical reasoning and minute distinctions\" and for the 1533 first known use of the noun.",
+      "url": "https://www.merriam-webster.com/dictionary/chop%20logic",
+      "type": "commentary"
+    },
+    {
+      "text": "Walton, D. (1999). Dialectical Relevance in Persuasion Dialogue. Informal Logic, 19(2). Read in full from the journal's PDF, downloaded twice with matching checksums. Source for requirements R1 to R4 and for the test of material relevance by argument extrapolation.",
+      "doi": "10.22329/il.v19i2.2323",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2323",
+      "type": "primary"
+    },
+    {
+      "text": "van Eemeren, F. H., & Garssen, B. (2023). The Pragma-Dialectical Approach to the Fallacies Revisited. Argumentation, 37(2), 167-180. Read in full from the University of Amsterdam repository PDF, downloaded twice with matching checksums. Source for Table 1 and for the three quoted passages on telling sound moves from fallacious ones.",
+      "doi": "10.1007/s10503-023-09605-w",
+      "url": "https://pure.uva.nl/ws/files/147095527/s10503-023-09605-w.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Rogers, T., & Norton, M. I. (2011). The artful dodger: Answering the wrong question the right way. Journal of Experimental Psychology: Applied, 17(2), 139-147. Paywalled on this pass; the published abstract was read at Europe PMC and no figure here comes from the published article.",
+      "doi": "10.1037/a0023439",
+      "url": "https://doi.org/10.1037/a0023439",
+      "type": "primary"
+    },
+    {
+      "text": "Rogers, T., & Norton, M. I. The Artful Dodger: Answering the Wrong Question the Right Way. Harvard Business School working paper 09-048. Every figure attributed to the dodging studies above was read from this document and confirmed on a second download with a matching checksum.",
+      "url": "https://www.hbs.edu/ris/Publication%20Files/09-048_141265a8-0447-4f29-a563-162ea8183e44.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Daly, J. A., & Redlick, M. H. (2015). Handling Questions and Objections Affects Audience Judgments of Speakers. Communication Education, 65(2), 164-181. Named as existing; the publisher's page is closed and the abstract is suppressed at Semantic Scholar, so nothing in this entry is taken from it.",
+      "doi": "10.1080/03634523.2015.1081958",
+      "url": "https://doi.org/10.1080/03634523.2015.1081958",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
