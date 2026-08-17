@@ -1,0 +1,95 @@
+{
+  "no": 506,
+  "slug": "first-impression",
+  "name": "First impression",
+  "aliases": [
+    "Impression formation",
+    "Primacy effect in impression formation",
+    "First impressions from faces"
+  ],
+  "category": "social",
+  "statement": "A judgement of a stranger forms within about a tenth of a second, and observers agree with one another about it far more than it predicts anything about the person.",
+  "meaning": "Two claims travel under this name and the evidence behind them is not the same. The first is that the impression arrives almost at once and barely moves with a longer look. The second is that it tells you something true about the person. Consensus and accuracy are separate measurements, and a study can report one without touching the other. Most of the famous demonstrations report consensus, because their criterion is what other people said about the same face. Agreement between raters is cheap. It requires only that everybody read the same cue the same way, whether or not the cue carries information.",
+  "origin": {
+    "year": 1946,
+    "who": "Solomon E. Asch",
+    "where": "The Journal of Abnormal and Social Psychology",
+    "note": "The paper is \"Forming impressions of personality\". Participants heard short lists of traits and described the person they had pictured, and Asch argued that an impression is a structured whole in which each trait changes the reading of the others. His Study VI reversed the order of a list, running from intelligent to envious or from envious to intelligent, which is where the order effect comes from. Asch's own text was not obtained for this entry. Nauts and colleagues, who repeated the studies most relevant to how he is now cited, count 10 studies in the paper with a combined 834 participants, and Sullivan gives Study VI an n of 58. The face-based literature that the phrase usually means today begins sixty years later."
+  },
+  "evidence": "Willis and Todorov ran five experiments, one trait each, on 117 Princeton undergraduates, with 20 to 25 per experiment. A separate 128 participants rated the same faces on paper with no time limit, and those ratings were the criterion. The faces were 66 photographs of amateur actors, 33 male and 33 female, with neutral expressions, shown for 100, 500 or 1,000 milliseconds. Participants pressed yes or no, then rated their confidence. Each reported correlation is between the proportion of yes answers a face drew and that face's mean untimed rating, so it is computed across 66 faces and not across people. At 100 milliseconds the correlations were .73 for trustworthiness, .69 for attractiveness, .59 for likeability, and .52 for both competence and aggressiveness. At 1,000 milliseconds they were .74, .66, .63, .59 and .59, and none of the changes across exposure reached significance on Williams's test. A regression of the untimed judgements on the timed ones gained 2.2% of variance between the shortest and longest exposure, reaching 74.9%. Longer exposure did change the judgements themselves. From 100 to 500 milliseconds every trait was rated more harshly, with d above 0.85, and confidence rose for four of the five. Todorov, Pakrashi and Oosterhof repeated the design with a perceptual mask after each face and a criterion drawn from 129 raters. In their first experiment, 83 participants judging trustworthiness produced face-level correlations of .55 at 50 milliseconds, .81 at 100 and .89 at 500. Scored one rater at a time rather than pooled, the same correlations averaged .18, .36 and .43. Their second experiment used eight exposures on 43 participants: nothing distinguishable from zero at 17 milliseconds, .22 at 33, .72 at 100, and .79 at both 167 and 500.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The speed and the agreement hold at large samples. The accuracy comes out at r = .14 across faces, and the two findings are usually quoted as one.",
+    "detail": "On agreement, the largest test is the Psychological Science Accelerator's first project. Jones, DeBruine, Flake and 238 co-authors repeated Oosterhof and Todorov's methodology across 11 world regions, 41 countries and 11,570 participants. Under the original analysis, in which the dimensions are forced to be orthogonal, the valence-dominance structure of face judgements generalised across regions. Under an alternative extraction that allows the dimensions to correlate, the authors report much less generalisation. On the order effect, Sullivan preregistered replications of Asch's Study VI, reporting five experiments with a combined N of 2,882. Two failed to detect a primacy effect, one detected a weak one, and two detected clear ones. Where Asch's own materials were used, hearing the positive trait first was worth d = 0.20 on 406 participants, d = 0.39 on 613 and d = 0.36 on 1,630. In raw terms that is about 7% more positive descriptors endorsed, between one and two of the 18 on offer. Sullivan's reading is that an effect that size could not have been studied meaningfully at Asch's n of 58. On accuracy the picture reverses. Olivola and Todorov started from 1,005,406 guesses that visitors to a photograph-guessing website had made about 901 strangers, and analysed the 11 characteristics that could not be read off a photograph directly. For every one of them except holding a college degree, judges did worse than they would have done by ignoring the photographs and always naming the commonest category. Their online experiment put 1,005 participants in front of 60 politicians' photographs; at equal base rates the mean accuracy for picking the Democrat was 55%. Foo, Sutherland, Burton, Nakagawa and Rhodes then meta-analysed the trustworthiness literature and found accuracy at r = .14 across faces and r = .27 across perceivers, which their abstract calls unlikely to be of practical utility.",
+    "study": {
+      "cite": "Sullivan, J. (2019). The primacy effect in impression formation: Some replications and extensions. Social Psychological and Personality Science, 10(4), 432-439.",
+      "doi": "10.1177/1948550618771003",
+      "year": 2019,
+      "n": 2882
+    },
+    "replicated": {
+      "es": 0.36,
+      "esType": "d",
+      "weighting": "Experiment 5, the largest of the set, n = 1,630"
+    }
+  },
+  "limits": "The impression is not even stable across pictures of one face. Todorov and Porter had 800 people on Amazon Mechanical Turk rate five photographs each of 20 individuals from the FERET database, sampled without regard to expression. Across seven of the eight judgements, variation between images of the same person, at a mean of 0.57 with an SD of 0.35, exceeded variation between people, at 0.35 with an SD of 0.12, t(13) = 2.64, p < .02. Judgements of extraversion had a reliability at or above .88 within each image set and a mean correlation of .20 between sets, dropping as low as .03. Removing the smiling photographs closed the gap, and the two variances then did not differ, t(13) = 1.61, p = .13. Several figures on this page are narrower than they look. Willis and Todorov's correlations rest on 66 photographs from one set of amateur actors in grey T-shirts. Each is also a correlation across faces rather than a score any individual rater achieved. Todorov and colleagues' rater-level version of the same measure at 100 milliseconds averaged .36. This entry located no repetition of the Willis and Todorov design by a group unconnected to its authors; the search covered Crossref, OpenAlex, Semantic Scholar, Unpaywall and open-web search. The nearest thing is Todorov, Pakrashi and Oosterhof, who share an author and who contradict the original on one point. With masking, their correlations rose reliably from 50 to 100 milliseconds and again from 100 to 500. Willis and Todorov found no reliable change across their three exposures. Asch's paper stayed out of reach, so his design and sample sizes here are taken from two papers that repeated it. The full text of the Foo meta-analysis was also not obtained, and its two coefficients were read from its published abstract at Crossref and at the University of Western Australia repository, so they are quoted rather than inspected.",
+    "misreadings": "The tenth of a second is the most over-read number in this literature. Willis and Todorov's criterion was the judgement other people made of the same face with no clock running. A high correlation there means the fast judgement matched the slow one. The paper measures when an impression settles rather than whether it is right. Confidence behaves the same way: extra exposure raised it while leaving the judgement where it was. The entry is also confused with three neighbours. Thin-slicing asks whether a few seconds of somebody's behaviour predicts an outcome as well as several minutes do, which is a claim about exposure length. The halo effect is about one impression spreading sideways into ratings of unrelated qualities. Anchoring is about numbers. Asch is widely cited for a primacy of warmth. Nauts and colleagues repeated the relevant studies and found no evidence for it. The role of warmth was context-dependent and competence mattered at least as much, which is closer to what Asch himself argued. The last misreading is the practical one. Agreement among strangers looking at a face is high enough to look like knowledge, and the accuracy behind it is around r = .14.",
+  "sources": [
+    {
+      "text": "Asch, S. E. (1946). Forming impressions of personality. The Journal of Abnormal and Social Psychology, 41(3), 258-290. Not obtained for this entry; the record was confirmed at Crossref and the design is described here from Nauts et al. (2014) and Sullivan (2019).",
+      "doi": "10.1037/h0055756",
+      "url": "https://doi.org/10.1037/h0055756",
+      "type": "primary"
+    },
+    {
+      "text": "Willis, J., & Todorov, A. (2006). First impressions: Making up your mind after a 100-ms exposure to a face. Psychological Science, 17(7), 592-598. Read in full from a scan hosted by the Todorov lab at the University of Chicago; the source for every figure quoted from that experiment.",
+      "doi": "10.1111/j.1467-9280.2006.01750.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2006.01750.x",
+      "type": "primary"
+    },
+    {
+      "text": "Todorov, A., Pakrashi, M., & Oosterhof, N. N. (2009). Evaluating faces on trustworthiness after minimal time exposure. Social Cognition, 27(6), 813-833. Read in full.",
+      "doi": "10.1521/soco.2009.27.6.813",
+      "url": "https://doi.org/10.1521/soco.2009.27.6.813",
+      "type": "replication"
+    },
+    {
+      "text": "Jones, B. C., DeBruine, L. M., Flake, J. K., et al. (2021). To which world regions does the valence-dominance model of social perception apply? Nature Human Behaviour, 5, 159-169. Read from the accepted manuscript in the University of Strathclyde repository.",
+      "doi": "10.1038/s41562-020-01007-2",
+      "url": "https://doi.org/10.1038/s41562-020-01007-2",
+      "type": "replication"
+    },
+    {
+      "text": "Sullivan, J. (2019). The primacy effect in impression formation: Some replications and extensions. Social Psychological and Personality Science, 10(4), 432-439. Read from the author manuscript; its abstract matches the abstract Crossref holds for the published article word for word.",
+      "doi": "10.1177/1948550618771003",
+      "url": "https://doi.org/10.1177/1948550618771003",
+      "type": "replication"
+    },
+    {
+      "text": "Nauts, S., Langner, O., Huijsmans, I., Vonk, R., & Wigboldus, D. H. J. (2014). Forming impressions of personality: A replication and review of Asch's (1946) evidence for a primacy-of-warmth effect in impression formation. Social Psychology, 45(3), 153-163. Read in full from the Utrecht University repository.",
+      "doi": "10.1027/1864-9335/a000179",
+      "url": "https://doi.org/10.1027/1864-9335/a000179",
+      "type": "replication"
+    },
+    {
+      "text": "Olivola, C. Y., & Todorov, A. (2010). Fooled by first impressions? Reexamining the diagnostic value of appearance-based inferences. Journal of Experimental Social Psychology, 46(2), 315-324. Read in full.",
+      "doi": "10.1016/j.jesp.2009.12.002",
+      "url": "https://doi.org/10.1016/j.jesp.2009.12.002",
+      "type": "replication"
+    },
+    {
+      "text": "Todorov, A., & Porter, J. M. (2014). Misleading first impressions: Different for different facial images of the same person. Psychological Science, 25(7), 1404-1417. Read in full.",
+      "doi": "10.1177/0956797614532474",
+      "url": "https://doi.org/10.1177/0956797614532474",
+      "type": "commentary"
+    },
+    {
+      "text": "Foo, Y. Z., Sutherland, C. A. M., Burton, N. S., Nakagawa, S., & Rhodes, G. (2022). Accuracy in facial trustworthiness impressions: Kernel of truth or modern physiognomy? A meta-analysis. Personality and Social Psychology Bulletin, 48(11), 1580-1596. Closed access; the two coefficients quoted here come from the published abstract, read at Crossref and at the University of Western Australia repository.",
+      "doi": "10.1177/01461672211048110",
+      "url": "https://doi.org/10.1177/01461672211048110",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
