@@ -1,0 +1,65 @@
+{
+  "no": 443,
+  "slug": "forbid-allow-asymmetry",
+  "name": "Forbid/allow asymmetry",
+  "aliases": ["Allow-forbid asymmetry", "Forbid-allow asymmetry", "Allowed versus forbidden asymmetry", "Allowed/forbidden", "Rugg's question"],
+  "category": "belief",
+  "statement": "More people say something should not be allowed than say it should be forbidden, although the two answers deny the same thing.",
+  "meaning": "The finding is a split-ballot result. Two matched halves of a sample get two versions of one question, one built on the verb 'allow' and one on the verb 'forbid', and the answers that ought to line up do not. Refusing permission by saying 'no, not allow' draws more support than granting the same refusal by saying 'yes, forbid'. The claim is about what a wording returns from a group, not about a person contradicting themselves, because no respondent sees both versions. Whether the two questions really are equivalent is the whole argument in the literature: if 'forbid' is the harsher word, the asymmetry is a fact about vocabulary rather than an inconsistency in the public.",
+  "origin": {
+    "year": 1941,
+    "who": "Donald Rugg",
+    "where": "Public Opinion Quarterly",
+    "note": "The two-page report is \"Experiments in wording questions: II\", pages 91 to 92, written while Rugg was a research assistant on the Princeton Public Opinion Research Project. It asked one half of a sample whether the United States should allow public speeches against democracy and the other half whether it should forbid them. The original is behind a paywall at Oxford Academic and was not read for this entry; its record was verified at Crossref, and the figures below are quoted from three later papers that reproduce them."
+  },
+  "evidence": "Two renderings of Rugg's table circulate, and they agree once the undecided are accounted for. Reuband keeps them in: 21% would allow the speeches and 62% would not, while 46% would forbid them and 39% would not, with 17% and 15% respectively undecided or without opinion. Holleman prints the same experiment with the undecided dropped, giving 54% yes-forbid against 46% no, and 25% yes-allow against 75% no. The gap that made the case famous is the one between the two restrictive answers, 62% and 46% in Reuband's version, for what is logically the same refusal. Klein and colleagues describe Rugg the same way, at 62% and 46%. Rugg's sample size is not given by any of those three accounts. Holleman lists later demonstrations in the United States, Germany, Belgium and the Netherlands, and Reuband adds New Zealand, across telephone, face-to-face and self-administered surveys and across a range of topics.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Many Labs 1 put Rugg's two questions to 36 samples, and the proportion finding the gap in the same direction was .97, with none finding it reversed.",
+    "detail": "Klein and colleagues ran 13 effects at 36 samples totalling 6,344 participants, 27 in a laboratory and 9 online, 25 in the United States and 11 elsewhere. For this effect the analysis covers 6,292 responses. They computed the original at d = 0.65, 95% CI 0.57 to 0.73, from Rugg's percentages rather than from anything Rugg reported. The replication came out far larger: unweighted mean d = 1.87, 99% CI 1.58 to 2.16, with a median across samples of 1.88, and a weighted estimate over the pooled data of d = 1.96, 99% CI 1.88 to 2.04. The test statistic was chi-square = 3,088.71 on 1 degree of freedom, p < .001. The proportion of samples significant in the same direction was .97 and the proportion significant in the opposite direction was .00. Language is where the caution belongs. Materials were translated into the dominant language of each country of collection, seven languages in all, and three of the six translations from English were back-translated. This effect is one of four the paper names as carrying most of the heterogeneity, Q(35) = 180.40, p < .0001, I-squared = 0.756. Its condition-by-country interaction, United States against elsewhere, was significant, F = 70.37, p < 0.01, but the partial eta-squared was 0.01. The condition-by-location interaction, laboratory against online, was F = 0.55, p = 0.46, partial eta-squared 0.00. The paper does not say which way the country difference ran, and states that none of its moderation effect sizes exceeded a partial eta-squared of .022.",
+    "study": {
+      "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"many labs\" replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "year": 2014,
+      "sites": 36,
+      "n": 6292
+    },
+    "original": { "es": 0.65, "esType": "d", "ci": [0.57, 0.73], "ciLevel": 95 },
+    "replicated": { "es": 1.87, "esType": "d", "ci": [1.58, 2.16], "ciLevel": 99, "weighting": "unweighted" }
+  },
+  "limits": "The design compares two groups of people, so the evidence covers question wordings and not individual inconsistency. Reuband's test shows how much of the gap belongs to the questions being one-sided. He ran four versions on a quota sample of 620 people in Düsseldorf and its surrounding region in 2001. On Rugg's own topic, the share treating public speech against democracy as unacceptable fell from 47% in the 'allow' version to 12% in the 'forbid' version, a 35-point difference with Cramér's V = .39, larger than Rugg's own 16 points. When the alternatives were spelled out, as 'allow or not allow' against 'allow or forbid', the difference shrank to 11 points on the 'allow' response, Cramér's V = .12, and did not reach significance. His reading is that the lack of specified alternatives is a major reason for the effect, and the choice of verb has less impact than the literature assumes. Rugg's sample size and sampling method could not be obtained: the original is paywalled, and Klein and colleagues, Holleman and Reuband all reproduce his percentages without them.",
+  "misreadings": "The result is usually told as an inconsistency in the public, and the main accounts read it as a fact about the words instead. Schuman and Presser's connotations hypothesis, as Holleman reports it, holds that 'forbid' sounds harsher while 'allow' can seem to encourage the behaviour, so the two questions are not equivalent after all. Hippler and Schwarz's abstract puts the asymmetry on indifferent respondents, who endorse neither forbidding nor allowing and so land on the negative form of whichever question they get. Holleman's ten experiments qualify both: extreme connotations explain only part of it, and the answer options to allow questions are less well defined, which makes those questions less homogeneous measures of the underlying attitude. It is also not a yea-saying effect. Reuband points out that in Rugg's data and in his own it is not the one-sided category named in the question that draws the higher share. Klein and colleagues call the effect 'allowed versus forbidden message framing' in their discussion, which invites folding it into the gain-loss framing literature; the two share a family resemblance and not a paradigm, since this one turns on the verb in a permission question rather than on describing an outcome as a gain or a loss. Reuband gives Rugg's first name as Daniel, where Oxford Academic and Crossref give Donald.",
+  "sources": [
+    {
+      "text": "Rugg, D. (1941). Experiments in wording questions: II. Public Opinion Quarterly, 5(1), 91-92. Not obtained; the article is paywalled at Oxford Academic and its record was verified at Crossref. Every percentage attributed to it here is quoted from Klein et al. (2014), Holleman (2006) or Reuband (2003).",
+      "doi": "10.1086/265467",
+      "url": "https://doi.org/10.1086/265467",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., et al. (2014). Investigating variation in replicability: A \"many labs\" replication project. Social Psychology, 45(3), 142-152. Read as a PDF; every figure above was re-extracted from the text of Tables 2 and 3 rather than from any summary of them.",
+      "doi": "10.1027/1864-9335/a000178",
+      "url": "https://stanford.edu/~knutson/jdm/klein14.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Holleman, B. C. (2006). The meanings of 'yes' and 'no'. An explanation for the forbid/allow asymmetry. Quality & Quantity, 40(1), 1-38. Read as a PDF from the Utrecht University repository; the source for Rugg's table as printed without the undecided, for the connotations hypothesis, and for the list of later demonstrations.",
+      "doi": "10.1007/s11135-005-4479-6",
+      "url": "https://research-portal.uu.nl/ws/files/62915037/Holleman2006_Article_TheMeaningsOfYesAndNoAnExplana.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Reuband, K.-H. (2003). The allow-forbid asymmetry in question wording: a new look at an old problem. Bulletin de Méthodologie Sociologique, 80, 25-35. Read in full at OpenEdition; the source for Rugg's percentages including the undecided and for the Düsseldorf experiment. Its Table 1 is marked as under preparation and is absent from the online text, so the figures above are the ones given in its prose.",
+      "doi": "10.1177/075910630308000104",
+      "url": "https://journals.openedition.org/bms/262?lang=en",
+      "type": "replication"
+    },
+    {
+      "text": "Hippler, H.-J., & Schwarz, N. (1986). Not forbidding isn't allowing: the cognitive basis of the forbid-allow asymmetry. Public Opinion Quarterly, 50(1), 87-96. Only the published abstract was read. Their peep-show rating experiment is described above from Holleman (2006).",
+      "doi": "10.1086/268961",
+      "url": "https://doi.org/10.1086/268961",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
