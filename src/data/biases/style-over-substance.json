@@ -1,0 +1,125 @@
+{
+  "no": 574,
+  "slug": "style-over-substance",
+  "name": "Style over substance",
+  "aliases": [
+    "Dr Fox effect",
+    "Doctor Fox effect",
+    "Educational seduction",
+    "Lecture fluency effect"
+  ],
+  "category": "social",
+  "statement": "Confident delivery raises how a talk and its speaker are rated, and the ratings move even when the content is empty.",
+  "meaning": "The claim separates two things a judgement of quality could be tracking: what was said, and how it was said. If ratings follow delivery when content is held constant, they are measuring style. The strong version goes further and says the audience mistakes style for learning, so a well delivered nothing leaves people believing they have been taught something. Those two claims need different evidence, and the second one needs somebody to ask the audience about learning. The literature that made the idea famous asked about the speaker instead.",
+  "origin": {
+    "year": 1973,
+    "who": "Donald H. Naftulin, John E. Ware Jr and Frank A. Donnelly",
+    "where": "Journal of Medical Education",
+    "note": "The paper is \"The Doctor Fox Lecture: A Paradigm of Educational Seduction\". A professional actor was introduced as Dr Myron L. Fox of Albert Einstein College of Medicine and gave a lecture on mathematical game theory and its application to physician education, coached to use double-talk, neologisms, non sequiturs and contradicting statements. The phrase \"style over substance\" is not the paper's; it names a family of findings rather than a single experiment."
+  },
+  "evidence": "The 1973 article itself was paywalled on this pass, and its design is described here from two documents that were read. Robert Kaplan's 1974 letter to the same journal records 55 psychiatrists, psychologists, medical educators and educational administrators, an eight-item questionnaire of which seven were yes or no, and chi-square tests comparing favourable with unfavourable answers for each of three audiences. Kaplan notes there was no control group, that several respondents said yes when asked whether they had read Fox's publications, and that no item on the questionnaire asked about learning. Peer and Babad give the same count of 55 respondents and list the questions, which cover whether the speaker dwelt on the obvious, seemed interested, used enough examples, was well organised, stimulated thinking and was interesting. The 39-minute recording holds about 19 minutes of lecture and 20 minutes of discussion. Ware and Williams tested the idea properly two years later. Their abstract reports 207 students who each saw one of six lectures varying in substantive teaching points covered and in seductiveness, then rated the presentation and took a 26-item achievement test. Ratings reflected differences in content coverage only under low seduction, and were not sensitive to content when the lecture was highly seductive. Achievement was higher after high-seduction lectures and after high-content lectures. The modern version uses the same speaker twice. Carpenter, Wilford, Kornell and Mullaney filmed one instructor explaining why calico cats are usually female, once standing upright with eye contact and no notes, once slumped, looking away and speaking haltingly. Forty-two undergraduates saw one version. The fluent instructor was rated more organised, knowledgeable, prepared and effective, with ts above 8.77 and ds above 2.70, and viewers rated their own learning at 3.48 against 1.76, d = 1.78. Recall did not differ, t below 0.50, and overconfidence was 0.22 against 0.03, d = 0.93. In their second experiment, 70 students given the script to study scored 0.44 against 0.40, t(68) = 0.81, p = .42, and spent 1.39 against 1.43 minutes reading it.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The rating effect survived an almost exact repeat 40 years on, and the illusion of learning it was famous for did not.",
+    "detail": "Peer and Babad re-ran the 1973 study with the original video, the original questionnaire and the original chi-square analysis, varying one feature at a time. In Study 1, 247 Israeli undergraduates were split across seven conditions. The condition matching the original gave 59% favourable answers against 41%, chi-square(1) = 5.57, p < .05. Reversing every question to catch acquiescence gave 60.6%, and warning respondents about acquiescence gave 59.3%. Moving to a six-point scale gave 69.6%, the reversed six-point version 51.7%, the warned six-point version 73.7%, and a minus-three to plus-three scale 61.26%. None differed from the original condition. In Study 2, 80 students saw the lecture with or without the 25 seconds introducing Fox as an authority, and mean favourability was 3.74 against 3.63, t(78) = 0.5, not significant. In Study 3, 26 graduate students who had studied game theory rated him at 3.82 against 48 uninformed students at 4.02, t(72) = 0.88, not significant. The seduction claim is where it breaks. Peer and Babad added one question the 1973 questionnaire never asked, about whether the respondent had learned. In the basic condition 35% said they had against 65% who said they had not, chi-square(1) = 4.26, p < .05, while the same people were giving the speaker 59% favourable answers. The six-point replication condition gave 37% against 63%, and the students who knew game theory gave 27% against 73%. Their conclusion is that the audience enjoyed the lecture and rated the speaker well without being seduced into thinking they had learned. Carpenter's laboratory finds the opposite on that point using lectures with real content, where fluency inflates judgements of learning while leaving test scores alone, across three experiments in 2016 with immediate, ten-minute and one-day tests and two more in 2020. The wider question, whether teaching ratings track learning at all, has reversed. Uttl, White and Wong Gonzalez collected 51 articles holding 97 multisection studies, in which sections of one course differ only in the teacher. Random effects gave r = .23, 95% CI .16 to .31 for overall instructor ratings and r = .17, 95% CI .11 to .23 averaged across items. Correcting for the strong small-study effects with limit meta-analysis brought that to r = .12, 95% CI .03 to .21. Among the 34 studies that adjusted for prior ability the estimate was r = .16, 95% CI minus .02 to .32, and near zero after correction. Their target was Cohen's 1981 figure of .43, which they and their own later paper quote as the basis of the belief that ratings measure teaching. Uttl, Cnudde and White then sorted the same studies by who wrote them: 15 with an author tied to a company selling rating instruments gave r = .58, 95% CI .41 to .71, against .18, 95% CI .10 to .25 for the other 82, and studies published before 1981 gave .31, 95% CI .22 to .39 against .06, 95% CI minus .07 to .19 afterwards. The laboratory version of the fluency claim has fared worse still. Many Labs 2 ran Alter and colleagues' hard-to-read font effect on analytic reasoning in 2,580 in-laboratory English-speaking participants and got d = -0.03, 95% CI -0.11 to 0.05, against an original d = 0.64 from 41 people whose own interval ran from -0.004 to 1.27. Bahnik and Vranka report that the association between hard-to-pronounce names and perceived risk was not replicable with newly constructed stimuli, and returned only when pronounceability was confounded with word length.",
+    "study": {
+      "cite": "Peer, E., & Babad, E. (2014). The Doctor Fox research (1973) rerevisited: \"Educational seduction\" ruled out. Journal of Educational Psychology, 106(1), 36-45.",
+      "doi": "10.1037/a0033827",
+      "year": 2014,
+      "n": 247
+    }
+  },
+  "limits": "The 1973 paper's own numbers are not quoted here because the article could not be opened. It carries no abstract in PubMed, and searches at Crossref, PubMed, Unpaywall, Semantic Scholar, the University of Massachusetts eScholarship record and the open web returned the record and the paywall but no text. What the audience answered is therefore given as Kaplan and as Peer and Babad describe it. Two papers usually cited as the narrowing of the claim were also not obtained: Abrami, Leventhal and Perry's 1982 meta-analysis in Review of Educational Research, and Marsh and Ware's 1982 reanalysis with an incentive manipulation. Publisher pages returned 403 and Semantic Scholar's abstract field is suppressed for both, so they are named below with no figure attached. Perry, Abrami and Leventhal's 1979 experiment resolves at Crossref and was not read. Peer and Babad's samples are Israeli undergraduates watching a subtitled 18-minute cut of the film, not the professional audiences of 1973, and their favourability measure is a count of favourable answers rather than a standardised effect size. Uttl and colleagues' conclusion is about multisection studies of course grades, which is one way of measuring learning. Their conflict-of-interest paper is an analysis of who published what, not an experiment.",
+  "misreadings": "The Dr Fox story is nearly always told as an audience seduced into believing it had learned. Nobody asked them. Kaplan pointed out in 1974 that no item on the questionnaire mentioned learning, and when Peer and Babad added the question the majority said they had not learned, in every sample. The audience is also usually described as students, where the 1973 groups were psychiatrists, psychologists, social work educators and educational administrators at continuing-education meetings. A third reading treats the study as proof that teaching evaluations are worthless. Ware and Williams found ratings did track content coverage when delivery was low key, and the effect of style on ratings is not evidence about the effect of style on learning. The two come apart in Carpenter's data, where ratings and confidence move by more than a standard deviation and test scores do not move at all. This entry is about presentation used as a proxy for quality; the spread of one favourable impression across unrelated traits is the halo effect, the brain-picture version is neurorealism, and the study-technique version is the illusion of learning.",
+  "sources": [
+    {
+      "text": "Naftulin, D. H., Ware, J. E., Jr., & Donnelly, F. A. (1973). The Doctor Fox Lecture: A paradigm of educational seduction. Journal of Medical Education, 48(7), 630-635. Paywalled at the publisher and carrying no abstract in PubMed; no figure in this entry is taken from it directly.",
+      "doi": "10.1097/00001888-197307000-00003",
+      "url": "https://doi.org/10.1097/00001888-197307000-00003",
+      "type": "primary"
+    },
+    {
+      "text": "Kaplan, R. M. (1974). Reflections on the Doctor Fox paradigm. Letter to the editor, Journal of Medical Education, 49(3), 310-313. Read in full from the author's reprint; the source for the 55 participants, the eight-item questionnaire and the absence of a control group.",
+      "url": "http://rmkaplan.bol.ucla.edu/Robert_M._Kaplan/1974_Publications_files/0033.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Ware, J. E., Jr., & Williams, R. G. (1975). The Dr. Fox effect: A study of lecturer effectiveness and ratings of instruction. Journal of Medical Education, 50(2), 149-156. Read as the published abstract at PubMed, PMID 1120118; the 207 students and the 26-item test come from there.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1120118/",
+      "type": "primary"
+    },
+    {
+      "text": "Peer, E., & Babad, E. (2014). The Doctor Fox research (1973) rerevisited: \"Educational seduction\" ruled out. Journal of Educational Psychology, 106(1), 36-45. Read in full; every figure attributed to it here was read from the article text.",
+      "doi": "10.1037/a0033827",
+      "url": "https://doi.org/10.1037/a0033827",
+      "type": "replication"
+    },
+    {
+      "text": "Carpenter, S. K., Wilford, M. M., Kornell, N., & Mullaney, K. M. (2013). Appearances can be deceiving: Instructor fluency increases perceptions of learning without increasing actual learning. Psychonomic Bulletin & Review, 20(6), 1350-1356. Read in full.",
+      "doi": "10.3758/s13423-013-0442-z",
+      "url": "https://doi.org/10.3758/s13423-013-0442-z",
+      "type": "primary"
+    },
+    {
+      "text": "Carpenter, S. K., Mickes, L., Rahman, S., & Fernandez, C. (2016). The effect of instructor fluency on students' perceptions of instructors, confidence in learning, and actual learning. Journal of Experimental Psychology: Applied, 22(2), 161-172. Described from its published abstract.",
+      "doi": "10.1037/xap0000077",
+      "url": "https://doi.org/10.1037/xap0000077",
+      "type": "replication"
+    },
+    {
+      "text": "Carpenter, S. K., Northern, P. E., Tauber, S., & Toftness, A. R. (2020). Effects of lecture fluency and instructor experience on students' judgments of learning, test scores, and evaluations of instructors. Journal of Experimental Psychology: Applied, 26(1), 26-39. Described from its published abstract.",
+      "doi": "10.1037/xap0000234",
+      "url": "https://doi.org/10.1037/xap0000234",
+      "type": "replication"
+    },
+    {
+      "text": "Uttl, B., White, C. A., & Wong Gonzalez, D. (2017). Meta-analysis of faculty's teaching effectiveness: Student evaluation of teaching ratings and student learning are not related. Studies in Educational Evaluation, 54, 22-42. Read in full from a hosted copy of the accepted article.",
+      "doi": "10.1016/j.stueduc.2016.08.007",
+      "url": "https://doi.org/10.1016/j.stueduc.2016.08.007",
+      "type": "replication"
+    },
+    {
+      "text": "Uttl, B., Cnudde, K., & White, C. A. (2019). Conflict of interest explains the size of student evaluation of teaching and learning correlations in multisection studies: A meta-analysis. PeerJ, 7, e7225. Open access; read from the PubMed Central full text.",
+      "doi": "10.7717/peerj.7225",
+      "url": "https://doi.org/10.7717/peerj.7225",
+      "type": "replication"
+    },
+    {
+      "text": "Cohen, P. A. (1981). Student ratings of instruction and student achievement: A meta-analysis of multisection validity studies. Review of Educational Research, 51(3), 281-309. Paywalled; the .43 figure is quoted as Uttl and colleagues report it, not read from Cohen.",
+      "doi": "10.3102/00346543051003281",
+      "url": "https://doi.org/10.3102/00346543051003281",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Read in full from the LSE repository copy; the disfluency figures were read from its section on Alter and colleagues.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    },
+    {
+      "text": "Bahnik, S., & Vranka, M. A. (2017). If it's difficult to pronounce, it might not be risky: The effect of fluency on judgment of risk does not generalize to new stimuli. Psychological Science, 28(4), 427-436. Described from its published abstract at PubMed, PMID 28406381.",
+      "doi": "10.1177/0956797616685770",
+      "url": "https://doi.org/10.1177/0956797616685770",
+      "type": "replication"
+    },
+    {
+      "text": "Abrami, P. C., Leventhal, L., & Perry, R. P. (1982). Educational seduction. Review of Educational Research, 52(3), 446-464. Named as existing; the publisher page returned 403 and the abstract is suppressed at Semantic Scholar, so no figure from it appears above.",
+      "doi": "10.3102/00346543052003446",
+      "url": "https://doi.org/10.3102/00346543052003446",
+      "type": "replication"
+    },
+    {
+      "text": "Marsh, H. W., & Ware, J. E. (1982). Effects of expressiveness, content coverage, and incentive on multidimensional student rating scales: New interpretations of the Dr. Fox effect. Journal of Educational Psychology, 74(1), 126-134. Not obtained on this pass; named rather than quoted.",
+      "doi": "10.1037/0022-0663.74.1.126",
+      "url": "https://doi.org/10.1037/0022-0663.74.1.126",
+      "type": "replication"
+    },
+    {
+      "text": "Perry, R. P., Abrami, P. C., & Leventhal, L. (1979). Educational seduction: The effect of instructor expressiveness and lecture content on student ratings and achievement. Journal of Educational Psychology, 71(1), 107-116. Resolves at Crossref; not read for this entry.",
+      "doi": "10.1037/0022-0663.71.1.107",
+      "url": "https://doi.org/10.1037/0022-0663.71.1.107",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
