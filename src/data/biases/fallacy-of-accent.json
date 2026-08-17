@@ -1,0 +1,109 @@
+{
+  "no": 567,
+  "slug": "fallacy-of-accent",
+  "name": "Fallacy of accent",
+  "aliases": ["Accentus", "Misleading accent", "Fallacy of prosody", "Fallacy of emphasis"],
+  "category": "belief",
+  "statement": "The fallacy of accent is an argument whose force depends on where the stress falls, so that the same words carry one meaning read one way and another read differently.",
+  "meaning": "Two claims travel under one name and they are about different things. Aristotle's version is about pronunciation. Greek pitch could distinguish two words spelled the same, and a reader of an unmarked text had to choose which one was meant. The modern textbook version is about emphasis: which word a speaker leans on, or which part of a printed page is set large and which small. Both versions need the same condition met. The argument has to turn on the choice. A sentence that can be read with a different stress is not yet a fallacy, and the charge lands only when a conclusion is drawn across the change, in the way the charge of equivocation needs an inference drawn across a change of sense.",
+  "origin": {
+    "year": 1961,
+    "who": "Irving M. Copi",
+    "where": "Introduction to Logic",
+    "note": "The year of the textbook classification that fixed the modern list, not of the idea, which is Aristotle's. Copi's book was not obtained for this entry. Hans Hansen's Stanford Encyclopedia article is the source used here for what it contains: Copi's 1961 edition explains eighteen informal fallacies, and its second division, fallacies of ambiguity, holds equivocation, amphiboly, accent, composition and division. Hansen adds that eleven of Copi's eighteen trace back to the Aristotelian tradition. Aristotle's own text is in Sophistical Refutations, chapters 4, 7, 21 and 23, and it is quoted below from a translation rather than from the Greek."
+  },
+  "evidence": "Aristotle lists accent fifth of the six ways of producing a false appearance of argument that depend on language, after ambiguity, amphiboly, combination and division of words, and before form of expression. The W. A. Pickard-Cambridge translation is explicit about where it lives: an argument depending on accent 'it is not easy to construct in unwritten discussion; in written discussions and in poetry it is easier'. His two examples are Homeric readings. Critics called the phrase to men ou kataputhetai ombro unnatural, and defenders solved it 'by a change of accent, pronouncing the ou with an acuter accent'. In the passage on Agamemnon's dream, defenders held that Zeus did not himself say 'We grant him the fulfilment of his prayer', but bade the dream grant it. The Poetics gives both solutions to Hippias of Thasos and files them under accent or breathing. Chapter 7 says why the trick works: 'the lowering or raising of the voice upon a phrase is thought not to alter its meaning'. Chapter 21 then all but withdraws the fallacy. 'Accentuation gives rise to no fallacious arguments, either as written or as spoken, except perhaps some few that might be made up', and the single example is a pun on ou katalueis, the negation of a verb against a word for a house. Chapter 23 prescribes the remedy mechanically: if the argument depends on an acute accent, the solution is a grave accent, and the reverse. Hansen's Stanford article states that there were no accents in written Greek in Aristotle's day, which is why the fallacy would be more likely in written work. The modern version drops the pitch and keeps the emphasis. The Internet Encyclopedia of Philosophy defines the accent fallacy as ambiguity arising from the different ways a word or syllable is stressed, and its example is a member of Congress who says she favours a missile defence system that effectively defends America. Stress the verb and she is for the President's system; stress 'effectively' and she is against it; leave both unstressed and she can claim either later. Matthew Knachel's open logic textbook makes the same move and flags it in as many words, saying his usage departs from Aristotle's, and his examples are typographic: a shop window reading 70% OFF with a small 'up to' in front of it, disclaimers in fine print, an objection buried in an endnote. The premise underneath all of this has been measured, in speech and in print. Weber, Braun and Crocker tracked the eyes of 24 German speakers following spoken instructions to click on pictures. When the colour adjective carried a contrastive accent, fixations between 300 and 800 ms after adjective onset ran at 55% to the referent that belonged to a contrast pair against 16% to the one that did not, F1[1, 23] = 69.17, p < .001. With no accent on the adjective, the same comparison between 300 and 550 ms gave 36% against 19%, F1[1, 23] = 4.89, p < .05, and did not reach the threshold by items, F2[1, 31] = 3.40, p = .07. Their second experiment, on another 24 listeners, changed the accent on the first mention and the unaccented preference disappeared. Ito and Speer ran three eye-tracking experiments of 36 speakers each at Ohio State, with participants decorating trees to instructions such as 'Next, hang the blue ball', and report an advantage for felicitous over infelicitous L+H* accents and a garden-path effect when the accent pointed at a contrast the discourse did not contain. Fraundorf, Watson and Benjamin tested memory rather than gaze. Fourteen, fifteen and thirty listeners heard short discourses that named two alternatives, and words spoken with the contrastive L+H* accent were remembered more accurately than words spoken with H* in all three experiments, with the third showing the difference a day later. Cummins and Rohde moved the question to inference. Sixty monolingual participants, out of 77 recruited on Mechanical Turk, rated one-sentence recordings. Focus on a weak scalar raised endorsement of the stronger statement from 4.74 to 5.05 on a seven-point scale, β = 0.26, t = 2.707, p < 0.05 by model comparison. Focus inside a presupposition under negation lowered endorsement of the presupposition from 6.15 to 5.97, β = 0.20, t = 2.30. In a third experiment, 50 participants after exclusions read an ambiguous pronoun to the subject 41% of the time under focus against 35% without it, β = −0.47, p < 0.05 on the Wald statistic.",
+  "replication": {
+    "state": "replicated",
+    "headline": "The premise holds across four labs, two languages and both modalities: moving the emphasis changes which referent listeners look at, which reading they draw, and what they later remember. Nobody located here has tested whether an argument trading on emphasis persuades anyone.",
+    "detail": "The cleanest repeat is a change of modality. Fraundorf, Benjamin and Watson took the spoken materials of their 2010 study and set them in print, with the critical word in capitals for half the participants and in italics for the other half. In Experiment 1, on 24 readers at Illinois, emphasis raised the odds of rejecting a false statement about the salient alternative by 3.70 times against the baseline rejection rate, 95% CI 1.51 to 9.08, z = 2.85, p < .01, and did not reliably help rejection of an item the discourse never mentioned, z = 1.17, p = .24. Experiment 2, on 48 readers with rewritten discourses and word-by-word presentation, gave 1.63 times, 95% CI 1.01 to 2.64, z = 1.97, p < .05, with the unmentioned comparison at z = −0.53, p = .60 and numerically in the other direction. Experiment 3, on another 48 readers, gave 1.85 times, 95% CI 1.15 to 2.97, z = 2.53, p < .05, and no reliable benefit for an alternative the discourse had made implausible, z = 1.04, p = .30. That is the signature of the spoken result reproduced in print: emphasis makes a reader encode the alternative that was passed over, and not everything else in the category. The paper is the source of the odds ratio in the structured field above; the 2010 study reports its accent effect as log-odds coefficients rather than as an odds ratio, so no comparable original figure is printed here. Its own comparable number is of a different kind: an H* word was remembered 1.52 times better, 95% CI 1.09 to 2.10, when nothing else in the story carried an L+H*, 84% against 77% correct. The reference-resolution effect also holds in two languages and two labs, at 24 participants per experiment in German and 36 per experiment in American English. A boundary has appeared where the listener is not a native speaker. Guan, Meng, Morett and Fraundorf tested 168 Chinese learners of English and found the accent helped them reject items never mentioned, rather than the salient alternative, which is the reverse of the native pattern; they report the same result in earlier samples of Korean learners, so the boundary itself replicates. What has no test located here is the fallacy proper. Searches through Crossref, Europe PMC and general web search for an experiment putting an emphasis-dependent argument to participants returned nothing. The nearest measured thing is whether emphasis shifts the reading, and it does.",
+    "study": {
+      "cite": "Fraundorf, S. H., Benjamin, A. S., & Watson, D. G. (2013). What happened (and what did not): Discourse constraints on encoding of plausible alternatives. Journal of Memory and Language, 69(3), 196-227.",
+      "doi": "10.1016/j.jml.2013.06.003",
+      "year": 2013
+    },
+    "replicated": { "es": 3.7, "esType": "OR", "ci": [1.51, 9.08], "ciLevel": 95 }
+  },
+  "limits": "The fallacy and the research answer different questions. Prosody experiments show that stress changes the reading a hearer takes; none of them shows that a speaker who moves the stress wins an argument by it. The samples behind the reading result are small by current standards: 14, 15 and 30 listeners in the 2010 memory experiments, 24 in each of the German experiments, 36 in each of the American ones, 24 and 48 and 48 in the print experiments. The written side is thinner than the spoken side and less consistent. Christopher Norton's Leeds doctoral thesis, which is not peer reviewed, ran two eye-tracking experiments on italics, a pilot of 10 readers and a main study of 28. Italics on a target word cut the chance of the word being skipped, estimate −0.428, SE 0.1189, z = −3.597, p < 0.001, and raised total dwell time on it, estimate −0.0036, SE 0.0013, t = −2.85, p < 0.01, but the interaction with contrastive focus did not reach the threshold, estimate 0.152, z = 1.282, p = 0.2. He reads the result as attention without a demonstrated processing benefit for marking focus. Langner, Klinke, Fadl and Christ have a 2019 chapter on capitalisation and advertising headline readability, which Springer would not open here, so nothing from it appears above. Perdomo and Kaan's visual-world study of native and second-language listeners is closed at Sage and was not read, and no claim on this page rests on it. Copi's Introduction to Logic was not obtained, and what it contains is quoted at one remove from Hansen. The historical claim is where the sources split. Hansen writes that there were no accents in written Greek in Aristotle's day; Knachel writes that ancient Greek in written form used diacritical marks along with the alphabet. A search of Crossref for a scholarly account of when the accent marks were introduced returned nothing usable, and the Society for Classical Studies page on the question and two open textbooks all refused the request here, so the disagreement is recorded rather than settled. Aristotle was read in the Pickard-Cambridge translation at the Internet Classics Archive, so the words quoted are the translator's, and the Poetics passage on Hippias of Thasos comes from the same archive.",
+  "misreadings": "The commonest error is to read Aristotle's accent as the modern fallacy of emphasis. His examples are about which of two pronunciations a written line takes, in a script that did not record the answer, and his remedy in chapter 23 is to swap an acute accent for a grave one. Chapter 21 goes further than the textbooks admit, saying accentuation gives rise to no fallacious arguments as written or as spoken, except perhaps a few that might be made up. The tradition kept the name and changed the subject, which Knachel's textbook says plainly and most treatments do not. The second error runs the other way, treating the prosody experiments as a vindication of the fallacy. They establish the premise, that where the emphasis falls changes what a hearer or a reader takes from a sentence, and they say nothing about whether a listener who notices the shift is thereby argued into anything. The third is to confuse this entry with two neighbours in this corpus. The accentuation effect, no. 304, is Tajfel's finding about categories exaggerating differences, and has nothing to do with stress. Quoting out of context, no. 497, is about the words that were cut rather than the words that were leaned on; its page does not mention accent, and no reason for the omission is stated there. Equivocation, no. 447, is the nearest relative, and the difference is where the ambiguity sits: in equivocation one word carries two senses, in accent one string carries two readings depending on how it is said or set. Last, the fine-print examples that fill modern treatments are a claim about de-emphasis rather than emphasis, and the measured work located here manipulates what is made prominent, not what is hidden."
+  ,
+  "sources": [
+    {
+      "text": "Aristotle. On Sophistical Refutations, translated by W. A. Pickard-Cambridge. The Internet Classics Archive. Read twice as the archive's plain-text file, with identical checksums. Source for the six fallacies dependent on language, for the difficulty of building an accent argument in unwritten discussion, for the two Homeric examples, for the raising and lowering of the voice in chapter 7, for chapter 21 on accentuation giving rise to no fallacious arguments, and for the acute-against-grave remedy in chapter 23.",
+      "url": "https://classics.mit.edu/Aristotle/sophist_refut.mb.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Aristotle. Poetics, translated by S. H. Butcher. The Internet Classics Archive. Read for the passage attributing the didomen and the ou kataputhetai solutions to Hippias of Thasos, under accent or breathing.",
+      "url": "https://classics.mit.edu/Aristotle/poetics.mb.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy. Read twice as raw HTML. Source for Copi's 1961 Introduction to Logic and its division of informal fallacies, for accent sitting among the fallacies of ambiguity, and for the statement that there were no accents in written Greek in Aristotle's day.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "secondary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read as raw HTML. Source for the modern definition of the accent fallacy as ambiguity from stress, for the alternative names Accentus, Misleading Accent and Prosody, and for the missile-defence example. Its entry does not mention Aristotle.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "secondary"
+    },
+    {
+      "text": "Knachel, M. Fundamental Methods of Logic, section 2.5, Fallacies of Linguistic Emphasis. Humanities LibreTexts. Read twice as raw HTML. Source for a modern textbook stating that its usage departs from Aristotle's, for the claim that written ancient Greek used diacritical marks, and for the typographic examples.",
+      "url": "https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Fundamental_Methods_of_Logic_(Knachel)/02%3A_Informal_Logical_Fallacies/2.05%3A_Fallacies_of_Lingustic_Emphasis",
+      "type": "secondary"
+    },
+    {
+      "text": "Weber, A., Braun, B., & Crocker, M. W. (2006). Finding referents in time: Eye-tracking evidence for the role of contrastive accents. Language and Speech, 49(3), 367-392. Figures read from the authors' PDF and confirmed on a second download.",
+      "doi": "10.1177/00238309060490030301",
+      "url": "https://www.coli.uni-saarland.de/~crocker/documents/weber-lang-speech.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Ito, K., & Speer, S. R. (2008). Anticipatory effects of intonation: Eye movements during instructed visual search. Journal of Memory and Language, 58(2), 541-573. Read as PDF; the participant counts and the described pattern are taken from the method sections and the abstract. The results tables did not extract cleanly, so no figure from them appears above.",
+      "doi": "10.1016/j.jml.2007.06.013",
+      "url": "https://thegricean.github.io/xprag-ling247/readings/ito2008.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fraundorf, S. H., Watson, D. G., & Benjamin, A. S. (2010). Recognition memory reveals just how CONTRASTIVE contrastive accenting really is. Journal of Memory and Language, 63(3), 367-386. Read as PDF twice. Source for the three sample sizes and for the 1.52 odds ratio with its interval.",
+      "doi": "10.1016/j.jml.2010.06.004",
+      "url": "https://labs.psychology.illinois.edu/~asbenjam/pubs/FraundorfWatsonBenjamin_2010.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Fraundorf, S. H., Benjamin, A. S., & Watson, D. G. (2013). What happened (and what did not): Discourse constraints on encoding of plausible alternatives. Journal of Memory and Language, 69(3), 196-227. Every figure quoted was read from the JATS XML of the author manuscript at PubMed Central, PMC3763865, downloaded twice through the NCBI utilities. The publisher's copy and two mirrors refused the request.",
+      "doi": "10.1016/j.jml.2013.06.003",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3763865&rettype=xml",
+      "type": "replication"
+    },
+    {
+      "text": "Cummins, C., & Rohde, H. (2015). Evoking context with contrastive stress: Effects on pragmatic enrichment. Frontiers in Psychology, 6, 1779. Read in full at PubMed Central, PMC4659916, twice. Source for the three experiments' samples, means and model estimates.",
+      "doi": "10.3389/fpsyg.2015.01779",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4659916/",
+      "type": "primary"
+    },
+    {
+      "text": "Guan, C. Q., Meng, W., Morett, L. M., & Fraundorf, S. H. (2022). Mapping pitch accents to memory representations in spoken discourse among Chinese learners of English: Effects of L2 proficiency and working memory. Frontiers in Psychology, 13, 870152. Read in full at the publisher. Source for the 168 learners, for the reversed pattern, and for the authors' statement that it repeats results found in Korean learners.",
+      "doi": "10.3389/fpsyg.2022.870152",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.870152/full",
+      "type": "replication"
+    },
+    {
+      "text": "Norton, C. W. (2018). Typographic emphasis and contrastive focus: An eye tracking study. PhD thesis, University of Leeds. Read as the repository PDF twice. Not peer reviewed. Source for the two experiments' samples and for the italics results quoted above.",
+      "url": "https://etheses.whiterose.ac.uk/22135/1/Norton_CW_Languages_Cultures_and_Societies_PhD_2018.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Langner, T., Klinke, T., Fadl, K., & Christ, N. (2019). The impact of capitalization on advertising headline readability. In Advances in Advertising Research X, 81-91. Named here as existing and located through Crossref. Springer refused the chapter, and nothing on this page is taken from it.",
+      "doi": "10.1007/978-3-658-24878-9_7",
+      "type": "background"
+    },
+    {
+      "text": "Perdomo, M., & Kaan, E. (2019). Prosodic cues in second-language speech processing: A visual world eye-tracking study. Second Language Research, 37(2), 349-375. Closed at Sage and not obtained; cited for the record as further work on contrastive accent in native and second-language listeners.",
+      "doi": "10.1177/0267658319879196",
+      "type": "background"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
