@@ -1,0 +1,109 @@
+{
+  "no": 492,
+  "slug": "denying-the-antecedent",
+  "name": "Denying the antecedent",
+  "aliases": ["Denial of the antecedent", "DA inference"],
+  "category": "belief",
+  "statement": "Denying the antecedent runs from 'if p then q' and not-p to not-q, and how often people accept the invalid step falls when another route to q is in view.",
+  "meaning": "The form has two premises and a conclusion. The conditional says if p then q. The minor premise asserts not-p. The conclusion asserts not-q. Nothing licenses that step, because q may hold for reasons that have nothing to do with p. Affirming the consequent is the other invalid form and is a different argument: it asserts q and concludes p. The two are named in the same breath and swapped constantly, and the Atlas keeps them apart because the experiments do. In the laboratory the four conditional forms are put to the same participants. Modus ponens and modus tollens are valid, denying the antecedent and affirming the consequent are not, and people accept all four at rates above zero. Denying the antecedent is the step from a conditional to its obverse, if not-p then not-q, followed by modus ponens on that obverse. What the experiments manipulate is how easy the obverse is to believe. Give a reasoner a second route to q and the step collapses. The Atlas entry on affirming the consequent carries the shared apparatus and the figures for that form, which are not restated here.",
+  "origin": {
+    "year": 1983,
+    "who": "Barbara Rumain, Jeffrey Connell and Martin D. S. Braine",
+    "where": "Developmental Psychology",
+    "note": "The name belongs to logic and is centuries older than any experiment, so no priority is claimed for this paper. It is placed here because it is the study later work cites as the first demonstration that the inference is suppressed by alternative antecedents, in children and in adults, under the title \"Conversational comprehension processes are responsible for reasoning fallacies in children as well as adults: If is not the biconditional\". Its full text was not obtained for this entry. Everything quoted from it below is quoted through Byrne's 1989 paper, which cites pages 475, 480 and 481. Byrne also credits Markovits in 1984 and 1985 with the same demonstration, and those papers were not obtained either."
+  },
+  "evidence": "Byrne gave 24 Trinity College Dublin students, none of whom had studied logic, twelve conditional arguments each, three instances of each of the four forms, with three conclusions to choose between including 'may or may not'. Eight students were in each of three groups, so every percentage in her tables rests on eight people answering three items. In the simple-argument group 46% drew the denial of the antecedent. Adding a second conditional with an alternative antecedent, 'if she has some textbooks to read then she will study late in the library', cut that to 4%, t(84) = 3.08, p < .001. Affirming the consequent fell from 71% to 13%. A second conditional naming an extra requirement rather than an alternative left the two invalid forms alone and knocked out the valid ones instead: modus ponens fell from 96% to 38% and modus tollens from 92% to 33%. Her Experiment 2 ran the manipulation backwards. Told categorically that both alternatives were absent, participants drew the denial of the antecedent at 79% against 46% for simple arguments, t(84) = 2.95, p < .01, which is more of the inference rather than less. Cummins and colleagues got the same dependence from the materials rather than from an added premise. Twenty-seven Yale students rated 64 arguments built from 16 causal conditionals on a scale from minus three to plus three, and a separate group of 22 students had already rated each conditional for how many alternative causes and how many disabling conditions it allowed. Every cell mean was positive, denying the antecedent included. Acceptance of the form moved with the number of alternative causes, F(1,26) = 9.23, MSe = .69, p < .01, and did not move with disabling conditions, F(1,26) = 1.92, MSe = .46, ns. Modus ponens and modus tollens ran the other way. De Neys, Schaeken and d'Ydewalle asked whether the effect is graded. Their Experiment 1 gave 178 first-year students at Leuven causal conditionals with zero to four counterexamples printed alongside; 174 were analysed, 88 of them in the alternatives group. Presenting alternatives lowered acceptance of denying the antecedent, Rao R(4,84) = 9.93, p < .0001, and Newman-Keuls tests put every number of alternatives below the no-alternative level. Adding alternatives beyond the first did not lower it further, Rao R(3,85) = 1.86, p < .15, where affirming the consequent kept falling, Rao R(3,85) = 7.01, p < .0003, on a linear trend. Their Experiment 2 counted instead how many alternatives each person could generate in a pretest and reran the task a month later on the same people. There, with 18 participants in the alternatives group, acceptance of denying the antecedent fell linearly with the number retrieved, F(1,17) = 47.36, MSe = 0.62, p < .001. Espino and Byrne carried the manipulation to counterfactual conditionals, where the form is drawn more often to begin with. Their Experiment 2a gave 72 students at La Laguna in Tenerife three arguments of each form in Spanish, in three groups of 24. Alternatives suppressed the inference against single counterfactuals, F(1,46) = 38.99, MSe = 0.86, p < .001, partial eta squared .46, and against counterfactuals carrying an additional condition, F(1,46) = 15.62, p < .001, partial eta squared .25. Additional conditions left it where single counterfactuals did, F(1,46) = 2.26, p = .13. Experiment 2b repeated the whole thing on 90 further students with subjunctive minor premises and conclusions, F(1,59) = 42.39, p < .001, partial eta squared .42. On absolute rates, Schroyens, Schaeken and d'Ydewalle's meta-analysis of the abstract task is the figure everyone quotes: .97 for modus ponens, .74 for modus tollens, .64 for affirming the consequent and .56 for denying the antecedent. Those four numbers were read in Eva, Hartmann and Singmann's accepted manuscript at Warwick and not in the meta-analysis, which is closed. See the limits. Singmann, Klauer and Over asked 30 people in Freiburg for numerical probabilities instead of a yes or no. Under deductive instructions the ordering came out as expected, with modus tollens above the two invalid forms, z = 1.36, p = 0.09, and no gap between affirming the consequent and denying the antecedent, z = -0.38, p = 0.65. Scored against Pfeifer and Kleiter's coherence intervals, 60% of the denial responses fell inside against 46% expected from the width of those intervals, an excess of 0.14 that did not reach significance, z = 1.61, p = 0.16.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Four laboratories over three decades, in three response formats, found the same thing: people draw the inference at substantial rates, and the rate falls when an alternative route to the consequent is available.",
+    "detail": "Byrne found it in Dublin in 1989 with 24 people, a forced choice among three conclusions and an added premise, 46% down to 4%. Cummins and colleagues found it at Yale in 1991 with 27 people, a seven-point rating scale and no added premise, the number of alternative causes carried by the materials themselves, F(1,26) = 9.23. De Neys, Schaeken and d'Ydewalle found it at Leuven in 2003 on 174 people with an eleven-point scale, both when the alternatives were printed for the reasoner and when they were counted from what the reasoner could generate unaided a month earlier. Their paper states in as many words that it replicates the earlier suppression findings of Byrne in 1989, Byrne, Espino and Santamaria in 1999, and Rumain and colleagues in 1983. Espino and Byrne found it in Tenerife in 2020 on 72 and then 90 people, in Spanish, with counterfactual conditionals, and the second experiment was run to rule out an artefact of the first. The direction is the same in every one and the manipulation is not subtle: Byrne's own experiment moved the rate by 42 points. What has not been located is a multi-laboratory or preregistered replication of any of these designs, and the limits below say where that search looked.",
+    "study": {
+      "cite": "De Neys, W., Schaeken, W., & d'Ydewalle, G. (2003). Inference suppression and semantic memory retrieval: Every counterexample counts. Memory & Cognition, 31(4), 581-595.",
+      "doi": "10.3758/BF03196099",
+      "year": 2003,
+      "n": 174
+    }
+  },
+  "limits": "No standardised effect size is printed on this page, because the studies report percentages, rating means, F ratios and partial eta squared rather than a common metric. The samples behind the best-known numbers are small. Byrne's 46% and 4% each rest on eight people answering three items, and her three groups total 24. The graded version of the claim is not settled. De Neys and colleagues found that a second, third and fourth printed alternative did nothing beyond the first for denying the antecedent, where affirming the consequent kept falling, and their discussion says the effect of additional alternatives on the denial was less clear. The linear fall appeared in their second experiment, where the alternatives were counted from memory rather than printed, and that experiment had 18 people in the relevant group. Espino and Byrne's two experiments use counterfactual conditionals, which raise the rate of this particular inference before anything is manipulated, so they extend the finding rather than repeat it on indicatives. Two meta-analyses could not be read. Schroyens, Schaeken and d'Ydewalle's 2001 article in Thinking and Reasoning is closed at Taylor and Francis and Unpaywall records no repository copy, so its .56 for denying the antecedent is quoted here at one remove from the Warwick accepted manuscript of Eva, Hartmann and Singmann, and is not entered as an effect size. Its own title shows it is a study of how negations are processed, so its rates are averages over a negations design rather than a general endorsement rate. Schroyens' 2010 meta-analytic review in the European Journal of Cognitive Psychology is closed on the same test. A third meta-analysis, described on the Mental Models Global Laboratory site as covering 39 experiments and 2,378 participants and credited there to Ragni, Dames and Johnson-Laird at the 2019 cognitive modelling conference, was not obtained: the site's own link labelled with its title serves a different paper, Khemlani and Johnson-Laird in Künstliche Intelligenz, and no other copy was found in Crossref. Its participant count is therefore not quoted above. Rumain, Connell and Braine's 1983 paper is closed at the American Psychological Association on the Semantic Scholar and Unpaywall records, and is used here only through Byrne's quotations of it. Searches for a multi-laboratory or preregistered replication covered Crossref, PubMed, Unpaywall, Semantic Scholar and open-web search, and turned up none. There is also no single endorsement rate to quote. Oaksford and Chater's summary of the negations paradigm is that people endorse the denial, the affirmation and modus tollens more often when the conclusion carries a negation, so the rate for 'if p then q' and the rate for 'if p then not-q' are different numbers, and both are read off figures in their précis rather than from a table.",
+  "misreadings": "The commonest error is to swap the two invalid forms. Denying the antecedent asserts not-p and concludes not-q. Affirming the consequent asserts q and concludes p. The second error is to read an endorsement rate as a fact about people. Byrne's participants drew the inference 46% of the time from a bare conditional, 4% of the time when a second conditional named another way of reaching the consequent, and 79% of the time in her next experiment when told both alternatives were absent. Same form, same students, three answers. A rate quoted without its materials and its instructions is not a measurement. The third is to treat the word 'fallacy' as closing the question, and there the dispute is genuine and this page takes no side in it. Rumain, Connell and Braine argued that the inference is a conversational implicature, in their words due to the logic of conversation and not to the logical properties of a reasoner's representation of 'if', and that the fact that it can be countermanded shows the lexical entry for 'if' cannot be identified with the biconditional. Cummins and colleagues read their own all-positive cell means the other way, as evidence of a biconditional interpretation, and found such response patterns commoner where a conditional had few alternative causes. Oaksford and Chater call the move to the biconditional logically invalid and pragmatically reasonable in some cases, and give a promise as their example. Byrne's own conclusion cuts across all of it: since she showed the valid inferences can be suppressed too, suppression by itself tells us nothing about which rules are in the mind. Outside psychology the argument is about whether the form is ever committed. Burke examined 81 books and numerous articles on fallacies, found nine real passages said to be instances of it, and reports that none was of the kind where the wording makes the fallacious reading the only available one. Godden and Walton argue that some uses of the form are legitimate and defeasible, shifting the burden of proof rather than proving a conclusion. Duarte d'Almeida and MacDonald examine both challenges and propose a test for claims of the second kind. The last error is to expect the inference to vanish once a reasoner sees the point. Under deductive instructions, with letters and numbers rather than stories, the 30 participants Singmann, Klauer and Over tested still endorsed it, and at a level their analysis could not distinguish from their endorsement of affirming the consequent.",
+  "sources": [
+    {
+      "text": "Byrne, R. M. J. (1989). Suppressing valid inferences with conditionals. Cognition, 31(1), 61-83. Read in full as the author's copy hosted at modeltheory.org, downloaded twice. Source for Tables 1 and 2, the t values, the sample of 24, and the quotations from Rumain, Connell and Braine.",
+      "doi": "10.1016/0010-0277(89)90018-8",
+      "url": "http://modeltheory.org/papers/1989suppression.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Cummins, D. D., Lubart, T., Alksnis, O., & Rist, R. (1991). Conditional reasoning and causation. Memory & Cognition, 19(3), 274-282. Read in full as the PDF at Springer, downloaded twice. Source for the 27 participants, the F values for denying the antecedent, and the biconditional response patterns.",
+      "doi": "10.3758/BF03211151",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03211151.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "De Neys, W., Schaeken, W., & d'Ydewalle, G. (2003). Inference suppression and semantic memory retrieval: Every counterexample counts. Memory & Cognition, 31(4), 581-595. Read in full as the PDF at Springer, downloaded twice. Source for the 178 recruited and 174 analysed, the Rao R values, and the authors' own statement that they replicate the earlier suppression findings.",
+      "doi": "10.3758/BF03196099",
+      "url": "https://link.springer.com/content/pdf/10.3758/BF03196099.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Espino, O., & Byrne, R. M. J. (2020). The suppression of inferences from counterfactual conditionals. Cognitive Science, 44(4), e12827. Read in full as the PDF hosted at modeltheory.org, downloaded twice. Source for Experiments 2a and 2b, their samples of 72 and 90, and the F values and partial eta squared quoted.",
+      "doi": "10.1111/cogs.12827",
+      "url": "https://modeltheory.org/papers/2020counterfactual-suppression.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Singmann, H., Klauer, K. C., & Over, D. (2014). New normative standards of conditional reasoning and the dual-source model. Frontiers in Psychology, 5, 316. Read as the JATS XML from PubMed Central, PMC4029011. Source for the deductive ordering, the z values, and the 60% against 46% coherence figures for denying the antecedent.",
+      "doi": "10.3389/fpsyg.2014.00316",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4029011/",
+      "type": "primary"
+    },
+    {
+      "text": "Eva, B., Hartmann, S., & Singmann, H. (2019). A new probabilistic explanation of the modus ponens-modus tollens asymmetry. Read in full as the accepted manuscript PDF in the Warwick Research Archive Portal, eprint 117468, downloaded twice. Source for the four acceptance rates attributed there to Schroyens, Schaeken and d'Ydewalle.",
+      "url": "https://wrap.warwick.ac.uk/id/eprint/117468/1/WRAP-new-probabilistic-explanation-Modus-Ponens%E2%80%93Modus-Tollens-asymmetry-Singmann-2019.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Schroyens, W., Schaeken, W., & d'Ydewalle, G. (2001). The processing of negations in conditional reasoning: A meta-analytic case study in mental model and/or mental logic theory. Thinking & Reasoning, 7(2), 121-172. Closed at the publisher, and Unpaywall returns no open location. Cited for provenance of the .56 quoted at one remove.",
+      "doi": "10.1080/13546780042000091",
+      "url": "https://doi.org/10.1080/13546780042000091",
+      "type": "provenance"
+    },
+    {
+      "text": "Schroyens, W. (2010). A meta-analytic review of thinking about what is true, possible, and irrelevant in reasoning from or reasoning about conditional propositions. European Journal of Cognitive Psychology, 22(6), 897-921. Closed at the publisher, and Unpaywall returns no open location. Named here because it was searched for and not obtained.",
+      "doi": "10.1080/09541440902928915",
+      "url": "https://doi.org/10.1080/09541440902928915",
+      "type": "provenance"
+    },
+    {
+      "text": "Rumain, B., Connell, J., & Braine, M. D. S. (1983). Conversational comprehension processes are responsible for reasoning fallacies in children as well as adults: If is not the biconditional. Developmental Psychology, 19(4), 471-481. Closed on the Semantic Scholar and Unpaywall records; quoted here only through Byrne's 1989 paper.",
+      "doi": "10.1037/0012-1649.19.4.471",
+      "url": "https://doi.org/10.1037/0012-1649.19.4.471",
+      "type": "provenance"
+    },
+    {
+      "text": "Oaksford, M., & Chater, N. (2009). Précis of Bayesian Rationality: The probabilistic approach to human reasoning. Behavioral and Brain Sciences, 32(1), 69-120. Read in full as a PDF copy. Source for the ordering of the four inferences, the negative conclusion bias, and the remark that the biconditional reading is logically invalid and pragmatically reasonable in some cases.",
+      "doi": "10.1017/S0140525X09000284",
+      "url": "http://matt.colorado.edu/teaching/highcog/readings/oc9.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Burke, M. B. (1994). Denying the antecedent: A common fallacy? Informal Logic, 16(1). Read in full as the open-access PDF, downloaded twice. Source for the 81 books and the nine passages.",
+      "doi": "10.22329/il.v16i1.2432",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/download/2432/1874",
+      "type": "commentary"
+    },
+    {
+      "text": "Godden, D. M., & Walton, D. (2004). Denying the antecedent as a legitimate argumentative strategy: A dialectical model. Informal Logic, 24(3). Read as the open-access PDF; the position quoted is from its abstract. Crossref lists Godden alone, and the article's own byline carries both authors.",
+      "doi": "10.22329/il.v24i3.2146",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/2146/1590",
+      "type": "commentary"
+    },
+    {
+      "text": "Duarte d'Almeida, L., & MacDonald, E. (2016). Denying the antecedent: The fallacy that never was, or sometimes isn't? Informal Logic, 36(1). Abstract read at the journal; full text not obtained.",
+      "doi": "10.22329/il.v36i1.4469",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/view/4469",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
