@@ -1,0 +1,100 @@
+{
+  "no": 573,
+  "slug": "loaded-label",
+  "name": "Loaded label",
+  "aliases": ["Loaded term", "Label effect", "Question-wording effect", "Loaded language"],
+  "category": "belief",
+  "statement": "Rename a policy without changing what it does and measured support moves, by 43.7 points in the General Social Survey's welfare experiment and by barely two for the death tax.",
+  "meaning": "A loaded label is a name that carries the verdict its user wants granted. 'Welfare' and 'assistance to the poor' point at roughly the same corner of the budget, and one of them arrives with a settled opinion attached. The measured claim is narrower than the rhetorical one. Put two names to random halves of a single survey sample, ask the identical question about spending, and the halves answer differently. Nobody in the experiment has changed their mind, so what the split shows first is that a policy has no one level of public support independent of what it is called. Three neighbouring entries mark the boundaries. Entry 7, the framing effect, moves the description of an outcome while the arithmetic holds the outcome fixed. Entry 419, the loaded question, puts the freight in a presupposition rather than in a name. Entry 227, Stevenson's persuasive definition, is the same manoeuvre as analysed by philosophers rather than as measured by pollsters.",
+  "origin": {
+    "year": 1987,
+    "who": "Tom W. Smith",
+    "where": "Public Opinion Quarterly",
+    "note": "The paper is 'That Which We Call Welfare by Any Other Name Would Smell Sweeter: An Analysis of the Impact of Question Wording on Response Patterns', 51(1), 75-83. It reports the split-ballot experiment first fielded in the 1984 General Social Survey, and Kenneth Rasinski's companion analysis followed in the same journal in 1989. Neither paper could be read for this entry, and their contents are reported here through NORC's own methodological and trend reports. The phrase 'loaded label' is not Smith's, and who coined it could not be established."
+  },
+  "evidence": "The General Social Survey has run the experiment on every wave since 1984. Respondents are asked whether too much, too little or about the right amount is being spent on a list of areas, and half the sample gets the standard wordings while half gets terse variants. Welfare is the standard item; assistance to the poor is its variant. Tom Smith pooled the first 15 replications, covering 1984 to 2004 and about 29,300 cases, and reports the gap as the percentage saying too little on the standard version minus the percentage saying too little on the variant. For welfare against assistance to the poor the cumulative figure is -43.7 points across 29,326 cases, at a probability the table prints as 0.0000. The yearly figures run from -38.3 in 1984 to -46.8 in 1987, and every one of the 15 is printed at 0.0000. Eight of the 11 items in the battery show no statistically significant interaction of wording with time, and Smith's summary is that wording effects 'appear to be quite stable across 20 years of the 15 replicated experiments'. The raw percentages sit in NORC's trend report through 2018. Across 22 waves from 1984 to 2018 the share saying too little is spent on welfare runs from 13.1% in 1994 to 25.4% in 2008. The share saying too little on assistance to the poor runs from 55.1% in 1996 to 73.2% in 2018. The two bands do not overlap in any year. In 2018 the pair reads 23.6% against 73.2%. Other labels in the same battery move opinion by much less. Education is worth -4.0 points and assistance to blacks against improving the condition of blacks +7.0. Drug rehabilitation against dealing with drug addiction is +6.4, and national defence against the military, armaments and defence is -0.7 and not statistically significant. Rasinski's report on the 1984 to 1986 waves gives the welfare label an average logit coefficient of 0.640 with an average standard error of 0.051, p < .001, and adds a third rung. A 1984-only variant asked about 'caring for the poor', and fewer respondents said too little was being spent on 'assistance to the poor' than on that wording, logit coefficient 0.292, standard error 0.094, p < .01. The estate tax is the case where the label was chosen deliberately and moved almost nothing. Mayling Birney, Ian Shapiro and Michael Graetz report that the Republican leadership issued a directive in 1999 or 2000 to use only the term death tax. A 2002 Greenberg Research poll rated the estate tax at 37.9 on a 1 to 100 feelings scale, against 31.3 for the death tax. The 2002 National Election Survey then ran the repeal question in two parallel forms. Doing away with the estate tax drew 67.8% and doing away with the death tax drew 70.0%, which the authors call 'barely more than two percentage points'. A 2003 NKK poll produced 6 points when it added the phrase 'that some people call the death tax'. A March 2001 CBS News and New York Times poll that first explained who pays the tax found essentially no difference between the two names.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The welfare label survives a preregistered replication and 22 survey waves; the climate label failed a preregistered replication in three countries, and the death tax label was worth two points.",
+    "detail": "Bethany Albertson and Stephen Jessee re-ran the welfare experiment in a preregistered study of 1,590 people recruited through CloudResearch, with the analysis plan lodged at the Open Science Framework. Scoring spending views as 1 for too much, -1 for too little and 0 for about right, the coefficient on the welfare wording is 0.27 with a standard error of 0.04, p < .001. Their design randomised whether a four-item racial resentment battery came before or after the wording experiment. The interaction between wording and that order is -0.04 with a standard error of 0.08 and p = .59, which they read as no evidence that priming changes the treatment effect. Racial resentment itself was unmoved by the treatment, F = 1.20, p = .30. A different label went the other way. Jonathon Schuldt, Sara Konrath and Norbert Schwarz ran a wording experiment on 2,267 people. Republicans endorsed the phenomenon as real at 44.0% under 'global warming' and 60.2% under 'climate change', while Democrats gave 86.9% and 86.4%. The partisan gap fell from 42.9 points to 26.2. Alistair Soutter and René Mõttus preregistered a repeat of that procedure in the United States, the United Kingdom and Australia, total N = 5,717. Their abstract reports that question wording no longer had a statistically significant effect on belief, while the association between political self-identification and belief replicated in all three countries. Gregory Huber and Celia Paris attack the interpretation rather than the result. Their abstract states that the analyses rest on an assumption of programmatic equivalence, under which the two names describe the same programs and differ only in what they bring to mind. It then reports that 'there appear to be basic differences in which programs Americans consider to be welfare and which they consider to be assistance to the poor'.",
+    "study": {
+      "cite": "Albertson, B., & Jessee, S. (2023). Moderator placement in survey experiments: Racial resentment and the \"welfare\" versus \"assistance to the poor\" question wording experiment. Journal of Experimental Political Science, 10(3), 448-454. Table 1, Model 1.",
+      "doi": "10.1017/xps.2022.18",
+      "year": 2023,
+      "n": 1590
+    },
+    "replicated": {
+      "es": 0.27,
+      "esType": "md",
+      "unit": "points on a spending scale running from -1 for too little to 1 for too much"
+    },
+    "indexedBy": "Crossref"
+  },
+  "limits": "Most of the GSS pairs are not clean swaps of one name for another. The standard versions often promise a result, as in 'solving the problems of the big cities' against 'assistance to big cities', so brevity and the promise of success are tangled with the tone of the label. Welfare against assistance to the poor is the pair where both sides are bare names, which is why it carries the argument here. Smith also warns against reading stability too far. Three of the 11 items do show a statistically significant interaction with time, and his own conclusion is that 'even well-established measurement effects may not be constant across time'. Soutter and Mõttus are the case where one did not last. Coverage runs out after 2018. A search of NORC's social change and methodological report directories, and general web search, found no later trend report carrying the welfare and assistance percentages, so nothing here speaks to the waves after 2018. Several documents could not be obtained. Smith's 1987 paper and Rasinski's 1989 paper are both closed at the publisher and Unpaywall indexes no open copy of either; the figures attributed to them above were read from NORC's reports of the same experiments. Rasinski's 1988 report is a poor scan and only figures legible in its text are quoted. Huber and Paris is closed, and its abstract was read at the Yale ISPS listing rather than at the publisher, which returned HTTP 403. Schuldt and colleagues is bronze open access, the publisher's PDF returned HTTP 403 on three attempts, and its percentages were read from the abstract as deposited at OpenAlex, which is an index. Soutter and Mõttus was read as the abstract on the University of Edinburgh repository page after the repository refused the manuscript file. The estate tax numbers come from the authors' working paper at Yale; the abridged version in the National Tax Journal was not obtained, and whether it prints the same figures was not checked. Albertson and Jessee used an online convenience sample, not a probability sample of Americans.",
+  "misreadings": "The commonest error is to treat the 43.7 points as the amount of opinion a renaming would move. It is the distance between two random halves of one sample answering different questions on the same day, and no one in it was persuaded of anything. The second error is the one Huber and Paris name. Reading the gap as proof that a name alone drives support requires that both names pick out the same programmes, and their evidence is that Americans do not agree that they do. If the two labels summon different policies then part of the gap is people answering different questions correctly. The third error is to expect every loaded label to behave like this one. The death tax is the most deliberately engineered label in modern American politics, complete with a party directive to use it, and in a parallel-form experiment it bought two points. The fourth is to file this with the framing effect. Framing holds the referent fixed by arithmetic and varies the description, and entry 7 records what happened when that was replicated across 36 laboratories. A loaded label varies the name, and whether the referent stays fixed is the open question rather than a feature of the design. The last error is to read a null as a refutation. Soutter and Mõttus found no wording effect on climate belief nine years after Schuldt and colleagues found one. Their abstract names temporal and methodological differences as candidates for the discrepancy. A label whose charge faded is a different thing from a label that never carried one.",
+  "sources": [
+    {
+      "text": "Smith, T. W. (2006). Wording effects on the national spending priority items across time, 1984-2004. GSS Methodological Report No. 107. Chicago: NORC. Table 1 carries the yearly and cumulative differences; the welfare column and its N of 29,326 were extracted twice from two downloads with identical checksums. The report's own title gives 1984-2004, though NORC's trend report cites it as 1973-2004.",
+      "url": "https://gss.norc.org/content/dam/gss/get-documentation/pdf/reports/methodological-reports/MR107.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Smith, T. W., & Son, J. (2019). Trends in national spending priorities, 1973-2018. GSS Social Change Report No. 63. Chicago: NORC. Tables K1 and K2 hold the welfare and assistance-to-the-poor percentages quoted above.",
+      "url": "https://gss.norc.org/content/dam/gss/get-documentation/pdf/reports/social-change-reports/SC63%20GSS_Trends%20in%20Spending_1973-2018.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Rasinski, K. A. (1988). The effect of question wording on public support for government spending. GSS Methodological Report No. 54. Chicago: NORC. Source for the average logit coefficient on the welfare label and for the 1984 'caring for the poor' variant. The scan is poor and only legible figures are quoted.",
+      "url": "https://gss.norc.org/content/dam/gss/get-documentation/pdf/reports/methodological-reports/MR054.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Smith, T. W. (1987). That which we call welfare by any other name would smell sweeter: An analysis of the impact of question wording on response patterns. Public Opinion Quarterly, 51(1), 75-83. The paper that established the experiment. Closed at the publisher, with no open copy indexed by Unpaywall, and not obtained.",
+      "doi": "10.1086/269015",
+      "url": "https://doi.org/10.1086/269015",
+      "type": "primary"
+    },
+    {
+      "text": "Rasinski, K. A. (1989). The effect of question wording on public support for government spending. Public Opinion Quarterly, 53(3), 388-394. The published version of the 1988 report. Closed at the publisher and not obtained.",
+      "doi": "10.1086/269158",
+      "url": "https://doi.org/10.1086/269158",
+      "type": "primary"
+    },
+    {
+      "text": "Albertson, B., & Jessee, S. (2023). Moderator placement in survey experiments: Racial resentment and the \"welfare\" versus \"assistance to the poor\" question wording experiment. Journal of Experimental Political Science, 10(3), 448-454. Open access. Preregistered at the Open Science Framework; Tables 1 to 3 were read from the publisher's PDF.",
+      "doi": "10.1017/xps.2022.18",
+      "url": "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/moderator-placement-in-survey-experiments-racial-resentment-and-the-welfare-versus-assistance-to-the-poor-question-wording-experiment/6E37CBB11E04BC8C54E81A76FB07896E",
+      "type": "replication"
+    },
+    {
+      "text": "Huber, G. A., & Paris, C. (2013). Assessing the programmatic equivalence assumption in question wording experiments: Understanding why Americans like assistance to the poor more than welfare. Public Opinion Quarterly, 77(1), 385-397. Closed at the publisher, which returned HTTP 403. The abstract quoted above was read at the Yale ISPS publication listing.",
+      "doi": "10.1093/poq/nfs054",
+      "url": "https://isps.yale.edu/research/publications/isps13-010",
+      "type": "critique"
+    },
+    {
+      "text": "Birney, M., Shapiro, I., & Graetz, M. J. (2007). The political uses of public opinion: Lessons from the estate tax repeal. Yale working paper. The 2002 National Election Survey figures, the Greenberg feelings ratings and the NKK and CBS News poll comparisons were read from pages 8 and 9 of this document, downloaded twice with identical checksums.",
+      "url": "https://shapiro.macmillan.yale.edu/sites/default/files/files/ycias02.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Birney, M., Graetz, M. J., & Shapiro, I. (2006). Public opinion and the push to repeal the estate tax. National Tax Journal, 59(3), 439-461. The abridged published version of the working paper above; not obtained, and whether it carries the same figures was not checked.",
+      "doi": "10.17310/ntj.2006.3.03",
+      "url": "https://doi.org/10.17310/ntj.2006.3.03",
+      "type": "primary"
+    },
+    {
+      "text": "Schuldt, J. P., Konrath, S. H., & Schwarz, N. (2011). 'Global warming' or 'climate change'? Whether the planet is warming depends on question wording. Public Opinion Quarterly, 75(1), 115-124. The publisher's PDF returned HTTP 403; the percentages above were read from the abstract as deposited at OpenAlex, which is an index rather than the publisher.",
+      "doi": "10.1093/poq/nfq073",
+      "url": "https://doi.org/10.1093/poq/nfq073",
+      "type": "primary"
+    },
+    {
+      "text": "Soutter, A. R. B., & Mõttus, R. (2020). 'Global warming' versus 'climate change': A replication on the association between political self-identification, question wording, and environmental beliefs. Journal of Environmental Psychology, 69, 101413. The repository refused the accepted manuscript; the abstract was read on the University of Edinburgh record page and confirmed on a second fetch.",
+      "doi": "10.1016/j.jenvp.2020.101413",
+      "url": "https://www.research.ed.ac.uk/en/publications/a349fe52-317f-49b5-9dfd-aaeb0b5d8a2a",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
