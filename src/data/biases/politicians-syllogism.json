@@ -1,0 +1,90 @@
+{
+  "no": 543,
+  "slug": "politicians-syllogism",
+  "name": "Politician's syllogism",
+  "aliases": [
+    "Politician's logic",
+    "Politician's fallacy",
+    "Something must be done"
+  ],
+  "category": "belief",
+  "statement": "Something must be done, this is something, therefore this must be done: an argument that carries the urgency of its first premise into a conclusion the premises do not support.",
+  "meaning": "The two premises share the term 'something', and neither says anything about all of it. The first says the class of adequate responses is not empty. The second says the proposal belongs to the class of possible responses. Those are different classes, so the premises never meet and the conclusion is not licensed. That is the fallacy of the undistributed middle, which the Atlas covers at entry 528. Restated with a conditional major premise, improving things requires change and this is change, so this improves things, it becomes affirming the consequent, which the Atlas also covers. The plain reading is that a necessary condition has been treated as a sufficient one. Acting may well be necessary. Being an action is not what makes an action work. The name is a coinage from a television script rather than a finding, and nothing about the label settles whether any particular measure works.",
+  "origin": {
+    "year": 1988,
+    "who": "Antony Jay and Jonathan Lynn",
+    "where": "BBC television, Yes, Prime Minister",
+    "note": "The line is spoken by Sir Arnold Robinson to Sir Humphrey Appleby in 'Power to the People', the fifth episode of the second series, first broadcast on 7 January 1988. It names the reasoning 'politician's logic'. The quasi-formal titles 'politician's syllogism' and 'politician's fallacy' are later coinages, and this entry located no source that dates or credits them."
+  },
+  "evidence": "There is a script and there is a paraphrase, and they differ. The broadcast transcript held for this entry has Sir Arnold calling it the old logical fallacy, giving the cats and dogs illustration, and then saying that his colleague suffers from politician's logic, something must be done therefore we must do it. The middle premise, this is something, is absent from that line. The transcript is a rendering of the broadcast captions rather than the published script, and the point it settles is only what that rendering carries. A search of the same archive's transcripts for all 16 episodes of Yes, Prime Minister, all 20 episodes of Yes Minister and the 8 episodes of the 2013 revival found the phrase in this episode alone. The paraphrase is what circulates. A search of the Hansard API for the exact phrase 'politician's syllogism' returned four contributions, no two of them quoting the same words. George Freeman gave it in 2014 as we must do something, this is something, ergo we should do it. Andrew Lewer gave it in 2018 as there is a problem, something must be done, this is something, so let's do this, and attributed it to Yes, Minister. He gave it again in 2021 with different wording and attributed it to the 1988 edition of Yes, Prime Minister. Lord Maude gave it in 2024 as something must be done, this is something, therefore we must do it, and attributed it to Sir Humphrey, who in the episode is the character being diagnosed rather than the one diagnosing. A fifth instance, Julian Huppert in 2013, was read off the TheyWorkForYou reproduction of Hansard and did not come back in that API search, so the count of four is what one query returned rather than a count of the record. What has been measured is the behaviour the joke is about. Luca, Malhotra and Poliquin assembled every state firearm bill and every mass shooting in the United States over 25 years, 20,409 bills and 3,199 laws across the fifty states, and estimated the effect of a shooting by difference in differences. Mass shootings were 0.13 percent of gun deaths and 0.34 percent of gun murders across the period. A single mass shooting raised firearm bills introduced in a state by 15 percent the following year, about 2.4 extra bills for the average state, with each additional death worth 2.3 percent. Direction followed the legislature rather than the event. Republican-controlled legislatures introduced 48 percent more bills and enacted 32 percent more laws, and the number of enacted laws loosening gun restrictions rose by 115 percent. The Democrat figures, 11 percent more bills and 7 percent more laws, were not statistically significant, and the paper reports no significant effect on laws that tighten restrictions. Chen and Kappelman looked at the same question from the voting record, estimating gun-policy positions for 14,585 state legislators from roll calls between 2011 and 2022, and found that a shooting inside a legislator's own district did not measurably move how that legislator voted.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study testing whether people accept this argument was found, and the two political-science findings quoted here have been examined by later work that reaches different conclusions.",
+    "detail": "The searches for a direct test covered Crossref on the phrase and on the argument form, OpenAlex, which refused the queries for want of quota, and open web searches on the fallacy paired with experiment, acceptance and argument. They returned commentary and no experiment. The nearest measured thing is not this argument but the premise pattern behind it, and the Atlas carries it at entry 528: pooled across six studies, given 'All A are B' and 'All C are B', 31 percent of participants answered that nothing follows and 47 percent drew a conclusion the premises do not support. Where the political record has been revisited, the results do not line up. Healy and Malhotra's finding that American voters reward disaster relief while ignoring disaster preparedness is the usual evidence that visible action pays, and Kim, Cragun and DeScioli put it to a survey experiment on 397 people recruited through Amazon Mechanical Turk in April 2020. Reading about a fictional flood-prone community, participants supported relief no more than prevention. Where the community had ignored evacuation orders they supported relief less than prevention, t(121) = 2.95, p = 0.0038, which is the reverse of what the authors expected. Chen and Kappelman's null result on legislators' voting sits beside Luca and colleagues' large effect on bills introduced, and the two are compatible: the volume of legislative activity can rise while nobody's position moves."
+  },
+  "limits": "The wording cannot be settled from what was obtained here. The published script and the Lynn and Jay books were not retrieved; searches at the Internet Archive found no text of The Complete Yes Prime Minister, its full-text search endpoint was unreachable, the Google Books API returned a daily quota error, and HathiTrust refused the request. The transcript used here is a fan archive of the captions and was downloaded twice to the same checksum. The Wikipedia article on the term was read in full, in its wikitext, and it attaches no citation at all to the sentence naming the episode; its references are a 2007 developer blog, two parliamentary records and a newspaper column. The hansard.parliament.uk search pages were behind a challenge and the JSON API was used instead, which is why the parliamentary count above is described as one query's return. Numbers from Luca and colleagues were read off the National Bureau of Economic Research working paper, which is not peer reviewed; its abstract matches the abstract of the published article word for word as reproduced at EconPapers, and the published article itself is paywalled. Their paper states in a footnote that the difference between Republican and Democrat legislatures in enacted laws is not statistically significant, so the party contrast is firmer for bills introduced than for laws passed. Chen and Kappelman is an arXiv preprint, version 3 of March 2026, and no journal version was located. Healy and Malhotra is closed at Cambridge University Press; the estimate that a dollar of prevention saves about fifteen dollars of future damage is quoted here from Kim and colleagues' description of it, not from the paper, and appears in no structured field.",
+  "misreadings": "The famous three-step wording is not what the broadcast transcript carries, and the versions quoted in Parliament disagree with each other and with the episode about the words, the series and which character speaks the line. Treating the name as a research finding is the second error. It labels an argument shape; it measures nothing, and no study located here has tested how often the shape persuades anyone. The third error is reading it as proof that governments should sit still. An invalid argument for a measure is not an argument against the measure, and 'doing anything is worse than doing nothing', which the same scene asserts, is a civil servant's interest talking rather than a result. The Atlas covers the empirical version of that question under action bias, where the flagship study, on goalkeepers facing penalty kicks, did not survive a 2026 replication on World Cup data. Fourth, the phenomenon and the fallacy get run together. Luca and colleagues measured a surge of legislation after salient events, which is consistent with the joke, and also measured that the laws which passed moved in whichever direction the sitting majority already favoured, which the joke does not describe.",
+  "sources": [
+    {
+      "text": "Yes, Prime Minister, series 2, episode 5, 'Power to the People'. Transcript of the broadcast captions at Springfield! Springfield!, downloaded twice to the same checksum and read directly. Source for the wording of the line and for the absence of the middle premise from it. Not the published script.",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=yes-prime-minister-1986&episode=s02e05",
+      "type": "primary"
+    },
+    {
+      "text": "The Yes (Prime) Minister Files, episode page for 'Power to the People'. Source for the first broadcast date of 7 January 1988 and for the episode's place in the second series. A fan-maintained reference, used because the BBC Programme Index was behind a challenge page.",
+      "url": "https://yes-minister.com/ypmseas2b.htm",
+      "type": "provenance"
+    },
+    {
+      "text": "House of Commons Hansard, contributions matching 'politician's syllogism', retrieved through the Hansard JSON API. Source for the quotations by George Freeman on 9 December 2014, Andrew Lewer on 30 April 2018 and 27 May 2021, and Lord Maude of Horsham in the House of Lords on 13 November 2024.",
+      "url": "https://hansard-api.parliament.uk/search.json?queryParameters.searchTerm=%22politician%27s%20syllogism%22&queryParameters.startDate=1990-01-01",
+      "type": "primary"
+    },
+    {
+      "text": "House of Commons, Opposition Day debate on Protecting Children Online, 12 June 2013. Julian Huppert's use of the phrase, read from the TheyWorkForYou reproduction of Hansard. Cited to show that the API query above does not return everything in the record.",
+      "url": "https://www.theyworkforyou.com/debate/?id=2013-06-12a.389.0",
+      "type": "primary"
+    },
+    {
+      "text": "Luca, M., Malhotra, D., & Poliquin, C. (2020). The impact of mass shootings on gun policy. Journal of Public Economics, 181, 104083. Paywalled; every figure quoted here was read off the National Bureau of Economic Research working paper 26187 of August 2019, whose abstract matches the published abstract as reproduced at EconPapers.",
+      "doi": "10.1016/j.jpubeco.2019.104083",
+      "url": "https://www.nber.org/system/files/working_papers/w26187/w26187.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Chen, H., & Kappelman, J. (2026). Are politicians responsive to mass shootings? Evidence from U.S. state legislatures. arXiv:2501.01084v3. Preprint, read in full as the PDF. Source for the 14,585 legislators, the 2011 to 2022 roll calls and the null result.",
+      "url": "https://arxiv.org/pdf/2501.01084",
+      "type": "replication"
+    },
+    {
+      "text": "Kim, H. H., Cragun, J., & DeScioli, P. (2026). Prevention or relief? Voters' support for disaster policies. Disasters, 50, e70016. Read in full as the PDF. Source for the 397 participants, the six conditions and the relief against prevention comparison.",
+      "doi": "10.1111/disa.70016",
+      "url": "https://pdescioli.com/papers/kim.etal.prevention.relief.disasters.2026.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Healy, A., & Malhotra, N. (2009). Myopic voters and natural disaster policy. American Political Science Review, 103(3), 387-406. Closed at the publisher and not obtained; Semantic Scholar records it as closed access with the abstract elided. Described here only through Kim and colleagues.",
+      "doi": "10.1017/S0003055409990104",
+      "url": "https://doi.org/10.1017/S0003055409990104",
+      "type": "provenance"
+    },
+    {
+      "text": "Jay, A. (1994). Yes Minister and Yes Prime Minister (1): Sir Antony Jay, CVO. Contemporary Record, 8(3), 500-518. Not read for this entry; cited as the scholarly record of the series' authorship.",
+      "doi": "10.1080/13619469408581312",
+      "url": "https://doi.org/10.1080/13619469408581312",
+      "type": "provenance"
+    },
+    {
+      "text": "Lynn, J. (1994). Yes Minister and Yes Prime Minister (2): Jonathan Lynn. Contemporary Record, 8(3), 519-536. Not read for this entry; cited as the scholarly record of the series' authorship.",
+      "doi": "10.1080/13619469408581313",
+      "url": "https://doi.org/10.1080/13619469408581313",
+      "type": "provenance"
+    },
+    {
+      "text": "Politician's syllogism. Wikipedia, revision 1241242509 of 20 August 2024, read as wikitext through Special:Export. Cited as the vector for the attribution rather than as evidence for it; the sentence naming the episode carries no citation.",
+      "url": "https://en.wikipedia.org/wiki/Special:Export/Politician%27s_syllogism",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
