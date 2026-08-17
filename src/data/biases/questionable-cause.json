@@ -1,0 +1,109 @@
+{
+  "no": 553,
+  "slug": "questionable-cause",
+  "name": "Questionable cause",
+  "aliases": [
+    "Non causa pro causa",
+    "False cause fallacy",
+    "Causal illusion",
+    "Illusion of causality"
+  ],
+  "category": "belief",
+  "statement": "Shown a treatment and a recovery that vary independently, people still rate the treatment as effective, and rate it higher the more often recovery happens.",
+  "meaning": "The label names an argument form, in which something is offered as a cause on evidence that does not support it. The claim underneath it is narrower and has a laboratory paradigm. Participants work through a series of cases in which a candidate cause is present or absent and an outcome then follows or does not. The four cell frequencies fix the contingency, written Δp: the probability of the outcome given the cause, minus its probability without the cause. Studies of this bias set Δp to zero, so the correct judgement is zero. Judgements come out well above zero, and the size of the error tracks two frequencies rather than the contingency. Raising the rate at which the outcome happens raises judgements, which is the outcome-density effect. Raising the rate at which the cause is present does the same, which is the cue-density effect. The overestimation is called the causal illusion. Four neighbouring entries make different claims. Post hoc ergo propter hoc is about temporal order, the clustering illusion about pattern in chance sequences, illusory correlation about associations that were never in the data, and the illusion of control about the case where the candidate cause is the person's own action.",
+  "origin": {
+    "year": 2011,
+    "who": "Helena Matute, Ion Yarritu and Miguel A. Vadillo",
+    "where": "British Journal of Psychology",
+    "note": "\"Illusions of causality at the heart of pseudoscience\", volume 102, pages 392 to 405, argues that quackery and superstition run on ordinary causal learning, and reports an experiment in which testimony from fictitious patients who say they feel better produces the illusion. Its abstract names two manipulations that reduced it: showing testimony from people who improved without the treatment, and asking participants to think in causal terms rather than in terms of effectiveness. Only the abstract, at PubMed, was read for this entry. The Wiley full text is paywalled, and the repository copy at the University of the Basque Country reset the connection on each of three attempts. The density effects are older than this paper. Moreno-Fernández, Blanco and Matute's review traces outcome density to Alloy and Abramson in 1979, and that attribution is quoted here from the review rather than from the 1979 paper. Where the Latin tag and the English label come from was not chased here."
+  },
+  "evidence": "Blanco, Matute and Vadillo crossed the two frequencies in a design that holds Δp at zero throughout. P(C) and P(O) took values of .80 or .20, giving four groups whose 100 trials divided among the four cell types as 4, 16, 16 and 64, rearranged per group. Experiment 1 ran over the internet with 106 participants judging whether a fictitious medicine, Batatrim, relieved a fictitious Lindsay Syndrome. P(O) gave F(1, 102) = 67.80, p < .001, ηp2 = .40. P(C) gave F(1, 102) = 4.70, p = .033, ηp2 = .04, and the two interacted, F(1, 102) = 4.50, p = .036, ηp2 = .04. A high P(O) was needed for the cue-density effect to appear at all: with P(O) low, the two P(C) groups did not differ. Experiment 2 repeated the design in a laboratory with 160 Deusto University students, swapped the medicine for triangles and squares, and swapped the 0 to 100 scale for one running from -100 to +100. P(O) again dominated, F(1, 156) = 17.58, p < .001, ηp2 = .10, while P(C) fell short of significance, F(1, 156) = 1.47, p = .23. Analysed together the two experiments gave ηp2 = .22 for P(O) and .02 for P(C). Barberia, Blanco, Cubillas and Matute measured the same illusion in adolescents with an active task, in which the participant decides which of 40 patients to treat. In their zero-contingency problem six of every eight patients felt relief whatever the participant did. Untrained participants rated that medicine at 61.69 out of 100 for effectiveness, against 70.28 for a second medicine whose contingency was .625. Chow, Colagiuri and Livesey replaced the present-or-absent outcome with a recovery score from 0 to 100. With 112 participants in Experiment 1, high outcome density raised efficacy ratings, F(1, 108) = 11.3, p = .001, ηp2 = .094, and did so equally for fixed and variable outcome magnitudes. With 56 participants in Experiment 2, whose outcome distributions clustered ambiguous values near the midpoint, the density effect held, F(1, 54) = 4.54, p = .038, ηp2 = .078, with mean ratings of 33.6 against 16.5.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Two groups working independently of the Spanish labs that built the paradigm reproduce the illusion and the outcome-density effect at large effect sizes, and a school intervention against it held on 1,668 students with a six-month follow-up.",
+    "detail": "Shankar, Byrom, van Tilburg and Rakow ran three experiments on Prolific volunteers in Britain, using a task built on Blanco and colleagues' materials. Ninety-one people took part in Experiment 1 and 85 completed both sessions. Density level produced F(1, 83) = 101.91, p < .001, ηp2 = .55, with mean effectiveness judgements of 43.58 in the high-density conditions and 24.88 in the low. Density level interacted with which event was manipulated, F(1, 83) = 8.93, p = .004, ηp2 = .10, and the point estimate of the density effect was close to three times larger when the effect was manipulated than when the cause was. Experiment 2a, with 96 people completing both sessions, gave effect density F(1, 94) = 141.34, p < .001, ηp2 = .60. Experiment 2b, with 97, gave cause density ηp2 = .31. Reversing the order in which cause and effect were shown did nothing statistically significant in either. Chow, Goldwater, Colagiuri and Livesey recruited 280, 290, 406 and 480 people for four experiments testing whether instruction on base rates helps. Outcome density moved efficacy ratings in every one: ηp2 = .215 with BFincl = 2.14e+11 in Experiment 1, ηp2 = .188 with BFincl = 2.08e+11 in Experiment 2, ηp2 = .210 in Experiment 3, and ηp2 = .040 with BF10 = 266.2 in Experiment 4. Ratings in the high-density conditions stayed above zero in every instruction group, at d between .448 and 1.16. The authors state that none of the four experiments was preregistered. Martínez, Matute, Blanco and Barberia took the Barberia intervention into Spanish schools with the Spanish Foundation for Science and Technology. A pilot of 287, preregistered at AsPredicted, was followed by a large-scale run of 1,668 students in 40 schools, which the paper says was not preregistered because it repeated the pilot. Judging the null-contingency problem, the intervention group showed a weaker illusion than the control group in the pilot, d = 0.44, and in the large run, d = 0.48, while judgements of the genuinely contingent problem did not differ. A preregistered follow-up six months later reached 353 of them and still found the gap, d = 0.27.",
+    "study": {
+      "cite": "Shankar, S., Byrom, N., van Tilburg, W. A. P., & Rakow, T. (2024). On the interchangeability of presentation order for cause and effect: Experimental tests of cue and outcome-density effects. Quarterly Journal of Experimental Psychology, 78(9), 1892-1908.",
+      "doi": "10.1177/17470218241299407",
+      "year": 2024,
+      "n": 278
+    },
+    "indexedBy": "PubMed Central"
+  },
+  "limits": "The two density effects are not the same size and do not stand alone. Blanco and colleagues found the cue-density effect only where the outcome was frequent, in an internet sample and again in a laboratory sample using a scale that allowed negative ratings, which rules out the floor artefact the unidirectional scale would have produced. Shankar and colleagues, testing both manipulations within subjects, put effect density at ηp2 = .60 against cause density at ηp2 = .31. Practice does not wear the illusion down. Barberia, Vadillo and Rodríguez-Ferreiro gave 75 students 48 learning trials and another 75 a run of 288, and found moderate evidence against any difference in the resulting causal ratings, BF01 = 5.43, t(148) = -0.317, p = 0.752, which runs against what the Rescorla-Wagner model predicts. The link to real belief is a correlation and a small one. Torres, Barberia and Rodríguez-Ferreiro found causal ratings associated with a pseudoscience endorsement scale at Kendall's tau = 0.17 among 112 Barcelona students and tau = 0.21 among 190 Prolific participants, and in the first of those the association fell to tau = 0.123, p = .080, when no participants were excluded. Instruction helps without curing. In Chow and colleagues' four experiments, base-rate instructions worked mostly by cutting how often participants chose to apply the treatment, and high-density groups still rated an inert treatment above zero. Two documents behind this entry were not obtained: the Matute, Yarritu and Vadillo paper, read only as its PubMed abstract, and Torres and colleagues' 2020 British Journal of Psychology paper, whose result is described here from the 2022 paper by the same authors. Searches for a meta-analysis of the causal illusion or of the density effects covered Crossref, PubMed, Unpaywall, Semantic Scholar and web search, and found none.",
+  "misreadings": "The name suggests a slip in reasoning that a careful person avoids, and the measurements describe a learning bias that appears in people who are trying to answer the question properly. Nothing in the paradigm requires the participant to argue badly. A second confusion is with temporal order: succession is a separate cue with its own entry, and these experiments hold order fixed and vary frequencies. Shankar and colleagues went further and swapped which of the two events was shown first, with no statistically significant consequence. Zero contingency also does not mean the outcome had no cause. In the medical cover stories most patients recover, and the finding is that recovery does not depend on the treatment, which leaves whatever does produce it untouched. The intervention results are about judgement in a contingency task rather than about behaviour in a clinic. Barberia, Tubau, Matute and Rodríguez-Ferreiro's undergraduate version cut the illusion at d = -0.648 with 106 participants, and left the global score on the Revised Paranormal Beliefs Scale where it was, BF10 = 0.288, with only the precognition subscale moving.",
+  "sources": [
+    {
+      "text": "Matute, H., Yarritu, I., & Vadillo, M. A. (2011). Illusions of causality at the heart of pseudoscience. British Journal of Psychology, 102(3), 392-405. Paywalled; only the abstract, read at PubMed, is used here.",
+      "doi": "10.1348/000712610X532210",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21751996/",
+      "type": "primary"
+    },
+    {
+      "text": "Blanco, F., Matute, H., & Vadillo, M. A. (2013). Interactive effects of the probability of the cue and the probability of the outcome on the overestimation of null contingency. Learning & Behavior, 41(4), 333-340. Full text read; the design table and every statistic quoted are theirs.",
+      "doi": "10.3758/s13420-013-0108-8",
+      "url": "https://doi.org/10.3758/s13420-013-0108-8",
+      "type": "primary"
+    },
+    {
+      "text": "Barberia, I., Blanco, F., Cubillas, C. P., & Matute, H. (2013). Implementation and assessment of an intervention to debias adolescents against causal illusions. PLoS ONE, 8(8), e71303. Full text read from the publisher's XML.",
+      "doi": "10.1371/journal.pone.0071303",
+      "url": "https://doi.org/10.1371/journal.pone.0071303",
+      "type": "primary"
+    },
+    {
+      "text": "Chow, J. Y. L., Colagiuri, B., & Livesey, E. J. (2019). Bridging the divide between causal illusions in the laboratory and the real world: the effects of outcome density with a variable continuous outcome. Cognitive Research: Principles and Implications, 4, 1. Full text read.",
+      "doi": "10.1186/s41235-018-0149-9",
+      "url": "https://doi.org/10.1186/s41235-018-0149-9",
+      "type": "primary"
+    },
+    {
+      "text": "Shankar, S., Byrom, N., van Tilburg, W. A. P., & Rakow, T. (2024). On the interchangeability of presentation order for cause and effect: Experimental tests of cue and outcome-density effects. Quarterly Journal of Experimental Psychology, 78(9), 1892-1908. Full text read at PubMed Central.",
+      "doi": "10.1177/17470218241299407",
+      "url": "https://doi.org/10.1177/17470218241299407",
+      "type": "replication"
+    },
+    {
+      "text": "Chow, J. Y. L., Goldwater, M. B., Colagiuri, B., & Livesey, E. J. (2024). Instruction on the scientific method provides (some) protection against illusions of causality. Open Mind, 8, 639-665. Full text read at PubMed Central.",
+      "doi": "10.1162/opmi_a_00141",
+      "url": "https://doi.org/10.1162/opmi_a_00141",
+      "type": "replication"
+    },
+    {
+      "text": "Martínez, N., Matute, H., Blanco, F., & Barberia, I. (2024). A large-scale study and six-month follow-up of an intervention to reduce causal illusions in high school students. Royal Society Open Science, 11, 240846. Full text read from the Deusto repository copy.",
+      "doi": "10.1098/rsos.240846",
+      "url": "https://doi.org/10.1098/rsos.240846",
+      "type": "replication"
+    },
+    {
+      "text": "Barberia, I., Tubau, E., Matute, H., & Rodríguez-Ferreiro, J. (2018). A short educational intervention diminishes causal illusions and specific paranormal beliefs in undergraduates. PLoS ONE, 13(1), e0191907. Full text read from the publisher's XML.",
+      "doi": "10.1371/journal.pone.0191907",
+      "url": "https://doi.org/10.1371/journal.pone.0191907",
+      "type": "replication"
+    },
+    {
+      "text": "Barberia, I., Vadillo, M. A., & Rodríguez-Ferreiro, J. (2019). Persistence of causal illusions after extensive training. Frontiers in Psychology, 10, 24. Full text read.",
+      "doi": "10.3389/fpsyg.2019.00024",
+      "url": "https://doi.org/10.3389/fpsyg.2019.00024",
+      "type": "replication"
+    },
+    {
+      "text": "Torres, M. N., Barberia, I., & Rodríguez-Ferreiro, J. (2022). Causal illusion in the core of pseudoscientific beliefs: The role of information interpretation and search strategies. PLoS ONE, 17(9), e0272201. Full text read from the publisher's XML.",
+      "doi": "10.1371/journal.pone.0272201",
+      "url": "https://doi.org/10.1371/journal.pone.0272201",
+      "type": "primary"
+    },
+    {
+      "text": "Torres, M. N., Barberia, I., & Rodríguez-Ferreiro, J. (2020). Causal illusion as a cognitive basis of pseudoscientific beliefs. British Journal of Psychology, 111(4), 840-852. Not obtained; its passive-task result is described here from the 2022 paper by the same authors.",
+      "doi": "10.1111/bjop.12441",
+      "url": "https://doi.org/10.1111/bjop.12441",
+      "type": "primary"
+    },
+    {
+      "text": "Moreno-Fernández, M. M., Blanco, F., & Matute, H. (2023). Recent advances in the study of the illusion of causality: theory, methods, and practical implications. Preprint, Digital CSIC. A review, used here for orientation and for one attribution that is labelled on the page as coming from it.",
+      "url": "https://digital.csic.es/bitstream/10261/305957/4/Moreno-Fernandez_2023_Preprint_v.02.pdf",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
