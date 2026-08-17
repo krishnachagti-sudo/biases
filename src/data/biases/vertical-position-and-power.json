@@ -1,0 +1,72 @@
+{
+  "no": 458,
+  "slug": "vertical-position-and-power",
+  "name": "Vertical position and power",
+  "aliases": ["Power is up", "Vertical metaphor of power", "Position and power"],
+  "category": "social",
+  "statement": "A leader drawn higher than others in an organisation chart is judged more powerful, and a longer line above the name was said to raise the judgement further.",
+  "meaning": "The claim has two halves, and they have fared differently. The first is about rank order: a manager drawn above others is judged more powerful than one drawn level with them. The second is about magnitude: extra vertical distance should add power beyond rank, so a longer line above a manager's box should lift the rating further. Giessner and Schubert's 2007 paper tested the magnitude version, and that is the version Many Labs 2 repeated. The same paper ran the reverse direction, asking people who had been told a manager was powerful to place his box in a chart themselves. A wider literature attaches verticality to power in reaction times, in visual attention and in metaphoric language. That work uses different tasks and is assessed separately below. The warm-cup and heavy-clipboard studies sit under embodied cognition on this site, which scopes itself to them.",
+  "origin": {
+    "year": 2007,
+    "who": "Steffen R. Giessner and Thomas W. Schubert",
+    "where": "Organizational Behavior and Human Decision Processes",
+    "note": "Their paper is \"High in the hierarchy: How vertical location and judgments of leaders' power are interrelated\", volume 104, pages 30 to 44. Schubert's 1 to 21 page paper in the Journal of Personality and Social Psychology two years earlier had already argued that power is represented as vertical difference, using reaction-time tasks rather than charts."
+  },
+  "evidence": "Study 1a gave 64 economics and business students at Erasmus University Rotterdam a short text and an organisation chart. Five boxes sat on the lower level and one, labelled Manager A, on the upper level. The only thing that varied was the connecting line, about 2 cm in one condition and about 7 cm in the other, with boxes about 2 cm high. Students then rated the manager on five power items on a seven-point scale. The long-line group gave 5.01, the short-line group 4.62, t(62) = 2.20, p = .03. Many Labs 2 converts that to d = 0.55 with a 95% interval from 0.05 to 1.05. Study 1b repeated it on 50 people approached outside a dining hall in Jena, F(1, 46) = 7.26. Study 1c ran 94 students, F(1, 90) = 4.10, p = .046, and found no matching effect on rated charisma, F(1, 90) = .24, p = .63. Study 2 primed 182 students with long or short lines in a separate estimation task and found the effect for vertical lines, F(1, 178) = 9.14, p = .003, and not for horizontal ones, F(1, 178) = .03, p = .96. Studies 3a and 3b reversed the direction. In 3a, 159 students read that a manager had a lot of power or very little, then placed his box in a chart. The high-power group placed it 128.76 pixels above the starting point against 44.71, F(1, 153) = 26.01, p < .001, with no effect on horizontal placement, F(1, 153) = 1.57, p = .21.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Many Labs 2 ran the line-length study on 7,890 people and found a gap of 0.04 points; a later preregistered study found that being drawn above another leader does move power ratings, and that extra distance does not.",
+    "detail": "Many Labs 2 is a multi-laboratory project. It ran 28 findings across 125 samples and 15,305 participants in 36 countries and territories, splitting them over two slates of 64 and 61 samples, with 15 sites running both. This effect sat on the second slate. In the aggregate replication sample of 7,890, the long-line group rated the manager 4.97 and the short-line group 4.93, t(7,888) = 1.40, p = 0.16, d = 0.03 with a 95% interval from -0.01 to 0.08, against an original of 0.55. Giessner and Schubert had told the project beforehand that their finding might be sensitive to the order in which tasks were administered, and the project reports no systematic variation in effect magnitude by order for any of the four findings flagged that way. The two authors then ran two preregistered studies of their own and published them in 2019. Their Study 1 repeated the reverse direction from original Study 3a on 126 students. Those told the manager was powerful placed his box higher, d = 1.21 with a 95% interval from 0.82 to 1.59, against an original of 0.86. Their Study 2 rebuilt the chart study with two leaders on the upper level and 466 students in four conditions. A target leader drawn above the other was rated 5.09 against 4.81 for one drawn level with him, t(464) = 2.97, p = .003, partial r-squared = .02. Increasing the distance between the two leaders beyond that did nothing, t(464) = .25, p = .80 and t(464) = -.65, p = .52. The authors write that the failed replication \"estimates the true effect quite well\" and that their original study was a false positive.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 61,
+      "n": 7890
+    },
+    "original": { "es": 0.55, "esType": "d", "ci": [0.05, 1.05], "ciLevel": 95 },
+    "replicated": { "es": 0.03, "esType": "d", "ci": [-0.01, 0.08], "ciLevel": 95, "weighting": "aggregate replication sample, the figure Many Labs 2 also tabulates as its global effect size" },
+    "indexedBy": "the Bias Atlas supplement of multi-laboratory replications"
+  },
+  "limits": "Every figure above comes from a rating of a diagram on a screen. Participants saw a box, a line and a sentence about salaries, and answered five agreement items about a manager they never met. That is a narrow measure. A search for a test outside the laboratory, run over web search on real organisation charts, seating and archival firm data, and over the discussion and reference list of the 2019 replication report, turned up no such test. The rank-order finding that survived is small: the contrasts together explained 2% of the variance in power ratings, and the gap was 0.28 points on a seven-point scale. It also comes from one team testing its own paradigm at one Dutch business school. Giessner and Schubert warn in the same paper that their overview of the surrounding evidence is selective, that the field is subject to publication bias, and that true effect sizes are likely smaller than reported. They add that the many earlier studies manipulating rank order were, to their knowledge, not preregistered. The literature also runs power, status, rank, authority and dominance together, which they name as a problem their own studies do not fix.",
+  "misreadings": "The commonest error is to keep citing the chart study. The 2007 paper is still quoted in management writing for the claim that drawing a manager further above his team makes him look more powerful, on 64 students, against 7,890 who show nothing. The opposite error is to read the failure as showing that power is not read off elevation. Giessner and Schubert close their reply by saying they hope the replication failure does not lead researchers to that conclusion, and their own preregistered test of rank order is the reason. A third error treats the successful 2019 study as a replication of the failed one. It is not. One asks whether spatial position changes power judgements, the other asks whether stated power changes where people put a box, and the paradigms differ. A fourth imports conceptual-metaphor theory as evidence. That power is described in English as high, above and on top is a fact about language, and it is what the hypothesis was built from rather than a test of it. The reaction-time and attention work is separate again, and thin: Schubert's compatibility studies ran 40 to 108 participants each, and Zanolie and colleagues found their attentional shift in 38 people, with the event-related potential result resting on 15. Lakens, Semin and Foroni report that the vertical representation of power strengthens when power differences are manipulated within participants rather than between them, which is one reason the between-subjects chart paradigm may have been the wrong instrument.",
+  "sources": [
+    {
+      "text": "Giessner, S. R., & Schubert, T. W. (2007). High in the hierarchy: How vertical location and judgments of leaders' power are interrelated. Organizational Behavior and Human Decision Processes, 104(1), 30-44. Read in the authors' copy at http://www.igroup.org/schubert/papers/giessner_schubert_obhdp06.pdf.",
+      "doi": "10.1016/j.obhdp.2006.10.001",
+      "url": "https://doi.org/10.1016/j.obhdp.2006.10.001",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Read in the accepted manuscript at http://eprints.lse.ac.uk/91159/1/Kappes_Many-labs-2.pdf; source for the replication figures and the project totals.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://doi.org/10.1177/2515245918810225",
+      "type": "replication"
+    },
+    {
+      "text": "Giessner, S. R., & Schubert, T. W. (2019). Power and vertical positions in an organization chart: A pre-registered replication report of Study 3a and a modification of Study 1a, Giessner & Schubert (2007). Collabra: Psychology, 5(1), 25. Read in the open-access copy at https://repub.eur.nl/pub/119600/Repub_119600_O-A.pdf.",
+      "doi": "10.1525/collabra.216",
+      "url": "https://doi.org/10.1525/collabra.216",
+      "type": "replication"
+    },
+    {
+      "text": "Schubert, T. W. (2005). Your highness: Vertical positions as perceptual symbols of power. Journal of Personality and Social Psychology, 89(1), 1-21. Read in the author's copy at http://www.igroup.org/schubert/papers/schubert_jpsp05.pdf.",
+      "doi": "10.1037/0022-3514.89.1.1",
+      "url": "https://doi.org/10.1037/0022-3514.89.1.1",
+      "type": "context"
+    },
+    {
+      "text": "Zanolie, K., van Dantzig, S., Boot, I., Wijnen, J., Schubert, T. W., Giessner, S. R., & Pecher, D. (2012). Mighty metaphors: Behavioral and ERP evidence that power shifts attention on a vertical dimension. Brain and Cognition, 78(1), 50-58.",
+      "doi": "10.1016/j.bandc.2011.10.006",
+      "url": "https://doi.org/10.1016/j.bandc.2011.10.006",
+      "type": "context"
+    },
+    {
+      "text": "Lakens, D., Semin, G. R., & Foroni, F. (2011). Why your highness needs the people: Comparing the absolute and relative representation of power in vertical space. Social Psychology, 42(3), 205-213. Abstract read at the Eindhoven University of Technology repository; the full text is paywalled and was not obtained.",
+      "doi": "10.1027/1864-9335/a000064",
+      "url": "https://doi.org/10.1027/1864-9335/a000064",
+      "type": "context"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
