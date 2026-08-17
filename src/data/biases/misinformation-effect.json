@@ -1,0 +1,113 @@
+{
+  "no": 502,
+  "slug": "misinformation-effect",
+  "name": "Misinformation effect",
+  "aliases": [
+    "Post-event information effect",
+    "Misleading post-event information",
+    "Postevent misinformation effect"
+  ],
+  "category": "memory",
+  "statement": "Information supplied after an event is folded into what a witness later reports seeing, so a detail suggested afterwards is recalled as part of the original scene.",
+  "meaning": "The paradigm runs in three stages and the argument attaches to the third. A person sees an event, then receives an account of it that alters one detail, then takes a memory test on the event. The altered detail turns up in the answers. What that shows is the contested part. Reporting a suggested detail is compatible with the original memory being destroyed, with it being intact but outranked by a source the person trusts more, and with the detail never having been encoded. The procedure measures reports. Impairment of memory is an inference drawn from reports, and for a decade the field argued about whether the inference holds.",
+  "origin": {
+    "year": 1978,
+    "who": "Elizabeth F. Loftus, David G. Miller and Helen J. Burns",
+    "where": "Journal of Experimental Psychology: Human Learning and Memory",
+    "note": "The paper is 'Semantic integration of verbal information into a visual memory'. It fixed the three-stage procedure and the stop sign against yield sign materials that the field reused for decades. Its text, searched here, does not contain the word misinformation; it calls the manipulation misleading information. Loftus and Palmer's 1974 speed-estimate study came four years earlier and is covered in the false memory entry."
+  },
+  "evidence": "A total of 1,242 subjects, across five experiments and a pilot, saw slides of an auto-pedestrian accident. In the pilot the final test was yes-no. Subjects given misleading information scored 71% hits against 70% false alarms, which Loftus, Miller and Burns read as no ability to tell the two signs apart. Experiment 1 switched to forced choice between the two signs. Of 195 University of Washington students, 95 got a question presupposing the sign they had seen and 100 got a question presupposing the other. Correct selection was 75% and 41%, Z = 4.72, p < .001. Against a 50% chance baseline the consistent group was above it, Z = 5.10, p < .001, and the misled group below it, Z = 1.80, p < .05 one-tailed. Experiment 2 tested whether subjects were simply obliging the experimenter. Ninety subjects were split three ways between a consistent, a misleading and a sign-free question, and 53 chose the correct sign. A debriefing form invited them to say which sign they saw and which their questionnaire had mentioned. Of those who chose correctly 43% got both right, against 14% of those who chose wrongly, Z = 2.96, p < .01, and of the 17 misled subjects who chose wrongly only 12% reported both. Experiment 3 varied timing. 648 students were tested at 20 minutes, 1 day, 2 days or 1 week, 144 at each interval, with a further 72 tested immediately. Collapsed over the four delayed intervals, misleading information given straight after the slides left 46% correct, and the same information given just before the test left 31.5%, Z = 2.06, p < .05. The no-information groups were at chance by 2 days.",
+  "replication": {
+    "state": "replicated",
+    "headline": "A contemporary online replication of the 1978 experiment found the effect again, and across 44 tests built to exclude response bias misled recognition ran at 71.7% against 75.8% for controls.",
+    "detail": "Wiechert, Verschueren, Ben-Shakhar, Pertzov, Loftus and Verschuere re-ran Experiment 3 online, with a car accident filmed in Grand Theft Auto and misleading sign information delivered as cowitness statements. Their abstract reports that misled participants gave the correct sign less often than controls. It also reports that the effect survived a four-option test with confidence-based point betting, though smaller, and that reversing the order of the original and misleading events removed it on the binary test. Their figures were not obtainable and only the abstract was read. Tversky and Tuchin ran McCloskey and Zaragoza's office-theft slides on 72 Stanford undergraduates with a yes-no test, so that memory for the seen item, the suggested item and a new item could be scored separately. Control subjects accepted the seen item 65% of the time against 43% for misled subjects, sign test z = 2.66, p < .005, while both groups rejected the new item at 76%. Payne, Toglia and Anastasi collected 48 cases from 13 articles that used the modified test, dropped 4 at ceiling, and analysed 44. Thirty of them reported no reliable effect and 14 reported one. Pooled, misled recognition was 71.7% against 75.8% for controls, t(43) = 4.65, p < .001, with 30 of 40 untied cases in the same direction. Sievwright, Philipp, Drummond, Knapp and Ross showed 99 online participants a ten-minute film of a fictional school shooting and misled them 5 to 10 days later. Controls scored 77% correct on the recognition test against 70% for misled participants, t(97) = -2.91, p = .004, d = 0.59, 95% CI [0.18, 0.99], BF10 = 8.34.",
+    "study": {
+      "cite": "Payne, D. G., Toglia, M. P., & Anastasi, J. S. (1994). Recognition performance level and the magnitude of the misinformation effect in eyewitness memory. Psychonomic Bulletin & Review, 1(3), 376-382.",
+      "doi": "10.3758/BF03213978",
+      "year": 1994
+    }
+  },
+  "limits": "The size of the effect moves with the procedure, and some of the moves are large enough to flip a result. Timing is one: Loftus, Miller and Burns got 46% correct when the misleading question came early and 31.5% when it came late. Baseline performance is another. Payne, Toglia and Anastasi found control accuracy correlated .54 with the size of the effect across their 44 cases. Control hit rates were 81.1% in the cases that reached significance against 73.6% in those that did not, t(42) = 3.40, p < .001. Their condition by retention interval interaction was F(1, 42) = 7.52, p < .01. Control performance in their long-interval cases was higher than in the short ones, p = .01, which they read as delay confounded with performance level rather than as a clean delay effect. Warnings matter too. Blank and Launay meta-analysed 25 post-warning studies carrying 155 effect sizes and report in their abstract that warnings cut the effect to less than half its size, with the gain concentrated in misled performance and little cost to controls. Their full text stayed out of reach here and no pooled figure is quoted. Two cautions run the other way. Sievwright and colleagues' own discriminability measure gave d = 0.42, 95% CI [0.02, 0.82], with BF10 = 1.46, which they call anecdotal. O'Donnell and Chan report in their abstract two high-powered experiments that failed to reproduce Loftus's finding that a blatantly false detail inoculates a witness against subtler ones. This entry covers post-event information about a witnessed event. Suggestion delivered by a fellow witness is in the memory conformity entry, whole implanted childhood events and the word-list paradigm are in the false memory entry, and the wider field is in the eyewitness memory entry. The search ran across Crossref, PubMed, Europe PMC, OpenAlex, Unpaywall, Semantic Scholar, OSF and the open web. McCloskey and Zaragoza's 1985 article, Loftus, Schooler and Wagenaar's comment on it, Blank and Launay's meta-analysis and Wiechert and colleagues' replication were all paywalled and are described from other documents or from their abstracts.",
+  "misreadings": "The effect is routinely reported as proof that a memory was overwritten, and that is the claim the field spent a decade failing to establish. McCloskey and Zaragoza gave two reasons why misled subjects should do worse than controls even if their memory is untouched. Subjects who never encoded the sign guess at 50% in the control condition and pick the suggested item in the misled condition. Subjects who remember both may pick the suggested one because they trust the narrative more than themselves. Their fix was the modified test, which offers the seen item against a wholly new item and leaves the suggested item off the ballot. In six experiments they found no reliable misled-control difference. Payne, Toglia and Anastasi print those six comparisons among their 44: 71 against 66, 77 against 71, 73 against 77, 81 against 74, 68 against 70, and 77 against 71. Zaragoza and McCloskey answered Belli and Tversky and Tuchin in 1989 and still concluded that memory-impairing effects of misleading information remain to be demonstrated. The reply to McCloskey and Zaragoza is usually credited to Loftus alone. It came from Loftus with Schooler and Wagenaar, and the yes-no evidence that reopened the question came from Tversky and Tuchin at Stanford and from Belli, while the aggregate defence of the modified test came from Payne, Toglia and Anastasi. The reverse error is to read the modified-test nulls as a failure to replicate the effect itself. Payne and colleagues note that a two-alternative test cuts any impairment in half, because subjects whose memory is damaged still guess right half the time, and that 30 individually null cases still aggregate to a difference at p < .001. Loftus, Miller and Burns are also cited as having ruled out compliance. Their Experiment 2 debriefing is the evidence for that. McCloskey and Zaragoza used the same numbers to argue the opposite, reading them as showing that about a third of the misled-control gap came from subjects who remembered the original sign and chose the suggested one anyway. One last thing the paradigm does not bound. The altered item is a detail the witness has no reason to defend, described by Loftus, Miller and Burns as a peripheral one, and supplied by a source with no apparent motive to lie.",
+  "sources": [
+    {
+      "text": "Loftus, E. F., Miller, D. G., & Burns, H. J. (1978). Semantic integration of verbal information into a visual memory. Journal of Experimental Psychology: Human Learning and Memory, 4(1), 19-31. Read in full from a page scan hosted at faculty.kutztown.edu; every figure in the evidence section was extracted twice from the document text.",
+      "doi": "10.1037/0278-7393.4.1.19",
+      "url": "https://doi.org/10.1037/0278-7393.4.1.19",
+      "type": "primary"
+    },
+    {
+      "text": "McCloskey, M., & Zaragoza, M. (1985). Misleading postevent information and memory for events: Arguments and evidence against memory impairment hypotheses. Journal of Experimental Psychology: General, 114(1), 1-16. Paywalled and not read here. Metadata verified at Crossref; the six modified-test comparisons are taken from Payne, Toglia and Anastasi's Table 1, and the argument from the authors' own 1985 reply.",
+      "doi": "10.1037/0096-3445.114.1.1",
+      "url": "https://doi.org/10.1037/0096-3445.114.1.1",
+      "type": "critique"
+    },
+    {
+      "text": "Loftus, E. F., Schooler, J. W., & Wagenaar, W. A. (1985). The fate of memory: Comment on McCloskey and Zaragoza. Journal of Experimental Psychology: General, 114(3), 375-380. Paywalled and not read here. Metadata verified at Crossref; its objections are known from the quotations in McCloskey and Zaragoza's reply.",
+      "doi": "10.1037/0096-3445.114.3.375",
+      "url": "https://doi.org/10.1037/0096-3445.114.3.375",
+      "type": "commentary"
+    },
+    {
+      "text": "McCloskey, M., & Zaragoza, M. (1985). Postevent information and memory: Reply to Loftus, Schooler, and Wagenaar. Journal of Experimental Psychology: General, 114(3), 381-387. Read in full; source for the two response-bias arguments, for the modified test design and for the reading of the 1978 debriefing data.",
+      "doi": "10.1037/0096-3445.114.3.381",
+      "url": "https://doi.org/10.1037/0096-3445.114.3.381",
+      "type": "commentary"
+    },
+    {
+      "text": "Tversky, B., & Tuchin, M. (1989). A reconciliation of the evidence on eyewitness testimony: Comments on McCloskey and Zaragoza. Journal of Experimental Psychology: General, 118(1), 86-91. Read in full; source for the yes-no experiment on 72 Stanford undergraduates.",
+      "doi": "10.1037/0096-3445.118.1.86",
+      "url": "https://doi.org/10.1037/0096-3445.118.1.86",
+      "type": "replication"
+    },
+    {
+      "text": "Belli, R. F. (1989). Influences of misleading postevent information: Misinformation interference and acceptance. Journal of Experimental Psychology: General, 118(1), 72-85. Not read here. Metadata verified at Crossref; named because Zaragoza and McCloskey's 1989 comment answers it alongside Tversky and Tuchin.",
+      "doi": "10.1037/0096-3445.118.1.72",
+      "url": "https://doi.org/10.1037/0096-3445.118.1.72",
+      "type": "replication"
+    },
+    {
+      "text": "Zaragoza, M. S., & McCloskey, M. (1989). Misleading postevent information and the memory impairment hypothesis: Comment on Belli and reply to Tversky and Tuchin. Journal of Experimental Psychology: General, 118(1), 92-99. Read in full; source for their 1989 position.",
+      "doi": "10.1037/0096-3445.118.1.92",
+      "url": "https://doi.org/10.1037/0096-3445.118.1.92",
+      "type": "commentary"
+    },
+    {
+      "text": "Payne, D. G., Toglia, M. P., & Anastasi, J. S. (1994). Recognition performance level and the magnitude of the misinformation effect in eyewitness memory. Psychonomic Bulletin & Review, 1(3), 376-382. Read in full; source for the 44-case meta-analysis, for Table 1 and for the performance-level findings.",
+      "doi": "10.3758/BF03213978",
+      "url": "https://doi.org/10.3758/BF03213978",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Belli, R. F., Lindsay, D. S., Gales, M. S., & McCarthy, T. T. (1994). Memory impairment and source misattribution in postevent misinformation experiments with short retention intervals. Memory & Cognition, 22(1), 40-54. Not read here. Metadata verified at Crossref; cited by Payne and colleagues for obtaining the effect with a modified free-recall test.",
+      "doi": "10.3758/BF03202760",
+      "url": "https://doi.org/10.3758/BF03202760",
+      "type": "replication"
+    },
+    {
+      "text": "Blank, H., & Launay, C. (2014). How to protect eyewitness memory against the misinformation effect: A meta-analysis of post-warning studies. Journal of Applied Research in Memory and Cognition, 3(2), 77-88. Paywalled; the repository copy at the University of Portsmouth would not download on this pass. The abstract was read twice and is the source for the 25 studies, the 155 effect sizes and the halving.",
+      "doi": "10.1016/j.jarmac.2014.03.005",
+      "url": "https://doi.org/10.1016/j.jarmac.2014.03.005",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Sievwright, O., Philipp, M., Drummond, A., Knapp, K., & Ross, K. (2021). Misinformation effects in an online sample: results of an experimental study with a five day retention interval. PeerJ, 9, e12299. Read in full at PubMed Central.",
+      "doi": "10.7717/peerj.12299",
+      "url": "https://doi.org/10.7717/peerj.12299",
+      "type": "replication"
+    },
+    {
+      "text": "O'Donnell, R., & Chan, J. C. K. (2023). Does blatantly contradictory information reduce the misinformation effect? A Registered Report replication of Loftus (1979). Legal and Criminological Psychology, 30(1), 3-26. The Wiley copy would not download; the structured abstract was read at Crossref and is the source for the two failed effects.",
+      "doi": "10.1111/lcrp.12242",
+      "url": "https://doi.org/10.1111/lcrp.12242",
+      "type": "replication"
+    },
+    {
+      "text": "Wiechert, S., Verschueren, A., Ben-Shakhar, G., Pertzov, Y., Loftus, E. F., & Verschuere, B. (2026). The misinformation effect: A contemporary replication and extension of Loftus et al. (1978) to investigate its underlying mechanisms. Journal of Experimental Psychology: Learning, Memory, and Cognition, 52(7), 1225-1241. Paywalled, with no repository copy located. The abstract was read twice at PubMed and no numbers from the paper are quoted here.",
+      "doi": "10.1037/xlm0001529",
+      "url": "https://doi.org/10.1037/xlm0001529",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
