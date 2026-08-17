@@ -1,0 +1,69 @@
+{
+  "no": 463,
+  "slug": "temporal-distancing-bias",
+  "name": "Temporal distancing bias",
+  "aliases": ["Subjective temporal distance", "Distancing bias", "Temporal self-appraisal"],
+  "category": "social",
+  "statement": "People report feeling further from past experiences that reflect badly on them than from equally distant ones that flatter them, so a failure feels long ago and a success feels recent.",
+  "meaning": "What is measured is a rating, not a recollection. A participant names a past event and then marks on a scale how near or far it feels, and the bias is the gap between that mark and the calendar. Ross and Wilson's temporal self-appraisal theory holds that a favourable view of the present self is easier to keep if unflattering pasts are pushed away and flattering ones pulled close. Two separable claims sit inside that. The first is a main effect of valence: negative events feel more remote than positive events matched for elapsed time. The second is a moderation by self-esteem, since people with high self-esteem are taken to have more to protect and so should show the wider gap. The moderation is what makes the account motivational, and the two claims have fared differently under replication. Nothing here concerns whether the content of the memory is accurate. The corpus's self-consistency-bias entry covers recollections pulled towards a person's present position; felt distance is a different judgement, collected on a different scale, and the two can move independently.",
+  "origin": {
+    "year": 2002,
+    "who": "Michael Ross and Anne E. Wilson",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "The paper is titled 'It feels like yesterday' and reports three studies. Its own term for the finding is the distancing bias. Temporal self-appraisal theory was set out a year earlier by Wilson and Ross in the same journal, in a paper on how people appraise their earlier and present selves. The 2002 full text could not be obtained, so its studies are described here from its abstract at PubMed and from Ebersole and colleagues' account of Study 2."
+  },
+  "evidence": "The 2002 abstract reports that in three studies participants felt further from former selves and experiences with unfavourable implications for their current self-view than from equally distant selves and experiences with flattering implications. It states that the pattern held when assignment to a negative or positive past was random, for achievement outcomes and for social outcomes, and for single episodes as well as longer-term experiences. It reports the distancing bias as stronger among high than low self-esteem participants, and as occurring for personal events but not for acquaintances' events. Frequency of rehearsal and ease of recall also predicted feelings of distance, and by that abstract's account did not explain the Self-Esteem by Valence interaction. Study 2 is described by Ebersole and colleagues, who repeated it. It assigned 357 students to recall either the best or the worst grade they received in the previous semester, then asked how distant the course felt and how often they had thought about it since. Actual time since the class entered a hierarchical regression at step 1, so elapsed time was controlled statistically rather than held equal by design. The Self-Esteem by Condition interaction was t(352) = 1.98, p = .0485, beta = -.136, d = 0.21, 95% CI [.001, .418]. High self-esteem participants felt more distant from the course in which they got their worst grade, t(352) = 3.57, beta = -.31, p = .0002. Low self-esteem participants showed no reliable relation between grade and subjective distance, t(352) = 0.83, beta = -.07, p = .204.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Many Labs 3 found the valence effect across 20 sites and did not find the self-esteem moderation that makes the account motivational, and a later six-experiment paper reports no motivated component at all.",
+    "detail": "Ebersole and colleagues ran Study 2 at 20 university participant pools (N = 2,696) and in one online sample (N = 737), inside a session of ten studies presented in random order and piloted to fit 30 minutes. Self-esteem was measured with a single item rather than the Rosenberg scale the original used. In the aggregate test, N = 3,136, the Self-Esteem by Condition interaction was F(1, 3131) = 1.98, p = .160, partial eta squared .001, 95% CI [0, .004]. The main effect of condition held. Participants in the best-grade condition felt closer to the recalled class than those in the worst-grade condition, F(1, 3131) = 33.24, p < .001, partial eta squared .011, 95% CI [.005, .019]. Self-esteem on its own predicted closer subjective distance, F(1, 3131) = 7.97, p = .004, partial eta squared .003, 95% CI [.0002, .007]. Neither the undergraduate nor the online sample showed the interaction, and both showed the main effect. The authors added that main effect to the analysis after the interaction failed, so it is not a preregistered confirmatory test. This was one of two effects in the project with signs of inter-site variation, I² = 39.25%, p = .026 for the interaction and I² = 35.81%, p = .063 for the main effect. Independent work points the same way on the moderation. Demiray and Freund report three studies in which higher self-esteem went with feeling closer to memories of attained goals; in their Study 2 self-esteem was unrelated to the distance of failure memories, and in Study 3 an experimental manipulation of state self-esteem moved only the middle-aged group. Baldwin, Alves and Unkelbach ran six experiments, total N = 1,796, fitting a cognitive-ecological model to temporal self-appraisals, and report finding no evidence for motivated self-perception across time.",
+    "study": {
+      "cite": "Ebersole, C. R., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "year": 2016,
+      "sites": 20,
+      "n": 3136
+    }
+  },
+  "limits": "Ross and Wilson's paper is closed at the publisher. Crossref, OpenAlex, Semantic Scholar and web search returned no open copy, so nothing is taken from it here beyond its PubMed abstract, and its own effect sizes for Studies 1 and 3 were not obtained. Table 3 of Many Labs 3, which sets the original and replication estimates side by side, is missing from the copy of the paper that was downloaded and could not be reached at eScholarship or at the repository copies listed by OpenAlex, so the project's meta-analytic estimates and its figure for the original main effect are left out. Every number quoted above comes from the running text of that paper, read from the PDF. Wilson and Ross 2001, Ward and Wilson 2015, Demiray and Freund 2017 and Baldwin, Alves and Unkelbach 2024 are all closed at their publishers and are described here from their PubMed abstracts, which carry no effect sizes for the claims quoted. No meta-analysis of the distancing bias was found in a search covering PubMed, Crossref, OpenAlex, Semantic Scholar and web search, and Many Labs 3 is the only multi-laboratory test located. Two features of that test weaken it as a verdict on the moderation: the single-item self-esteem measure, and a protocol that placed the task among nine others. The dependent measure throughout this literature is one or two rating-scale items, which sets a ceiling on what any of it can show.",
+  "misreadings": "The bias is not a memory error. What is recorded is how near an event feels on a scale, not what the person recalls about it, and a participant can date the event correctly and still call it remote. Rosy retrospection concerns an event rated more warmly afterwards than during it. Self-consistency bias concerns the recalled content of an earlier opinion. Hindsight bias concerns the recalled probability of an outcome. This entry concerns felt distance and nothing else. The second error is treating the package as replicated. The valence effect survived a 20-site test at about a hundredth of the variance; the self-esteem moderation did not survive, and it is the part that carries the motivational story. The third is reading the arrow in one direction only. Ward and Wilson had participants rate past selves portrayed as subjectively close or distant while holding calendar time constant, and found incremental theorists more critical of the distant selves, so felt distance shifts the appraisal as well as following it. Baldwin and colleagues account for the same appraisal pattern without any motive at all, from the greater diversity of negative attributes and ordinary similarity-based comparison.",
+  "sources": [
+    {
+      "text": "Ross, M., & Wilson, A. E. (2002). It feels like yesterday: Self-esteem, valence of personal past experiences, and judgments of subjective distance. Journal of Personality and Social Psychology, 82(5), 792-803. The origin. Full text not obtained; only the abstract at PubMed was read.",
+      "doi": "10.1037/0022-3514.82.5.792",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12003478/",
+      "type": "primary"
+    },
+    {
+      "text": "Ebersole, C. R., et al. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. Journal of Experimental Social Psychology, 67, 68-82. Source for every replication figure and for the description of Study 2 of the original; read from the PDF text, except Table 3 and Figure 1, which the downloaded copy does not carry.",
+      "doi": "10.1016/j.jesp.2015.10.012",
+      "url": "https://existentialpsych.sites.tamu.edu/wp-content/uploads/sites/152/2016/09/Many-Labs-3.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Wilson, A. E., & Ross, M. (2001). From chump to champ: People's appraisals of their earlier and present selves. Journal of Personality and Social Psychology, 80(4), 572-584. Where temporal self-appraisal theory was set out. Full text not obtained; abstract read at PubMed.",
+      "doi": "10.1037/0022-3514.80.4.572",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11316222/",
+      "type": "primary"
+    },
+    {
+      "text": "Ward, C. L. P., & Wilson, A. E. (2015). Implicit theories of change and stability moderate effects of subjective distance on the remembered self. Personality and Social Psychology Bulletin, 41(9), 1167-1179. Three studies rating past selves portrayed as subjectively close or distant with calendar time controlled. Full text not obtained; abstract read at PubMed.",
+      "doi": "10.1177/0146167215591571",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26089348/",
+      "type": "extension"
+    },
+    {
+      "text": "Demiray, B., & Freund, A. M. (2017). The psychological distance of memories: Examining causal relations with mood and self-esteem in young, middle-aged and older adults. Consciousness and Cognition, 49, 117-131. Three studies on the self-esteem moderation, including an experimental manipulation of state self-esteem. Full text not obtained; abstract read at PubMed.",
+      "doi": "10.1016/j.concog.2017.01.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28187371/",
+      "type": "replication"
+    },
+    {
+      "text": "Baldwin, M., Alves, H., & Unkelbach, C. (2024). A cognitive-ecological approach to temporal self-appraisals. Journal of Personality and Social Psychology, 126(5), 779-803. Six experiments, total N = 1,796, reporting no evidence for motivated self-perception across time. Full text not obtained; abstract read at PubMed.",
+      "doi": "10.1037/pspa0000369",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38032665/",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}

@@ -4638,7 +4638,7 @@
    "replication_slate": 2,
    "replication_samples_in_slate": 61,
    "replication_samples_note": "Many Labs 2 ran 125 samples in total (64 on Slate 1, 61 on Slate 2, 15 sites running both), 15,305 participants, 36 countries and territories. The paper does not tabulate a per-effect sample count; the figure given is the number of samples in this effect's slate.",
-   "entry": null,
+   "entry": "vertical-position-and-power",
    "source": "Klein et al. (2018), Many Labs 2, doi 10.1177/2515245918810225, Tables 2 and 5"
   },
   {
@@ -5092,7 +5092,7 @@
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
    "note": "Table 3 gives no partial eta squared for the original; its note reports the original as Cohen's d = 0.21, 95% CI [0.001, 0.418].",
-   "entry": null,
+   "entry": "temporal-distancing-bias",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {
@@ -5197,7 +5197,7 @@
    "replication_sites": 20,
    "replication_sites_note": "20 university participant pools (N = 2,696) plus one online MTurk sample (N = 737), per the abstract. Per-effect Ns differ from those totals because two tasks were not run online and because of exclusions.",
    "note": "Listed in Table 3 under ‘Added effects’. Table 3 gives no partial eta squared for the original; its note reports the original main effect as Cohen's d = 0.39, 95% CI [0.18, 0.60].",
-   "entry": null,
+   "entry": "temporal-distancing-bias",
    "source": "Ebersole et al. (2016), Many Labs 3, Journal of Experimental Social Psychology 67, 68–82, doi 10.1016/j.jesp.2015.10.012, Table 3"
   },
   {
