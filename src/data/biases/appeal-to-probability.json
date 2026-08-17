@@ -1,0 +1,92 @@
+{
+  "no": 515,
+  "slug": "appeal-to-probability",
+  "name": "Appeal to probability",
+  "aliases": ["Appeal to possibility", "Possibiliter ergo probabiliter", "Possibility fallacy"],
+  "category": "belief",
+  "statement": "Treating a likely claim as a settled one, so that 'probably P' is carried into the next step of an argument as though it were P.",
+  "meaning": "Two things share this name and only one of them has been measured. The first is a charge in informal logic, that an arguer has moved from what is probable, or in some versions merely possible, to what is the case. The second is a finding about inference: when people reason onward from an uncertain belief, they tend to drop the uncertainty and reason from the leading hypothesis alone. The second is what can be tested, and this page is mostly about it. The formal version of the complaint is older than the label and sharper. Kyburg's lottery paradox sets a rule that licenses belief at high probability against the principle that beliefs can be conjoined, and shows the two cannot both hold. In the Stanford Encyclopedia's wording, Kyburg poses a dilemma: either reject agglomeration or reject rules that license belief for a probability of less than one. None of that concerns how people weight probabilities when choosing between gambles, which is a separate literature with a separate record.",
+  "origin": {
+    "year": 1994,
+    "who": "Gregory L. Murphy and Brian H. Ross",
+    "where": "Cognitive Psychology",
+    "note": "Their paper 'Predictions from uncertain categorizations' is the measured effect's anchor, and its abstract reports that across eleven experiments, with one exception, subjects did not generally alter their predictions as a function of information outside the most likely target category. The name on this page has a different and thinner history. Wikipedia's article defines it as the move from possible to probable, gives the Latin tag 'possibiliter ergo probabiliter', and rests on two citations: Bo Bennett's self-published web dictionary and pages 26 to 29 of Richard Carrier's 2012 book 'Proving History', neither obtained here. The phrase appears nowhere in Hansen's Stanford Encyclopedia entry on fallacies or in the Internet Encyclopedia of Philosophy's fallacy article, both of which were downloaded and searched in full, the second of which carries an alphabetical list with many separate 'appeal to' headings. Gettys, Kelly and Peterson's 1973 'best guess hypothesis' paper is an earlier antecedent for the measured effect; it is named by Dewitt and colleagues and was not read here."
+  },
+  "evidence": "The clearest test is Johnson, Merchant and Keil's, published in the Journal of Experimental Psychology: General and read here from the accepted manuscript. Eight studies, 120 participants recruited for each from Amazon Mechanical Turk, gave people two competing explanations for an observation and then asked for a downstream prediction. The design varied, separately, how strongly each explanation implied the predicted event. Participants tracked the strength of the link running from the favoured explanation and ignored the link running from the other. Study 4 removed the obvious objection by asking for the probabilities instead of a forced choice. Among those who rated the simple explanation higher, the mean estimate was 65.9 per cent for it and 34.1 per cent for the rival, and the rival's predictive link still moved nothing, t(71) = -0.33, p = .74. The authors' comment is that a one-third probability is an awfully big chance to ignore. Study 6 cut the leading hypothesis to a bare plurality, 50 per cent against two rivals at 25 per cent each, and the pattern held, t(78) = -0.04, p = .97 on the rival link. Their internal meta-analysis, over more than 500 participants, found heavy use of the likelier hypothesis, z = 10.84, p < .001, and none of the less likely one, z = -1.21, p = .23, with a Bayesian version putting the odds at 12.7 to 1 in favour of the null there. The authors call the effect belief digitization: probabilities are converted to ones and zeros when they are used.",
+  "replication": {
+    "state": "mixed",
+    "headline": "An independent laboratory found about a third of participants updating as though the likelier account were certain, another third refusing to update at all, and the effect vanishes once the downstream probabilities are supplied as numbers.",
+    "detail": "Dewitt, Adler, Li, Stoilova, Fenton and Lagnado ran three experiments at University College London on a different task. Participants estimated how often each of two nations succeeded in exploding a test missile, learned of a fresh explosion on the border, and revised. Of 255 participants in experiment 1, 88, or 34.5 per cent, revised as though the likelier nation had certainly fired it, and 80, or 31.4 per cent, changed nothing. Experiment 2, on 256 participants, gave 32.9 per cent and 37.6 per cent. Experiment 3 moved to two cancer tests returning conflicting reports and split 225 participants almost evenly, 75 updating categorically against 73 standing pat. The people updating categorically were not claiming certainty. In the one condition of experiment 1 that asked, their mean estimate that the likelier nation had fired the missile was 77.7 per cent, and all but one gave a figure below 100. In experiment 3 the same group put their certainty that the more accurate test was right at 76.3 per cent. Four ways of asking about responsibility, one of them explicitly categorical and two explicitly probabilistic, made no difference to how many responded this way, chi-square(3) = 1.19, p = .755. What does make a difference is spelling out the downstream numbers. In Johnson, Merchant and Keil's pooled analysis, giving explicit probabilities for the predictive links restored attention to the less likely hypothesis, z = 4.82, p < .001, while giving explicit probabilities for the hypotheses themselves did nothing, z = 0.49, p = .62. Hayes and Newell found a second lever. Their three experiments confirmed that many people predicted from the target category alone, and reported that single-category reasoning fell sharply when the costs of ignoring the alternative were highlighted and when the inference was requested before the categorisation decision. Their conclusion is that earlier work may have exaggerated how common the pattern is. No study located here tests the fallacy under its own name. The search covered Crossref, PubMed, OpenAlex citation lists for the digitization paper, and web search pairing 'appeal to probability' and 'appeal to possibility' with terms for experiment and participants, and it returned fallacy explainers rather than data.",
+    "study": {
+      "cite": "Dewitt, S. H., Adler, N., Li, T., Stoilova, V., Fenton, N. E., & Lagnado, D. A. (2023). Categorical updating in a Bayesian propensity problem. Cognitive Science, 47(7), e13313.",
+      "doi": "10.1111/cogs.13313",
+      "year": 2023
+    }
+  },
+  "limits": "The strongest measured case runs the other way, and it runs the other way in the setting where the stakes are highest. Wells put variants of the blue bus problem to mock jurors. In his first experiment two versions were built to yield the same probability, one resting on the Blue Bus Company owning 80 per cent of the traffic and one on a weigh-station log that was right 80 per cent of the time. Eighty students saw each version, half rendering a verdict and half estimating the probability. Subjective probabilities matched, with 85 per cent and 80 per cent of respondents giving .80, and verdicts did not, at 8.2 per cent against 67.1 per cent liable, chi-square(1, n = 40) = 30.7, p < .01. The printed percentages do not correspond to whole respondents at the cell size the test reports, and the paper was read directly rather than through a summary. Across five studies his abstract gives 740 students and 111 experienced trial judges averaging fewer than 10 per cent affirmative decisions on naked statistical evidence and over 65 per cent on other evidence of matching probability. People in that task decline to turn a probability into a categorical finding, which is the opposite of the error this page names. The rest of the record is thinner than it looks. Murphy and Ross's eleven experiments are quoted here from their PubMed abstract, the full text having not been obtained, and the same holds for Hayes and Newell. Every measured task asks for a prediction or an estimate rather than for a verdict on an argument, so nothing here shows that people accept the inference when it is laid out as a piece of reasoning. Carrier's book, the only substantive citation behind the popular definition, was not obtained.",
+  "misreadings": "The name points at two different mistakes and sources disagree about which. Wikipedia's article makes it the move from possible to probable, with the example 'something can go wrong, therefore something will go wrong'. Popular explainers make it the move from probable to certain: one of them lists the appeal to possibility as a separate item and glosses the appeal to probability as appealing to a likelihood as if it were a certainty. Anyone using the label should say which they mean. The second confusion is with prospect theory. Overweighting outcomes that are already near certain is the certainty effect, and treating a two-stage gamble as a sure thing is the pseudocertainty effect, both of them claims about how probabilities enter a choice between gambles rather than about inference to a categorical conclusion. Probability neglect is a third thing again, about affect swamping likelihood. A hedge is also not a fallacy. Saying 'probably' and then acting is often the correct response to a decision that has to be made, and Dewitt and colleagues found a third of their participants making no revision at all, which is the mirror-image error of demanding certainty before moving.",
+  "sources": [
+    {
+      "text": "Murphy, G. L., & Ross, B. H. (1994). Predictions from uncertain categorizations. Cognitive Psychology, 27(2), 148-193. Quoted here from the PubMed abstract; full text not obtained.",
+      "doi": "10.1006/cogp.1994.1015",
+      "url": "https://doi.org/10.1006/cogp.1994.1015",
+      "type": "primary"
+    },
+    {
+      "text": "Johnson, S. G. B., Merchant, T., & Keil, F. C. (2020). Belief digitization: Do we treat uncertainty as probabilities or as bits? Journal of Experimental Psychology: General, 149(8), 1417-1434. Figures read from the accepted manuscript in UCL Discovery.",
+      "doi": "10.1037/xge0000720",
+      "url": "https://discovery.ucl.ac.uk/10108033/1/Belief%20Digitization%20Final.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dewitt, S. H., Adler, N., Li, T., Stoilova, V., Fenton, N. E., & Lagnado, D. A. (2023). Categorical updating in a Bayesian propensity problem. Cognitive Science, 47(7), e13313. Figures read from the open-access version in UCL Discovery.",
+      "doi": "10.1111/cogs.13313",
+      "url": "https://discovery.ucl.ac.uk/10174050/1/Categorical%20Updating%20in%20a%20Bayesian%20Propensity%20Problem.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Hayes, B. K., & Newell, B. R. (2009). Induction with uncertain categories: When do people consider the category alternatives? Memory & Cognition, 37(6), 730-743. Quoted here from the PubMed abstract; full text not obtained.",
+      "doi": "10.3758/MC.37.6.730",
+      "url": "https://doi.org/10.3758/MC.37.6.730",
+      "type": "replication"
+    },
+    {
+      "text": "Wells, G. L. (1992). Naked statistical evidence of liability: Is subjective probability enough? Journal of Personality and Social Psychology, 62(5), 739-752. Read in full as a PDF.",
+      "doi": "10.1037/0022-3514.62.5.739",
+      "url": "https://www.marcellodibello.com/mathtrial/resources/WellsNakedStat1992.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Gettys, C. F., Kelly, C., & Peterson, C. R. (1973). The best guess hypothesis in multistage inference. Organizational Behavior and Human Performance, 10(3), 364-373. Named by Dewitt and colleagues as an antecedent; not read here.",
+      "doi": "10.1016/0030-5073(73)90024-X",
+      "url": "https://doi.org/10.1016/0030-5073(73)90024-X",
+      "type": "primary"
+    },
+    {
+      "text": "Sorensen, R. Epistemic paradoxes. Stanford Encyclopedia of Philosophy, substantive revision of 3 March 2022. Section 3 states Kyburg's 1961 dilemma about rules that license belief below probability one.",
+      "url": "https://plato.stanford.edu/entries/epistemic-paradoxes/",
+      "type": "commentary"
+    },
+    {
+      "text": "Hansen, H. Fallacies. Stanford Encyclopedia of Philosophy, substantive revision of 30 August 2024. Downloaded and searched in full; it contains no occurrence of 'appeal to probability'.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Downloaded and searched in full; its alphabetical list carries many 'appeal to' headings and neither this one nor the appeal to possibility.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Appeal to probability. Wikipedia, wikitext read via the raw action. Cited here for how the label is used, not for any fact.",
+      "url": "https://en.wikipedia.org/wiki/Appeal_to_probability",
+      "type": "commentary"
+    },
+    {
+      "text": "Appeal to probability. Practical Psychology. A popular explainer, cited here only for its wording, which defines the fallacy as appealing to a likelihood as if it were a certainty.",
+      "url": "https://practicalpie.com/appeal-to-probability/",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
