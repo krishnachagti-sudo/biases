@@ -1,0 +1,92 @@
+{
+  "no": 536,
+  "slug": "existential-fallacy",
+  "name": "Existential fallacy",
+  "aliases": ["Fallacy of existential assumption", "Existential import fallacy"],
+  "category": "belief",
+  "statement": "The existential fallacy infers that something exists from premises that never said so, which is how universal statements about an empty class seem to guarantee a member.",
+  "meaning": "Categorical logic has four forms: every S is P, no S is P, some S is P, and some S is not P. Most contemporary textbooks symbolise the two universal forms as conditionals, so 'every S is P' is true whenever there are no S at all, and symbolise the two particular forms as existential claims, which are false when there are no S. Parsons sets out that symbolisation in the Stanford Encyclopedia article on the traditional square of opposition. On that reading a universal premise carries no commitment that its subject class has members, a particular conclusion does, and the step from one to the other adds information the premises never contained. The syllogistic rule follows: on the Boolean interpretation, no valid standard-form syllogism with two universal premises has a particular conclusion. That is how the Lander University logic course states it, and it is the form in which most students meet the fallacy. The same divergence shows up in immediate inference, where subalternation, the step from 'every S is P' to 'some S is P', is lost. The Atlas covers the psychology of the syllogism task under belief bias, and the conditional inference forms under affirming the consequent. Their figures are not restated here.",
+  "origin": {
+    "year": 1965,
+    "who": "Alonzo Church",
+    "where": "Logic, Methodology, and Philosophy of Science (Proceedings of the 1964 International Congress)",
+    "note": "The fallacy has no founding experiment and no founding paper. It is a consequence of a change in how logicians read universal statements, and Parsons dates that change through Church's history of the question, saying the modern view probably originated sometime in the late nineteenth century. Church's article was not obtained here and the dating is taken at one remove from Parsons, who cites it in his first footnote. The name is a textbook's rather than an author's. The Fallacy Files attaches the alias 'the fallacy of existential assumption' to page 207 of the eleventh edition of Copi and Cohen's Introduction to Logic, a book not opened for this entry, and who first printed the phrase 'existential fallacy' could not be established."
+  },
+  "evidence": "Two literatures bear on whether people import existential assumptions, and they were built for different purposes. The first asks what a universal sentence means to an ordinary speaker. Mankowitz ran three surveys on Amazon Mechanical Turk, with 54, 48 and 40 English speakers, who read sentences such as 'Every American king lives in New York' and chose 'True', 'False' or 'Can't say'. Payment required at least 75% accuracy on catch fillers. Experiment 1 crossed the determiners 'every' and 'no' with three restrictor types, at 216 observations per condition. Choices of 'Can't say' ran around 30% for the empty-restrictor conditions and between 2.3% and 10.2% for the others. For 'every' with an empty restrictor, 66.2% of choices were 'False' and 31.01% were 'Can't say'. Mankowitz calls the proportion of 'True' choices, the value the standard semantics predict, negligible. The predicted contrast between determiners did not appear: 31.01% of 'Can't say' for 'every' against 28.24% for 'no', a difference of 0.03 in the estimated marginal means, z = 0.24, p = 0.9999. Experiment 2, with 192 observations per condition, gave 55.2% 'Can't say' and 43.2% 'False' for the same case. Mankowitz's own summary is that assessors who assign a truth value to these sentences overwhelmingly assign the value false, and that the full results do not fit straightforwardly with any existing account. The second literature asks what people infer. Khemlani and Johnson-Laird pooled six data sets covering all 64 pairs of syllogistic premises, with sample sizes of 20, 20, 20, 20, 20 and 56, drawn from students in New York, Milan, Florence and Florida. Two of their 27 valid problems are the ones this entry is about. Darapti, from 'all the B are A' and 'all the B are C', drew the particular conclusion from 16% of responses, ranking 53rd in difficulty; 49% instead concluded 'all the A are C' and 22% said nothing follows. The hardest valid problem in the whole set was 'all the B are A, none of the C is B', whose valid conclusion is 'some of the A are not C'. It was drawn by 1%."
+  ,
+  "replication": {
+    "state": "mixed",
+    "headline": "In interpretation people behave as though universal statements carry existence, calling empty-class universals false rather than true; in inference they rarely draw the particular conclusion those universals are supposed to license.",
+    "detail": "Mankowitz reports the interpretation result twice within one paper. Experiment 1 gave 66.2% 'False' for 'every' with an empty restrictor, Experiment 2 gave 43.2%, and she describes the negligible proportion of 'True' choices in Experiment 1 as replicated in Experiment 2. That direction is what Parsons says to expect, that most English speakers understand 'every S is P' as requiring for its truth that there be some S. The inference result points the other way and rests on more data. Khemlani and Johnson-Laird's six data sets agree closely with one another: the rank order of difficulty of the 27 valid problems had a Kendall's W of .86, p < .001, across studies run in the United States and Italy, and the 37 problems with no valid conclusion had W = .64, p < .001. Within that consistent picture, the two problems whose validity depends on existential import are among the hardest, at 16% and 1%. Reasoners were not committing the fallacy and were not avoiding it either. On Darapti they mostly drew a universal conclusion, 'all the A are C', which is invalid on any reading of the premises. The two literatures are not repeats of each other, and the tasks differ in a way that matters. Khemlani and Johnson-Laird note that psychological experiments have eliminated the difference between language and logic in their instructions, telling participants that individuals of all relevant sorts exist and using the definite article, as in 'all the artists are beekeepers'. Existence is granted in the syllogism laboratory, so those data measure what people do with it rather than whether they assume it."
+    ,
+    "study": {
+      "cite": "Mankowitz, P. (2023). Experimenting with every American king. Natural Language Semantics, 31(4), 349-387.",
+      "doi": "10.1007/s11050-023-09211-2",
+      "year": 2023
+    },
+    "indexedBy": "Crossref"
+  },
+  "limits": "Mankowitz's three surveys are one author's, run on one platform, with English speakers recruited in the United States and sentences presented in isolation. No independent repetition was located: OpenAlex and Semantic Scholar both recorded zero citing works for the paper on the day this entry was checked, and searches of Crossref for experimental work on existential import and empty restrictors returned philosophy and history rather than replications. Her results also cut against the Aristotelian reading as well as the modern one. She argues that a semantics giving 'every' existential import predicts the wrong thing for sentences such as 'in every class, the professor responded to every question that was posed from the class', which is consistent with no questions having been posed in some classes. Bott, Schlotterbeck and Klein's work on empty-set effects in quantifier interpretation was read as a conference abstract and is about the processing cost of quantifiers such as 'less than five' when nothing satisfies them, not about existential import, so it is named here and not used. Khemlani and Johnson-Laird's samples are students, five of the six numbering 20, and their design offers eight possible conclusions plus 'nothing follows' rather than a truth-value judgement. Three documents relevant to this entry could not be obtained: Church's 1965 history of the question, Copi and Cohen's textbook, and Strossner's 2020 article in Logica Universalis, which returned an empty page at Springer on two attempts. Yi's 2025 article was read only as the abstract deposited at Crossref."
+  ,
+  "misreadings": "The usual story, that Aristotelian logic assumed every class has members and modern logic corrected it, is disputed by the specialists who work on the texts. Parsons writes that with a few special exceptions he has been unable to find anyone holding that view before the nineteenth century, and that the traditional square is coherent with empty terms because the O form was read as vacuously true when its subject is empty. Read argues that Lukasiewicz was simply mistaken to attribute the non-empty assumption to Aristotle, that Church traced the modern account to him, and that on Aristotle's principles existential commitment goes with quality rather than quantity, so affirmatives are false when their subject is empty and negatives are true. The weight of authority sits on the other side, and Read names it: Kneale and Kneale, Patzig, Corcoran, Smiley, and the Stanford Encyclopedia's own article on Aristotle's logic. The argument has not settled. Yi's 2025 abstract in Open Philosophy sets out a third position, a no-import interpretation on which even singular and particular affirmatives lack existential import, and argues against both the affirmative-negative and the non-vacuity readings. A second error is to think the modern reading condemns whole swathes of traditional syllogistic. Cohen's list of the moods Aristotle recognises has 14 entries, of which two, Darapti and Felapton, require existential import of the middle term; four weakened moods, Barbari, Celaront, Cesaro and Camestros, need the minor term to have it, and Cohen notes that Aristotle left those out for a different reason, that their premises support stronger conclusions than the particular ones claimed. His list covers the three figures and contains no fourth-figure moods, so counts of the affected forms that include the fourth figure are counting a later system. The third error is to treat every argument of this shape as bad reasoning. Where the class is known to have members, the Fallacy Files points out, the argument is an enthymeme with a suppressed existence premise, and nobody needs to state that there are sapsuckers. The fallacy is a fallacy relative to a convention about what universal statements assert, and Mankowitz's participants show that ordinary speakers do not share the convention."
+  ,
+  "sources": [
+    {
+      "text": "Parsons, T. (2025). The traditional square of opposition. Stanford Encyclopedia of Philosophy, first published 8 August 1997, substantive revision 19 May 2025. Read in full as the raw HTML of the current version. Source for the modern symbolisation, the loss of subalternation, the vacuous truth of the traditional O form, the Darapti argument about the A form, Church's dating, the Strawson assessment, and the remark about how English speakers understand 'every'.",
+      "url": "https://plato.stanford.edu/entries/square/",
+      "type": "primary"
+    },
+    {
+      "text": "Read, S. (2015). Aristotle and Lukasiewicz on existential import. Journal of the American Philosophical Association, 1(3), 535-544. Read in full as the author's PDF at St Andrews, dated 5 April 2015. Source for the attribution of the non-empty assumption to Lukasiewicz and Sleszynski, for the list of authorities on the other side, and for the reading on which existential commitment goes with quality.",
+      "doi": "10.1017/apa.2015.8",
+      "url": "https://www.st-andrews.ac.uk/~slr/Existential_import.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Yi, B. (2025). Did Aristotle have a doctrine of existential import? Open Philosophy, 8(1). Abstract read at Crossref; the full text returned nothing at the publisher on two attempts. Source for the no-import interpretation and for the two readings it argues against.",
+      "doi": "10.1515/opphil-2025-0066",
+      "url": "https://doi.org/10.1515/opphil-2025-0066",
+      "type": "commentary"
+    },
+    {
+      "text": "Mankowitz, P. (2023). Experimenting with every American king. Natural Language Semantics, 31(4), 349-387. Read as the JATS XML from PubMed Central, PMC10630236, downloaded twice to the same checksum. Source for the three sample sizes, the response options, the catch-filler criterion, the per-condition percentages and the statistics quoted.",
+      "doi": "10.1007/s11050-023-09211-2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10630236/",
+      "type": "primary"
+    },
+    {
+      "text": "Khemlani, S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427-457. Read in full as the PDF at modeltheory.org, downloaded twice to the same checksum. Source for the six data sets and their samples, the Table 6 percentages for the two existential-import problems, the concordance figures and the note on instructions.",
+      "doi": "10.1037/a0026841",
+      "url": "https://modeltheory.org/papers/ssk/ssk2012syllogisms-meta-analysis.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Cohen, S. M. (2007). Aristotle's syllogistic. Course handout, University of Washington, revised 28 December 2007. Read in full. Source for the 14 moods Aristotle recognises, for Darapti and Felapton requiring existential import of the middle term, and for the four weakened moods and why Aristotle excluded them.",
+      "url": "https://faculty.washington.edu/smcohen/433/Syllogistic.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "The Fallacy Files. Logical fallacy: The existential fallacy. Revised 11 June 2025. Read in full. Source for the alias, for the enthymeme defence, and for the citation of page 207 of Copi and Cohen quoted at one remove in the origin note.",
+      "url": "https://www.fallacyfiles.org/existent.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Introduction to logic: Syllogistic fallacies, existential fallacy. Lander University philosophy course pages. Read in full. Source for the Boolean rule that no valid standard-form syllogism with a particular conclusion has two universal premises.",
+      "url": "https://philosophy.lander.edu/logic/existential_fall.html",
+      "type": "commentary"
+    },
+    {
+      "text": "Bott, O., Schlotterbeck, F., & Klein, U. Empty-set effects in quantifier interpretation. Journal of Semantics, 36(1), 99-163, published online 9 October 2018. Read only as the authors' conference abstract; named here as work on empty sets that does not test existential import, and not used for any figure on this page.",
+      "doi": "10.1093/jos/ffy015",
+      "url": "https://doi.org/10.1093/jos/ffy015",
+      "type": "provenance"
+    },
+    {
+      "text": "Strossner, C. (2020). Existential import, Aristotelian logic, and its generalizations. Logica Universalis, 14(1), 69-102. Not obtained: the publisher's page returned an empty document on two attempts, and the record here is the Crossref entry.",
+      "doi": "10.1007/s11787-020-00245-2",
+      "url": "https://doi.org/10.1007/s11787-020-00245-2",
+      "type": "provenance"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
