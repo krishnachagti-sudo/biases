@@ -1,0 +1,100 @@
+{
+  "no": 442,
+  "slug": "clean-slate-effect",
+  "name": "Clean slate effect",
+  "aliases": ["Washing away postdecisional dissonance", "Hand washing and postdecisional dissonance", "Clean slate hypothesis"],
+  "category": "social",
+  "statement": "Washing your hands after a choice is said to remove the urge to justify it, so the chosen option stops looking better and the rejected one stops looking worse.",
+  "meaning": "Having chosen between two things you liked about equally, you tend to talk yourself into the one you took. Ratings of the chosen item rise, ratings of the rejected item fall, and the gap between them widens after the choice than before it. Psychologists call that gap the spreading of alternatives and read it as dissonance being resolved. The clean slate claim is that soap interrupts it. Lee and Schwarz proposed that washing removes traces of the past in general rather than guilt in particular, so it should blunt the pull of a prior act that carries no moral weight at all. This is the non-moral branch of the cleansing literature. The moral branch, where wrongdoing creates the urge to wash, is the Macbeth effect and runs in the other direction.",
+  "origin": {
+    "year": 2010,
+    "who": "Spike W. S. Lee and Norbert Schwarz",
+    "where": "Science",
+    "note": "A one-page Brevia report titled \"Washing Away Postdecisional Dissonance\", which itself calls the result a \"clean slate\" effect and treats it as a test of whether cleansing works outside morality."
+  },
+  "evidence": "Two experiments, both run in individual sessions under cover of a consumer survey. In the first, 40 undergraduates browsed 30 CD covers, picked 10 they wanted and ranked them, then were offered their fifth-ranked or sixth-ranked disc as a gift. An unrelated-looking product survey followed, in which half examined a bottle of liquid soap and half tested it by washing their hands. After a filler task they ranked the 10 discs again. Among those who only examined the soap, the rank gap between chosen and rejected rose from 0.14 (SD 1.01) before the choice to 2.05 (SD 1.96) after it, F(1, 38) = 20.40, P < 0.001. Among those who washed, it moved from 0.68 (SD 0.75) to 1.00 (SD 1.41), with F below 1. The interaction was F(1, 38) = 6.74, P = 0.01. The second experiment gave 85 students a choice between two fruit jams and an antiseptic wipe to examine or use, then asked how good each jam would taste on a 0 to 10 scale. Those who did not clean their hands expected 8.00 (SD 1.65) from the chosen jam against 6.43 (SD 1.81) from the rejected one, F(1, 83) = 27.54, P < 0.001. Those who cleaned expected 7.63 (SD 1.56) against 7.23 (SD 1.25), F(1, 83) = 1.79, P = 0.19, with the interaction at F(1, 83) = 7.80, P = 0.006.",
+  "replication": {
+    "state": "failed",
+    "headline": "One preregistered replication has been run, on 286 students at a single university, and it found the difference on the wrong side of zero.",
+    "detail": "The Social Sciences Replication Project retested the CD experiment. Nick Buttrick, Anup Gampa, Lilian Hummer and Brian Nosek collected the data at the University of Virginia between September 2016 and September 2017, using the same brand of soap and albums chosen from a 2016 chart. This was one team in one participant pool, not a multi-laboratory study. The first collection of 123 gave F(1, 121) = 0.5621, p = 0.4549, so a second was run to a pooled 286, 147 who washed and 139 who did not, giving F(1, 284) = 0.6081, p = 0.4362. Standardised as correlations, the original is r = 0.388, p = 0.013, n = 40; the replication is r = -0.068 at stage 1 and r = -0.046 pooled. The direction was opposite to the original at both stages. Dissonance itself was not the problem: rank gaps widened after choice in the pooled sample, from 0.37 to 1.95, t(285) = 12.8883, p < 0.001, d = 1.05, 95% CI 0.87 to 1.22. Only the washing did nothing. Camerer and colleagues list this as the one replication of their 21 with an unintended methodological deviation, described below.",
+    "study": {
+      "cite": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2, 637-644.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "year": 2018,
+      "sites": 1,
+      "n": 286
+    },
+    "original": { "es": 0.388, "esType": "r" },
+    "replicated": { "es": -0.046, "esType": "r" }
+  },
+  "limits": "The deviation is real and the original authors pressed it. In the 2010 procedure the experimenter retyped the 10 albums into alphabetical order of artist before the second ranking, so that the post-choice form looked different from the pre-choice one and could not simply be copied from memory. The replication team wrote that step into its script and then forgot to perform it. Lee and Schwarz argued in Nature Human Behaviour that the omission let memory of the first ranking constrain the second, which would suppress exactly the effect under test. The replication report answers with an exploratory split. It set aside the 121 participants who had not transcribed their albums in rank order, and who therefore lacked the memory cue. Their dissonance effect was as large as ever, d = 1.13, and their washing contrast was F(1, 119) = 0.0500, p = 0.8234. Camerer and colleagues say they find the deviation less plausible as an explanation than the original authors do. Both sides call for follow-up work, and neither claims the question is closed. Only the CD experiment was retested. No replication of the jam and antiseptic-wipe version was located. Lee and Schwarz report a meta-analysis of all replications and originals of this specific effect at d = 0.204, 95% CI 0.040 to 0.349, p = 0.015. That figure is quoted here from their 2021 target article in Behavioral and Brain Sciences, which attributes it to a supplement of their 2018 reply. Neither the reply nor its supplement was obtained here, so the figure sits at one remove and stays out of the structured fields above. Of the supporting studies they name, De Los Reyes and colleagues tested 48 undergraduates. They found the washing effect only among those low in rumination and generalised anxiety. The German replication Lee and Schwarz cite is a 2013 conference presentation by Marotta and Bohner rather than a published paper. Searches at Crossref, PubMed and general web search found no second preregistered direct test of the CD design.",
+  "misreadings": "This is not the Macbeth effect and its evidence is not interchangeable with it. The entry for that effect covers Zhong and Liljenquist's wrongdoing-to-washing direction and its own large replication, and neither study bears on the other. The wider cleansing literature is contested on its own terms. Ropovik, Sparacio and IJzerman ran a p-curve on the successful replications Lee and Schwarz assembled. It skewed left, z = 2.79, p = 0.997, which they read as selective reporting rather than a real effect. Lee and Schwarz replied that the analysis took seven effects out of several hundred and applied the method wrongly. Ross, van Aert, van den Akker and van Elk counted 22 replication studies in the same article and found four preregistered ones, at N of 219, 132, 123 and 286. Their point estimates were d = -0.01, d = 0.01, r = -0.07 and r = -0.05. Lee, Chen, Ma and Hoang later published a meta-analysis of 230 experiments and 42,793 participants at g = 0.315, 95% CI 0.277 to 0.354. Bias correction took it as low as g = 0.103, and the paper lists mixed replicability among its own limitations. A separate problem sits under the measure rather than the manipulation. Lee and Schwarz used the free-choice paradigm in its classic form, rating then choice then rating. Chen and Risen proved that this design shows alternatives spreading apart even when preferences never move. An imperfectly measured ranking plus a choice guided by preference produces the pattern on its own. Their paper states that the problem applies to variants examining moderators of spreading, which is what a hand-washing manipulation is. Corrected versions of the paradigm do still find preference change, and the cognitive-dissonance entry sets out that repair. What follows for this page is narrower: the quantity the soap was supposed to abolish was, in this design, not cleanly measured in the first place.",
+  "sources": [
+    {
+      "text": "Lee, S. W. S., & Schwarz, N. (2010). Washing away postdecisional dissonance. Science, 328(5979), 709. Full text read from the author-hosted PDF; every figure in the evidence section comes from it.",
+      "doi": "10.1126/science.1186799",
+      "url": "https://www-2.rotman.utoronto.ca/facbios/file/Lee%20&%20Schwarz%20(2010).%20Washing....%20Sci..pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., et al. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 2, 637-644. Supplementary Tables 3 and 4 carry the correlations quoted above.",
+      "doi": "10.1038/s41562-018-0399-z",
+      "url": "https://doi.org/10.1038/s41562-018-0399-z",
+      "type": "replication"
+    },
+    {
+      "text": "Buttrick, N., Gampa, A., Hummer, L., & Nosek, B. (2018). Replication of Washing Away Postdecisional Dissonance by Lee & Schwarz (2010). Social Sciences Replication Project replication report, Open Science Framework. Source for the sample, the F tests and the exploratory split.",
+      "url": "https://osf.io/jubxw/",
+      "type": "replication-report"
+    },
+    {
+      "text": "Lee, S. W. S., & Schwarz, N. (2018). Methodological deviation from the original experiment. Nature Human Behaviour, 2(9), 605. The original authors' reply; paywalled and not read for this entry, and described here from the replication project's own account of it.",
+      "doi": "10.1038/s41562-018-0403-7",
+      "url": "https://doi.org/10.1038/s41562-018-0403-7",
+      "type": "commentary"
+    },
+    {
+      "text": "Lee, S. W. S., & Schwarz, N. (2021). Grounded procedures: A proximate mechanism for the psychology of cleansing and other physical actions. Behavioral and Brain Sciences, 44, e1. The target article, with the authors' response to the commentaries below.",
+      "doi": "10.1017/S0140525X20000308",
+      "url": "https://doi.org/10.1017/S0140525X20000308",
+      "type": "review"
+    },
+    {
+      "text": "Ropovik, I., Sparacio, A., & IJzerman, H. (2021). The lack of robust evidence for cleansing effects. Behavioral and Brain Sciences, 44, e18.",
+      "doi": "10.1017/S0140525X20000448",
+      "url": "https://doi.org/10.1017/S0140525X20000448",
+      "type": "critique"
+    },
+    {
+      "text": "Ross, R. M., van Aert, R. C. M., van den Akker, O. R., & van Elk, M. (2021). The role of meta-analysis and preregistration in assessing the evidence for cleansing effects. Behavioral and Brain Sciences, 44, e19.",
+      "doi": "10.1017/S0140525X20000606",
+      "url": "https://doi.org/10.1017/S0140525X20000606",
+      "type": "critique"
+    },
+    {
+      "text": "Lee, S. W. S., Chen, K., Ma, C., & Hoang, J. (2024). Wipe it off: A meta-analytic review of the psychological consequences and antecedents of physical cleansing. Psychological Bulletin, 150(4), 355-398. Abstract read at PubMed; the full text was not obtained.",
+      "doi": "10.1037/bul0000421",
+      "url": "https://doi.org/10.1037/bul0000421",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "de Los Reyes, A., Aldao, A., Kundey, S. M. A., Lee, B. G., & Molina, S. (2012). Compromised decision making and the effects of manipulating physical states on human judgments. Journal of Clinical Psychology, 68(1), 1-7. Abstract read at PubMed; the full text was not obtained.",
+      "doi": "10.1002/jclp.20851",
+      "url": "https://doi.org/10.1002/jclp.20851",
+      "type": "replication"
+    },
+    {
+      "text": "Chen, M. K., & Risen, J. L. (2010). How choice affects and reflects preferences: Revisiting the free-choice paradigm. Journal of Personality and Social Psychology, 99(4), 573-594. Abstract read at PubMed; the argument that the paradigm measures spreading without preference change.",
+      "doi": "10.1037/a0020217",
+      "url": "https://doi.org/10.1037/a0020217",
+      "type": "critique"
+    },
+    {
+      "text": "Enisman, M., Shpitzer, H., & Kleiman, T. (2021). Choice changes preferences, not merely reflects them: A meta-analysis of the artifact-free free-choice paradigm. Journal of Personality and Social Psychology, 120(1), 16-29. Abstract read at PubMed; what survives once the artefact is controlled.",
+      "doi": "10.1037/pspa0000263",
+      "url": "https://doi.org/10.1037/pspa0000263",
+      "type": "meta-analysis"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
