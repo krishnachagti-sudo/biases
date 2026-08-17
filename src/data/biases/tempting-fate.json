@@ -5,18 +5,18 @@
   "aliases": ["Reluctance to tempt fate", "Jinxing"],
   "category": "belief",
   "statement": "People judge a bad outcome more likely once they have done the thing that would make it ironic, as though the universe were paying attention.",
-  "meaning": "Nobody who shows this effect believes in it. The claim is not that people hold a theory about fate, but that the ironic version of an event comes to mind more easily and is therefore judged more probable. Showing up to a seminar unprepared makes being called on vivid, so it feels likelier, in the same way that a plane crash feels likelier after you read about one. The interest of the finding is that it puts a superstitious-looking judgement inside an ordinary mechanism: availability doing its usual job on material that happens to be about fate.",
+  "meaning": "Nobody who shows this effect believes in it. The claim is not that people hold a theory about fate, but that the ironic version of an event comes to mind more easily and is therefore judged more probable. Showing up to a seminar unprepared makes being called on vivid, so it feels likelier, in the same way that a plane crash feels likelier after you read about one. The interest of the finding is that it puts a superstitious-looking judgement inside an ordinary mechanism: availability doing its usual job on material that happens to be about fate. Magical thinking, entry 63, covers the beliefs proper. This is the judgement without the belief.",
   "origin": {
     "year": 2008,
     "who": "Jane Risen and Thomas Gilovich",
     "where": "Journal of Personality and Social Psychology",
     "note": "The paper is \"Why people are reluctant to tempt fate\", and it argues the effect survives in people who explicitly reject the belief, which is what makes it a bias rather than a doctrine."
   },
-  "evidence": "In the study that was retested, 120 participants read that they, or a classmate, had either come to class prepared or had not done the reading, and then estimated how likely it was that the professor would call on them. Unprepared, they put it at 3.43 on the ten-point scale; prepared, at 2.53. Risen and Gilovich's paper is paywalled, so these figures are as Many Labs 2 restates them. The original design included both self and other versions and found no difference between them, so the replication ran the self conditions only, with the original authors' agreement.",
+  "evidence": "Risen and Gilovich ran six studies, and two of them have since been retested. Study 2 gave 120 Cornell undergraduates one of four scenarios in which they, or a classmate named Jon, had done the reading for a class or had not. Each rated the chance that the professor would call on the protagonist, from 0 to 10. Unprepared drew 3.43, prepared 2.53, F(1, 116) = 4.60, p < .05, d = 0.39. Whether the protagonist was the participant or Jon made no difference and did not interact with preparation, both Fs below 1. Study 6 added cognitive load. Of 122 students, two were dropped for not counting backwards as instructed, leaving 120. Without load the unprepared gave 2.93 against 1.90 for the prepared, d = 0.58. Under load the gap widened to 5.27 against 2.70, and the interaction was F(1, 116) = 4.15, p < .05. Both of those tests are reported as p < .05 rather than to a figure. The interval of 0.03 to 0.75 around the Study 2 d comes from Many Labs 2's restatement; the results section of Study 2 gives the F, the p and the d without one.",
   "replication": {
     "state": "mixed",
-    "headline": "The classroom version came back across 8,000 people at less than half the original size, while a later four-site replication of the cognitive-load version found nothing.",
-    "detail": "In Many Labs 2, participants who imagined turning up unprepared rated the chance of being called on at 4.58, against 4.14 for those who had done the reading, giving d = 0.18 with a 95% confidence interval from 0.14 to 0.22. The original was d = 0.39, interval 0.03 to 0.75. The key confirmatory test, restricted to the 4,599 undergraduates, gave d = 0.22 with an interval from 0.17 to 0.28. Many Labs 5 then took the other half of Risen and Gilovich's claim, that the effect grows under cognitive load. Working with the original authors on a new protocol, it ran four university sites chosen to resemble the original site, 754 participants in all, and found neither the interaction nor the main effect. Six less similar universities gave the same answer.",
+    "headline": "The classroom scenario came back across 8,000 people at less than half its original size, while a four-site retest of the cognitive-load version found neither effect.",
+    "detail": "Many Labs 2 repeated the two self conditions of Study 2, with the original authors' agreement, because self and other had not differed. Across 8,000 participants those who imagined turning up unprepared rated the chance of being called on at 4.58 against 4.14, giving d = 0.18, 95% confidence interval 0.14 to 0.22. The confirmatory test the original authors asked for, restricted to 4,599 undergraduates, gave d = 0.22, interval 0.17 to 0.28. Many Labs 5 took Study 6 and the load interaction instead. The Reproducibility Project had already run that study on Mechanical Turk and found little: 226 people, a main effect of 0.20 scale points, interval -0.58 to 0.97, and an interaction of 0.03, interval -1.14 to 1.20. Risen and Gilovich had objected to the online setting beforehand, so Mathur and colleagues built a protocol with them and ran it in laboratories at four American universities whose median SAT scores sit above the ninetieth percentile. Those sites analysed 754 participants of the 807 tested. The main effect came out at 0.11, interval -0.34 to 0.56, p = .64, and the interaction at -0.02, interval -0.68 to 0.63, p = .94. Six dissimilar universities, 714 participants, gave 0.42 for the main effect, interval -0.07 to 0.90, p = .09, the one clearly positive site being in Budapest. Mathur and colleagues then pooled the primary sites of both projects and estimated a mean difference of 0.5 scale points, interval 0.37 to 0.63, a standardised 0.2, interval 0.15 to 0.26. They also declined to call the original inconsistent with their own results. Had it come from the same distribution of effects as their similar sites, an estimate at least as extreme would have had probability .12 for the main effect and .07 for the interaction. Two Dutch studies by van Wolferen, Inbar and Zeelenberg sit in between. In the first, 133 students rated the unprepared higher, F(2, 133) = 3.37, p = .037. In the second, 271 analysed of 292 did not, F(2, 272) = 1.49, p = .227, and only a one-tailed contrast reached p = .042. Their abstract calls the pair a replication.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
@@ -26,13 +26,13 @@
     "original": { "es": 0.39, "esType": "d", "ci": [0.03, 0.75], "ciLevel": 95 },
     "replicated": { "es": 0.18, "esType": "d", "ci": [0.14, 0.22], "ciLevel": 95, "weighting": "aggregate" }
   },
-  "limits": "The scenario is academic and the original authors expected it to work best on students, so they asked for the confirmatory test to use undergraduate samples only. The structured figures above are the full aggregate across all 8,000 participants rather than that subsample of 4,599. The two replications also tested different things: Many Labs 2 repeated the classroom scenario without cognitive load, and Many Labs 5 targeted the load interaction, so the second is not a straight rerun of the first. The measure is also a rating of subjective likelihood in a hypothetical situation, which is a long way from anyone changing what they do, and the entry has nothing to say about whether the effect influences behaviour.",
-  "misreadings": "The effect is often described as evidence that people are superstitious. Risen and Gilovich's own account runs the other way: the judgement is produced by how easily the ironic outcome comes to mind, and it appears in people who deny believing in fate at all. Reading it as a belief also predicts the wrong things, because a belief should be arguable and this is not. And a d of 0.18 is a nudge to a probability estimate, not a conviction that the universe is watching.",
+  "limits": "The scenario is academic, and the original authors expected it to work best on students, so they asked for the confirmatory test to use undergraduate samples only. The structured figures above are the full aggregate of 8,000 rather than that subsample of 4,599. The two projects also measured on different scales, 1 to 10 in Many Labs 2 against 0 to 10 in the original and in Many Labs 5. That is one of the differences Mathur and colleagues examined and rejected as an explanation for the gap. They tested different claims as well: Many Labs 2 repeated Study 2 without load, Many Labs 5 repeated Study 6 for the load interaction, so the second is not a rerun of the first. The measure throughout is a rating of subjective likelihood in a hypothetical class, and none of the sources read for this entry reports whether the effect changes what anyone does. A search of Crossref titles from 2023, of PubMed for \"tempting fate\", and of the papers citing Risen and Gilovich indexed by Semantic Scholar found no meta-analysis of the effect and no further direct repeat since Many Labs 5.",
+  "misreadings": "The effect is often described as evidence that people are superstitious. Risen and Gilovich's own account runs the other way: the judgement is produced by how easily the ironic outcome comes to mind, and it appears in people who deny believing in fate at all. Swirsky, Fernbach and Sloman put a different mechanism behind it, an illusion of control, entry 100, and across four experiments found the effect only where the action could bear on the outcome and came before it. A d of 0.18 is a nudge to a probability estimate, not a conviction that the universe is watching. And the two multisite projects disagree about the classroom scenario, so a page citing only one of them will read as settled whichever one it picks.",
   "sources": [
     {
       "text": "Risen, J. L., & Gilovich, T. (2008). Why people are reluctant to tempt fate. Journal of Personality and Social Psychology, 95(2), 293-307.",
       "doi": "10.1037/0022-3514.95.2.293",
-      "url": "https://doi.org/10.1037/0022-3514.95.2.293",
+      "url": "https://faculty.chicagobooth.edu/-/media/faculty/jane-risen/research/tempt_jpsp_2008.pdf",
       "type": "primary"
     },
     {
@@ -46,7 +46,24 @@
       "doi": "10.1177/2515245918785165",
       "url": "https://doi.org/10.1177/2515245918785165",
       "type": "replication"
+    },
+    {
+      "text": "van Wolferen, J., Inbar, Y., & Zeelenberg, M. (2013). Magical thinking in predictions of negative events: Evidence for tempting fate but not for a protection effect. Judgment and Decision Making, 8(1), 45-54.",
+      "doi": "10.1017/S1930297500004496",
+      "url": "https://doi.org/10.1017/S1930297500004496",
+      "type": "replication"
+    },
+    {
+      "text": "Frank, M. C., & Mathur, M. (2016). Replication of Risen & Gilovich (2008, JPSP). Open Science Framework.",
+      "url": "https://osf.io/sg3su/",
+      "type": "replication"
+    },
+    {
+      "text": "Swirsky, C. L., Fernbach, P. M., & Sloman, S. A. (2011). An illusion of control modulates the reluctance to tempt fate. Judgment and Decision Making, 6(7), 688-696.",
+      "doi": "10.1017/S1930297500002692",
+      "url": "https://doi.org/10.1017/S1930297500002692",
+      "type": "supporting"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
