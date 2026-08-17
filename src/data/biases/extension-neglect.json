@@ -1,0 +1,95 @@
+{
+  "no": 549,
+  "slug": "extension-neglect",
+  "name": "Extension neglect",
+  "aliases": ["Judgement by prototype", "Prototype heuristic", "Valuation by prototype"],
+  "category": "decision",
+  "statement": "Kahneman treats scope, duration, base-rate and sample-size neglect as one bias, the substitution of an average for a sum, and the family has never been tested as one claim.",
+  "meaning": "The unit of the claim is a family, not a result. An extensional attribute of a set behaves like a sum: the total discomfort of a medical procedure, the worth of saving a number of birds, the evidence carried by a sample. A prototype attribute behaves like an average: how bad a typical moment was, how appealing a typical bird is. Kahneman, Ritov and Schkade argue that the average comes to mind and the sum does not, so the average is what gets answered. Extension neglect is what follows. Unless attention is directed to it, the size of the set has little influence on the judgement. The umbrella is the part worth arguing about. Insensitivity to scope in surveys, duration neglect in remembered pain, base-rate neglect in prediction and insensitivity to sample size are held to be one error in four costumes, produced by one mechanism, which is a stronger claim than any of the four on its own. Kahneman's Nobel lecture draws out what that buys: an account that reaches all of them at once, where the rival accounts of scope, of base rates and of duration are each built for a single task.",
+  "origin": {
+    "year": 1999,
+    "who": "Daniel Kahneman, Ilana Ritov and David Schkade",
+    "where": "Journal of Risk and Uncertainty",
+    "note": "Section 3 of their paper sets out judgement by prototype in numbered propositions and names extension neglect as the bias it produces. The name is older than the paper. Their own reference list gives it as the title of Kahneman's 1995 Bartlett Lecture to the Experimental Psychology Society, 'Extension Neglect and Violations of Monotonicity in Judgment and Preference: Three Examples'. Kahneman's curriculum vitae lists that lectureship at Birmingham on 13 July 1995 under a different title, 'When parts are larger than wholes: Violation of monotonicity in judgments and decisions'. The lecture itself was not published. The fuller statement of the framework is the chapter Kahneman wrote with Shane Frederick in 2002, at pages 49 to 81 of the Gilovich, Griffin and Kahneman volume, which could not be opened for this entry."
+  },
+  "evidence": "The 1999 paper argues the umbrella rather than testing it. Its three worked examples are statistical inference, where neglect takes the form of insensitivity to sample size, personality-sketch prediction, where it takes the form of neglected base rates, and continuous reports of discomfort, where it takes the form of duration neglect. Contingent valuation is added as a fourth, and the authors conclude that inadequate sensitivity to scope in such surveys is inevitable, being an instance of a broad class of effects observed in diverse contexts and explained by a single psychological principle. The same section then limits the claim. Extension neglect, they write, is neither universal nor absolute. Where the size of the set is salient and easy to read, an additive extension effect appears: the value of the prototype and the size of the set contribute to the judgement separately and are added, when the logic of the task requires them to be combined multiplicatively. Their evidence for that pattern is a species study by Kahneman and Ritov, labelled in their own paper as unpublished research, together with work by Novemsky and Kronzon and by Schreiber and Kahneman. Schreiber and Kahneman's abstract describes their sounds experiments as a test of a general model of judgement by prototype applied elsewhere, with the third experiment confirming that duration and intensity combine additively and the fourth confirming a preference for aversive episodes improved by an added period of lower intensity. Kahneman's Nobel lecture sets out the two predictions the model makes: extension neglect, and violations of monotonicity, where adding to a set lowers the judgement. It also concedes the shape of the first. Neglect has the character of a null hypothesis, strictly true only if nobody in the sample responds to extension at all, so a large enough study will reject it, and complete neglect is called an unreasonably strict test of prototype heuristics. The lecture adds that the within-subject factorial design is inappropriate for testing hypotheses of neglect, because it signals to participants that every manipulated variable matters.",
+  "replication": {
+    "state": "mixed",
+    "headline": "No test of the family as one claim was located. Where two members were measured in the same 331 people, they moved in opposite directions.",
+    "detail": "The umbrella predicts that the members share a mechanism, so people who neglect extension in one task should neglect it in another. Burgoyne, Mashburn, Tsukahara, Hambrick and Engle gave 331 participants four reasoning tests, three of them members of this family. The conjunction fallacy set of seven problems reached an alpha of .69, a stereotype base-rate task .46, and a diagnostic base-rate task of the medical-test kind .44. The conjunction and stereotype base-rate scores correlated .49. The diagnostic base-rate task was scored as the mean distance from the correct answer, so its correlations of .17 with the conjunction test, .16 with the stereotype base-rate test and .32 with Raven's matrices mean that people who did better elsewhere answered further from the truth on it. The authors write that participants with better performance on the other tests gave responses numerically further from the correct answer, a result they say Stanovich and West also observed, and that one reading of it is evidence against a common ability behind the tasks. They dropped it from the latent factor, on which the conjunction test loaded .86, the stereotype base-rate test .57 and the Wason selection task .33. Aczel, Bago, Szollosi, Foldes and Lukacs put 13 tasks, among them base-rate neglect, the conjunction fallacy and insensitivity to sample size, to 1,279 people in two survey versions differing only in wording. Internal consistency of the composite was 0.37 and 0.23 by Cronbach's alpha. Base-rate neglect loaded 0.98 on the first factor of one version and 0.51 on the third factor of the other. Insensitivity to sample size loaded 0.32 in the first version and nothing above 0.17 in the second, with communalities of 0.12 and 0.05. Correct answers on the sample-size items ran at 14.73% and 13.99%, while conjunction accuracy moved from 31.99% to 8.21% on rewording alone. The members also part company when repeated one at a time, as the entries for scope insensitivity, duration neglect, base-rate fallacy, insensitivity to sample size and the less-is-better effect record. A search for a study testing extension neglect as a general claim found none: a Crossref title search on the phrase returns only spatial neglect and child protection, and web searches on the phrase with prototype heuristic return the framework papers and commentary on them. OpenAlex and Semantic Scholar were unavailable during this check.",
+    "study": {
+      "cite": "Burgoyne, A. P., Mashburn, C. A., Tsukahara, J. S., Hambrick, D. Z., & Engle, R. W. (2023). Understanding the relationship between rationality and intelligence: a latent-variable approach. Thinking & Reasoning, 29(1), 1-42. Published online 26 November 2021.",
+      "doi": "10.1080/13546783.2021.2008003",
+      "year": 2023,
+      "n": 331
+    }
+  },
+  "limits": "Two general accounts compete with this one, and each covers more than a single task. Morewedge, Kassam, Hsee and Caruso report three experiments in which people were insensitive to the duration of unfamiliar experiences and sensitive to the duration of familiar ones, including one in which the same noise was neglected when unlabelled and attended to when labelled a telephone ring. Their reading is that duration neglect, and perhaps other forms of scope insensitivity, is a case of insensitivity to unfamiliar attributes rather than a phenomenon of its own. Hsee and Rottenstreich separate valuation by feeling from valuation by calculation, and report that feeling makes value close to a step function of scope, sensitive to the difference between none and some and little else, while calculation makes it closer to linear. Both accounts predict the same neglect across domains, so the cross-domain consistency Kahneman treats as support for one mechanism does not settle which mechanism. The correlational test the umbrella invites is also hard to run at present. Berthet and de Gardelle reviewed the tasks that measure biases at the level of one person, and their printed table of 40 biases carries reliable multi-item measures for base-rate neglect and the conjunction fallacy, prints 'None' against insensitivity to sample size and proportion dominance, and has no row for duration neglect or scope insensitivity. Neither Burgoyne's team nor Aczel's set out to test extension neglect; both were measuring rationality in general, and their tasks cover three of the four contexts the 1999 paper names. The chapters that state the framework most fully, Kahneman and Frederick in 2002 and again in 2005, could not be retrieved, nor could the 1995 lecture that first carried the name.",
+  "misreadings": "The most common error shrinks the umbrella to one of its members. Wikipedia's article defines extension neglect as a bias that occurs when the sample size is ignored, and offers a reader misjudging a study from its sample size as the illustration, before listing base-rate neglect, scope neglect, duration neglect and the rest as its forms. Sample size is one of four contexts in the 1999 paper, and the surveys and the pain studies carry most of the weight. The second error hardens the prediction. Extension neglect is often reported as the finding that quantity has no effect, and its authors say the opposite: neither universal nor absolute in 1999, and an unreasonably strict test in the Nobel lecture, which expects a small additive effect wherever the quantity is easy to place as high or low. On that reading a study finding partial sensitivity has confirmed the model rather than refuted it, which is worth knowing before treating any single flat result as the evidence. Third, the additive extension effect is the model's own distinctive prediction, and one of the datasets Kahneman shows for it is described in his 1999 paper as unpublished research by himself and Ritov. Fourth, the peak-end rule is often listed as a form of extension neglect. In the 1999 account the prototypical moment, which the ending shapes, is the attribute doing the substituting, and duration is the extension being neglected, so the two are the halves of one mechanism rather than two instances of it.",
+  "sources": [
+    {
+      "text": "Kahneman, D., Ritov, I., & Schkade, D. (1999). Economic preferences or attitude expressions?: An analysis of dollar responses to public issues. Journal of Risk and Uncertainty, 19(1-3), 203-235. Full text read from the copy hosted at the Hebrew University; two downloads returned the same checksum. Source for the numbered propositions, for the additive extension effect, and for the 1995 Bartlett Lecture reference.",
+      "doi": "10.1023/A:1007835629236",
+      "url": "https://doi.org/10.1023/A:1007835629236",
+      "type": "primary"
+    },
+    {
+      "text": "Kahneman, D. (2002). Maps of bounded rationality: a perspective on intuitive judgment and choice. Prize Lecture, 8 December 2002. Read from the PDF hosted by the Nobel Foundation. Source for the two predictions, for the four extensional tasks, and for the concessions about design.",
+      "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Kahneman, D., & Frederick, S. (2002). Representativeness revisited: Attribute substitution in intuitive judgment. In T. Gilovich, D. Griffin & D. Kahneman (eds), Heuristics and Biases: The Psychology of Intuitive Judgment, pp. 49-81. Cambridge University Press. Not opened for this entry. The pagination is taken from Kahneman's curriculum vitae and from the Crossref record.",
+      "doi": "10.1017/cbo9780511808098.004",
+      "url": "https://doi.org/10.1017/cbo9780511808098.004",
+      "type": "primary"
+    },
+    {
+      "text": "Kahneman, D. (2024). Curriculum vitae, March 2024. Read from the PDF hosted by Princeton University. Source for the date and title of the 1995 Bartlett Lectureship and for the pagination of the 2002 and 2005 chapters.",
+      "url": "https://kahneman.scholar.princeton.edu/sites/g/files/toruqf3831/files/documents/DKahnemanCVMar2024.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Schreiber, C. A., & Kahneman, D. (2000). Determinants of the remembered utility of aversive sounds. Journal of Experimental Psychology: General, 129(1), 27-42. Paywalled; read here from its PubMed abstract, which states the general model being tested and the results of experiments 3 and 4.",
+      "doi": "10.1037/0096-3445.129.1.27",
+      "url": "https://doi.org/10.1037/0096-3445.129.1.27",
+      "type": "primary"
+    },
+    {
+      "text": "Burgoyne, A. P., Mashburn, C. A., Tsukahara, J. S., Hambrick, D. Z., & Engle, R. W. (2023). Understanding the relationship between rationality and intelligence: a latent-variable approach. Thinking & Reasoning, 29(1), 1-42. Full text read from the copy hosted by the Attention and Working Memory Lab at Georgia Tech; two downloads returned the same checksum.",
+      "doi": "10.1080/13546783.2021.2008003",
+      "url": "https://doi.org/10.1080/13546783.2021.2008003",
+      "type": "replication"
+    },
+    {
+      "text": "Aczel, B., Bago, B., Szollosi, A., Foldes, A., & Lukacs, B. (2015). Measuring individual differences in decision biases: methodological considerations. Frontiers in Psychology, 6, 1770. Full text read from the publisher's PDF, with the tables checked again against the PubMed Central rendering.",
+      "doi": "10.3389/fpsyg.2015.01770",
+      "url": "https://doi.org/10.3389/fpsyg.2015.01770",
+      "type": "replication"
+    },
+    {
+      "text": "Berthet, V., & de Gardelle, V. (2023). The heuristics-and-biases inventory: an open-source tool to explore individual differences in rationality. Frontiers in Psychology, 14, 1145246. Full text read from the author copy in HAL. Source for which biases have a reliable single-person measure.",
+      "doi": "10.3389/fpsyg.2023.1145246",
+      "url": "https://doi.org/10.3389/fpsyg.2023.1145246",
+      "type": "commentary"
+    },
+    {
+      "text": "Morewedge, C. K., Kassam, K. S., Hsee, C. K., & Caruso, E. M. (2009). Duration sensitivity depends on stimulus familiarity. Journal of Experimental Psychology: General, 138(2), 177-186. Paywalled; read here from its PubMed abstract.",
+      "doi": "10.1037/a0015219",
+      "url": "https://doi.org/10.1037/a0015219",
+      "type": "commentary"
+    },
+    {
+      "text": "Hsee, C. K., & Rottenstreich, Y. (2004). Music, pandas, and muggers: on the affective psychology of value. Journal of Experimental Psychology: General, 133(1), 23-30. Paywalled; read here from its PubMed abstract.",
+      "doi": "10.1037/0096-3445.133.1.23",
+      "url": "https://doi.org/10.1037/0096-3445.133.1.23",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia. Extension neglect. Wikitext read directly from the article's raw source on 17 August 2026. Cited only as the object of a claim about how the term is retold, not as evidence for anything about the effect.",
+      "url": "https://en.wikipedia.org/wiki/Extension_neglect",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
