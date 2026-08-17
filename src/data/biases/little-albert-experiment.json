@@ -1,0 +1,111 @@
+{
+  "no": 487,
+  "slug": "little-albert-experiment",
+  "name": "Little Albert experiment",
+  "aliases": [
+    "Albert B.",
+    "Conditioned emotional reactions"
+  ],
+  "category": "social",
+  "statement": "Watson and Rayner paired a white rat with a hammer struck on a steel bar until an infant cried at the rat, and reported the fear spread to other furry things.",
+  "meaning": "The claim is that a fear can be built by pairing and will then spread. A stimulus nobody is frightened of is presented alongside one everybody is frightened of, and after enough pairings the first works on its own. Watson and Rayner took a second step and argued that the new fear transfers to objects resembling the first, and that many adult phobias are transfers of this kind laid down in infancy. Their evidence is one infant, tested across about four months, and the paper's own record is more equivocal than the story told about it.",
+  "origin": {
+    "year": 1920,
+    "who": "John B. Watson and Rosalie Rayner",
+    "where": "Journal of Experimental Psychology",
+    "note": "The paper reports work on a single infant it calls Albert B., whose mother was a wet nurse at the Harriet Lane Home for Invalid Children, a paediatric facility attached to Johns Hopkins Hospital. Ben Harris records it as the last published project of Watson's academic career."
+  },
+  "evidence": "The paper's laboratory notes are printed in full and they are the best guide to what happened. At eight months 26 days Albert was startled by a hammer struck on a suspended steel bar four feet long and three quarters of an inch thick, and cried on the third blow. Conditioning began at 11 months three days with two pairings of a white rat and the bar. Five more came a week later, and the paper states that seven joint stimulations in all brought about the complete reaction, after which the rat alone made him cry and crawl away. At 11 months 15 days he reacted to a rabbit, a dog, a sealskin coat and, less strongly, to cotton wool. He was negative to Watson's hair and to a Santa Claus mask, and he played with the hair of two other observers and with his blocks throughout. At 11 months 20 days the reactions were weaker, so the rat was paired with the bar again, and the rabbit and the dog were each paired with it directly for the first time. Moved that same day to a large lecture room, the reactions weakened again and the rat was paired with the bar once more. The dog then barked three times about six inches from the infant's face, which the paper records as frightening the adult observers too. A final session 31 days later found the reactions present and less intense, with the infant reaching out to touch the rabbit's ear after about a minute. Albert left the hospital that day. The paper says the interval was capped at one month because his departure was expected, and it lists four methods the authors would have tried to remove the fear had they had the time.",
+  "replication": {
+    "state": "failed",
+    "headline": "Every attempt located to condition fear in infants by Watson's method failed, and no modern repeat was found.",
+    "detail": "Elsie O. Bregman tried to condition 15 infants to fear wooden and cloth objects using a disagreeable noise, and not one was conditioned. H. B. English paired a wooden duck with a noise and got nothing, and blamed his own noise rather than the duck: 'We did not succeed in establishing a conditional fear response to the duck for the simple reason that the noise failed to evoke fear. Once only in something over fifty trials did the child exhibit what might be called a worried look.' C. W. Valentine used naturalistic observation, did not find fear conditioned to loud noises, and criticised both Watson's method and his theory of emotional development. All three are reported here from Harris's 1979 review, which is the document that was read; Harris cites Thorndike's 1935 book for the Bregman result, so that figure reaches this page at two removes. None of the three papers was obtained. H. E. Jones did obtain lasting conditioning in an infant in 1930, measured as the galvanic skin response and driven by a mild electric current, which is a different response to a different unconditioned stimulus. The three failures used wooden and cloth objects rather than animals, which is the disanalogy a preparedness theorist would press. Searches of Europe PMC, PubMed, Crossref and general web search turned up no modern attempt to repeat the procedure with an infant.",
+    "study": {
+      "cite": "Bregman, E. O. (1934). An attempt to modify the emotional attitudes of infants by the conditioned response technique. The Pedagogical Seminary and Journal of Genetic Psychology, 45(1), 169-198.",
+      "doi": "10.1080/08856559.1934.10534254",
+      "year": 1934
+    }
+  },
+  "limits": "One infant, and the design does not let much follow from him. The rabbit and the dog were paired with the steel bar directly at 11 months 20 days, so the reactions recorded to them afterwards are not evidence of transfer. Conditioning trials were interleaved with test trials, which is why Harris concludes there is little evidence that the reactions resisted extinction or the passage of time. The only stimulus that was neither furry nor an animal was a set of familiar blocks, so nothing in the design tests what the fear failed to spread to. Reactions were scored by eye by the two experimenters, and no instrument recorded them. Harris's verdict on the study is that it belongs in the category of interesting but uninterpretable results. Albert was never deconditioned. Who he was is disputed. Hall P. Beck, Sharman Levinson and Gary Irons proposed in 2009 that he was Douglas Merritte, who died at six. Alan J. Fridlund, Beck, William D. Goldie and Irons then argued in 2012, from Watson's film and from newly found medical records, that the infant was neurologically impaired, reporting congenital obstructive hydrocephalus, iatrogenic streptococcal meningitis and ventriculitis, and retinal and optic nerve atrophy, and they alleged that Watson knew and concealed it. Russell A. Powell, Nancy Digdon, Harris and Christopher Smithson proposed in 2014 a different child, William Albert Barger. His mother Pearl Barger was a wet nurse in the same home, and his medical file gives his name as Albert Barger. He was discharged at 12 months 21 days, exactly the age the paper gives. He weighed 21 pounds 15 ounces the day before the baseline session would have fallen, against Douglas Merritte's 14 pounds 15 ounces. They also reject the film reading, noting that Albert uses a pincer grasp on a marble, bear-walks, and appears to look towards Watson, and that Merritte's records describe him at times as taking no notice of objects. This entry does not settle the dispute. The Fridlund paper was read only as its PubMed abstract, and Beck and colleagues' 2009 paper was not obtained; both are described here from the Powell account and from those abstracts. Griggs's textbook survey was read only as its abstract. Bregman, English and Valentine were not obtained.",
+  "misreadings": "The generalisation is usually told as fear of anything white and furry. Harris, who traced Watson's film to the University of Michigan and made stills from it, reports that the rat was white, the rabbit brown or grey and the sealskin coat black. Albert was completely negative to Watson's hair and played with the hair of the two other observers, so he did not fear everything hairy either. Harris lists stimuli that textbooks invented for him: a fur pelt, a man's beard, a cat, a pup, a fur muff, a white furry glove, an aunt who wore fur, his mother's fur coat or neckpiece, and a teddy bear. Several texts add a happy ending in which Watson removed the fear, sometimes describing the procedure. He did not. Seligman wrote in 1971 that the conditioning took two trials, where the paper says seven joint stimulations. Watson himself is a source of the confusion, on Harris's account. The 1921 Scientific Monthly summary drops the direct conditioning of the rat, rabbit and dog at 11 months 20 days, so the later reactions read as transfer. Psychological Care of Infant and Child opens instead with the rabbit conditioning, which makes the fear of the rat a month later look like transfer. Richard A. Griggs examined 23 current introductory texts in 2014 and reports that inaccuracies about generalisation are still present in some of them and that coverage of the identity dispute is limited. The infant is called Albert B. in the paper, never Little Albert.",
+  "sources": [
+    {
+      "text": "Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions. Journal of Experimental Psychology, 3(1), 1-14. Read in full as the transcription at Classics in the History of Psychology; every detail of the procedure on this page comes from that text.",
+      "doi": "10.1037/h0069608",
+      "url": "https://psychclassics.yorku.ca/Watson/emotion.htm",
+      "type": "primary"
+    },
+    {
+      "text": "Harris, B. (1979). Whatever happened to little Albert? American Psychologist, 34(2), 151-160. Read in full. The source for the textbook errors, the contemporary failures to replicate, and the reading of the study as uninterpretable.",
+      "doi": "10.1037/0003-066X.34.2.151",
+      "url": "https://users.sussex.ac.uk/~grahamh/RM1web/Classic%20papers/Harris1979.pdf",
+      "type": "critique"
+    },
+    {
+      "text": "Harris, B. (2011). Letting go of Little Albert: Disciplinary memory, history, and the uses of myth. Journal of the History of the Behavioral Sciences, 47(1), 1-17. Read in full. The source for the recovery of Watson's film and for the colours of the animals in it.",
+      "doi": "10.1002/jhbs.20470",
+      "url": "https://www.appstate.edu/~steelekm/classes/psy5150/Documents/Harris2011.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Powell, R. A., Digdon, N., Harris, B., & Smithson, C. (2014). Correcting the record on Watson, Rayner, and Little Albert: Albert Barger as 'psychology's lost boy'. American Psychologist, 69(6), 600-611. Read in full. The source for the Barger identification and for the rebuttal of the film analysis.",
+      "doi": "10.1037/a0036854",
+      "url": "https://media.pluto.psy.uconn.edu/Correcting%20the%20record%20on%20Watson,%20Rayner%20and%20Little%20Albert.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "Fridlund, A. J., Beck, H. P., Goldie, W. D., & Irons, G. (2012). Little Albert: A neurologically impaired child. History of Psychology, 15(4), 302-327. The medical findings and the allegation against Watson are quoted here from the abstract at PubMed; the full text was not obtained.",
+      "doi": "10.1037/a0026720",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23397921/",
+      "type": "secondary"
+    },
+    {
+      "text": "Beck, H. P., Levinson, S., & Irons, G. (2009). Finding little Albert: A journey to John B. Watson's infant laboratory. American Psychologist, 64(7), 605-614. The Douglas Merritte identification. Not obtained; described here from Powell and colleagues' account of it.",
+      "doi": "10.1037/a0017234",
+      "url": "https://doi.org/10.1037/a0017234",
+      "type": "secondary"
+    },
+    {
+      "text": "Digdon, N., Powell, R. A., & Harris, B. (2014). Little Albert's alleged neurological impairment: Watson, Rayner, and historical revision. History of Psychology, 17(4), 312-324. Read as its PubMed abstract only.",
+      "doi": "10.1037/a0037325",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25068585/",
+      "type": "secondary"
+    },
+    {
+      "text": "Digdon, N., Powell, R. A., & Smithson, C. (2014). Watson's alleged Little Albert scandal: Historical breakthrough or new Watson myth? Revista de Historia de la Psicologia, 35(1), 47-60. Read in full as the publisher's PDF.",
+      "url": "https://journals.copmadrid.org/historia/archivos/fichero_salida20210910142339120000.pdf",
+      "type": "secondary"
+    },
+    {
+      "text": "Bregman, E. O. (1934). An attempt to modify the emotional attitudes of infants by the conditioned response technique. The Pedagogical Seminary and Journal of Genetic Psychology, 45(1), 169-198. Not obtained; its result is reported here from Harris (1979), who cites Thorndike (1935).",
+      "doi": "10.1080/08856559.1934.10534254",
+      "url": "https://doi.org/10.1080/08856559.1934.10534254",
+      "type": "replication"
+    },
+    {
+      "text": "English, H. B. (1929). Three cases of the 'conditioned fear response'. The Journal of Abnormal and Social Psychology, 24(2), 221-225. Not obtained; the sentence quoted on this page is quoted as Harris (1979) prints it. Harris's reference list gives the volume as 34; Crossref gives 24.",
+      "doi": "10.1037/h0072340",
+      "url": "https://doi.org/10.1037/h0072340",
+      "type": "replication"
+    },
+    {
+      "text": "Valentine, C. W. The innate bases of fear. Harris (1979) cites this as Journal of Genetic Psychology, 1930, 37, 394-420. That publication is not in Crossref, which holds a record with the same author, title and journal for 1991, volume 152, pages 501-527. Neither was obtained.",
+      "doi": "10.1080/00221325.1991.9914710",
+      "url": "https://doi.org/10.1080/00221325.1991.9914710",
+      "type": "replication"
+    },
+    {
+      "text": "Jones, H. E. (1930). The retention of conditioned emotional reactions in infancy. The Pedagogical Seminary and Journal of Genetic Psychology, 37(4), 485-498. Cited by Harris (1979) for conditioning of the galvanic skin response in an infant; not obtained.",
+      "doi": "10.1080/08856559.1930.9944158",
+      "url": "https://doi.org/10.1080/08856559.1930.9944158",
+      "type": "replication"
+    },
+    {
+      "text": "Griggs, R. A. (2014). The continuing saga of Little Albert in introductory psychology textbooks. Teaching of Psychology, 41(4), 309-317. Read as its abstract at ERIC; the full text was not obtained.",
+      "doi": "10.1177/0098628314549702",
+      "url": "https://eric.ed.gov/?id=EJ1042273",
+      "type": "critique"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
