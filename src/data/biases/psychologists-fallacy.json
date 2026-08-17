@@ -1,0 +1,84 @@
+{
+  "no": 559,
+  "slug": "psychologists-fallacy",
+  "name": "Psychologist's fallacy",
+  "aliases": ["Psychologists' fallacy"],
+  "category": "social",
+  "statement": "William James's name for the observer's confusion of his own standpoint with that of the mental fact he is reporting on.",
+  "meaning": "James names the error twice over, and the two versions are not the same. The one he marks \"par excellence\" is a confusion between an observer and a mental state: the psychologist knows the object of a thought in his own way, and then supposes the thought knows it that way too. The second variety is the assumption \"that the mental state studied must be conscious of itself as the psychologist is conscious of it\". James's own gloss on the difference is that the mental state \"is aware of itself only from within\", while the psychologist \"is aware of it from without, and knows its relations with all sorts of other things\". Both are charges about how a scientific report gets written rather than measurements of a mind. Its measured neighbours are the curse of knowledge and the illusion of transparency, which this site treats separately and whose figures are on those pages.",
+  "origin": {
+    "year": 1890,
+    "who": "William James",
+    "where": "The Principles of Psychology, volume I",
+    "note": "The name appears in chapter VII, \"The Methods and Snares of Psychology\", on pages 196 and 197, under the running head \"'The Psychologist's Fallacy.'\" James's cross-references to it later in the work give the page as 196. The chapter's own summary calls it \"a disastrous fallacy in the science\", and its table of contents lists the section as \"Sources of error. The 'Psychologist's fallacy'\"."
+  },
+  "evidence": "James argues by specimen, and the specimens are other philosophers. Having named the error he applies it six more times across the two volumes. In chapter VIII he charges those who hold that a thought must distinguish itself from its object with substituting one particular object for all others. In chapter X the associationist philosophy founded on Hume is said to be work in which \"the psychologist's fallacy (p. 196 ff.) bore the brunt\", turning an idea of A followed by an idea of B into an idea of B after A. Chapter XIII carries two, the first against \"treating an inferior state of mind as if it must somehow know implicitly all that is explicitly known about the same topic by superior states of mind\", the second against Lotze and Stumpf, who he says \"allow their later knowledge of the things felt to be foisted into their account of the primitive way of feeling them\". Volume II adds a footnote on the ubiquity of the fallacy in T. H. Green's Introduction to Hume, and a passage on Bain and Schopenhauer denying that movement can be an immediate sensation. There is no experiment, no sample and no rate in any of it. The nearest measured thing is Orne's account of the pilot work behind his 1962 paper on demand characteristics. Trying to build a task waking subjects would refuse, he gave them sheets of random digits requiring 224 additions each, from a stack of some 2,000 sheets, took away their watches and left. Five and a half hours later the experimenter gave up. A second version instructed subjects by card to tear each completed sheet into at least thirty-two pieces and start the next. \"Our expectation was that subjects would discontinue the task as soon as they realized that the cards were worded identically\", Orne writes; instead they persisted for hours, and in the postexperimental inquiry \"would invariably attribute considerable meaning to their performance, viewing it as an endurance test or the like\". The experimenters had designed a meaningless task and the subjects were not in one. Orne calls this work \"highly informal and based on samples of three or four subjects in each group\".",
+  "replication": {
+    "state": "none-located",
+    "headline": "No study was found that measures the fallacy as an effect. Two recent studies measure the gap it names on particular instruments, and neither yields a rate for the error itself.",
+    "detail": "PubMed reports both \"psychologist's fallacy\" and \"psychologists' fallacy\" among its quoted phrases not found. Europe PMC holds two records for the singular form and none for the plural, a 2021 Frontiers in Psychology piece on functionalism and creativity and a 2009 review in the Journal of the Experimental Analysis of Behavior. PubMed Central's full-text index returns eleven records for the singular phrase, in venues including Frontiers in Psychology, Perspectives on Psychological Science, The Behavior Analyst and Cognition & Emotion. Crossref by bibliographic query degrades to loose matching and offers the naturalistic fallacy instead. What the search did turn up is measurement of the gap rather than of the bias. Dornonville de la Cour and colleagues invoke James by name, and say that test responders potentially interpret items differently than test developers intended. Nine adults were recruited at one Danish outpatient brain injury centre in 2019, between 10 and 34 months after stroke, median 26.5 months, five of them female, mean age 55 with a standard deviation of 6.3. Each worked through the 38-item Danish version of the Dutch Multifactor Fatigue Scale under a three-step test-interview protocol, and their response processes were coded congruent, incongruent, ambiguous or confused against the subscale the item belonged to. An item counted as problematic when fewer than half of the response processes were congruent with the intended construct. Five items met that bar, four of them on Physical fatigue and one on Mental fatigue, and seven more gave some participants trouble through syntactic complexity, vague terms, a presupposition and a double-barrelled statement. Hinck, King, Nakamura and Stewart come at the same gap in survey research, quoting James on the breach between minds. They classified 12,656 articles from ten JSTOR-held social science journals plus Public Opinion Quarterly, and report that in the average journal 19.9% of survey-related articles mention any pretesting, ranging from the Journal of Politics at 13.4% to the Journal of Political Economy at 24.6%. Debriefing 98 respondents on the standard military confidence question, they found it read as capability by 58.2%, as personal safety by 41.8%, as trust in leadership by 40.8% and as moral conduct by 28.6%, percentages that do not sum to 100 because a transcript could be assigned to more than one category. Both studies compare respondents against a researcher's stated intention. Neither elicits the researcher's prediction and scores it, which is what a measurement of James's error would need."
+  },
+  "limits": "The search covered PubMed, PubMed Central full text, Europe PMC, Crossref by bibliographic query and general web search. OpenAlex could not be queried, because its API reported the day's budget exhausted, Semantic Scholar returned rate-limit errors on two attempts, and no psychology-specific database such as PsycINFO was searched. Absence of a study is a statement about those places. Europe PMC returned server errors on the first four attempts and answered later, and both the failures and the answer are recorded here. Ashworth's paper, the piece that carries James's phrase into contemporary qualitative research, could not be read: the publisher refused two requests and the repository record holds no deposited file, so only its abstract was seen. Valsiner's 2017 article was located by DOI, Crossref carries no abstract for it, and the full text was not obtained. Baldwin's Dictionary was read in the 1920 corrected reprint rather than the original printing, so the page cited below is that reprint's. The 1931 British Journal of Psychology wording that Wikipedia quotes as an alternative statement was not obtained and nothing here rests on it. Fischer's book was read on this pass as one Internet Archive OCR text, whose scanning errors are visible in the quoted passage. No effect size appears in anything reached, and none is computed here.",
+  "misreadings": "The most common error is Baldwin's, and it is 120 years old. His Dictionary of Philosophy and Psychology defines the term as \"the fallacy, to which the psychologist is peculiarly liable, of reading into the mind he is examining what is true of his own; especially of reading into lower minds what is true of higher\", and then quotes James's par excellence sentence, which says something else. James's headline form is a confusion between an observer and a mental fact, not between two people, and reading one's own mind into another's is nearer to what this site treats under social projection and assumed similarity bias. Fischer's borrowing drifts in a different direction. He paraphrases it as \"the error of assuming that a man who has a given psychic experience knows it, when he has it, to be all that an observing psychologist would know it to be\", with a note citing James, Principles of Psychology, I, 196. That is James's second variety rather than the one he marks par excellence, and this site's historian's fallacy entry records the same slip. A third error is to expect a number. The claim is about the structure of a report, and the people who invoke it, from Baldwin through Ashworth to Valsiner, argue rather than measure. It is also confused with the mind projection fallacy, which is Jaynes's name for treating a feature of one's own knowledge as a property of the world.",
+  "sources": [
+    {
+      "text": "James, W. (1890). The Principles of Psychology, volume I, chapter VII, pages 196 to 197. Read in Christopher Green's Classics in the History of Psychology transcription. Source for the two definitions and the phrase \"par excellence\".",
+      "url": "https://psychclassics.yorku.ca/James/Principles/prin7.htm",
+      "type": "primary"
+    },
+    {
+      "text": "James, W. (1890). The Principles of Psychology, volume I. Read as the Project Gutenberg plain text, a second and independent rendering of the same book. Source for the chapter VIII, X and XIII invocations and for the table-of-contents line.",
+      "url": "https://www.gutenberg.org/cache/epub/57628/pg57628.txt",
+      "type": "primary"
+    },
+    {
+      "text": "James, W. (1890). The Principles of Psychology, volume II. Read as the Project Gutenberg plain text. Source for the footnote on T. H. Green and for the passage on Bain and Schopenhauer.",
+      "url": "https://www.gutenberg.org/cache/epub/57634/pg57634.txt",
+      "type": "primary"
+    },
+    {
+      "text": "Baldwin, J. M. (ed.) (1920). Dictionary of Philosophy and Psychology, volume II, page 382. Read as the Internet Archive scan of the corrected reprint. Source for the definition quoted above and for the James sentence appended to it.",
+      "url": "https://archive.org/details/dictionaryofphil21bald",
+      "type": "primary"
+    },
+    {
+      "text": "Orne, M. T. (1962). On the social psychology of the psychological experiment: With particular reference to demand characteristics and their implications. American Psychologist, 17(11), 776-783. Read in full. Source for the serial-addition pilots, the five and a half hours, the tearing instruction and Orne's own note on sample size.",
+      "doi": "10.1037/h0043424",
+      "url": "https://pages.ucsd.edu/~cmckenzie/Orne1962AmPsychologist.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Dornonville de la Cour, F. L., Norup, A., Schow, T., & Andersen, T. E. (2021). Evaluation of Response Processes to the Danish Version of the Dutch Multifactor Fatigue Scale in Stroke Using the Three-Step Test-Interview. Frontiers in Human Neuroscience, 15, 642680. Read as the PubMed Central XML.",
+      "doi": "10.3389/fnhum.2021.642680",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8134536/",
+      "type": "related"
+    },
+    {
+      "text": "Hinck, M., King, G., Nakamura, K., & Stewart, B. M. (2026). Where's the Evidence that Respondents Understand Your Survey Questions? Working paper dated 2 July 2026, read in full. Not peer reviewed, and labelled here as such.",
+      "url": "https://gking.harvard.edu/debrief/files/debrief.pdf",
+      "type": "related"
+    },
+    {
+      "text": "Ashworth, P. D. (2009). William James's \"psychologist's fallacy\" and contemporary human science research. International Journal of Qualitative Studies on Health and Well-being, 4(4), 195-206. Abstract read at the depositing repository; the publisher refused the full text.",
+      "doi": "10.3109/17482620903223036",
+      "url": "https://shura.shu.ac.uk/2343/",
+      "type": "commentary"
+    },
+    {
+      "text": "Valsiner, J. (2017). Beyond the three snares: Implications of James' 'psychologist's fallacy' for 21st century science. New Ideas in Psychology, 46, 26-30. Located by DOI at Crossref, which carries no abstract for it; the full text was not obtained.",
+      "doi": "10.1016/j.newideapsych.2016.05.001",
+      "type": "commentary"
+    },
+    {
+      "text": "Fischer, D. H. (1970). Historians' Fallacies: Toward a Logic of Historical Thought. New York: Harper & Row. Read as the Internet Archive OCR text for the paraphrase on page 209 and its note 57.",
+      "url": "https://archive.org/details/HistoriansFallaciesTowardALogicOfHistoricalThought",
+      "type": "commentary"
+    },
+    {
+      "text": "Wikipedia, Psychologist's fallacy. Used to find the Baldwin and British Journal of Psychology restatements, and not relied on for anything else.",
+      "url": "https://en.wikipedia.org/wiki/Psychologist%27s_fallacy",
+      "type": "index"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
