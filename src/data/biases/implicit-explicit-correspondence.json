@@ -1,0 +1,70 @@
+{
+  "no": 471,
+  "slug": "implicit-explicit-correspondence",
+  "name": "Implicit-explicit correspondence",
+  "aliases": ["Implicit-explicit consistency", "Implicit-explicit relations", "Implicit-explicit dissociation"],
+  "category": "social",
+  "statement": "Indirect and direct measures of the same attitude correlate positively but weakly on average, and the size of that correlation depends on the object being rated.",
+  "meaning": "The prediction belongs to the implicit cognition programme, which has its own entry here and carries the meta-analytic averages near r = .2. This entry is about what an average across objects hides. Nosek measured implicit and explicit preferences for 57 object pairs in one large sample, put the mean correlation at r = .36, and found 52 of the 57 pairs positive and significant, with the size varying by object. Attitudes towards mathematics sit high in that range, and they are the case a multi-laboratory replication has tested directly. The same original studies carried a second claim: that women hold more negative implicit attitudes towards mathematics than men. A correlation between two measures and a group difference on one of them rest on different evidence, and the two came through replication at different strengths.",
+  "origin": {
+    "year": 2002,
+    "who": "Brian A. Nosek, Mahzarin R. Banaji and Anthony G. Greenwald",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Two laboratory studies of Yale undergraduates on mathematics attitudes, identity and gender stereotypes, pooled for the correspondence analysis. The correspondence question is one section of a paper whose main argument is about how group membership shapes preference."
+  },
+  "evidence": "Study 1 tested 83 undergraduates and dropped four for error rates above 20%, leaving 79, of whom 40 were women. On the mathematics-versus-arts Implicit Association Test both sexes evaluated mathematics negatively, men at d = -0.80 and women at d = -2.06, and the gap between them was t(77) = 4.42, d = 1.01. Study 2 tested 97 and kept 91, 46 of them women, giving t(89) = 4.26, d = 0.90 on the same comparison. Combining across studies, the implicit mathematics attitude score correlated with the matching self-report at r = .42, n = 243, p < .0001, and with explicit mathematics identity at r = .48, n = 132. Nosek, Banaji and Greenwald expected correspondence here for a stated reason: people voice dislike of mathematics without embarrassment, so self-presentation, the factor usually invoked to explain divergence, has little to work on. The same paper reports about 19,000 visitors to a demonstration website, among whom negativity towards mathematics ran at d = 0.82 overall, d = 0.99 for women and d = 0.58 for men, F(1, 18587) = 539.00.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Many Labs 1 repeated both effects across 35 samples: the implicit-explicit correlation came back at r = .38 against the original .42, and the sex difference at about half its original size.",
+    "detail": "Klein and colleagues ran 13 effects through 36 independent samples and 6,344 participants, 27 collections in a laboratory and nine online, 25 in the United States and 11 elsewhere. One sample was removed from both mathematics effects for a systemic error in that laboratory's recording of reaction times, leaving 35. For the implicit-explicit relation the original is listed at d = 0.93, 95% CI [0.77, 1.08] and the replication at an unweighted mean of d = 0.79, 99% CI [0.63, 0.96], with an aggregate correlation of r = .38, df = 5,623, p < .001. It reached p < .05 in the expected direction in 0.94 of samples and in the opposite direction in none. For the sex difference the original is listed at d = 1.01, 95% CI [0.54, 1.48] and the replication at an unweighted mean of d = 0.56, 99% CI [0.45, 0.68], weighted d = 0.53, 99% CI [0.46, 0.60], t = 19.28, df = 5,840, N = 5,842. That reached p < .05 in the expected direction in 0.71 of samples and in the opposite direction in none. Klein and colleagues write that the sex difference sat inside the original 95% interval, and that their estimate combined with Nosek and Smyth's suggests the original was an overestimate. Heterogeneity separated the two rows: Q = 54.84, df = 34, p < .0001, I2 = 0.401 for the correlation, and Q = 47.60, df = 34, p = 0.06, I2 = 0.201 for the sex difference. Neither was moderated by whether the sample was American or international, F = 0.41, p = .52 and F = 0.82, p = .37, nor by laboratory against online, F = 2.80, p = .09 and F = 1.07, p = .30.",
+    "study": {
+      "cite": "Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, Š., Bernstein, M. J., et al. (2014). Investigating variation in replicability: A 'many labs' replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "year": 2014,
+      "sites": 35
+    },
+    "original": { "es": 0.93, "esType": "d", "ci": [0.77, 1.08], "ciLevel": 95 },
+    "replicated": { "es": 0.79, "esType": "d", "ci": [0.63, 0.96], "ciLevel": 99, "weighting": "unweighted" }
+  },
+  "limits": "The mathematics figure is not the general figure. Nosek's 57-object study puts the mean at r = .36 and reports that the relationship varies as a function of the objects assessed, with self-presentation, evaluative strength, dimensionality and distinctiveness moderating it. That figure was read off the abstract at PubMed and confirmed against the PMC record; the participant count was not obtained and is not printed here. The spread shows inside one research programme. Across the half million gender-science tests behind Nosek and colleagues' 34-nation analysis, the implicit stereotype correlated with its self-report counterpart at r = 0.22. Age matters too. Cvencek, Brečić, Gaćeša and Meltzoff gave implicit and explicit measures to 391 Croatian children in grades 1 and 5, mean age 9.56 years, and got r = .16, p < .01, between implicit and explicit mathematics attitude, against r = .70 between the two explicit measures. In the same sample the sex difference on the implicit measure reached d = 0.41 in grade 5 and did not reach significance in grade 1, p = .054. Where the search stopped: Crossref and PubMed queries for cross-national tests of the sex difference in implicit mathematics attitude returned nothing on that scale, and a 2022 registered report by Schmidt, Buchanan and Hall on moderators of implicit-explicit correspondence sits behind a paywall and was not read.",
+  "misreadings": "The two claims get merged. Many Labs 1 lists them as separate effects and they behaved differently, holding in 0.94 and 0.71 of samples. A weak correlation is also read as concealment, and mathematics is the counter-example the original authors picked on purpose, because dislike of mathematics is not something people hide. The sex difference shrank across measurements. Nosek, Banaji and Greenwald obtained d = 1.01 in 79 Yale undergraduates; Nosek and Smyth obtained d = .44, t(2924) = 11.87, in 5,139 Project Implicit volunteers who took part between October 2001 and January 2003; Many Labs 1 obtained an unweighted 0.56. The three point the same way and the first is the largest. The cross-national work quoted in this area measures something else again. Nosek and colleagues' 34-nation study used the gender-science stereotype, an association between a field and a group rather than an attitude towards mathematics, and its result is a country-level correlation of r = 0.60, 95% CI [0.31, 0.77], between national implicit stereotyping and the sex gap in eighth-grade science scores. That is a relation between country averages, not a test of whether individual women like mathematics less than individual men do.",
+  "sources": [
+    {
+      "text": "Nosek, B. A., Banaji, M. R., & Greenwald, A. G. (2002). Math = male, me = female, therefore math ≠ me. Journal of Personality and Social Psychology, 83(1), 44-59.",
+      "doi": "10.1037/0022-3514.83.1.44",
+      "url": "https://doi.org/10.1037/0022-3514.83.1.44",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, Š., Bernstein, M. J., et al. (2014). Investigating variation in replicability: A 'many labs' replication project. Social Psychology, 45(3), 142-152.",
+      "doi": "10.1027/1864-9335/a000178",
+      "url": "https://doi.org/10.1027/1864-9335/a000178",
+      "type": "replication"
+    },
+    {
+      "text": "Nosek, B. A. (2005). Moderators of the relationship between implicit and explicit evaluation. Journal of Experimental Psychology: General, 134(4), 565-584.",
+      "doi": "10.1037/0096-3445.134.4.565",
+      "url": "https://doi.org/10.1037/0096-3445.134.4.565",
+      "type": "replication"
+    },
+    {
+      "text": "Nosek, B. A., & Smyth, F. L. (2011). Implicit social cognitions predict sex differences in math engagement and achievement. American Educational Research Journal, 48(5), 1125-1156.",
+      "doi": "10.3102/0002831211410683",
+      "url": "https://doi.org/10.3102/0002831211410683",
+      "type": "replication"
+    },
+    {
+      "text": "Nosek, B. A., Smyth, F. L., Sriram, N., Lindner, N. M., Devos, T., Ayala, A., et al. (2009). National differences in gender-science stereotypes predict national sex differences in science and math achievement. Proceedings of the National Academy of Sciences, 106(26), 10593-10597.",
+      "doi": "10.1073/pnas.0809921106",
+      "url": "https://doi.org/10.1073/pnas.0809921106",
+      "type": "commentary"
+    },
+    {
+      "text": "Cvencek, D., Brečić, R., Gaćeša, D., & Meltzoff, A. N. (2021). Development of math attitudes and math self-concepts: Gender differences, implicit-explicit dissociations, and relations to math achievement. Child Development, 92(5), e940-e956.",
+      "doi": "10.1111/cdev.13523",
+      "url": "https://doi.org/10.1111/cdev.13523",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
