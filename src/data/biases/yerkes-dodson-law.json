@@ -1,0 +1,112 @@
+{
+  "no": 473,
+  "slug": "yerkes-dodson-law",
+  "name": "Yerkes-Dodson law",
+  "aliases": [
+    "Inverted-U hypothesis",
+    "Arousal-performance curve"
+  ],
+  "category": "decision",
+  "statement": "Performance rises with arousal to a peak and then falls, and the peak sits at lower arousal for harder tasks.",
+  "meaning": "The law has two halves and the second is usually dropped. The first says the arousal-performance function is curved rather than rising: too little and nothing happens, too much and performance breaks down. The second says the location of the optimum moves with task difficulty, sitting near the low end for hard tasks and near the high end for easy ones. Yerkes and Dodson stated only the second half as a general claim. Their own words were that as the difficultness of discrimination is increased, the strength of the stimulus most favourable to habit-formation approaches the threshold. Everything about arousal, stress and performance was added by later writers.",
+  "origin": {
+    "year": 1908,
+    "who": "Robert M. Yerkes and John D. Dodson",
+    "where": "Journal of Comparative Neurology and Psychology",
+    "note": "The paper is titled \"The relation of strength of stimulus to rapidity of habit-formation\" and studies forty dancing mice learning to avoid a black box under electric shock. It never uses the word arousal, stress, performance, motivation, emotion or law. Those words appear nowhere in the transcription of pages 459 to 482 held for this entry."
+  },
+  "evidence": "Each mouse chose between a white box and a black one, and entering the black box brought a shock from an induction coil. Ten tests were given a day until the animal chose correctly on thirty consecutive tests across three days, and the score was the number of tests to that point. Three sets differed in how much the two boxes differed in brightness. Set I was of medium difficulty and used three roughly measured strengths, 125 plus or minus 10 units, 300 plus or minus 25, and 500 plus or minus 50, with four mice at each. Set II was easy and used five calibrated strengths from 135 to 420 units, again four mice each. Set III was difficult and used four strengths from 135 to 375, with one male and one female at each. Table 15 gives the general averages. In set I they run 187+, 80 and 155 tests for the weak, medium and strong shocks. In set III they run 255, 120, 155 and 195 across the four strengths, so the fastest learning came at 195 units. In set II they run 82.5, 65, 50, 55 and 42.5, falling as the shock grew stronger, with no downturn at all. Yerkes and Dodson wrote that they did not find the point where learning begins to slow in set II because they did not care to subject their animals to injurious stimulation. The difficulty claim therefore rests on comparing the best strength in each set, 420 for easy, 300 for medium and 195 for difficult, across three experiments run with different apparatus. They flagged the weakness themselves, noting that only three strengths were used in set I so the most favourable one may never have been tried.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The two nearest early repeats, in chicks and in kittens, did not produce the curve. Modern human work with pupil diameter does, in 28 people over about 3,570 trials each, on tasks whose difficulty was deliberately held equal.",
+    "detail": "Cole ran the closest thing to a full repeat in 1911, using chicks instead of mice. Hancock and Ganey reproduce his results and report that all three difficulty curves fall as the shock grows stronger, which fails to support an optimum. Dodson himself repeated the work on kittens in 1915, and in Hancock and Ganey's reproduction those data do not support the inverted U either. Broadhurst ran rats through a submerged Y-maze in 1957, using seconds without air as the motivating variable, and Hancock and Ganey report that he found the interaction between task difficulty and motivation, with the peak arriving earlier as complexity rose. Both of those readings are at one remove, from Hancock and Ganey's figures and text rather than from the papers themselves. The strongest recent evidence is human. Beerendonk and colleagues had 28 people sit three all-day sessions and perform six detection and discrimination tasks in vision and hearing, collecting about 3,570 trials each. Arousal was the mean pupil diameter in the 500 milliseconds before the target, and trials were sorted into twenty equally populated bins. A quadratic model beat a linear one for sensitivity, with a difference in AIC of 31.0 and in BIC of 26.7, and for reaction time, at 20.3 and 16.0. Their follow-up gave the same 28 people atomoxetine, donepezil or placebo across three sessions, and recorded 6,337 trials each. Atomoxetine raised pupil size, heart rate and blood pressure, t(27) = 4.78, 4.11 and 4.33, all P < 0.001, and moved the whole curve to the right without flattening it. The quadratic model won under placebo, donepezil and atomoxetine alike. Both papers state that the wider human evidence is mixed, and that some studies report linear rather than curved associations. Neither varied task difficulty. Every task in both was titrated to about 75% correct, so the second half of the law was held constant rather than tested.",
+    "study": {
+      "cite": "Beerendonk, L., Mejías, J. F., Nuiten, S. A., de Gee, J. W., Fahrenfort, J. J., & van Gaal, S. (2024). A disinhibitory circuit mechanism explains a general principle of peak performance during mid-level arousal. Proceedings of the National Academy of Sciences, 121(5), e2312898121.",
+      "doi": "10.1073/pnas.2312898121",
+      "year": 2024,
+      "n": 28
+    }
+  },
+  "limits": "The 1908 data are thin at exactly the point that matters. The difficult set, the one whose curve turns, has two mice per shock strength. Several records are censored and averaged as though they were not: the general average for the weak shock in set I is printed as 187+, and the 255 for the weakest shock in set III combines a female at 210 tests with a male still imperfect after 300. The three sets are not interchangeable, because set II was run after 13 centimetres were cut from the rear of the box, so difficulty and apparatus vary together. Hancock and Ganey add that the success criterion was severe enough that a mouse could run 38 consecutive correct trials without meeting it, and that rescoring the data at ten correct trials in a day damps the shapes. What counts as arousal changes with every study. It is shock strength in induction-coil units in 1908, seconds of air deprivation in Broadhurst, and pupil diameter before a target in the modern human work, and none of these is known to index the same quantity. Hancock and Ganey press the point into a charge of unfalsifiability, arguing that the curve survived because it could absorb any result after the fact. So long as an author left arousal unspecified in advance, some window on the curve could be found to fit the data. Anderson's 1994 within-subjects test in humans, which crossed caffeine with task difficulty, was located but sits behind a paywall, and no abstract for it was found at Crossref, OpenAlex, Semantic Scholar or PubMed, so nothing is reported from it here. Teigen's history of the law is paywalled and is quoted here only through Hancock and Ganey. Neiss's 1988 critique of the unitary arousal construct is named by Hancock and Ganey and was not read. Searches covered Crossref, OpenAlex, Semantic Scholar, PubMed, Europe PMC and web search.",
+  "misreadings": "The famous graph is not in the 1908 paper. Figure 5 plots tests to criterion up the page and stimulus strength across it, so faster learning sits lower and the curves for the medium and difficult sets are V-shaped rather than inverted. Its caption states the axes the other way round from the labels printed on the figure and from its own worked example, which reads 125 units against 187 tests, 300 against 80, and 500 against 155. Hancock and Ganey reproduce the curve that textbooks actually print, of cue function against arousal, from Hebb's 1955 address, where the rise passes a point of waking and the fall passes increasing emotional disturbance and anxiety. The claim that high arousal hurts is also read into the easy condition, where nothing of the sort was seen. Set II fell steadily to the strongest shock used, and Yerkes and Dodson said plainly that they stopped short of the harmful range on purpose. The difficulty half is the part that goes missing. Winton reviewed 25 introductory textbooks, and Hancock and Ganey report that at least nine cited the law as a plain relation between arousal and performance. Teigen's summary, quoted by the same authors, is that to the animal experimenter of 1908 speed of habit-formation was speed of habit-formation and nothing else. A last misreading is that the optimum is a fixed level of arousal. Atomoxetine raised the arousal of Beerendonk's participants and carried the whole curve along with it, leaving performance best at whatever counted as moderate for that state.",
+  "sources": [
+    {
+      "text": "Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to rapidity of habit-formation. Journal of Comparative Neurology and Psychology, 18, 459-482. Read in full, with Figure 5 and Table 15, from the Classics in the History of Psychology transcription.",
+      "doi": "10.1002/cne.920180503",
+      "url": "https://psychclassics.yorku.ca/Yerkes/Law/",
+      "type": "primary"
+    },
+    {
+      "text": "Hancock, P. A., & Ganey, H. C. N. (2003). From the inverted-U to the extended-U: The evolution of a law of psychology. Journal of Human Performance in Extreme Environments, 7(1), 5-14. Read as a page scan; the source for the Cole, Dodson, Broadhurst, Winton, Hebb and Teigen material quoted here.",
+      "url": "https://peterhancock.ucf.edu/wp-content/uploads/sites/12/2012/03/Hancock_Ganey_From-the-inverted-U-to-the-extended-U-The-evolution-of-a-law-of-psychology_2003.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Beerendonk, L., Mejías, J. F., Nuiten, S. A., de Gee, J. W., Fahrenfort, J. J., & van Gaal, S. (2024). A disinhibitory circuit mechanism explains a general principle of peak performance during mid-level arousal. Proceedings of the National Academy of Sciences, 121(5), e2312898121. Read from the Europe PMC full-text XML.",
+      "doi": "10.1073/pnas.2312898121",
+      "url": "https://doi.org/10.1073/pnas.2312898121",
+      "type": "replication"
+    },
+    {
+      "text": "Beerendonk, L., Mejías, J. F., Nuiten, S. A., de Gee, J. W., Zantvoord, J. B., Fahrenfort, J. J., & van Gaal, S. (2025). Adaptive arousal regulation: Pharmacologically shifting the peak of the Yerkes-Dodson curve by catecholaminergic enhancement of arousal. Proceedings of the National Academy of Sciences, 122(28), e2419733122. Read from the Europe PMC full-text XML.",
+      "doi": "10.1073/pnas.2419733122",
+      "url": "https://doi.org/10.1073/pnas.2419733122",
+      "type": "replication"
+    },
+    {
+      "text": "Cole, L. W. (1911). The relation of strength of stimulus to rate of learning in the chick. Journal of Animal Behavior, 1, 111-124. Described here from Hancock and Ganey's reproduction of its data; not read.",
+      "doi": "10.1037/h0074224",
+      "url": "https://doi.org/10.1037/h0074224",
+      "type": "replication"
+    },
+    {
+      "text": "Dodson, J. D. (1915). The relation of strength of stimulus to rapidity of habit-formation in the kitten. Journal of Animal Behavior, 5, 330-336. Described here from Hancock and Ganey's reproduction of its data; not read.",
+      "doi": "10.1037/h0073415",
+      "url": "https://doi.org/10.1037/h0073415",
+      "type": "replication"
+    },
+    {
+      "text": "Broadhurst, P. L. (1957). Emotionality and the Yerkes-Dodson law. Journal of Experimental Psychology, 54(5), 345-352. The rat study Hancock and Ganey credit with finding the difficulty interaction; not read.",
+      "doi": "10.1037/h0049114",
+      "url": "https://doi.org/10.1037/h0049114",
+      "type": "replication"
+    },
+    {
+      "text": "Broadhurst, P. L. (1959). The interaction of task difficulty and motivation: The Yerkes-Dodson law revived. Acta Psychologica, 16, 321-338. Located at Crossref; not read.",
+      "doi": "10.1016/0001-6918(59)90105-2",
+      "url": "https://doi.org/10.1016/0001-6918(59)90105-2",
+      "type": "replication"
+    },
+    {
+      "text": "Hebb, D. O. (1955). Drives and the C. N. S. (conceptual nervous system). Psychological Review, 62(4), 243-254. The source Hancock and Ganey give for the arousal curve textbooks print; not read.",
+      "doi": "10.1037/h0041823",
+      "url": "https://doi.org/10.1037/h0041823",
+      "type": "commentary"
+    },
+    {
+      "text": "Teigen, K. H. (1994). Yerkes-Dodson: A law for all seasons. Theory & Psychology, 4(4), 525-547. The history of how the law acquired its generality; paywalled, and quoted here only through Hancock and Ganey.",
+      "doi": "10.1177/0959354394044004",
+      "url": "https://doi.org/10.1177/0959354394044004",
+      "type": "commentary"
+    },
+    {
+      "text": "Anderson, K. J. (1994). Impulsitivity, caffeine, and task difficulty: A within-subjects test of the Yerkes-Dodson law. Personality and Individual Differences, 16(6), 813-829. A human test of the difficulty half; paywalled, no abstract found, and no result from it is reported here.",
+      "doi": "10.1016/0191-8869(94)90226-7",
+      "url": "https://doi.org/10.1016/0191-8869(94)90226-7",
+      "type": "replication"
+    },
+    {
+      "text": "Neiss, R. (1988). Reconceptualizing arousal: Psychobiological states in motor performance. Psychological Bulletin, 103(3), 345-366. The critique of unitary arousal cited by Hancock and Ganey; not read.",
+      "doi": "10.1037/0033-2909.103.3.345",
+      "url": "https://doi.org/10.1037/0033-2909.103.3.345",
+      "type": "commentary"
+    },
+    {
+      "text": "Nieuwenhuis, S. (2024). Arousal and performance: revisiting the famous inverted-U-shaped curve. Trends in Cognitive Sciences, 28(5), 394-396. A commentary on the Beerendonk work; paywalled, and nothing in this entry is taken from it.",
+      "doi": "10.1016/j.tics.2024.03.011",
+      "url": "https://doi.org/10.1016/j.tics.2024.03.011",
+      "type": "commentary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}

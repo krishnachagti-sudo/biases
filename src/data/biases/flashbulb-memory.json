@@ -1,0 +1,105 @@
+{
+  "no": 465,
+  "slug": "flashbulb-memory",
+  "name": "Flashbulb memory",
+  "aliases": [
+    "Flashbulb memories",
+    "Reception context memory"
+  ],
+  "category": "memory",
+  "statement": "Memories of learning shocking public news are claimed to be vivid, detailed and long-lasting, preserved as if by a photographic flash.",
+  "meaning": "Roger Brown and James Kulik gave the name to memories of the circumstances in which a person first heard surprising and consequential news. The term covers the reception event and not the event in the news: where someone was when they heard about the September 11 attacks, rather than how many planes were involved. Researchers keep the two apart and call the second an event memory. Three measures run through the literature and they decide what any study can show. Accuracy compares an account against a record of what actually happened, which for a private reception event usually does not exist. Consistency compares a later account against an earlier account by the same person, and two consistent accounts can both be wrong. Confidence is a rating the person gives of how sure they are that the memory is right. Almost every long-term study measures consistency rather than accuracy, and the interesting result is what happens to confidence while consistency falls.",
+  "origin": {
+    "year": 1977,
+    "who": "Roger Brown and James Kulik",
+    "where": "Cognition",
+    "note": "Brown and Kulik surveyed 80 Americans about nine public events of the period and sorted the free recalls into six recurring attributes they called canonical categories: place, activity, informant, aftermath, own affect and others' affect. They held that such memories are fixed for a very long time and possibly permanently. Their design tested nobody twice, so it could not show whether an account given years later matched the one the same person would have given at the time. The article itself could not be obtained during this check. The description above is read from Frinco and colleagues' 2024 review, which quotes it with page numbers, and the bibliographic record was verified at Crossref."
+  },
+  "evidence": "The test-retest studies are the ones that can settle anything, because only they hold a late account against an early one. Talarico and Rubin ran the design that adds a control. On 12 September 2001, 54 Duke students recorded their memory of hearing about the attacks and also a memory of an everyday event from the days before. Three groups of 18 were retested at 7, 42 or 224 days. Consistent details fell over time for both kinds of memory and the fall did not differ between them, with the memory type by session interaction at F = 0.45 for consistent details and F = 0.04 for inconsistent ones, against degrees of freedom of 1 and 51. Ratings behaved differently. Recollection, belief in accuracy, remember-know and vividness stayed flat for the September 11 memory and dropped for the everyday one, with memory type by session interactions of F = 5.13, 8.29, 9.20 and 10.67. Participants rehearsed the attack more than the everyday event, mean 5.23 against 2.46. Hirst and fifteen colleagues ran the large version. More than 3,000 people in seven American cities answered a survey one week after the attack, and follow-ups went out at 11 and 35 months; 391 answered all three. Their consistency with the first-week account, averaged over six canonical features, was 0.63 (SD 0.20) at 11 months and 0.57 (SD 0.23) at 35 months, t(390) = 5.21, p < .01, d = .28. Confidence over the same features was 4.41 (SD 0.64) then 4.25 (SD 0.93) on a five-point scale, and the drop between the two follow-ups was not significant, p > .30. Consistency correlated with emotional intensity, media attention and later conversation at between -.10 and .04; confidence correlated with media attention and conversation. Accuracy for facts about the attack itself, which can be scored against the news record, was 0.88 at one week, 0.77 at 11 months and 0.78 at 35 months. Schmolck, Buffalo and Squire questioned students three days after the O. J. Simpson verdict and again at 15 or 32 months. At 15 months, 50% of recollections were highly accurate and 11% carried major errors or distortions. At 32 months, 29% were highly accurate and more than 40% carried major distortions. Kopp, Sockol and Multhaup pooled 16 studies, N = 1,898, comparing adults under 40 with adults over 60. After one outlier was excluded, older adults scored lower on flashbulb memory, k = 14, Hedges' g = -0.30, 95% CI [-0.45, -0.15], p < .001, and were less consistent over time, k = 7, g = -0.29, CI [-0.47, -0.11], p = .002.",
+  "replication": {
+    "state": "mixed",
+    "headline": "Ten years after the attack, 202 people were still confident to about 4.5 out of 5 in memories that matched their own first-week account roughly six times in ten, and the two measures were unrelated, r = .07.",
+    "detail": "Hirst and colleagues went back to the same 9/11 sample at 119 months. Of 3,246 people who had taken one of the first three surveys, 202 completed all four. On Brown and Kulik's original yes-or-no measure the phenomenon held: 99.5% still produced a recollection for at least five of the six canonical features, so all but one participant still had a flashbulb memory after ten years. Consistency with the first-week account was 0.63 at 11 months, fell by 0.07 by 35 months, t(201) = 4.07, p < .001, d = 0.33, and then moved by 0.03 in the other direction by 119 months, t(201) = 1.92, p = .06, d = 0.16. Confidence did not fall across the decade, t(49) = 1.21, p = .23 between the second and fourth surveys and t(38) = 1.9, p = .07 between the third and fourth, with subset means between 4.23 and 4.63 on a five-point scale. At ten years, consistency and confidence were not significantly correlated, r = .07, p = .50. Inconsistencies also proved sticky: wrong answers about the reception event tended to be repeated at the next survey rather than corrected, while wrong answers about the attack itself were more often corrected. The mixed verdict is about how inconsistent the memories are, not about the confidence result. Frinco, Muzzulini, Tinti, Luminet and Schmidt reviewed 57 test-retest studies and found the conclusions split, with some finding high consistency and others finding forgetting. Their comparison of the 9/11 studies traces much of the split to method. Conway and colleagues sampled the same population over a similar interval and reported single-feature consistency of around 80% where Hirst and colleagues reported an average of 63%, and the two studies scored different canonical features and combined them differently. That comparison and the 80% figure are quoted here from Frinco and colleagues, not from Conway and colleagues. On confidence the review found no such split: 70% of the studies measured it, and it was high and stayed high.",
+    "study": {
+      "cite": "Hirst, W., Phelps, E. A., Meksin, R., Vaidya, C. J., Johnson, M. K., Mitchell, K. J., Buckner, R. L., Budson, A. E., Gabrieli, J. D. E., Lustig, C., Mather, M., Ochsner, K. N., Schacter, D., Simons, J. S., Lyle, K. B., Cuc, A. F., & Olsson, A. (2015). A ten-year follow-up of a study of memory for the attack of September 11, 2001: Flashbulb memories and memories for flashbulb events. Journal of Experimental Psychology: General, 144(3), 604-623.",
+      "doi": "10.1037/xge0000055",
+      "year": 2015,
+      "n": 202
+    }
+  },
+  "limits": "No structured effect sizes are given above. The 2015 follow-up prints d values beside intervals computed on the raw consistency difference rather than on d, so quoting either as a standardised effect with its interval would misreport the paper. Talarico and Rubin report F statistics without effect sizes. Kopp and colleagues' g values are for the gap between age groups, which is a different quantity from the size of the flashbulb effect itself. Three primary documents could not be obtained. Brown and Kulik's 1977 article was sought at ScienceDirect, which returned 403, and at Crossref, which carries the record but no text. Neisser and Harsch's 1992 Challenger chapter was sought at Cambridge Core, which serves only an opening extract, and in the Internet Archive, which returned nothing matching. The two figures usually quoted from it, a mean correctness score and a mean confidence rating, are therefore not printed here. Its design was read from Frinco and colleagues' table, which gives 44 participants, a first test one day after the disaster and a retest at 34 months. McCloskey, Wible and Cohen's 1988 paper was verified at Crossref and its full text was not obtained, so this entry does not quote its numbers. The Hirst 2009 figures come from the NIH author manuscript posted at Columbia, which states that it precedes the publisher's copyediting. Every figure quoted from both Hirst papers was extracted twice, with two different PDF readers, before being written down. The samples are not representative. The 9/11 project recruited from tables on and near campuses and says its sampling should not be read as representative of Americans. It also found that people who had suffered loss or inconvenience were likelier to keep answering. The entry does not cover neuroimaging of flashbulb events, memories of personally experienced trauma, clinical populations, or the cross-national work on whether the effect depends on group identity.",
+  "misreadings": "The first error is reading consistency as accuracy. Almost all the long-term evidence compares a later account against an earlier account by the same person, and two matching accounts could both be false. Only event memory, meaning the facts about the news itself, is scored against a record. Second, confidence and accuracy are separate measurements, and the dissociation between them is the whole finding. Hirst and colleagues found them uncorrelated at ten years, and Talarico and Rubin found belief in accuracy holding steady for the September 11 memory while it declined for an everyday memory whose consistency was falling at the same rate. Third, the finding is not that people forget where they were. At ten years, 99.5% of the four-survey sample still produced a detailed recollection. The account is there, delivered with conviction, and it no longer matches the one they gave in the first week. Fourth, a flashbulb memory is the memory of hearing the news, not memory for the event in the news, and the two behave differently: inaccurate facts about the attack were often corrected at the next survey, while inconsistent details about hearing of it were repeated. Fifth, the classic Challenger and 9/11 results are often reported as showing that these memories are worse than ordinary ones. Talarico and Rubin's control condition, an everyday memory from the same days, decayed at the same rate, and their conclusion is that the memories are special in perceived accuracy rather than in accuracy. Sixth, the strong version of the claim may never have been the claim. Pillemer argued in 1990 that McCloskey and colleagues had tested for an elite class of complete, accurate and permanently accessible memories, which he says was not part of the original models or hypotheses. Talarico and Rubin's 2017 review of the field's first forty years concludes that a categorical split between flashbulb and other autobiographical memories cannot be sustained, while allowing that these memories sit at the vivid, confident end of a continuum. Finally, this is a different literature from the one behind this atlas's entry on persistence, which concerns involuntary intrusive memories of personal trauma and is measured by diary and questionnaire rather than by test-retest consistency.",
+  "sources": [
+    {
+      "text": "Brown, R., & Kulik, J. (1977). Flashbulb memories. Cognition, 5(1), 73-99. Record verified at Crossref; the full text could not be obtained, and the description of its method in this entry is quoted from Frinco and colleagues (2024).",
+      "doi": "10.1016/0010-0277(77)90018-X",
+      "url": "https://doi.org/10.1016/0010-0277(77)90018-X",
+      "type": "primary"
+    },
+    {
+      "text": "Hirst, W., Phelps, E. A., Buckner, R. L., Budson, A. E., Cuc, A., Gabrieli, J. D. E., Johnson, M. K., Lustig, C., Lyle, K. B., Mather, M., Meksin, R., Mitchell, K. J., Ochsner, K. N., Schacter, D. L., Simons, J. S., & Vaidya, C. J. (2009). Long-term memory for the terrorist attack of September 11: Flashbulb memories, event memories, and the factors that influence their retention. Journal of Experimental Psychology: General, 138(2), 161-176. NIH author manuscript read in full; source for the three-survey samples, the consistency and confidence tables and the event memory accuracy scores.",
+      "doi": "10.1037/a0015527",
+      "url": "https://scan.psych.columbia.edu/papers/Hirst_et_al_2009.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Hirst, W., Phelps, E. A., Meksin, R., Vaidya, C. J., Johnson, M. K., Mitchell, K. J., Buckner, R. L., Budson, A. E., Gabrieli, J. D. E., Lustig, C., Mather, M., Ochsner, K. N., Schacter, D., Simons, J. S., Lyle, K. B., Cuc, A. F., & Olsson, A. (2015). A ten-year follow-up of a study of memory for the attack of September 11, 2001: Flashbulb memories and memories for flashbulb events. Journal of Experimental Psychology: General, 144(3), 604-623. Published version read in full; source for the 202-participant sample, the consistency and confidence tests and the r = .07 correlation.",
+      "doi": "10.1037/xge0000055",
+      "url": "https://www.memlab.psychol.cam.ac.uk/pubs/Hirst2015%20JEPG.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Talarico, J. M., & Rubin, D. C. (2003). Confidence, not consistency, characterizes flashbulb memories. Psychological Science, 14(5), 455-461. Full text read; source for the 54-participant design, the analysis of variance table and the rehearsal means.",
+      "doi": "10.1111/1467-9280.02453",
+      "url": "https://homepage.villanova.edu/diego.fernandezduque/Teaching/CognitivePsychology/Lectures_and_Labs/s6LongTermMemory/FlashbulbMemory/Talarico%20&%20Rubin%202003.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Frinco, R., Muzzulini, B., Tinti, C., Luminet, O., & Schmidt, S. (2024). A review of longitudinal studies on flashbulb memories. Where we started, are, and are going? Applied Cognitive Psychology, 38(4), e4233. Published version read from the UCLouvain repository copy; source for the count of 57 test-retest studies, the Brown and Kulik description, the Neisser and Harsch design and the comparison of the 9/11 studies.",
+      "doi": "10.1002/acp.4233",
+      "url": "https://research.dial.uclouvain.be/bitstreams/f4972de0-64ef-470e-81e0-5809571f56be/download",
+      "type": "review"
+    },
+    {
+      "text": "Talarico, J. M., & Rubin, D. C. (2017). Ordinary memory processes shape flashbulb memories of extraordinary events: A review of 40 years of research. In O. Luminet & A. Curci (Eds.), Flashbulb memories: New challenges and future perspectives. Routledge. Author's page proofs read in full; source for the review's conclusion on categorical dissociation and for its treatment of consistency as a proxy for accuracy.",
+      "url": "https://sites.lafayette.edu/talaricj/files/2018/02/TalaricoRubin2017-page-proofs.pdf",
+      "type": "review"
+    },
+    {
+      "text": "Schmolck, H., Buffalo, E. A., & Squire, L. R. (2000). Memory distortions develop over time: Recollections of the O.J. Simpson trial verdict after 15 and 32 months. Psychological Science, 11(1), 39-45. Abstract read from the NCBI record (PMID 11228841); source for the accuracy and distortion percentages at the two intervals.",
+      "doi": "10.1111/1467-9280.00212",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11228841/",
+      "type": "primary"
+    },
+    {
+      "text": "Kopp, S. J., Sockol, L. E., & Multhaup, K. S. (2020). Age-related differences in flashbulb memories: A meta-analysis. Psychology and Aging, 35(4), 459-472. Abstract read from the NCBI record (PMID 32309978); source for the 16 studies, the sample and both pooled effect sizes.",
+      "doi": "10.1037/pag0000467",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32309978/",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "McCloskey, M., Wible, C. G., & Cohen, N. J. (1988). Is there a special flashbulb-memory mechanism? Journal of Experimental Psychology: General, 117(2), 171-181. Record verified at Crossref; full text not obtained, and no figure from it is quoted here.",
+      "doi": "10.1037/0096-3445.117.2.171",
+      "url": "https://doi.org/10.1037/0096-3445.117.2.171",
+      "type": "primary"
+    },
+    {
+      "text": "Pillemer, D. B. (1990). Clarifying the flashbulb memory concept: Comment on McCloskey, Wible, and Cohen (1988). Journal of Experimental Psychology: General, 119(1), 92-96. Abstract read at the University of New Hampshire repository; source for the argument about which claim was tested.",
+      "doi": "10.1037/0096-3445.119.1.92",
+      "url": "https://scholars.unh.edu/psych_facpub/172/",
+      "type": "commentary"
+    },
+    {
+      "text": "Conway, A. R. A., Skitka, L. J., Hemmerich, J. A., & Kershaw, T. C. (2009). Flashbulb memory for 11 September 2001. Applied Cognitive Psychology, 23(5), 605-623. Record verified at Crossref; its consistency figures are quoted in this entry from Frinco and colleagues (2024) rather than from the paper.",
+      "doi": "10.1002/acp.1497",
+      "url": "https://doi.org/10.1002/acp.1497",
+      "type": "primary"
+    },
+    {
+      "text": "Neisser, U., & Harsch, N. (1992). Phantom flashbulbs: False recollections of hearing the news about Challenger. In E. Winograd & U. Neisser (Eds.), Affect and accuracy in recall (pp. 9-31). Cambridge University Press. Only the opening extract is served at Cambridge Core; the chapter's figures are not quoted in this entry.",
+      "url": "https://www.cambridge.org/core/books/abs/affect-and-accuracy-in-recall/phantom-flashbulbs-false-recollections-of-hearing-the-news-about-challenger/7940B6333F57AE18191278D07BA512B3",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
