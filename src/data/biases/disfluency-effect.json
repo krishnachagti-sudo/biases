@@ -8,15 +8,15 @@
   "meaning": "The idea rests on a distinction between what you are thinking about and how the thinking feels. When text is easy to process, the ease is read as a signal that everything is fine and the fast intuitive answer can be trusted. When the same text is greyed out and shrunk, the difficulty is misattributed to the problem, and the slower checking system is recruited. What makes this striking rather than obvious is that the difficulty is in the typeface, which has nothing to do with the question, so a purely cosmetic change to a page should alter the quality of reasoning done on it.",
   "origin": {
     "year": 2007,
-    "who": "Adam Alter, Daniel Oppenheimer, Nicholas Epley and Rebecca Eyre",
+    "who": "Adam L. Alter, Daniel M. Oppenheimer, Nicholas Epley and Rebecca N. Eyre",
     "where": "Journal of Experimental Psychology: General",
-    "note": "Their paper is \"Overcoming intuition: Metacognitive difficulty activates analytic reasoning\". It became one of the most-cited findings in applied typography and in education, where it is usually reported as a practical recommendation rather than as a laboratory result."
+    "note": "Their paper is \"Overcoming intuition: Metacognitive difficulty activates analytic reasoning\". Two of its four experiments used a font; the others used difficult-to-read lettering and a furrowed brow. Meyer and colleagues counted it in over 133 academic articles and in three bestselling trade books, Gladwell's \"David and Goliath\", Alter's \"Drunk Tank Pink\" and Kahneman's \"Thinking, Fast and Slow\"."
   },
-  "evidence": "Forty-one participants solved syllogisms printed in either black 12-point type or in grey italic 10-point type. On the two moderately difficult items, 64% of the hard-to-read group answered correctly against 42% of the easy-to-read group, t(39) = 2.01, p = .051. Many Labs 2 puts that at d = 0.63, with a 95% confidence interval from -0.004 to 1.25. The interval includes zero. Alter et al.'s paper is paywalled, so the figures here are as Many Labs 2 restates them.",
+  "evidence": "The two font experiments were small and ran at the same place. Experiment 1 gave the three-item Cognitive Reflection Test to 40 Princeton undergraduates recruited at the student campus centre; the hard-to-read group scored 2.45 correct against 1.90, t(38) = 2.25, p = .03. Experiment 4 gave six syllogisms to another 41 Princeton undergraduates and analysed only the two rated moderately difficult, dropping two easy and two very difficult items for ceiling and floor effects. That group answered 64% correctly against 43%, t(39) = 2.01, p < .05, with eta squared of .09. Both used black Myriad Web 12-point against 10% grey italicised Myriad Web 10-point. The paper reports eta squared throughout and prints no confidence interval for any result. Many Labs 2 restates the syllogism comparison as 64% against 42% with p = 0.051, and computes the original effect as d = 0.63, 95% CI -0.004 to 1.25 in its summary table and d = 0.64, 95% CI -0.004 to 1.27 in its running text.",
   "replication": {
     "state": "failed",
-    "headline": "In 2,580 people tested in laboratories, in English, the hard-to-read group answered no more syllogisms correctly than the easy-to-read group.",
-    "detail": "Many Labs 2 restricted the confirmatory test to English in-laboratory samples on the original authors' advice, for two good reasons: online participants can zoom in and defeat the manipulation, and translated versions might not support the original typeface. In that subsample the hard-to-read group averaged 1.10 syllogisms correct and the easy-to-read group 1.13, giving d = -0.03 with a 95% confidence interval from -0.08 to 0.01. The full replication sample of 6,935 participants gave the same estimate and the same interval. The fonts were the same two the original specified, black Myriad Web 12-point against 10% grey italicised Myriad Web 10-point.",
+    "headline": "In 2,580 people tested in laboratories in English, the hard-to-read group answered no more syllogisms correctly than the easy-to-read group.",
+    "detail": "Many Labs 2 restricted the confirmatory test to English in-laboratory samples on the original authors' advice, for two reasons: online participants can enlarge the type and defeat the manipulation, and translated versions might not support the original typeface. In that subsample of 2,580 the hard-to-read group averaged 1.10 syllogisms correct, SD 0.88, against 1.13, SD 0.91, giving t(2,578) = -0.79, p = 0.43, d = -0.03, 95% CI -0.11 to 0.05. Restricting further to the same two items the original used gave d = -0.05, 95% CI -0.12 to 0.03. Across the whole 6,935-participant sample collected for this effect the estimate was the same and the interval tighter, d = -0.03, 95% CI -0.08 to 0.01. Sites agreed with each other: Q(65) = 59.46, p = 0.67, I-squared 0%, with 96.97% of samples returning a null and 1.52% significant in each direction. The fonts were the two the original specified.",
     "study": {
       "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
       "doi": "10.1177/2515245918810225",
@@ -24,29 +24,59 @@
       "n": 2580
     },
     "original": { "es": 0.63, "esType": "d", "ci": [-0.004, 1.25], "ciLevel": 95 },
-    "replicated": { "es": -0.03, "esType": "d", "ci": [-0.08, 0.01], "ciLevel": 95, "weighting": "English in-laboratory subsample" }
+    "replicated": { "es": -0.03, "esType": "d", "ci": [-0.11, 0.05], "ciLevel": 95, "weighting": "English in-laboratory confirmatory subsample" }
   },
-  "limits": "The replication also had to decide which syllogisms counted as moderately difficult, since that varies by sample, and it did so by dropping items answered correctly by fewer than 25% or more than 75% of participants within each sample rather than by fixing the same two items everywhere. That is a defensible choice and it is a departure from the original. The 2,580 figure is the in-laboratory English subsample rather than the full project sample, and it is the number the confirmatory analysis used. Many Labs 2 gives the original effect as 0.63 in its summary table and as 0.64 in one comparison sentence, and the table figure is the one used here. What is being tested here is disfluency produced by typography on syllogisms; other manipulations of processing difficulty, and other tasks, are outside this result.",
-  "misreadings": "The finding travelled into design and teaching advice as though it were settled: set your handouts in something awkward and students will think harder. That advice has never had strong support and now has a well-powered null against it. It is also frequently merged with desirable difficulties in learning, a separate and better-supported literature about spacing, testing and generation, none of which is about fonts. And the original's own test came out at p = 0.051, so the result was borderline in the paper that reported it. The font claim has failed elsewhere as well. Meyer and colleagues pooled Alter et al.'s first experiment with 16 replication attempts, 3,657 participants in normal font and 3,710 in disfluent font, and found Cognitive Reflection Test scores of 1.43 and 1.42, t = 0.32, p = .75. That work used maths problems rather than syllogisms, so it bears on the wider claim rather than on the experiment Many Labs 2 repeated.",
+  "limits": "Three numbers from Many Labs 2 get confused with each other. The project as a whole ran two slates of studies across 125 samples and 15,305 participants; this effect sat in Slate 1 only, drew 6,935 of those participants, and its confirmatory test used the 2,580 who were tested in English in a laboratory. The heterogeneity test for it carries 65 degrees of freedom, so the lab count for this effect is a fraction of the project's. The project's own cleaning log starts Slate 1 at 7,884 complete cases and ends at 7,263 after exclusions, mostly duplicate online workers and participants under 18.\n\nThe replication also had to decide which syllogisms counted as moderately difficult, since that varies by sample. It dropped, within each sample, any item answered correctly by fewer than 25% or more than 75% of participants, rather than fixing the same two items everywhere. That is defensible and it is a departure from the original. Where Many Labs 2 and the original disagree on the original's own figures, the numbers above come from Alter and colleagues.\n\nThe memory claim is a separate literature with its own record. Diemand-Yauman, Oppenheimer and Vaughan reported that hard-to-read type improved retention: 28 Princeton participants learning invented alien species recalled 86.5% against 72.8%, t(26) = 2.3, p < .05, and 222 high school students in Chesterland, Ohio scored higher on ordinary classroom assessments in the disfluent condition, t(220) = 3.38, p < .001, d = 0.45. Their table reports five usable classrooms out of the six classes that met the entry criteria. Xie, Zhou and Liu pooled 25 articles and 3,135 participants and found no effect on recall, d = -0.01, or on transfer, d = 0.03, while judgments of learning fell, d = -0.43, and learning time rose, d = 0.52. Weissgerber, Brunmair and Rummer could not reproduce several of that meta-analysis's coded effect sizes and found a sign coding error, which moved the pooled transfer estimate from +0.026 to -0.008 and left the null intact. Weissgerber and Rummer then ran a preregistered direct replication of the working-memory moderator, recruited 220 participants in the laboratory and found null effects on retention, comprehension and transfer across every specification of a multiverse analysis.",
+  "misreadings": "The finding travelled into design and teaching advice as though it were settled: set handouts in something awkward and students will think harder. The two literatures behind that advice now both point the other way, and the reasoning half failed on the larger sample.\n\nIt is frequently merged with desirable difficulties in learning, a better-supported literature about spacing, testing and generation, none of which is about fonts. This atlas separates the neighbours: the illusion of learning (318) and the misinterpreted-effort hypothesis (323) cover how difficulty feels to a learner, the fluency heuristic (245) and the illusory truth effect (27) cover fluency as a cue to judgment, and style over substance (574) covers delivery rather than type.\n\nThe original's syllogism test was borderline in the paper that reported it. Alter and colleagues printed p < .05 for t(39) = 2.01; Many Labs 2 recomputed the same statistic as p = 0.051.\n\nThe font claim has failed on the reasoning task as well. Meyer and colleagues pooled Alter and colleagues' Cognitive Reflection Test experiment with 16 further attempts, 3,657 participants in normal font and 3,710 in disfluent font, and found scores of 1.43 and 1.42, t(7,365) = 0.32, p = .75, with a bootstrap interval running from 0.06 fewer to 0.05 more items correct. Of the 17 experiments only the original found a gain. They also report that the whole original effect came from one of the three items, the widgets problem, answered by 16 of 20 in the disfluent condition against 4 of 20 in the control, a control rate they put well below the 50% seen in a separate sample of 300 Princeton students. That work used maths problems rather than syllogisms, so it bears on the wider claim rather than on the experiment Many Labs 2 repeated.\n\nA related belief runs in the opposite direction, that a specially designed typeface can make reading easier for dyslexic readers. Azzarello and colleagues pooled 15 studies, 91 effect sizes and 688 readers and put the benefit of dyslexia-friendly fonts at g = -0.04, 95% CI -0.15 to 0.07. Changing the typeface moves reading and reasoning less than either camp expects.\n\nThe search for later direct repeats of the syllogism experiment covered Crossref, PubMed, OpenAlex, ERIC and OSF preprints, and found none beyond Many Labs 2.",
   "sources": [
     {
-      "text": "Alter, A. L., Oppenheimer, D. M., Epley, N., & Eyre, R. N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. Journal of Experimental Psychology: General, 136(4), 569-576.",
+      "text": "Alter, A. L., Oppenheimer, D. M., Epley, N., & Eyre, R. N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. Journal of Experimental Psychology: General, 136(4), 569-576. Read in full from the copy the first author hosts at New York University.",
       "doi": "10.1037/0096-3445.136.4.569",
-      "url": "https://doi.org/10.1037/0096-3445.136.4.569",
+      "url": "https://pages.stern.nyu.edu/~aalter/intuitive.pdf",
       "type": "primary"
     },
     {
-      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Figures read in the accepted manuscript deposited at LSE Research Online, including its Tables 2 and 3.",
       "doi": "10.1177/2515245918810225",
-      "url": "https://doi.org/10.1177/2515245918810225",
+      "url": "http://eprints.lse.ac.uk/91159/1/Kappes_Many-labs-2.pdf",
       "type": "replication"
     },
     {
-      "text": "Meyer, A., Frederick, S., Burnham, T. C., Guevara Pinto, J. D., Boyer, T. W., Ball, L. J., Pennycook, G., Ackerman, R., Thompson, V. A., & Schuldt, J. P. (2015). Disfluent fonts don't help people solve math problems. Journal of Experimental Psychology: General, 144(2), e16-e30.",
+      "text": "Meyer, A., Frederick, S., Burnham, T. C., Guevara Pinto, J. D., Boyer, T. W., Ball, L. J., Pennycook, G., Ackerman, R., Thompson, V. A., & Schuldt, J. P. (2015). Disfluent fonts don't help people solve math problems. Journal of Experimental Psychology: General, 144(2), e16-e30. Read in the accepted manuscript at Chapman University Digital Commons.",
       "doi": "10.1037/xge0000049",
-      "url": "https://doi.org/10.1037/xge0000049",
+      "url": "https://digitalcommons.chapman.edu/esi_pubs/96/",
       "type": "replication"
+    },
+    {
+      "text": "Diemand-Yauman, C., Oppenheimer, D. M., & Vaughan, E. B. (2011). Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes. Cognition, 118(1), 111-115. Read as the in-press proof hosted at the University of Pennsylvania.",
+      "doi": "10.1016/j.cognition.2010.09.012",
+      "url": "http://languagelog.ldc.upenn.edu/myl/FortuneFavorsTheBold.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Xie, H., Zhou, Z., & Liu, Q. (2018). Null effects of perceptual disfluency on learning outcomes in a text-based educational context: a meta-analysis. Educational Psychology Review, 30(3), 745-771. The full text is paywalled and the pooled figures here were read in the author abstract on the publisher's record, ERIC EJ1186638.",
+      "doi": "10.1007/s10648-018-9442-x",
+      "url": "https://eric.ed.gov/?id=EJ1186638",
+      "type": "meta-analysis"
+    },
+    {
+      "text": "Weissgerber, S. C., Brunmair, M., & Rummer, R. (2021). Null and void? Errors in meta-analysis on perceptual disfluency and recommendations to improve meta-analytical reproducibility. Educational Psychology Review, 33, 1221-1247.",
+      "doi": "10.1007/s10648-020-09579-1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7854329/",
+      "type": "commentary"
+    },
+    {
+      "text": "Weissgerber, S. C., & Rummer, R. (2026). A multiverse lack of replication for working memory capacity as moderator of the perceptual disfluency effect. Learning and Individual Differences, 126, 102806. Read as the authors' preprint, which carries the same title and sample.",
+      "doi": "10.1016/j.lindif.2025.102806",
+      "url": "https://osf.io/preprints/psyarxiv/5h8uf_v1/",
+      "type": "replication"
+    },
+    {
+      "text": "Azzarello, C., Paek, S., Hodge, C., Jameson, M., & Lewis, J. (2026). Does font improve reading in dyslexic children?: meta-analysis of dyslexia-friendly fonts and dyslexic children's reading performance. Annals of Dyslexia. The full text is paywalled and the figures here were read in the abstract at PubMed, record 42536336.",
+      "doi": "10.1007/s11881-026-00389-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42536336/",
+      "type": "meta-analysis"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
