@@ -1,0 +1,87 @@
+{
+  "no": 451,
+  "slug": "disgust-sensitivity-and-moral-judgement",
+  "name": "Disgust sensitivity and moral judgement",
+  "aliases": ["Amplification hypothesis"],
+  "category": "social",
+  "statement": "People who report being more easily disgusted judge moral transgressions more harshly, and the association is strongest for purity violations.",
+  "meaning": "Two separate claims travel together under this heading and the evidence for them differs. The first is correlational. Disgust sensitivity is a trait measured by questionnaire, and people who score high on it rate transgressions as more wrong than people who score low. The second is experimental. Incidental disgust, induced by a bad smell, a dirty room or a bitter drink, is said to make the moral judgements a person then makes harsher. A correlation between a scale and an attitude is not the same claim as an experiment that manipulates a feeling, and the two literatures have come apart. The verdict recorded here is on the correlational claim, and on one 2009 study of it in particular. The experimental claim is described separately below and has fared worse.",
+  "origin": {
+    "year": 2009,
+    "who": "Yoel Inbar, David A. Pizarro, Joshua Knobe and Paul Bloom",
+    "where": "Emotion",
+    "note": "Two studies reporting that scores on a disgust sensitivity questionnaire predicted intuitive but not explicit disapproval of gay men. The questionnaire itself is older: Haidt, McCauley and Rozin published the Disgust Scale in Personality and Individual Differences in 1994, and the 2009 paper used a short form of it in Study 1 and a 32-item version in Study 2."
+  },
+  "evidence": "Inbar, Pizarro, Knobe and Bloom ran two studies. Study 1 tested 44 undergraduates at the University of California, Irvine, 30 of them women, aged 18 to 33, during two mass testing sessions. Half read a vignette about a director whose music video had the side effect of encouraging gay men to French kiss in public; the other 22 read a version about couples, whom the vignette did not describe as heterosexual. Participants rated how intentionally the director had encouraged the kissing, answered yes or no to whether there was anything wrong with the kissing itself, and rated how wrong it was of the director to make the video. They then completed the eight-item short form of the Disgust Scale, with the two items about unusual sexual practices removed, leaving a six-item index with a Cronbach's alpha of .62.\n\nThe director's action was rated more intentional in the gay kissing condition, mean 4.36 against 2.91, beta = .41, t(39) = 3.39, p < .01. Disgust sensitivity interacted with condition, beta = .37, t(39) = 3.06, p < .01. Within the gay kissing condition disgust sensitivity predicted intentionality ratings, beta = .79, t(19) = 4.49, p < .001, and within the control condition it did not, beta = -.20, t(19) = -.88. Explicit judgements were unrelated to disgust sensitivity in either condition, all ps above .20. Seventy-three percent of participants said there was nothing wrong with gay men kissing in public, against 55% for straight couples, a difference the paper reports as not significant, chi-square(1, N = 42) = 1.57.\n\nStudy 2 tested 82 Cornell students, 52 of them women, aged 18 to 45, on an Implicit Association Test pairing images and words for gay and straight with pleasant and unpleasant words. Disgust sensitivity was measured with the 32-item second version of the scale, again with the sexual items removed, leaving 24 items and an alpha of .71. Mean IAT D was -.37, t(81) = -7.85, p < .0001, indicating less favourable automatic associations with gay people than with straight people across the sample. Higher disgust sensitivity went with lower IAT D scores, beta = -.30, t(79) = -2.44, p < .01.\n\nThe wider correlational claim rests on larger samples. Wagemans, Brandt and Zeelenberg ran five studies with 1,104 participants in the Netherlands and the United States, the fifth preregistered with 451 workers recruited on Amazon Mechanical Turk. Disgust sensitivity was measured with the revised Disgust Scale, and moral judgements with 60 transgressions drawn from six moral domains. Their internal meta-analysis found a relationship across all domains, r = .26, and a stronger one for purity than for any other domain: purity .40, care .27, loyalty .24, authority .19, fairness .11, liberty .07. Adding moral domain as a moderator improved the model, which their preregistration had predicted.",
+  "replication": {
+    "state": "mixed",
+    "headline": "The specific 2009 finding did not survive Many Labs 2, where the difference between conditions fell from q = 0.70 to q = 0.05 across 7,117 people, while the broader link between disgust sensitivity and moral condemnation holds in larger samples.",
+    "detail": "Many Labs 2 was a multi-laboratory project, not a single team. It ran preregistered replications of 28 findings across 125 samples, 15,305 participants and 36 countries and territories, splitting the protocols across two slates. Inbar and colleagues' Study 1 sat in Slate 1, which 64 samples took, and drew an aggregate of 7,117 participants.\n\nThe replication did not reproduce the condition difference. Intentionality ratings were the same whether the director encouraged gay kissing or kissing, means 3.48 and 3.51, t(7,115) = -0.74, p = 0.457, d = -0.02, 95% CI -0.06 to 0.03. Disgust sensitivity predicted intentionality ratings weakly in both conditions, r = 0.12 in the gay kissing condition and r = 0.07 in the other. The gap between those two correlations was q = 0.05, 95% CI 0.01 to 0.10, against an original of q = 0.70, 95% CI 0.05 to 1.35. The replication p value was 0.02, which cleared the conventional threshold and not the p < 0.0001 criterion the paper adopted for its high-powered design. Many Labs 2 states that the data are inconsistent with the original finding.\n\nOne secondary measure moved the other way. Disgust sensitivity correlated with rating the director's action wrong, r = 0.27 in the gay kissing condition and r = 0.22 in the other, q = 0.05, 95% CI 0.01 to 0.10. The 2009 paper had reported no relationship between disgust sensitivity and explicit judgements at all.\n\nThe correlational claim in general did better. Wagemans and colleagues' preregistered fifth study and their internal meta-analysis both found it, at r = .40 for purity transgressions. Salvo and colleagues' meta-analysis of 94 papers and 170 studies reports a larger pooled effect for trait disgust sensitivity, g = 0.54 across 40 studies and 11,148 participants, than for induced disgust, g = 0.30 across 61 studies and 7,032 participants.",
+    "study": {
+      "cite": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490.",
+      "doi": "10.1177/2515245918810225",
+      "year": 2018,
+      "sites": 64,
+      "n": 7117
+    }
+  },
+  "limits": "The experimental claim is the weaker of the two and is often quoted as though it were the same one. Landy and Goodwin meta-analysed every study they could find, published and unpublished, in which incidental disgust was manipulated before or during a moral judgement task. Their search produced 33 articles and 51 studies, 31 published and 20 unpublished, with 5,102 participants, of which 50 tested the amplification claim. The pooled estimate was d = 0.11, p = .002, 95% CI 0.04 to 0.19. Published studies gave d = 0.17, 95% CI 0.07 to 0.27, and unpublished ones d = 0.03, 95% CI -0.09 to 0.16. Egger's regression on the published set gave an intercept of 1.15, t(29) = 3.20, p = .003. Applying trim-and-fill imputed 10 missing studies and moved the estimate to d = -0.01, 95% CI -0.12 to 0.10. Gustatory and olfactory inductions gave the largest subgroup estimate, d = 0.37, 95% CI 0.15 to 0.60, across eight studies; visual gave 0.13, imagined 0.04 and other 0.01. The authors call 0.11 a plausible upper bound, because confounds in the reviewed studies may have inflated it, and calculate that a two-group test of an effect that size needs 2,598 participants for 80% power.\n\nA multi-laboratory replication of the bitter-taste version reached the same place. Ghelfi and colleagues ran eleven replications of Eskine, Kacinik and Prinz at five universities in the United States and three in Europe, with 1,137 participants, under the Collaborative Replications and Education Project. Pooled random-effects estimates were g = 0.10, 95% CI -0.06 to 0.26 for the bitter drink against water, and g = -0.05, 95% CI -0.19 to 0.09 for the bitter drink against the sweet one. Among the 142 conservative participants across five studies the estimate was g = 0.21, 95% CI -0.58 to 1.00. The figures here are read from the authors' preprint, because the version of record at SAGE returned HTTP 403.\n\nSalvo and colleagues reach a larger figure for induced disgust, g = 0.40, 95% CI 0.30 to 0.49, across 101 studies and 18,180 participants, and report no funnel asymmetry, Egger's intercept 0.14, t = 0.19, p = .853. Their own subgroup analysis puts cleansing manipulations at g = 0.00 and disgusting environments at g = 0.05, with sensory manipulations at g = 0.41. Heterogeneity was high throughout, I-squared 89.55 for the pooled estimate.\n\nWhat the scales measure is contested. Olatunji and colleagues examined the Disgust Scale across four studies with 1,939 participants and found inadequate internal consistency for every one of the eight subscales Haidt, McCauley and Rozin had proposed, with alphas running from .34 for food to .63 for body envelope violations in two independent samples. They recommended dropping seven of the 32 items. Many Labs 2 did not administer the scale the 2009 paper used: for length reasons it gave only the five-item contamination subscale of the revised Disgust Scale, so the replication and the original measured disgust sensitivity differently.\n\nInbar and colleagues' two samples were 44 and 82 American students, and the six-item index in Study 1 had an alpha of .62. Wagemans and colleagues' studies are correlational, their samples Dutch students and American online workers, and their own exploratory test found no relation between political ideology and disgust sensitivity.",
+  "misreadings": "The correlation and the manipulation are treated as one finding more often than not, and evidence is moved between them. Salvo and colleagues pool both into a single amplification estimate, listing Inbar and colleagues' correlational study in the same forest plot as bitter-drink experiments, and their own moderator test shows the two halves give different numbers. Landy and Goodwin's meta-analysis, which is the one usually cited when this literature is said to have failed, covers only the experiments. It says nothing about whether disgust sensitivity correlates with moral judgement.\n\nMany Labs 2's result is narrower than it is usually reported. It is a failure of the contrast: the correlation between disgust sensitivity and intentionality judgements was not meaningfully stronger for the gay kissing vignette than for the control. Disgust sensitivity did predict intentionality ratings in both conditions, and it predicted explicit wrongness ratings more strongly than that. The finding that fell was the difference between conditions, not the association itself.\n\nThe 2009 studies measured two things and not a third. Study 1 measured how intentional participants judged a fictional director's action, and Study 2 measured response latencies on an Implicit Association Test. Neither is a measure of behaviour, and the paper reports that explicit moral judgements in Study 1 were unrelated to disgust sensitivity. Reading the IAT result as a measure of what any individual would do goes well beyond what the design supports.\n\nThe purity finding is a claim about which judgements move, not about how large the association is overall. Wagemans and colleagues found r = .40 for purity transgressions and .07 for liberty ones in the same participants, so a single number for the disgust sensitivity to morality link conceals a range.",
+  "sources": [
+    {
+      "text": "Inbar, Y., Pizarro, D. A., Knobe, J., & Bloom, P. (2009). Disgust sensitivity predicts intuitive disapproval of gays. Emotion, 9(3), 435-439. Read in full from the copy hosted by the Yale Mind and Development Lab.",
+      "doi": "10.1037/a0015960",
+      "url": "https://minddevlab.yale.edu/sites/default/files/files/Disgust%20Sensitivity%20Predicts%20Intuitive%20Disapproval%20of%20Gays%20DS_Gay.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Klein, R. A., Vianello, M., Hasselman, F., et al. (2018). Many Labs 2: Investigating variation in replicability across samples and settings. Advances in Methods and Practices in Psychological Science, 1(4), 443-490. Read in full from the copy in LSE Research Online; the SAGE PDF returned HTTP 403.",
+      "doi": "10.1177/2515245918810225",
+      "url": "https://eprints.lse.ac.uk/91159/1/Kappes_Many-labs-2.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Landy, J. F., & Goodwin, G. P. (2015). Does incidental disgust amplify moral judgment? A meta-analytic review of experimental evidence. Perspectives on Psychological Science, 10(4), 518-536. Read in full from the author copy hosted at the University of Pennsylvania.",
+      "doi": "10.1177/1745691615583128",
+      "url": "https://web.sas.upenn.edu/ggoodwin/files/2016/08/Landy-Goodwin-2015-Disgust-meta-analysis-PERSPECTIVES-18zcxr2.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Ghelfi, E., Christopherson, C. D., Urry, H. L., et al. (2020). Reexamining the effect of gustatory disgust on moral judgment: A multilab direct replication of Eskine, Kacinik, and Prinz (2011). Advances in Methods and Practices in Psychological Science, 3(1), 3-23. The version of record at SAGE returned HTTP 403; figures here are read from the authors' preprint on OSF.",
+      "doi": "10.1177/2515245919881152",
+      "url": "https://osf.io/download/349pk/",
+      "type": "replication"
+    },
+    {
+      "text": "Wagemans, F. M. A., Brandt, M. J., & Zeelenberg, M. (2018). Disgust sensitivity is primarily associated with purity-based moral judgments. Emotion, 18(2), 277-289. Read in full from the publisher version in the Tilburg University repository.",
+      "doi": "10.1037/emo0000359",
+      "url": "https://repository.tilburguniversity.edu/server/api/core/bitstreams/b57eff58-43d7-4fa1-bdf2-dab3e557efd3/content",
+      "type": "primary"
+    },
+    {
+      "text": "Salvo, G., et al. (2025). Bidirectional interplay of disgust and morality: Meta-analytic investigations. Personality and Individual Differences, 236, 113032. Read in full from the copy in the Sapienza University of Rome repository.",
+      "doi": "10.1016/j.paid.2024.113032",
+      "url": "https://iris.uniroma1.it/retrieve/ddd53b30-3981-41e9-bf90-08e82211e0ff/Salvo_Bidirectional_interplay_2025.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Olatunji, B. O., Williams, N. L., Tolin, D. F., Abramowitz, J. S., Sawchuk, C. N., Lohr, J. M., & Elwood, L. S. (2007). The Disgust Scale: Item analysis, factor structure, and suggestions for refinement. Psychological Assessment, 19(3), 281-297. The source for the scale's psychometric problems and for the revised version used by later studies.",
+      "doi": "10.1037/1040-3590.19.3.281",
+      "url": "https://earlatvanderbilt.wordpress.com/wp-content/uploads/2017/01/olatunji-williams-tolin-abramowitz-sawchuk-lohr-elwood-2007-ds-r.pdf",
+      "type": "commentary"
+    },
+    {
+      "text": "Haidt, J., McCauley, C., & Rozin, P. (1994). Individual differences in sensitivity to disgust: A scale sampling seven domains of disgust elicitors. Personality and Individual Differences, 16(5), 701-713. The instrument the 2009 studies used; cited for the citation, and its properties are described here from Olatunji and colleagues rather than from it.",
+      "doi": "10.1016/0191-8869(94)90212-7",
+      "url": "https://doi.org/10.1016/0191-8869(94)90212-7",
+      "type": "primary"
+    },
+    {
+      "text": "Eskine, K. J., Kacinik, N. A., & Prinz, J. J. (2011). A bad taste in the mouth: Gustatory disgust influences moral judgment. Psychological Science, 22(3), 295-299. The study Ghelfi and colleagues replicated; described here from their report, not read directly.",
+      "doi": "10.1177/0956797611398497",
+      "url": "https://doi.org/10.1177/0956797611398497",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
