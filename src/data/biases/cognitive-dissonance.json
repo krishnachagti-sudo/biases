@@ -2,7 +2,10 @@
   "no": 24,
   "slug": "cognitive-dissonance",
   "name": "Cognitive dissonance",
-  "aliases": ["Dissonance theory", "Cognitive dissonance theory"],
+  "aliases": [
+    "Dissonance theory",
+    "Cognitive dissonance theory"
+  ],
   "category": "social",
   "statement": "Acting against one's own beliefs is said to create a discomfort that people relieve by revising the belief rather than the act.",
   "meaning": "Festinger's claim is about pressure rather than logic. Two thoughts that do not sit together produce a drive state, and the drive pushes on whichever of them is easier to move. A deed already done cannot be moved, so the belief moves. The prediction that made the theory famous is the one about incentives, and it runs backwards from common sense. A large payment for saying something one does not believe supplies a reason for saying it, so little dissonance arises and the attitude stays put. A small payment leaves the act unexplained, and the attitude shifts to explain it. Less money, more persuasion.",
@@ -12,11 +15,11 @@
     "where": "the book A Theory of Cognitive Dissonance",
     "note": "The book set out the theory and named it. The experiment usually cited as its demonstration came two years later, in Festinger and Carlsmith's 1959 paper on forced compliance. The theory's other workhorse design predates the book: Brehm's 1956 free-choice study of post-decision changes in desirability."
   },
-  "evidence": "Seventy-one male students spent an hour turning pegs and stacking spools, a task built to be dull. Each was then asked to tell the next participant, waiting outside, that the work had been interesting, and was paid either one dollar or twenty dollars to say it. A control group told nobody anything. Eleven participants were dropped for reasons including suspicion about the payment, leaving twenty per condition. Asked afterwards how enjoyable the tasks had been, on a scale running from -5 to +5, the control group averaged -0.45 and the twenty-dollar group -0.05. The one-dollar group averaged +1.35, differing from the control at t = 2.48, p = .02, and from the twenty-dollar group at t = 2.22, p = .03.",
+  "evidence": "Seventy-one male students spent an hour turning pegs and stacking spools, a task built to be dull. Each was then asked to tell the next participant, waiting outside, that the work had been interesting, and was paid either one dollar or twenty dollars to say it. A control group told nobody anything. Eleven participants were dropped for reasons including suspicion about the payment, leaving twenty per condition. Asked afterwards how enjoyable the tasks had been, on a scale running from -5 to +5, the control group averaged -0.45 and the twenty-dollar group -0.05. The one-dollar group averaged +1.35, differing from the control at t = 2.48, p = .02, and from the twenty-dollar group at t = 2.22, p = .03. A footnote states that every test in the paper is two-tailed. A second question, about wanting to take part again, ran the same way and landed short of those levels, p = .08 against the control and p = .15 against the twenty-dollar group.",
   "replication": {
     "state": "mixed",
-    "headline": "A 39-lab preregistered replication of the induced-compliance experiment found nothing, while a corrected version of the free-choice experiment still finds a small effect.",
-    "detail": "Vaidis and colleagues ran induced compliance in 39 laboratories across 19 countries, following Croyle and Cooper's 1983 Experiment 1 rather than the peg-turning study. Participants wrote an essay against their own view under high or low choice. A pretest across the labs picked an increase in tuition fees as the default topic, and labs for which it did not fit could substitute another. The manipulation worked: high-choice participants felt freer to refuse, d = 0.77, 95% CI [0.69, 0.84]. Their attitudes did not follow. Across 38 labs and 3,822 participants the high-choice group ended at 2.60 and the low-choice group at 2.66, d = -0.03, 95% CI [-0.10, 0.04]. The same authors put the Croyle and Cooper original at d = 2.40, 95% CI [1.40, 3.37]. Writing the essay at all moved attitudes relative to writing a neutral one, d = 0.26, 95% CI [0.18, 0.34], which is advocacy working without the choice the theory requires. The other paradigm has its own history. In the free-choice design people rate two items, choose between them, then rate again. Chen and Risen proved that this shows the alternatives spreading apart even when no preference has changed, because the choice reveals preference that the ratings measured imprecisely. Corrected designs followed. Izuma and Murayama pooled four of them at d = 0.26, 95% CI [0.10, 0.42], and advised abandoning the uncorrected version. Enisman, Shpitzer and Kleiman later pooled 43 artifact-free studies, N = 2,191, at d = 0.40, 95% CI [0.32, 0.49], and found no sign of publication bias.",
+    "headline": "A 39-lab preregistered replication of the induced-compliance experiment found nothing, while a corrected version of the free-choice experiment still finds a small effect. Four commentaries and the authors' reply followed in 2024, and one of them reanalyses the data and reads it the other way.",
+    "detail": "Vaidis and colleagues ran induced compliance in 39 laboratories across 19 countries and 14 languages, following Croyle and Cooper's 1983 Experiment 1 rather than the peg-turning study. Participants wrote an essay against their own view under high or low choice, or a neutral essay. A pretest at a subset of the labs picked an increase in tuition fees as the default topic, and two labs used another. Of 4,898 participants recruited, 3,822 across 38 labs entered the main test. The manipulation worked: high-choice participants felt freer to refuse, d = 0.77, 95% CI [0.69, 0.84]. Their attitudes did not follow. The high-choice group ended at 2.60 and the low-choice group at 2.66, d = -0.03, 95% CI [-0.10, 0.04], and the authors report no reliable variation between labs. Writing the essay at all moved attitudes relative to writing a neutral one, d = 0.26, 95% CI [0.18, 0.34], which is advocacy working without the choice the theory requires. The same authors put the Croyle and Cooper original, 30 participants across three cells, at d = 2.40, 95% CI [1.40, 3.37], converted from an F of 38.86 on 1 and 27 degrees of freedom. Four commentaries and a reply appeared in the same journal in October 2024. Pauer, Linne and Erb reanalysed the data using the self-reported choice items rather than the manipulation. They found a condition by perceived-choice interaction, F(2, 1098) = 7.07, p < .001, partial eta squared 0.01. It is driven by the contrast with the neutral essay: the term separating the two counterattitudinal conditions was flat, b = 0.05, p = .614. Sleegers and colleagues answered that the reanalysis is exploratory and correlational, and reported that across 104 earlier induced-compliance studies the median sample was 13.50 per condition, none was preregistered and two shared data. The other paradigm has its own history. In the free-choice design people rate two items, choose between them, then rate again. Chen and Risen proved that this shows the alternatives spreading apart even when no preference has changed, because the choice reveals preference that the ratings measured imprecisely. Corrected designs followed. Izuma and Murayama pooled four of them at d = 0.26, 95% CI [0.10, 0.42], and advised abandoning the uncorrected version. Enisman, Shpitzer and Kleiman later pooled 43 artifact-free studies, N = 2,191, at d = 0.40, 95% CI [0.32, 0.49], and found no sign of publication bias.",
     "study": {
       "cite": "Vaidis, D. C., Sleegers, W. W. A., van Leeuwen, F., DeMarree, K. G., Sætrevik, B., Ross, R. M., et al. (2024). A multilab replication of the induced-compliance paradigm of cognitive dissonance. Advances in Methods and Practices in Psychological Science, 7(1).",
       "doi": "10.1177/25152459231213375",
@@ -24,14 +27,30 @@
       "sites": 38,
       "n": 3822
     },
-    "original": { "es": 2.4, "esType": "d", "ci": [1.4, 3.37], "ciLevel": 95 },
-    "replicated": { "es": -0.03, "esType": "d", "ci": [-0.1, 0.04], "ciLevel": 95 }
+    "original": {
+      "es": 2.4,
+      "esType": "d",
+      "ci": [
+        1.4,
+        3.37
+      ],
+      "ciLevel": 95
+    },
+    "replicated": {
+      "es": -0.03,
+      "esType": "d",
+      "ci": [
+        -0.1,
+        0.04
+      ],
+      "ciLevel": 95
+    }
   },
-  "limits": "The verdict on this page is one word covering two paradigms that have different evidence behind them. The effect sizes recorded in the structured fields, 2.40 against -0.03, belong to induced compliance alone. The free-choice figures sit in the prose above and are not comparable with them: they come from meta-analyses of corrected designs, not from a single replication of a single study. A reader who takes the headline number as the state of dissonance research has taken half of it. The multilab study replicates a descendant of the 1959 experiment rather than the experiment. No large preregistered attempt at the peg-turning design was located in this search, which covered Crossref, PubMed, Europe PMC and web search. The d = 2.40 figure is Vaidis and colleagues' estimate of the 1983 result, not a number the 1983 paper printed. Nuttin published a critical replication of Festinger and Carlsmith in 1966, in the International Journal of Psychology; the text is paywalled, it was not read for this entry, and nothing is claimed about what it found. Cyrus-Lai, Tierney and Uhlmann published a commentary in the same journal as the multilab study, asking what one can conclude when a classic finding fails to replicate, and that argument was likewise not read here. Dissonance theory reaches beyond these two paradigms, to effort justification and hypocrisy induction among others, and those literatures were not searched.",
-  "misreadings": "The 1959 study is retold as proof that paying people less makes them believe more. That held for twenty men in one room, and no large replication of it has been located. The 39-lab null is then read the opposite way, as proof that dissonance does not exist. What it shows is that one procedure does not reliably produce attitude change, which its authors state as choice being either unnecessary or necessary but insufficient. The free-choice literature carries the sharper lesson. For half a century a design measured the alternatives spreading apart, and the spreading was read as preference change. Chen and Risen's central point is a theorem rather than a finding: the design returns spreading even when preferences are fixed. What survived the correction is much smaller than what was claimed, and it did survive.",
+  "limits": "The verdict on this page is one word covering two paradigms that have different evidence behind them. The effect sizes recorded in the structured fields, 2.40 against -0.03, belong to induced compliance alone. The free-choice figures sit in the prose above and are not comparable with them: they come from meta-analyses of corrected designs, not from a single replication of a single study. A reader who takes the headline number as the state of dissonance research has taken half of it. The multilab study replicates a descendant of the 1959 experiment rather than the experiment. No large preregistered attempt at the peg-turning design was located in this search, which covered Crossref bibliographic queries, Europe PMC and web search. The d = 2.40 figure is Vaidis and colleagues' conversion of the 1983 result, not a number the 1983 paper printed, and that paper was not obtained here. The Enisman meta-analysis is paywalled and its figures were read off the published abstract at PubMed and Europe PMC rather than the article. Nuttin published a critical replication of Festinger and Carlsmith in 1966, in the International Journal of Psychology; the publisher and the APA record both refused access, the text was not read, and nothing is claimed about what it found. Of the 2024 commentaries, Pauer and colleagues and the authors' reply were read in full. The comments by Harmon-Jones and Harmon-Jones, by Lishner, and by Cyrus-Lai, Tierney and Uhlmann were not obtained. What the reply says about them is the reply's account. Dissonance theory reaches beyond these two paradigms. Effort justification is entry 200 and the Benjamin Franklin effect is entry 301. Self-persuasion, which Vaidis and colleagues name as the rival account of their surviving effect, is entry 297. The hand-washing study that used the uncorrected free-choice design is entry 442. Post-purchase rationalisation is filed under choice-supportive bias, entry 169, and is about memory rather than preference. Hypocrisy induction is in none of them and was not searched.",
+  "misreadings": "The 1959 study is retold as proof that paying people less makes them believe more. That held for twenty men in one room, and no large replication of it was found in Crossref, Europe PMC or web search. The 39-lab null is then read the opposite way, as proof that dissonance does not exist. What it shows is that one procedure does not reliably produce attitude change, which its authors state as choice being either unnecessary or necessary but insufficient. The free-choice literature carries the sharper lesson. For half a century a design measured the alternatives spreading apart, and the spreading was read as preference change. Chen and Risen's central point is a theorem rather than a finding: the design returns spreading even when preferences are fixed. What survived the correction is much smaller than what was claimed, and it did survive.",
   "sources": [
     {
-      "text": "Festinger, L. (1957). A Theory of Cognitive Dissonance. Stanford University Press. The book that named the theory.",
+      "text": "Festinger, L. (1957). A Theory of Cognitive Dissonance. Row, Peterson. The book that named the theory. Festinger and Carlsmith's own reference list gives this publisher; Stanford University Press carries the later edition.",
       "url": "https://archive.org/details/theoryofcognitiv0000leon",
       "type": "primary"
     },
@@ -60,6 +79,30 @@
       "type": "replication"
     },
     {
+      "text": "Pauer, S., Linne, R., & Erb, H.-P. (2024). From the illusion of choice to actual control: Reconsidering the induced-compliance paradigm of cognitive dissonance. Advances in Methods and Practices in Psychological Science, 7(4). Reanalysis of the multilab data; read in full.",
+      "doi": "10.1177/25152459241265002",
+      "url": "https://doi.org/10.1177/25152459241265002",
+      "type": "reanalysis"
+    },
+    {
+      "text": "Sleegers, W. W. A., van Leeuwen, F., Ross, R. M., DeMarree, K. G., van Beest, I., Priolo, D., et al. (2024). When replication fails: What to conclude and not to conclude? Advances in Methods and Practices in Psychological Science, 7(4). The authors' reply, and the survey of 104 earlier studies.",
+      "doi": "10.1177/25152459241268197",
+      "url": "https://doi.org/10.1177/25152459241268197",
+      "type": "commentary"
+    },
+    {
+      "text": "Harmon-Jones, E., & Harmon-Jones, C. (2024). Dissonance in the induced-compliance paradigm: A commentary on Vaidis et al. (2024). Advances in Methods and Practices in Psychological Science, 7(4). Commentary; the text was not obtained for this entry.",
+      "doi": "10.1177/25152459241268308",
+      "url": "https://doi.org/10.1177/25152459241268308",
+      "type": "commentary"
+    },
+    {
+      "text": "Lishner, D. A. (2024). But did they really perceive no (low) choice? Comment on Vaidis et al. (2024). Advances in Methods and Practices in Psychological Science, 7(4). Commentary; the text was not obtained for this entry.",
+      "doi": "10.1177/25152459241267915",
+      "url": "https://doi.org/10.1177/25152459241267915",
+      "type": "commentary"
+    },
+    {
       "text": "Chen, M. K., & Risen, J. L. (2010). How choice affects and reflects preferences: Revisiting the free-choice paradigm. Journal of Personality and Social Psychology, 99(4), 573-594. The argument that the paradigm measures spreading without preference change.",
       "doi": "10.1037/a0020217",
       "url": "https://doi.org/10.1037/a0020217",
@@ -78,17 +121,17 @@
       "type": "meta-analysis"
     },
     {
-      "text": "Nuttin, J. M. (1966). Attitude change after rewarded dissonant and consonant forced compliance: A critical replication of the Festinger and Carlsmith experiment. International Journal of Psychology, 1(1), 39-57. Listed because it exists; the text was not read for this entry.",
+      "text": "Nuttin, J. M. (1966). Attitude change after rewarded dissonant and consonant forced compliance: A critical replication of the Festinger and Carlsmith experiment. International Journal of Psychology, 1(1), 39-57. Listed because it exists; the text could not be obtained for this entry.",
       "doi": "10.1080/00207596608247043",
       "url": "https://doi.org/10.1080/00207596608247043",
       "type": "replication"
     },
     {
-      "text": "Cyrus-Lai, W., Tierney, W., & Uhlmann, E. L. (2024). Noise versus signal: What can one conclude when a classic finding fails to replicate? Advances in Methods and Practices in Psychological Science, 7(4). Commentary; the text was not read for this entry.",
+      "text": "Cyrus-Lai, W., Tierney, W., & Uhlmann, E. L. (2024). Noise versus signal: What can one conclude when a classic finding fails to replicate? Advances in Methods and Practices in Psychological Science, 7(4). Commentary; the text was not obtained for this entry.",
       "doi": "10.1177/25152459241268293",
       "url": "https://doi.org/10.1177/25152459241268293",
       "type": "commentary"
     }
   ],
-  "checkedOn": "2026-08-09"
+  "checkedOn": "2026-08-17"
 }
