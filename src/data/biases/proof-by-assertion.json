@@ -1,0 +1,118 @@
+{
+  "no": 514,
+  "slug": "proof-by-assertion",
+  "name": "Proof by assertion",
+  "aliases": [
+    "Argument by repetition",
+    "Proof by repeated assertion",
+    "Argumentum ad nauseam",
+    "Ad nauseam"
+  ],
+  "category": "belief",
+  "statement": "Repeating a claim is offered in place of a reason to accept it, and repetition moves an audience without adding any evidence.",
+  "meaning": "Three claims travel under the name and they rest on different evidence. The first is that repetition raises judged truth. That is the illusory truth effect, and this site's entry on it holds the measured core, pooled by Ye and colleagues at g = 0.37, 95% CI [0.30, 0.44], across 182 studies. The second is that a claim repeated by one source is read as a claim many people hold, so one voice manufactures the look of agreement. The third is that an unsupported assertion is not an argument, which is a claim about what counts as a reason rather than about what persuades. Only the first two are questions an experiment settles. The nearest measurable version of the third is whether audiences move less when the backing for a claim is left out.",
+  "origin": {
+    "year": 2007,
+    "who": "Kimberlee Weaver, Stephen M. Garcia, Norbert Schwarz and Dale T. Miller",
+    "where": "Journal of Personality and Social Psychology",
+    "note": "Their six experiments established the part of the idea that is specific to a single asserter: familiarity built by one repeating speaker is read as prevalence. Where the English name came from was not established here. Neither of the two standard philosophical surveys of fallacies carries it. The Stanford Encyclopedia article by Hansen and the Internet Encyclopedia article by Dowden, which lists 231 fallacies, were each read in full twice for this check, and neither contains proof by assertion, ad nauseam or ipse dixit. The one named treatment located is a four-page chapter by Leigh Kolb, \"Argument by Repetition\", at pages 215 to 218 of a Wiley collection of a hundred fallacies."
+  },
+  "evidence": "Weaver, Garcia, Schwarz and Miller tested whether a repeated opinion reads as a shared one. In Study 1A, 177 people read views on a fictitious New Jersey land-use question. Reading one homeowner make the same point three times raised estimated focus-group support to 5.43 on a seven-point scale, against 4.66 when the same homeowner made it once, F(1, 174) = 19.71, p < .001, d = 0.74. Three different homeowners raised it to 6.22, d = 1.60. Study 2 removed the group setting. 305 people read one party member's e-mail with the identical comment copied twice more at the foot of the page, laid out to look like an artefact of the mail software. Estimated support for the position rose from 38.26% to 44.18%, F(1, 303) = 5.96, p < .05, d = 0.28. Whether repetition carries a bad argument was tested by Moons, Mackie and Garcia-Marques in three studies, read here from the published abstract. Repetition raised the persuasiveness of weak and strong arguments alike where little processing of the content occurred, and controlled processing removed the gain for the weak ones. The cost of leaving support out has been pooled. O'Keefe's meta-analysis of support articulation covers 27 argument-completeness cases and 5,808 participants, and messages that spelled out their premises were more persuasive at a mean r of .116, 95% CI .052 to .180. Naming the source of the information gave r = .064 across 23 cases and 5,358 participants, 95% CI .014 to .114. Confidence is a third channel and it is conditional. Sah, Moore and MacCoun had 184 people take weight-estimation advice with accuracy feedback, and confident but inaccurate advisors drew the lowest credibility ratings, 2.23 against 2.84 for the diffident inaccurate ones, F(1, 180) = 14.29, p < .001. In their second study, 377 people faced free, absent or costly feedback. Where no feedback came, confidence alone raised credibility from 3.20 to 3.54, F(1, 127) = 7.82, p = .006, and people bought feedback on confident advisors less often, 35% against 53%.",
+  "replication": {
+    "state": "replicated",
+    "headline": "Three preregistered experiments on 718 people found repetition raised judged truth by about d = 0.3, and a claim repeated by one source did as much work as the same claim from three.",
+    "detail": "Pillai and Fazio put the single-asserter question directly. Experiment 1 gave 262 people headlines repeated three times, verbatim or paraphrased. Both beat new headlines, verbatim at d = 0.27 and paraphrased at d = 0.31, and they did not differ from each other, t(261) = 1.05, p = .295. Experiment 2 gave 229 people headlines repeated by one named source or by three, with photographs. Repetition from one source beat new headlines at d = 0.29 and repetition from three at d = 0.23, and the two repeated conditions did not differ, t(228) = 0.87, p = .387. Experiment 3 crossed both manipulations on 227 people and found the same, t(226) = 0.45, p = .650, d = 0.03. Their figures come from the accepted manuscript in the National Science Foundation public-access repository. Foster, Huthwaite, Yesberg, Garry and Loftus had reached the same conclusion from the other direction, on smaller samples. 64 people watched a mock crime and read three eyewitness reports attributed to one witness or to three. Repeating the misleading claims cut accuracy from 0.63 to 0.49, t(62) = 2.53, p = .01, d = 0.64, and no test of the number of sources came out reliable. With 96 people who had not seen the video, repeated claims raised confidence from 3.80 to 4.44 on a five-point scale, t(94) = 4.50, p < .01, d = 0.92, again with no effect of source count. The truth side has a registered replication. Bowes and Fazio ran 296 people on conspiracy and trivia statements matched for baseline plausibility, and repetition raised truth ratings for conspiracy statements at dz = 0.18 and for trivia at dz = 0.26. The field test is more sobering. Pillai, Kim and Fazio matched a database of Donald Trump's repeated false claims to a survey of 754 Americans giving 14,940 truth ratings. Across the whole sample the coefficient on the logged number of repetitions was 0.000 on a scale recoded from 0 to 1, p = .993. Split by party it was 0.012 for Republicans and -0.011 for Democrats, both p < .001.",
+    "study": {
+      "cite": "Pillai, R. M., & Fazio, L. K. (2025). Repeated by many versus repeated by one: Examining the role of social consensus in the relationship between repetition and belief. Journal of Applied Research in Memory and Cognition.",
+      "doi": "10.1037/mac0000166",
+      "year": 2025,
+      "n": 718
+    },
+    "replicated": {
+      "es": 0.29,
+      "esType": "d",
+      "weighting": "Experiment 2, headlines repeated by one source against new headlines"
+    }
+  },
+  "limits": "Nothing here measures the fallacy. Every study above asks whether an audience shifted, and none asks whether anyone accepted a claim on grounds that were not reasons. No study was located that repeats an assertion while holding its supporting argument fixed, which is the design the logical charge would need. That search covered Crossref, PubMed, Semantic Scholar, the two encyclopedia articles named above and open web search pairing repetition, assertion and ad nauseam with fallacy and experiment terms. Crossref queries for proof by assertion, argumentum ad nauseam and argument by repetition returned nothing on the subject. Kolb's chapter is paywalled and was not read, so what it argues is not described here. Oxford English Dictionary entries for ad nauseam sit behind a login these checks did not pass, so the Latin tag is not dated on this page. Moons, Mackie and Garcia-Marques were read only as the PubMed abstract, and no effect size from those three studies is quoted. Jalbert and Pillai's paper on an illusory consensus effect could not be obtained: the University of California Press site returned 403 to every request and the copy offered by the journal's submission platform turned out to be a revision letter, so nothing from it appears here. Weaver and colleagues' samples are undergraduates and passers-by recruited in public places on one campus, and their outcome is an estimate of what other people think rather than a decision. The effects are small. Spelling an argument out buys about r = .12, and the pooled truth effect is a fraction of a point on a rating scale.",
+  "misreadings": "The two measures come apart, and that is the thing most often flattened. For judged truth, one repeating source matched three sources in all three of Pillai and Fazio's experiments. For judged prevalence, Weaver and colleagues' own pooled test across the three studies carrying a three-person control found that three speakers produced greater estimated group support than one speaker repeating three times, z(9) = 5.42, p < .001. Their own summary puts one voice repeating at 90% of three voices on average, so the gap is small and it is reliable. A repetitive voice sounds like a chorus, and not like as large a chorus. Calling an argument proof by assertion is also not a claim that the repetition failed. The two questions are separate, and the persuasion evidence is not the evidence the charge needs. Repetition in public life does not simply accumulate either. Trump's most repeated falsehoods moved Republicans up and Democrats down by almost the same amount, leaving a pooled coefficient of zero. Sounding certain is treated as a free substitute for evidence, and Sah and colleagues found it is not: it paid only where the audience could not check accuracy, and it backfired where they could. The fallacy is also run together with two neighbours. An appeal to popularity cites the number of people who hold a view, where proof by assertion supplies no such citation and lets repetition imply it. Begging the question repeats the conclusion inside the argument as its own premise, which Hansen describes as a disguised instance of repetition that gives no reason for its apparent conclusion. That is one argument eating itself, not a claim restated over time.",
+  "sources": [
+    {
+      "text": "Weaver, K., Garcia, S. M., Schwarz, N., & Miller, D. T. (2007). Inferring the popularity of an opinion from its familiarity: A repetitive voice can sound like a chorus. Journal of Personality and Social Psychology, 92(5), 821-833. Full text read as the PDF hosted on the second author's University of Michigan pages, which is the source of every figure quoted from it.",
+      "doi": "10.1037/0022-3514.92.5.821",
+      "url": "https://public.websites.umich.edu/~smgarcia/pubs/repeatedvoice.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Pillai, R. M., & Fazio, L. K. (2025). Repeated by many versus repeated by one: Examining the role of social consensus in the relationship between repetition and belief. Journal of Applied Research in Memory and Cognition. Figures read from the accepted manuscript in the NSF public-access repository.",
+      "doi": "10.1037/mac0000166",
+      "url": "https://par.nsf.gov/servlets/purl/10527657",
+      "type": "replication"
+    },
+    {
+      "text": "Foster, J. L., Huthwaite, T., Yesberg, J. A., Garry, M., & Loftus, E. F. (2012). Repetition, not number of sources, increases both susceptibility to misinformation and confidence in the accuracy of eyewitnesses. Acta Psychologica, 139(2), 320-326. Full text read as the PDF hosted by the University of California, Irvine.",
+      "doi": "10.1016/j.actpsy.2011.12.004",
+      "url": "https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/08/Foster_Repetition_ActaPsych2012.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Bowes, S. M., & Fazio, L. K. (2026). Does repetition increase perceived truth equally for conspiracy and trivia statements? A registered replication report. Psychonomic Bulletin & Review, 33(1), 39. Full text read at PubMed Central.",
+      "doi": "10.3758/s13423-025-02836-w",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12779699/",
+      "type": "replication"
+    },
+    {
+      "text": "Pillai, R. M., Kim, E., & Fazio, L. K. (2023). All the president's lies: Repeated false claims and public opinion. Public Opinion Quarterly, 87(3), 764-784. Coefficients read from the accepted manuscript in the NSF public-access repository.",
+      "doi": "10.1093/poq/nfad032",
+      "url": "https://par.nsf.gov/servlets/purl/10527666",
+      "type": "primary"
+    },
+    {
+      "text": "O'Keefe, D. J. (1998). Justification explicitness and persuasive effect: A meta-analytic review of the effects of varying support articulation in persuasive messages. Argumentation and Advocacy, 35(2), 61-75. Full text read as the PDF on the author's site.",
+      "doi": "10.1080/00028533.1998.11951621",
+      "url": "https://dokeefe.net/pub/okeefe98aa.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Sah, S., Moore, D. A., & MacCoun, R. J. (2013). Cheap talk and credibility: The consequences of confidence and accuracy on advisor credibility and persuasiveness. Organizational Behavior and Human Decision Processes, 121(2), 246-255. Full text read as the PDF hosted by the second author.",
+      "doi": "10.1016/j.obhdp.2013.02.001",
+      "url": "http://learnmoore.org/papers/Sah%20Moore%20MacCoun%202013.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Moons, W. G., Mackie, D. M., & Garcia-Marques, T. (2009). The impact of repetition-induced familiarity on agreement with weak and strong arguments. Journal of Personality and Social Psychology, 96(1), 32-44. Read only as the abstract deposited at PubMed; no figure from it is quoted here.",
+      "doi": "10.1037/a0013461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19210062/",
+      "type": "primary"
+    },
+    {
+      "text": "Ye, S., Attali, D., Ghazi, M., Cachia, A., Cassotti, M., & Borst, G. (2026). Systematic review and meta-analysis of the evidence for an illusory truth effect and its determinants. Nature Communications, 17(1), 3270. Cited here only for the pooled estimate; this site's illusory truth effect entry carries the rest.",
+      "doi": "10.1038/s41467-026-70041-x",
+      "url": "https://doi.org/10.1038/s41467-026-70041-x",
+      "type": "replication"
+    },
+    {
+      "text": "Hansen, H. (2024). Fallacies. Stanford Encyclopedia of Philosophy, substantive revision 30 August 2024. Read in full; the source for the description of begging the question as a disguised instance of repetition, and for the absence of any treatment of repeated assertion.",
+      "url": "https://plato.stanford.edu/entries/fallacies/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dowden, B. Fallacies. Internet Encyclopedia of Philosophy. Read in full; the article says it lists 231 fallacies, and none of them is proof by assertion, ad nauseam or argument by repetition.",
+      "url": "https://iep.utm.edu/fallacy/",
+      "type": "commentary"
+    },
+    {
+      "text": "Kolb, L. (2018). Argument by Repetition. In Bad Arguments: 100 of the Most Important Fallacies in Western Philosophy, 215-218. Wiley. The one named treatment located; paywalled and not read.",
+      "doi": "10.1002/9781119165811.ch45",
+      "url": "https://doi.org/10.1002/9781119165811.ch45",
+      "type": "commentary"
+    },
+    {
+      "text": "Jalbert, M., & Pillai, R. M. (2024). An illusory consensus effect: The mere repetition of information increases estimates that others would believe or already know it. Collabra: Psychology, 10(1), 124533. Named as existing; the publisher returned 403 to every request and nothing from it is quoted here.",
+      "doi": "10.1525/collabra.124533",
+      "url": "https://doi.org/10.1525/collabra.124533",
+      "type": "replication"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
