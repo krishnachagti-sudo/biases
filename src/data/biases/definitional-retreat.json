@@ -1,0 +1,109 @@
+{
+  "no": 570,
+  "slug": "definitional-retreat",
+  "name": "Definitional retreat",
+  "aliases": ["Definitional retreat fallacy"],
+  "category": "belief",
+  "statement": "A definitional retreat answers an objection by changing what a key word means, so the sentence survives as a different claim from the one that was attacked.",
+  "meaning": "Madsen Pirie's definition is narrow and mechanical. A definitional retreat takes place when someone changes the meaning of the words in order to deal with an objection raised against the original wording, and by changing the meaning turns it into a different statement. His first example is a claim that a man has never once been abroad, met with the fact that he has been to Boulogne, met in turn with the reply that visiting Boulogne cannot be called going abroad. The fault Pirie names is not the revision. It is the surreptitious substitution of one concept for another under the guise of explaining what the words really mean, since the support advanced for the first position need not apply to its replacement. Two things follow. The retreat is available for any word, not only for the name of a class, so it reaches 'drinking', 'growth' and 'experience' as readily as 'Scotsman'. And the speaker ends up defending a claim he did not make, while behaving as though the first one had held. That is where the neighbouring entries part company. No true Scotsman keeps the original sentence and narrows the category until the counterexample falls outside it, leaving a tautology. Moving the goalposts leaves the words alone and raises the test. The motte-and-bailey fallacy keeps a bold claim and a modest one in play under one wording and moves between them. Equivocation needs no objection at all, because the shift of sense already sits inside the argument as first stated.",
+  "origin": {
+    "year": 2015,
+    "who": "Madsen Pirie",
+    "where": "How to Win Every Argument: The Use and Abuse of Logic, second edition",
+    "note": "The entry runs from page 77 to page 79 and cites no earlier source for the name. The imprint page of the second edition records first publication in 2006 by Bloomsbury and the second edition in 2015, and the 2006 printing was not seen, so whether the entry stood in it is unverified. Pirie's earlier fallacy book, The Book of the Fallacy, published in 1985, was not seen either. Internet Archive and Open Library full-text search, which would settle both questions, reset the connection on every attempt during this work. The year given here is therefore the year of the edition that was read, not a claim about when the name was coined."
+  },
+  "evidence": "The primary material is three pages of a trade paperback and there is no study behind it. Pirie gives four specimen exchanges. A claim about never having been abroad, defeated by Boulogne. A driver who says that when he told the officer he had not been drinking, he meant he had not had more than he gets through in a normal social evening. A charge of having no experience of dealing with terrorism, answered with four years at the US anti-terrorist academy and service as adviser to the governments of Malaysia and Singapore, and answered in turn with 'I meant you have no experience of dealing with terrorists in England'. And a subject who explains that when he called his rulers tyrants he was referring to the tax-collectors and administrators rather than to His Majesty. Pirie calls the move a favourite recourse of philosophers, whose proposed definitions of virtue, the good and meaning itself get re-erected in a slightly different place when a counterexample scatters the stumps. He closes the entry with Humpty Dumpty on 'glory'. Earlier in the same book he reports that opponents of the global warming thesis alleged that the switch to 'climate change' was a definitional retreat, and he presents that as an accusation traded in a bad-tempered dispute rather than as his own verdict. Outside the book the term lives on fallacy lists. Fallacycheck.com defines it as escaping a valid counter-argument by redefining a key term without acknowledging that this changes the nature of the debate, gives an example about the running times of fantasy films, and sends the reader on to no true Scotsman. The Adam Smith Institute carries a post dated 23 January linking a Pirie video on the definitional retreat, the third in a series, alongside a pre-order link for the new edition. No use of the phrase in a scholarly source was located, and the places searched are named below.",
+  "replication": {
+    "state": "none-located",
+    "headline": "No experiment on the manoeuvre was found. The nearest measured work is on concepts that widen by themselves, which is not a speaker redefining a word to escape an objection.",
+    "detail": "Two literatures measure something adjacent and neither tests the fallacy. The first is prevalence-induced concept change. David Levari and colleagues ran seven studies in which participants sorted stimuli and then met a fall in how common the target was. In Study 1, 22 Harvard students judged 1,000 dots on a purple to blue continuum and one was excluded. When the share of dots drawn from the blue half of the spectrum dropped from 50% to 6%, a condition by objective colour by trial number interaction predicted judgements, b = 12.50, SE = 1.75, z = 7.14, p < 0.001, 95% CI [8.85, 16.09]. The same shape appeared for threatening faces with 48 participants, b = 4.84, SE = 0.86, z = 5.61, 95% CI [3.12, 6.53], and for research ethics proposals with 84, b = 5.10, SE = 1.02, z = 4.98, 95% CI [3.09, 7.10]. Forewarning, instructions and payment did not stop it. Levari later ran a preregistered direct replication of Study 1 online with 47 participants and got a larger coefficient, b = 14.80, SE = 0.88, z = 16.75, p < 0.001, 95% CI [13.07, 16.53], and reports that widening the range of colours shown as blue dots grew rare removed the effect in a further 110 participants. Two other groups found the pattern in new materials. Sean Devine and colleagues preregistered a study of 419 young women; raising the share of thin bodies took a body with a body mass index of 23.35 from 11% of participants calling it overweight at the start to 25% at the end, against 8% and 9% in the stable condition, with a three-way interaction of β = 3.85, SE = 0.38. Sven Speerforck and colleagues gave 138 students statements about mental illness and found the condition by trial interaction at b = 0.51, SE = 0.22, z = 2.33, odds ratio 1.66, with a post hoc power estimate of 65.40%, 62.36 to 68.35, and describe their effect as small. The second literature is concept creep, Nick Haslam's claim that harm-related concepts such as trauma, bullying and prejudice have inflated. Its record is split. Naomi Baes and colleagues took a corpus of 825,628 psychology abstracts from 1970 to 2017 and report that 'trauma' came to be used in less severe contexts, as the theory predicts. Yu Xiao and colleagues applied the same method to 'anxiety' and 'depression' and found the severity of surrounding words rising rather than falling, β = 0.86, 95% CI [0.71, 1.01] for anxiety and β = 0.41, 95% CI [0.14, 0.68] for depression in the psychology corpus, with the trend repeating in a general corpus. All of this concerns boundaries drifting with the evidence a person has seen or a discipline has published. None of it is a speaker redefining a word after an objection."
+  },
+  "limits": "Nothing here measures the fallacy. No experiment was found in which a speaker revises a term after an objection and anybody is asked to notice it, rate it or resist it. The search for scholarly use of the name covered Europe PMC, which returns no records for the phrase; the search page of the journal Informal Logic, which returns none; Crossref, whose bibliographic query has no phrase matching and returns lexicographic and unrelated items; and general web search, which returns fallacy dictionaries, the Adam Smith Institute post and a video. Three indexes refused. OpenAlex answered every request with a daily budget error, the Semantic Scholar search endpoint returned 429 throughout, and PhilPapers returned a bot challenge. Internet Archive and Open Library reset the connection on every attempt, so neither Pirie's 2006 first edition nor his 1985 book was searched, and the page numbers given here are those of the 2015 second edition, read twice from the same full-text copy. Dunning, Meyerowitz and Holzberg's 1989 paper on idiosyncratic trait definitions, the closest thing to a measured account of self-serving redefinition, was not obtained; its bibliographic record was confirmed at Crossref and nothing here describes its methods. Ethan Zell and colleagues' meta-analysis of the better-than-average effect was read only as its PubMed abstract, which gives dz = 0.78, 95% CI [0.71, 0.84] across 124 articles, 291 samples and more than 950,000 participants, and reports the effect larger for personality traits than for abilities. That abstract does not name trait ambiguity as a moderator and the full text was not obtained, so whether the meta-analysis tested Dunning's account is unknown here. Haslam's 2016 article naming concept creep was not obtained; his 2021 American Psychologist paper was read as its PubMed abstract, and Baes and colleagues' trauma paper as its abstract at the publisher. Only Levari's two papers, Xiao and colleagues, Speerforck and colleagues, Devine and colleagues, Kitsik and Pirie's chapter were read as full texts.",
+  "misreadings": "The commonest error is to treat this and no true Scotsman as one thing. They overlap and they are not the same test. Antony Flew's move keeps the original sentence and drains it, inserting the word true so that the counterexample stops counting as a member of the class. Pirie's move replaces the sentence, and his complaint is that the support offered for the first claim need not carry to the second. Fallacycheck.com's own example narrows a class, which is Flew's shape under Pirie's name, and its page sends readers to Flew for that reason. The second error is to treat any later revision of a term as the fallacy. Levari and colleagues draw the line in their own words: when yellow bananas become less prevalent a shopper's concept of ripe should expand to include speckled ones, and when violent crimes become less prevalent a police officer's concept of assault should not expand to include jaywalking. Eve Kitsik argues in Philosophical Studies that inflating problem concepts such as sexual harassment neither much limits nor much improves what speakers can communicate about the sub-problems, because linguistic resources are flexible and speakers develop them, and that the real stake is where collective attention goes. Pirie's own test is narrower than the charge usually laid with his name, because the revision has to arrive disguised as an account of what the words really meant. The third error runs the other way, and reads the measured work on expanding concepts as evidence that people commit the fallacy. A dot judged blue on trial 900 that would have been judged purple on trial 100 is a boundary that moved inside one head with nobody arguing, and the corpus studies are about decades of published language rather than about a speaker answering an objection.",
+  "sources": [
+    {
+      "text": "Pirie, M. (2015). How to Win Every Argument: The Use and Abuse of Logic, second edition. Bloomsbury Academic, London. The definitional retreat entry is on pages 77 to 79 and the climate change remark is on page 7. Google Books gives the publisher as Bloomsbury Publishing, the date as 12 March 2015 and the ISBN as 9781472529121, matching the imprint page of the copy read.",
+      "url": "https://books.google.com/books?id=YMPuBQAAQBAJ",
+      "type": "primary"
+    },
+    {
+      "text": "Pirie, M. (2015). How to Win Every Argument, second edition, full text. Every sentence quoted from Pirie was read here and confirmed on a second independent fetch of the same page, including the imprint page giving first publication in 2006 and the contents listing the entry at page 77.",
+      "url": "https://dokumen.pub/how-to-win-every-argument-the-use-and-abuse-of-logicsecond-edition-9781472529121-9781474245296-9781472523969.html",
+      "type": "primary"
+    },
+    {
+      "text": "Adam Smith Institute. Logical Fallacies: 3. Definitional Retreat. Blog post dated 23 January, with no year shown, linking a video of Madsen Pirie's and a pre-order for the new edition.",
+      "url": "https://www.adamsmith.org/blog/miscellaneous/logical-fallacies-3-definitional-retreat/",
+      "type": "commentary"
+    },
+    {
+      "text": "Fallacy Check. Definitional retreat. Cited for the online definition and for the fantasy film example, which narrows a class and carries a pointer to no true Scotsman.",
+      "url": "https://fallacycheck.com/fallacy/definitional-retreat",
+      "type": "commentary"
+    },
+    {
+      "text": "Levari, D. E., Gilbert, D. T., Wilson, T. D., Sievers, B., Amodio, D. M., & Wheatley, T. (2018). Prevalence-induced concept change in human judgment. Science, 360(6396), 1465-1467. All figures read from the article and its supplementary materials in a single PDF, downloaded twice with matching checksums.",
+      "doi": "10.1126/science.aap8731",
+      "url": "https://dtg.sites.fas.harvard.edu/LEVARI2018COMPLETE.pdf",
+      "type": "primary"
+    },
+    {
+      "text": "Levari, D. E. (2022). Range-frequency effects can explain and eliminate prevalence-induced concept change. Cognition, 226, 105196. Read as the author's PDF, downloaded twice with matching checksums. Source for the preregistered replication with 47 participants and the range extension study with 110.",
+      "doi": "10.1016/j.cognition.2022.105196",
+      "url": "https://davidlevari.com/wp-content/uploads/2023/08/levari_2022_cognition_complete.pdf",
+      "type": "replication"
+    },
+    {
+      "text": "Devine, S., Germain, N., Ehrlich, S., & Eppinger, B. (2022). Changes in the Prevalence of Thin Bodies Bias Young Women's Judgments About Body Size. Psychological Science, 33(8), 1212-1225. Read as the full text at PubMed Central, fetched twice. Their preregistered predictions about self-concept and self-image were not supported.",
+      "doi": "10.1177/09567976221082941",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13020920/",
+      "type": "replication"
+    },
+    {
+      "text": "Speerforck, S., Jürgensen, M., Göbel, J., Meyer, T., & Schomerus, G. (2024). 'Concept creep' in perceptions of mental illness, an experimental examination of prevalence-induced concept change. European Archives of Psychiatry and Clinical Neuroscience, 276(1), 33-37. Read as the full text at PubMed Central, fetched twice.",
+      "doi": "10.1007/s00406-023-01737-0",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12904865/",
+      "type": "replication"
+    },
+    {
+      "text": "Xiao, Y., Baes, N., Vylomova, E., & Haslam, N. (2023). Have the concepts of 'anxiety' and 'depression' been normalized or pathologized? A corpus study of historical semantic change. PLOS ONE, 18(6), e0288027. Read as the full text at PubMed Central, fetched twice. The authors state that their primary hypothesis was not supported.",
+      "doi": "10.1371/journal.pone.0288027",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10310000/",
+      "type": "replication"
+    },
+    {
+      "text": "Baes, N., Vylomova, E., Zyphur, M., & Haslam, N. (2023). The semantic inflation of 'trauma' in psychology. Psychology of Language and Communication, 27(1). Read as the abstract at the publisher; the full text was not obtained. Source for the 825,628 abstracts and for the finding that 'trauma' came to be used in less severe contexts.",
+      "doi": "10.58734/plc-2023-0002",
+      "type": "primary"
+    },
+    {
+      "text": "Haslam, N. (2016). Concept Creep: Psychology's Expanding Concepts of Harm and Pathology. Psychological Inquiry, 27(1), 1-17. Not obtained; cited for naming the idea. Journal, volume, issue, pages and year confirmed at Crossref.",
+      "doi": "10.1080/1047840X.2016.1082418",
+      "type": "primary"
+    },
+    {
+      "text": "Haslam, N., Vylomova, E., Zyphur, M., & Kashima, Y. (2021). The cultural dynamics of concept creep. American Psychologist, 76(6), 1013-1026. Read as the PubMed abstract, PMID 34914436, which names trauma, bullying and prejudice as the harm-related concepts at issue.",
+      "doi": "10.1037/amp0000847",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34914436/",
+      "type": "primary"
+    },
+    {
+      "text": "Kitsik, E. (2025). Conceptual inflation, communication and understanding, and collective attention. Philosophical Studies, 182(9), 2657-2676. Read as the full text at PubMed Central. Cited for the argument that inflating problem concepts neither much limits nor much improves communication.",
+      "doi": "10.1007/s11098-025-02374-0",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12397196/",
+      "type": "commentary"
+    },
+    {
+      "text": "Dunning, D., Meyerowitz, J. A., & Holzberg, A. D. (1989). Ambiguity and self-evaluation: The role of idiosyncratic trait definitions in self-serving assessments of ability. Journal of Personality and Social Psychology, 57(6), 1082-1090. Not obtained. Journal, volume, issue, pages, year and authors confirmed at Crossref, and nothing here describes what it did.",
+      "doi": "10.1037/0022-3514.57.6.1082",
+      "type": "primary"
+    },
+    {
+      "text": "Zell, E., Strickhouser, J. E., Sedikides, C., & Alicke, M. D. (2020). The better-than-average effect in comparative self-evaluation: A comprehensive review and meta-analysis. Psychological Bulletin, 146(2), 118-149. Read as the PubMed abstract, PMID 31789535. The full text was not obtained.",
+      "doi": "10.1037/bul0000218",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31789535/",
+      "type": "primary"
+    }
+  ],
+  "checkedOn": "2026-08-17"
+}
