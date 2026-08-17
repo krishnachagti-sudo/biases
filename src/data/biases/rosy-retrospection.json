@@ -5,30 +5,30 @@
   "aliases": ["Rosy view", "Rosy view effect"],
   "category": "memory",
   "statement": "People recall an event more fondly than they rated it while it was happening, so a holiday is remembered as better than it felt at the time.",
-  "meaning": "The claim is about the gap between three measurements of one event, not about memory being pleasant in general. A person rates a trip before it starts, again while it is under way, and again once it is over. Rosy retrospection is the finding that the third rating sits above the second. Mitchell and Thompson paired it with two companion processes: rosy prospection, where the first rating also sits above the second, and dampening, where the rating taken during the event is pulled down. Testing any of this needs momentary ratings collected in the field, which is why the evidence base is small and why studies that only ask people to remember cannot speak to it.",
+  "meaning": "The claim is about the gap between three measurements of one event, not about memory being pleasant in general. A person rates a trip before it starts, again while it is under way, and again once it is over. Rosy retrospection is the finding that the third rating sits above the second. Mitchell and Thompson paired it with two companion processes: rosy prospection, where the first rating also sits above the second, and dampening, which they define as the tendency to minimise the pleasure of an event while it is being experienced. Testing any of this needs momentary ratings collected in the field, which is why the evidence base is small and why studies that only ask people to remember cannot speak to it.",
   "origin": {
     "year": 1994,
     "who": "Terence R. Mitchell and Leigh Thompson",
     "where": "Advances in Managerial Cognition and Organizational Information Processing",
-    "note": "The chapter \"A theory of temporal adjustments of the evaluation of events: Rosy prospection & rosy retrospection\" runs from page 85 to page 114 of volume 5 and names the three processes. It is a theory piece. The field evidence arrived three years later in Mitchell, Thompson, Peterson and Cronk's 1997 paper in the Journal of Experimental Social Psychology, which is what the effect is normally cited to."
+    "note": "The chapter \"A theory of temporal adjustments of the evaluation of events: Rosy prospection & rosy retrospection\" runs from page 85 to page 114 of volume 5, published by JAI Press. It is a theory piece with no results section. The field evidence arrived three years later in Mitchell, Thompson, Peterson and Cronk's 1997 paper in the Journal of Experimental Social Psychology, which is what the effect is normally cited to."
   },
-  "evidence": "Mitchell, Thompson, Peterson and Cronk followed people through three real events: a trip to Europe, a Thanksgiving holiday and a three-week bicycle trip in California. Each group rated the event in anticipation, during it, and in recollection. The paper reports that expectations were more positive than the experience, that recollection was also more positive than the experience, and that negative thoughts rose during the event through distraction, disappointment and a less positive view of the self. That summary was read off the published abstract. The full text is paywalled and no open copy was found, so the sample sizes and the rating means are not printed here. Wirtz, Kruger, Scollon and Diener later ran the same three-phase design on an American spring break, with momentary reports collected during the trip.",
+  "evidence": "Mitchell, Thompson, Peterson and Cronk followed people through three real events: a trip to Europe, a Thanksgiving vacation and a three-week bicycle trip in California. Each group rated the event in anticipation, during it, and in recollection. The abstract reports expectations more positive than the experience, recollection also more positive than the experience, and a rise in negative thoughts during the event traced to distraction, disappointment and a less positive view of the self. It adds that these effects are short-lived and that people hold much more positive evaluations within days of the event. That summary was read off the abstract at PubMed. The full text is closed at Elsevier, so the sample sizes, the rating means and any disagreement between the three studies are not stated here. The 1994 chapter describes the same three studies while they were still running, and calls the European group senior citizens who went to Austria for a week. It reports only that initial analyses suggested the rosy phenomenon does occur. Wirtz, Kruger, Napa Scollon and Diener ran a three-phase design on an American spring break. Their abstract reports predicted and remembered experience both more positive and, in their own word, paradoxically more negative than the on-line reports, with remembered experience alone predicting the wish to repeat the trip. Later work compares in-the-moment ratings with later recall without the three-phase structure, and finds no general lift. Neubauer, Scott, Sliwinski and Smyth ran two experience sampling studies with end-of-day recall, on 242 and 175 adults. Retrospective negative affect ran above the aggregated momentary average in both, the rating-type coefficient being 3.052 on a 0 to 100 scale in the first study and 0.139 on a 1 to 7 scale in the second, each at p < .001. For positive affect the coefficient was 0.406 and not significant in the first study, and 0.050 at p < .05 in the second. Anvari, Moeck, Franco, Elson and Schneider gave 399 British adults five experience sampling surveys a day for a week, then asked them at the end of the week to rate each day from memory. Ratings made from memory sat below the ratings given on the day.",
   "replication": {
     "state": "mixed",
-    "headline": "No direct repeat of the 1997 field studies was found, and independent studies using the same momentary-versus-recall comparison have found the gap running in both directions.",
-    "detail": "Zurbriggen, Jendryczko and Nussbeck compared 120 Swiss adolescents' end-of-week recall of classroom affect against their momentary reports during lessons, at about age 12 and again three years later. At 12, recalled positive affect ran 0.207 scale units above the momentary average, p = .047, d = 0.412, which is the rosy pattern. At 15 the sign reversed: recalled negative affect ran 0.244 units above the momentary average, p = .032, d = 0.282, and recalled positive affect ran lower without reaching significance. The change between the two occasions was itself significant for both positive and negative affect. Wirtz, Kruger, Scollon and Diener found recalled spring break experience more positive than the momentary reports, and also more negative. The nearest thing to a settled replication record belongs to a neighbouring effect rather than to this one. Ritchie and seven colleagues found the fading affect bias in every one of ten cultures they sampled, using more than 2,400 event descriptions from 562 participants. Hoehne and Zimprich found it again in 12,314 memories from 2,163 German-speaking adults, where 39.7% of negative memories fell in intensity against 14.8% of positive ones.",
+    "headline": "No direct repeat of the 1997 field studies was located, and independent tests of the same momentary-versus-recall comparison disagree on the direction of the gap as well as its size.",
+    "detail": "Anvari and colleagues report the largest and most direct test found. Comparing recalled day ratings against the ratings people gave on the day, they get d = -0.18, 95% interval -0.23 to -0.13, t(361) = -7.50, p < .001 for negative affect, and d = -0.02, interval -0.06 to 0.01, t(361) = -1.25, p = .211 for positive affect. Comparing recalled momentary ratings against the first momentary rating of each day, positive affect gives d = -0.09, interval -0.13 to -0.05, p < .001. Every significant difference ran against a rosy lift. The same study reproduced the ordinary memory-experience gap, in which a rating for a longer window exceeds the average of ratings for shorter ones. Set against the momentary average, the week rating gave d = 0.46 for negative affect and d = 0.12 for positive affect. Zurbriggen, Jendryczko and Nussbeck compared 120 Swiss adolescents' end-of-week recall of classroom affect against their momentary reports during lessons, at about age 12 and again three years later. At 12, recalled positive affect ran 0.207 scale units above the momentary average, p = .047, d = 0.412, which is the rosy pattern, while recalled negative affect ran 0.154 units below it without reaching significance, p = .131, d = 0.269. At 15 the signs reversed. Recalled negative affect ran 0.244 units above the momentary average, p = .032, d = 0.282, and recalled positive affect ran 0.220 units lower at p = .058. The change between the two occasions was significant for both, p = .031 for positive and p = .018 for negative affect. Neubauer and colleagues found recalled negative affect above the momentary average in both their studies, which is the opposite of what the rosy account predicts for negative feeling. Miron-Shatz, Stone and Kahneman, using the Day Reconstruction Method on 810 and 615 women, report a day recalled as both more unpleasant and more pleasant than its episodes, with the larger gap for unpleasant emotion. Wirtz and colleagues found the same widening on spring break.",
     "study": {
-      "cite": "Zurbriggen, C. L. A., Jendryczko, D., & Nussbeck, F. W. (2021). Rosy or blue? Change in recall bias of students' affective experiences during early adolescence. Emotion, 21(8), 1637-1649.",
-      "doi": "10.1037/emo0001031",
-      "year": 2021,
-      "n": 120
+      "cite": "Anvari, F., Moeck, E. K., Franco, V. R., Elson, M., & Schneider, I. K. (2024). The \"memory-experience gap\" for affect does not reflect a general memory bias to overestimate past affect. Emotion, 24(8), 1950-1961.",
+      "doi": "10.1037/emo0001404",
+      "year": 2024,
+      "n": 399
     }
   },
-  "limits": "Mitchell and Thompson drew the boundaries themselves in 1994. They argued the rosy processes should appear for events that are generally positive, fairly self contained, free of large consequences, and under the person's own control, and not for a bar examination or a visit to the doctor. Two gaps in this entry are worth naming. The 1997 paper's sample sizes and rating means were not obtained: the article is closed at the publisher and Crossref, Unpaywall and OpenAlex list no open copy, so nothing quantitative from it appears above. The sample size in Wirtz and colleagues' study was not obtained either, because that paper was read only at abstract level. The fading affect bias figures quoted here describe how the emotion attached to a remembered event changes, which is a different measurement from how a holiday is rated, and they are not evidence for the 1997 studies. No preregistered test of the rosy view was found in a search of the SHARE index across OSF, OSF Registries and PsyArXiv, though the fading affect bias does have preregistered work there.",
-  "misreadings": "Rosy retrospection, the fading affect bias and the Pollyanna principle are three claims with three evidence bases, and they are habitually quoted as one. The 1997 field studies concern how an event is evaluated at three points in time. The fading affect bias concerns how the emotion attached to a remembered event changes, and it carries by far the larger record. The Pollyanna principle is a claim about language: Boucher and Osgood framed it in 1969, and Dodds and colleagues later tested it on human ratings of 100,000 words spread across 24 corpora in ten languages. The second error is reading memory as uniformly rosier. Wirtz and colleagues found recollection both more positive and more negative than the moment, which is a widening rather than a lift. The third is treating the fading affect bias as universal within a population. Walker and Skowronski's review reports that dysphoric participants showed no such bias, their pleasant and unpleasant emotion fading at the same rate, and attributes that result to a 2003 paper by Walker, Skowronski, Gibbons, Vogl and Thompson.",
+  "limits": "Mitchell and Thompson drew the boundaries themselves in 1994. They argued the rosy processes should appear for events that are generally positive, that people are personally involved in rather than observing, that are relatively self contained, that are mostly free of significant implications, and that people have some control over. Their own counter-examples are a legal bar examination, a football match and a visit to the doctor, where the outcome or the lack of control governs the evaluation. Several gaps are worth naming. The 1997 paper's sample sizes and rating means were not obtained. The article is closed at Elsevier, and Unpaywall, OpenAlex, Semantic Scholar and Europe PMC listed no open copy when checked on 17 August 2026, while the document-sharing pages that claim to host it did not serve it. Wirtz and colleagues' sample size was not obtained either. Unpaywall lists a submitted version in Singapore Management University's repository, and every attempt to retrieve it on 17 August 2026 was refused by that host, so that paper is quoted from its abstract only. The search for a direct repeat covered the 608 papers Semantic Scholar records as citing the 1997 study, Europe PMC, OSF Registrations and PsyArXiv, on 17 August 2026, and turned up none. The one OSF registration carrying the name in its title tests a word-memory bias against resilience rather than the three-phase design. The evidence assembled here is also not like for like. Neubauer, Anvari and Miron-Shatz measure recall of a day or a week of ordinary life rather than of one chosen event, and none of them ran the anticipation phase that makes the 1997 design what it is.",
+  "misreadings": "Rosy retrospection, the fading affect bias and the Pollyanna principle are three claims with three evidence bases, and they are habitually quoted as one. The 1997 field studies concern how a single event is evaluated at three points in time. The fading affect bias concerns how the emotion attached to a remembered event changes, and it carries by far the larger record, set out at entry 210. The Pollyanna principle is a claim about language, set out at entry 129. The second error is reading memory as uniformly rosier. Wirtz and colleagues found recollection both more positive and more negative than the moment, which is a widening rather than a lift, and Miron-Shatz and colleagues found the same shape on ordinary days. The third is treating the memory-experience gap as the same finding. That gap compares a rating for a long window against the average of ratings for short windows. Anvari and colleagues showed the two come apart, since the gap appeared in their data while ratings made purely from memory ran below the real-time ratings. The fourth is reading the peak-end rule, entry 76, as the mechanism. Neubauer and colleagues found the mean of the day explaining more of the retrospective rating than the peak or the last reading did, the peak adding 0.2% and 0.3% of unique within-person variance for negative affect across their two studies.",
   "sources": [
     {
-      "text": "Mitchell, T. R., & Thompson, L. (1994). A theory of temporal adjustments of the evaluation of events: Rosy prospection & rosy retrospection. Advances in Managerial Cognition and Organizational Information Processing, 5, 85-114. JAI Press. The chapter that names the three processes; read in full as a scanned copy.",
+      "text": "Mitchell, T. R., & Thompson, L. (1994). A theory of temporal adjustments of the evaluation of events: Rosy prospection & rosy retrospection. Advances in Managerial Cognition and Organizational Information Processing, 5, 85-114. JAI Press. The chapter that names the three processes. Read in full from a scanned copy, which carries no text layer and was put through optical character recognition for this entry.",
       "url": "https://web.mit.edu/curhan/www/docs/Articles/biases/Book_Chapter_Theory_of_Temporal_Adjustments.pdf",
       "type": "primary"
     },
@@ -39,46 +39,41 @@
       "type": "primary"
     },
     {
-      "text": "Wirtz, D., Kruger, J., Scollon, C. N., & Diener, E. (2003). What to do on spring break? The role of predicted, on-line, and remembered experience in future choice. Psychological Science, 14(5), 520-524. Read at abstract level only.",
+      "text": "Wirtz, D., Kruger, J., Napa Scollon, C., & Diener, E. (2003). What to do on spring break? The role of predicted, on-line, and remembered experience in future choice. Psychological Science, 14(5), 520-524. Read at abstract level only; the repository copy Unpaywall lists could not be retrieved.",
       "doi": "10.1111/1467-9280.03455",
       "url": "https://pubmed.ncbi.nlm.nih.gov/12930487/",
       "type": "replication"
     },
     {
-      "text": "Zurbriggen, C. L. A., Jendryczko, D., & Nussbeck, F. W. (2021). Rosy or blue? Change in recall bias of students' affective experiences during early adolescence. Emotion, 21(8), 1637-1649.",
+      "text": "Anvari, F., Moeck, E. K., Franco, V. R., Elson, M., & Schneider, I. K. (2024). The \"memory-experience gap\" for affect does not reflect a general memory bias to overestimate past affect. Emotion, 24(8), 1950-1961. Read in full from the authors' own copy posted at PsyArXiv, whose abstract matches the published abstract. The data collection procedure was preregistered; the hypotheses and analyses were not.",
+      "doi": "10.1037/emo0001404",
+      "url": "https://osf.io/preprints/psyarxiv/atw3v",
+      "type": "replication"
+    },
+    {
+      "text": "Neubauer, A. B., Scott, S. B., Sliwinski, M. J., & Smyth, J. M. (2020). How was your day? Convergence of aggregated momentary and retrospective end-of-day affect ratings across the adult life span. Journal of Personality and Social Psychology, 119(1), 185-203. Read in full from the author manuscript at PubMed Central. 245 people started study 1 and 242 were analysed; study 2 analysed 175 of the 214 who expressed interest.",
+      "doi": "10.1037/pspp0000248",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6842033/",
+      "type": "replication"
+    },
+    {
+      "text": "Zurbriggen, C. L. A., Jendryczko, D., & Nussbeck, F. W. (2021). Rosy or blue? Change in recall bias of students' affective experiences during early adolescence. Emotion, 21(8), 1637-1649. Read in full from the copy in the University of Luxembourg repository.",
       "doi": "10.1037/emo0001031",
-      "url": "https://doi.org/10.1037/emo0001031",
+      "url": "https://orbilu.uni.lu/handle/10993/49326",
       "type": "replication"
     },
     {
-      "text": "Walker, W. R., Vogl, R. J., & Thompson, C. P. (1997). Autobiographical memory: Unpleasantness fades faster than pleasantness over time. Applied Cognitive Psychology, 11(5), 399-413. The paper that established the fading affect bias.",
-      "doi": "10.1002/(SICI)1099-0720(199710)11:5<399::AID-ACP462>3.0.CO;2-E",
-      "type": "primary"
-    },
-    {
-      "text": "Walker, W. R., & Skowronski, J. J. (2009). The fading affect bias: But what the hell is it for? Applied Cognitive Psychology, 23(8), 1122-1136. Source for the breakdown of the bias in dysphoric participants, which it attributes to Walker, Skowronski, Gibbons, Vogl and Thompson (2003).",
-      "doi": "10.1002/acp.1614",
-      "url": "https://www.niu.edu/jskowronski/publications/walkerskowronski2009.pdf",
-      "type": "commentary"
-    },
-    {
-      "text": "Ritchie, T. D., Batteson, T. J., Bohn, A., Crawford, M. T., Ferguson, G., Schrauf, R. W., Vogl, R. J., & Walker, W. R. (2015). A pancultural perspective on the fading affect bias in autobiographical memory. Memory, 23(2), 278-290.",
-      "doi": "10.1080/09658211.2014.884138",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/24524255/",
+      "text": "Schmidt, P., Jendryczko, D., Zurbriggen, C. L. A., & Nussbeck, F. W. (2023). Recall bias of students' affective experiences in adolescence: The role of personality and internalizing behavior. Journal of Adolescence, 95(5), 893-906. Read at abstract level only. The same Swiss cohort at the later occasion, 118 students with a mean age of 15.15 and 1,059 momentary protocols, with the direction of the bias tracking extraversion and neuroticism.",
+      "doi": "10.1002/jad.12162",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36945192/",
       "type": "replication"
     },
     {
-      "text": "Hoehne, S., & Zimprich, D. (2025). Evidence for a fading affect bias in subjectively assessed affect changes in autobiographical memory. Frontiers in Psychology, 16.",
-      "doi": "10.3389/fpsyg.2025.1608751",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12336169/",
+      "text": "Miron-Shatz, T., Stone, A., & Kahneman, D. (2009). Memories of yesterday's emotions: Does the valence of experience affect the memory-experience gap? Emotion, 9(6), 885-891. Read at abstract level only, at PubMed and at Europe PMC.",
+      "doi": "10.1037/a0017823",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20001131/",
       "type": "replication"
-    },
-    {
-      "text": "Dodds, P. S., Clark, E. M., Desu, S., Frank, M. R., et al. (2015). Human language reveals a universal positivity bias. Proceedings of the National Academy of Sciences, 112(8), 2389-2394. Source for the Pollyanna hypothesis and its 1969 framing by Boucher and Osgood.",
-      "doi": "10.1073/pnas.1411678112",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4345622/",
-      "type": "commentary"
     }
   ],
-  "checkedOn": "2026-08-08"
+  "checkedOn": "2026-08-17"
 }
